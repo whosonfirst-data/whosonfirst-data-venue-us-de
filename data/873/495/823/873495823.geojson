@@ -1,0 +1,73 @@
+{
+  "id": 873495823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.39655,38.684688,-75.39655,38.684688",
+    "geom:latitude":38.684688,
+    "geom:longitude":-75.39655,
+    "iso:country":"US",
+    "sg:address":"110 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7522",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trust",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7l1W2Pd7VcqBQ4Yh0SlJG7_38.684688_-75.396550@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222766,
+    "wof:geomhash":"ed3177f6cb7e7d3cf74189fb1a29fb4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873495823
+        }
+    ],
+    "wof:id":873495823,
+    "wof:lastmodified":1464222766,
+    "wof:name":"Sussex County Land Trust",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trust",
+        "management"
+    ]
+},
+  "bbox": [
+    -75.39655,
+    38.684688,
+    -75.39655,
+    38.684688
+],
+  "geometry": {"coordinates":[-75.39655,38.684688],"type":"Point"}
+}

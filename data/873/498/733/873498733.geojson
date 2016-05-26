@@ -1,0 +1,69 @@
+{
+  "id": 873498733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.61033,39.745681,-75.61033,39.745681",
+    "geom:latitude":39.745681,
+    "geom:longitude":-75.61033,
+    "iso:country":"US",
+    "sg:address":"1721 W Gilpin Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 9486",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yDlt6RMGIQYLdfbRM5CEn_39.745681_-75.610330@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222890,
+    "wof:geomhash":"12796fa2a17562703832e254975c1fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873498733
+        }
+    ],
+    "wof:id":873498733,
+    "wof:lastmodified":1464222890,
+    "wof:name":"Laundry Co",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power"
+    ]
+},
+  "bbox": [
+    -75.61033,
+    39.745681,
+    -75.61033,
+    39.745681
+],
+  "geometry": {"coordinates":[-75.61033,39.745681],"type":"Point"}
+}

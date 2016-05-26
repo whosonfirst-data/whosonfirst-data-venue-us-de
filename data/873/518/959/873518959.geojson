@@ -1,0 +1,86 @@
+{
+  "id": 873518959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.66131,39.722104,-75.66131,39.722104",
+    "geom:latitude":39.722104,
+    "geom:longitude":-75.66131,
+    "iso:country":"US",
+    "sg:address":"4800 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 693 8996",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "part",
+        "used",
+        "new"
+    ],
+    "sg:website":"http://www.bcpcars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M5sRrE6fw7p5lW47jWMM8_39.722104_-75.661310@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223833,
+    "wof:geomhash":"8263f03dcf334acbee8f75b0c3c8cd6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873518959
+        }
+    ],
+    "wof:id":873518959,
+    "wof:lastmodified":1464223833,
+    "wof:name":"Brandywine Chrysler / Plymouth / Jeep",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "part",
+        "used",
+        "new"
+    ]
+},
+  "bbox": [
+    -75.66131,
+    39.722104,
+    -75.66131,
+    39.722104
+],
+  "geometry": {"coordinates":[-75.66131,39.722104],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873516795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556419,39.727379,-75.556419,39.727379",
+    "geom:latitude":39.727379,
+    "geom:longitude":-75.556419,
+    "iso:country":"US",
+    "sg:address":"1 James Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 4750",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "recap",
+        "retread",
+        "tire"
+    ],
+    "sg:website":"http://www.tiresplus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b88anWJxqbWcgnRTKA469_39.727379_-75.556419@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223708,
+    "wof:geomhash":"5aca22236686f9f456e1efc66556c132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873516795
+        }
+    ],
+    "wof:id":873516795,
+    "wof:lastmodified":1464223708,
+    "wof:name":"Dunrite Tires PLUS Wheels",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recap",
+        "retread",
+        "tire"
+    ]
+},
+  "bbox": [
+    -75.556419,
+    39.727379,
+    -75.556419,
+    39.727379
+],
+  "geometry": {"coordinates":[-75.55641900000001,39.727379],"type":"Point"}
+}

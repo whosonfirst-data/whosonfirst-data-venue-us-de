@@ -1,0 +1,73 @@
+{
+  "id": 873524177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662148,38.983593,-75.662148,38.983593",
+    "geom:latitude":38.983593,
+    "geom:longitude":-75.662148,
+    "iso:country":"US",
+    "sg:address":"286 Hills Market Rd B",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 3475",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e6nGX3EHJmpxKbwlof2QC_38.983593_-75.662148@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224047,
+    "wof:geomhash":"10076dd2df0798c415bc33c22fabb3b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524177
+        }
+    ],
+    "wof:id":873524177,
+    "wof:lastmodified":1464224047,
+    "wof:name":"Pardee Plumbing",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -75.662148,
+    38.983593,
+    -75.662148,
+    38.983593
+],
+  "geometry": {"coordinates":[-75.662148,38.983593],"type":"Point"}
+}

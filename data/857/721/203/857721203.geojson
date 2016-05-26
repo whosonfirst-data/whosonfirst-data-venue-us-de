@@ -1,0 +1,71 @@
+{
+  "id": 857721203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.386286,38.689806,-75.386286,38.689806",
+    "geom:latitude":38.689806,
+    "geom:longitude":-75.386286,
+    "iso:country":"US",
+    "sg:address":"8 W Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 3561",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BqFEdTn6t6aaA3eXZlYOT_38.689806_-75.386286@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221274,
+    "wof:geomhash":"851323f2f4014d2e4d80b82b521bdc62",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857721203
+        }
+    ],
+    "wof:id":857721203,
+    "wof:lastmodified":1464221274,
+    "wof:name":"Stumpf Vickers & Sandy Pa",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -75.386286,
+    38.689806,
+    -75.386286,
+    38.689806
+],
+  "geometry": {"coordinates":[-75.386286,38.689806],"type":"Point"}
+}

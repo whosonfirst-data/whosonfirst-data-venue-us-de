@@ -1,0 +1,76 @@
+{
+  "id": 873513987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518822,39.170948,-75.518822,39.170948",
+    "geom:latitude":39.170948,
+    "geom:longitude":-75.518822,
+    "iso:country":"US",
+    "sg:address":"283 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/109711-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 0427",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yYeFK8Fug0v6J2IajaOXO_39.170580_-75.518422@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223560,
+    "wof:geomhash":"f7d26c5ef5ce32b255e095ad057924be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873513987
+        }
+    ],
+    "wof:id":873513987,
+    "wof:lastmodified":1464223560,
+    "wof:name":"Subway",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.518822,
+    39.170948,
+    -75.518822,
+    39.170948
+],
+  "geometry": {"coordinates":[-75.518822,39.170948],"type":"Point"}
+}

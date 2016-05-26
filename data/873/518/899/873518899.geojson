@@ -1,0 +1,87 @@
+{
+  "id": 873518899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625362,39.733011,-75.625362,39.733011",
+    "geom:latitude":39.733011,
+    "geom:longitude":-75.625362,
+    "iso:country":"US",
+    "sg:address":"3321 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 4952",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hardwood",
+        "materials-wholesale",
+        "manufacturer",
+        "flooring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ehHoyDO5hfe3aeqhu1wi7_39.733011_-75.625362@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223831,
+    "wof:geomhash":"4b5e4094fbc96b2444f4baf7da050cab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518899
+        }
+    ],
+    "wof:id":873518899,
+    "wof:lastmodified":1464223831,
+    "wof:name":"Reavis Flooring",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hardwood",
+        "materials-wholesale",
+        "manufacturer",
+        "flooring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.625362,
+    39.733011,
+    -75.625362,
+    39.733011
+],
+  "geometry": {"coordinates":[-75.625362,39.733011],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873466669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567472,38.43606,-75.567472,38.43606",
+    "geom:latitude":38.43606,
+    "geom:longitude":-75.567472,
+    "iso:country":"US",
+    "sg:address":"8881 Bi State Blvd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 3481",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5O4gkomFBwammSOl7HA9I2_38.436060_-75.567472@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221607,
+    "wof:geomhash":"629ee7f47ab93cd2ac1a0fc8c7662a15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873466669
+        }
+    ],
+    "wof:id":873466669,
+    "wof:lastmodified":1464221607,
+    "wof:name":"Wolfe Homes Inc",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.567472,
+    38.43606,
+    -75.567472,
+    38.43606
+],
+  "geometry": {"coordinates":[-75.567472,38.43606],"type":"Point"}
+}

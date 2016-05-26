@@ -1,0 +1,87 @@
+{
+  "id": 873524913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.647713,38.64338,-75.647713,38.64338",
+    "geom:latitude":38.64338,
+    "geom:longitude":-75.647713,
+    "iso:country":"US",
+    "sg:address":"6095 Whitehurst Dr",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 1600",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor",
+        "hardware-builders",
+        "store",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A5W8ADwrb5jIZEFg0ka4Y_38.643380_-75.647713@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224075,
+    "wof:geomhash":"853ed00970e6b09259024e8186c1432b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873524913
+        }
+    ],
+    "wof:id":873524913,
+    "wof:lastmodified":1464224075,
+    "wof:name":"Delmarva Rigging & Supply",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "hardware-builders",
+        "store",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.647713,
+    38.64338,
+    -75.647713,
+    38.64338
+],
+  "geometry": {"coordinates":[-75.647713,38.64338],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857696203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567345,39.692401,-75.567345,39.692401",
+    "geom:latitude":39.692401,
+    "geom:longitude":-75.567345,
+    "iso:country":"US",
+    "sg:address":"15 McCullough Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 324 5100",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wPkABmqaJCGdhGEUIWISl_39.692401_-75.567345@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220740,
+    "wof:geomhash":"5221b81d9bd4e3b2e25313e8c91fd097",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857696203
+        }
+    ],
+    "wof:id":857696203,
+    "wof:lastmodified":1464220740,
+    "wof:name":"Mattei Corp",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.567345,
+    39.692401,
+    -75.567345,
+    39.692401
+],
+  "geometry": {"coordinates":[-75.567345,39.692401],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873520831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522227,39.151874,-75.522227,39.151874",
+    "geom:latitude":39.151874,
+    "geom:longitude":-75.522227,
+    "iso:country":"US",
+    "sg:address":"100 Scull Ter",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 346 3171",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.doversurgicenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VQPOyQ8Nf8Vo1LBCCnaJy_39.151874_-75.522227@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223919,
+    "wof:geomhash":"6afa7c98e4223f31941ab20f09e51e35",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873520831
+        }
+    ],
+    "wof:id":873520831,
+    "wof:lastmodified":1464223919,
+    "wof:name":"Dover Surgicenter",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.522227,
+    39.151874,
+    -75.522227,
+    39.151874
+],
+  "geometry": {"coordinates":[-75.522227,39.151874],"type":"Point"}
+}

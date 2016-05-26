@@ -1,0 +1,82 @@
+{
+  "id": 873516989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.51754,39.756186,-75.51754,39.756186",
+    "geom:latitude":39.756186,
+    "geom:longitude":-75.51754,
+    "iso:country":"US",
+    "sg:address":"319 E Lea Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 0405",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jNJCwoUttnjDbenP6s6Gr_39.756186_-75.517540@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223719,
+    "wof:geomhash":"12aba0fb31bc6674c3d32dfcc4837af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873516989
+        }
+    ],
+    "wof:id":873516989,
+    "wof:lastmodified":1464223719,
+    "wof:name":"Colony North",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -75.51754,
+    39.756186,
+    -75.51754,
+    39.756186
+],
+  "geometry": {"coordinates":[-75.51754,39.756186],"type":"Point"}
+}

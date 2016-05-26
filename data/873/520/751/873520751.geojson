@@ -1,0 +1,91 @@
+{
+  "id": 873520751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.509178,39.156281,-75.509178,39.156281",
+    "geom:latitude":39.156281,
+    "geom:longitude":-75.509178,
+    "iso:country":"US",
+    "sg:address":"550 S Bay Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 1500",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "homes",
+        "builder",
+        "contractor",
+        "modular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64SrEFhCRlMIYOG3NFAmuS_39.156281_-75.509178@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223915,
+    "wof:geomhash":"0ef99fcbb2bef8f6c4fb9ae05bfa221f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873520751
+        }
+    ],
+    "wof:id":873520751,
+    "wof:lastmodified":1464223915,
+    "wof:name":"Capitol Homes Inc",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "homes",
+        "builder",
+        "contractor",
+        "modular"
+    ]
+},
+  "bbox": [
+    -75.509178,
+    39.156281,
+    -75.509178,
+    39.156281
+],
+  "geometry": {"coordinates":[-75.50917800000001,39.156281],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873514671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.764023,39.583851,-75.764023,39.583851",
+    "geom:latitude":39.583851,
+    "geom:longitude":-75.764023,
+    "iso:country":"US",
+    "sg:address":"17 Dublin Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 1117",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YRC6qMixIOVM8c24D1Hpi_39.583851_-75.764023@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223608,
+    "wof:geomhash":"3cdcd703965f173c37ec18b1114dd919",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514671
+        }
+    ],
+    "wof:id":873514671,
+    "wof:lastmodified":1464223608,
+    "wof:name":"K E Troutman Electrical Contractor",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -75.764023,
+    39.583851,
+    -75.764023,
+    39.583851
+],
+  "geometry": {"coordinates":[-75.76402299999999,39.583851],"type":"Point"}
+}

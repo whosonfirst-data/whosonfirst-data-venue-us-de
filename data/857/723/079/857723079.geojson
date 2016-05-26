@@ -1,0 +1,71 @@
+{
+  "id": 857723079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54633,39.193545,-75.54633,39.193545",
+    "geom:latitude":39.193545,
+    "geom:longitude":-75.54633,
+    "iso:country":"US",
+    "sg:address":"1679 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 1818",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tZcFK11SVFTtHz3za1JYR_39.193545_-75.546330@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221308,
+    "wof:geomhash":"5493c4dd7f67273fd7989299d7ae7f68",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857723079
+        }
+    ],
+    "wof:id":857723079,
+    "wof:lastmodified":1464221308,
+    "wof:name":"Green Diamond Builders",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.54633,
+    39.193545,
+    -75.54633,
+    39.193545
+],
+  "geometry": {"coordinates":[-75.54633,39.193545],"type":"Point"}
+}

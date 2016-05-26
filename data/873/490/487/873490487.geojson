@@ -1,0 +1,71 @@
+{
+  "id": 873490487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.15385,38.71175,-75.15385,38.71175",
+    "geom:latitude":38.71175,
+    "geom:longitude":-75.15385,
+    "iso:country":"US",
+    "sg:address":"153 State Rd 24",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 1636",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "farm",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zRi7sfsEN87dSMpSjY2G3_38.711750_-75.153850@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222513,
+    "wof:geomhash":"08252c320b98db6225c25d43e73a53da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873490487
+        }
+    ],
+    "wof:id":873490487,
+    "wof:lastmodified":1464222513,
+    "wof:name":"Barn Yard",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "market"
+    ]
+},
+  "bbox": [
+    -75.15385,
+    38.71175,
+    -75.15385,
+    38.71175
+],
+  "geometry": {"coordinates":[-75.15385000000001,38.71175],"type":"Point"}
+}

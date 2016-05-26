@@ -1,0 +1,73 @@
+{
+  "id": 873467785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745436,39.68309,-75.745436,39.68309",
+    "geom:latitude":39.68309,
+    "geom:longitude":-75.745436,
+    "iso:country":"US",
+    "sg:address":"25 S Chapel St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 4941",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AojWX4FZoRVEz7xJchYcy_39.683090_-75.745436@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221645,
+    "wof:geomhash":"609af5405e5a3729afb11c03e58eeb61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873467785
+        }
+    ],
+    "wof:id":873467785,
+    "wof:lastmodified":1464221645,
+    "wof:name":"Chapel Street Motors",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.745436,
+    39.68309,
+    -75.745436,
+    39.68309
+],
+  "geometry": {"coordinates":[-75.745436,39.68309],"type":"Point"}
+}

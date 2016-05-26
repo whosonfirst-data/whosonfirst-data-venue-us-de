@@ -1,0 +1,71 @@
+{
+  "id": 857695875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.307406,38.59069,-75.307406,38.59069",
+    "geom:latitude":38.59069,
+    "geom:longitude":-75.307406,
+    "iso:country":"US",
+    "sg:address":"79 Oak Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 7783",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SXCSUtYCDiSNnMhYJExDs_38.590690_-75.307406@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220734,
+    "wof:geomhash":"008763468952dc3db393bbff2972ef63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857695875
+        }
+    ],
+    "wof:id":857695875,
+    "wof:lastmodified":1464220734,
+    "wof:name":"Melanie Marshall",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse"
+    ]
+},
+  "bbox": [
+    -75.307406,
+    38.59069,
+    -75.307406,
+    38.59069
+],
+  "geometry": {"coordinates":[-75.307406,38.59069],"type":"Point"}
+}

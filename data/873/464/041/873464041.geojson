@@ -1,0 +1,73 @@
+{
+  "id": 873464041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.75724,39.603731,-75.75724,39.603731",
+    "geom:latitude":39.603731,
+    "geom:longitude":-75.75724,
+    "iso:country":"US",
+    "sg:address":"2695 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 0270",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EYtMX2hfLwbGHVmbTbnnx_39.603731_-75.757240@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221547,
+    "wof:geomhash":"462f15ea1525ec6144453a59684334de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873464041
+        }
+    ],
+    "wof:id":873464041,
+    "wof:lastmodified":1464221547,
+    "wof:name":"40 Cleaners",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.75724,
+    39.603731,
+    -75.75724,
+    39.603731
+],
+  "geometry": {"coordinates":[-75.75724,39.603731],"type":"Point"}
+}

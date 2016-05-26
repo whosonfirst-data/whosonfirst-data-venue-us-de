@@ -1,0 +1,73 @@
+{
+  "id": 873471837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.516821,39.166029,-75.516821,39.166029",
+    "geom:latitude":39.166029,
+    "geom:longitude":-75.516821,
+    "iso:country":"US",
+    "sg:address":"178 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5534",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YEsGP9eC6ZAFC0TcAsSDx_39.166029_-75.516821@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221799,
+    "wof:geomhash":"cda6c9f1244d30f18b3e7222bc18abf4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873471837
+        }
+    ],
+    "wof:id":873471837,
+    "wof:lastmodified":1464221799,
+    "wof:name":"Capitol Cleaners Inc",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.516821,
+    39.166029,
+    -75.516821,
+    39.166029
+],
+  "geometry": {"coordinates":[-75.51682099999999,39.166029],"type":"Point"}
+}

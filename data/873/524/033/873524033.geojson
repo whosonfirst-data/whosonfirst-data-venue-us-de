@@ -1,0 +1,80 @@
+{
+  "id": 873524033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.385764,38.6897,-75.385764,38.6897",
+    "geom:latitude":38.6897,
+    "geom:longitude":-75.385764,
+    "iso:country":"US",
+    "sg:address":"13 The Cir",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 4231",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5McoXks139dEq9wqUheLfW_38.689700_-75.385764@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224041,
+    "wof:geomhash":"4c064153b0ff22a43efeddcce2212851",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524033
+        }
+    ],
+    "wof:id":873524033,
+    "wof:lastmodified":1464224041,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [
+    -75.385764,
+    38.6897,
+    -75.385764,
+    38.6897
+],
+  "geometry": {"coordinates":[-75.38576399999999,38.6897],"type":"Point"}
+}

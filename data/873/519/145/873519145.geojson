@@ -1,0 +1,84 @@
+{
+  "id": 873519145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.629021,39.734589,-75.629021,39.734589",
+    "geom:latitude":39.734589,
+    "geom:longitude":-75.629021,
+    "iso:country":"US",
+    "sg:address":"1900 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Farmers Market",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 636 0300",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "vegetable",
+        "basket",
+        "fruit"
+    ],
+    "sg:website":"http://www.fruitflowers.com/DE-IDEARC.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40kmBqODhQLLxvrZyhV0wC_39.734589_-75.629021@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223840,
+    "wof:geomhash":"56b54ae9b418dc6d567207ff5967a9e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873519145
+        }
+    ],
+    "wof:id":873519145,
+    "wof:lastmodified":1464223840,
+    "wof:name":"FruitFlowers // Incredibly Edible Delites Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vegetable",
+        "basket",
+        "fruit"
+    ]
+},
+  "bbox": [
+    -75.629021,
+    39.734589,
+    -75.629021,
+    39.734589
+],
+  "geometry": {"coordinates":[-75.62902099999999,39.734589],"type":"Point"}
+}

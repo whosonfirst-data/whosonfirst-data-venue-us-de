@@ -1,0 +1,72 @@
+{
+  "id": 873513769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.107454,38.536055,-75.107454,38.536055",
+    "geom:latitude":38.536055,
+    "geom:longitude":-75.107454,
+    "iso:country":"US",
+    "sg:address":"7 Clubhouse Dr",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/selbyville-frankford/268775-the-bistro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 3570",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3231ZzCcHwl0wkI3tHMUbH_38.536055_-75.107454@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223547,
+    "wof:geomhash":"2ca711551d562cd579cba96f8695e453",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873513769
+        }
+    ],
+    "wof:id":873513769,
+    "wof:lastmodified":1464223547,
+    "wof:name":"The Bistro",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.107454,
+    38.536055,
+    -75.107454,
+    38.536055
+],
+  "geometry": {"coordinates":[-75.107454,38.536055],"type":"Point"}
+}

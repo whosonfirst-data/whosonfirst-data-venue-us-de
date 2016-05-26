@@ -1,0 +1,76 @@
+{
+  "id": 873512603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.534302,39.119099,-75.534302,39.119099",
+    "geom:latitude":39.119099,
+    "geom:longitude":-75.534302,
+    "iso:country":"US",
+    "sg:address":"2109 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3273",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plant",
+        "flower"
+    ],
+    "sg:website":"www.jenmor.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Okx9nAy6wo0yulEqupM4K_39.119513_-75.534200@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223497,
+    "wof:geomhash":"47f9c2dff365218c65244c7f09e27cbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":873512603
+        }
+    ],
+    "wof:id":873512603,
+    "wof:lastmodified":1464223497,
+    "wof:name":"Jen-Mor Florists",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plant",
+        "flower"
+    ]
+},
+  "bbox": [
+    -75.534302,
+    39.119099,
+    -75.534302,
+    39.119099
+],
+  "geometry": {"coordinates":[-75.534302,39.119099],"type":"Point"}
+}

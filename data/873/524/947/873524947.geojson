@@ -1,0 +1,89 @@
+{
+  "id": 873524947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59433,38.658749,-75.59433,38.658749",
+    "geom:latitude":38.658749,
+    "geom:longitude":-75.59433,
+    "iso:country":"US",
+    "sg:address":"22970 Sussex Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "men's",
+        "women's",
+        "apparel",
+        "clothing",
+        "boys'",
+        "sportswear"
+    ],
+    "sg:website":"http://www.peebles.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3By2j0Jdr59rW1wvKfYQWr_38.658749_-75.594330@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224077,
+    "wof:geomhash":"102addb8ec9c93ca9d451bd39aa02867",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873524947
+        }
+    ],
+    "wof:id":873524947,
+    "wof:lastmodified":1464224077,
+    "wof:name":"Peebles Stores Exclusive Offer",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men's",
+        "women's",
+        "apparel",
+        "clothing",
+        "boys'",
+        "sportswear"
+    ]
+},
+  "bbox": [
+    -75.59433,
+    38.658749,
+    -75.59433,
+    38.658749
+],
+  "geometry": {"coordinates":[-75.59433,38.658749],"type":"Point"}
+}

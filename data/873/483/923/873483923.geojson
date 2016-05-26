@@ -1,0 +1,77 @@
+{
+  "id": 873483923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.721385,39.653387,-75.721385,39.653387",
+    "geom:latitude":39.653387,
+    "geom:longitude":-75.721385,
+    "iso:country":"US",
+    "sg:address":"955 Dawson Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 8814",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54TnBlK2YLqPwWOWYTk3oR_39.653387_-75.721385@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222267,
+    "wof:geomhash":"9de3fa136fad79bc80c75315bdba9225",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873483923
+        }
+    ],
+    "wof:id":873483923,
+    "wof:lastmodified":1464222267,
+    "wof:name":"Fenkell Autoglass",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -75.721385,
+    39.653387,
+    -75.721385,
+    39.653387
+],
+  "geometry": {"coordinates":[-75.721385,39.653387],"type":"Point"}
+}

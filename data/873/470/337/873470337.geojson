@@ -1,0 +1,71 @@
+{
+  "id": 873470337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.689911,39.681035,-75.689911,39.681035",
+    "geom:latitude":39.681035,
+    "geom:longitude":-75.689911,
+    "iso:country":"US",
+    "sg:address":"6 Allandale Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 9309",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EXYd2r1oLSpCRsizwGxmG_39.681035_-75.689911@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221742,
+    "wof:geomhash":"929016e1e06abd00ca631eab74371bff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873470337
+        }
+    ],
+    "wof:id":873470337,
+    "wof:lastmodified":1464221742,
+    "wof:name":"Robert F Murray Rental Propert",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.689911,
+    39.681035,
+    -75.689911,
+    39.681035
+],
+  "geometry": {"coordinates":[-75.689911,39.681035],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 873523601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556662,39.118198,-75.556662,39.118198",
+    "geom:latitude":39.118198,
+    "geom:longitude":-75.556662,
+    "iso:country":"US",
+    "sg:address":"107 Broad St",
+    "sg:city":"Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 1800",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "churches-christian",
+        "science",
+        "denomination",
+        "churches-religious",
+        "churches-interdenominational",
+        "churches-various"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DdDaFO2MVO0mHSddptJjG_39.118198_-75.556662@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224025,
+    "wof:geomhash":"084b4ec49d79409287b457d8fa38f08c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523601
+        }
+    ],
+    "wof:id":873523601,
+    "wof:lastmodified":1464224025,
+    "wof:name":"Bread Of Life Christian Church",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-christian",
+        "science",
+        "denomination",
+        "churches-religious",
+        "churches-interdenominational",
+        "churches-various"
+    ]
+},
+  "bbox": [
+    -75.556662,
+    39.118198,
+    -75.556662,
+    39.118198
+],
+  "geometry": {"coordinates":[-75.556662,39.118198],"type":"Point"}
+}

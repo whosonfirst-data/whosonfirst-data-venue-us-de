@@ -1,0 +1,75 @@
+{
+  "id": 857702107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577548,39.749261,-75.577548,39.749261",
+    "geom:latitude":39.749261,
+    "geom:longitude":-75.577548,
+    "iso:country":"US",
+    "sg:address":"209 Woodlawn Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 6867",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TTJ45fc2h6cb7QRqddaJK_39.749261_-75.577548@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220862,
+    "wof:geomhash":"478ae57dc24eb324c1d0afd4fda48360",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":857702107
+        }
+    ],
+    "wof:id":857702107,
+    "wof:lastmodified":1464220862,
+    "wof:name":"D & D Construction",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.577548,
+    39.749261,
+    -75.577548,
+    39.749261
+],
+  "geometry": {"coordinates":[-75.57754799999999,39.749261],"type":"Point"}
+}

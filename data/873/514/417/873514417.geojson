@@ -1,0 +1,82 @@
+{
+  "id": 873514417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.659533,39.640377,-75.659533,39.640377",
+    "geom:latitude":39.640377,
+    "geom:longitude":-75.659533,
+    "iso:country":"US",
+    "sg:address":"21 Saratoga Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 290 7777",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "chauffeur",
+        "limousine"
+    ],
+    "sg:website":"http://www.elitecab.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yLnSInk8i5UDMiD1kwP1J_39.640377_-75.659533@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223588,
+    "wof:geomhash":"c57b3dc7a7867e408ecd59aac4af51f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514417
+        }
+    ],
+    "wof:id":873514417,
+    "wof:lastmodified":1464223588,
+    "wof:name":"Elite Taxicab and Limousine",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chauffeur",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -75.659533,
+    39.640377,
+    -75.659533,
+    39.640377
+],
+  "geometry": {"coordinates":[-75.659533,39.640377],"type":"Point"}
+}

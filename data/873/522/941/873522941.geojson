@@ -1,0 +1,71 @@
+{
+  "id": 873522941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525398,39.1423,-75.525398,39.1423",
+    "geom:latitude":39.1423,
+    "geom:longitude":-75.525398,
+    "iso:country":"US",
+    "sg:address":"1025 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 9150",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t4MXSEN5qQVKMF8DiNt87_39.142300_-75.525398@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224003,
+    "wof:geomhash":"79264daf1a2f4ef3f760a03ef82bdeb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873522941
+        }
+    ],
+    "wof:id":873522941,
+    "wof:lastmodified":1464224003,
+    "wof:name":"Bongalos Ciriaco G Jr MD",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -75.525398,
+    39.1423,
+    -75.525398,
+    39.1423
+],
+  "geometry": {"coordinates":[-75.525398,39.1423],"type":"Point"}
+}

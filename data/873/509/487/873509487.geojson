@@ -1,0 +1,71 @@
+{
+  "id": 873509487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.77167,39.64493,-75.77167,39.64493",
+    "geom:latitude":39.64493,
+    "geom:longitude":-75.77167,
+    "iso:country":"US",
+    "sg:address":"1019 White Birch Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 8004",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00dj7IvvaGUzYlmvV47bmL_39.644930_-75.771670@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223351,
+    "wof:geomhash":"07ef87185c3e23d4787d1eb81ae9a2c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873509487
+        }
+    ],
+    "wof:id":873509487,
+    "wof:lastmodified":1464223351,
+    "wof:name":"B J's Construction",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.77167,
+    39.64493,
+    -75.77167,
+    39.64493
+],
+  "geometry": {"coordinates":[-75.77167,39.64493],"type":"Point"}
+}

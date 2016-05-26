@@ -1,0 +1,76 @@
+{
+  "id": 873517281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525398,39.797501,-75.525398,39.797501",
+    "geom:latitude":39.797501,
+    "geom:longitude":-75.525398,
+    "iso:country":"US",
+    "sg:address":"1303 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1830",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t6laDTOq7LYWzdrQtKF0A_39.797501_-75.525398@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223747,
+    "wof:geomhash":"c5455448b864a7b4a9442d2ef420568d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873517281
+        }
+    ],
+    "wof:id":873517281,
+    "wof:lastmodified":1464223747,
+    "wof:name":"Kozma Frederick Jr PHD",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -75.525398,
+    39.797501,
+    -75.525398,
+    39.797501
+],
+  "geometry": {"coordinates":[-75.525398,39.797501],"type":"Point"}
+}

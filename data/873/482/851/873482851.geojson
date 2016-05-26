@@ -1,0 +1,64 @@
+{
+  "id": 873482851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.695515,39.667685,-75.695515,39.667685",
+    "geom:latitude":39.667685,
+    "geom:longitude":-75.695515,
+    "iso:country":"US",
+    "sg:address":"16 Salem Village Sq",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 8788",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75R6QYDbOSPBv2N94OS9XV_39.667685_-75.695515@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222225,
+    "wof:geomhash":"0b7b5296688ab8b5081a2fda61a50eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873482851
+        }
+    ],
+    "wof:id":873482851,
+    "wof:lastmodified":1464222225,
+    "wof:name":"Salem Dry Cleaners",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.695515,
+    39.667685,
+    -75.695515,
+    39.667685
+],
+  "geometry": {"coordinates":[-75.695515,39.667685],"type":"Point"}
+}

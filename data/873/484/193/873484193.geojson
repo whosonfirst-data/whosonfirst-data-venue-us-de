@@ -1,0 +1,71 @@
+{
+  "id": 873484193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.681887,39.709261,-75.681887,39.709261",
+    "geom:latitude":39.709261,
+    "geom:longitude":-75.681887,
+    "iso:country":"US",
+    "sg:address":"2707 Kirkwood Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 1222",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MQKhxd7PN3uQsLyj76AFV_39.709261_-75.681887@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222278,
+    "wof:geomhash":"ced2cc1377ab09e019a4276664ad9f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873484193
+        }
+    ],
+    "wof:id":873484193,
+    "wof:lastmodified":1464222278,
+    "wof:name":"Chantel Imran MD",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.681887,
+    39.709261,
+    -75.681887,
+    39.709261
+],
+  "geometry": {"coordinates":[-75.681887,39.709261],"type":"Point"}
+}

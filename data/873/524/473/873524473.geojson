@@ -1,0 +1,83 @@
+{
+  "id": 873524473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.165309,38.751351,-75.165309,38.751351",
+    "geom:latitude":38.751351,
+    "geom:longitude":-75.165309,
+    "iso:country":"US",
+    "sg:address":"1604 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 8998",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hCNOVzeB332cZQ02ZcuaI_38.751351_-75.165309@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224059,
+    "wof:geomhash":"5325e1437b63248e6bf55efdf68cb433",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873524473
+        }
+    ],
+    "wof:id":873524473,
+    "wof:lastmodified":1464224059,
+    "wof:name":"Capriotti's Sandwich Shop",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "delicatessen",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.165309,
+    38.751351,
+    -75.165309,
+    38.751351
+],
+  "geometry": {"coordinates":[-75.16530899999999,38.751351],"type":"Point"}
+}

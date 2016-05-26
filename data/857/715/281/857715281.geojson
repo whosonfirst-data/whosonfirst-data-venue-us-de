@@ -1,0 +1,71 @@
+{
+  "id": 857715281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.390384,38.695602,-75.390384,38.695602",
+    "geom:latitude":38.695602,
+    "geom:longitude":-75.390384,
+    "iso:country":"US",
+    "sg:address":"319 N Race St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 9262",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ywPcAuGmoc14X8PeuZ5XO_38.695602_-75.390384@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221153,
+    "wof:geomhash":"275f4e1b36993b987e37087de24d4cff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857715281
+        }
+    ],
+    "wof:id":857715281,
+    "wof:lastmodified":1464221153,
+    "wof:name":"Sussex County Mission",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -75.390384,
+    38.695602,
+    -75.390384,
+    38.695602
+],
+  "geometry": {"coordinates":[-75.390384,38.695602],"type":"Point"}
+}

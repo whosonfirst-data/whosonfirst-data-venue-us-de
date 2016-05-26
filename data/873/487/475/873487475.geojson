@@ -1,0 +1,73 @@
+{
+  "id": 873487475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586361,39.751522,-75.586361,39.751522",
+    "geom:latitude":39.751522,
+    "geom:longitude":-75.586361,
+    "iso:country":"US",
+    "sg:address":"3110 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 8726",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59zIXEj9gHiMLItpeuCX39_39.751522_-75.586361@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222396,
+    "wof:geomhash":"4f831244c3ce3cc84787449d4003e08e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873487475
+        }
+    ],
+    "wof:id":873487475,
+    "wof:lastmodified":1464222396,
+    "wof:name":"William G Robelen Inc",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.586361,
+    39.751522,
+    -75.586361,
+    39.751522
+],
+  "geometry": {"coordinates":[-75.586361,39.751522],"type":"Point"}
+}

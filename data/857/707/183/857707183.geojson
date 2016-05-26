@@ -1,0 +1,71 @@
+{
+  "id": 857707183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.488029,39.812576,-75.488029,39.812576",
+    "geom:latitude":39.812576,
+    "geom:longitude":-75.488029,
+    "iso:country":"US",
+    "sg:address":"2215 Little Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 1516",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "programming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38nSasH9wivl2ZpRxXhiVl_39.812576_-75.488029@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220953,
+    "wof:geomhash":"bf172de974e389a8bf45a091dc884ed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857707183
+        }
+    ],
+    "wof:id":857707183,
+    "wof:lastmodified":1464220953,
+    "wof:name":"Faux Real",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming"
+    ]
+},
+  "bbox": [
+    -75.488029,
+    39.812576,
+    -75.488029,
+    39.812576
+],
+  "geometry": {"coordinates":[-75.488029,39.812576],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873470985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.737922,39.686724,-75.737922,39.686724",
+    "geom:latitude":39.686724,
+    "geom:longitude":-75.737922,
+    "iso:country":"US",
+    "sg:address":"300 E Cleveland Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 2415",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "sg:website":"www.winnerauto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KuoBBtY4FwF14sPMNH3nD_39.686724_-75.737922@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221768,
+    "wof:geomhash":"1e9139587c92dd87b4612c05c27eb23e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873470985
+        }
+    ],
+    "wof:id":873470985,
+    "wof:lastmodified":1464221768,
+    "wof:name":"Winner Automotive Group",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.737922,
+    39.686724,
+    -75.737922,
+    39.686724
+],
+  "geometry": {"coordinates":[-75.737922,39.686724],"type":"Point"}
+}

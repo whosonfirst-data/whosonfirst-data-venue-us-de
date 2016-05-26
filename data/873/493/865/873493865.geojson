@@ -1,0 +1,73 @@
+{
+  "id": 873493865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561881,39.204531,-75.561881,39.204531",
+    "geom:latitude":39.204531,
+    "geom:longitude":-75.561881,
+    "iso:country":"US",
+    "sg:address":"3799 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 4281",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aILNsVrYNlT1sUnKkgi3R_39.204531_-75.561881@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222645,
+    "wof:geomhash":"4a7502797d9bbaf15b9a0125be2884d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873493865
+        }
+    ],
+    "wof:id":873493865,
+    "wof:lastmodified":1464222645,
+    "wof:name":"Service Plumbing & Septic",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.561881,
+    39.204531,
+    -75.561881,
+    39.204531
+],
+  "geometry": {"coordinates":[-75.561881,39.204531],"type":"Point"}
+}

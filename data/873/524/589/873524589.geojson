@@ -1,0 +1,71 @@
+{
+  "id": 873524589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.129773,38.627786,-75.129773,38.627786",
+    "geom:latitude":38.627786,
+    "geom:longitude":-75.129773,
+    "iso:country":"US",
+    "sg:address":"26277 Cove Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 270 2749",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DP3ZumRvsG5QPMyzaIPa3_38.627786_-75.129773@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224063,
+    "wof:geomhash":"0b07c4774189f84a09a2bb8cfdded915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873524589
+        }
+    ],
+    "wof:id":873524589,
+    "wof:lastmodified":1464224063,
+    "wof:name":"Wj Excavation",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.129773,
+    38.627786,
+    -75.129773,
+    38.627786
+],
+  "geometry": {"coordinates":[-75.129773,38.627786],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873468211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.225966,38.458004,-75.225966,38.458004",
+    "geom:latitude":38.458004,
+    "geom:longitude":-75.225966,
+    "iso:country":"US",
+    "sg:address":"58 Church St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 9336",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3idu3JmE34pl94M65Onll3_38.458004_-75.225966@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221659,
+    "wof:geomhash":"451cd86ef94a2ad0c50355c8e3040261",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873468211
+        }
+    ],
+    "wof:id":873468211,
+    "wof:lastmodified":1464221659,
+    "wof:name":"Vector Security",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "alarm",
+        "system"
+    ]
+},
+  "bbox": [
+    -75.225966,
+    38.458004,
+    -75.225966,
+    38.458004
+],
+  "geometry": {"coordinates":[-75.225966,38.458004],"type":"Point"}
+}

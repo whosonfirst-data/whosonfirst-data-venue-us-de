@@ -1,0 +1,71 @@
+{
+  "id": 873502397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.101637,38.549743,-75.101637,38.549743",
+    "geom:latitude":38.549743,
+    "geom:longitude":-75.101637,
+    "iso:country":"US",
+    "sg:address":"11 Grants Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 4665",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nY3NVGXouWNVYHXxm4t1A_38.549743_-75.101637@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223043,
+    "wof:geomhash":"328f7be9106fd8afda236fd261b863df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873502397
+        }
+    ],
+    "wof:id":873502397,
+    "wof:lastmodified":1464223043,
+    "wof:name":"Aspen Mortgage Services",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.101637,
+    38.549743,
+    -75.101637,
+    38.549743
+],
+  "geometry": {"coordinates":[-75.101637,38.549743],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873491721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.624336,38.796443,-75.624336,38.796443",
+    "geom:latitude":38.796443,
+    "geom:longitude":-75.624336,
+    "iso:country":"US",
+    "sg:address":"6999 Scotts Store Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 9309",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JFzQfbhtLohbhWJCwOn4e_38.796443_-75.624336@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222557,
+    "wof:geomhash":"5b08713ff3ef5fb4dbde7a75e7e76cf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873491721
+        }
+    ],
+    "wof:id":873491721,
+    "wof:lastmodified":1464222557,
+    "wof:name":"Silvana Line",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -75.624336,
+    38.796443,
+    -75.624336,
+    38.796443
+],
+  "geometry": {"coordinates":[-75.624336,38.796443],"type":"Point"}
+}

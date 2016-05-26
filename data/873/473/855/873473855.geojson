@@ -1,0 +1,68 @@
+{
+  "id": 873473855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542273,39.720675,-75.542273,39.720675",
+    "geom:latitude":39.720675,
+    "geom:longitude":-75.542273,
+    "iso:country":"US",
+    "sg:address":"3 Terminal Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 973 596 1880",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LLsKklEC2GE0Akx7BBIf9_39.720675_-75.542273@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221876,
+    "wof:geomhash":"790cafa31308cd6746dd0f5281fe9585",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":873473855
+        }
+    ],
+    "wof:id":873473855,
+    "wof:lastmodified":1464221876,
+    "wof:name":"Steak Escape",
+    "wof:parent_id":85833991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.542273,
+    39.720675,
+    -75.542273,
+    39.720675
+],
+  "geometry": {"coordinates":[-75.54227299999999,39.720675],"type":"Point"}
+}

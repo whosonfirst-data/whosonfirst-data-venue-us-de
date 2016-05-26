@@ -1,0 +1,68 @@
+{
+  "id": 873480733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543855,39.161979,-75.543855,39.161979",
+    "geom:latitude":39.161979,
+    "geom:longitude":-75.543855,
+    "iso:country":"US",
+    "sg:address":"221 Saulsbury Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 4100",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bqCDAXyRRMUj54u0VgIQo_39.161979_-75.543855@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222145,
+    "wof:geomhash":"e733c50deb9b64feb10bbcc076628f01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873480733
+        }
+    ],
+    "wof:id":873480733,
+    "wof:lastmodified":1464222145,
+    "wof:name":"Blood Bank Of Delaware",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.543855,
+    39.161979,
+    -75.543855,
+    39.161979
+],
+  "geometry": {"coordinates":[-75.54385499999999,39.161979],"type":"Point"}
+}

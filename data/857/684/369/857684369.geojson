@@ -1,0 +1,73 @@
+{
+  "id": 857684369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.382166,38.692904,-75.382166,38.692904",
+    "geom:latitude":38.692904,
+    "geom:longitude":-75.382166,
+    "iso:country":"US",
+    "sg:address":"431 E Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 9515",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "crisis",
+        "intervention"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0qNSlD9vlFlty94U0b6noY_38.692904_-75.382166@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220510,
+    "wof:geomhash":"4093b01c655891a88896cf1209b6e6a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857684369
+        }
+    ],
+    "wof:id":857684369,
+    "wof:lastmodified":1464220510,
+    "wof:name":"Abriendo Puertas",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crisis",
+        "intervention"
+    ]
+},
+  "bbox": [
+    -75.382166,
+    38.692904,
+    -75.382166,
+    38.692904
+],
+  "geometry": {"coordinates":[-75.382166,38.692904],"type":"Point"}
+}

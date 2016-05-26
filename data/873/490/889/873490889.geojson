@@ -1,0 +1,71 @@
+{
+  "id": 873490889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577933,39.673556,-75.577933,39.673556",
+    "geom:latitude":39.673556,
+    "geom:longitude":-75.577933,
+    "iso:country":"US",
+    "sg:address":"94 Notre Dame Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 9266",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1COdTlH9bfnIyCs0ZaihR8_39.673556_-75.577933@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222527,
+    "wof:geomhash":"13352adbaed289fe5730bad6069662b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873490889
+        }
+    ],
+    "wof:id":873490889,
+    "wof:lastmodified":1464222527,
+    "wof:name":"Lone Eagle Cleaning Services",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.577933,
+    39.673556,
+    -75.577933,
+    39.673556
+],
+  "geometry": {"coordinates":[-75.577933,39.673556],"type":"Point"}
+}

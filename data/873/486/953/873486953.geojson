@@ -1,0 +1,71 @@
+{
+  "id": 873486953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.308257,38.77569,-75.308257,38.77569",
+    "geom:latitude":38.77569,
+    "geom:longitude":-75.308257,
+    "iso:country":"US",
+    "sg:address":"318 Mill St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 4418",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l7v6nAAj5gjpejZVwYdiH_38.775690_-75.308257@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222376,
+    "wof:geomhash":"6c1b1a51aa0ad1db281144cf4b0ef251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873486953
+        }
+    ],
+    "wof:id":873486953,
+    "wof:lastmodified":1464222376,
+    "wof:name":"Moore Builders",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.308257,
+    38.77569,
+    -75.308257,
+    38.77569
+],
+  "geometry": {"coordinates":[-75.308257,38.77569],"type":"Point"}
+}

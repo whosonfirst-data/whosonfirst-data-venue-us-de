@@ -1,0 +1,71 @@
+{
+  "id": 857706637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.64547,39.139809,-75.64547,39.139809",
+    "geom:latitude":39.139809,
+    "geom:longitude":-75.64547,
+    "iso:country":"US",
+    "sg:address":"1191 Pearsons Corner Rd",
+    "sg:city":"Hartly",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 1665",
+    "sg:postcode":"19953",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wFCqWqJe2vwwClefys6rp_39.139809_-75.645470@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220943,
+    "wof:geomhash":"27fe1ad7a919d430033b641c708009c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":857706637
+        }
+    ],
+    "wof:id":857706637,
+    "wof:lastmodified":1464220943,
+    "wof:name":"Swartzentruber Sawmill Co",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -75.64547,
+    39.139809,
+    -75.64547,
+    39.139809
+],
+  "geometry": {"coordinates":[-75.64547,39.139809],"type":"Point"}
+}

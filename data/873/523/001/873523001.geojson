@@ -1,0 +1,68 @@
+{
+  "id": 873523001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523604,39.149956,-75.523604,39.149956",
+    "geom:latitude":39.149956,
+    "geom:longitude":-75.523604,
+    "iso:country":"US",
+    "sg:address":"807 S Bradford St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 3935",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77CaAEIyDCbNXnO5kiJbW4_39.149956_-75.523604@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224005,
+    "wof:geomhash":"ee9caef14bf9c9b7387d720c66972ba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873523001
+        }
+    ],
+    "wof:id":873523001,
+    "wof:lastmodified":1464224005,
+    "wof:name":"Zambrano Juan B MD",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.523604,
+    39.149956,
+    -75.523604,
+    39.149956
+],
+  "geometry": {"coordinates":[-75.52360400000001,39.149956],"type":"Point"}
+}

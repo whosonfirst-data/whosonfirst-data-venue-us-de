@@ -1,0 +1,73 @@
+{
+  "id": 873504467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.706042,38.740399,-75.706042,38.740399",
+    "geom:latitude":38.740399,
+    "geom:longitude":-75.706042,
+    "iso:country":"US",
+    "sg:address":"2659 Dublin Hill Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3655",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zMcNzjcyzylSOxCoRf1Yr_38.740399_-75.706042@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223125,
+    "wof:geomhash":"c903e20471b35926b7b396a450c171b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873504467
+        }
+    ],
+    "wof:id":873504467,
+    "wof:lastmodified":1464223125,
+    "wof:name":"Higgins Farm Home",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.706042,
+    38.740399,
+    -75.706042,
+    38.740399
+],
+  "geometry": {"coordinates":[-75.706042,38.740399],"type":"Point"}
+}

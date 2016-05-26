@@ -1,0 +1,82 @@
+{
+  "id": 857683523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.534208,39.755289,-75.534208,39.755289",
+    "geom:latitude":39.755289,
+    "geom:longitude":-75.534208,
+    "iso:country":"US",
+    "sg:address":"2715 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 4028",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FODliOidlpAraemh72yg1_39.755289_-75.534208@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220490,
+    "wof:geomhash":"5e49c593c728969597a9f557d69d7997",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":857683523
+        }
+    ],
+    "wof:id":857683523,
+    "wof:lastmodified":1464220490,
+    "wof:name":"Mini Mall Laundromat",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "coin"
+    ]
+},
+  "bbox": [
+    -75.534208,
+    39.755289,
+    -75.534208,
+    39.755289
+],
+  "geometry": {"coordinates":[-75.53420800000001,39.755289],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873474825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745114,39.637235,-75.745114,39.637235",
+    "geom:latitude":39.637235,
+    "geom:longitude":-75.745114,
+    "iso:country":"US",
+    "sg:address":"509 Summerbreeze Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 9830",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "s",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DvGNoV24PX399L8V618T2_39.637235_-75.745114@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221909,
+    "wof:geomhash":"873650d715cde83836473f27ff7803ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873474825
+        }
+    ],
+    "wof:id":873474825,
+    "wof:lastmodified":1464221909,
+    "wof:name":"Blue Gulf Industrial Supply",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "s",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -75.745114,
+    39.637235,
+    -75.745114,
+    39.637235
+],
+  "geometry": {"coordinates":[-75.745114,39.637235],"type":"Point"}
+}

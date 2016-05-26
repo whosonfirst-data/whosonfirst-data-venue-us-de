@@ -1,0 +1,73 @@
+{
+  "id": 857705969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.510982,39.812671,-75.510982,39.812671",
+    "geom:latitude":39.812671,
+    "geom:longitude":-75.510982,
+    "iso:country":"US",
+    "sg:address":"2004 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5800",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QzFdEUELweGXCA7pvapwn_39.812671_-75.510982@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220931,
+    "wof:geomhash":"a91c155ac22f865e9dc4d1635ce6dc45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857705969
+        }
+    ],
+    "wof:id":857705969,
+    "wof:lastmodified":1464220931,
+    "wof:name":"Associates In Plastic Surgery",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.510982,
+    39.812671,
+    -75.510982,
+    39.812671
+],
+  "geometry": {"coordinates":[-75.510982,39.812671],"type":"Point"}
+}

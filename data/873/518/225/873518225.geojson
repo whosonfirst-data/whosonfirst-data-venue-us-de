@@ -1,0 +1,76 @@
+{
+  "id": 873518225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60149,39.712204,-75.60149,39.712204",
+    "geom:latitude":39.712204,
+    "geom:longitude":-75.60149,
+    "iso:country":"US",
+    "sg:address":"101 Cassidy Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 9600",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shuttle",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nm0tndHQbW0Tyf6WdXPo0_39.712204_-75.601490@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223803,
+    "wof:geomhash":"597fbe66146566a8fb586cfb25c276a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873518225
+        }
+    ],
+    "wof:id":873518225,
+    "wof:lastmodified":1464223803,
+    "wof:name":"Walts Limos",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -75.60149,
+    39.712204,
+    -75.60149,
+    39.712204
+],
+  "geometry": {"coordinates":[-75.60149,39.712204],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857688087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504144,39.200095,-75.504144,39.200095",
+    "geom:latitude":39.200095,
+    "geom:longitude":-75.504144,
+    "iso:country":"US",
+    "sg:address":"39 Billings Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 744 9199",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3585yHuFBMvLv7Bv2HGm9y_39.200095_-75.504144@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220580,
+    "wof:geomhash":"97a3c85d16571c742dafd4bde70cfca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857688087
+        }
+    ],
+    "wof:id":857688087,
+    "wof:lastmodified":1464220580,
+    "wof:name":"Yukon Siding",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.504144,
+    39.200095,
+    -75.504144,
+    39.200095
+],
+  "geometry": {"coordinates":[-75.504144,39.200095],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857720689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.639929,39.73336,-75.639929,39.73336",
+    "geom:latitude":39.73336,
+    "geom:longitude":-75.639929,
+    "iso:country":"US",
+    "sg:address":"3731 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 636 9190",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yRLiZrzXs1QzoceP91T1R_39.733360_-75.639929@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221262,
+    "wof:geomhash":"9b3f3f158121af9dd9ff8a9d2762c10c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857720689
+        }
+    ],
+    "wof:id":857720689,
+    "wof:lastmodified":1464221262,
+    "wof:name":"LA Preferida",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.639929,
+    39.73336,
+    -75.639929,
+    39.73336
+],
+  "geometry": {"coordinates":[-75.639929,39.73336],"type":"Point"}
+}

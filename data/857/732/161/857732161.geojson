@@ -1,0 +1,71 @@
+{
+  "id": 857732161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.657281,39.068844,-75.657281,39.068844",
+    "geom:latitude":39.068844,
+    "geom:longitude":-75.657281,
+    "iso:country":"US",
+    "sg:address":"5402 Mud Mill Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 1224",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4snh3nBduw35ztcjVRG6Hw_39.068844_-75.657281@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221487,
+    "wof:geomhash":"deab4ca2c292d8a079adf09e82b4ebb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857732161
+        }
+    ],
+    "wof:id":857732161,
+    "wof:lastmodified":1464221487,
+    "wof:name":"Strouse Electric",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.657281,
+    39.068844,
+    -75.657281,
+    39.068844
+],
+  "geometry": {"coordinates":[-75.657281,39.068844],"type":"Point"}
+}

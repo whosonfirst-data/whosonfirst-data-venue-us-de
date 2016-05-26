@@ -1,0 +1,83 @@
+{
+  "id": 873518613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.564392,39.759701,-75.564392,39.759701",
+    "geom:latitude":39.759701,
+    "geom:longitude":-75.564392,
+    "iso:country":"US",
+    "sg:address":"1900 Delaware Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Cemetery",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 6811",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "director",
+        "crematory",
+        "plans-pre-arranged",
+        "supply"
+    ],
+    "sg:website":"http://www.dohertyfh.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WHKMpdLhZFCJJ7ZLpnJoY_39.759701_-75.564392@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223821,
+    "wof:geomhash":"6458bebce68296ec99a3de3e7287d2f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873518613
+        }
+    ],
+    "wof:id":873518613,
+    "wof:lastmodified":1464223821,
+    "wof:name":"Doherty Funeral Homes",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "crematory",
+        "plans-pre-arranged",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.564392,
+    39.759701,
+    -75.564392,
+    39.759701
+],
+  "geometry": {"coordinates":[-75.564392,39.759701],"type":"Point"}
+}

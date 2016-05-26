@@ -1,0 +1,71 @@
+{
+  "id": 873474901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.638261,39.731926,-75.638261,39.731926",
+    "geom:latitude":39.731926,
+    "geom:longitude":-75.638261,
+    "iso:country":"US",
+    "sg:address":"2026 Duncan Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 8150",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0F8da3uitLBKqVolLBTZhA_39.731926_-75.638261@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221911,
+    "wof:geomhash":"d2265a0e236848e005e1d1d1e8f3fd34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873474901
+        }
+    ],
+    "wof:id":873474901,
+    "wof:lastmodified":1464221911,
+    "wof:name":"Material Supply",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.638261,
+    39.731926,
+    -75.638261,
+    39.731926
+],
+  "geometry": {"coordinates":[-75.638261,39.731926],"type":"Point"}
+}

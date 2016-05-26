@@ -1,0 +1,73 @@
+{
+  "id": 873479103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.655482,39.628571,-75.655482,39.628571",
+    "geom:latitude":39.628571,
+    "geom:longitude":-75.655482,
+    "iso:country":"US",
+    "sg:address":"64 Hillary Cir",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 0345",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "medical",
+        "legal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63qQGSUFoib8cjZxpT3zA0_39.628571_-75.655482@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222070,
+    "wof:geomhash":"a7746ed68fab76adc9530cce70e95f11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873479103
+        }
+    ],
+    "wof:id":873479103,
+    "wof:lastmodified":1464222070,
+    "wof:name":"Medical Case Consultants",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "medical",
+        "legal"
+    ]
+},
+  "bbox": [
+    -75.655482,
+    39.628571,
+    -75.655482,
+    39.628571
+],
+  "geometry": {"coordinates":[-75.65548200000001,39.628571],"type":"Point"}
+}

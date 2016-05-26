@@ -1,0 +1,86 @@
+{
+  "id": 873518461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.579071,39.753658,-75.579071,39.753658",
+    "geom:latitude":39.753658,
+    "geom:longitude":-75.579071,
+    "iso:country":"US",
+    "sg:address":"600 Greenhill Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 1312",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "brake",
+        "tire",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03r90tiUqwpqkCZ78b0Ltw_39.753658_-75.579071@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223812,
+    "wof:geomhash":"89e8b162157e5a347d5f3dab023cd489",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873518461
+        }
+    ],
+    "wof:id":873518461,
+    "wof:lastmodified":1464223812,
+    "wof:name":"Greenhill Auto Service",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "brake",
+        "tire",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -75.579071,
+    39.753658,
+    -75.579071,
+    39.753658
+],
+  "geometry": {"coordinates":[-75.579071,39.753658],"type":"Point"}
+}

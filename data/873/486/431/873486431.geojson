@@ -1,0 +1,71 @@
+{
+  "id": 873486431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.731598,38.957614,-75.731598,38.957614",
+    "geom:latitude":38.957614,
+    "geom:longitude":-75.731598,
+    "iso:country":"US",
+    "sg:address":"57 Lane's Ln",
+    "sg:city":"Woodside",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 1467",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3W4rT3lRjgQGtD0oZDBCMJ_38.957614_-75.731598@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222357,
+    "wof:geomhash":"c7c608bfdc15884248ad1d246c91ee3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873486431
+        }
+    ],
+    "wof:id":873486431,
+    "wof:lastmodified":1464222357,
+    "wof:name":"Lane's Used Auto Parts & Svc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.731598,
+    38.957614,
+    -75.731598,
+    38.957614
+],
+  "geometry": {"coordinates":[-75.73159800000001,38.957614],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873502649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524729,39.219523,-75.524729,39.219523",
+    "geom:latitude":39.219523,
+    "geom:longitude":-75.524729,
+    "iso:country":"US",
+    "sg:address":"2 Hazelwood Ct",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 6345",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "adjuster"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SfGkEmuIehWxK42w6fMGy_39.219523_-75.524729@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223051,
+    "wof:geomhash":"46bac578f460c1634dfda575ead7a57f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873502649
+        }
+    ],
+    "wof:id":873502649,
+    "wof:lastmodified":1464223051,
+    "wof:name":"Mutual Adjustment Svc Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "adjuster"
+    ]
+},
+  "bbox": [
+    -75.524729,
+    39.219523,
+    -75.524729,
+    39.219523
+],
+  "geometry": {"coordinates":[-75.52472899999999,39.219523],"type":"Point"}
+}

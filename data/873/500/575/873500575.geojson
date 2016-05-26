@@ -1,0 +1,73 @@
+{
+  "id": 873500575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.407359,38.891379,-75.407359,38.891379",
+    "geom:latitude":38.891379,
+    "geom:longitude":-75.407359,
+    "iso:country":"US",
+    "sg:address":"4 Quail Ridge Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 6535",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uzNLBQ6T1cq3prxsLEvj7_38.891379_-75.407359@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222960,
+    "wof:geomhash":"72e254ef1f85db19f5ef7ace7da6deb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873500575
+        }
+    ],
+    "wof:id":873500575,
+    "wof:lastmodified":1464222960,
+    "wof:name":"James B Adams",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.407359,
+    38.891379,
+    -75.407359,
+    38.891379
+],
+  "geometry": {"coordinates":[-75.407359,38.891379],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873476287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566348,39.660975,-75.566348,39.660975",
+    "geom:latitude":39.660975,
+    "geom:longitude":-75.566348,
+    "iso:country":"US",
+    "sg:address":"6 W 5th St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 325 3195",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "owner",
+        "building",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ojQ40QEuTXxJbjuUyCyv9_39.660975_-75.566348@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221958,
+    "wof:geomhash":"24e10c3db237e2045d420dc8a2877c58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873476287
+        }
+    ],
+    "wof:id":873476287,
+    "wof:lastmodified":1464221958,
+    "wof:name":"T B F B Holding Company",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owner",
+        "building",
+        "residential"
+    ]
+},
+  "bbox": [
+    -75.566348,
+    39.660975,
+    -75.566348,
+    39.660975
+],
+  "geometry": {"coordinates":[-75.566348,39.660975],"type":"Point"}
+}

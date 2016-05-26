@@ -1,0 +1,71 @@
+{
+  "id": 857732117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.432903,38.910533,-75.432903,38.910533",
+    "geom:latitude":38.910533,
+    "geom:longitude":-75.432903,
+    "iso:country":"US",
+    "sg:address":"102 Lakeview Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5416",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QYvVo2OGWCcKLLpFfF9I3_38.910533_-75.432903@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221486,
+    "wof:geomhash":"1d028f9666d26b91358c6d896ba68814",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857732117
+        }
+    ],
+    "wof:id":857732117,
+    "wof:lastmodified":1464221486,
+    "wof:name":"Lofland Funeral Home Inc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -75.432903,
+    38.910533,
+    -75.432903,
+    38.910533
+],
+  "geometry": {"coordinates":[-75.432903,38.910533],"type":"Point"}
+}

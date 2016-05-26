@@ -1,0 +1,71 @@
+{
+  "id": 857731161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546258,39.789134,-75.546258,39.789134",
+    "geom:latitude":39.789134,
+    "geom:longitude":-75.546258,
+    "iso:country":"US",
+    "sg:address":"2003 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 8866",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00QUNOzEulqOUcS3SaghlT_39.789134_-75.546258@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221460,
+    "wof:geomhash":"d06717c26399900215573c89d5500056",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":857731161
+        }
+    ],
+    "wof:id":857731161,
+    "wof:lastmodified":1464221460,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.546258,
+    39.789134,
+    -75.546258,
+    39.789134
+],
+  "geometry": {"coordinates":[-75.54625799999999,39.789134],"type":"Point"}
+}

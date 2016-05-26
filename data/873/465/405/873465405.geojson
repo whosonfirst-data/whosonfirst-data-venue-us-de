@@ -1,0 +1,71 @@
+{
+  "id": 873465405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578616,39.690363,-75.578616,39.690363",
+    "geom:latitude":39.690363,
+    "geom:longitude":-75.578616,
+    "iso:country":"US",
+    "sg:address":"1684 Matassino Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 2400",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "truck",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pGuOpJoCEcO0EApzaODSs_39.690363_-75.578616@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221577,
+    "wof:geomhash":"fe338092a0ca1380fa0122a0fda9a28e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873465405
+        }
+    ],
+    "wof:id":873465405,
+    "wof:lastmodified":1464221577,
+    "wof:name":"Ayers Repair Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -75.578616,
+    39.690363,
+    -75.578616,
+    39.690363
+],
+  "geometry": {"coordinates":[-75.578616,39.690363],"type":"Point"}
+}

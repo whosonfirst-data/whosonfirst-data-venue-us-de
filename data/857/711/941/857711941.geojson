@@ -1,0 +1,75 @@
+{
+  "id": 857711941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524865,39.158984,-75.524865,39.158984",
+    "geom:latitude":39.158984,
+    "geom:longitude":-75.524865,
+    "iso:country":"US",
+    "sg:address":"146 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 9701",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13kf36pOTt5exWy6mAfB3u_39.158984_-75.524865@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221077,
+    "wof:geomhash":"426029524b539713ceab9a22e566cf65",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":857711941
+        }
+    ],
+    "wof:id":857711941,
+    "wof:lastmodified":1464221077,
+    "wof:name":"American Lung Assn",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.524865,
+    39.158984,
+    -75.524865,
+    39.158984
+],
+  "geometry": {"coordinates":[-75.52486500000001,39.158984],"type":"Point"}
+}

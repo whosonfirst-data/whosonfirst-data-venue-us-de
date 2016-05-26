@@ -1,0 +1,69 @@
+{
+  "id": 873516277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.66172,39.693291,-75.66172,39.693291",
+    "geom:latitude":39.693291,
+    "geom:longitude":-75.66172,
+    "iso:country":"US",
+    "sg:address":"1082 Old Churchmans Rd # 201",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 3257",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k5Vmf0no7ijlYpMyszIOG_39.693291_-75.661720@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223673,
+    "wof:geomhash":"9b6f8d60c45236f347679e3a9a5ab1d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516277
+        }
+    ],
+    "wof:id":873516277,
+    "wof:lastmodified":1464223673,
+    "wof:name":"Boxwood Electric Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -75.66172,
+    39.693291,
+    -75.66172,
+    39.693291
+],
+  "geometry": {"coordinates":[-75.66172,39.693291],"type":"Point"}
+}

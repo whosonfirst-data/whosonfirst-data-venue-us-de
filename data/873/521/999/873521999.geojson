@@ -1,0 +1,69 @@
+{
+  "id": 873521999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5186,39.142799,-75.5186,39.142799",
+    "geom:latitude":39.142799,
+    "geom:longitude":-75.5186,
+    "iso:country":"US",
+    "sg:address":"1102 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7676",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H5CtH5ZUUP4WfRnCJDPDF_39.142799_-75.518600@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223962,
+    "wof:geomhash":"7053dec2c998728a1e5b1d115f650fad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873521999
+        }
+    ],
+    "wof:id":873521999,
+    "wof:lastmodified":1464223962,
+    "wof:name":"Rippert Judith A DO Facc",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -75.5186,
+    39.142799,
+    -75.5186,
+    39.142799
+],
+  "geometry": {"coordinates":[-75.51860000000001,39.142799],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857716499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.384211,38.689782,-75.384211,38.689782",
+    "geom:latitude":38.689782,
+    "geom:longitude":-75.384211,
+    "iso:country":"US",
+    "sg:address":"5 E Pine St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 4657",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12WCMfIDroDJFWqaarrnYj_38.689782_-75.384211@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221174,
+    "wof:geomhash":"018c807b8b8aae2ff86445fbcb3136ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857716499
+        }
+    ],
+    "wof:id":857716499,
+    "wof:lastmodified":1464221174,
+    "wof:name":"Justice Of The Peace Court",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -75.384211,
+    38.689782,
+    -75.384211,
+    38.689782
+],
+  "geometry": {"coordinates":[-75.38421099999999,38.689782],"type":"Point"}
+}

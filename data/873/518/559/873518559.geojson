@@ -1,0 +1,80 @@
+{
+  "id": 873518559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594887,39.75502,-75.594887,39.75502",
+    "geom:latitude":39.75502,
+    "geom:longitude":-75.594887,
+    "iso:country":"US",
+    "sg:address":"3705 Lancaster Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 854 7655",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "emergency",
+        "hospital",
+        "specialty",
+        "laboratories-veterinary",
+        "clinic",
+        "veterinarian"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9244631%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eqvALMYnzrOnrdWcZE4RU_39.755020_-75.594887@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223816,
+    "wof:geomhash":"ece4fe1875814be2526eeaae57a99cd4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518559
+        }
+    ],
+    "wof:id":873518559,
+    "wof:lastmodified":1464223816,
+    "wof:name":"Windcrest Animal Hospital",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "emergency",
+        "hospital",
+        "specialty",
+        "laboratories-veterinary",
+        "clinic",
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -75.594887,
+    39.75502,
+    -75.594887,
+    39.75502
+],
+  "geometry": {"coordinates":[-75.594887,39.75502],"type":"Point"}
+}

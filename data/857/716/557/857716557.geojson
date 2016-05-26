@@ -1,0 +1,71 @@
+{
+  "id": 857716557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.431348,38.911416,-75.431348,38.911416",
+    "geom:latitude":38.911416,
+    "geom:longitude":-75.431348,
+    "iso:country":"US",
+    "sg:address":"123 Causey Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 4997",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A6SXMOQb7vVWUrRpYvubv_38.911416_-75.431348@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221175,
+    "wof:geomhash":"8525049725c5a8ac0483d43e7077b0eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857716557
+        }
+    ],
+    "wof:id":857716557,
+    "wof:lastmodified":1464221175,
+    "wof:name":"Print Shop",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -75.431348,
+    38.911416,
+    -75.431348,
+    38.911416
+],
+  "geometry": {"coordinates":[-75.431348,38.911416],"type":"Point"}
+}

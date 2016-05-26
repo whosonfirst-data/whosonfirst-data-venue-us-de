@@ -1,0 +1,70 @@
+{
+  "id": 873480479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570932,39.760531,-75.570932,39.760531",
+    "geom:latitude":39.760531,
+    "geom:longitude":-75.570932,
+    "iso:country":"US",
+    "sg:address":"1420 Hamilton St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 9345",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photographer"
+    ],
+    "sg:website":"www.bproudphoto.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0feHCn0MmP191bfw1z7IsN_39.760531_-75.570932@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222131,
+    "wof:geomhash":"da6ed21e24cd966377e738a7a0330bf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873480479
+        }
+    ],
+    "wof:id":873480479,
+    "wof:lastmodified":1464222131,
+    "wof:name":"B Proud Photography",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -75.570932,
+    39.760531,
+    -75.570932,
+    39.760531
+],
+  "geometry": {"coordinates":[-75.570932,39.760531],"type":"Point"}
+}

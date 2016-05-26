@@ -1,0 +1,71 @@
+{
+  "id": 873483887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557169,39.708499,-75.557169,39.708499",
+    "geom:latitude":39.708499,
+    "geom:longitude":-75.557169,
+    "iso:country":"US",
+    "sg:address":"460 Robinson Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 1910",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "control",
+        "traffic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27wXgoAeTLnYJuLSI6Aj4a_39.708499_-75.557169@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222266,
+    "wof:geomhash":"98db38491be71573289cced1808fb08a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873483887
+        }
+    ],
+    "wof:id":873483887,
+    "wof:lastmodified":1464222266,
+    "wof:name":"Roadway Graphixs' Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "traffic"
+    ]
+},
+  "bbox": [
+    -75.557169,
+    39.708499,
+    -75.557169,
+    39.708499
+],
+  "geometry": {"coordinates":[-75.557169,39.708499],"type":"Point"}
+}

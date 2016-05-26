@@ -1,0 +1,71 @@
+{
+  "id": 873493469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567179,38.922167,-75.567179,38.922167",
+    "geom:latitude":38.922167,
+    "geom:longitude":-75.567179,
+    "iso:country":"US",
+    "sg:address":"17401 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 3061",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tank",
+        "installation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ViIVhWsxvrHIbbXBr1UmD_38.922167_-75.567179@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222625,
+    "wof:geomhash":"3ef826d5d28fe008b8c4276777c67c59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873493469
+        }
+    ],
+    "wof:id":873493469,
+    "wof:lastmodified":1464222625,
+    "wof:name":"Coastal Pump & Tank",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "installation"
+    ]
+},
+  "bbox": [
+    -75.567179,
+    38.922167,
+    -75.567179,
+    38.922167
+],
+  "geometry": {"coordinates":[-75.567179,38.922167],"type":"Point"}
+}

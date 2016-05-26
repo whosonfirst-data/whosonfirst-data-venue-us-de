@@ -1,0 +1,71 @@
+{
+  "id": 857693661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.65952,39.139147,-75.65952,39.139147",
+    "geom:latitude":39.139147,
+    "geom:longitude":-75.65952,
+    "iso:country":"US",
+    "sg:address":"911 Brittney Ln",
+    "sg:city":"Hartly",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 8518",
+    "sg:postcode":"19953",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OrIkjLXdZque0jgWBSDmF_39.139147_-75.659520@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220693,
+    "wof:geomhash":"36a255debe5c317c2b90a5ff20508d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":857693661
+        }
+    ],
+    "wof:id":857693661,
+    "wof:lastmodified":1464220693,
+    "wof:name":"Pardee Contracting Inc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.65952,
+    39.139147,
+    -75.65952,
+    39.139147
+],
+  "geometry": {"coordinates":[-75.65952,39.139147],"type":"Point"}
+}

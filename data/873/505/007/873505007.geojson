@@ -1,0 +1,75 @@
+{
+  "id": 873505007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74715,39.616067,-75.74715,39.616067",
+    "geom:latitude":39.616067,
+    "geom:longitude":-75.74715,
+    "iso:country":"US",
+    "sg:address":"250 Corporate Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 9200",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor",
+        "electrical",
+        "electric",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39xBhZgD2A3lYRrMqDEO6G_39.616067_-75.747150@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223157,
+    "wof:geomhash":"9e3633ccedcff03f2657a37184781c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873505007
+        }
+    ],
+    "wof:id":873505007,
+    "wof:lastmodified":1464223157,
+    "wof:name":"Cahill Electrical Contractors",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "electrical",
+        "electric",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.74715,
+    39.616067,
+    -75.74715,
+    39.616067
+],
+  "geometry": {"coordinates":[-75.74715,39.616067],"type":"Point"}
+}

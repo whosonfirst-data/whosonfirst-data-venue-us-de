@@ -1,0 +1,80 @@
+{
+  "id": 873484529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598928,39.713401,-75.598928,39.713401",
+    "geom:latitude":39.713401,
+    "geom:longitude":-75.598928,
+    "iso:country":"US",
+    "sg:address":"400 Water St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7444",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "welding",
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pb3dbWo0Qf3fu65SOaby6_39.713401_-75.598928@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222290,
+    "wof:geomhash":"88d47c8b0b3c9250e92a99a0da3a5004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873484529
+        }
+    ],
+    "wof:id":873484529,
+    "wof:lastmodified":1464222290,
+    "wof:name":"Delaware Metals",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "welding",
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.598928,
+    39.713401,
+    -75.598928,
+    39.713401
+],
+  "geometry": {"coordinates":[-75.598928,39.713401],"type":"Point"}
+}

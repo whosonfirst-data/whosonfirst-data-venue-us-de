@@ -1,0 +1,71 @@
+{
+  "id": 857695981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.481282,39.775458,-75.481282,39.775458",
+    "geom:latitude":39.775458,
+    "geom:longitude":-75.481282,
+    "iso:country":"US",
+    "sg:address":"6517 Governor Printz Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 6741",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45xpc9VFqezAYG29d9XVsx_39.775458_-75.481282@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220736,
+    "wof:geomhash":"448e3e9153e0d7e8f9f12faa4a0eeb6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":857695981
+        }
+    ],
+    "wof:id":857695981,
+    "wof:lastmodified":1464220736,
+    "wof:name":"Hansens Bear Safety Service",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.481282,
+    39.775458,
+    -75.481282,
+    39.775458
+],
+  "geometry": {"coordinates":[-75.48128199999999,39.775458],"type":"Point"}
+}

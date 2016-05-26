@@ -1,0 +1,77 @@
+{
+  "id": 873506611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552491,39.175649,-75.552491,39.175649",
+    "geom:latitude":39.175649,
+    "geom:longitude":-75.552491,
+    "iso:country":"US",
+    "sg:address":"245 McKee Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 739 5601",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85852037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zxkQf4G0nAks2t8iWtTjO_39.175649_-75.552491@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223221,
+    "wof:geomhash":"ef02b52a4d26209d3b8ae86a2713993a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85852037,
+            "region_id":85688611,
+            "venue_id":873506611
+        }
+    ],
+    "wof:id":873506611,
+    "wof:lastmodified":1464223221,
+    "wof:name":"Corrections Dept",
+    "wof:parent_id":85852037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -75.552491,
+    39.175649,
+    -75.552491,
+    39.175649
+],
+  "geometry": {"coordinates":[-75.552491,39.175649],"type":"Point"}
+}

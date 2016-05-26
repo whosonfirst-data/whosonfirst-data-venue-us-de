@@ -1,0 +1,69 @@
+{
+  "id": 873466445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.512544,39.76517,-75.512544,39.76517",
+    "geom:latitude":39.76517,
+    "geom:longitude":-75.512544,
+    "iso:country":"US",
+    "sg:address":"211 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 1234",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shirt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sYUbaGGyBTELvYMkjTKwM_39.765170_-75.512544@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221599,
+    "wof:geomhash":"e703f7f16b9fae1c26746af80a96fa29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873466445
+        }
+    ],
+    "wof:id":873466445,
+    "wof:lastmodified":1464221599,
+    "wof:name":"North Hills Cleaners Inc",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shirt"
+    ]
+},
+  "bbox": [
+    -75.512544,
+    39.76517,
+    -75.512544,
+    39.76517
+],
+  "geometry": {"coordinates":[-75.51254400000001,39.76517],"type":"Point"}
+}

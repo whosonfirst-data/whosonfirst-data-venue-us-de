@@ -1,0 +1,74 @@
+{
+  "id": 873489205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.220715,38.459642,-75.220715,38.459642",
+    "geom:latitude":38.459642,
+    "geom:longitude":-75.220715,
+    "iso:country":"US",
+    "sg:address":"4 S Main St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 7669",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pharmaceutical",
+        "product"
+    ],
+    "sg:website":"www.snowbalm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sD0kBCs4JGdR04GLMZnRp_38.459642_-75.220715@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222464,
+    "wof:geomhash":"49aeb046fc4af41a5104a64981e66233",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873489205
+        }
+    ],
+    "wof:id":873489205,
+    "wof:lastmodified":1464222464,
+    "wof:name":"Snow Pharmaceutical Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product"
+    ]
+},
+  "bbox": [
+    -75.220715,
+    38.459642,
+    -75.220715,
+    38.459642
+],
+  "geometry": {"coordinates":[-75.220715,38.459642],"type":"Point"}
+}

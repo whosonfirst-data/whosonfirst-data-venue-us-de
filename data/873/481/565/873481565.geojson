@@ -1,0 +1,73 @@
+{
+  "id": 873481565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.239675,38.547577,-75.239675,38.547577",
+    "geom:latitude":38.547577,
+    "geom:longitude":-75.239675,
+    "iso:country":"US",
+    "sg:address":"115 Vines Creek Rd",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 9593",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H02LGXw2lmdxevvAnSdz5_38.547577_-75.239675@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222175,
+    "wof:geomhash":"31e24aed866b8671d8afd16fd0447a26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873481565
+        }
+    ],
+    "wof:id":873481565,
+    "wof:lastmodified":1464222175,
+    "wof:name":"Dagsboro Family Practice",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.239675,
+    38.547577,
+    -75.239675,
+    38.547577
+],
+  "geometry": {"coordinates":[-75.23967500000001,38.547577],"type":"Point"}
+}

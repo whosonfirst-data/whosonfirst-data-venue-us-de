@@ -1,0 +1,78 @@
+{
+  "id": 857706335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.519621,39.781366,-75.519621,39.781366",
+    "geom:latitude":39.781366,
+    "geom:longitude":-75.519621,
+    "iso:country":"US",
+    "sg:address":"4640 Weldin Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 9073",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "communications",
+        "system",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85845563,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pVVSZDKtVAMskhqrt3uvU_39.781366_-75.519621@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220938,
+    "wof:geomhash":"87697768448de8b73b9ce6776f8ea42c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85845563,
+            "region_id":85688611,
+            "venue_id":857706335
+        }
+    ],
+    "wof:id":857706335,
+    "wof:lastmodified":1464220938,
+    "wof:name":"Horton Telephone Inc",
+    "wof:parent_id":85845563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "system",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -75.519621,
+    39.781366,
+    -75.519621,
+    39.781366
+],
+  "geometry": {"coordinates":[-75.519621,39.781366],"type":"Point"}
+}

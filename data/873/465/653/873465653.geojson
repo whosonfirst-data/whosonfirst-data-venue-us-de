@@ -1,0 +1,71 @@
+{
+  "id": 873465653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.106002,38.468859,-75.106002,38.468859",
+    "geom:latitude":38.468859,
+    "geom:longitude":-75.106002,
+    "iso:country":"US",
+    "sg:address":"118 E Bluewater Run",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 0317",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UNF0BFsA3dzeOsW4MT9NK_38.468859_-75.106002@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221582,
+    "wof:geomhash":"ce390d874e422cb4c5cc838a20cb6afc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873465653
+        }
+    ],
+    "wof:id":873465653,
+    "wof:lastmodified":1464221582,
+    "wof:name":"Tom Norton Contractors",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.106002,
+    38.468859,
+    -75.106002,
+    38.468859
+],
+  "geometry": {"coordinates":[-75.106002,38.468859],"type":"Point"}
+}

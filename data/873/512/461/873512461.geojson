@@ -1,0 +1,73 @@
+{
+  "id": 873512461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54744,39.797501,-75.54744,39.797501",
+    "geom:latitude":39.797501,
+    "geom:longitude":-75.54744,
+    "iso:country":"US",
+    "sg:address":"2801 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1561",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60P8vrK2go4zAz5565Y2tz_39.797108_-75.547323@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223492,
+    "wof:geomhash":"e9922b595f9d258165b9c818e76a878e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873512461
+        }
+    ],
+    "wof:id":873512461,
+    "wof:lastmodified":1464223492,
+    "wof:name":"U-Haul Co.",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -75.54744,
+    39.797501,
+    -75.54744,
+    39.797501
+],
+  "geometry": {"coordinates":[-75.54743999999999,39.797501],"type":"Point"}
+}

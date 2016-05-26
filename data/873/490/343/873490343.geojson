@@ -1,0 +1,80 @@
+{
+  "id": 873490343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529662,39.178425,-75.529662,39.178425",
+    "geom:latitude":39.178425,
+    "geom:longitude":-75.529662,
+    "iso:country":"US",
+    "sg:address":"1027 N State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8788",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "distribution",
+        "parts",
+        "e"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43Q0HaDXZ2qThQP13LWkIb_39.178425_-75.529662@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222508,
+    "wof:geomhash":"0c0986c9401130d5d5a20a0870317999",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873490343
+        }
+    ],
+    "wof:id":873490343,
+    "wof:lastmodified":1464222508,
+    "wof:name":"Import Parts Authority Inc",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distribution",
+        "parts",
+        "e"
+    ]
+},
+  "bbox": [
+    -75.529662,
+    39.178425,
+    -75.529662,
+    39.178425
+],
+  "geometry": {"coordinates":[-75.529662,39.178425],"type":"Point"}
+}

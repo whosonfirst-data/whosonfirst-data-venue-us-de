@@ -1,0 +1,72 @@
+{
+  "id": 873505163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57071,39.690569,-75.57071,39.690569",
+    "geom:latitude":39.690569,
+    "geom:longitude":-75.57071,
+    "iso:country":"US",
+    "sg:address":"11 Industrial Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 325 6100",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.battag.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VgE6ZrzTZxfQFi4UgVYZz_39.690569_-75.570710@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223163,
+    "wof:geomhash":"269359eab03e502908e4edc6d1f439a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873505163
+        }
+    ],
+    "wof:id":873505163,
+    "wof:lastmodified":1464223163,
+    "wof:name":"Battaglia Electric Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.57071,
+    39.690569,
+    -75.57071,
+    39.690569
+],
+  "geometry": {"coordinates":[-75.57071000000001,39.690569],"type":"Point"}
+}

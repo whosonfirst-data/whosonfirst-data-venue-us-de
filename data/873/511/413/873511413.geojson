@@ -1,0 +1,74 @@
+{
+  "id": 873511413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52328,39.762093,-75.52328,39.762093",
+    "geom:latitude":39.762093,
+    "geom:longitude":-75.52328,
+    "iso:country":"US",
+    "sg:address":"116 W 41st St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 0226",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "churches-baptist"
+    ],
+    "sg:website":"http://www.gracebaptist.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1agbUkPPsPOyqmt6Anp6Fp_39.762667_-75.523864@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223438,
+    "wof:geomhash":"d8c2f3e9cab531d54e63e8c2a50b8ff9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873511413
+        }
+    ],
+    "wof:id":873511413,
+    "wof:lastmodified":1464223438,
+    "wof:name":"Grace Baptist Church",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -75.52328,
+    39.762093,
+    -75.52328,
+    39.762093
+],
+  "geometry": {"coordinates":[-75.52328,39.762093],"type":"Point"}
+}

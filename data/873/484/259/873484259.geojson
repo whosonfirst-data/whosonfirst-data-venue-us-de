@@ -1,0 +1,71 @@
+{
+  "id": 873484259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.388076,38.891199,-75.388076,38.891199",
+    "geom:latitude":38.891199,
+    "geom:longitude":-75.388076,
+    "iso:country":"US",
+    "sg:address":"6552 Cedar Neck Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 0162",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qyR7VkD9lIXALhKPZgWVf_38.891199_-75.388076@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222280,
+    "wof:geomhash":"8327e7d2de36ec9429e9913fdcd818c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873484259
+        }
+    ],
+    "wof:id":873484259,
+    "wof:lastmodified":1464222280,
+    "wof:name":"Triple X Construction",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.388076,
+    38.891199,
+    -75.388076,
+    38.891199
+],
+  "geometry": {"coordinates":[-75.388076,38.891199],"type":"Point"}
+}

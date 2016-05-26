@@ -1,0 +1,75 @@
+{
+  "id": 857692219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.404331,38.709641,-75.404331,38.709641",
+    "geom:latitude":38.709641,
+    "geom:longitude":-75.404331,
+    "iso:country":"US",
+    "sg:address":"20185 Dupont Blvd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7434",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DeyeqqACTJdoPNlx2cqVV_38.709641_-75.404331@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220666,
+    "wof:geomhash":"f28f786d2cc865c7ba2f5ea340b38f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857692219
+        }
+    ],
+    "wof:id":857692219,
+    "wof:lastmodified":1464220666,
+    "wof:name":"4-N Car",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.404331,
+    38.709641,
+    -75.404331,
+    38.709641
+],
+  "geometry": {"coordinates":[-75.404331,38.709641],"type":"Point"}
+}

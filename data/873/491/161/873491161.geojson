@@ -1,0 +1,75 @@
+{
+  "id": 873491161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.73649,39.6594,-75.73649,39.6594",
+    "geom:latitude":39.6594,
+    "geom:longitude":-75.73649,
+    "iso:country":"US",
+    "sg:address":"140 Pencader Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 9200",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PyH1VTiLEL9Dj22BBtFbD_39.659400_-75.736490@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222536,
+    "wof:geomhash":"e77e9ae939f13911fff5435f85e64b68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873491161
+        }
+    ],
+    "wof:id":873491161,
+    "wof:lastmodified":1464222536,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.73649,
+    39.6594,
+    -75.73649,
+    39.6594
+],
+  "geometry": {"coordinates":[-75.73649,39.6594],"type":"Point"}
+}

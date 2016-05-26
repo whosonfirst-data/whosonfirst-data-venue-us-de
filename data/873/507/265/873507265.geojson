@@ -1,0 +1,71 @@
+{
+  "id": 873507265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.622077,39.748081,-75.622077,39.748081",
+    "geom:latitude":39.748081,
+    "geom:longitude":-75.622077,
+    "iso:country":"US",
+    "sg:address":"109 Rothwell Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 9558",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "correction",
+        "radon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IVcIIeC4Kxnswo0Aj6Li8_39.748081_-75.622077@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223247,
+    "wof:geomhash":"79d7fc7af4613ea5300b073e6a69cedd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873507265
+        }
+    ],
+    "wof:id":873507265,
+    "wof:lastmodified":1464223247,
+    "wof:name":"J T Quinn Contr& Radon",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "correction",
+        "radon"
+    ]
+},
+  "bbox": [
+    -75.622077,
+    39.748081,
+    -75.622077,
+    39.748081
+],
+  "geometry": {"coordinates":[-75.622077,39.748081],"type":"Point"}
+}

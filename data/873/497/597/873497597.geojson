@@ -1,0 +1,73 @@
+{
+  "id": 873497597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607491,39.078081,-75.607491,39.078081",
+    "geom:latitude":39.078081,
+    "geom:longitude":-75.607491,
+    "iso:country":"US",
+    "sg:address":"8685 Willow Grove Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 7150",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6w9CQGCQwyrQylqompVJLn_39.078081_-75.607491@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222845,
+    "wof:geomhash":"ce40e59881b6c73957a3e2b037756963",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873497597
+        }
+    ],
+    "wof:id":873497597,
+    "wof:lastmodified":1464222845,
+    "wof:name":"Osteen Excavation",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.607491,
+    39.078081,
+    -75.607491,
+    39.078081
+],
+  "geometry": {"coordinates":[-75.607491,39.078081],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873485273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.742758,39.683767,-75.742758,39.683767",
+    "geom:latitude":39.683767,
+    "geom:longitude":-75.742758,
+    "iso:country":"US",
+    "sg:address":"267 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 1500",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZHSTVQ0gXsSe4eD32MCMA_39.683767_-75.742758@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222316,
+    "wof:geomhash":"d37b780995ef15f7cdd1ba44c247f338",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873485273
+        }
+    ],
+    "wof:id":873485273,
+    "wof:lastmodified":1464222316,
+    "wof:name":"Oncology Care Hm Health Spec",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -75.742758,
+    39.683767,
+    -75.742758,
+    39.683767
+],
+  "geometry": {"coordinates":[-75.74275799999999,39.683767],"type":"Point"}
+}

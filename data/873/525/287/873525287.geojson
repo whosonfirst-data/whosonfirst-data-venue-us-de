@@ -1,0 +1,87 @@
+{
+  "id": 873525287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.608356,39.305106,-75.608356,39.305106",
+    "geom:latitude":39.305106,
+    "geom:longitude":-75.608356,
+    "iso:country":"US",
+    "sg:address":"116 E Glenwood Ave Ste B",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 4772",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15cwuZyEi7M9G6ae2cUnX7_39.305106_-75.608356@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224090,
+    "wof:geomhash":"5dda5ff2671e71211a424c21617f4a97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525287
+        }
+    ],
+    "wof:id":873525287,
+    "wof:lastmodified":1464224090,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.608356,
+    39.305106,
+    -75.608356,
+    39.305106
+],
+  "geometry": {"coordinates":[-75.608356,39.305106],"type":"Point"}
+}

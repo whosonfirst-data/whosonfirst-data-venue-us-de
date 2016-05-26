@@ -1,0 +1,71 @@
+{
+  "id": 873497993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551223,39.702866,-75.551223,39.702866",
+    "geom:latitude":39.702866,
+    "geom:longitude":-75.551223,
+    "iso:country":"US",
+    "sg:address":"3050 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 9064",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bGFhizbzBfZkxvtoUoRrH_39.702866_-75.551223@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222861,
+    "wof:geomhash":"ffa043003908b82cc477b5fab2f9f482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873497993
+        }
+    ],
+    "wof:id":873497993,
+    "wof:lastmodified":1464222861,
+    "wof:name":"2 Can Dans",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.551223,
+    39.702866,
+    -75.551223,
+    39.702866
+],
+  "geometry": {"coordinates":[-75.55122299999999,39.702866],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873512263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558469,39.744295,-75.558469,39.744295",
+    "geom:latitude":39.744295,
+    "geom:longitude":-75.558469,
+    "iso:country":"US",
+    "sg:address":"836 W 5th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 657 5743",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_536KeKPgjFW6c1JqpjAjdH_39.744360_-75.558867@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223485,
+    "wof:geomhash":"36c8608461ff7cf85421532f37c54db9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873512263
+        }
+    ],
+    "wof:id":873512263,
+    "wof:lastmodified":1464223485,
+    "wof:name":"Charmers Place",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lounge",
+        "drinking",
+        "cocktail"
+    ]
+},
+  "bbox": [
+    -75.558469,
+    39.744295,
+    -75.558469,
+    39.744295
+],
+  "geometry": {"coordinates":[-75.558469,39.744295],"type":"Point"}
+}

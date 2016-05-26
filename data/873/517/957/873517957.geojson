@@ -1,0 +1,74 @@
+{
+  "id": 873517957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553299,39.809601,-75.553299,39.809601",
+    "geom:latitude":39.809601,
+    "geom:longitude":-75.553299,
+    "iso:country":"US",
+    "sg:address":"101 Garden of Eden Rd Ste 104",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5026",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07JQORs8cuNvseg0i1mLPE_39.809601_-75.553299@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223793,
+    "wof:geomhash":"a374466be3fde3646bb76b43b4c354a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517957
+        }
+    ],
+    "wof:id":873517957,
+    "wof:lastmodified":1464223793,
+    "wof:name":"Albert Einstein Academy Hebrew Day School",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.553299,
+    39.809601,
+    -75.553299,
+    39.809601
+],
+  "geometry": {"coordinates":[-75.553299,39.809601],"type":"Point"}
+}

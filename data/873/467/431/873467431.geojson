@@ -1,0 +1,69 @@
+{
+  "id": 873467431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.669308,39.666432,-75.669308,39.666432",
+    "geom:latitude":39.666432,
+    "geom:longitude":-75.669308,
+    "iso:country":"US",
+    "sg:address":"5 University Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 4450",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YcK2VV8gNlGIvfhsBvv2s_39.666432_-75.669308@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221633,
+    "wof:geomhash":"6088054280633cb158159ae9f378346a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873467431
+        }
+    ],
+    "wof:id":873467431,
+    "wof:lastmodified":1464221633,
+    "wof:name":"University Liquors Ltd",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.669308,
+    39.666432,
+    -75.669308,
+    39.666432
+],
+  "geometry": {"coordinates":[-75.669308,39.666432],"type":"Point"}
+}

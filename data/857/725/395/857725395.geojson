@@ -1,0 +1,73 @@
+{
+  "id": 857725395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.534618,39.746984,-75.534618,39.746984",
+    "geom:latitude":39.746984,
+    "geom:longitude":-75.534618,
+    "iso:country":"US",
+    "sg:address":"800 E 17th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 8193",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37bJkAt6Yz7atJaBSTK1yR_39.746984_-75.534618@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221350,
+    "wof:geomhash":"0a523d2ea907a37e08c835f791ebb135",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":857725395
+        }
+    ],
+    "wof:id":857725395,
+    "wof:lastmodified":1464221350,
+    "wof:name":"D & O Construction",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.534618,
+    39.746984,
+    -75.534618,
+    39.746984
+],
+  "geometry": {"coordinates":[-75.53461799999999,39.746984],"type":"Point"}
+}

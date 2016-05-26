@@ -1,0 +1,71 @@
+{
+  "id": 873468227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634667,39.739194,-75.634667,39.739194",
+    "geom:latitude":39.739194,
+    "geom:longitude":-75.634667,
+    "iso:country":"US",
+    "sg:address":"505 Greenbank Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 6621",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IU7gurEriFPHMwraeh55s_39.739194_-75.634667@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221660,
+    "wof:geomhash":"9d371890fad93e1810e29e4a2002cb3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873468227
+        }
+    ],
+    "wof:id":873468227,
+    "wof:lastmodified":1464221660,
+    "wof:name":"Reha Care Group Brandywine",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.634667,
+    39.739194,
+    -75.634667,
+    39.739194
+],
+  "geometry": {"coordinates":[-75.63466699999999,39.739194],"type":"Point"}
+}

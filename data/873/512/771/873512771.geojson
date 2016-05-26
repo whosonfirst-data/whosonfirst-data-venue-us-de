@@ -1,0 +1,73 @@
+{
+  "id": 873512771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557701,39.117599,-75.557701,39.117599",
+    "geom:latitude":39.117599,
+    "geom:longitude":-75.557701,
+    "iso:country":"US",
+    "sg:address":"119 W Camden Wyoming Ave",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 7248",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger",
+        "limo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jPlIiSWrVji5zjgiInS2l_39.117561_-75.557310@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223504,
+    "wof:geomhash":"41399efda632e7f48f2a26933d118eb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873512771
+        }
+    ],
+    "wof:id":873512771,
+    "wof:lastmodified":1464223504,
+    "wof:name":"Camelot Limousine Service",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "limo"
+    ]
+},
+  "bbox": [
+    -75.557701,
+    39.117599,
+    -75.557701,
+    39.117599
+],
+  "geometry": {"coordinates":[-75.55770099999999,39.117599],"type":"Point"}
+}

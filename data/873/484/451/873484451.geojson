@@ -1,0 +1,73 @@
+{
+  "id": 873484451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571279,39.765103,-75.571279,39.765103",
+    "geom:latitude":39.765103,
+    "geom:longitude":-75.571279,
+    "iso:country":"US",
+    "sg:address":"2402 Willard St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 0443",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OxYvetG3DUi3XfXEMMcLh_39.765103_-75.571279@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222287,
+    "wof:geomhash":"94ea87bea6414869e079ab79a8ff4075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873484451
+        }
+    ],
+    "wof:id":873484451,
+    "wof:lastmodified":1464222287,
+    "wof:name":"Life Safety Corp",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "safety"
+    ]
+},
+  "bbox": [
+    -75.571279,
+    39.765103,
+    -75.571279,
+    39.765103
+],
+  "geometry": {"coordinates":[-75.571279,39.765103],"type":"Point"}
+}

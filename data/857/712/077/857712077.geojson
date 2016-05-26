@@ -1,0 +1,73 @@
+{
+  "id": 857712077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542537,39.779537,-75.542537,39.779537",
+    "geom:latitude":39.779537,
+    "geom:longitude":-75.542537,
+    "iso:country":"US",
+    "sg:address":"407 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 6249",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential",
+        "intermediate",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PuVzIYr9Yp6YczXMHqa2y_39.779537_-75.542537@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221081,
+    "wof:geomhash":"5ed314b952fbb854eaf054fa7d348ba1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":857712077
+        }
+    ],
+    "wof:id":857712077,
+    "wof:lastmodified":1464221081,
+    "wof:name":"Marriott",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "intermediate",
+        "facility"
+    ]
+},
+  "bbox": [
+    -75.542537,
+    39.779537,
+    -75.542537,
+    39.779537
+],
+  "geometry": {"coordinates":[-75.542537,39.779537],"type":"Point"}
+}

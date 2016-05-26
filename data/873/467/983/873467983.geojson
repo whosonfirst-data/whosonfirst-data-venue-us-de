@@ -1,0 +1,71 @@
+{
+  "id": 873467983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.498519,39.824664,-75.498519,39.824664",
+    "geom:latitude":39.824664,
+    "geom:longitude":-75.498519,
+    "iso:country":"US",
+    "sg:address":"2503 Cedar Tree Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 1804",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vtTbAEY54hWGJ7nHab1Du_39.824664_-75.498519@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221652,
+    "wof:geomhash":"51a904355ef4ca91eb2645deb0fd316e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873467983
+        }
+    ],
+    "wof:id":873467983,
+    "wof:lastmodified":1464221652,
+    "wof:name":"Your Way Catering",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -75.498519,
+    39.824664,
+    -75.498519,
+    39.824664
+],
+  "geometry": {"coordinates":[-75.498519,39.824664],"type":"Point"}
+}

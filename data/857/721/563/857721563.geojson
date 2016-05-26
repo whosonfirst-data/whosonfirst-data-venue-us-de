@@ -1,0 +1,73 @@
+{
+  "id": 857721563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.678641,38.863641,-75.678641,38.863641",
+    "geom:latitude":38.863641,
+    "geom:longitude":-75.678641,
+    "iso:country":"US",
+    "sg:address":"2752 Cattail Branch Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 3929",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NQ9FiLAsBJPyNO95kIItI_38.863641_-75.678641@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221281,
+    "wof:geomhash":"c57a71eb8ff33bb0979078d7c2c43df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857721563
+        }
+    ],
+    "wof:id":857721563,
+    "wof:lastmodified":1464221281,
+    "wof:name":"A Hudson Trucking",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.678641,
+    38.863641,
+    -75.678641,
+    38.863641
+],
+  "geometry": {"coordinates":[-75.678641,38.863641],"type":"Point"}
+}

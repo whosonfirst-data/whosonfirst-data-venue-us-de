@@ -1,0 +1,72 @@
+{
+  "id": 873482545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572453,39.760161,-75.572453,39.760161",
+    "geom:latitude":39.760161,
+    "geom:longitude":-75.572453,
+    "iso:country":"US",
+    "sg:address":"1300 Riverview Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 7882",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "sg:website":"www.therapyandhealth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wwcqdZyV8jxO4A9p4T4g3_39.760161_-75.572453@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222213,
+    "wof:geomhash":"d2dfeb5109b7046e917f58ff8b2e7604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873482545
+        }
+    ],
+    "wof:id":873482545,
+    "wof:lastmodified":1464222213,
+    "wof:name":"Hands On Health",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.572453,
+    39.760161,
+    -75.572453,
+    39.760161
+],
+  "geometry": {"coordinates":[-75.572453,39.760161],"type":"Point"}
+}

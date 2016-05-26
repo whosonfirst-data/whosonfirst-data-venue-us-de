@@ -1,0 +1,80 @@
+{
+  "id": 873466239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573397,39.6926,-75.573397,39.6926",
+    "geom:latitude":39.6926,
+    "geom:longitude":-75.573397,
+    "iso:country":"US",
+    "sg:address":"62 Southgate Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 2123",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor",
+        "wire",
+        "cable",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rgJewO3CVM9eDD7BIAawU_39.692600_-75.573397@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221592,
+    "wof:geomhash":"44286be619619916d385c69d2c291525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873466239
+        }
+    ],
+    "wof:id":873466239,
+    "wof:lastmodified":1464221592,
+    "wof:name":"Triton Construction Co Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "wire",
+        "cable",
+        "utility"
+    ]
+},
+  "bbox": [
+    -75.573397,
+    39.6926,
+    -75.573397,
+    39.6926
+],
+  "geometry": {"coordinates":[-75.573397,39.6926],"type":"Point"}
+}

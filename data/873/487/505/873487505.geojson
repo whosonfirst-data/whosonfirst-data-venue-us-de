@@ -1,0 +1,73 @@
+{
+  "id": 873487505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.679637,38.785588,-75.679637,38.785588",
+    "geom:latitude":38.785588,
+    "geom:longitude":-75.679637,
+    "iso:country":"US",
+    "sg:address":"4003 Seashore Hwy",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 4423",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "corn",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EoSC9OqOSbxKNWTPCx1Cx_38.785588_-75.679637@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222397,
+    "wof:geomhash":"7c83799d163a6cb5c0fc9629d7d2fff2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873487505
+        }
+    ],
+    "wof:id":873487505,
+    "wof:lastmodified":1464222397,
+    "wof:name":"James Vanderwende",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -75.679637,
+    38.785588,
+    -75.679637,
+    38.785588
+],
+  "geometry": {"coordinates":[-75.679637,38.785588],"type":"Point"}
+}

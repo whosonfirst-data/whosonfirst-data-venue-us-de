@@ -1,0 +1,69 @@
+{
+  "id": 873474919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518047,39.14352,-75.518047,39.14352",
+    "geom:latitude":39.14352,
+    "geom:longitude":-75.518047,
+    "iso:country":"US",
+    "sg:address":"1102 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 8656",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GDF0gN8OHh7HDPFincRmN_39.143520_-75.518047@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221912,
+    "wof:geomhash":"5c6341c7783cb67f874f0ac8726f24f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873474919
+        }
+    ],
+    "wof:id":873474919,
+    "wof:lastmodified":1464221912,
+    "wof:name":"Quest Diagnostics Inc",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.518047,
+    39.14352,
+    -75.518047,
+    39.14352
+],
+  "geometry": {"coordinates":[-75.518047,39.14352],"type":"Point"}
+}

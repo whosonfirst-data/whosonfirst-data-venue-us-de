@@ -1,0 +1,75 @@
+{
+  "id": 873491141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.587512,39.306291,-75.587512,39.306291",
+    "geom:latitude":39.306291,
+    "geom:longitude":-75.587512,
+    "iso:country":"US",
+    "sg:address":"350 Woodland Beach Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 8314",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "school",
+        "nonscheduled",
+        "vocational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JA97lGbWE2jsxhSTNj2AZ_39.306291_-75.587512@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222536,
+    "wof:geomhash":"09c5ffd7393c52a0e4af73f831b2ed27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873491141
+        }
+    ],
+    "wof:id":873491141,
+    "wof:lastmodified":1464222536,
+    "wof:name":"Smyrna Airport",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "nonscheduled",
+        "vocational"
+    ]
+},
+  "bbox": [
+    -75.587512,
+    39.306291,
+    -75.587512,
+    39.306291
+],
+  "geometry": {"coordinates":[-75.587512,39.306291],"type":"Point"}
+}

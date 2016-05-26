@@ -1,0 +1,71 @@
+{
+  "id": 857718323,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.480983,39.783038,-75.480983,39.783038",
+    "geom:latitude":39.783038,
+    "geom:longitude":-75.480983,
+    "iso:country":"US",
+    "sg:address":"1411 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 6646",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30bkKqAO8I8WwyWI7ugmAs_39.783038_-75.480983@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221209,
+    "wof:geomhash":"cfd64c590d7754f4698919fa3079c4f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":857718323
+        }
+    ],
+    "wof:id":857718323,
+    "wof:lastmodified":1464221209,
+    "wof:name":"Family Care Assoc",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.480983,
+    39.783038,
+    -75.480983,
+    39.783038
+],
+  "geometry": {"coordinates":[-75.48098299999999,39.783038],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857701167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.739215,39.649497,-75.739215,39.649497",
+    "geom:latitude":39.649497,
+    "geom:longitude":-75.739215,
+    "iso:country":"US",
+    "sg:address":"201 Bellevue Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 5558",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RAtcb6ARqb3M4JfQGEpds_39.649497_-75.739215@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220838,
+    "wof:geomhash":"1c589be31f678d8c2de43375b65ab58d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857701167
+        }
+    ],
+    "wof:id":857701167,
+    "wof:lastmodified":1464220838,
+    "wof:name":"Public Storage",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.739215,
+    39.649497,
+    -75.739215,
+    39.649497
+],
+  "geometry": {"coordinates":[-75.739215,39.649497],"type":"Point"}
+}

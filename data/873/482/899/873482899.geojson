@@ -1,0 +1,71 @@
+{
+  "id": 873482899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.618816,39.741749,-75.618816,39.741749",
+    "geom:latitude":39.741749,
+    "geom:longitude":-75.618816,
+    "iso:country":"US",
+    "sg:address":"301 Brookland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 218 7493",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78Nhmm4fmq4SBOwTdPrNSD_39.741749_-75.618816@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222226,
+    "wof:geomhash":"e32897b41e7dec0e2627f00a70c9f322",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873482899
+        }
+    ],
+    "wof:id":873482899,
+    "wof:lastmodified":1464222226,
+    "wof:name":"Weslar Construction Svc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.618816,
+    39.741749,
+    -75.618816,
+    39.741749
+],
+  "geometry": {"coordinates":[-75.618816,39.741749],"type":"Point"}
+}

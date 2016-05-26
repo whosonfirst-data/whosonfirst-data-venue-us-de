@@ -1,0 +1,69 @@
+{
+  "id": 873469077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.576604,39.663981,-75.576604,39.663981",
+    "geom:latitude":39.663981,
+    "geom:longitude":-75.576604,
+    "iso:country":"US",
+    "sg:address":"1206 Delaware St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 8030",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ruv1osFOwG2m1h8NP7EPT_39.663981_-75.576604@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221689,
+    "wof:geomhash":"64ec1e0308a7c9bf0c65f0ee6bb8e4cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873469077
+        }
+    ],
+    "wof:id":873469077,
+    "wof:lastmodified":1464221689,
+    "wof:name":"Mother Hubbard Child Care Ctr",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.576604,
+    39.663981,
+    -75.576604,
+    39.663981
+],
+  "geometry": {"coordinates":[-75.576604,39.663981],"type":"Point"}
+}

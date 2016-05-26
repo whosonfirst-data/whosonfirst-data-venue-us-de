@@ -1,0 +1,108 @@
+{
+  "id": 873523545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550525,39.114745,-75.550525,39.114745",
+    "geom:latitude":39.114745,
+    "geom:longitude":-75.550525,
+    "iso:country":"US",
+    "sg:address":"5 Wesley St",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3740",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment-commercial",
+        "equipment",
+        "system",
+        "specialty",
+        "supplies-refrigeration",
+        "heating",
+        "refrigeration",
+        "air conditioning",
+        "industrial",
+        "contractor",
+        "freezers-repair",
+        "refrigerator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ihY9i2T8B41RizOkZvsKk_39.114745_-75.550525@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224024,
+    "wof:geomhash":"9eab01fd1d551d1b639df3bd5bb4e3dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523545
+        }
+    ],
+    "wof:id":873523545,
+    "wof:lastmodified":1464224024,
+    "wof:name":"List Refrigeration Heating & Air Conditioning Inc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment-commercial",
+        "equipment",
+        "system",
+        "specialty",
+        "supplies-refrigeration",
+        "heating",
+        "refrigeration",
+        "air conditioning",
+        "industrial",
+        "contractor",
+        "freezers-repair",
+        "refrigerator"
+    ]
+},
+  "bbox": [
+    -75.550525,
+    39.114745,
+    -75.550525,
+    39.114745
+],
+  "geometry": {"coordinates":[-75.55052499999999,39.114745],"type":"Point"}
+}

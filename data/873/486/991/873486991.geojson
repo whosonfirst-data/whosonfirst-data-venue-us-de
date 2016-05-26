@@ -1,0 +1,71 @@
+{
+  "id": 873486991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703858,39.679196,-75.703858,39.679196",
+    "geom:latitude":39.679196,
+    "geom:longitude":-75.703858,
+    "iso:country":"US",
+    "sg:address":"5 Radnor Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 8789",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lQoHfNAqhn5nX77YOt7BD_39.679196_-75.703858@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222378,
+    "wof:geomhash":"40cc926887af209bc3047938e846c87e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873486991
+        }
+    ],
+    "wof:id":873486991,
+    "wof:lastmodified":1464222378,
+    "wof:name":"J D Construction",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -75.703858,
+    39.679196,
+    -75.703858,
+    39.679196
+],
+  "geometry": {"coordinates":[-75.703858,39.679196],"type":"Point"}
+}

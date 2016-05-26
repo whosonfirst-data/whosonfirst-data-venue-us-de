@@ -1,0 +1,73 @@
+{
+  "id": 873480721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.149101,38.544811,-75.149101,38.544811",
+    "geom:latitude":38.544811,
+    "geom:longitude":-75.149101,
+    "iso:country":"US",
+    "sg:address":"10 Wesley Ave",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 1877",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uI9lt3od4bZdrXuryg0R0_38.544811_-75.149101@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222144,
+    "wof:geomhash":"b3857146cfa81d496a3dc3a23e42bf35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873480721
+        }
+    ],
+    "wof:id":873480721,
+    "wof:lastmodified":1464222144,
+    "wof:name":"Catz Custom Painting",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.149101,
+    38.544811,
+    -75.149101,
+    38.544811
+],
+  "geometry": {"coordinates":[-75.149101,38.544811],"type":"Point"}
+}

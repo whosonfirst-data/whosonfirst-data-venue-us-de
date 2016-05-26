@@ -1,0 +1,75 @@
+{
+  "id": 873502445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55612,39.740818,-75.55612,39.740818",
+    "geom:latitude":39.740818,
+    "geom:longitude":-75.55612,
+    "iso:country":"US",
+    "sg:address":"200 N Washington St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 0100",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IqLaOl10fkNgRRc2NaRmc_39.740818_-75.556120@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223044,
+    "wof:geomhash":"26cf29dda6936b296510e64b310c0e23",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873502445
+        }
+    ],
+    "wof:id":873502445,
+    "wof:lastmodified":1464223044,
+    "wof:name":"Quaker Hill Place Co",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.55612,
+    39.740818,
+    -75.55612,
+    39.740818
+],
+  "geometry": {"coordinates":[-75.55612000000001,39.740818],"type":"Point"}
+}

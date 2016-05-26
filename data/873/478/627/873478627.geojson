@@ -1,0 +1,68 @@
+{
+  "id": 873478627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.713134,39.794274,-75.713134,39.794274",
+    "geom:latitude":39.794274,
+    "geom:longitude":-75.713134,
+    "iso:country":"US",
+    "sg:address":"7651 Lancaster Pike",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 7858",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85827779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55DiXIIXGnP9OO84Kyb0NC_39.794274_-75.713134@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222047,
+    "wof:geomhash":"1e3bd781fc0a2e18dc33a660d465d24a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85827779,
+            "region_id":85688611,
+            "venue_id":873478627
+        }
+    ],
+    "wof:id":873478627,
+    "wof:lastmodified":1464222047,
+    "wof:name":"Morel's Restaurant",
+    "wof:parent_id":85827779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.713134,
+    39.794274,
+    -75.713134,
+    39.794274
+],
+  "geometry": {"coordinates":[-75.713134,39.794274],"type":"Point"}
+}

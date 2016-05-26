@@ -1,0 +1,73 @@
+{
+  "id": 873505217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.581809,39.012254,-75.581809,39.012254",
+    "geom:latitude":39.012254,
+    "geom:longitude":-75.581809,
+    "iso:country":"US",
+    "sg:address":"105 Courtney Ln",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 241 5538",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "communications",
+        "voice",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pryvyAvPvx5hk0Iqa1Tt3_39.012254_-75.581809@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223170,
+    "wof:geomhash":"cf16b958fe1ff764f315bb8f85844878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873505217
+        }
+    ],
+    "wof:id":873505217,
+    "wof:lastmodified":1464223170,
+    "wof:name":"Complete Networking Solutions",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications",
+        "voice",
+        "datum"
+    ]
+},
+  "bbox": [
+    -75.581809,
+    39.012254,
+    -75.581809,
+    39.012254
+],
+  "geometry": {"coordinates":[-75.58180900000001,39.012254],"type":"Point"}
+}

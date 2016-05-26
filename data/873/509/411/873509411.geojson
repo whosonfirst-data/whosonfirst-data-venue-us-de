@@ -1,0 +1,71 @@
+{
+  "id": 873509411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.143623,38.579172,-75.143623,38.579172",
+    "geom:latitude":38.579172,
+    "geom:longitude":-75.143623,
+    "iso:country":"US",
+    "sg:address":"604 Sawmill Dr",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 541 5556",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z0VKcchTuW3q9ZNcLDBGx_38.579172_-75.143623@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223347,
+    "wof:geomhash":"7fb702066bad73a4a14b354dd265ca6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873509411
+        }
+    ],
+    "wof:id":873509411,
+    "wof:lastmodified":1464223347,
+    "wof:name":"Absolute Appraisals Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -75.143623,
+    38.579172,
+    -75.143623,
+    38.579172
+],
+  "geometry": {"coordinates":[-75.14362300000001,38.579172],"type":"Point"}
+}

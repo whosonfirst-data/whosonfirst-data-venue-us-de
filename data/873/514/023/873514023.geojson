@@ -1,0 +1,76 @@
+{
+  "id": 873514023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.313668,38.788121,-75.313668,38.788121",
+    "geom:latitude":38.788121,
+    "geom:longitude":-75.313668,
+    "iso:country":"US",
+    "sg:address":"132 Broadkill Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/milton/67324-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 5000",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zV8kEEU9r2CxObpl3XVP1_38.788238_-75.313130@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223562,
+    "wof:geomhash":"c24bc6f8c9cd5373afb787b515c5f37c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873514023
+        }
+    ],
+    "wof:id":873514023,
+    "wof:lastmodified":1464223562,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.313668,
+    38.788121,
+    -75.313668,
+    38.788121
+],
+  "geometry": {"coordinates":[-75.31366800000001,38.788121],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857733791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.091444,38.529713,-75.091444,38.529713",
+    "geom:latitude":38.529713,
+    "geom:longitude":-75.091444,
+    "iso:country":"US",
+    "sg:address":"16 Hickory St",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 9595",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26SzQU20Q3096pduitDQUD_38.529713_-75.091444@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221515,
+    "wof:geomhash":"6b5479961c929c2bf8559d1382056db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857733791
+        }
+    ],
+    "wof:id":857733791,
+    "wof:lastmodified":1464221515,
+    "wof:name":"Atlantic Consulting Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -75.091444,
+    38.529713,
+    -75.091444,
+    38.529713
+],
+  "geometry": {"coordinates":[-75.091444,38.529713],"type":"Point"}
+}

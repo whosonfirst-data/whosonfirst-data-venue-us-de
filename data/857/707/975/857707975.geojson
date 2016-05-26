@@ -1,0 +1,71 @@
+{
+  "id": 857707975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.628585,39.724044,-75.628585,39.724044",
+    "geom:latitude":39.724044,
+    "geom:longitude":-75.628585,
+    "iso:country":"US",
+    "sg:address":"781 Kiamensi Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 9741",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01e0swyBZ4Pq0EjLPAOUrk_39.724044_-75.628585@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220972,
+    "wof:geomhash":"415216ad1fe35fc816cd0fc34fd7ea50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857707975
+        }
+    ],
+    "wof:id":857707975,
+    "wof:lastmodified":1464220972,
+    "wof:name":"Ric Ackerman",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "electric"
+    ]
+},
+  "bbox": [
+    -75.628585,
+    39.724044,
+    -75.628585,
+    39.724044
+],
+  "geometry": {"coordinates":[-75.628585,39.724044],"type":"Point"}
+}

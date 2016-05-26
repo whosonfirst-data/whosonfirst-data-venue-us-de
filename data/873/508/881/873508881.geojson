@@ -1,0 +1,69 @@
+{
+  "id": 873508881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.584721,39.751029,-75.584721,39.751029",
+    "geom:latitude":39.751029,
+    "geom:longitude":-75.584721,
+    "iso:country":"US",
+    "sg:address":"2911 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 428 0323",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6loUbxOP4l4EOcLsTBRVk2_39.751029_-75.584721@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223326,
+    "wof:geomhash":"0d59615b3e5578051a98da06d470d1c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873508881
+        }
+    ],
+    "wof:id":873508881,
+    "wof:lastmodified":1464223326,
+    "wof:name":"Larry's Barber Shop",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.584721,
+    39.751029,
+    -75.584721,
+    39.751029
+],
+  "geometry": {"coordinates":[-75.584721,39.751029],"type":"Point"}
+}

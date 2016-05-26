@@ -1,0 +1,80 @@
+{
+  "id": 857715389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.725888,39.652445,-75.725888,39.652445",
+    "geom:latitude":39.652445,
+    "geom:longitude":-75.725888,
+    "iso:country":"US",
+    "sg:address":"825 Dawson Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 7565",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "heating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Eg37JdupWKsBiLC2h5tsy_39.652445_-75.725888@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221155,
+    "wof:geomhash":"0533610349142491f78695ec5bf00658",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857715389
+        }
+    ],
+    "wof:id":857715389,
+    "wof:lastmodified":1464221155,
+    "wof:name":"P & N Distribution Corp",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "heating"
+    ]
+},
+  "bbox": [
+    -75.725888,
+    39.652445,
+    -75.725888,
+    39.652445
+],
+  "geometry": {"coordinates":[-75.725888,39.652445],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873485581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592293,39.137564,-75.592293,39.137564",
+    "geom:latitude":39.137564,
+    "geom:longitude":-75.592293,
+    "iso:country":"US",
+    "sg:address":"3175 Hazlettville Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5056",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YKmYVrek98pHAiW0ad048_39.137564_-75.592293@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222327,
+    "wof:geomhash":"3acc332fcb3e79f6f00c913ca01b1d6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873485581
+        }
+    ],
+    "wof:id":873485581,
+    "wof:lastmodified":1464222327,
+    "wof:name":"Larmac Farms",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.592293,
+    39.137564,
+    -75.592293,
+    39.137564
+],
+  "geometry": {"coordinates":[-75.592293,39.137564],"type":"Point"}
+}

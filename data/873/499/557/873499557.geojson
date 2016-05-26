@@ -1,0 +1,73 @@
+{
+  "id": 873499557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74286,39.653333,-75.74286,39.653333",
+    "geom:latitude":39.653333,
+    "geom:longitude":-75.74286,
+    "iso:country":"US",
+    "sg:address":"404 Douglas D Alley Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 5474",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H4ioiZHPoWTmxxQhFK4rs_39.653333_-75.742860@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222921,
+    "wof:geomhash":"cc4fcc1591a0babbcd899fd9cee39ab2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873499557
+        }
+    ],
+    "wof:id":873499557,
+    "wof:lastmodified":1464222921,
+    "wof:name":"Charles Weindel",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.74286,
+    39.653333,
+    -75.74286,
+    39.653333
+],
+  "geometry": {"coordinates":[-75.74285999999999,39.653333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873518883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682135,39.721293,-75.682135,39.721293",
+    "geom:latitude":39.721293,
+    "geom:longitude":-75.682135,
+    "iso:country":"US",
+    "sg:address":"2710 Keswick Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 1083",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z8ACCchg9WlwjFJamcwF5_39.721293_-75.682135@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223831,
+    "wof:geomhash":"cb1220b6a414b13603aece12a5976118",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873518883
+        }
+    ],
+    "wof:id":873518883,
+    "wof:lastmodified":1464223831,
+    "wof:name":"May's Plumbing Works",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -75.682135,
+    39.721293,
+    -75.682135,
+    39.721293
+],
+  "geometry": {"coordinates":[-75.682135,39.721293],"type":"Point"}
+}

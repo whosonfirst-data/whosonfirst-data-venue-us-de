@@ -1,0 +1,71 @@
+{
+  "id": 873499569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.655809,39.723281,-75.655809,39.723281",
+    "geom:latitude":39.723281,
+    "geom:longitude":-75.655809,
+    "iso:country":"US",
+    "sg:address":"4503 Verona Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8088",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1isUu7HHZxZhZgIGbBE3Q4_39.723281_-75.655809@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222922,
+    "wof:geomhash":"dc82a4fbfd3c23bc5bbed30e59faa3b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873499569
+        }
+    ],
+    "wof:id":873499569,
+    "wof:lastmodified":1464222922,
+    "wof:name":"Phantom Sound & Video",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.655809,
+    39.723281,
+    -75.655809,
+    39.723281
+],
+  "geometry": {"coordinates":[-75.655809,39.723281],"type":"Point"}
+}

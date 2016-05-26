@@ -1,0 +1,73 @@
+{
+  "id": 857690945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574531,39.744837,-75.574531,39.744837",
+    "geom:latitude":39.744837,
+    "geom:longitude":-75.574531,
+    "iso:country":"US",
+    "sg:address":"1800 Elm St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 0024",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i1DbjMIYCCDLmpxnThppd_39.744837_-75.574531@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220639,
+    "wof:geomhash":"560009fbfd424ced00caf478c6edabac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":857690945
+        }
+    ],
+    "wof:id":857690945,
+    "wof:lastmodified":1464220639,
+    "wof:name":"Carlino Liquors Inc",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.574531,
+    39.744837,
+    -75.574531,
+    39.744837
+],
+  "geometry": {"coordinates":[-75.57453099999999,39.744837],"type":"Point"}
+}

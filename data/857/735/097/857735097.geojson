@@ -1,0 +1,71 @@
+{
+  "id": 857735097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.581857,39.689571,-75.581857,39.689571",
+    "geom:latitude":39.689571,
+    "geom:longitude":-75.581857,
+    "iso:country":"US",
+    "sg:address":"1418 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 395 1474",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QMdYAmlicd5U4c3QvXjfz_39.689571_-75.581857@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221542,
+    "wof:geomhash":"8697c06c592460381a61f1177c07f9db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857735097
+        }
+    ],
+    "wof:id":857735097,
+    "wof:lastmodified":1464221542,
+    "wof:name":"Spinelli's Nutrition Ctr",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -75.581857,
+    39.689571,
+    -75.581857,
+    39.689571
+],
+  "geometry": {"coordinates":[-75.581857,39.689571],"type":"Point"}
+}

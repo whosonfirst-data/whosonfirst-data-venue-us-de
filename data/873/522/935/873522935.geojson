@@ -1,0 +1,74 @@
+{
+  "id": 873522935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528349,39.150664,-75.528349,39.150664",
+    "geom:latitude":39.150664,
+    "geom:longitude":-75.528349,
+    "iso:country":"US",
+    "sg:address":"737 S Queen St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 1800",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dermatologist"
+    ],
+    "sg:website":"www.dederm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GfhRghoDElqZfWAaIcqep_39.150664_-75.528349@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224003,
+    "wof:geomhash":"47a5ad97654e76145aa54d81ff3efbd5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873522935
+        }
+    ],
+    "wof:id":873522935,
+    "wof:lastmodified":1464224003,
+    "wof:name":"Delaware Dermatology PA",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dermatologist"
+    ]
+},
+  "bbox": [
+    -75.528349,
+    39.150664,
+    -75.528349,
+    39.150664
+],
+  "geometry": {"coordinates":[-75.52834900000001,39.150664],"type":"Point"}
+}

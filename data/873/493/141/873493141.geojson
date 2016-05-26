@@ -1,0 +1,73 @@
+{
+  "id": 873493141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675687,39.690763,-75.675687,39.690763",
+    "geom:latitude":39.690763,
+    "geom:longitude":-75.675687,
+    "iso:country":"US",
+    "sg:address":"22 Omega Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 9394",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6oA9zHcJGLGtp8oPzIPQ97_39.690763_-75.675687@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222612,
+    "wof:geomhash":"4d461f3ebf43ef2c2875e4ee9fd17a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873493141
+        }
+    ],
+    "wof:id":873493141,
+    "wof:lastmodified":1464222612,
+    "wof:name":"Bruce C Turner MD",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.675687,
+    39.690763,
+    -75.675687,
+    39.690763
+],
+  "geometry": {"coordinates":[-75.675687,39.690763],"type":"Point"}
+}

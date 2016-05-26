@@ -1,0 +1,71 @@
+{
+  "id": 857700361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.685057,39.706799,-75.685057,39.706799",
+    "geom:latitude":39.706799,
+    "geom:longitude":-75.685057,
+    "iso:country":"US",
+    "sg:address":"2675 Kirkwood Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 1213",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SUjcYVhqvVggXYrzKYGpU_39.706799_-75.685057@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220821,
+    "wof:geomhash":"33d017194700cb8b98304c931438cd0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857700361
+        }
+    ],
+    "wof:id":857700361,
+    "wof:lastmodified":1464220821,
+    "wof:name":"Lou's Gun Shop",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -75.685057,
+    39.706799,
+    -75.685057,
+    39.706799
+],
+  "geometry": {"coordinates":[-75.685057,39.706799],"type":"Point"}
+}

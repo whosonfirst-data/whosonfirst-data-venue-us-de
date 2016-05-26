@@ -1,0 +1,71 @@
+{
+  "id": 873504825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540378,39.705221,-75.540378,39.705221",
+    "geom:latitude":39.705221,
+    "geom:longitude":-75.540378,
+    "iso:country":"US",
+    "sg:address":"502 Lambson Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 2088",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nSwvVfnYczBH1dpB2TltG_39.705221_-75.540378@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223149,
+    "wof:geomhash":"7e6f7ab595d0235e3cfbac22023bb8ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873504825
+        }
+    ],
+    "wof:id":873504825,
+    "wof:lastmodified":1464223149,
+    "wof:name":"Billy's Towing",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -75.540378,
+    39.705221,
+    -75.540378,
+    39.705221
+],
+  "geometry": {"coordinates":[-75.540378,39.705221],"type":"Point"}
+}

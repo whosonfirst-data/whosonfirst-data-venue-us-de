@@ -1,0 +1,71 @@
+{
+  "id": 873475447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.749491,39.61638,-75.749491,39.61638",
+    "geom:latitude":39.61638,
+    "geom:longitude":-75.749491,
+    "iso:country":"US",
+    "sg:address":"355 Corporate Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 0300",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lab",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bLRV20zSRowXG3ACIkNzN_39.616380_-75.749491@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221930,
+    "wof:geomhash":"9f5cd7bc04ffd16784410a734c46331b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873475447
+        }
+    ],
+    "wof:id":873475447,
+    "wof:lastmodified":1464221930,
+    "wof:name":"Fisher Scientific Company LLC",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lab",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.749491,
+    39.61638,
+    -75.749491,
+    39.61638
+],
+  "geometry": {"coordinates":[-75.74949100000001,39.61638],"type":"Point"}
+}

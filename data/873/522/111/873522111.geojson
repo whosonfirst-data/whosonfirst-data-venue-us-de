@@ -1,0 +1,73 @@
+{
+  "id": 873522111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518623,39.179008,-75.518623,39.179008",
+    "geom:latitude":39.179008,
+    "geom:longitude":-75.518623,
+    "iso:country":"US",
+    "sg:address":"789 Miller Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 423 8478",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IUBqvR7dxmZUZWyGPceMm_39.179008_-75.518623@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223967,
+    "wof:geomhash":"968869a467a2cc7418a0dc514c9c6044",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873522111
+        }
+    ],
+    "wof:id":873522111,
+    "wof:lastmodified":1464223967,
+    "wof:name":"Vmh Properties",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "park"
+    ]
+},
+  "bbox": [
+    -75.518623,
+    39.179008,
+    -75.518623,
+    39.179008
+],
+  "geometry": {"coordinates":[-75.51862300000001,39.179008],"type":"Point"}
+}

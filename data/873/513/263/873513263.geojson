@@ -1,0 +1,72 @@
+{
+  "id": 873513263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662769,39.689983,-75.662769,39.689983",
+    "geom:latitude":39.689983,
+    "geom:longitude":-75.662769,
+    "iso:country":"US",
+    "sg:address":"1127 Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/21835-cheese-steaks/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 283 1314",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cheesesteaks",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61jXlvh3knXq0epaQzrqS7_39.689983_-75.662769@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223523,
+    "wof:geomhash":"da9dd79eb8f220a036dcaa5abf6e8e4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513263
+        }
+    ],
+    "wof:id":873513263,
+    "wof:lastmodified":1464223523,
+    "wof:name":"Cheese Steaks",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cheesesteaks",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.662769,
+    39.689983,
+    -75.662769,
+    39.689983
+],
+  "geometry": {"coordinates":[-75.662769,39.689983],"type":"Point"}
+}

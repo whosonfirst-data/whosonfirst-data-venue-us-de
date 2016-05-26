@@ -1,0 +1,71 @@
+{
+  "id": 873475241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589797,38.810496,-75.589797,38.810496",
+    "geom:latitude":38.810496,
+    "geom:longitude":-75.589797,
+    "iso:country":"US",
+    "sg:address":"24 Cart Branch Cir",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 4981",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00udF12rqZu2yDckcNsEE4_38.810496_-75.589797@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221923,
+    "wof:geomhash":"3f4b885c4fe2dc1f1d8a358f03f2dceb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873475241
+        }
+    ],
+    "wof:id":873475241,
+    "wof:lastmodified":1464221923,
+    "wof:name":"Missimer General Contracting",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.589797,
+    38.810496,
+    -75.589797,
+    38.810496
+],
+  "geometry": {"coordinates":[-75.589797,38.810496],"type":"Point"}
+}

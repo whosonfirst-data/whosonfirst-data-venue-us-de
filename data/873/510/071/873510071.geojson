@@ -1,0 +1,71 @@
+{
+  "id": 873510071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.229644,38.456368,-75.229644,38.456368",
+    "geom:latitude":38.456368,
+    "geom:longitude":-75.229644,
+    "iso:country":"US",
+    "sg:address":"79 Church St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 9388",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y7ZY0ggj0gvlvwuKHwmZO_38.456368_-75.229644@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223381,
+    "wof:geomhash":"ff7ee375ba1c4fdd25d525348416e22b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873510071
+        }
+    ],
+    "wof:id":873510071,
+    "wof:lastmodified":1464223381,
+    "wof:name":"Latin Groceries",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.229644,
+    38.456368,
+    -75.229644,
+    38.456368
+],
+  "geometry": {"coordinates":[-75.22964399999999,38.456368],"type":"Point"}
+}

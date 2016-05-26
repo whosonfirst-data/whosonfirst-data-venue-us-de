@@ -1,0 +1,66 @@
+{
+  "id": 873523595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547699,39.108002,-75.547699,39.108002",
+    "geom:latitude":39.108002,
+    "geom:longitude":-75.547699,
+    "iso:country":"US",
+    "sg:address":"109 S Main St",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 8109",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RhI2RY0dq8KqCh3KO4LjH_39.108002_-75.547699@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224025,
+    "wof:geomhash":"bb41b42aeaab64efef87c765f5fe6f15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523595
+        }
+    ],
+    "wof:id":873523595,
+    "wof:lastmodified":1464224025,
+    "wof:name":"Camden Car Wash",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.547699,
+    39.108002,
+    -75.547699,
+    39.108002
+],
+  "geometry": {"coordinates":[-75.54769899999999,39.108002],"type":"Point"}
+}

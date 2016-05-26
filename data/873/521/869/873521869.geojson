@@ -1,0 +1,71 @@
+{
+  "id": 873521869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5519,39.079289,-75.5519,39.079289",
+    "geom:latitude":39.079289,
+    "geom:longitude":-75.5519,
+    "iso:country":"US",
+    "sg:address":"5485 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 0300",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rlLz0s94gf0XGNYfUPvd0_39.079289_-75.551900@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223957,
+    "wof:geomhash":"a7bd8f7ae3ccc99c37411d4124021fc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873521869
+        }
+    ],
+    "wof:id":873521869,
+    "wof:lastmodified":1464223957,
+    "wof:name":"Uncle Willie's",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.5519,
+    39.079289,
+    -75.5519,
+    39.079289
+],
+  "geometry": {"coordinates":[-75.5519,39.079289],"type":"Point"}
+}

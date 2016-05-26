@@ -1,0 +1,72 @@
+{
+  "id": 873514015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567118,38.926359,-75.567118,38.926359",
+    "geom:latitude":38.926359,
+    "geom:longitude":-75.567118,
+    "iso:country":"US",
+    "sg:address":"16994 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/harrington/158511-arbys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8722",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GzYqcYzSKNa96TD4JzVby_38.926680_-75.567403@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223562,
+    "wof:geomhash":"8dc9a1230519ca8e60e4b4d63369dd88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873514015
+        }
+    ],
+    "wof:id":873514015,
+    "wof:lastmodified":1464223562,
+    "wof:name":"Arby's",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.567118,
+    38.926359,
+    -75.567118,
+    38.926359
+],
+  "geometry": {"coordinates":[-75.56711799999999,38.926359],"type":"Point"}
+}

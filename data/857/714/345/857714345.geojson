@@ -1,0 +1,74 @@
+{
+  "id": 857714345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572553,39.693422,-75.572553,39.693422",
+    "geom:latitude":39.693422,
+    "geom:longitude":-75.572553,
+    "iso:country":"US",
+    "sg:address":"42 Southgate Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 1776",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ],
+    "sg:website":"www.nationalhvacservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69fVh3JLPCUZE43gZ2YKTI_39.693422_-75.572553@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221136,
+    "wof:geomhash":"60911d5677de97045e657ecbfc9d8426",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857714345
+        }
+    ],
+    "wof:id":857714345,
+    "wof:lastmodified":1464221136,
+    "wof:name":"National Hvac Svc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -75.572553,
+    39.693422,
+    -75.572553,
+    39.693422
+],
+  "geometry": {"coordinates":[-75.572553,39.693422],"type":"Point"}
+}

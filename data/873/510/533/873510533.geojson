@@ -1,0 +1,69 @@
+{
+  "id": 873510533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544013,39.800213,-75.544013,39.800213",
+    "geom:latitude":39.800213,
+    "geom:longitude":-75.544013,
+    "iso:country":"US",
+    "sg:address":"103 Cleveland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 4575",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gGeMVGtuWTnJ04EsKeMmI_39.800213_-75.544013@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223397,
+    "wof:geomhash":"ec34b5824dab6d6052de366d6b552942",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873510533
+        }
+    ],
+    "wof:id":873510533,
+    "wof:lastmodified":1464223397,
+    "wof:name":"Independent Vending and Sales",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -75.544013,
+    39.800213,
+    -75.544013,
+    39.800213
+],
+  "geometry": {"coordinates":[-75.54401300000001,39.800213],"type":"Point"}
+}

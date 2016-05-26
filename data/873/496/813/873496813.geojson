@@ -1,0 +1,71 @@
+{
+  "id": 873496813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.477941,39.779128,-75.477941,39.779128",
+    "geom:latitude":39.779128,
+    "geom:longitude":-75.477941,
+    "iso:country":"US",
+    "sg:address":"6605 Governor Printz Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 1472",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QuqwImefkr5o7h2ZBtn18_39.779128_-75.477941@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222817,
+    "wof:geomhash":"a70ca302d1041566560c2e740997e5f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873496813
+        }
+    ],
+    "wof:id":873496813,
+    "wof:lastmodified":1464222817,
+    "wof:name":"Ryder",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "truck"
+    ]
+},
+  "bbox": [
+    -75.477941,
+    39.779128,
+    -75.477941,
+    39.779128
+],
+  "geometry": {"coordinates":[-75.477941,39.779128],"type":"Point"}
+}

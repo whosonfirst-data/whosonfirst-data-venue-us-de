@@ -1,0 +1,78 @@
+{
+  "id": 873513593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505141,39.800633,-75.505141,39.800633",
+    "geom:latitude":39.800633,
+    "geom:longitude":-75.505141,
+    "iso:country":"US",
+    "sg:address":"1732 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/149527-einstein-bros/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 7488",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13q9ZFXmYvUbhXpEBlUbmz_39.800633_-75.505141@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223538,
+    "wof:geomhash":"8f9922b83efc7423dfbb6b64ae490244",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873513593
+        }
+    ],
+    "wof:id":873513593,
+    "wof:lastmodified":1464223538,
+    "wof:name":"Einstein Bros",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -75.505141,
+    39.800633,
+    -75.505141,
+    39.800633
+],
+  "geometry": {"coordinates":[-75.50514099999999,39.800633],"type":"Point"}
+}

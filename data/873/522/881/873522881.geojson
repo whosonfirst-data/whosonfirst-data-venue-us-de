@@ -1,0 +1,83 @@
+{
+  "id": 873522881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551507,39.158771,-75.551507,39.158771",
+    "geom:latitude":39.158771,
+    "geom:longitude":-75.551507,
+    "iso:country":"US",
+    "sg:address":"1238 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 632 8448",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z1rrJs0s16r8IYYDP5ddB_39.158771_-75.551507@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224002,
+    "wof:geomhash":"1e9b6cdefd2d7f6c4b5b8f500317394d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873522881
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873522881
+        }
+    ],
+    "wof:id":873522881,
+    "wof:lastmodified":1464224002,
+    "wof:name":"Dave's Road Bikes Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -75.551507,
+    39.158771,
+    -75.551507,
+    39.158771
+],
+  "geometry": {"coordinates":[-75.551507,39.158771],"type":"Point"}
+}

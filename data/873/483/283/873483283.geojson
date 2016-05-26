@@ -1,0 +1,73 @@
+{
+  "id": 873483283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.254504,38.580558,-75.254504,38.580558",
+    "geom:latitude":38.580558,
+    "geom:longitude":-75.254504,
+    "iso:country":"US",
+    "sg:address":"207 Sandy Beach Dr",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 9020",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xe8USZP2jXywnSZ49rvEB_38.580558_-75.254504@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222240,
+    "wof:geomhash":"04c30aa0b302656a724ba30eb1db3fb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873483283
+        }
+    ],
+    "wof:id":873483283,
+    "wof:lastmodified":1464222240,
+    "wof:name":"Elite Mechanical",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.254504,
+    38.580558,
+    -75.254504,
+    38.580558
+],
+  "geometry": {"coordinates":[-75.254504,38.580558],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873510043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.39287,38.684302,-75.39287,38.684302",
+    "geom:latitude":38.684302,
+    "geom:longitude":-75.39287,
+    "iso:country":"US",
+    "sg:address":"505 W Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9860",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specializing",
+        "breast",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A3K2WRkhUhLXd6GxY85dh_38.684302_-75.392870@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223380,
+    "wof:geomhash":"43b6d6203d6ec3346e1d2bed144658c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873510043
+        }
+    ],
+    "wof:id":873510043,
+    "wof:lastmodified":1464223380,
+    "wof:name":"Mid-Delmarva Breast Center",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "breast",
+        "facility"
+    ]
+},
+  "bbox": [
+    -75.39287,
+    38.684302,
+    -75.39287,
+    38.684302
+],
+  "geometry": {"coordinates":[-75.39287,38.684302],"type":"Point"}
+}

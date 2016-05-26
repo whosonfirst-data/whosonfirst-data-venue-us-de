@@ -1,0 +1,80 @@
+{
+  "id": 873504059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523972,39.148249,-75.523972,39.148249",
+    "geom:latitude":39.148249,
+    "geom:longitude":-75.523972,
+    "iso:country":"US",
+    "sg:address":"938 S Bradford St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 0554",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3orMZso2RQtC3fa9MOXZZj_39.148249_-75.523972@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223107,
+    "wof:geomhash":"6d996ab0a7610ad283712a21d208f66f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873504059
+        }
+    ],
+    "wof:id":873504059,
+    "wof:lastmodified":1464223107,
+    "wof:name":"Delaware Primary Care LLC",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.523972,
+    39.148249,
+    -75.523972,
+    39.148249
+],
+  "geometry": {"coordinates":[-75.523972,39.148249],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873489379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.31607,38.782593,-75.31607,38.782593",
+    "geom:latitude":38.782593,
+    "geom:longitude":-75.31607,
+    "iso:country":"US",
+    "sg:address":"424 Mulberry St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 2010",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B80hjmEPy7enJWcNE3REO_38.782593_-75.316070@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222470,
+    "wof:geomhash":"88d510995e3c974bd9064bdd132f0a05",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873489379
+        }
+    ],
+    "wof:id":873489379,
+    "wof:lastmodified":1464222470,
+    "wof:name":"Bayhealth Medical Ctr",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.31607,
+    38.782593,
+    -75.31607,
+    38.782593
+],
+  "geometry": {"coordinates":[-75.31607,38.782593],"type":"Point"}
+}

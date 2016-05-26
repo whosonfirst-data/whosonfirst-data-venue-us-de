@@ -1,0 +1,74 @@
+{
+  "id": 873499565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745913,39.60564,-75.745913,39.60564",
+    "geom:latitude":39.60564,
+    "geom:longitude":-75.745913,
+    "iso:country":"US",
+    "sg:address":"2431 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 3232",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lIlimMrvQ4pUahLxcgnHe_39.605640_-75.745913@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222922,
+    "wof:geomhash":"6c7fa67e8233b4c72d3ed6e36deb55e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873499565
+        }
+    ],
+    "wof:id":873499565,
+    "wof:lastmodified":1464222922,
+    "wof:name":"Tidewater Tattoo Studio",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -75.745913,
+    39.60564,
+    -75.745913,
+    39.60564
+],
+  "geometry": {"coordinates":[-75.745913,39.60564],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873476929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602127,39.71711,-75.602127,39.71711",
+    "geom:latitude":39.71711,
+    "geom:longitude":-75.602127,
+    "iso:country":"US",
+    "sg:address":"1500 E Newport Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 8305",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sell",
+        "chemical",
+        "market",
+        "fragrance"
+    ],
+    "sg:website":"www.horizonaromatics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fJJRQWR9EN45zYouXsS86_39.717110_-75.602127@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221981,
+    "wof:geomhash":"338639bf5bd674be00beb1834503e807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873476929
+        }
+    ],
+    "wof:id":873476929,
+    "wof:lastmodified":1464221981,
+    "wof:name":"Horizon Aromatic Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sell",
+        "chemical",
+        "market",
+        "fragrance"
+    ]
+},
+  "bbox": [
+    -75.602127,
+    39.71711,
+    -75.602127,
+    39.71711
+],
+  "geometry": {"coordinates":[-75.602127,39.71711],"type":"Point"}
+}

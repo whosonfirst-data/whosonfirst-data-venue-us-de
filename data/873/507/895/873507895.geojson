@@ -1,0 +1,71 @@
+{
+  "id": 873507895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.761916,39.600898,-75.761916,39.600898",
+    "geom:latitude":39.600898,
+    "geom:longitude":-75.761916,
+    "iso:country":"US",
+    "sg:address":"15 Coralberry Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 2827",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YGrLebHb7xCGR1ENpCRLT_39.600898_-75.761916@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223276,
+    "wof:geomhash":"a478071ce34851be18103841eeb09f94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873507895
+        }
+    ],
+    "wof:id":873507895,
+    "wof:lastmodified":1464223276,
+    "wof:name":"Gold Leaf Painting",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.761916,
+    39.600898,
+    -75.761916,
+    39.600898
+],
+  "geometry": {"coordinates":[-75.761916,39.600898],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 873514635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.753915,39.604328,-75.753915,39.604328",
+    "geom:latitude":39.604328,
+    "geom:longitude":-75.753915,
+    "iso:country":"US",
+    "sg:address":"2515 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 2800",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tire",
+        "equipment",
+        "brake",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.palumbos.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PY81tmRn6fj1UYKe0ADZQ_39.604328_-75.753915@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223601,
+    "wof:geomhash":"92702aa837763ef537d6016b92d59ff0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514635
+        }
+    ],
+    "wof:id":873514635,
+    "wof:lastmodified":1464223601,
+    "wof:name":"Palumbo's Car Care Center, Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tire",
+        "equipment",
+        "brake",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -75.753915,
+    39.604328,
+    -75.753915,
+    39.604328
+],
+  "geometry": {"coordinates":[-75.75391500000001,39.604328],"type":"Point"}
+}

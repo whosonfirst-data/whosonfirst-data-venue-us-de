@@ -1,0 +1,73 @@
+{
+  "id": 873469675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570821,39.75027,-75.570821,39.75027",
+    "geom:latitude":39.75027,
+    "geom:longitude":-75.570821,
+    "iso:country":"US",
+    "sg:address":"1800 W 6th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 1646",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47fOtLwF23kvCvmHM3l6cs_39.750270_-75.570821@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221718,
+    "wof:geomhash":"bf61357d42cce4868a197c2cb50c6a84",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873469675
+        }
+    ],
+    "wof:id":873469675,
+    "wof:lastmodified":1464221718,
+    "wof:name":"C J Barts",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.570821,
+    39.75027,
+    -75.570821,
+    39.75027
+],
+  "geometry": {"coordinates":[-75.570821,39.75027],"type":"Point"}
+}

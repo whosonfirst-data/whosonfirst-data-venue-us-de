@@ -1,0 +1,71 @@
+{
+  "id": 873464599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.200772,38.699111,-75.200772,38.699111",
+    "geom:latitude":38.699111,
+    "geom:longitude":-75.200772,
+    "iso:country":"US",
+    "sg:address":"20433 Wil King Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 5798",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AKhnOLHqUQFt7M7bLQJB0_38.699111_-75.200772@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221561,
+    "wof:geomhash":"229ca711ad98b23e49c290128e166b60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873464599
+        }
+    ],
+    "wof:id":873464599,
+    "wof:lastmodified":1464221561,
+    "wof:name":"Craft's Automotive Svc",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.200772,
+    38.699111,
+    -75.200772,
+    38.699111
+],
+  "geometry": {"coordinates":[-75.200772,38.699111],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 873514423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.669428,39.672055,-75.669428,39.672055",
+    "geom:latitude":39.672055,
+    "geom:longitude":-75.669428,
+    "iso:country":"US",
+    "sg:address":"500 Eagle Run Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 6336",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:website":"http://www.sears.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fwdtWJNO3xP6Opea3vtDz_39.672055_-75.669428@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223588,
+    "wof:geomhash":"567b04c398a2d1606023518962991581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514423
+        }
+    ],
+    "wof:id":873514423,
+    "wof:lastmodified":1464223588,
+    "wof:name":"Sears, Roebuck And Co.",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.669428,
+    39.672055,
+    -75.669428,
+    39.672055
+],
+  "geometry": {"coordinates":[-75.669428,39.672055],"type":"Point"}
+}

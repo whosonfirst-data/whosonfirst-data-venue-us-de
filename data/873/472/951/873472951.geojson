@@ -1,0 +1,71 @@
+{
+  "id": 873472951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563363,39.760309,-75.563363,39.760309",
+    "geom:latitude":39.760309,
+    "geom:longitude":-75.563363,
+    "iso:country":"US",
+    "sg:address":"1704 N Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 8548",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10z5qcg8ywOqNYatzvPRwJ_39.760309_-75.563363@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221840,
+    "wof:geomhash":"8a0fb7334040d0ec33df4df383d22697",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873472951
+        }
+    ],
+    "wof:id":873472951,
+    "wof:lastmodified":1464221840,
+    "wof:name":"Ward's Fine Wines & Liquors",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.563363,
+    39.760309,
+    -75.563363,
+    39.760309
+],
+  "geometry": {"coordinates":[-75.563363,39.760309],"type":"Point"}
+}

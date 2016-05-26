@@ -1,0 +1,76 @@
+{
+  "id": 873516407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.673798,39.691639,-75.673798,39.691639",
+    "geom:latitude":39.691639,
+    "geom:longitude":-75.673798,
+    "iso:country":"US",
+    "sg:address":"200 Hygeia Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 623 0240",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IIb1GGGr94DNy0gJa03zF_39.691639_-75.673798@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223684,
+    "wof:geomhash":"655c5f4bc5be4bce3cd9af4271009f81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516407
+        }
+    ],
+    "wof:id":873516407,
+    "wof:lastmodified":1464223684,
+    "wof:name":"Jackovic, Elizabeth, Do - Healthcare Center Christiana",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -75.673798,
+    39.691639,
+    -75.673798,
+    39.691639
+],
+  "geometry": {"coordinates":[-75.67379800000001,39.691639],"type":"Point"}
+}

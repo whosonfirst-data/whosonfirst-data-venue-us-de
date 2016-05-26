@@ -1,0 +1,73 @@
+{
+  "id": 873488123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.509881,38.949469,-75.509881,38.949469",
+    "geom:latitude":38.949469,
+    "geom:longitude":-75.509881,
+    "iso:country":"US",
+    "sg:address":"199 Genesis Ln",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 7580",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uVNJsLjWU5uZq9ZJIlBNJ_38.949469_-75.509881@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222427,
+    "wof:geomhash":"367fc5371d97757548bd479fb8af0f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873488123
+        }
+    ],
+    "wof:id":873488123,
+    "wof:lastmodified":1464222427,
+    "wof:name":"3 Rs Trucking",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.509881,
+    38.949469,
+    -75.509881,
+    38.949469
+],
+  "geometry": {"coordinates":[-75.50988099999999,38.949469],"type":"Point"}
+}

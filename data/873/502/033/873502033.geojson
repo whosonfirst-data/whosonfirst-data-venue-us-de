@@ -1,0 +1,78 @@
+{
+  "id": 873502033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081196,38.542789,-75.081196,38.542789",
+    "geom:latitude":38.542789,
+    "geom:longitude":-75.081196,
+    "iso:country":"US",
+    "sg:address":"17 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 6641",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VDKwVtLhp3KzEbz5oZm0n_38.542789_-75.081196@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223029,
+    "wof:geomhash":"7b6938c045a2e4b28b440fa9d784d614",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873502033
+        }
+    ],
+    "wof:id":873502033,
+    "wof:lastmodified":1464223029,
+    "wof:name":"Associates In Medicine PA",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.081196,
+    38.542789,
+    -75.081196,
+    38.542789
+],
+  "geometry": {"coordinates":[-75.08119600000001,38.542789],"type":"Point"}
+}

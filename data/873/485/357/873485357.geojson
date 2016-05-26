@@ -1,0 +1,71 @@
+{
+  "id": 873485357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548921,38.989857,-75.548921,38.989857",
+    "geom:latitude":38.989857,
+    "geom:longitude":-75.548921,
+    "iso:country":"US",
+    "sg:address":"5212 Killens Pond Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4102",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08mA5J07R5xkA3E6agw4X5_38.989857_-75.548921@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222319,
+    "wof:geomhash":"5dc8479bfa5bb31a34fd125dfcb7e887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873485357
+        }
+    ],
+    "wof:id":873485357,
+    "wof:lastmodified":1464222319,
+    "wof:name":"All Angels",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -75.548921,
+    38.989857,
+    -75.548921,
+    38.989857
+],
+  "geometry": {"coordinates":[-75.54892100000001,38.989857],"type":"Point"}
+}

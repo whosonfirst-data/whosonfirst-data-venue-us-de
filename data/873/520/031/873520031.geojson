@@ -1,0 +1,75 @@
+{
+  "id": 873520031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.502098,39.822701,-75.502098,39.822701",
+    "geom:latitude":39.822701,
+    "geom:longitude":-75.502098,
+    "iso:country":"US",
+    "sg:address":"3500 Naamans Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 2200",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VsGfiIt5gmzHarUyiO8z7_39.822701_-75.502098@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223882,
+    "wof:geomhash":"edb649ea5d957e15609555b1a56cf659",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873520031
+        }
+    ],
+    "wof:id":873520031,
+    "wof:lastmodified":1464223882,
+    "wof:name":"Wilmington Piano Co",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -75.502098,
+    39.822701,
+    -75.502098,
+    39.822701
+],
+  "geometry": {"coordinates":[-75.502098,39.822701],"type":"Point"}
+}

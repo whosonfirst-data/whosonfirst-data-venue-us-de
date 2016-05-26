@@ -1,0 +1,74 @@
+{
+  "id": 873522777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544701,39.1698,-75.544701,39.1698",
+    "geom:latitude":39.1698,
+    "geom:longitude":-75.544701,
+    "iso:country":"US",
+    "sg:address":"942 Walker Rd Ste B",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9962",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.psychotherapeuticservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85852037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZACjAVx402A3FjSjhIzqC_39.169800_-75.544701@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223998,
+    "wof:geomhash":"bcdd267c494cc939e68336266d02757e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85852037,
+            "region_id":85688611,
+            "venue_id":873522777
+        }
+    ],
+    "wof:id":873522777,
+    "wof:lastmodified":1464223998,
+    "wof:name":"Psychotherapeutic Services",
+    "wof:parent_id":85852037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.544701,
+    39.1698,
+    -75.544701,
+    39.1698
+],
+  "geometry": {"coordinates":[-75.544701,39.1698],"type":"Point"}
+}

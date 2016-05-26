@@ -1,0 +1,71 @@
+{
+  "id": 873468289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606427,39.300714,-75.606427,39.300714",
+    "geom:latitude":39.300714,
+    "geom:longitude":-75.606427,
+    "iso:country":"US",
+    "sg:address":"5 W Commerce St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 9245",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RVXKXKR92NBJBL8VWPun7_39.300714_-75.606427@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221662,
+    "wof:geomhash":"4e4127f6eacbf9f4655a8c1ecdebe950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873468289
+        }
+    ],
+    "wof:id":873468289,
+    "wof:lastmodified":1464221662,
+    "wof:name":"Citizens Bank of Pennsylvania",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -75.606427,
+    39.300714,
+    -75.606427,
+    39.300714
+],
+  "geometry": {"coordinates":[-75.606427,39.300714],"type":"Point"}
+}

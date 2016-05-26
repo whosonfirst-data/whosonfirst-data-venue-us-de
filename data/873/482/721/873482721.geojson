@@ -1,0 +1,70 @@
+{
+  "id": 873482721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.624139,39.730092,-75.624139,39.730092",
+    "geom:latitude":39.730092,
+    "geom:longitude":-75.624139,
+    "iso:country":"US",
+    "sg:address":"1624 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 1888",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.migenvironmental.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61lbSeEQnnBAS00NmeLFsF_39.730092_-75.624139@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222220,
+    "wof:geomhash":"dc69e22a9064a406cae7802e8333401e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873482721
+        }
+    ],
+    "wof:id":873482721,
+    "wof:lastmodified":1464222220,
+    "wof:name":"MIG Environmental",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.624139,
+    39.730092,
+    -75.624139,
+    39.730092
+],
+  "geometry": {"coordinates":[-75.624139,39.730092],"type":"Point"}
+}

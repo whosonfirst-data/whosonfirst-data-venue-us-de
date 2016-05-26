@@ -1,0 +1,75 @@
+{
+  "id": 857726205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54774,39.745501,-75.54774,39.745501",
+    "geom:latitude":39.745501,
+    "geom:longitude":-75.54774,
+    "iso:country":"US",
+    "sg:address":"902 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 2323",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XiTUunHq0FEo4fQyEPO57_39.745501_-75.547740@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221365,
+    "wof:geomhash":"25fad5a828eba49cb8100fc96b7a15ea",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857726205
+        }
+    ],
+    "wof:id":857726205,
+    "wof:lastmodified":1464221365,
+    "wof:name":"J P Morgan Chase & Co",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -75.54774,
+    39.745501,
+    -75.54774,
+    39.745501
+],
+  "geometry": {"coordinates":[-75.54774,39.745501],"type":"Point"}
+}

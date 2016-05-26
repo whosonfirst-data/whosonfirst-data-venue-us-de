@@ -1,0 +1,73 @@
+{
+  "id": 873495325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.422671,38.901089,-75.422671,38.901089",
+    "geom:latitude":38.901089,
+    "geom:longitude":-75.422671,
+    "iso:country":"US",
+    "sg:address":"626 Marshall St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 3667",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07KwwIqmaWbI5e80p0YlfL_38.901089_-75.422671@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222741,
+    "wof:geomhash":"1389b199668baa1795ded9a0923da537",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873495325
+        }
+    ],
+    "wof:id":873495325,
+    "wof:lastmodified":1464222741,
+    "wof:name":"Jamestown Inc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.422671,
+    38.901089,
+    -75.422671,
+    38.901089
+],
+  "geometry": {"coordinates":[-75.42267099999999,38.901089],"type":"Point"}
+}

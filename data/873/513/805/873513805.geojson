@@ -1,0 +1,76 @@
+{
+  "id": 873513805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.077211,38.722743,-75.077211,38.722743",
+    "geom:latitude":38.722743,
+    "geom:longitude":-75.077211,
+    "iso:country":"US",
+    "sg:address":"17 Surf Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lewes/231265-grotto-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 3601",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931597,
+        102083887,
+        85848729
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vn9Y3npUb6N8EoipvLK2p_38.722743_-75.077211@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223549,
+    "wof:geomhash":"98ce42dd1763aaae90f77dece9547eab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931597,
+            "neighbourhood_id":85848729,
+            "region_id":85688611,
+            "venue_id":873513805
+        }
+    ],
+    "wof:id":873513805,
+    "wof:lastmodified":1464223549,
+    "wof:name":"Grotto Pizza",
+    "wof:parent_id":85848729,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.077211,
+    38.722743,
+    -75.077211,
+    38.722743
+],
+  "geometry": {"coordinates":[-75.07721100000001,38.722743],"type":"Point"}
+}

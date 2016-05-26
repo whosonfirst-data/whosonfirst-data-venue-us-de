@@ -1,0 +1,71 @@
+{
+  "id": 873504485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.142435,38.771141,-75.142435,38.771141",
+    "geom:latitude":38.771141,
+    "geom:longitude":-75.142435,
+    "iso:country":"US",
+    "sg:address":"421 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 9644",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ekqd0rHqfvI9FDd1xt95D_38.771141_-75.142435@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223126,
+    "wof:geomhash":"0c8b49e88d3543b5323e6022fe6f7360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873504485
+        }
+    ],
+    "wof:id":873504485,
+    "wof:lastmodified":1464223126,
+    "wof:name":"M Clara Higgins DO",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.142435,
+    38.771141,
+    -75.142435,
+    38.771141
+],
+  "geometry": {"coordinates":[-75.14243500000001,38.771141],"type":"Point"}
+}

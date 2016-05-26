@@ -1,0 +1,71 @@
+{
+  "id": 873465553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.761948,39.641898,-75.761948,39.641898",
+    "geom:latitude":39.641898,
+    "geom:longitude":-75.761948,
+    "iso:country":"US",
+    "sg:address":"1332 Whittaker Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 7766",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22CSktWOYOIdxC6V4VwEjN_39.641898_-75.761948@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221580,
+    "wof:geomhash":"6e3d1f0cde838099d4b4fd4526eced73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873465553
+        }
+    ],
+    "wof:id":873465553,
+    "wof:lastmodified":1464221580,
+    "wof:name":"Robert F Wiesner Plumbing Co",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.761948,
+    39.641898,
+    -75.761948,
+    39.641898
+],
+  "geometry": {"coordinates":[-75.761948,39.641898],"type":"Point"}
+}

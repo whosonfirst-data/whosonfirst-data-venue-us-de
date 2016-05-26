@@ -1,0 +1,69 @@
+{
+  "id": 873474599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.516915,39.768025,-75.516915,39.768025",
+    "geom:latitude":39.768025,
+    "geom:longitude":-75.516915,
+    "iso:country":"US",
+    "sg:address":"405 Shipley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 1875",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U60ck1zApj8hePBNtZM3b_39.768025_-75.516915@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221901,
+    "wof:geomhash":"9e1863d4dff0b2d88f518259e10d95e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873474599
+        }
+    ],
+    "wof:id":873474599,
+    "wof:lastmodified":1464221901,
+    "wof:name":"Fitru Temesgen Dr",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.516915,
+    39.768025,
+    -75.516915,
+    39.768025
+],
+  "geometry": {"coordinates":[-75.516915,39.768025],"type":"Point"}
+}

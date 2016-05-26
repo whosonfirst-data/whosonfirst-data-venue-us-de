@@ -1,0 +1,76 @@
+{
+  "id": 873494579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.6561,39.724913,-75.6561,39.724913",
+    "geom:latitude":39.724913,
+    "geom:longitude":-75.6561,
+    "iso:country":"US",
+    "sg:address":"4559 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6311",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mkoTBkXhH7N6N3b8qlDGY_39.724913_-75.656100@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222687,
+    "wof:geomhash":"a2d532426df0c6b2b019f319cb62fcfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873494579
+        }
+    ],
+    "wof:id":873494579,
+    "wof:lastmodified":1464222687,
+    "wof:name":"Sewing Machine Doctor Inc",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -75.6561,
+    39.724913,
+    -75.6561,
+    39.724913
+],
+  "geometry": {"coordinates":[-75.6561,39.724913],"type":"Point"}
+}

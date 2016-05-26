@@ -1,0 +1,71 @@
+{
+  "id": 857696911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.431391,38.911404,-75.431391,38.911404",
+    "geom:latitude":38.911404,
+    "geom:longitude":-75.431391,
+    "iso:country":"US",
+    "sg:address":"125 Causey Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 4047",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SNZzGgAH92HWdeLX6mI8X_38.911404_-75.431391@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220752,
+    "wof:geomhash":"c8fd6d0803318bf537eb2cd166b49fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857696911
+        }
+    ],
+    "wof:id":857696911,
+    "wof:lastmodified":1464220752,
+    "wof:name":"Milford Anesthesiology",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -75.431391,
+    38.911404,
+    -75.431391,
+    38.911404
+],
+  "geometry": {"coordinates":[-75.431391,38.911404],"type":"Point"}
+}

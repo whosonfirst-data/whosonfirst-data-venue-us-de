@@ -1,0 +1,73 @@
+{
+  "id": 857734293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52981,39.762591,-75.52981,39.762591",
+    "geom:latitude":39.762591,
+    "geom:longitude":-75.52981,
+    "iso:country":"US",
+    "sg:address":"3601 N Jefferson St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 7156",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AQMhVPZ4CG8DlCk9C5OG1_39.762591_-75.529810@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221526,
+    "wof:geomhash":"a5b3bf0c3e99f85b75095890d581c6da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857734293
+        }
+    ],
+    "wof:id":857734293,
+    "wof:lastmodified":1464221526,
+    "wof:name":"David Harlan Elementary School",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.52981,
+    39.762591,
+    -75.52981,
+    39.762591
+],
+  "geometry": {"coordinates":[-75.52981,39.762591],"type":"Point"}
+}

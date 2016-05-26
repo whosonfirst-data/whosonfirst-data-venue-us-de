@@ -1,0 +1,71 @@
+{
+  "id": 857707735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.641859,39.718814,-75.641859,39.718814",
+    "geom:latitude":39.718814,
+    "geom:longitude":-75.641859,
+    "iso:country":"US",
+    "sg:address":"200 Binstead Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7077",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46SxqGCOvn8pY5okNTIVMg_39.718814_-75.641859@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220963,
+    "wof:geomhash":"4b26499e74714dce18fab94ea21a21dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857707735
+        }
+    ],
+    "wof:id":857707735,
+    "wof:lastmodified":1464220963,
+    "wof:name":"George Mc Guirk",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.641859,
+    39.718814,
+    -75.641859,
+    39.718814
+],
+  "geometry": {"coordinates":[-75.641859,39.718814],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873501151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.434439,38.619619,-75.434439,38.619619",
+    "geom:latitude":38.619619,
+    "geom:longitude":-75.434439,
+    "iso:country":"US",
+    "sg:address":"26280 E Trap Pond Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 3577",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DKsW8SdPRkkfqMdK9Y5lC_38.619619_-75.434439@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222994,
+    "wof:geomhash":"a77a8c5850756b86defa0964d1e3cbe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873501151
+        }
+    ],
+    "wof:id":873501151,
+    "wof:lastmodified":1464222994,
+    "wof:name":"Hudsons Lawn & Landscaping",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.434439,
+    38.619619,
+    -75.434439,
+    38.619619
+],
+  "geometry": {"coordinates":[-75.434439,38.619619],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873523771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.248495,38.529627,-75.248495,38.529627",
+    "geom:latitude":38.529627,
+    "geom:longitude":-75.248495,
+    "iso:country":"US",
+    "sg:address":"32887 Dupont Blvd",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 9480",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "welder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WcfGwv6yn4ypTgf1WFyFP_38.529627_-75.248495@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224032,
+    "wof:geomhash":"b05513adfe542ce994bdd2218be8c8b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873523771
+        }
+    ],
+    "wof:id":873523771,
+    "wof:lastmodified":1464224032,
+    "wof:name":"Marvel Portable Welding Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welder"
+    ]
+},
+  "bbox": [
+    -75.248495,
+    38.529627,
+    -75.248495,
+    38.529627
+],
+  "geometry": {"coordinates":[-75.24849500000001,38.529627],"type":"Point"}
+}

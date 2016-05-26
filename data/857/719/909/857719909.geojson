@@ -1,0 +1,71 @@
+{
+  "id": 857719909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662199,39.63252,-75.662199,39.63252",
+    "geom:latitude":39.63252,
+    "geom:longitude":-75.662199,
+    "iso:country":"US",
+    "sg:address":"201 Governors Pl",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 8775",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bPhF4M6ktZWVDn6W6WyR3_39.632520_-75.662199@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221248,
+    "wof:geomhash":"f821ebea2f04b594a536e550ad10fd94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857719909
+        }
+    ],
+    "wof:id":857719909,
+    "wof:lastmodified":1464221248,
+    "wof:name":"Pet Kare",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.662199,
+    39.63252,
+    -75.662199,
+    39.63252
+],
+  "geometry": {"coordinates":[-75.662199,39.63252],"type":"Point"}
+}

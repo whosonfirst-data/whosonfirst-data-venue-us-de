@@ -1,0 +1,83 @@
+{
+  "id": 873515531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.740913,39.686958,-75.740913,39.686958",
+    "geom:latitude":39.686958,
+    "geom:longitude":-75.740913,
+    "iso:country":"US",
+    "sg:address":"298 E Cleveland Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 894 0063",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "truck",
+        "used",
+        "leasing",
+        "new",
+        "car"
+    ],
+    "sg:website":"http://www.martinhonda.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IAJcKLKXUG06klXEyvs7p_39.686958_-75.740913@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223646,
+    "wof:geomhash":"a9d7b741e8e2b22d5bd6be3f92fb8ee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515531
+        }
+    ],
+    "wof:id":873515531,
+    "wof:lastmodified":1464223646,
+    "wof:name":"Martin Kia",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "used",
+        "leasing",
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.740913,
+    39.686958,
+    -75.740913,
+    39.686958
+],
+  "geometry": {"coordinates":[-75.74091300000001,39.686958],"type":"Point"}
+}

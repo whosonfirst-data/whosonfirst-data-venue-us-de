@@ -1,0 +1,75 @@
+{
+  "id": 873493459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.639853,39.733409,-75.639853,39.733409",
+    "geom:latitude":39.733409,
+    "geom:longitude":-75.639853,
+    "iso:country":"US",
+    "sg:address":"3725 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 7323",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "gas",
+        "oil",
+        "exploration",
+        "production"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3I2ua3RMzh2kBMqJ1czohg_39.733409_-75.639853@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222624,
+    "wof:geomhash":"9eb0d62ca38311ab04cf988fc81e57f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873493459
+        }
+    ],
+    "wof:id":873493459,
+    "wof:lastmodified":1464222624,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas",
+        "oil",
+        "exploration",
+        "production"
+    ]
+},
+  "bbox": [
+    -75.639853,
+    39.733409,
+    -75.639853,
+    39.733409
+],
+  "geometry": {"coordinates":[-75.639853,39.733409],"type":"Point"}
+}

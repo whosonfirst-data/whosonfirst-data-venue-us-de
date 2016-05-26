@@ -1,0 +1,77 @@
+{
+  "id": 873519239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.660042,39.722752,-75.660042,39.722752",
+    "geom:latitude":39.722752,
+    "geom:longitude":-75.660042,
+    "iso:country":"US",
+    "sg:address":"4700 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9260",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "car",
+        "leasing",
+        "truck",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dkgR91QHC0mTqOqNMV2M0_39.722752_-75.660042@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223843,
+    "wof:geomhash":"bee8681ddf852f1c36a18e1d60829880",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873519239
+        }
+    ],
+    "wof:id":873519239,
+    "wof:lastmodified":1464223843,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "car",
+        "leasing",
+        "truck",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -75.660042,
+    39.722752,
+    -75.660042,
+    39.722752
+],
+  "geometry": {"coordinates":[-75.660042,39.722752],"type":"Point"}
+}

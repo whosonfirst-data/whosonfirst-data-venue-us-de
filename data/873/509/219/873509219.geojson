@@ -1,0 +1,73 @@
+{
+  "id": 873509219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558839,39.727671,-75.558839,39.727671",
+    "geom:latitude":39.727671,
+    "geom:longitude":-75.558839,
+    "iso:country":"US",
+    "sg:address":"5 James Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5210",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70xcucZXuB3FGiBEyuW1BW_39.727671_-75.558839@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223341,
+    "wof:geomhash":"43d1c42542f83068f33611ae44d03f87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873509219
+        }
+    ],
+    "wof:id":873509219,
+    "wof:lastmodified":1464223341,
+    "wof:name":"Industraplate Corp",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plating"
+    ]
+},
+  "bbox": [
+    -75.558839,
+    39.727671,
+    -75.558839,
+    39.727671
+],
+  "geometry": {"coordinates":[-75.55883900000001,39.727671],"type":"Point"}
+}

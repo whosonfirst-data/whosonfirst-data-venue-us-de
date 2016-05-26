@@ -1,0 +1,71 @@
+{
+  "id": 873475981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.663311,39.666602,-75.663311,39.666602",
+    "geom:latitude":39.666602,
+    "geom:longitude":-75.663311,
+    "iso:country":"US",
+    "sg:address":"56 W Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 7100",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L7K1DggPD5vuuPJB4ToEJ_39.666602_-75.663311@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221948,
+    "wof:geomhash":"a6376c80cc0f11f56a2ec8f3d46c4b9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873475981
+        }
+    ],
+    "wof:id":873475981,
+    "wof:lastmodified":1464221948,
+    "wof:name":"Double S Companies",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -75.663311,
+    39.666602,
+    -75.663311,
+    39.666602
+],
+  "geometry": {"coordinates":[-75.66331099999999,39.666602],"type":"Point"}
+}

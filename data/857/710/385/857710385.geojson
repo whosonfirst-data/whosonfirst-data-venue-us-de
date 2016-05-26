@@ -1,0 +1,71 @@
+{
+  "id": 857710385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567449,38.927669,-75.567449,38.927669",
+    "geom:latitude":38.927669,
+    "geom:longitude":-75.567449,
+    "iso:country":"US",
+    "sg:address":"502 Center St Exd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 3543",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_148Jj4yD4f0eoIi7OdVtdX_38.927669_-75.567449@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221039,
+    "wof:geomhash":"5fb3e49f4e85c0b8073d17ff214ae445",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857710385
+        }
+    ],
+    "wof:id":857710385,
+    "wof:lastmodified":1464221039,
+    "wof:name":"Tweety Transport Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.567449,
+    38.927669,
+    -75.567449,
+    38.927669
+],
+  "geometry": {"coordinates":[-75.567449,38.927669],"type":"Point"}
+}

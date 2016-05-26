@@ -1,0 +1,71 @@
+{
+  "id": 873495209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.145991,38.774144,-75.145991,38.774144",
+    "geom:latitude":38.774144,
+    "geom:longitude":-75.145991,
+    "iso:country":"US",
+    "sg:address":"419 Dupont Ave",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 5006",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J1Y5AFXS318wYFxLke7Hh_38.774144_-75.145991@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222733,
+    "wof:geomhash":"8cb061637d6f1962ab338e6482dfc98e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873495209
+        }
+    ],
+    "wof:id":873495209,
+    "wof:lastmodified":1464222733,
+    "wof:name":"Income Property Assoc",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -75.145991,
+    38.774144,
+    -75.145991,
+    38.774144
+],
+  "geometry": {"coordinates":[-75.145991,38.774144],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873509215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.068084,38.539759,-75.068084,38.539759",
+    "geom:latitude":38.539759,
+    "geom:longitude":-75.068084,
+    "iso:country":"US",
+    "sg:address":"786 Garfield Pkwy",
+    "sg:city":"Bethany Beach",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 3700",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bvsO9k8X3QlSHsBSuFnrY_38.539759_-75.068084@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223340,
+    "wof:geomhash":"61cc61ffcccf5b33874c1dfb8df13ec3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873509215
+        }
+    ],
+    "wof:id":873509215,
+    "wof:lastmodified":1464223340,
+    "wof:name":"Isabella's",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.068084,
+    38.539759,
+    -75.068084,
+    38.539759
+],
+  "geometry": {"coordinates":[-75.068084,38.539759],"type":"Point"}
+}

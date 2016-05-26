@@ -1,0 +1,71 @@
+{
+  "id": 857701211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.405318,38.711089,-75.405318,38.711089",
+    "geom:latitude":38.711089,
+    "geom:longitude":-75.405318,
+    "iso:country":"US",
+    "sg:address":"17098 Wilson Hill Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7453",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HgXJE1fBDxDb6duSjI1cw_38.711089_-75.405318@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220839,
+    "wof:geomhash":"2351f24bee7546f838b3d1a19c1e0470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857701211
+        }
+    ],
+    "wof:id":857701211,
+    "wof:lastmodified":1464220839,
+    "wof:name":"Sussex Motors",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.405318,
+    38.711089,
+    -75.405318,
+    38.711089
+],
+  "geometry": {"coordinates":[-75.40531799999999,38.711089],"type":"Point"}
+}

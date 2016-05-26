@@ -1,0 +1,76 @@
+{
+  "id": 857692855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.674928,39.667913,-75.674928,39.667913",
+    "geom:latitude":39.667913,
+    "geom:longitude":-75.674928,
+    "iso:country":"US",
+    "sg:address":"258 Chapman Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 452 1500",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "development",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ihih9RNCFfmHLj3IAnhk7_39.667913_-75.674928@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220678,
+    "wof:geomhash":"dadb19ae4a4a54a686df9825af9ba9da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857692855
+        }
+    ],
+    "wof:id":857692855,
+    "wof:lastmodified":1464220678,
+    "wof:name":"New Castle County Head Start",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "program"
+    ]
+},
+  "bbox": [
+    -75.674928,
+    39.667913,
+    -75.674928,
+    39.667913
+],
+  "geometry": {"coordinates":[-75.67492799999999,39.667913],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873517649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545284,39.78101,-75.545284,39.78101",
+    "geom:latitude":39.78101,
+    "geom:longitude":-75.545284,
+    "iso:country":"US",
+    "sg:address":"1601 Concord Pike Ste 35",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 225 0026",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24735oS1oKlbLs8XQADXn9_39.781010_-75.545284@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223772,
+    "wof:geomhash":"da81751fee6aecd442d422a77d78b8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873517649
+        }
+    ],
+    "wof:id":873517649,
+    "wof:lastmodified":1464223772,
+    "wof:name":"Pagave Salon",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -75.545284,
+    39.78101,
+    -75.545284,
+    39.78101
+],
+  "geometry": {"coordinates":[-75.545284,39.78101],"type":"Point"}
+}

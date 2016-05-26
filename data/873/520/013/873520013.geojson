@@ -1,0 +1,77 @@
+{
+  "id": 873520013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.50409,39.800992,-75.50409,39.800992",
+    "geom:latitude":39.800992,
+    "geom:longitude":-75.50409,
+    "iso:country":"US",
+    "sg:address":"2106 Silverside Rd, Ste 201",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 2357",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "investing",
+        "advising"
+    ],
+    "sg:website":"ameripriseadvisors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L52rfz5bII59lB8dBALHJ_39.800992_-75.504090@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223880,
+    "wof:geomhash":"1e0cd912e7ca69bec7ce79231406cb2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873520013
+        }
+    ],
+    "wof:id":873520013,
+    "wof:lastmodified":1464223880,
+    "wof:name":"Ameriprise Financial Advisors",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investing",
+        "advising"
+    ]
+},
+  "bbox": [
+    -75.50409,
+    39.800992,
+    -75.50409,
+    39.800992
+],
+  "geometry": {"coordinates":[-75.50409000000001,39.800992],"type":"Point"}
+}

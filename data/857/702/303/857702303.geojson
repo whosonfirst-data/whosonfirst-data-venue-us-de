@@ -1,0 +1,71 @@
+{
+  "id": 857702303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578294,39.688208,-75.578294,39.688208",
+    "geom:latitude":39.688208,
+    "geom:longitude":-75.578294,
+    "iso:country":"US",
+    "sg:address":"1550 Matassino Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 1890",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zLdsCVVL4cpg04hSrqHpl_39.688208_-75.578294@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220865,
+    "wof:geomhash":"7ce199131bad2c09f02353353e7213e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857702303
+        }
+    ],
+    "wof:id":857702303,
+    "wof:lastmodified":1464220865,
+    "wof:name":"Bestway Transport Co",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.578294,
+    39.688208,
+    -75.578294,
+    39.688208
+],
+  "geometry": {"coordinates":[-75.578294,39.688208],"type":"Point"}
+}

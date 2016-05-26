@@ -1,0 +1,73 @@
+{
+  "id": 873504049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.618127,39.714779,-75.618127,39.714779",
+    "geom:latitude":39.714779,
+    "geom:longitude":-75.618127,
+    "iso:country":"US",
+    "sg:address":"25 Delaware Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 2665",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MuDSTUoiKj1G9omLG7H2a_39.714779_-75.618127@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223107,
+    "wof:geomhash":"10f5c5be2ff9f8b9fe0b0039c705375f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873504049
+        }
+    ],
+    "wof:id":873504049,
+    "wof:lastmodified":1464223107,
+    "wof:name":"US Marine Corps Recruiting",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armed",
+        "force",
+        "recruiting"
+    ]
+},
+  "bbox": [
+    -75.618127,
+    39.714779,
+    -75.618127,
+    39.714779
+],
+  "geometry": {"coordinates":[-75.618127,39.714779],"type":"Point"}
+}

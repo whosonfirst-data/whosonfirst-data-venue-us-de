@@ -1,0 +1,73 @@
+{
+  "id": 873486525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563785,39.286745,-75.563785,39.286745",
+    "geom:latitude":39.286745,
+    "geom:longitude":-75.563785,
+    "iso:country":"US",
+    "sg:address":"2079 Big Oak Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 5334",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OBA3LZbekKdRii7yEKCQc_39.286745_-75.563785@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222360,
+    "wof:geomhash":"93725860dfc263f67f45c9d6c6b358ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873486525
+        }
+    ],
+    "wof:id":873486525,
+    "wof:lastmodified":1464222360,
+    "wof:name":"Mc Millan & Co",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -75.563785,
+    39.286745,
+    -75.563785,
+    39.286745
+],
+  "geometry": {"coordinates":[-75.563785,39.286745],"type":"Point"}
+}

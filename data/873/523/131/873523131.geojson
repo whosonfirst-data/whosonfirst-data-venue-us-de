@@ -1,0 +1,73 @@
+{
+  "id": 873523131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5282,39.160985,-75.5282,39.160985",
+    "geom:latitude":39.160985,
+    "geom:longitude":-75.5282,
+    "iso:country":"US",
+    "sg:address":"9 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 1401",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l9FWxGu1E6jEJCvg8lRPm_39.160985_-75.528200@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224010,
+    "wof:geomhash":"07ed23ad0a31a3f346d323c27f0f2828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873523131
+        }
+    ],
+    "wof:id":873523131,
+    "wof:lastmodified":1464224010,
+    "wof:name":"Wesley College",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -75.5282,
+    39.160985,
+    -75.5282,
+    39.160985
+],
+  "geometry": {"coordinates":[-75.5282,39.160985],"type":"Point"}
+}

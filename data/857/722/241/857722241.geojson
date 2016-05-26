@@ -1,0 +1,71 @@
+{
+  "id": 857722241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.616619,39.827261,-75.616619,39.827261",
+    "geom:latitude":39.827261,
+    "geom:longitude":-75.616619,
+    "iso:country":"US",
+    "sg:address":"20 Mount Airy Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 6887",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85808577,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GXQaP4QjCryiT0XeyW2Mx_39.827261_-75.616619@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221293,
+    "wof:geomhash":"dc64e567a66a56cdf6be296eb49984c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85808577,
+            "region_id":85688611,
+            "venue_id":857722241
+        }
+    ],
+    "wof:id":857722241,
+    "wof:lastmodified":1464221293,
+    "wof:name":"Timberlands Management Inc",
+    "wof:parent_id":85808577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.616619,
+    39.827261,
+    -75.616619,
+    39.827261
+],
+  "geometry": {"coordinates":[-75.616619,39.827261],"type":"Point"}
+}

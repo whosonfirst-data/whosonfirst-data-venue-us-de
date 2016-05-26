@@ -1,0 +1,75 @@
+{
+  "id": 857685809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.530986,39.809672,-75.530986,39.809672",
+    "geom:latitude":39.809672,
+    "geom:longitude":-75.530986,
+    "iso:country":"US",
+    "sg:address":"3130 Wilmont Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 598 0117",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "distance",
+        "local",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RtOVnqXikYz2YuxljwhXy_39.809672_-75.530986@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220536,
+    "wof:geomhash":"dcb23f11f6dbc13d76eecf52b76458eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":857685809
+        }
+    ],
+    "wof:id":857685809,
+    "wof:lastmodified":1464220536,
+    "wof:name":"Kane J F & Sons Trnsp",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "local",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.530986,
+    39.809672,
+    -75.530986,
+    39.809672
+],
+  "geometry": {"coordinates":[-75.530986,39.809672],"type":"Point"}
+}

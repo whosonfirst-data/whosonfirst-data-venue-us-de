@@ -1,0 +1,75 @@
+{
+  "id": 857690141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542935,39.749286,-75.542935,39.749286",
+    "geom:latitude":39.749286,
+    "geom:longitude":-75.542935,
+    "iso:country":"US",
+    "sg:address":"1514 N French St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 2727",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bp5OpGVfVlE9e2TgrB6cW_39.749286_-75.542935@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220620,
+    "wof:geomhash":"d8ac6f5022ab00aeffc8d1f0e2bd50e2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857690141
+        }
+    ],
+    "wof:id":857690141,
+    "wof:lastmodified":1464220620,
+    "wof:name":"Buckley's Photo Lab",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -75.542935,
+    39.749286,
+    -75.542935,
+    39.749286
+],
+  "geometry": {"coordinates":[-75.542935,39.749286],"type":"Point"}
+}

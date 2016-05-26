@@ -1,0 +1,71 @@
+{
+  "id": 873474505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529865,39.0669,-75.529865,39.0669",
+    "geom:latitude":39.0669,
+    "geom:longitude":-75.529865,
+    "iso:country":"US",
+    "sg:address":"756 Millchop Ln",
+    "sg:city":"Magnolia",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 3385",
+    "sg:postcode":"19962",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16QqaUTuk2Jip8cac7qAnu_39.066900_-75.529865@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221898,
+    "wof:geomhash":"a6ec6b8cbec9c8362aa8311790307f96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873474505
+        }
+    ],
+    "wof:id":873474505,
+    "wof:lastmodified":1464221898,
+    "wof:name":"Delaware Medical Trnsp",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -75.529865,
+    39.0669,
+    -75.529865,
+    39.0669
+],
+  "geometry": {"coordinates":[-75.529865,39.0669],"type":"Point"}
+}

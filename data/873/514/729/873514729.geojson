@@ -1,0 +1,86 @@
+{
+  "id": 873514729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.759155,39.60342,-75.759155,39.60342",
+    "geom:latitude":39.60342,
+    "geom:longitude":-75.759155,
+    "iso:country":"US",
+    "sg:address":"2717 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 8287",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "children's",
+        "planning",
+        "entertainers-family",
+        "business"
+    ],
+    "sg:website":"http://www.tumblebusdelaware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3plO3xeLL4DmhJK7Alazca_39.603420_-75.759155@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223610,
+    "wof:geomhash":"88e62008ce5c9cc58b9c99a1ce5fab5f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514729
+        }
+    ],
+    "wof:id":873514729,
+    "wof:lastmodified":1464223610,
+    "wof:name":"Tumblebus Delaware",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "children's",
+        "planning",
+        "entertainers-family",
+        "business"
+    ]
+},
+  "bbox": [
+    -75.759155,
+    39.60342,
+    -75.759155,
+    39.60342
+],
+  "geometry": {"coordinates":[-75.75915500000001,39.60342],"type":"Point"}
+}

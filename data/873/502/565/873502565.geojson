@@ -1,0 +1,68 @@
+{
+  "id": 873502565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526722,39.749512,-75.526722,39.749512",
+    "geom:latitude":39.749512,
+    "geom:longitude":-75.526722,
+    "iso:country":"US",
+    "sg:address":"2619 N Claymont St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 8329",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mVGx3Hi0jvU2sx2osSCSA_39.749512_-75.526722@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223049,
+    "wof:geomhash":"c52c60b0b79f451455eec618d66791e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873502565
+        }
+    ],
+    "wof:id":873502565,
+    "wof:lastmodified":1464223049,
+    "wof:name":"Woody's Food & Coin Laundry",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.526722,
+    39.749512,
+    -75.526722,
+    39.749512
+],
+  "geometry": {"coordinates":[-75.52672200000001,39.749512],"type":"Point"}
+}

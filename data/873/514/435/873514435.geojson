@@ -1,0 +1,100 @@
+{
+  "id": 873514435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.753448,39.6133,-75.753448,39.6133",
+    "geom:latitude":39.6133,
+    "geom:longitude":-75.753448,
+    "iso:country":"US",
+    "sg:address":"222 Lake Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 631 5259",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67LLXuUIwmPmfo811ANwzA_39.613300_-75.753448@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223588,
+    "wof:geomhash":"6839f513948b3ea47ea74f61a0d4b21d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514435
+        }
+    ],
+    "wof:id":873514435,
+    "wof:lastmodified":1464223588,
+    "wof:name":"Ups",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cargo",
+        "courier",
+        "package",
+        "express",
+        "shipping",
+        "air",
+        "delivery",
+        "mail",
+        "forwarding"
+    ]
+},
+  "bbox": [
+    -75.753448,
+    39.6133,
+    -75.753448,
+    39.6133
+],
+  "geometry": {"coordinates":[-75.75344800000001,39.6133],"type":"Point"}
+}

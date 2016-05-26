@@ -1,0 +1,73 @@
+{
+  "id": 857685113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523067,39.7602,-75.523067,39.7602",
+    "geom:latitude":39.7602,
+    "geom:longitude":-75.523067,
+    "iso:country":"US",
+    "sg:address":"3914 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 765 3212",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2x2CBQhHRmVAv7nA4wrAUo_39.760200_-75.523067@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220524,
+    "wof:geomhash":"0c7335c09a0d4bf02471067c45c9e091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857685113
+        }
+    ],
+    "wof:id":857685113,
+    "wof:lastmodified":1464220524,
+    "wof:name":"FELS Jewelry & Accessories",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -75.523067,
+    39.7602,
+    -75.523067,
+    39.7602
+],
+  "geometry": {"coordinates":[-75.523067,39.7602],"type":"Point"}
+}

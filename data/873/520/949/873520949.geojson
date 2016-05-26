@@ -1,0 +1,70 @@
+{
+  "id": 873520949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.519274,39.142892,-75.519274,39.142892",
+    "geom:latitude":39.142892,
+    "geom:longitude":-75.519274,
+    "iso:country":"US",
+    "sg:address":"1102 South Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 639 6773",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.localstdtesting.com/15",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67XKaF3KB7q4KZzp8n5rsO_39.142892_-75.519274@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223923,
+    "wof:geomhash":"d3b8e2864f940b6a92ac5910b2195b13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873520949
+        }
+    ],
+    "wof:id":873520949,
+    "wof:lastmodified":1464223923,
+    "wof:name":"Dover Local HIV / STD Testing",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.519274,
+    39.142892,
+    -75.519274,
+    39.142892
+],
+  "geometry": {"coordinates":[-75.519274,39.142892],"type":"Point"}
+}

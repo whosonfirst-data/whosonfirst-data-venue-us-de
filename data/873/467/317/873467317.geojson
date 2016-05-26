@@ -1,0 +1,80 @@
+{
+  "id": 873467317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.582207,38.92598,-75.582207,38.92598",
+    "geom:latitude":38.92598,
+    "geom:longitude":-75.582207,
+    "iso:country":"US",
+    "sg:address":"122 Grant St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4264",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "irrigation",
+        "system",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N3Nv75pP9BTUVpYeLW1Za_38.925980_-75.582207@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221629,
+    "wof:geomhash":"026f429d40b4586dbf81930f75c90fae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873467317
+        }
+    ],
+    "wof:id":873467317,
+    "wof:lastmodified":1464221629,
+    "wof:name":"Golf Links Irrigation Co Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "irrigation",
+        "system",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.582207,
+    38.92598,
+    -75.582207,
+    38.92598
+],
+  "geometry": {"coordinates":[-75.582207,38.92598],"type":"Point"}
+}

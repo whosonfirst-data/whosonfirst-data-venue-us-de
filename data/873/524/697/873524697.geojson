@@ -1,0 +1,81 @@
+{
+  "id": 873524697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.313756,38.543574,-75.313756,38.543574",
+    "geom:latitude":38.543574,
+    "geom:longitude":-75.313756,
+    "iso:country":"US",
+    "sg:address":"24608 Wiley Branch Rd",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 8588",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "liquors-wholesale",
+        "beer",
+        "ale"
+    ],
+    "sg:website":"http://www.delmarvabrewingcraft.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3npYCGqu2oAvsxNv38xmUD_38.543574_-75.313756@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224067,
+    "wof:geomhash":"f918666e19bff71766eb69dc52431bb9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873524697
+        }
+    ],
+    "wof:id":873524697,
+    "wof:lastmodified":1464224067,
+    "wof:name":"Griffith Enterprises",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquors-wholesale",
+        "beer",
+        "ale"
+    ]
+},
+  "bbox": [
+    -75.313756,
+    38.543574,
+    -75.313756,
+    38.543574
+],
+  "geometry": {"coordinates":[-75.313756,38.543574],"type":"Point"}
+}

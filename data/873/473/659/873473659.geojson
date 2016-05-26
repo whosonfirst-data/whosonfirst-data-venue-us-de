@@ -1,0 +1,73 @@
+{
+  "id": 873473659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.536321,39.186249,-75.536321,39.186249",
+    "geom:latitude":39.186249,
+    "geom:longitude":-75.536321,
+    "iso:country":"US",
+    "sg:address":"1425 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 739 7700",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "museum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sN32Rn0iwpcNdiqZg1u7F_39.186249_-75.536321@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221870,
+    "wof:geomhash":"828a2af0e14451b014ee5cd470af09aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873473659
+        }
+    ],
+    "wof:id":873473659,
+    "wof:lastmodified":1464221870,
+    "wof:name":"State Police Museum",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "museum"
+    ]
+},
+  "bbox": [
+    -75.536321,
+    39.186249,
+    -75.536321,
+    39.186249
+],
+  "geometry": {"coordinates":[-75.536321,39.186249],"type":"Point"}
+}

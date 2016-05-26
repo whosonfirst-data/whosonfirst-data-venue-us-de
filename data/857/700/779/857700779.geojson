@@ -1,0 +1,71 @@
+{
+  "id": 857700779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.591866,39.691416,-75.591866,39.691416",
+    "geom:latitude":39.691416,
+    "geom:longitude":-75.591866,
+    "iso:country":"US",
+    "sg:address":"14 Mark Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 324 8789",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69lWPmEdyI7Jo2fy3qxHeZ_39.691416_-75.591866@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220830,
+    "wof:geomhash":"b8408f9813297393fe0ed36ed4e6f5b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857700779
+        }
+    ],
+    "wof:id":857700779,
+    "wof:lastmodified":1464220830,
+    "wof:name":"Garcia Landscaping Services",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.591866,
+    39.691416,
+    -75.591866,
+    39.691416
+],
+  "geometry": {"coordinates":[-75.591866,39.691416],"type":"Point"}
+}

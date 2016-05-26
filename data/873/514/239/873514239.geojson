@@ -1,0 +1,83 @@
+{
+  "id": 873514239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.648019,39.63996,-75.648019,39.63996",
+    "geom:latitude":39.63996,
+    "geom:longitude":-75.648019,
+    "iso:country":"US",
+    "sg:address":"841 Pulaski Hwy",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 8592",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OatPAXGvhpNZ7sgEwrGXY_39.639960_-75.648019@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223577,
+    "wof:geomhash":"116f1dba1e3cb8f0825bfd7b7b5a9d57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514239
+        }
+    ],
+    "wof:id":873514239,
+    "wof:lastmodified":1464223577,
+    "wof:name":"Bear Shell",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -75.648019,
+    39.63996,
+    -75.648019,
+    39.63996
+],
+  "geometry": {"coordinates":[-75.64801900000001,39.63996],"type":"Point"}
+}

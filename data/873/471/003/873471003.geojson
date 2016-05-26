@@ -1,0 +1,73 @@
+{
+  "id": 873471003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543397,39.743504,-75.543397,39.743504",
+    "geom:latitude":39.743504,
+    "geom:longitude":-75.543397,
+    "iso:country":"US",
+    "sg:address":"921 Guyer Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 9515",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58S7xYRSlX8El2IYPr8GU8_39.743504_-75.543397@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221768,
+    "wof:geomhash":"aafacf4d1e03f04b43a5388138b7e727",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873471003
+        }
+    ],
+    "wof:id":873471003,
+    "wof:lastmodified":1464221768,
+    "wof:name":"D & L Indoor Parking",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garage"
+    ]
+},
+  "bbox": [
+    -75.543397,
+    39.743504,
+    -75.543397,
+    39.743504
+],
+  "geometry": {"coordinates":[-75.543397,39.743504],"type":"Point"}
+}

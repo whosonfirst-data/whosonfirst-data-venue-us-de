@@ -1,0 +1,71 @@
+{
+  "id": 873497207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.318756,38.78748,-75.318756,38.78748",
+    "geom:latitude":38.78748,
+    "geom:longitude":-75.318756,
+    "iso:country":"US",
+    "sg:address":"616 Mulberry St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 2616",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_191kHPSVLL26kcGUJiprYh_38.787480_-75.318756@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222830,
+    "wof:geomhash":"53f578450820a547f8ddb51c2298edf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873497207
+        }
+    ],
+    "wof:id":873497207,
+    "wof:lastmodified":1464222830,
+    "wof:name":"Chinatown Express",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.318756,
+    38.78748,
+    -75.318756,
+    38.78748
+],
+  "geometry": {"coordinates":[-75.31875599999999,38.78748],"type":"Point"}
+}

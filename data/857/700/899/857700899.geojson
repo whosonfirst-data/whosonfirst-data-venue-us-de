@@ -1,0 +1,75 @@
+{
+  "id": 857700899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.438205,38.902757,-75.438205,38.902757",
+    "geom:latitude":38.902757,
+    "geom:longitude":-75.438205,
+    "iso:country":"US",
+    "sg:address":"318 Hall Pl",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 4541",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CFzcYilODF4lT9s0mobVa_38.902757_-75.438205@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220833,
+    "wof:geomhash":"ef7d2467120f4f7bcf20170a12592b49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857700899
+        }
+    ],
+    "wof:id":857700899,
+    "wof:lastmodified":1464220833,
+    "wof:name":"First State Reporting Svc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -75.438205,
+    38.902757,
+    -75.438205,
+    38.902757
+],
+  "geometry": {"coordinates":[-75.438205,38.902757],"type":"Point"}
+}

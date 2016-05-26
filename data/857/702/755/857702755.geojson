@@ -1,0 +1,73 @@
+{
+  "id": 857702755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532203,39.75602,-75.532203,39.75602",
+    "geom:latitude":39.75602,
+    "geom:longitude":-75.532203,
+    "iso:country":"US",
+    "sg:address":"2928 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 2911",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jCp1qkmG6kxkle8nmI1zC_39.756020_-75.532203@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220873,
+    "wof:geomhash":"603cac66048f7f15c1ab4d720efcb48d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":857702755
+        }
+    ],
+    "wof:id":857702755,
+    "wof:lastmodified":1464220873,
+    "wof:name":"Discount Plus",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.532203,
+    39.75602,
+    -75.532203,
+    39.75602
+],
+  "geometry": {"coordinates":[-75.532203,39.75602],"type":"Point"}
+}

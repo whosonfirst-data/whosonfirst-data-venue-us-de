@@ -1,0 +1,71 @@
+{
+  "id": 873510595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.393369,38.6869,-75.393369,38.6869",
+    "geom:latitude":38.6869,
+    "geom:longitude":-75.393369,
+    "iso:country":"US",
+    "sg:address":"401 Wilson St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2426",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r4tEhvL2Ixn5PrM7yPSTq_38.686900_-75.393369@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223405,
+    "wof:geomhash":"fbaf6bccf6b674259b6bddce75c8cfc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873510595
+        }
+    ],
+    "wof:id":873510595,
+    "wof:lastmodified":1464223405,
+    "wof:name":"Town Hair Studio",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.393369,
+    38.6869,
+    -75.393369,
+    38.6869
+],
+  "geometry": {"coordinates":[-75.39336900000001,38.6869],"type":"Point"}
+}

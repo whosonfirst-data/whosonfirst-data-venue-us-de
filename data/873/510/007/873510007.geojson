@@ -1,0 +1,71 @@
+{
+  "id": 873510007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.14042,38.773011,-75.14042,38.773011",
+    "geom:latitude":38.773011,
+    "geom:longitude":-75.14042,
+    "iso:country":"US",
+    "sg:address":"329 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 8400",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pkpsk9sHy9VlAvUfqwB06_38.773011_-75.140420@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223378,
+    "wof:geomhash":"9826ebe4ece16fef7e111f9e5d2a76df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873510007
+        }
+    ],
+    "wof:id":873510007,
+    "wof:lastmodified":1464223378,
+    "wof:name":"Blue Plate Diner",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.14042,
+    38.773011,
+    -75.14042,
+    38.773011
+],
+  "geometry": {"coordinates":[-75.14042000000001,38.773011],"type":"Point"}
+}

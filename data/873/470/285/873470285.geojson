@@ -1,0 +1,80 @@
+{
+  "id": 873470285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525831,39.157764,-75.525831,39.157764",
+    "geom:latitude":39.157764,
+    "geom:longitude":-75.525831,
+    "iso:country":"US",
+    "sg:address":"114 W Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 4545",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "holistic",
+        "practitioner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jJXmegkDqY6HCoVpcM3jz_39.157764_-75.525831@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221740,
+    "wof:geomhash":"a75c32ed4b63e9635dbb2e0a1890acf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873470285
+        }
+    ],
+    "wof:id":873470285,
+    "wof:lastmodified":1464221740,
+    "wof:name":"Bell Book & Candle The",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "holistic",
+        "practitioner"
+    ]
+},
+  "bbox": [
+    -75.525831,
+    39.157764,
+    -75.525831,
+    39.157764
+],
+  "geometry": {"coordinates":[-75.525831,39.157764],"type":"Point"}
+}

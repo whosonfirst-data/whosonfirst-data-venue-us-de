@@ -1,0 +1,71 @@
+{
+  "id": 873480451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.426835,38.738336,-75.426835,38.738336",
+    "geom:latitude":38.738336,
+    "geom:longitude":-75.426835,
+    "iso:country":"US",
+    "sg:address":"18381 Deer Forest Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6929",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hIaMue19CLw7FglwgthL8_38.738336_-75.426835@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222130,
+    "wof:geomhash":"8dfebf72ab2ba1b3cb94aaf9bbbdc5f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873480451
+        }
+    ],
+    "wof:id":873480451,
+    "wof:lastmodified":1464222130,
+    "wof:name":"Top Notch Painting",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -75.426835,
+    38.738336,
+    -75.426835,
+    38.738336
+],
+  "geometry": {"coordinates":[-75.426835,38.738336],"type":"Point"}
+}

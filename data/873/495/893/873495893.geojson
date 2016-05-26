@@ -1,0 +1,73 @@
+{
+  "id": 873495893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548906,39.805441,-75.548906,39.805441",
+    "geom:latitude":39.805441,
+    "geom:longitude":-75.548906,
+    "iso:country":"US",
+    "sg:address":"3807 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Mining & Drilling",
+            "subcategory":"",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 6988",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "production",
+        "gas",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AXtSm3Ve08BreanHZ5pbF_39.805441_-75.548906@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222769,
+    "wof:geomhash":"dd27ff030f049356e121090a9e8f21c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873495893
+        }
+    ],
+    "wof:id":873495893,
+    "wof:lastmodified":1464222769,
+    "wof:name":"Devon Energy Corporation",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "production",
+        "gas",
+        "oil"
+    ]
+},
+  "bbox": [
+    -75.548906,
+    39.805441,
+    -75.548906,
+    39.805441
+],
+  "geometry": {"coordinates":[-75.548906,39.805441],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873497657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.159067,38.755566,-75.159067,38.755566",
+    "geom:latitude":38.755566,
+    "geom:longitude":-75.159067,
+    "iso:country":"US",
+    "sg:address":"1539 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 4240",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VY0RzDZDw14aUcz68hIjq_38.755566_-75.159067@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222847,
+    "wof:geomhash":"dd8adc1e88e0ddfdbbba15fc392c6420",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873497657
+        }
+    ],
+    "wof:id":873497657,
+    "wof:lastmodified":1464222847,
+    "wof:name":"Radiology Associates",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.159067,
+    38.755566,
+    -75.159067,
+    38.755566
+],
+  "geometry": {"coordinates":[-75.15906699999999,38.755566],"type":"Point"}
+}

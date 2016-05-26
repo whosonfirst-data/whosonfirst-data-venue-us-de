@@ -1,0 +1,73 @@
+{
+  "id": 873521663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.500956,39.144183,-75.500956,39.144183",
+    "geom:latitude":39.144183,
+    "geom:longitude":-75.500956,
+    "iso:country":"US",
+    "sg:address":"116 N Governor Blvd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 5199",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FQuU8AbYdWeb9Ma9lgLbg_39.144183_-75.500956@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223950,
+    "wof:geomhash":"d7fdddf1f7094e123b01247a0c17e8bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873521663
+        }
+    ],
+    "wof:id":873521663,
+    "wof:lastmodified":1464223950,
+    "wof:name":"Boys & Girls Clubs of Delaware",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -75.500956,
+    39.144183,
+    -75.500956,
+    39.144183
+],
+  "geometry": {"coordinates":[-75.500956,39.144183],"type":"Point"}
+}

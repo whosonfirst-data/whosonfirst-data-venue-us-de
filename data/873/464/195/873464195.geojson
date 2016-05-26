@@ -1,0 +1,71 @@
+{
+  "id": 873464195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658685,39.676913,-75.658685,39.676913",
+    "geom:latitude":39.676913,
+    "geom:longitude":-75.658685,
+    "iso:country":"US",
+    "sg:address":"320 Christiana Medical Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 0500",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fNiB9qmf0ZXwgBCsAe2oE_39.676913_-75.658685@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221551,
+    "wof:geomhash":"e4c34c6aefc0bb4e841c16ba8eb2402c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873464195
+        }
+    ],
+    "wof:id":873464195,
+    "wof:lastmodified":1464221551,
+    "wof:name":"Irena O Stolar MD",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.658685,
+    39.676913,
+    -75.658685,
+    39.676913
+],
+  "geometry": {"coordinates":[-75.65868500000001,39.676913],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873488477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662336,39.628336,-75.662336,39.628336",
+    "geom:latitude":39.628336,
+    "geom:longitude":-75.662336,
+    "iso:country":"US",
+    "sg:address":"13 Lochview Dr",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5447",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GbLa2lnnILR9NZHrLSf54_39.628336_-75.662336@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222439,
+    "wof:geomhash":"14175121c51afb09d7acbbe34225ac22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873488477
+        }
+    ],
+    "wof:id":873488477,
+    "wof:lastmodified":1464222439,
+    "wof:name":"Classic Image Auto Detailing",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -75.662336,
+    39.628336,
+    -75.662336,
+    39.628336
+],
+  "geometry": {"coordinates":[-75.662336,39.628336],"type":"Point"}
+}

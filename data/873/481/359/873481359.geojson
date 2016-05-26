@@ -1,0 +1,71 @@
+{
+  "id": 873481359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543735,39.797838,-75.543735,39.797838",
+    "geom:latitude":39.797838,
+    "geom:longitude":-75.543735,
+    "iso:country":"US",
+    "sg:address":"207 Mc Daniel Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0400",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ltrCs2tQGewr1ajVHNN0K_39.797838_-75.543735@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222168,
+    "wof:geomhash":"cf89eb9888b4d920658d12bc98887b13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873481359
+        }
+    ],
+    "wof:id":873481359,
+    "wof:lastmodified":1464222168,
+    "wof:name":"D Shinn Inc",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.543735,
+    39.797838,
+    -75.543735,
+    39.797838
+],
+  "geometry": {"coordinates":[-75.543735,39.797838],"type":"Point"}
+}

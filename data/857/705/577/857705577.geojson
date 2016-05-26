@@ -1,0 +1,82 @@
+{
+  "id": 857705577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529337,39.105806,-75.529337,39.105806",
+    "geom:latitude":39.105806,
+    "geom:longitude":-75.529337,
+    "iso:country":"US",
+    "sg:address":"203 Eagle Crest Dr",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 0401",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JeRzwrfbearZBcq2NSkxW_39.105806_-75.529337@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220925,
+    "wof:geomhash":"1ab1ceb7fef03677095ce30a05d27bbb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":857705577
+        }
+    ],
+    "wof:id":857705577,
+    "wof:lastmodified":1464220925,
+    "wof:name":"A Pet's Companion",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -75.529337,
+    39.105806,
+    -75.529337,
+    39.105806
+],
+  "geometry": {"coordinates":[-75.529337,39.105806],"type":"Point"}
+}

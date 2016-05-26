@@ -1,0 +1,76 @@
+{
+  "id": 857712301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081361,38.716296,-75.081361,38.716296",
+    "geom:latitude":38.716296,
+    "geom:longitude":-75.081361,
+    "iso:country":"US",
+    "sg:address":"179 Rehoboth Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 8406",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "sg:website":"www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931597,
+        102083887,
+        85848725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HLiF4vCN6LLYgYyDPhNYN_38.716296_-75.081361@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221088,
+    "wof:geomhash":"bd80caad888c3012ac8ebe3bd836715b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931597,
+            "neighbourhood_id":85848725,
+            "region_id":85688611,
+            "venue_id":857712301
+        }
+    ],
+    "wof:id":857712301,
+    "wof:lastmodified":1464221088,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85848725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -75.081361,
+    38.716296,
+    -75.081361,
+    38.716296
+],
+  "geometry": {"coordinates":[-75.081361,38.716296],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873483959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.584336,39.741848,-75.584336,39.741848",
+    "geom:latitude":39.741848,
+    "geom:longitude":-75.584336,
+    "iso:country":"US",
+    "sg:address":"2000 Rodman Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 7508",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aBzmqk240fSSYXUO7lqUQ_39.741848_-75.584336@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222269,
+    "wof:geomhash":"5580035682119e3f892ac2cda63dc855",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873483959
+        }
+    ],
+    "wof:id":873483959,
+    "wof:lastmodified":1464222269,
+    "wof:name":"Paul Edward Partners",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.584336,
+    39.741848,
+    -75.584336,
+    39.741848
+],
+  "geometry": {"coordinates":[-75.58433599999999,39.741848],"type":"Point"}
+}

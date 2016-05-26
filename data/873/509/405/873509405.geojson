@@ -1,0 +1,73 @@
+{
+  "id": 873509405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57489,39.746375,-75.57489,39.746375",
+    "geom:latitude":39.746375,
+    "geom:longitude":-75.57489,
+    "iso:country":"US",
+    "sg:address":"8 S Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 622 9198",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JWxFftm06WRz6pFJz3l0a_39.746375_-75.574890@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223347,
+    "wof:geomhash":"4da34e94380e38acd40dc0f1961fbd8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873509405
+        }
+    ],
+    "wof:id":873509405,
+    "wof:lastmodified":1464223347,
+    "wof:name":"Flaherty's Pub",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -75.57489,
+    39.746375,
+    -75.57489,
+    39.746375
+],
+  "geometry": {"coordinates":[-75.57489,39.746375],"type":"Point"}
+}

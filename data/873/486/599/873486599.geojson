@@ -1,0 +1,77 @@
+{
+  "id": 873486599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569409,39.752195,-75.569409,39.752195",
+    "geom:latitude":39.752195,
+    "geom:longitude":-75.569409,
+    "iso:country":"US",
+    "sg:address":"804 N Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 7854",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48EfIDR4XAMJj3qGG7uPcs_39.752195_-75.569409@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222363,
+    "wof:geomhash":"4ded4e79799a9dc1764827adf0b6343d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873486599
+        }
+    ],
+    "wof:id":873486599,
+    "wof:lastmodified":1464222363,
+    "wof:name":"Union Auto Glass",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -75.569409,
+    39.752195,
+    -75.569409,
+    39.752195
+],
+  "geometry": {"coordinates":[-75.56940899999999,39.752195],"type":"Point"}
+}

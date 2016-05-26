@@ -1,0 +1,75 @@
+{
+  "id": 873511795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5047,39.814201,-75.5047,39.814201",
+    "geom:latitude":39.814201,
+    "geom:longitude":-75.5047,
+    "iso:country":"US",
+    "sg:address":"2000 Eden Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 8122",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "industrial",
+        "co",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y5svZNZrLvEmVHux9UVcW_39.814793_-75.504727@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223465,
+    "wof:geomhash":"331244086cd6235c5dbb9651c7e727d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873511795
+        }
+    ],
+    "wof:id":873511795,
+    "wof:lastmodified":1464223465,
+    "wof:name":"Lynch's General Contracting",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "industrial",
+        "co",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.5047,
+    39.814201,
+    -75.5047,
+    39.814201
+],
+  "geometry": {"coordinates":[-75.5047,39.814201],"type":"Point"}
+}

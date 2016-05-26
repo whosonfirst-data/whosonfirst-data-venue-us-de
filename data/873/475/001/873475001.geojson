@@ -1,0 +1,71 @@
+{
+  "id": 873475001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.741509,39.684022,-75.741509,39.684022",
+    "geom:latitude":39.684022,
+    "geom:longitude":-75.741509,
+    "iso:country":"US",
+    "sg:address":"280 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 709 0440",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FIoRYO6EvIA5sS01uDFCu_39.684022_-75.741509@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221915,
+    "wof:geomhash":"234c895d18d56c44dac2cbbfe86956ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873475001
+        }
+    ],
+    "wof:id":873475001,
+    "wof:lastmodified":1464221915,
+    "wof:name":"Specialty Rehabilitation Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.741509,
+    39.684022,
+    -75.741509,
+    39.684022
+],
+  "geometry": {"coordinates":[-75.74150899999999,39.684022],"type":"Point"}
+}

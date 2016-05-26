@@ -1,0 +1,73 @@
+{
+  "id": 857698655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.742131,39.655807,-75.742131,39.655807",
+    "geom:latitude":39.655807,
+    "geom:longitude":-75.742131,
+    "iso:country":"US",
+    "sg:address":"13 Havertown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 1442",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4z8k8VWHHRUmt0ox1ZO58F_39.655807_-75.742131@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220785,
+    "wof:geomhash":"d4f90b298847f1a4cd954adf70857d31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857698655
+        }
+    ],
+    "wof:id":857698655,
+    "wof:lastmodified":1464220785,
+    "wof:name":"Scott S Enterprises Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.742131,
+    39.655807,
+    -75.742131,
+    39.655807
+],
+  "geometry": {"coordinates":[-75.742131,39.655807],"type":"Point"}
+}

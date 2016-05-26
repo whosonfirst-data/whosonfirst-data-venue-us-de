@@ -1,0 +1,83 @@
+{
+  "id": 873521665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566147,39.207588,-75.566147,39.207588",
+    "geom:latitude":39.207588,
+    "geom:longitude":-75.566147,
+    "iso:country":"US",
+    "sg:address":"4200 N Dupont Hwy Ste 6",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9600",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ],
+    "sg:website":"http://www.diamondautoglass.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zWdrgmNAbFdOYGJS8ngJg_39.207588_-75.566147@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223950,
+    "wof:geomhash":"47dfbce3f38d1f91e9128e10acb6ffeb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873521665
+        }
+    ],
+    "wof:id":873521665,
+    "wof:lastmodified":1464223950,
+    "wof:name":"SAFELITE AUTO GLASS",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plate",
+        "window",
+        "windshield",
+        "glass-auto"
+    ]
+},
+  "bbox": [
+    -75.566147,
+    39.207588,
+    -75.566147,
+    39.207588
+],
+  "geometry": {"coordinates":[-75.566147,39.207588],"type":"Point"}
+}

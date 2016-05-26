@@ -1,0 +1,69 @@
+{
+  "id": 873475825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.597879,38.652345,-75.597879,38.652345",
+    "geom:latitude":38.652345,
+    "geom:longitude":-75.597879,
+    "iso:country":"US",
+    "sg:address":"1007 Norman Eskridge Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 3002",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pawnbroker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16tMpUvHTEre8twBZ7gCzs_38.652345_-75.597879@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221943,
+    "wof:geomhash":"3c0dc6c09c269473771cdd5c61c161ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873475825
+        }
+    ],
+    "wof:id":873475825,
+    "wof:lastmodified":1464221943,
+    "wof:name":"Sussex County Pawn",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker"
+    ]
+},
+  "bbox": [
+    -75.597879,
+    38.652345,
+    -75.597879,
+    38.652345
+],
+  "geometry": {"coordinates":[-75.59787900000001,38.652345],"type":"Point"}
+}

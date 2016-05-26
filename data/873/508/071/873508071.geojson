@@ -1,0 +1,75 @@
+{
+  "id": 873508071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567433,39.743922,-75.567433,39.743922",
+    "geom:latitude":39.743922,
+    "geom:longitude":-75.567433,
+    "iso:country":"US",
+    "sg:address":"1500 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 0725",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gt9fcN305sWE2xJBOAMEa_39.743922_-75.567433@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223287,
+    "wof:geomhash":"6fc000df3906dfc59e7dd25bafc9836e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873508071
+        }
+    ],
+    "wof:id":873508071,
+    "wof:lastmodified":1464223287,
+    "wof:name":"Lancaster Avenue Station",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -75.567433,
+    39.743922,
+    -75.567433,
+    39.743922
+],
+  "geometry": {"coordinates":[-75.56743299999999,39.743922],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857717859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52346,39.175097,-75.52346,39.175097",
+    "geom:latitude":39.175097,
+    "geom:longitude":-75.52346,
+    "iso:country":"US",
+    "sg:address":"508 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 3132",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24NnVBKdp4bOKnbR5QoYFd_39.175097_-75.523460@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221201,
+    "wof:geomhash":"7bfe58a76abb68329978fb0600294a7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857717859
+        }
+    ],
+    "wof:id":857717859,
+    "wof:lastmodified":1464221201,
+    "wof:name":"Dover Amoco",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -75.52346,
+    39.175097,
+    -75.52346,
+    39.175097
+],
+  "geometry": {"coordinates":[-75.52346,39.175097],"type":"Point"}
+}

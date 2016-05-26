@@ -1,0 +1,69 @@
+{
+  "id": 873522051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522697,39.145901,-75.522697,39.145901",
+    "geom:latitude":39.145901,
+    "geom:longitude":-75.522697,
+    "iso:country":"US",
+    "sg:address":"896 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Hair Removal",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4865",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5T6ANIEDOMdHODIU5vKtzI_39.145901_-75.522697@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223964,
+    "wof:geomhash":"d377f7f313dd4f21a23e6902798153bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873522051
+        }
+    ],
+    "wof:id":873522051,
+    "wof:lastmodified":1464223964,
+    "wof:name":"Laser & Plastic Surgery Center of Delaware",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.522697,
+    39.145901,
+    -75.522697,
+    39.145901
+],
+  "geometry": {"coordinates":[-75.52269699999999,39.145901],"type":"Point"}
+}

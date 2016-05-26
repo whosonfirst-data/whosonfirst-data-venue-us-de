@@ -1,0 +1,71 @@
+{
+  "id": 873524419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.468596,38.603244,-75.468596,38.603244",
+    "geom:latitude":38.603244,
+    "geom:longitude":-75.468596,
+    "iso:country":"US",
+    "sg:address":"28072 Layton Rd",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 875 8154",
+    "sg:postcode":"19956",
+    "sg:province":"DE",
+    "sg:tags":[
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OZEZ7bo67DcIa7fyVear3_38.603244_-75.468596@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224058,
+    "wof:geomhash":"934bc9e01aef64c7f5a4db93296f772d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873524419
+        }
+    ],
+    "wof:id":873524419,
+    "wof:lastmodified":1464224058,
+    "wof:name":"Medical Claim Solutions",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.468596,
+    38.603244,
+    -75.468596,
+    38.603244
+],
+  "geometry": {"coordinates":[-75.46859600000001,38.603244],"type":"Point"}
+}

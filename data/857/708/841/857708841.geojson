@@ -1,0 +1,88 @@
+{
+  "id": 857708841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.491453,39.156532,-75.491453,39.156532",
+    "geom:latitude":39.156532,
+    "geom:longitude":-75.491453,
+    "iso:country":"US",
+    "sg:address":"1246 S Little Creek Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 1101",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "made",
+        "mfg",
+        "hardware",
+        "bedspread",
+        "curtain",
+        "drapery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Eivv9BuWvl97YTMIS4NUT_39.156532_-75.491453@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220996,
+    "wof:geomhash":"03766bf4bc565220fdf7712f68a8639f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":857708841
+        }
+    ],
+    "wof:id":857708841,
+    "wof:lastmodified":1464220996,
+    "wof:name":"Dynamic Draperies Inc",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "made",
+        "mfg",
+        "hardware",
+        "bedspread",
+        "curtain",
+        "drapery"
+    ]
+},
+  "bbox": [
+    -75.491453,
+    39.156532,
+    -75.491453,
+    39.156532
+],
+  "geometry": {"coordinates":[-75.49145300000001,39.156532],"type":"Point"}
+}

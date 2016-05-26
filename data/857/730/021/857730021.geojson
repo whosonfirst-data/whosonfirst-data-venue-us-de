@@ -1,0 +1,69 @@
+{
+  "id": 857730021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599404,38.662693,-75.599404,38.662693",
+    "geom:latitude":38.662693,
+    "geom:longitude":-75.599404,
+    "iso:country":"US",
+    "sg:address":"8468 Herring Run Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 3400",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TPy7ecSOmlAXCVhJcltX8_38.662693_-75.599404@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221438,
+    "wof:geomhash":"df401bedf9ca1ed40eb199c4a998ec1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857730021
+        }
+    ],
+    "wof:id":857730021,
+    "wof:lastmodified":1464221438,
+    "wof:name":"Ent Allergy Center",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.599404,
+    38.662693,
+    -75.599404,
+    38.662693
+],
+  "geometry": {"coordinates":[-75.59940400000001,38.662693],"type":"Point"}
+}

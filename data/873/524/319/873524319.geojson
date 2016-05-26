@@ -1,0 +1,75 @@
+{
+  "id": 873524319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.472615,38.532798,-75.472615,38.532798",
+    "geom:latitude":38.532798,
+    "geom:longitude":-75.472615,
+    "iso:country":"US",
+    "sg:address":"16081 Willow Way",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 877 0622",
+    "sg:postcode":"19956",
+    "sg:province":"DE",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31U2K5b6RGqUVAVfk12Tcf_38.532798_-75.472615@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224054,
+    "wof:geomhash":"28fbda849e3e5af8c0c5f2ade2ae7cb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873524319
+        }
+    ],
+    "wof:id":873524319,
+    "wof:lastmodified":1464224054,
+    "wof:name":"A To Z Rental Service",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.472615,
+    38.532798,
+    -75.472615,
+    38.532798
+],
+  "geometry": {"coordinates":[-75.472615,38.532798],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873471521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.717474,39.694383,-75.717474,39.694383",
+    "geom:latitude":39.694383,
+    "geom:longitude":-75.717474,
+    "iso:country":"US",
+    "sg:address":"32 Possum Park Mall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 6440",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "training",
+        "computer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xh0Tg6YrTOgmdM5bzEyWs_39.694383_-75.717474@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221787,
+    "wof:geomhash":"52e133b8a788157c54cfc25859187000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873471521
+        }
+    ],
+    "wof:id":873471521,
+    "wof:lastmodified":1464221787,
+    "wof:name":"Typist's Corner",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training",
+        "computer"
+    ]
+},
+  "bbox": [
+    -75.717474,
+    39.694383,
+    -75.717474,
+    39.694383
+],
+  "geometry": {"coordinates":[-75.717474,39.694383],"type":"Point"}
+}

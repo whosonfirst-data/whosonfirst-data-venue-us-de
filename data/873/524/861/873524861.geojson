@@ -1,0 +1,71 @@
+{
+  "id": 873524861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54277,38.620998,-75.54277,38.620998",
+    "geom:latitude":38.620998,
+    "geom:longitude":-75.54277,
+    "iso:country":"US",
+    "sg:address":"255 Cool Branch Blvd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 8967",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "horse",
+        "training"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GRK7BYkKssa28sENgDdKp_38.620998_-75.542770@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224073,
+    "wof:geomhash":"80e8ee98407823879d9cd47c98350392",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873524861
+        }
+    ],
+    "wof:id":873524861,
+    "wof:lastmodified":1464224073,
+    "wof:name":"Whoda Thunkit Stable",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "horse",
+        "training"
+    ]
+},
+  "bbox": [
+    -75.54277,
+    38.620998,
+    -75.54277,
+    38.620998
+],
+  "geometry": {"coordinates":[-75.54277,38.620998],"type":"Point"}
+}

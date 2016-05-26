@@ -1,0 +1,71 @@
+{
+  "id": 857708677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.695511,39.66776,-75.695511,39.66776",
+    "geom:latitude":39.66776,
+    "geom:longitude":-75.695511,
+    "iso:country":"US",
+    "sg:address":"22 Salem Village Sq",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Gym",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 6876",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "center",
+        "fitness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HSjDSIKJEwYd0oPU0uPBl_39.667760_-75.695511@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220991,
+    "wof:geomhash":"a48347d2bb05124327a68dd530262cb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857708677
+        }
+    ],
+    "wof:id":857708677,
+    "wof:lastmodified":1464220991,
+    "wof:name":"Beach Fitness Center LLC",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -75.695511,
+    39.66776,
+    -75.695511,
+    39.66776
+],
+  "geometry": {"coordinates":[-75.695511,39.66776],"type":"Point"}
+}

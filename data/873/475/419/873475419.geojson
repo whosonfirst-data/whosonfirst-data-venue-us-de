@@ -1,0 +1,73 @@
+{
+  "id": 873475419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.695584,39.743494,-75.695584,39.743494",
+    "geom:latitude":39.743494,
+    "geom:longitude":-75.695584,
+    "iso:country":"US",
+    "sg:address":"4736 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 6066",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x8hIVOpNFhM6OV4YCazus_39.743494_-75.695584@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221929,
+    "wof:geomhash":"63656078b32fa0f1d77e51df31f1f8b2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":873475419
+        }
+    ],
+    "wof:id":873475419,
+    "wof:lastmodified":1464221929,
+    "wof:name":"Haircut & Co",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.695584,
+    39.743494,
+    -75.695584,
+    39.743494
+],
+  "geometry": {"coordinates":[-75.695584,39.743494],"type":"Point"}
+}

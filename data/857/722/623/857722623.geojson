@@ -1,0 +1,69 @@
+{
+  "id": 857722623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.492282,39.778672,-75.492282,39.778672",
+    "geom:latitude":39.778672,
+    "geom:longitude":-75.492282,
+    "iso:country":"US",
+    "sg:address":"300 Bellevue Pkwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 791 1200",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qV1AKHmVFsCfecRr4PMJn_39.778672_-75.492282@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221300,
+    "wof:geomhash":"5b0f4228088326fe7059f80fff7944a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":857722623
+        }
+    ],
+    "wof:id":857722623,
+    "wof:lastmodified":1464221300,
+    "wof:name":"PNC",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -75.492282,
+    39.778672,
+    -75.492282,
+    39.778672
+],
+  "geometry": {"coordinates":[-75.492282,39.778672],"type":"Point"}
+}

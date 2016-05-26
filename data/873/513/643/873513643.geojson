@@ -1,0 +1,74 @@
+{
+  "id": 873513643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537322,39.113618,-75.537322,39.113618",
+    "geom:latitude":39.113618,
+    "geom:longitude":-75.537322,
+    "iso:country":"US",
+    "sg:address":"2398 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/41750-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 1558",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19zAmzrIkzWM8WJvNPShYj_39.113618_-75.537322@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223540,
+    "wof:geomhash":"76419f6052ab6c270e42ff4a6bd65b85",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":873513643
+        }
+    ],
+    "wof:id":873513643,
+    "wof:lastmodified":1464223540,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.537322,
+    39.113618,
+    -75.537322,
+    39.113618
+],
+  "geometry": {"coordinates":[-75.537322,39.113618],"type":"Point"}
+}

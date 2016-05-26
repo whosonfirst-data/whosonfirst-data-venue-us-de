@@ -1,0 +1,69 @@
+{
+  "id": 873508981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.630551,39.736038,-75.630551,39.736038",
+    "geom:latitude":39.736038,
+    "geom:longitude":-75.630551,
+    "iso:country":"US",
+    "sg:address":"2003 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8286",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xl0BU5aa4j0dkrDhkFXA5_39.736038_-75.630551@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223329,
+    "wof:geomhash":"befdab8eda1a0438cc0d002ae02b3531",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873508981
+        }
+    ],
+    "wof:id":873508981,
+    "wof:lastmodified":1464223329,
+    "wof:name":"Harolds Brake Service",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.630551,
+    39.736038,
+    -75.630551,
+    39.736038
+],
+  "geometry": {"coordinates":[-75.630551,39.736038],"type":"Point"}
+}

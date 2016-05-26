@@ -1,0 +1,85 @@
+{
+  "id": 873514379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658566,39.676627,-75.658566,39.676627",
+    "geom:latitude":39.676627,
+    "geom:longitude":-75.658566,
+    "iso:country":"US",
+    "sg:address":"220 Christiana Medical Ctr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 1400",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ],
+    "sg:website":"http://www.wildsmiles4kids.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UjzOwALR9OnzmnpqEW5A3_39.676627_-75.658566@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223586,
+    "wof:geomhash":"09a4d5329e6f7244c5434fe6eca22ecb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514379
+        }
+    ],
+    "wof:id":873514379,
+    "wof:lastmodified":1464223586,
+    "wof:name":"Jay J. Harris, D.M.D., P.C.",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentists-oral",
+        "physician",
+        "maxillofacial",
+        "surgeons",
+        "surgery",
+        "oral"
+    ]
+},
+  "bbox": [
+    -75.658566,
+    39.676627,
+    -75.658566,
+    39.676627
+],
+  "geometry": {"coordinates":[-75.65856599999999,39.676627],"type":"Point"}
+}

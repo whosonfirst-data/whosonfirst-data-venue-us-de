@@ -1,0 +1,73 @@
+{
+  "id": 857713929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081183,38.542785,-75.081183,38.542785",
+    "geom:latitude":38.542785,
+    "geom:longitude":-75.081183,
+    "iso:country":"US",
+    "sg:address":"23 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 5020",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "consignment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pPAEN0RSSD5fjvYffymYn_38.542785_-75.081183@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221129,
+    "wof:geomhash":"c833f76f4fd55806ed397b9cf0c7ad9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857713929
+        }
+    ],
+    "wof:id":857713929,
+    "wof:lastmodified":1464221129,
+    "wof:name":"Ocean View Consignment",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "consignment"
+    ]
+},
+  "bbox": [
+    -75.081183,
+    38.542785,
+    -75.081183,
+    38.542785
+],
+  "geometry": {"coordinates":[-75.081183,38.542785],"type":"Point"}
+}

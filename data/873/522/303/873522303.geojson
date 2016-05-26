@@ -1,0 +1,76 @@
+{
+  "id": 873522303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548599,39.168999,-75.548599,39.168999",
+    "geom:latitude":39.168999,
+    "geom:longitude":-75.548599,
+    "iso:country":"US",
+    "sg:address":"1155 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1600",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "sg:website":"www.catholiccharitiesusa.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oumLYSzqfFj7sByZp6YBS_39.168999_-75.548599@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223976,
+    "wof:geomhash":"71b33d9c100818401071cce82e8b1661",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859501,
+            "region_id":85688611,
+            "venue_id":873522303
+        }
+    ],
+    "wof:id":873522303,
+    "wof:lastmodified":1464223976,
+    "wof:name":"Catholic Charities",
+    "wof:parent_id":85859501,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -75.548599,
+    39.168999,
+    -75.548599,
+    39.168999
+],
+  "geometry": {"coordinates":[-75.548599,39.168999],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873494635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658666,39.67691,-75.658666,39.67691",
+    "geom:latitude":39.67691,
+    "geom:longitude":-75.658666,
+    "iso:country":"US",
+    "sg:address":"330 Christiana Medical Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 3200",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bdWPuhsVKcXlPklIpaawv_39.676910_-75.658666@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222689,
+    "wof:geomhash":"32604eb3c1df1bb64b874240e11c62b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873494635
+        }
+    ],
+    "wof:id":873494635,
+    "wof:lastmodified":1464222689,
+    "wof:name":"Christianna Dental Center",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.658666,
+    39.67691,
+    -75.658666,
+    39.67691
+],
+  "geometry": {"coordinates":[-75.658666,39.67691],"type":"Point"}
+}

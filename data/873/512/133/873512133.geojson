@@ -1,0 +1,79 @@
+{
+  "id": 873512133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515576,39.16925,-75.515576,39.16925",
+    "geom:latitude":39.16925,
+    "geom:longitude":-75.515576,
+    "iso:country":"US",
+    "sg:address":"825 White Oak Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 3080",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Jb9oXxuYqb1emplB5g7rF_39.169284_-75.515379@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223480,
+    "wof:geomhash":"4f8b78c91e63ae44f35d899c24010b6d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873512133
+        }
+    ],
+    "wof:id":873512133,
+    "wof:lastmodified":1464223480,
+    "wof:name":"Dover Liquor Warehouse",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.515576,
+    39.16925,
+    -75.515576,
+    39.16925
+],
+  "geometry": {"coordinates":[-75.515576,39.16925],"type":"Point"}
+}

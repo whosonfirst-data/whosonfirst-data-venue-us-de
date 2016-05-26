@@ -1,0 +1,73 @@
+{
+  "id": 873485839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605505,38.742456,-75.605505,38.742456",
+    "geom:latitude":38.742456,
+    "geom:longitude":-75.605505,
+    "iso:country":"US",
+    "sg:address":"616 Market St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8233",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rSzMky3IdlpNWMeUVJWEv_38.742456_-75.605505@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222336,
+    "wof:geomhash":"d3404213dfd594b52c4ef35f0c47caa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873485839
+        }
+    ],
+    "wof:id":873485839,
+    "wof:lastmodified":1464222336,
+    "wof:name":"Sharks Service Ctr",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.605505,
+    38.742456,
+    -75.605505,
+    38.742456
+],
+  "geometry": {"coordinates":[-75.60550499999999,38.742456],"type":"Point"}
+}

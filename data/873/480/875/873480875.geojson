@@ -1,0 +1,73 @@
+{
+  "id": 873480875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744919,39.683749,-75.744919,39.683749",
+    "geom:latitude":39.683749,
+    "geom:longitude":-75.744919,
+    "iso:country":"US",
+    "sg:address":"218 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 3003",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "management",
+        "developer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WEZy4I9QrPfxLS2B59UPT_39.683749_-75.744919@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222150,
+    "wof:geomhash":"ca78c1ec166d8753927989889c13093a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873480875
+        }
+    ],
+    "wof:id":873480875,
+    "wof:lastmodified":1464222150,
+    "wof:name":"Lang Development Group LLC",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "management",
+        "developer"
+    ]
+},
+  "bbox": [
+    -75.744919,
+    39.683749,
+    -75.744919,
+    39.683749
+],
+  "geometry": {"coordinates":[-75.744919,39.683749],"type":"Point"}
+}

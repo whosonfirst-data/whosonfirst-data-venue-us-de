@@ -1,0 +1,77 @@
+{
+  "id": 873520377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.486895,39.809445,-75.486895,39.809445",
+    "geom:latitude":39.809445,
+    "geom:longitude":-75.486895,
+    "iso:country":"US",
+    "sg:address":"2206 Lower Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pottery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Kitchen Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 8763",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "stoneware"
+    ],
+    "sg:website":"http://www.burslempottery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Pn1WNwjr20g4Y3NoMj55x_39.809445_-75.486895@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223899,
+    "wof:geomhash":"f142423f80c569a0d8d1eca3ca54b6b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873520377
+        }
+    ],
+    "wof:id":873520377,
+    "wof:lastmodified":1464223899,
+    "wof:name":"Burslam Stoneware",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stoneware"
+    ]
+},
+  "bbox": [
+    -75.486895,
+    39.809445,
+    -75.486895,
+    39.809445
+],
+  "geometry": {"coordinates":[-75.486895,39.809445],"type":"Point"}
+}

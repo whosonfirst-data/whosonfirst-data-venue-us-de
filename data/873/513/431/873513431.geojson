@@ -1,0 +1,76 @@
+{
+  "id": 873513431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542488,39.764667,-75.542488,39.764667",
+    "geom:latitude":39.764667,
+    "geom:longitude":-75.542488,
+    "iso:country":"US",
+    "sg:address":"4737 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/wilmington/32667-dickeys-barbecue-pit/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 9400",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "barbecue",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28d4JfiXBbPxOxRvevBpGB_39.764667_-75.542488@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223528,
+    "wof:geomhash":"f5b9b97a588bef4351ccd6e3065ec8ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873513431
+        }
+    ],
+    "wof:id":873513431,
+    "wof:lastmodified":1464223528,
+    "wof:name":"Dickey's Barbecue Pit",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.542488,
+    39.764667,
+    -75.542488,
+    39.764667
+],
+  "geometry": {"coordinates":[-75.54248800000001,39.764667],"type":"Point"}
+}

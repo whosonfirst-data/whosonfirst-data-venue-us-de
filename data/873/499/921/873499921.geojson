@@ -1,0 +1,71 @@
+{
+  "id": 873499921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.427146,38.738182,-75.427146,38.738182",
+    "geom:latitude":38.738182,
+    "geom:longitude":-75.427146,
+    "iso:country":"US",
+    "sg:address":"18100 Deer Forest Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2212",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25fAmC4sd4U7ChceQnbkgs_38.738182_-75.427146@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222934,
+    "wof:geomhash":"adbd996d8dc82c018497aff6fa26c00c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873499921
+        }
+    ],
+    "wof:id":873499921,
+    "wof:lastmodified":1464222934,
+    "wof:name":"Mann Drywall",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.427146,
+    38.738182,
+    -75.427146,
+    38.738182
+],
+  "geometry": {"coordinates":[-75.42714599999999,38.738182],"type":"Point"}
+}

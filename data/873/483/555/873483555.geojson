@@ -1,0 +1,71 @@
+{
+  "id": 873483555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.186218,38.558263,-75.186218,38.558263",
+    "geom:latitude":38.558263,
+    "geom:longitude":-75.186218,
+    "iso:country":"US",
+    "sg:address":"8 Rolling Acres",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 5803",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xt4eLlrSB7vfK6DtVdzLd_38.558263_-75.186218@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222253,
+    "wof:geomhash":"4e359babc730c67cf3b8db5be3883557",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873483555
+        }
+    ],
+    "wof:id":873483555,
+    "wof:lastmodified":1464222253,
+    "wof:name":"Affordable Antiques Mall",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -75.186218,
+    38.558263,
+    -75.186218,
+    38.558263
+],
+  "geometry": {"coordinates":[-75.186218,38.558263],"type":"Point"}
+}

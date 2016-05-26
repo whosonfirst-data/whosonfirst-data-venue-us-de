@@ -1,0 +1,73 @@
+{
+  "id": 857695201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592079,39.273668,-75.592079,39.273668",
+    "geom:latitude":39.273668,
+    "geom:longitude":-75.592079,
+    "iso:country":"US",
+    "sg:address":"91 Holly Hill Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 8070",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p2NS0tZ6uh0jJoQPibk6T_39.273668_-75.592079@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220723,
+    "wof:geomhash":"5b6e190d81b072b3d3538e7e66499730",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857695201
+        }
+    ],
+    "wof:id":857695201,
+    "wof:lastmodified":1464220723,
+    "wof:name":"Heath Plumbing Service",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.592079,
+    39.273668,
+    -75.592079,
+    39.273668
+],
+  "geometry": {"coordinates":[-75.592079,39.273668],"type":"Point"}
+}

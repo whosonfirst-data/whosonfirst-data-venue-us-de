@@ -1,0 +1,71 @@
+{
+  "id": 873510475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.30308,38.590247,-75.30308,38.590247",
+    "geom:latitude":38.590247,
+    "geom:longitude":-75.30308,
+    "iso:country":"US",
+    "sg:address":"401 W Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 297 0303",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GhJcBG2HI0IDKU6YPAOd6_38.590247_-75.303080@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223395,
+    "wof:geomhash":"ef48495449988e91f82195df021ea176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873510475
+        }
+    ],
+    "wof:id":873510475,
+    "wof:lastmodified":1464223395,
+    "wof:name":"Car Store",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -75.30308,
+    38.590247,
+    -75.30308,
+    38.590247
+],
+  "geometry": {"coordinates":[-75.30307999999999,38.590247],"type":"Point"}
+}

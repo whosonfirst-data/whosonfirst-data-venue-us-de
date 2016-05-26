@@ -1,0 +1,83 @@
+{
+  "id": 873523643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539374,39.11631,-75.539374,39.11631",
+    "geom:latitude":39.11631,
+    "geom:longitude":-75.539374,
+    "iso:country":"US",
+    "sg:address":"Old N Rd & West St",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Park",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3577",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zHojgPIa55ZMmTExMYJQT_39.116310_-75.539374@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224027,
+    "wof:geomhash":"792d9f554ca841e1849bb758d44b135c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":873523643
+        }
+    ],
+    "wof:id":873523643,
+    "wof:lastmodified":1464224027,
+    "wof:name":"St Paul's Preschool",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.539374,
+    39.11631,
+    -75.539374,
+    39.11631
+],
+  "geometry": {"coordinates":[-75.539374,39.11631],"type":"Point"}
+}

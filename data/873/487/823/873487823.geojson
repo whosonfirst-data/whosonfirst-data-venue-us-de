@@ -1,0 +1,69 @@
+{
+  "id": 873487823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.600701,39.71285,-75.600701,39.71285",
+    "geom:latitude":39.71285,
+    "geom:longitude":-75.600701,
+    "iso:country":"US",
+    "sg:address":"365 Water St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 0671",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wVwZYmIqH1i7WVggtVQgJ_39.712850_-75.600701@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222415,
+    "wof:geomhash":"901fb3477646ce2c1304ec571198f230",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873487823
+        }
+    ],
+    "wof:id":873487823,
+    "wof:lastmodified":1464222415,
+    "wof:name":"Coffee Pause Co Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.600701,
+    39.71285,
+    -75.600701,
+    39.71285
+],
+  "geometry": {"coordinates":[-75.600701,39.71285],"type":"Point"}
+}

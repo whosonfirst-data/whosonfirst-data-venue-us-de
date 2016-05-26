@@ -1,0 +1,71 @@
+{
+  "id": 857683995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675344,39.711487,-75.675344,39.711487",
+    "geom:latitude":39.711487,
+    "geom:longitude":-75.675344,
+    "iso:country":"US",
+    "sg:address":"2103 Othoson Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 3950",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D1Wgp2t6IEa4LarwAEEX1_39.711487_-75.675344@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220498,
+    "wof:geomhash":"15366edcce6840df04a91845ba1def6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":857683995
+        }
+    ],
+    "wof:id":857683995,
+    "wof:lastmodified":1464220498,
+    "wof:name":"Galaxie Electric Svc",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.675344,
+    39.711487,
+    -75.675344,
+    39.711487
+],
+  "geometry": {"coordinates":[-75.675344,39.711487],"type":"Point"}
+}

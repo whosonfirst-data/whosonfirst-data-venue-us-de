@@ -1,0 +1,73 @@
+{
+  "id": 873509801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625508,39.73708,-75.625508,39.73708",
+    "geom:latitude":39.73708,
+    "geom:longitude":-75.625508,
+    "iso:country":"US",
+    "sg:address":"3234 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9849",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CN0IBv2oK8irjrrCu1ocV_39.737080_-75.625508@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223370,
+    "wof:geomhash":"11920ab56ab05d04a6480a409632289a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873509801
+        }
+    ],
+    "wof:id":873509801,
+    "wof:lastmodified":1464223370,
+    "wof:name":"Sound Of Tri-State",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "stereo",
+        "radio"
+    ]
+},
+  "bbox": [
+    -75.625508,
+    39.73708,
+    -75.625508,
+    39.73708
+],
+  "geometry": {"coordinates":[-75.625508,39.73708],"type":"Point"}
+}

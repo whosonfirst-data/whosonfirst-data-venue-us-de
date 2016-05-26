@@ -1,0 +1,71 @@
+{
+  "id": 873493751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.647158,39.619864,-75.647158,39.619864",
+    "geom:latitude":39.619864,
+    "geom:longitude":-75.647158,
+    "iso:country":"US",
+    "sg:address":"161 Sugarberry Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 4373",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YSmx1bHWq6UIOpfU1NEI8_39.619864_-75.647158@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222639,
+    "wof:geomhash":"a900678339cdd663d368bd7042abf800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873493751
+        }
+    ],
+    "wof:id":873493751,
+    "wof:lastmodified":1464222639,
+    "wof:name":"Cars R Us Autoworld Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.647158,
+    39.619864,
+    -75.647158,
+    39.619864
+],
+  "geometry": {"coordinates":[-75.647158,39.619864],"type":"Point"}
+}

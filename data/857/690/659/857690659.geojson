@@ -1,0 +1,71 @@
+{
+  "id": 857690659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.384709,38.69404,-75.384709,38.69404",
+    "geom:latitude":38.69404,
+    "geom:longitude":-75.384709,
+    "iso:country":"US",
+    "sg:address":"107 Cedar St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 1161",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uCOQVsYcYZmPYqHIIm6Co_38.694040_-75.384709@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220631,
+    "wof:geomhash":"445f47fd5b6cc04889b36dd281354207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857690659
+        }
+    ],
+    "wof:id":857690659,
+    "wof:lastmodified":1464220631,
+    "wof:name":"Just For You Beauty Salon",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.384709,
+    38.69404,
+    -75.384709,
+    38.69404
+],
+  "geometry": {"coordinates":[-75.384709,38.69404],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873517309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547096,39.794201,-75.547096,39.794201",
+    "geom:latitude":39.794201,
+    "geom:longitude":-75.547096,
+    "iso:country":"US",
+    "sg:address":"2413 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1022",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_08tMDGTCdEw9lab7kVedCw_39.794201_-75.547096@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223748,
+    "wof:geomhash":"35ecf78dec91c11d6c198f0d64cb8212",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517309
+        }
+    ],
+    "wof:id":873517309,
+    "wof:lastmodified":1464223748,
+    "wof:name":"Blue Rock Liquors Inc",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.547096,
+    39.794201,
+    -75.547096,
+    39.794201
+],
+  "geometry": {"coordinates":[-75.547096,39.794201],"type":"Point"}
+}

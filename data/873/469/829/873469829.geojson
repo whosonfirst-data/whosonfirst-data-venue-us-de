@@ -1,0 +1,71 @@
+{
+  "id": 873469829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.501935,39.228217,-75.501935,39.228217",
+    "geom:latitude":39.228217,
+    "geom:longitude":-75.501935,
+    "iso:country":"US",
+    "sg:address":"730 Co Rd 333",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 7008",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kSVKm2ULUxqOX8ZPF8w0j_39.228217_-75.501935@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221723,
+    "wof:geomhash":"ea17815ee6365293f605d5314a973b99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873469829
+        }
+    ],
+    "wof:id":873469829,
+    "wof:lastmodified":1464221723,
+    "wof:name":"Indian River Transport Inc",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.501935,
+    39.228217,
+    -75.501935,
+    39.228217
+],
+  "geometry": {"coordinates":[-75.501935,39.228217],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873504887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.608438,39.300802,-75.608438,39.300802",
+    "geom:latitude":39.300802,
+    "geom:longitude":-75.608438,
+    "iso:country":"US",
+    "sg:address":"2 Market St",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 3151",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cigarette",
+        "outlet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uTw5LP0ZwoEkOj5cVuggi_39.300802_-75.608438@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223152,
+    "wof:geomhash":"a025d7e80b52b5942fa85473dc6defad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873504887
+        }
+    ],
+    "wof:id":873504887,
+    "wof:lastmodified":1464223152,
+    "wof:name":"Cigarette Outlet",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "outlet"
+    ]
+},
+  "bbox": [
+    -75.608438,
+    39.300802,
+    -75.608438,
+    39.300802
+],
+  "geometry": {"coordinates":[-75.60843800000001,39.300802],"type":"Point"}
+}

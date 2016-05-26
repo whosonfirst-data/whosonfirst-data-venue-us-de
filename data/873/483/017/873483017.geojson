@@ -1,0 +1,71 @@
+{
+  "id": 873483017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.483138,39.778696,-75.483138,39.778696",
+    "geom:latitude":39.778696,
+    "geom:longitude":-75.483138,
+    "iso:country":"US",
+    "sg:address":"124 Sunset Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 6023",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d85j8Ihk8PEaqxhqq0wj5_39.778696_-75.483138@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222231,
+    "wof:geomhash":"5441ae5743627b8f4087e12ee641e5aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873483017
+        }
+    ],
+    "wof:id":873483017,
+    "wof:lastmodified":1464222231,
+    "wof:name":"Wireless Retail Inc",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -75.483138,
+    39.778696,
+    -75.483138,
+    39.778696
+],
+  "geometry": {"coordinates":[-75.483138,39.778696],"type":"Point"}
+}

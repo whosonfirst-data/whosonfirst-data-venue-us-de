@@ -1,0 +1,67 @@
+{
+  "id": 873523471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.593547,38.758353,-75.593547,38.758353",
+    "geom:latitude":38.758353,
+    "geom:longitude":-75.593547,
+    "iso:country":"US",
+    "sg:address":"16359 Sussex Hwy",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 7990",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:website":"http://www.woodbridgeschooldistrict.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79zafMuXG3Qyyp3d0dWkD9_38.758353_-75.593547@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224021,
+    "wof:geomhash":"2a4969eb5bdec602f49dec481995f77f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873523471
+        }
+    ],
+    "wof:id":873523471,
+    "wof:lastmodified":1464224021,
+    "wof:name":"Woodbridge School District",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.593547,
+    38.758353,
+    -75.593547,
+    38.758353
+],
+  "geometry": {"coordinates":[-75.593547,38.758353],"type":"Point"}
+}

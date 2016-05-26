@@ -1,0 +1,73 @@
+{
+  "id": 873492671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552185,39.177002,-75.552185,39.177002",
+    "geom:latitude":39.177002,
+    "geom:longitude":-75.552185,
+    "iso:country":"US",
+    "sg:address":"181 Westminster Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 0765",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85852037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lBYBJfTUeoofO7FJLCzBc_39.177002_-75.552185@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222589,
+    "wof:geomhash":"29e0708d3aa4405710a00b118f9d5488",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85852037,
+            "region_id":85688611,
+            "venue_id":873492671
+        }
+    ],
+    "wof:id":873492671,
+    "wof:lastmodified":1464222589,
+    "wof:name":"Hugh M Miller Dr",
+    "wof:parent_id":85852037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.552185,
+    39.177002,
+    -75.552185,
+    39.177002
+],
+  "geometry": {"coordinates":[-75.55218499999999,39.177002],"type":"Point"}
+}

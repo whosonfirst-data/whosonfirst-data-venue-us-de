@@ -1,0 +1,69 @@
+{
+  "id": 873485923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.582075,39.668697,-75.582075,39.668697",
+    "geom:latitude":39.668697,
+    "geom:longitude":-75.582075,
+    "iso:country":"US",
+    "sg:address":"702 E Basin Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 324 8500",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c5xWIBTv7a40y2CPl259N_39.668697_-75.582075@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222339,
+    "wof:geomhash":"9ee83b1772b4a4537dd3c17910b72ae5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873485923
+        }
+    ],
+    "wof:id":873485923,
+    "wof:lastmodified":1464222339,
+    "wof:name":"Mark Haegele Do",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -75.582075,
+    39.668697,
+    -75.582075,
+    39.668697
+],
+  "geometry": {"coordinates":[-75.582075,39.668697],"type":"Point"}
+}

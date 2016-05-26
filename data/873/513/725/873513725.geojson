@@ -1,0 +1,72 @@
+{
+  "id": 873513725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.43291,38.928164,-75.43291,38.928164",
+    "geom:latitude":38.928164,
+    "geom:longitude":-75.43291,
+    "iso:country":"US",
+    "sg:address":"905 N Dupont Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/milford-north/109718-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 4140",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XnNQPKgY0vnhkV1X9DMRD_38.928164_-75.432910@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223545,
+    "wof:geomhash":"016ef31140b45fc88d0b59ee552e1cf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873513725
+        }
+    ],
+    "wof:id":873513725,
+    "wof:lastmodified":1464223545,
+    "wof:name":"Subway",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.43291,
+    38.928164,
+    -75.43291,
+    38.928164
+],
+  "geometry": {"coordinates":[-75.43291000000001,38.928164],"type":"Point"}
+}

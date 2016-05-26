@@ -1,0 +1,69 @@
+{
+  "id": 873509743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.149231,38.765817,-75.149231,38.765817",
+    "geom:latitude":38.765817,
+    "geom:longitude":-75.149231,
+    "iso:country":"US",
+    "sg:address":"22 Nassau Cmns",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 7400",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YWRvfSUgMpXj3GIj4kVQk_38.765817_-75.149231@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223368,
+    "wof:geomhash":"33c982ba469d0e3729f34fb7f98f75d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873509743
+        }
+    ],
+    "wof:id":873509743,
+    "wof:lastmodified":1464223368,
+    "wof:name":"Teller Wines",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.149231,
+    38.765817,
+    -75.149231,
+    38.765817
+],
+  "geometry": {"coordinates":[-75.149231,38.765817],"type":"Point"}
+}

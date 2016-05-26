@@ -1,0 +1,71 @@
+{
+  "id": 873464465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.588658,39.784266,-75.588658,39.784266",
+    "geom:latitude":39.784266,
+    "geom:longitude":-75.588658,
+    "iso:country":"US",
+    "sg:address":"301 Montchanin Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 661 2577",
+    "sg:postcode":"19710",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834895,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0y42psibX517H18Ou08Lef_39.784266_-75.588658@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221558,
+    "wof:geomhash":"e6c671a316afbd365741f32f2f4f58db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834895,
+            "region_id":85688611,
+            "venue_id":873464465
+        }
+    ],
+    "wof:id":873464465,
+    "wof:lastmodified":1464221558,
+    "wof:name":"Dewson Construction Co",
+    "wof:parent_id":85834895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.588658,
+    39.784266,
+    -75.588658,
+    39.784266
+],
+  "geometry": {"coordinates":[-75.588658,39.784266],"type":"Point"}
+}

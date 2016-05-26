@@ -1,0 +1,102 @@
+{
+  "id": 873513959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610595,39.747859,-75.610595,39.747859",
+    "geom:latitude":39.747859,
+    "geom:longitude":-75.610595,
+    "iso:country":"US",
+    "sg:address":"1702 Faulkland Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lower-christiana/130319-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8077",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DvMFVtub6IuMBU52DogR5_39.747785_-75.610182@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223558,
+    "wof:geomhash":"b6e0d71df9a1cb62ffbb96ef6cce091d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873513959
+        }
+    ],
+    "wof:id":873513959,
+    "wof:lastmodified":1464223558,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.610595,
+    39.747859,
+    -75.610595,
+    39.747859
+],
+  "geometry": {"coordinates":[-75.610595,39.747859],"type":"Point"}
+}

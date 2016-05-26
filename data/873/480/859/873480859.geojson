@@ -1,0 +1,71 @@
+{
+  "id": 873480859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.694998,39.009095,-75.694998,39.009095",
+    "geom:latitude":39.009095,
+    "geom:longitude":-75.694998,
+    "iso:country":"US",
+    "sg:address":"154 Keep Out Dr",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 8664",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "thrift"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aS5fE0aY2gjhjr0coBQLa_39.009095_-75.694998@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222150,
+    "wof:geomhash":"977d478464208230de97b3ef35c5a092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873480859
+        }
+    ],
+    "wof:id":873480859,
+    "wof:lastmodified":1464222150,
+    "wof:name":"Fun Times",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "thrift"
+    ]
+},
+  "bbox": [
+    -75.694998,
+    39.009095,
+    -75.694998,
+    39.009095
+],
+  "geometry": {"coordinates":[-75.694998,39.009095],"type":"Point"}
+}

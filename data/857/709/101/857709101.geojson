@@ -1,0 +1,69 @@
+{
+  "id": 857709101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.647214,39.646603,-75.647214,39.646603",
+    "geom:latitude":39.646603,
+    "geom:longitude":-75.647214,
+    "iso:country":"US",
+    "sg:address":"510 Daniels Ct",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Musical Instruments",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 324 1383",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "piano"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IvzokG8n2JcFE7gNpCVD6_39.646603_-75.647214@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221005,
+    "wof:geomhash":"ef598082397916e4a6bdbd0d9a283a9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857709101
+        }
+    ],
+    "wof:id":857709101,
+    "wof:lastmodified":1464221005,
+    "wof:name":"John Barnes Piano Tuning",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "piano"
+    ]
+},
+  "bbox": [
+    -75.647214,
+    39.646603,
+    -75.647214,
+    39.646603
+],
+  "geometry": {"coordinates":[-75.64721400000001,39.646603],"type":"Point"}
+}

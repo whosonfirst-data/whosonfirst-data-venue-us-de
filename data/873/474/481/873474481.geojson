@@ -1,0 +1,73 @@
+{
+  "id": 873474481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572502,39.750005,-75.572502,39.750005",
+    "geom:latitude":39.750005,
+    "geom:longitude":-75.572502,
+    "iso:country":"US",
+    "sg:address":"401 N Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 9411",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5plGtIgDouzOqbj7wuo1E9_39.750005_-75.572502@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221897,
+    "wof:geomhash":"95986cfa331d5a4902cd379fc4d569c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873474481
+        }
+    ],
+    "wof:id":873474481,
+    "wof:lastmodified":1464221897,
+    "wof:name":"Lincoln Smoke Shop",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.572502,
+    39.750005,
+    -75.572502,
+    39.750005
+],
+  "geometry": {"coordinates":[-75.572502,39.750005],"type":"Point"}
+}

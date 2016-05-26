@@ -1,0 +1,69 @@
+{
+  "id": 857722511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548384,39.804299,-75.548384,39.804299",
+    "geom:latitude":39.804299,
+    "geom:longitude":-75.548384,
+    "iso:country":"US",
+    "sg:address":"3626 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 4405",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "housewares"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4HCKgoJepn3S2DsyvATp9b_39.804299_-75.548384@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221297,
+    "wof:geomhash":"536788b30840dfcc87876855097bf47d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857722511
+        }
+    ],
+    "wof:id":857722511,
+    "wof:lastmodified":1464221297,
+    "wof:name":"Kitchen Kapers",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housewares"
+    ]
+},
+  "bbox": [
+    -75.548384,
+    39.804299,
+    -75.548384,
+    39.804299
+],
+  "geometry": {"coordinates":[-75.548384,39.804299],"type":"Point"}
+}

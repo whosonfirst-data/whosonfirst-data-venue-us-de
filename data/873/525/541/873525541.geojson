@@ -1,0 +1,72 @@
+{
+  "id": 873525541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.756729,39.616896,-75.756729,39.616896",
+    "geom:latitude":39.616896,
+    "geom:longitude":-75.756729,
+    "iso:country":"US",
+    "sg:address":"250 Corporate Blvd Suite L",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 517 4678",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "credit-card-processing",
+        "merchant-services"
+    ],
+    "sg:website":"http://www.hostmerchantservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6S3CjB3z3Cd2wy4K4PAjp5_39.616896_-75.756729@1308186501"
+    },
+    "wof:country":"US",
+    "wof:created":1464224100,
+    "wof:geomhash":"346dba7f2df51f31204272f8c8557277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873525541
+        }
+    ],
+    "wof:id":873525541,
+    "wof:lastmodified":1464224100,
+    "wof:name":"Host Merchant Services",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "credit-card-processing",
+        "merchant-services"
+    ]
+},
+  "bbox": [
+    -75.756729,
+    39.616896,
+    -75.756729,
+    39.616896
+],
+  "geometry": {"coordinates":[-75.75672900000001,39.616896],"type":"Point"}
+}

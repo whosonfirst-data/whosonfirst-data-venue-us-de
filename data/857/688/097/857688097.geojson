@@ -1,0 +1,69 @@
+{
+  "id": 857688097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546255,39.78911,-75.546255,39.78911",
+    "geom:latitude":39.78911,
+    "geom:longitude":-75.546255,
+    "iso:country":"US",
+    "sg:address":"2005 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 3456",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "payroll"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qEyjAPmSXaVTcGL6bXzZL_39.789110_-75.546255@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220580,
+    "wof:geomhash":"1404640230bc5da49ba7627a98d6c393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":857688097
+        }
+    ],
+    "wof:id":857688097,
+    "wof:lastmodified":1464220580,
+    "wof:name":"Payroll By Professionals",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "payroll"
+    ]
+},
+  "bbox": [
+    -75.546255,
+    39.78911,
+    -75.546255,
+    39.78911
+],
+  "geometry": {"coordinates":[-75.546255,39.78911],"type":"Point"}
+}

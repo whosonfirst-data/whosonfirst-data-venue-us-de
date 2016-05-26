@@ -1,0 +1,80 @@
+{
+  "id": 873519965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505891,39.803163,-75.505891,39.803163",
+    "geom:latitude":39.803163,
+    "geom:longitude":-75.505891,
+    "iso:country":"US",
+    "sg:address":"2207 Silverside Road",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1466",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "steak",
+        "sandwich",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qotBsheoI3jzajyk5cB9P_39.803163_-75.505891@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223878,
+    "wof:geomhash":"05f8d9f0d5fce2e748a99df662b52862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873519965
+        }
+    ],
+    "wof:id":873519965,
+    "wof:lastmodified":1464223878,
+    "wof:name":"Steak Works",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "steak",
+        "sandwich",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.505891,
+    39.803163,
+    -75.505891,
+    39.803163
+],
+  "geometry": {"coordinates":[-75.50589100000001,39.803163],"type":"Point"}
+}

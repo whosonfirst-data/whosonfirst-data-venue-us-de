@@ -1,0 +1,72 @@
+{
+  "id": 873513791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.079394,38.721259,-75.079394,38.721259",
+    "geom:latitude":38.721259,
+    "geom:longitude":-75.079394,
+    "iso:country":"US",
+    "sg:address":"2 N 1st St",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lewes/239542-wings-to-go/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 1766",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RlOHlgTBSTMyssKtwddPp_38.721259_-75.079394@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223548,
+    "wof:geomhash":"2fbd8d5710e58bcff0009dcf27096a51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":873513791
+        }
+    ],
+    "wof:id":873513791,
+    "wof:lastmodified":1464223548,
+    "wof:name":"Wings To Go",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -75.079394,
+    38.721259,
+    -75.079394,
+    38.721259
+],
+  "geometry": {"coordinates":[-75.07939399999999,38.721259],"type":"Point"}
+}

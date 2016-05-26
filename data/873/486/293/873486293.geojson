@@ -1,0 +1,69 @@
+{
+  "id": 873486293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.785936,39.643987,-75.785936,39.643987",
+    "geom:latitude":39.643987,
+    "geom:longitude":-75.785936,
+    "iso:country":"US",
+    "sg:address":"752 W Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 1300",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uhSbMFjL3JWKf2Qdd7hVP_39.643987_-75.785936@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222353,
+    "wof:geomhash":"ac30841c556eb715c9c27d20b50d6892",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873486293
+        }
+    ],
+    "wof:id":873486293,
+    "wof:lastmodified":1464222353,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.785936,
+    39.643987,
+    -75.785936,
+    39.643987
+],
+  "geometry": {"coordinates":[-75.78593600000001,39.643987],"type":"Point"}
+}

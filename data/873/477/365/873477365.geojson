@@ -1,0 +1,82 @@
+{
+  "id": 873477365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532116,39.741302,-75.532116,39.741302",
+    "geom:latitude":39.741302,
+    "geom:longitude":-75.532116,
+    "iso:country":"US",
+    "sg:address":"1204 E 12th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 426 9880",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "box",
+        "gypsum",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jGWNRePyfb9uoishhUvYv_39.741302_-75.532116@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221997,
+    "wof:geomhash":"9de94e13cf93a4cb3f485db4cf8218c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873477365
+        }
+    ],
+    "wof:id":873477365,
+    "wof:lastmodified":1464221997,
+    "wof:name":"Georgia-Pacific Corp",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "box",
+        "gypsum",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.532116,
+    39.741302,
+    -75.532116,
+    39.741302
+],
+  "geometry": {"coordinates":[-75.532116,39.741302],"type":"Point"}
+}

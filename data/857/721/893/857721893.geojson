@@ -1,0 +1,76 @@
+{
+  "id": 857721893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578036,38.64121,-75.578036,38.64121",
+    "geom:latitude":38.64121,
+    "geom:longitude":-75.578036,
+    "iso:country":"US",
+    "sg:address":"1812 Concord Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 8590",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54PqOypPcQiidnG750CPfe_38.641210_-75.578036@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221287,
+    "wof:geomhash":"d1e35efdd36b780de0b300ea9d7072e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857721893
+        }
+    ],
+    "wof:id":857721893,
+    "wof:lastmodified":1464221287,
+    "wof:name":"Nanticoke Concrete Works",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.578036,
+    38.64121,
+    -75.578036,
+    38.64121
+],
+  "geometry": {"coordinates":[-75.578036,38.64121],"type":"Point"}
+}

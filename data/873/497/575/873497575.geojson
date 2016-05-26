@@ -1,0 +1,73 @@
+{
+  "id": 873497575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744258,39.683718,-75.744258,39.683718",
+    "geom:latitude":39.683718,
+    "geom:longitude":-75.744258,
+    "iso:country":"US",
+    "sg:address":"233 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7998",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wJs6ynfQpShAlyT2XsgKQ_39.683718_-75.744258@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222844,
+    "wof:geomhash":"ef3b054453b0d19504b4b3b48eef4658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873497575
+        }
+    ],
+    "wof:id":873497575,
+    "wof:lastmodified":1464222844,
+    "wof:name":"Farmer's Radiator & AC SHOP",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "radiator"
+    ]
+},
+  "bbox": [
+    -75.744258,
+    39.683718,
+    -75.744258,
+    39.683718
+],
+  "geometry": {"coordinates":[-75.744258,39.683718],"type":"Point"}
+}

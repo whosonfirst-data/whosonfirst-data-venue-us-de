@@ -1,0 +1,70 @@
+{
+  "id": 873523839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553493,38.989072,-75.553493,38.989072",
+    "geom:latitude":38.989072,
+    "geom:longitude":-75.553493,
+    "iso:country":"US",
+    "sg:address":"5407 Killens Pond Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9291",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "high"
+    ],
+    "sg:website":"http://www.lf.k12.de.us/lfhs/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JeBLIRftxblAGQ4DtmLiR_38.989072_-75.553493@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224034,
+    "wof:geomhash":"1e97385039645d29cdde9e56e289842c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873523839
+        }
+    ],
+    "wof:id":873523839,
+    "wof:lastmodified":1464224034,
+    "wof:name":"Lake Forest High School",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -75.553493,
+    38.989072,
+    -75.553493,
+    38.989072
+],
+  "geometry": {"coordinates":[-75.553493,38.989072],"type":"Point"}
+}

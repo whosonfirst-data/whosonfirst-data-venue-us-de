@@ -1,0 +1,77 @@
+{
+  "id": 857733469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540915,39.759403,-75.540915,39.759403",
+    "geom:latitude":39.759403,
+    "geom:longitude":-75.540915,
+    "iso:country":"US",
+    "sg:address":"2405 N Monroe St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 1825",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kC6OG5FSjj0qSNgn3yiix_39.759403_-75.540915@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221509,
+    "wof:geomhash":"52980192760eced28246645f6b929c1d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":857733469
+        }
+    ],
+    "wof:id":857733469,
+    "wof:lastmodified":1464221509,
+    "wof:name":"Classic Auto Restoration Ltd",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "restoration",
+        "classic"
+    ]
+},
+  "bbox": [
+    -75.540915,
+    39.759403,
+    -75.540915,
+    39.759403
+],
+  "geometry": {"coordinates":[-75.540915,39.759403],"type":"Point"}
+}

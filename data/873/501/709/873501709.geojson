@@ -1,0 +1,66 @@
+{
+  "id": 873501709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.318803,38.787592,-75.318803,38.787592",
+    "geom:latitude":38.787592,
+    "geom:longitude":-75.318803,
+    "iso:country":"US",
+    "sg:address":"610 Mulberry St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 5844",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t5tp9Ei6pHIV9vQqq2g9A_38.787592_-75.318803@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223018,
+    "wof:geomhash":"7c5ec1775dda964bfdf15f81a21b88ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873501709
+        }
+    ],
+    "wof:id":873501709,
+    "wof:lastmodified":1464223018,
+    "wof:name":"Milton Market",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.318803,
+    38.787592,
+    -75.318803,
+    38.787592
+],
+  "geometry": {"coordinates":[-75.318803,38.787592],"type":"Point"}
+}

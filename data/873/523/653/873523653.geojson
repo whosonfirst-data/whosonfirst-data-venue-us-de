@@ -1,0 +1,71 @@
+{
+  "id": 873523653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.579538,39.090717,-75.579538,39.090717",
+    "geom:latitude":39.090717,
+    "geom:longitude":-75.579538,
+    "iso:country":"US",
+    "sg:address":"24 S Wynn Wood Cir",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 0970",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pjXs5yJwG1urf3GKhriHy_39.090717_-75.579538@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224027,
+    "wof:geomhash":"8e2af658362c19a3fc34f9de0299e6b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523653
+        }
+    ],
+    "wof:id":873523653,
+    "wof:lastmodified":1464224027,
+    "wof:name":"Wynn Wood",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.579538,
+    39.090717,
+    -75.579538,
+    39.090717
+],
+  "geometry": {"coordinates":[-75.579538,39.090717],"type":"Point"}
+}

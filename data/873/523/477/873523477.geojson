@@ -1,0 +1,71 @@
+{
+  "id": 873523477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.710927,38.756693,-75.710927,38.756693",
+    "geom:latitude":38.756693,
+    "geom:longitude":-75.710927,
+    "iso:country":"US",
+    "sg:address":"16890 Atlanta Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 519 3942",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LYYkeFIi1qNboNPNQaV0y_38.756693_-75.710927@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224022,
+    "wof:geomhash":"42504c705498c153957325efa5d56fa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873523477
+        }
+    ],
+    "wof:id":873523477,
+    "wof:lastmodified":1464224022,
+    "wof:name":"King's Timeless Treasures",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.710927,
+    38.756693,
+    -75.710927,
+    38.756693
+],
+  "geometry": {"coordinates":[-75.710927,38.756693],"type":"Point"}
+}

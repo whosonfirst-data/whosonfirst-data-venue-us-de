@@ -1,0 +1,71 @@
+{
+  "id": 873505043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589957,39.7275,-75.589957,39.7275",
+    "geom:latitude":39.7275,
+    "geom:longitude":-75.589957,
+    "iso:country":"US",
+    "sg:address":"101 W Summit Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 5900",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5JDFNKT9JBg7sC3Ex8teZ4_39.727500_-75.589957@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223158,
+    "wof:geomhash":"85069af17ccc6f5b2d41ec957921feb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873505043
+        }
+    ],
+    "wof:id":873505043,
+    "wof:lastmodified":1464223158,
+    "wof:name":"Alexander Lawn and Landscape",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.589957,
+    39.7275,
+    -75.589957,
+    39.7275
+],
+  "geometry": {"coordinates":[-75.589957,39.7275],"type":"Point"}
+}

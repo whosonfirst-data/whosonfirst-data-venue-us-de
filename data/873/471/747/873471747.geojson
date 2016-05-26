@@ -1,0 +1,73 @@
+{
+  "id": 873471747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578285,38.923363,-75.578285,38.923363",
+    "geom:latitude":38.923363,
+    "geom:longitude":-75.578285,
+    "iso:country":"US",
+    "sg:address":"14 Commerce St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4313",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "water",
+        "laboratory",
+        "waste"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ahh3UCU8youZYwMI48wSJ_38.923363_-75.578285@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221796,
+    "wof:geomhash":"c10aee1a976192fc18a55eb2a5aaacdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873471747
+        }
+    ],
+    "wof:id":873471747,
+    "wof:lastmodified":1464221796,
+    "wof:name":"Envirocorp Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "laboratory",
+        "waste"
+    ]
+},
+  "bbox": [
+    -75.578285,
+    38.923363,
+    -75.578285,
+    38.923363
+],
+  "geometry": {"coordinates":[-75.57828499999999,38.923363],"type":"Point"}
+}

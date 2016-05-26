@@ -1,0 +1,71 @@
+{
+  "id": 873479491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543902,39.708391,-75.543902,39.708391",
+    "geom:latitude":39.708391,
+    "geom:longitude":-75.543902,
+    "iso:country":"US",
+    "sg:address":"2 Dock View Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 1004",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "frozen",
+        "fresh"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D82d6vLX9oFrATKqNGnc9_39.708391_-75.543902@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222085,
+    "wof:geomhash":"79cfaaa266b5b5a05d877244419f97d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873479491
+        }
+    ],
+    "wof:id":873479491,
+    "wof:lastmodified":1464222085,
+    "wof:name":"Foodcomm International",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "fresh"
+    ]
+},
+  "bbox": [
+    -75.543902,
+    39.708391,
+    -75.543902,
+    39.708391
+],
+  "geometry": {"coordinates":[-75.543902,39.708391],"type":"Point"}
+}

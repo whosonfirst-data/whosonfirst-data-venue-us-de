@@ -1,0 +1,73 @@
+{
+  "id": 873503365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.73583,39.116988,-75.73583,39.116988",
+    "geom:latitude":39.116988,
+    "geom:longitude":-75.73583,
+    "iso:country":"US",
+    "sg:address":"803 Strauss Ave",
+    "sg:city":"Marydel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 3835",
+    "sg:postcode":"19964",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QvahoYwhlVswUGXbfdzPM_39.116988_-75.735830@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223078,
+    "wof:geomhash":"c13596aec486c67b72cfa8e779c96e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873503365
+        }
+    ],
+    "wof:id":873503365,
+    "wof:lastmodified":1464223078,
+    "wof:name":"Strauss Enterprises",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.73583,
+    39.116988,
+    -75.73583,
+    39.116988
+],
+  "geometry": {"coordinates":[-75.73583000000001,39.116988],"type":"Point"}
+}

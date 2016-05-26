@@ -1,0 +1,82 @@
+{
+  "id": 873513119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.712137,39.696806,-75.712137,39.696806",
+    "geom:latitude":39.696806,
+    "geom:longitude":-75.712137,
+    "iso:country":"US",
+    "sg:address":"1216 Capitol Trl",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/25137-casapullas-subs--steaks/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 2200",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "cheesesteaks",
+        "american",
+        "dog",
+        "burger",
+        "hot",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HG6XX4csVdx7aSArsm5qG_39.696806_-75.712137@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223517,
+    "wof:geomhash":"09be2a4b6de50a4f274fa76fa0c5add4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513119
+        }
+    ],
+    "wof:id":873513119,
+    "wof:lastmodified":1464223517,
+    "wof:name":"Casapulla's Subs & Steaks",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "cheesesteaks",
+        "american",
+        "dog",
+        "burger",
+        "hot",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -75.712137,
+    39.696806,
+    -75.712137,
+    39.696806
+],
+  "geometry": {"coordinates":[-75.712137,39.696806],"type":"Point"}
+}

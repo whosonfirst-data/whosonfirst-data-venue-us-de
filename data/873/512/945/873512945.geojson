@@ -1,0 +1,70 @@
+{
+  "id": 873512945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.653471,39.675912,-75.653471,39.675912",
+    "geom:latitude":39.675912,
+    "geom:longitude":-75.653471,
+    "iso:country":"US",
+    "sg:address":"136 Christiana Mall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/246408-haagen-dazs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 9812",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eV0WFML7nscLL0nDUc9EM_39.675912_-75.653471@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223512,
+    "wof:geomhash":"4608416e6fd9ffbf80c5cbf0706dd11e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512945
+        }
+    ],
+    "wof:id":873512945,
+    "wof:lastmodified":1464223512,
+    "wof:name":"Haagen Dazs",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.653471,
+    39.675912,
+    -75.653471,
+    39.675912
+],
+  "geometry": {"coordinates":[-75.653471,39.675912],"type":"Point"}
+}

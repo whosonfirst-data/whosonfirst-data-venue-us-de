@@ -1,0 +1,72 @@
+{
+  "id": 873518161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547587,39.800581,-75.547587,39.800581",
+    "geom:latitude":39.800581,
+    "geom:longitude":-75.547587,
+    "iso:country":"US",
+    "sg:address":"3201 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0777",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "sg:website":"www.sweetlucysicecream.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13yf0KaJGUXcXrZpJpHhrP_39.800581_-75.547587@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223801,
+    "wof:geomhash":"cdff96e2a3417b2e5b277dd7178f6812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873518161
+        }
+    ],
+    "wof:id":873518161,
+    "wof:lastmodified":1464223801,
+    "wof:name":"Sweet Lucy's",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -75.547587,
+    39.800581,
+    -75.547587,
+    39.800581
+],
+  "geometry": {"coordinates":[-75.54758699999999,39.800581],"type":"Point"}
+}

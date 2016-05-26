@@ -1,0 +1,71 @@
+{
+  "id": 873490489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.611156,39.298673,-75.611156,39.298673",
+    "geom:latitude":39.298673,
+    "geom:longitude":-75.611156,
+    "iso:country":"US",
+    "sg:address":"314 W Mount Vernon St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 0605",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kXyDuwsQ0xlDMvCAEGXvR_39.298673_-75.611156@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222513,
+    "wof:geomhash":"d4538c9638fbfd98c869063123fea87a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873490489
+        }
+    ],
+    "wof:id":873490489,
+    "wof:lastmodified":1464222513,
+    "wof:name":"Just Like Home",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -75.611156,
+    39.298673,
+    -75.611156,
+    39.298673
+],
+  "geometry": {"coordinates":[-75.61115599999999,39.298673],"type":"Point"}
+}

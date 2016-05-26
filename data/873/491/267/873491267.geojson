@@ -1,0 +1,71 @@
+{
+  "id": 873491267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549483,38.65801,-75.549483,38.65801",
+    "geom:latitude":38.65801,
+    "geom:longitude":-75.549483,
+    "iso:country":"US",
+    "sg:address":"24138 King Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 4501",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NllXmyaNKcTfLyY1OJA94_38.658010_-75.549483@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222540,
+    "wof:geomhash":"ef3ea7d5157a79b85138b05f28bab4fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873491267
+        }
+    ],
+    "wof:id":873491267,
+    "wof:lastmodified":1464222540,
+    "wof:name":"Browns Transport Inc",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.549483,
+    38.65801,
+    -75.549483,
+    38.65801
+],
+  "geometry": {"coordinates":[-75.549483,38.65801],"type":"Point"}
+}

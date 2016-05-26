@@ -1,0 +1,71 @@
+{
+  "id": 857689485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.72243,39.685184,-75.72243,39.685184",
+    "geom:latitude":39.685184,
+    "geom:longitude":-75.72243,
+    "iso:country":"US",
+    "sg:address":"1800 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 3977",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "warehousing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NYFsLjsg1mNRA44cwNYf1_39.685184_-75.722430@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220607,
+    "wof:geomhash":"d7d2c961d10b3d11b5a9bcf14c698fc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857689485
+        }
+    ],
+    "wof:id":857689485,
+    "wof:lastmodified":1464220607,
+    "wof:name":"Sardo & Sons Warehousing Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "warehousing"
+    ]
+},
+  "bbox": [
+    -75.72243,
+    39.685184,
+    -75.72243,
+    39.685184
+],
+  "geometry": {"coordinates":[-75.72243,39.685184],"type":"Point"}
+}

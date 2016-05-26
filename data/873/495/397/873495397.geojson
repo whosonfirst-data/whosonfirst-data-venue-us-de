@@ -1,0 +1,71 @@
+{
+  "id": 873495397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.635793,39.73474,-75.635793,39.73474",
+    "geom:latitude":39.73474,
+    "geom:longitude":-75.635793,
+    "iso:country":"US",
+    "sg:address":"710 Greenbank Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 4337",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6BMgrLjjgZPgd5O0Htu69T_39.734740_-75.635793@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222745,
+    "wof:geomhash":"753bc99584042662958490f020eb034f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873495397
+        }
+    ],
+    "wof:id":873495397,
+    "wof:lastmodified":1464222745,
+    "wof:name":"Aztech Dental Studio Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -75.635793,
+    39.73474,
+    -75.635793,
+    39.73474
+],
+  "geometry": {"coordinates":[-75.63579300000001,39.73474],"type":"Point"}
+}

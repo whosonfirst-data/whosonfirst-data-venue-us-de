@@ -1,0 +1,73 @@
+{
+  "id": 873525169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.228035,38.457169,-75.228035,38.457169",
+    "geom:latitude":38.457169,
+    "geom:longitude":-75.228035,
+    "iso:country":"US",
+    "sg:address":"64 W Church St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 5954",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "television",
+        "radio-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68ZU6GpP11DRYO3dqwqTiG_38.457169_-75.228035@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224085,
+    "wof:geomhash":"fcf143dad37a38e96acc2fe69f0c97e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525169
+        }
+    ],
+    "wof:id":873525169,
+    "wof:lastmodified":1464224085,
+    "wof:name":"Selbyville Tv",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio-service"
+    ]
+},
+  "bbox": [
+    -75.228035,
+    38.457169,
+    -75.228035,
+    38.457169
+],
+  "geometry": {"coordinates":[-75.22803500000001,38.457169],"type":"Point"}
+}

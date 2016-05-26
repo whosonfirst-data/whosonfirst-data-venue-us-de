@@ -1,0 +1,69 @@
+{
+  "id": 857715001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.684507,39.689593,-75.684507,39.689593",
+    "geom:latitude":39.689593,
+    "geom:longitude":-75.684507,
+    "iso:country":"US",
+    "sg:address":"914 Old Harmony Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 8762",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "battery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dEGwli6GkhA22CQXUGBeZ_39.689593_-75.684507@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221147,
+    "wof:geomhash":"cbf07e92f4f2e94f22dee938231b349e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857715001
+        }
+    ],
+    "wof:id":857715001,
+    "wof:lastmodified":1464221147,
+    "wof:name":"Newark Battery Co",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery"
+    ]
+},
+  "bbox": [
+    -75.684507,
+    39.689593,
+    -75.684507,
+    39.689593
+],
+  "geometry": {"coordinates":[-75.684507,39.689593],"type":"Point"}
+}

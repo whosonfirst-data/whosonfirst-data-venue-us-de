@@ -1,0 +1,73 @@
+{
+  "id": 873498725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523667,39.155868,-75.523667,39.155868",
+    "geom:latitude":39.155868,
+    "geom:longitude":-75.523667,
+    "iso:country":"US",
+    "sg:address":"408 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9224",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bagel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PlSuiuw4DMpu5oTsA0wHr_39.155868_-75.523667@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222890,
+    "wof:geomhash":"7f872f20028c5740f795594fb2e6a36b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873498725
+        }
+    ],
+    "wof:id":873498725,
+    "wof:lastmodified":1464222890,
+    "wof:name":"Bagels Too",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel"
+    ]
+},
+  "bbox": [
+    -75.523667,
+    39.155868,
+    -75.523667,
+    39.155868
+],
+  "geometry": {"coordinates":[-75.523667,39.155868],"type":"Point"}
+}

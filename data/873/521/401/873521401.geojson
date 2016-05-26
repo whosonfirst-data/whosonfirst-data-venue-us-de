@@ -1,0 +1,68 @@
+{
+  "id": 873521401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505898,39.140202,-75.505898,39.140202",
+    "geom:latitude":39.140202,
+    "geom:longitude":-75.505898,
+    "iso:country":"US",
+    "sg:address":"129 S Governor Blvd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 8195",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33R3xeKZjOasV3gnKty4T7_39.140202_-75.505898@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223940,
+    "wof:geomhash":"f30e659fad555e3c852b9d70354605d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873521401
+        }
+    ],
+    "wof:id":873521401,
+    "wof:lastmodified":1464223940,
+    "wof:name":"Louie Harry Laundry & Dry Cleaning",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.505898,
+    39.140202,
+    -75.505898,
+    39.140202
+],
+  "geometry": {"coordinates":[-75.505898,39.140202],"type":"Point"}
+}

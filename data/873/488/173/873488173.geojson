@@ -1,0 +1,71 @@
+{
+  "id": 873488173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.50087,39.771493,-75.50087,39.771493",
+    "geom:latitude":39.771493,
+    "geom:longitude":-75.50087,
+    "iso:country":"US",
+    "sg:address":"707 Seville Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 0484",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56gt6sMFQvunGQRTpbCfua_39.771493_-75.500870@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222429,
+    "wof:geomhash":"0341032712ff0b2f629639d5c212fd52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873488173
+        }
+    ],
+    "wof:id":873488173,
+    "wof:lastmodified":1464222429,
+    "wof:name":"Zolad Dental Lab",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -75.50087,
+    39.771493,
+    -75.50087,
+    39.771493
+],
+  "geometry": {"coordinates":[-75.50087000000001,39.771493],"type":"Point"}
+}

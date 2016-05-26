@@ -1,0 +1,75 @@
+{
+  "id": 857714063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.38531,38.692237,-75.38531,38.692237",
+    "geom:latitude":38.692237,
+    "geom:longitude":-75.38531,
+    "iso:country":"US",
+    "sg:address":"109 E Laurel St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9768",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30g2m3pRDaTeOFQdqa3Ypr_38.692237_-75.385310@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221131,
+    "wof:geomhash":"c596f041b9c3d2e7be3c2be34608f49c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857714063
+        }
+    ],
+    "wof:id":857714063,
+    "wof:lastmodified":1464221131,
+    "wof:name":"Servpro",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "restoration",
+        "damage"
+    ]
+},
+  "bbox": [
+    -75.38531,
+    38.692237,
+    -75.38531,
+    38.692237
+],
+  "geometry": {"coordinates":[-75.38531,38.692237],"type":"Point"}
+}

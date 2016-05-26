@@ -1,0 +1,74 @@
+{
+  "id": 873513591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.503728,39.803704,-75.503728,39.803704",
+    "geom:latitude":39.803704,
+    "geom:longitude":-75.503728,
+    "iso:country":"US",
+    "sg:address":"1812 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/243792-hunan-asian-cuisine/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 8300",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "thai",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jtqKcYCqWYABOUxSqFAOq_39.803704_-75.503728@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223538,
+    "wof:geomhash":"11f14e31b00d6189e57f4e90a566e757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873513591
+        }
+    ],
+    "wof:id":873513591,
+    "wof:lastmodified":1464223538,
+    "wof:name":"Hunan Asian Cuisine",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "thai",
+        "asian"
+    ]
+},
+  "bbox": [
+    -75.503728,
+    39.803704,
+    -75.503728,
+    39.803704
+],
+  "geometry": {"coordinates":[-75.503728,39.803704],"type":"Point"}
+}

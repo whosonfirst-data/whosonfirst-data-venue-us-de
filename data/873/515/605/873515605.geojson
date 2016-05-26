@@ -1,0 +1,71 @@
+{
+  "id": 873515605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744321,39.683754,-75.744321,39.683754",
+    "geom:latitude":39.683754,
+    "geom:longitude":-75.744321,
+    "iso:country":"US",
+    "sg:address":"230 E Main St Ste 315",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 0103",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dealers-wholesale",
+        "news"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0llaAYIpcwtSC0bni2cHTK_39.683754_-75.744321@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223648,
+    "wof:geomhash":"9641f0f16c90d295c5d386b68311202c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515605
+        }
+    ],
+    "wof:id":873515605,
+    "wof:lastmodified":1464223648,
+    "wof:name":"Newark News & Tobacco",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-wholesale",
+        "news"
+    ]
+},
+  "bbox": [
+    -75.744321,
+    39.683754,
+    -75.744321,
+    39.683754
+],
+  "geometry": {"coordinates":[-75.744321,39.683754],"type":"Point"}
+}

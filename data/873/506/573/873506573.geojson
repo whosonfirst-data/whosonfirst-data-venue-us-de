@@ -1,0 +1,71 @@
+{
+  "id": 873506573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60647,39.741837,-75.60647,39.741837",
+    "geom:latitude":39.741837,
+    "geom:longitude":-75.60647,
+    "iso:country":"US",
+    "sg:address":"1526 Montgomery Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 6463",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WN5m5zoaEUwd4aTv2v4bq_39.741837_-75.606470@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223219,
+    "wof:geomhash":"1e132f3cef432c0841b6d10ec069db72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873506573
+        }
+    ],
+    "wof:id":873506573,
+    "wof:lastmodified":1464223219,
+    "wof:name":"Ppc Electrical Contractor",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.60647,
+    39.741837,
+    -75.60647,
+    39.741837
+],
+  "geometry": {"coordinates":[-75.60647,39.741837],"type":"Point"}
+}

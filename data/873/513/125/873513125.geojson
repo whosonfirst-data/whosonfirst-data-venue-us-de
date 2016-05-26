@@ -1,0 +1,72 @@
+{
+  "id": 873513125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.73213,39.683703,-75.73213,39.683703",
+    "geom:latitude":39.683703,
+    "geom:longitude":-75.73213,
+    "iso:country":"US",
+    "sg:address":"1365 Marrows Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/189532-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 3698",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XH6C9f0h4qaFnbgqP2Rso_39.683703_-75.732130@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223517,
+    "wof:geomhash":"efa58d00abec2b630ebe207a57f92a98",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513125
+        }
+    ],
+    "wof:id":873513125,
+    "wof:lastmodified":1464223517,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -75.73213,
+    39.683703,
+    -75.73213,
+    39.683703
+],
+  "geometry": {"coordinates":[-75.73213,39.683703],"type":"Point"}
+}

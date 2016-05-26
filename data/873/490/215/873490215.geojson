@@ -1,0 +1,71 @@
+{
+  "id": 873490215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.743377,39.111828,-75.743377,39.111828",
+    "geom:latitude":39.111828,
+    "geom:longitude":-75.743377,
+    "iso:country":"US",
+    "sg:address":"377 Halltown Rd",
+    "sg:city":"Marydel",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 3977",
+    "sg:postcode":"19964",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67AdSAInA6Vr2iDBqUh3Fv_39.111828_-75.743377@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222503,
+    "wof:geomhash":"2d552d35270963fb1e5d26e3a4a43841",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873490215
+        }
+    ],
+    "wof:id":873490215,
+    "wof:lastmodified":1464222503,
+    "wof:name":"Doris' Market",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.743377,
+    39.111828,
+    -75.743377,
+    39.111828
+],
+  "geometry": {"coordinates":[-75.743377,39.111828],"type":"Point"}
+}

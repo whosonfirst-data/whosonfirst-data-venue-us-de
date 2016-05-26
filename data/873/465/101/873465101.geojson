@@ -1,0 +1,71 @@
+{
+  "id": 873465101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.51517,39.768213,-75.51517,39.768213",
+    "geom:latitude":39.768213,
+    "geom:longitude":-75.51517,
+    "iso:country":"US",
+    "sg:address":"58 Pauls Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 425 3650",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uPkMSTfbJSoXsmofd30tq_39.768213_-75.515170@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221571,
+    "wof:geomhash":"ea70c1910425e75c5074c2a9ec2e9c08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873465101
+        }
+    ],
+    "wof:id":873465101,
+    "wof:lastmodified":1464221571,
+    "wof:name":"Seaport Contractors",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.51517,
+    39.768213,
+    -75.51517,
+    39.768213
+],
+  "geometry": {"coordinates":[-75.51517,39.768213],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873496285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.533383,39.757983,-75.533383,39.757983",
+    "geom:latitude":39.757983,
+    "geom:longitude":-75.533383,
+    "iso:country":"US",
+    "sg:address":"2912 West St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 9245",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xkXrCrMh5fn8aenKB3Bwr_39.757983_-75.533383@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222790,
+    "wof:geomhash":"8ff1c9c79e7bceebb8c78c37ea7135a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873496285
+        }
+    ],
+    "wof:id":873496285,
+    "wof:lastmodified":1464222790,
+    "wof:name":"Evans L G Concrete Cnstr",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.533383,
+    39.757983,
+    -75.533383,
+    39.757983
+],
+  "geometry": {"coordinates":[-75.533383,39.757983],"type":"Point"}
+}

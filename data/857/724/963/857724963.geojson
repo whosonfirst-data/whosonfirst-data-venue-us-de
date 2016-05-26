@@ -1,0 +1,72 @@
+{
+  "id": 857724963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.428742,38.908936,-75.428742,38.908936",
+    "geom:latitude":38.908936,
+    "geom:longitude":-75.428742,
+    "iso:country":"US",
+    "sg:address":"201 S Walnut St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 6616",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.cityofmilford.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IzlI4kQH0L2MOWkwk8rR0_38.908936_-75.428742@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221342,
+    "wof:geomhash":"be0636d5abaeeaa64a62bb72198ec15e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857724963
+        }
+    ],
+    "wof:id":857724963,
+    "wof:lastmodified":1464221342,
+    "wof:name":"Milford City Office",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -75.428742,
+    38.908936,
+    -75.428742,
+    38.908936
+],
+  "geometry": {"coordinates":[-75.428742,38.908936],"type":"Point"}
+}

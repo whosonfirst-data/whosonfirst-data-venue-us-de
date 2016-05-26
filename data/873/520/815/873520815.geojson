@@ -1,0 +1,79 @@
+{
+  "id": 873520815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544241,39.191955,-75.544241,39.191955",
+    "geom:latitude":39.191955,
+    "geom:longitude":-75.544241,
+    "iso:country":"US",
+    "sg:address":"1365 N Dupont Hwy Ste 5036",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8775",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bookstore",
+        "dvd's"
+    ],
+    "sg:website":"www.borders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gMkmwVxXWVTlTEgfKKpGe_39.191955_-75.544241@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223918,
+    "wof:geomhash":"c1bd956fca002c40ac8cb51f7b3081ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873520815
+        }
+    ],
+    "wof:id":873520815,
+    "wof:lastmodified":1464223918,
+    "wof:name":"Waldenbooks",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "dvd's"
+    ]
+},
+  "bbox": [
+    -75.544241,
+    39.191955,
+    -75.544241,
+    39.191955
+],
+  "geometry": {"coordinates":[-75.544241,39.191955],"type":"Point"}
+}

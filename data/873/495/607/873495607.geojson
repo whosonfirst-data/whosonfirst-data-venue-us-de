@@ -1,0 +1,72 @@
+{
+  "id": 873495607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52931,39.13539,-75.52931,39.13539",
+    "geom:latitude":39.13539,
+    "geom:longitude":-75.52931,
+    "iso:country":"US",
+    "sg:address":"1277 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 0907",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgical",
+        "disposable"
+    ],
+    "sg:website":"www.avemed.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RuZSdBOPFVNuiIjXpeK72_39.135390_-75.529310@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222757,
+    "wof:geomhash":"d71bff553416584593c4062ec95f77c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873495607
+        }
+    ],
+    "wof:id":873495607,
+    "wof:lastmodified":1464222757,
+    "wof:name":"Avenue Medical",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "disposable"
+    ]
+},
+  "bbox": [
+    -75.52931,
+    39.13539,
+    -75.52931,
+    39.13539
+],
+  "geometry": {"coordinates":[-75.52931,39.13539],"type":"Point"}
+}

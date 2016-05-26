@@ -1,0 +1,73 @@
+{
+  "id": 857719781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.656226,38.751017,-75.656226,38.751017",
+    "geom:latitude":38.751017,
+    "geom:longitude":-75.656226,
+    "iso:country":"US",
+    "sg:address":"5512 Ray Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 7262",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tsTjuqDXEgcEfLWm4rOnq_38.751017_-75.656226@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221246,
+    "wof:geomhash":"96a97fc711130a4f7516bc91c380d70d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":857719781
+        }
+    ],
+    "wof:id":857719781,
+    "wof:lastmodified":1464221246,
+    "wof:name":"John Arney Farm",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.656226,
+    38.751017,
+    -75.656226,
+    38.751017
+],
+  "geometry": {"coordinates":[-75.656226,38.751017],"type":"Point"}
+}

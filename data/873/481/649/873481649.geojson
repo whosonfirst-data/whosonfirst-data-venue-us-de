@@ -1,0 +1,75 @@
+{
+  "id": 873481649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59321,39.677063,-75.59321,39.677063",
+    "geom:latitude":39.677063,
+    "geom:longitude":-75.59321,
+    "iso:country":"US",
+    "sg:address":"122 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 324 1900",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "oil",
+        "change",
+        "wash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NFGGaYNPGKUQqgXm1ui74_39.677063_-75.593210@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222179,
+    "wof:geomhash":"4ae3be343f7937d2d6d3da6952d90790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873481649
+        }
+    ],
+    "wof:id":873481649,
+    "wof:lastmodified":1464222179,
+    "wof:name":"Oil Change Express",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "oil",
+        "change",
+        "wash"
+    ]
+},
+  "bbox": [
+    -75.59321,
+    39.677063,
+    -75.59321,
+    39.677063
+],
+  "geometry": {"coordinates":[-75.59321,39.677063],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857723747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.680078,39.625991,-75.680078,39.625991",
+    "geom:latitude":39.625991,
+    "geom:longitude":-75.680078,
+    "iso:country":"US",
+    "sg:address":"4 Swansea Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 4616",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54xwiZ3dcApPmjwEkfY95W_39.625991_-75.680078@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221320,
+    "wof:geomhash":"bd5099344afa1619cbcb1fcc245fda90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857723747
+        }
+    ],
+    "wof:id":857723747,
+    "wof:lastmodified":1464221320,
+    "wof:name":"Pale Dog Tavern",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -75.680078,
+    39.625991,
+    -75.680078,
+    39.625991
+],
+  "geometry": {"coordinates":[-75.68007799999999,39.625991],"type":"Point"}
+}

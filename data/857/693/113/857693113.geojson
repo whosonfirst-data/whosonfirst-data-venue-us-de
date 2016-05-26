@@ -1,0 +1,71 @@
+{
+  "id": 857693113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.659894,39.722774,-75.659894,39.722774",
+    "geom:latitude":39.722774,
+    "geom:longitude":-75.659894,
+    "iso:country":"US",
+    "sg:address":"4609 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 2591",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5w76HLg7CTPU38QSbD89xN_39.722774_-75.659894@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220682,
+    "wof:geomhash":"2ea0bfe87272ab238d4ca584ff873e37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857693113
+        }
+    ],
+    "wof:id":857693113,
+    "wof:lastmodified":1464220682,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.659894,
+    39.722774,
+    -75.659894,
+    39.722774
+],
+  "geometry": {"coordinates":[-75.65989399999999,39.722774],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873486255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574072,39.747564,-75.574072,39.747564",
+    "geom:latitude":39.747564,
+    "geom:longitude":-75.574072,
+    "iso:country":"US",
+    "sg:address":"102 N Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 3750",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hPdhVTbR9gllt6oO3Hjz2_39.747564_-75.574072@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222351,
+    "wof:geomhash":"6c9b64ecf9e8dea4957238599c580d76",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873486255
+        }
+    ],
+    "wof:id":873486255,
+    "wof:lastmodified":1464222351,
+    "wof:name":"Andreas Auto Repair",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used"
+    ]
+},
+  "bbox": [
+    -75.574072,
+    39.747564,
+    -75.574072,
+    39.747564
+],
+  "geometry": {"coordinates":[-75.574072,39.747564],"type":"Point"}
+}

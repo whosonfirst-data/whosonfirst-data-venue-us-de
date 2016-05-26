@@ -1,0 +1,75 @@
+{
+  "id": 873502331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.498206,39.755245,-75.498206,39.755245",
+    "geom:latitude":39.755245,
+    "geom:longitude":-75.498206,
+    "iso:country":"US",
+    "sg:address":"4901 Governor Printz Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 1832",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85828879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QMYGGpDu7OsMDwyvJuAd7_39.755245_-75.498206@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223040,
+    "wof:geomhash":"efcf026a3af06d1f7b1c00360ec229ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85828879,
+            "region_id":85688611,
+            "venue_id":873502331
+        }
+    ],
+    "wof:id":873502331,
+    "wof:lastmodified":1464223040,
+    "wof:name":"United States Postal Service",
+    "wof:parent_id":85828879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -75.498206,
+    39.755245,
+    -75.498206,
+    39.755245
+],
+  "geometry": {"coordinates":[-75.498206,39.755245],"type":"Point"}
+}

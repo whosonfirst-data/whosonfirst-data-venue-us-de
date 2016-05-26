@@ -1,0 +1,71 @@
+{
+  "id": 873525099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.108262,38.474217,-75.108262,38.474217",
+    "geom:latitude":38.474217,
+    "geom:longitude":-75.108262,
+    "iso:country":"US",
+    "sg:address":"36868 Herring Ct",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 988 1306",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KHBDSEs7SWyWFK9etCl5m_38.474217_-75.108262@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224083,
+    "wof:geomhash":"b69f3b5cce70391931dff9cb3a0edaf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525099
+        }
+    ],
+    "wof:id":873525099,
+    "wof:lastmodified":1464224083,
+    "wof:name":"David Shapiro Dvm",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -75.108262,
+    38.474217,
+    -75.108262,
+    38.474217
+],
+  "geometry": {"coordinates":[-75.108262,38.474217],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873512285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517303,39.120602,-75.517303,39.120602",
+    "geom:latitude":39.120602,
+    "geom:longitude":-75.517303,
+    "iso:country":"US",
+    "sg:address":"1945 Mitten St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 1089",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931709,
+        102083871,
+        85858961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AFhNkvrJD6aKc9S6gbtAK_39.120854_-75.517438@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223486,
+    "wof:geomhash":"b1c096a1991299db2faca163c40435ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931709,
+            "neighbourhood_id":85858961,
+            "region_id":85688611,
+            "venue_id":873512285
+        }
+    ],
+    "wof:id":873512285,
+    "wof:lastmodified":1464223486,
+    "wof:name":"Figgy's Fancy Cakes",
+    "wof:parent_id":85858961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -75.517303,
+    39.120602,
+    -75.517303,
+    39.120602
+],
+  "geometry": {"coordinates":[-75.517303,39.120602],"type":"Point"}
+}

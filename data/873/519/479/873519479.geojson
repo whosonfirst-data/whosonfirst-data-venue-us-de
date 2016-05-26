@@ -1,0 +1,70 @@
+{
+  "id": 873519479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505501,39.802299,-75.505501,39.802299",
+    "geom:latitude":39.802299,
+    "geom:longitude":-75.505501,
+    "iso:country":"US",
+    "sg:address":"2201 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 7018",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.secondsourcecomputers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KJ1uvqSTr3l3c4a8wsqE8_39.802299_-75.505501@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223853,
+    "wof:geomhash":"88989262c2c8c7526bd986487ad4afcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873519479
+        }
+    ],
+    "wof:id":873519479,
+    "wof:lastmodified":1464223853,
+    "wof:name":"Second Source Computer Center",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -75.505501,
+    39.802299,
+    -75.505501,
+    39.802299
+],
+  "geometry": {"coordinates":[-75.505501,39.802299],"type":"Point"}
+}

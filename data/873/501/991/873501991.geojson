@@ -1,0 +1,76 @@
+{
+  "id": 873501991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.290916,38.580877,-75.290916,38.580877",
+    "geom:latitude":38.580877,
+    "geom:longitude":-75.290916,
+    "iso:country":"US",
+    "sg:address":"231 E Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 6671",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00PvJIvOnQuF2op9TqUrUu_38.580877_-75.290916@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223028,
+    "wof:geomhash":"856083f1c02ecdbc7cb5f72a22d52a3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873501991
+        }
+    ],
+    "wof:id":873501991,
+    "wof:lastmodified":1464223028,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.290916,
+    38.580877,
+    -75.290916,
+    38.580877
+],
+  "geometry": {"coordinates":[-75.290916,38.580877],"type":"Point"}
+}

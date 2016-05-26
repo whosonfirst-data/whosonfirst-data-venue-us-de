@@ -1,0 +1,75 @@
+{
+  "id": 857731445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542465,39.731298,-75.542465,39.731298",
+    "geom:latitude":39.731298,
+    "geom:longitude":-75.542465,
+    "iso:country":"US",
+    "sg:address":"201 S Heald St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 4050",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JebhvdZMlfNBYi7YMn5FN_39.731298_-75.542465@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221467,
+    "wof:geomhash":"cb9385dc748640539e6f7a3e26ec163e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857731445
+        }
+    ],
+    "wof:id":857731445,
+    "wof:lastmodified":1464221467,
+    "wof:name":"South Bridge Amoco",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.542465,
+    39.731298,
+    -75.542465,
+    39.731298
+],
+  "geometry": {"coordinates":[-75.54246500000001,39.731298],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873515725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.738892,39.684219,-75.738892,39.684219",
+    "geom:latitude":39.684219,
+    "geom:longitude":-75.738892,
+    "iso:country":"US",
+    "sg:address":"341 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 709 0424",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dealers-used",
+        "new",
+        "used",
+        "cars-wholesale",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zKmBStljPabl6OjufZRAh_39.684219_-75.738892@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223653,
+    "wof:geomhash":"67b4aaebb1c4b47f3e391913587646a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515725
+        }
+    ],
+    "wof:id":873515725,
+    "wof:lastmodified":1464223653,
+    "wof:name":"Contiental Auto Group",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "new",
+        "used",
+        "cars-wholesale",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.738892,
+    39.684219,
+    -75.738892,
+    39.684219
+],
+  "geometry": {"coordinates":[-75.73889200000001,39.684219],"type":"Point"}
+}

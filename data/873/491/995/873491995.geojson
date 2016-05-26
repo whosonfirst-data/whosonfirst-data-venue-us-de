@@ -1,0 +1,75 @@
+{
+  "id": 873491995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.765265,39.696258,-75.765265,39.696258",
+    "geom:latitude":39.696258,
+    "geom:longitude":-75.765265,
+    "iso:country":"US",
+    "sg:address":"413 New London Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 286 1492",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0beoFYmf1oNJooK0irIEjG_39.696258_-75.765265@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222566,
+    "wof:geomhash":"fc345970f6efeff63f380f7af1013a5b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873491995
+        }
+    ],
+    "wof:id":873491995,
+    "wof:lastmodified":1464222566,
+    "wof:name":"Danceworks",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -75.765265,
+    39.696258,
+    -75.765265,
+    39.696258
+],
+  "geometry": {"coordinates":[-75.765265,39.696258],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873514709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.660725,39.665627,-75.660725,39.665627",
+    "geom:latitude":39.665627,
+    "geom:longitude":-75.660725,
+    "iso:country":"US",
+    "sg:address":"10 W Main St",
+    "sg:city":"Christiana",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 3444",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46HGIajcPJE8fpXRYWx506_39.665627_-75.660725@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223609,
+    "wof:geomhash":"cdcdb51f5c6e5f6cebcaacbdd3870817",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514709
+        }
+    ],
+    "wof:id":873514709,
+    "wof:lastmodified":1464223609,
+    "wof:name":"New Antioch Baptist Church",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -75.660725,
+    39.665627,
+    -75.660725,
+    39.665627
+],
+  "geometry": {"coordinates":[-75.660725,39.665627],"type":"Point"}
+}

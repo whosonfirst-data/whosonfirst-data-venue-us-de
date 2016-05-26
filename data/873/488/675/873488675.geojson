@@ -1,0 +1,71 @@
+{
+  "id": 873488675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.507222,39.79266,-75.507222,39.79266",
+    "geom:latitude":39.79266,
+    "geom:longitude":-75.507222,
+    "iso:country":"US",
+    "sg:address":"107 Hayman Pl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 9136",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821991,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DRFROYcDc2wyNvCxmNdr9_39.792660_-75.507222@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222446,
+    "wof:geomhash":"405d56de18acbba8acb09f4bcf1e3e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821991,
+            "region_id":85688611,
+            "venue_id":873488675
+        }
+    ],
+    "wof:id":873488675,
+    "wof:lastmodified":1464222446,
+    "wof:name":"A & M Hvac Inc",
+    "wof:parent_id":85821991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.507222,
+    39.79266,
+    -75.507222,
+    39.79266
+],
+  "geometry": {"coordinates":[-75.507222,39.79266],"type":"Point"}
+}

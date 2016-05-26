@@ -1,0 +1,76 @@
+{
+  "id": 873511859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529602,39.130402,-75.529602,39.130402",
+    "geom:latitude":39.130402,
+    "geom:longitude":-75.529602,
+    "iso:country":"US",
+    "sg:address":"1652 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 0409",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tattooing",
+        "piercing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cFkZbX3yg6gw77U0fjRwB_39.130082_-75.529685@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223467,
+    "wof:geomhash":"0bbf11b0d07caf5ccef5ad253339b331",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873511859
+        }
+    ],
+    "wof:id":873511859,
+    "wof:lastmodified":1464223467,
+    "wof:name":"Little Gary's Tattooing",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing",
+        "piercing"
+    ]
+},
+  "bbox": [
+    -75.529602,
+    39.130402,
+    -75.529602,
+    39.130402
+],
+  "geometry": {"coordinates":[-75.529602,39.130402],"type":"Point"}
+}

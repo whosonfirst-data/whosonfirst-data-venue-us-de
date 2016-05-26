@@ -1,0 +1,71 @@
+{
+  "id": 873479465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.697223,39.727404,-75.697223,39.727404",
+    "geom:latitude":39.727404,
+    "geom:longitude":-75.697223,
+    "iso:country":"US",
+    "sg:address":"5011 Diana Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 6663",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "treatment",
+        "skin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ivsPmZTDy15Wy3EEeEnYo_39.727404_-75.697223@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222084,
+    "wof:geomhash":"945d8b6325e5b609d826eaf562b35a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873479465
+        }
+    ],
+    "wof:id":873479465,
+    "wof:lastmodified":1464222084,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "treatment",
+        "skin"
+    ]
+},
+  "bbox": [
+    -75.697223,
+    39.727404,
+    -75.697223,
+    39.727404
+],
+  "geometry": {"coordinates":[-75.69722299999999,39.727404],"type":"Point"}
+}

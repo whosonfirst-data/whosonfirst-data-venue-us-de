@@ -1,0 +1,71 @@
+{
+  "id": 857687047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54884,39.807016,-75.54884,39.807016",
+    "geom:latitude":39.807016,
+    "geom:longitude":-75.54884,
+    "iso:country":"US",
+    "sg:address":"3916 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 0821",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apparel",
+        "sport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5unVXyapMkJ36gmUKZ09T9_39.807016_-75.548840@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220560,
+    "wof:geomhash":"06b4e5e3ed77d7030e51a2f6641dcf8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857687047
+        }
+    ],
+    "wof:id":857687047,
+    "wof:lastmodified":1464220560,
+    "wof:name":"Ray Panella Ski Outlet",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "sport"
+    ]
+},
+  "bbox": [
+    -75.54884,
+    39.807016,
+    -75.54884,
+    39.807016
+],
+  "geometry": {"coordinates":[-75.54884,39.807016],"type":"Point"}
+}

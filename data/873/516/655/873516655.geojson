@@ -1,0 +1,85 @@
+{
+  "id": 873516655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54837,39.7458,-75.54837,39.7458",
+    "geom:latitude":39.7458,
+    "geom:longitude":-75.54837,
+    "iso:country":"US",
+    "sg:address":"100 W 10th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 622 3350",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JM6m403KmaiIcibPlYHq7_39.745800_-75.548370@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223699,
+    "wof:geomhash":"958d3b3cfc9be3bcd91aa25e8827dfd8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873516655
+        }
+    ],
+    "wof:id":873516655,
+    "wof:lastmodified":1464223699,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.54837,
+    39.7458,
+    -75.54837,
+    39.7458
+],
+  "geometry": {"coordinates":[-75.54837000000001,39.7458],"type":"Point"}
+}

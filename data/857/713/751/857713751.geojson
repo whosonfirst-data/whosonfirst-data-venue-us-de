@@ -1,0 +1,71 @@
+{
+  "id": 857713751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.085671,38.549235,-75.085671,38.549235",
+    "geom:latitude":38.549235,
+    "geom:longitude":-75.085671,
+    "iso:country":"US",
+    "sg:address":"5 Sea Hawk Ln",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 9441",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25RGa0HOPeJ6rdRjzdnY7k_38.549235_-75.085671@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221125,
+    "wof:geomhash":"6eabe4782c6c7bcc1f2415fcfb17d05a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857713751
+        }
+    ],
+    "wof:id":857713751,
+    "wof:lastmodified":1464221125,
+    "wof:name":"Seahawk Upholstery",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -75.085671,
+    38.549235,
+    -75.085671,
+    38.549235
+],
+  "geometry": {"coordinates":[-75.085671,38.549235],"type":"Point"}
+}

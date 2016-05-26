@@ -1,0 +1,71 @@
+{
+  "id": 873486955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.429129,38.92806,-75.429129,38.92806",
+    "geom:latitude":38.92806,
+    "geom:longitude":-75.429129,
+    "iso:country":"US",
+    "sg:address":"1019 N Walnut St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 6128",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wellness",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JLptBovuMnyfTPPV4mS8X_38.928060_-75.429129@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222376,
+    "wof:geomhash":"d0258977cf66b42e3e1e2f41f61aae93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873486955
+        }
+    ],
+    "wof:id":873486955,
+    "wof:lastmodified":1464222376,
+    "wof:name":"H S Milford Wellness Ctr",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wellness",
+        "program"
+    ]
+},
+  "bbox": [
+    -75.429129,
+    38.92806,
+    -75.429129,
+    38.92806
+],
+  "geometry": {"coordinates":[-75.429129,38.92806],"type":"Point"}
+}

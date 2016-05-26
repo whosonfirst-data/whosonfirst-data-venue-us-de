@@ -1,0 +1,69 @@
+{
+  "id": 873476309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.516656,39.788372,-75.516656,39.788372",
+    "geom:latitude":39.788372,
+    "geom:longitude":-75.516656,
+    "iso:country":"US",
+    "sg:address":"1301 Chadwick Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 1798",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85820951,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S2uZw031tDghPSuwJWt3i_39.788372_-75.516656@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221959,
+    "wof:geomhash":"a69e00a6a6036e8229c6e2b1982f1abe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85820951,
+            "region_id":85688611,
+            "venue_id":873476309
+        }
+    ],
+    "wof:id":873476309,
+    "wof:lastmodified":1464221959,
+    "wof:name":"Doctor Browns Office",
+    "wof:parent_id":85820951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.516656,
+    39.788372,
+    -75.516656,
+    39.788372
+],
+  "geometry": {"coordinates":[-75.516656,39.788372],"type":"Point"}
+}

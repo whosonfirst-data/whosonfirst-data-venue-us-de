@@ -1,0 +1,69 @@
+{
+  "id": 873504559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504819,39.809429,-75.504819,39.809429",
+    "geom:latitude":39.809429,
+    "geom:longitude":-75.504819,
+    "iso:country":"US",
+    "sg:address":"1905 Floral Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 7910",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5owD8Dh5kJyLo7Km3tBpsH_39.809429_-75.504819@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223130,
+    "wof:geomhash":"93e730dcf401309f842853e125565f03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873504559
+        }
+    ],
+    "wof:id":873504559,
+    "wof:lastmodified":1464223130,
+    "wof:name":"Sunny Cleaning Inc",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.504819,
+    39.809429,
+    -75.504819,
+    39.809429
+],
+  "geometry": {"coordinates":[-75.504819,39.809429],"type":"Point"}
+}

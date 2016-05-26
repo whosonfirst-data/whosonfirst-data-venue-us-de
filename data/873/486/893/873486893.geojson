@@ -1,0 +1,75 @@
+{
+  "id": 873486893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547291,39.152204,-75.547291,39.152204",
+    "geom:latitude":39.152204,
+    "geom:longitude":-75.547291,
+    "iso:country":"US",
+    "sg:address":"100 Enterprise Pl",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3353",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vqwvh8p8vzRHeC23GLSkG_39.152204_-75.547291@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222374,
+    "wof:geomhash":"32dd5c748b5c0d3f871b1cd7b233059e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873486893
+        }
+    ],
+    "wof:id":873486893,
+    "wof:lastmodified":1464222374,
+    "wof:name":"Easter Seals",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -75.547291,
+    39.152204,
+    -75.547291,
+    39.152204
+],
+  "geometry": {"coordinates":[-75.547291,39.152204],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873505183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.53536,39.744061,-75.53536,39.744061",
+    "geom:latitude":39.744061,
+    "geom:longitude":-75.53536,
+    "iso:country":"US",
+    "sg:address":"1308 Northeast Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 888 1885",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eb3BpqL7LFJeojPAELvkm_39.744061_-75.535360@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223164,
+    "wof:geomhash":"a781f7947b2f4f18991f895340e0690c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873505183
+        }
+    ],
+    "wof:id":873505183,
+    "wof:lastmodified":1464223164,
+    "wof:name":"Synquae Specials On Wheels",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -75.53536,
+    39.744061,
+    -75.53536,
+    39.744061
+],
+  "geometry": {"coordinates":[-75.53536,39.744061],"type":"Point"}
+}

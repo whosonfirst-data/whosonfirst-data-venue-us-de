@@ -1,0 +1,71 @@
+{
+  "id": 873484269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.491357,39.784746,-75.491357,39.784746",
+    "geom:latitude":39.784746,
+    "geom:longitude":-75.491357,
+    "iso:country":"US",
+    "sg:address":"1101 Carr Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 791 8345",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hlr4BTZ1BRBAnBKGZvdSo_39.784746_-75.491357@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222280,
+    "wof:geomhash":"543cf17c659d2e785c74c0eedb1a4fdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":873484269
+        }
+    ],
+    "wof:id":873484269,
+    "wof:lastmodified":1464222280,
+    "wof:name":"Trammell Crow Services Inc",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.491357,
+    39.784746,
+    -75.491357,
+    39.784746
+],
+  "geometry": {"coordinates":[-75.49135699999999,39.784746],"type":"Point"}
+}

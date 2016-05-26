@@ -1,0 +1,64 @@
+{
+  "id": 873478025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662425,39.666247,-75.662425,39.666247",
+    "geom:latitude":39.666247,
+    "geom:longitude":-75.662425,
+    "iso:country":"US",
+    "sg:address":"10 W Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 5991",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zRBUfguPSok17f06M7y5e_39.666247_-75.662425@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222020,
+    "wof:geomhash":"bf8ff399247fa38071f96ce07285b1db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873478025
+        }
+    ],
+    "wof:id":873478025,
+    "wof:lastmodified":1464222020,
+    "wof:name":"Peddler's Liquor Store",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.662425,
+    39.666247,
+    -75.662425,
+    39.666247
+],
+  "geometry": {"coordinates":[-75.662425,39.666247],"type":"Point"}
+}

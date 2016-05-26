@@ -1,0 +1,71 @@
+{
+  "id": 857715339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565538,39.206755,-75.565538,39.206755",
+    "geom:latitude":39.206755,
+    "geom:longitude":-75.565538,
+    "iso:country":"US",
+    "sg:address":"4164 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 1551",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VdPdqJpa8kB0bJnMxErOD_39.206755_-75.565538@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221154,
+    "wof:geomhash":"8118edbdd6811399994f2eec0cc2b4c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857715339
+        }
+    ],
+    "wof:id":857715339,
+    "wof:lastmodified":1464221154,
+    "wof:name":"Kut'n It Up",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.565538,
+    39.206755,
+    -75.565538,
+    39.206755
+],
+  "geometry": {"coordinates":[-75.565538,39.206755],"type":"Point"}
+}

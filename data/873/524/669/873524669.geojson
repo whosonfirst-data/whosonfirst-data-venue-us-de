@@ -1,0 +1,86 @@
+{
+  "id": 873524669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.198839,38.619463,-75.198839,38.619463",
+    "geom:latitude":38.619463,
+    "geom:longitude":-75.198839,
+    "iso:country":"US",
+    "sg:address":"32524 Morning View Ln",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 7008",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "sg:website":"http://www.sussexfence.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77MKnPGht2gOX1KUn2zoUQ_38.619463_-75.198839@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224066,
+    "wof:geomhash":"c3b30314a3eb63d4f13ce8ef6407fd64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873524669
+        }
+    ],
+    "wof:id":873524669,
+    "wof:lastmodified":1464224066,
+    "wof:name":"Sussex Fence CO",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.198839,
+    38.619463,
+    -75.198839,
+    38.619463
+],
+  "geometry": {"coordinates":[-75.19883900000001,38.619463],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873502095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572725,39.758992,-75.572725,39.758992",
+    "geom:latitude":39.758992,
+    "geom:longitude":-75.572725,
+    "iso:country":"US",
+    "sg:address":"2323 Pennsylvania Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 1523",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "optician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xWbj0aWerhtBT9yxe0uPN_39.758992_-75.572725@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223031,
+    "wof:geomhash":"a498865754ec180cb027161c8f4a6719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873502095
+        }
+    ],
+    "wof:id":873502095,
+    "wof:lastmodified":1464223031,
+    "wof:name":"Baynard Optical Co",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician"
+    ]
+},
+  "bbox": [
+    -75.572725,
+    39.758992,
+    -75.572725,
+    39.758992
+],
+  "geometry": {"coordinates":[-75.57272500000001,39.758992],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873501189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74836,39.683487,-75.74836,39.683487",
+    "geom:latitude":39.683487,
+    "geom:longitude":-75.74836,
+    "iso:country":"US",
+    "sg:address":"132 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 1400",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6RB3cizMTMaJ4zPoiDMYzm_39.683487_-75.748360@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222995,
+    "wof:geomhash":"db6cf19f936c309c4e498d7a6ebe04fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873501189
+        }
+    ],
+    "wof:id":873501189,
+    "wof:lastmodified":1464222995,
+    "wof:name":"Cluck-U Chicken",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -75.74836,
+    39.683487,
+    -75.74836,
+    39.683487
+],
+  "geometry": {"coordinates":[-75.74836000000001,39.683487],"type":"Point"}
+}

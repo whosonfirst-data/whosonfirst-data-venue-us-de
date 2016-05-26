@@ -1,0 +1,71 @@
+{
+  "id": 857729615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541601,39.070501,-75.541601,39.070501",
+    "geom:latitude":39.070501,
+    "geom:longitude":-75.541601,
+    "iso:country":"US",
+    "sg:address":"27 Woodville Dr",
+    "sg:city":"Magnolia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 5132",
+    "sg:postcode":"19962",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MJnB5S95Hy48Yolq2S2Ko_39.070501_-75.541601@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221426,
+    "wof:geomhash":"aa341ff4040d2141eb2784f0d8dbd39f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857729615
+        }
+    ],
+    "wof:id":857729615,
+    "wof:lastmodified":1464221426,
+    "wof:name":"C & K Towing",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -75.541601,
+    39.070501,
+    -75.541601,
+    39.070501
+],
+  "geometry": {"coordinates":[-75.541601,39.070501],"type":"Point"}
+}

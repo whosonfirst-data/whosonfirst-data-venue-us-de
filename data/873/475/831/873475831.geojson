@@ -1,0 +1,71 @@
+{
+  "id": 873475831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.643608,39.721423,-75.643608,39.721423",
+    "geom:latitude":39.721423,
+    "geom:longitude":-75.643608,
+    "iso:country":"US",
+    "sg:address":"412 Binstead Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5222",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cypM1qd9ERfO3MC2hdfLL_39.721423_-75.643608@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221943,
+    "wof:geomhash":"e4104633003406067b509b242d357a0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873475831
+        }
+    ],
+    "wof:id":873475831,
+    "wof:lastmodified":1464221943,
+    "wof:name":"Pressed 4 Time LLC",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -75.643608,
+    39.721423,
+    -75.643608,
+    39.721423
+],
+  "geometry": {"coordinates":[-75.643608,39.721423],"type":"Point"}
+}

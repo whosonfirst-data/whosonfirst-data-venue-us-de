@@ -1,0 +1,71 @@
+{
+  "id": 873485783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547967,39.801166,-75.547967,39.801166",
+    "geom:latitude":39.801166,
+    "geom:longitude":-75.547967,
+    "iso:country":"US",
+    "sg:address":"3201 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 9133",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79i4IZeRU4DwAoXusHlqQW_39.801166_-75.547967@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222334,
+    "wof:geomhash":"534ed8256848acd110e50409661c89ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873485783
+        }
+    ],
+    "wof:id":873485783,
+    "wof:lastmodified":1464222334,
+    "wof:name":"Mais Certified Auto Svc",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.547967,
+    39.801166,
+    -75.547967,
+    39.801166
+],
+  "geometry": {"coordinates":[-75.547967,39.801166],"type":"Point"}
+}

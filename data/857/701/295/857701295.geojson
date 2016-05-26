@@ -1,0 +1,71 @@
+{
+  "id": 857701295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.653263,39.730115,-75.653263,39.730115",
+    "geom:latitude":39.730115,
+    "geom:longitude":-75.653263,
+    "iso:country":"US",
+    "sg:address":"2405 Owen Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 9376",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4M1Z7HqaNpNamJKRqJnx0V_39.730115_-75.653263@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220840,
+    "wof:geomhash":"c9121a40178ed46bcf62faa81bb9bae2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857701295
+        }
+    ],
+    "wof:id":857701295,
+    "wof:lastmodified":1464220840,
+    "wof:name":"Radcliffe Painting & Services",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.653263,
+    39.730115,
+    -75.653263,
+    39.730115
+],
+  "geometry": {"coordinates":[-75.653263,39.730115],"type":"Point"}
+}

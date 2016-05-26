@@ -1,0 +1,75 @@
+{
+  "id": 873497731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.715204,39.65011,-75.715204,39.65011",
+    "geom:latitude":39.65011,
+    "geom:longitude":-75.715204,
+    "iso:country":"US",
+    "sg:address":"74 Albe Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 9245",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "slate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JBzy8ka8ac9FwZGvw81wW_39.650110_-75.715204@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222851,
+    "wof:geomhash":"0c239ce0f228e9c21facf350d23d906f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873497731
+        }
+    ],
+    "wof:id":873497731,
+    "wof:lastmodified":1464222851,
+    "wof:name":"W F Construction Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "slate"
+    ]
+},
+  "bbox": [
+    -75.715204,
+    39.65011,
+    -75.715204,
+    39.65011
+],
+  "geometry": {"coordinates":[-75.715204,39.65011],"type":"Point"}
+}

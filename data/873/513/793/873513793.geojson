@@ -1,0 +1,72 @@
+{
+  "id": 873513793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.073988,38.686493,-75.073988,38.686493",
+    "geom:latitude":38.686493,
+    "geom:longitude":-75.073988,
+    "iso:country":"US",
+    "sg:address":"18701 Coastal Hwy",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lewes/243828-ledo-pizza--pasta/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 1880",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85803179,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JojObE9cEf0zwqgDviQF9_38.686493_-75.073988@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223548,
+    "wof:geomhash":"eb6349300ae5b05e6b7bbb1047010d43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85803179,
+            "region_id":85688611,
+            "venue_id":873513793
+        }
+    ],
+    "wof:id":873513793,
+    "wof:lastmodified":1464223548,
+    "wof:name":"Ledo Pizza & Pasta",
+    "wof:parent_id":85803179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.073988,
+    38.686493,
+    -75.073988,
+    38.686493
+],
+  "geometry": {"coordinates":[-75.073988,38.686493],"type":"Point"}
+}

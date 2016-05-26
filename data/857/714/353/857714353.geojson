@@ -1,0 +1,71 @@
+{
+  "id": 857714353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.657689,39.723959,-75.657689,39.723959",
+    "geom:latitude":39.723959,
+    "geom:longitude":-75.657689,
+    "iso:country":"US",
+    "sg:address":"4514 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 0722",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QsWGaN4TtOSgexVfuHGJv_39.723959_-75.657689@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221136,
+    "wof:geomhash":"37def1e585ff8833ed537b05980c1ab2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857714353
+        }
+    ],
+    "wof:id":857714353,
+    "wof:lastmodified":1464221136,
+    "wof:name":"Douglas J Lavenburg MD",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.657689,
+    39.723959,
+    -75.657689,
+    39.723959
+],
+  "geometry": {"coordinates":[-75.657689,39.723959],"type":"Point"}
+}

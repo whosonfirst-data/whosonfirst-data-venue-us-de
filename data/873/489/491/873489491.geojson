@@ -1,0 +1,71 @@
+{
+  "id": 873489491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526092,39.138952,-75.526092,39.138952",
+    "geom:latitude":39.138952,
+    "geom:longitude":-75.526092,
+    "iso:country":"US",
+    "sg:address":"1113 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 8060",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XIRXBN53ecl3kgmrWrQ0M_39.138952_-75.526092@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222475,
+    "wof:geomhash":"a50f9360d11ecaa80bbc9544a6cfa5bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873489491
+        }
+    ],
+    "wof:id":873489491,
+    "wof:lastmodified":1464222475,
+    "wof:name":"Lawrence Piccioni MD",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.526092,
+    39.138952,
+    -75.526092,
+    39.138952
+],
+  "geometry": {"coordinates":[-75.52609200000001,39.138952],"type":"Point"}
+}

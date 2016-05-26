@@ -1,0 +1,78 @@
+{
+  "id": 873478873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.615965,39.736682,-75.615965,39.736682",
+    "geom:latitude":39.736682,
+    "geom:longitude":-75.615965,
+    "iso:country":"US",
+    "sg:address":"17 Roselawn Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 9464",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "day",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Owu2qmJ8drrBa9H6UXZyD_39.736682_-75.615965@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222055,
+    "wof:geomhash":"6f622e7ddc058236c19edc5e92e9b595",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873478873
+        }
+    ],
+    "wof:id":873478873,
+    "wof:lastmodified":1464222055,
+    "wof:name":"Delaware Sudden Infant Death",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "day",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.615965,
+    39.736682,
+    -75.615965,
+    39.736682
+],
+  "geometry": {"coordinates":[-75.615965,39.736682],"type":"Point"}
+}

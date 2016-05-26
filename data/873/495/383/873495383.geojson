@@ -1,0 +1,75 @@
+{
+  "id": 873495383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.627914,39.215365,-75.627914,39.215365",
+    "geom:latitude":39.215365,
+    "geom:longitude":-75.627914,
+    "iso:country":"US",
+    "sg:address":"2365 Seven Hickories Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 1088",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P2u8EmAaAQjyagTu4iUrL_39.215365_-75.627914@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222744,
+    "wof:geomhash":"92f78f3eafc5fac3f1eeb9632d80386e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873495383
+        }
+    ],
+    "wof:id":873495383,
+    "wof:lastmodified":1464222744,
+    "wof:name":"Pro Tec Tint",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -75.627914,
+    39.215365,
+    -75.627914,
+    39.215365
+],
+  "geometry": {"coordinates":[-75.627914,39.215365],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873486911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.673313,39.658484,-75.673313,39.658484",
+    "geom:latitude":39.658484,
+    "geom:longitude":-75.673313,
+    "iso:country":"US",
+    "sg:address":"9 Dawes Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 6700",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IrGyhBAjdoG2ieYWQLiq8_39.658484_-75.673313@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222375,
+    "wof:geomhash":"eceef742688ccf0c0f96709530950e14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873486911
+        }
+    ],
+    "wof:id":873486911,
+    "wof:lastmodified":1464222375,
+    "wof:name":"Carpet Cleaning Specialist",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -75.673313,
+    39.658484,
+    -75.673313,
+    39.658484
+],
+  "geometry": {"coordinates":[-75.67331299999999,39.658484],"type":"Point"}
+}

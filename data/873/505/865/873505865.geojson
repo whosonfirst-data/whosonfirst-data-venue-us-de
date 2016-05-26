@@ -1,0 +1,69 @@
+{
+  "id": 873505865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.149647,38.760057,-75.149647,38.760057",
+    "geom:latitude":38.760057,
+    "geom:longitude":-75.149647,
+    "iso:country":"US",
+    "sg:address":"17 Henlopen Gardens",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 9427",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KHqNJc4UeYKfoEtleSjSq_38.760057_-75.149647@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223192,
+    "wof:geomhash":"3fa3ade2f3cf20f4d265e4b0d07324a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873505865
+        }
+    ],
+    "wof:id":873505865,
+    "wof:lastmodified":1464223192,
+    "wof:name":"Robert F Slutz Dr Jr",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.149647,
+    38.760057,
+    -75.149647,
+    38.760057
+],
+  "geometry": {"coordinates":[-75.149647,38.760057],"type":"Point"}
+}

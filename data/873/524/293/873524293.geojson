@@ -1,0 +1,75 @@
+{
+  "id": 873524293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504883,38.915428,-75.504883,38.915428",
+    "geom:latitude":38.915428,
+    "geom:longitude":-75.504883,
+    "iso:country":"US",
+    "sg:address":"601 Front St",
+    "sg:city":"Houston",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5929",
+    "sg:postcode":"19954",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JiGwHPBv93lFtoklbsEKn_38.915428_-75.504883@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224053,
+    "wof:geomhash":"0e366bbfc1a4002a3f441dc45d662fa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873524293
+        }
+    ],
+    "wof:id":873524293,
+    "wof:lastmodified":1464224053,
+    "wof:name":"Herbs Auto Body",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.504883,
+    38.915428,
+    -75.504883,
+    38.915428
+],
+  "geometry": {"coordinates":[-75.50488300000001,38.915428],"type":"Point"}
+}

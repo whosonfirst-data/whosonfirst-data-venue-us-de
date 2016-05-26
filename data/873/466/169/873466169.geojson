@@ -1,0 +1,71 @@
+{
+  "id": 873466169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.39347,38.892332,-75.39347,38.892332",
+    "geom:latitude":38.892332,
+    "geom:longitude":-75.39347,
+    "iso:country":"US",
+    "sg:address":"802 Joshua Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 0328",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3cKrSZq0P6e66spmwZaXaO_38.892332_-75.393470@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221591,
+    "wof:geomhash":"8549dca17e29239902b1861429f6c035",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873466169
+        }
+    ],
+    "wof:id":873466169,
+    "wof:lastmodified":1464221591,
+    "wof:name":"A S Qureshi Dr",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.39347,
+    38.892332,
+    -75.39347,
+    38.892332
+],
+  "geometry": {"coordinates":[-75.39346999999999,38.892332],"type":"Point"}
+}

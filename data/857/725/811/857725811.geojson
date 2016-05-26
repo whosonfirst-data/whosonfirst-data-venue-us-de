@@ -1,0 +1,69 @@
+{
+  "id": 857725811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.502326,38.934192,-75.502326,38.934192",
+    "geom:latitude":38.934192,
+    "geom:longitude":-75.502326,
+    "iso:country":"US",
+    "sg:address":"79 Deer Valley Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 3935",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TKcM5FQhyYuBXlvMv1kTU_38.934192_-75.502326@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221358,
+    "wof:geomhash":"463a616d2d0f0ffb65faa6eaf742bfa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857725811
+        }
+    ],
+    "wof:id":857725811,
+    "wof:lastmodified":1464221358,
+    "wof:name":"William L Sapp Pro Surveyors",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -75.502326,
+    38.934192,
+    -75.502326,
+    38.934192
+],
+  "geometry": {"coordinates":[-75.502326,38.934192],"type":"Point"}
+}

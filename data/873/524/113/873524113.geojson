@@ -1,0 +1,80 @@
+{
+  "id": 873524113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.699469,38.78132,-75.699469,38.78132",
+    "geom:latitude":38.78132,
+    "geom:longitude":-75.699469,
+    "iso:country":"US",
+    "sg:address":"14523 Sand Hill Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 9023",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zzTHlA6Cxmx0fFSWIYmM5_38.781320_-75.699469@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224044,
+    "wof:geomhash":"b668fb3b6668f6d915f53d930549d91b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873524113
+        }
+    ],
+    "wof:id":873524113,
+    "wof:lastmodified":1464224044,
+    "wof:name":"K&E Trucking",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.699469,
+    38.78132,
+    -75.699469,
+    38.78132
+],
+  "geometry": {"coordinates":[-75.69946899999999,38.78132],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873497819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.460985,38.940953,-75.460985,38.940953",
+    "geom:latitude":38.940953,
+    "geom:longitude":-75.460985,
+    "iso:country":"US",
+    "sg:address":"1116 Canterbury Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 2221",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lmsTb4KbtOngRHDwA0Olu_38.940953_-75.460985@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222854,
+    "wof:geomhash":"eadeebb0497ff7fe68c3d49bf1735593",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873497819
+        }
+    ],
+    "wof:id":873497819,
+    "wof:lastmodified":1464222854,
+    "wof:name":"Angelo R Clements & Assoc",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -75.460985,
+    38.940953,
+    -75.460985,
+    38.940953
+],
+  "geometry": {"coordinates":[-75.46098499999999,38.940953],"type":"Point"}
+}

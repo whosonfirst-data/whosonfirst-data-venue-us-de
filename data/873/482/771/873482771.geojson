@@ -1,0 +1,71 @@
+{
+  "id": 873482771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.580928,38.654812,-75.580928,38.654812",
+    "geom:latitude":38.654812,
+    "geom:longitude":-75.580928,
+    "iso:country":"US",
+    "sg:address":"133 Walnut Dr",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 9880",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sx9MVL2G9Qoy5u87wKvAk_38.654812_-75.580928@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222221,
+    "wof:geomhash":"9f1671ef081f432f4dc13d9569c0e1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873482771
+        }
+    ],
+    "wof:id":873482771,
+    "wof:lastmodified":1464222221,
+    "wof:name":"Sussex County Heart Assn",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.580928,
+    38.654812,
+    -75.580928,
+    38.654812
+],
+  "geometry": {"coordinates":[-75.580928,38.654812],"type":"Point"}
+}

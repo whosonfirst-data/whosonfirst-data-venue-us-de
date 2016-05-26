@@ -1,0 +1,73 @@
+{
+  "id": 873524963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.593405,38.664106,-75.593405,38.664106",
+    "geom:latitude":38.664106,
+    "geom:longitude":-75.593405,
+    "iso:country":"US",
+    "sg:address":"22939 Sussex Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 8070",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "television",
+        "radio-service"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RVdpP73GRwDFzyjjzHhDN_38.664106_-75.593405@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224078,
+    "wof:geomhash":"8825e9cb654bcd5adc977cab4c222c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873524963
+        }
+    ],
+    "wof:id":873524963,
+    "wof:lastmodified":1464224078,
+    "wof:name":"Craig's Tv Service",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio-service"
+    ]
+},
+  "bbox": [
+    -75.593405,
+    38.664106,
+    -75.593405,
+    38.664106
+],
+  "geometry": {"coordinates":[-75.593405,38.664106],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873470869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.181512,38.755916,-75.181512,38.755916",
+    "geom:latitude":38.755916,
+    "geom:longitude":-75.181512,
+    "iso:country":"US",
+    "sg:address":"521 New Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 4622",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uOWJQIw8qWR52CEkFFOjP_38.755916_-75.181512@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221761,
+    "wof:geomhash":"54e8e84224172a06fa9a9665db83348d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873470869
+        }
+    ],
+    "wof:id":873470869,
+    "wof:lastmodified":1464221761,
+    "wof:name":"Nassau Demoliton",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabrication",
+        "welding"
+    ]
+},
+  "bbox": [
+    -75.181512,
+    38.755916,
+    -75.181512,
+    38.755916
+],
+  "geometry": {"coordinates":[-75.181512,38.755916],"type":"Point"}
+}

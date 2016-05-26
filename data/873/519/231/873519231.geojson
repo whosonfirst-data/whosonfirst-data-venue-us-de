@@ -1,0 +1,92 @@
+{
+  "id": 873519231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.693793,39.742662,-75.693793,39.742662",
+    "geom:latitude":39.742662,
+    "geom:longitude":-75.693793,
+    "iso:country":"US",
+    "sg:address":"5000 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 8020",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Jap6MhlEjANDPjqixva9T_39.742662_-75.693793@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223843,
+    "wof:geomhash":"c31bb0d89202126a1288946cf3a6bd6b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":873519231
+        }
+    ],
+    "wof:id":873519231,
+    "wof:lastmodified":1464223843,
+    "wof:name":"James Scalia Plumbing & Htg",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "system",
+        "specialty",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -75.693793,
+    39.742662,
+    -75.693793,
+    39.742662
+],
+  "geometry": {"coordinates":[-75.693793,39.742662],"type":"Point"}
+}

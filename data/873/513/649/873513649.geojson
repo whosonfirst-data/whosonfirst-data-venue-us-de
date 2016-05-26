@@ -1,0 +1,76 @@
+{
+  "id": 873513649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.536971,39.187269,-75.536971,39.187269",
+    "geom:latitude":39.187269,
+    "geom:longitude":-75.536971,
+    "iso:country":"US",
+    "sg:address":"1151 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/152629-boston-market/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 8431",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YZyJclgH11bIe3hhLCChN_39.187269_-75.536971@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223541,
+    "wof:geomhash":"026134e7307ed0a9e85ddbbc48144958",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873513649
+        }
+    ],
+    "wof:id":873513649,
+    "wof:lastmodified":1464223541,
+    "wof:name":"Boston Market",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -75.536971,
+    39.187269,
+    -75.536971,
+    39.187269
+],
+  "geometry": {"coordinates":[-75.53697099999999,39.187269],"type":"Point"}
+}

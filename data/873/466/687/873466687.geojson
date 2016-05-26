@@ -1,0 +1,73 @@
+{
+  "id": 873466687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.473047,39.806583,-75.473047,39.806583",
+    "geom:latitude":39.806583,
+    "geom:longitude":-75.473047,
+    "iso:country":"US",
+    "sg:address":"212 Woodgreen Rd",
+    "sg:city":"Claymont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 8399",
+    "sg:postcode":"19703",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RUZu4HGLj9mp0hCnicuxE_39.806583_-75.473047@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221607,
+    "wof:geomhash":"c863cee9eae5f666c5529ad6f9658b60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873466687
+        }
+    ],
+    "wof:id":873466687,
+    "wof:lastmodified":1464221607,
+    "wof:name":"Morris Construction",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.473047,
+    39.806583,
+    -75.473047,
+    39.806583
+],
+  "geometry": {"coordinates":[-75.47304699999999,39.806583],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857709961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.587856,39.663434,-75.587856,39.663434",
+    "geom:latitude":39.663434,
+    "geom:longitude":-75.587856,
+    "iso:country":"US",
+    "sg:address":"119 Centerpoint Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 395 0367",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "inspector",
+        "quality",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FTKQCtDhb4IamQSltsryj_39.663434_-75.587856@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221029,
+    "wof:geomhash":"7bd42cf5d4b4961781056f0a06e3d7dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857709961
+        }
+    ],
+    "wof:id":857709961,
+    "wof:lastmodified":1464221029,
+    "wof:name":"Performance Enterprises Del",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspector",
+        "quality",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.587856,
+    39.663434,
+    -75.587856,
+    39.663434
+],
+  "geometry": {"coordinates":[-75.587856,39.663434],"type":"Point"}
+}

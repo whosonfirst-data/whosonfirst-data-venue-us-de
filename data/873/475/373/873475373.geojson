@@ -1,0 +1,71 @@
+{
+  "id": 873475373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658778,39.688153,-75.658778,39.688153",
+    "geom:latitude":39.688153,
+    "geom:longitude":-75.658778,
+    "iso:country":"US",
+    "sg:address":"121 Continental Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 7000",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "banker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OLAES6GSkSJkwVPjLCo5M_39.688153_-75.658778@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221927,
+    "wof:geomhash":"220b1722d7bc102e18584b4ba345447e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873475373
+        }
+    ],
+    "wof:id":873475373,
+    "wof:lastmodified":1464221927,
+    "wof:name":"CTX Delaware",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.658778,
+    39.688153,
+    -75.658778,
+    39.688153
+],
+  "geometry": {"coordinates":[-75.658778,39.688153],"type":"Point"}
+}

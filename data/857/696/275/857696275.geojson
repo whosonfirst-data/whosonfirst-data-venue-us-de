@@ -1,0 +1,73 @@
+{
+  "id": 857696275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.08117,38.542781,-75.08117,38.542781",
+    "geom:latitude":38.542781,
+    "geom:longitude":-75.08117,
+    "iso:country":"US",
+    "sg:address":"29 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 541 5705",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3me42y3vVqesgVJzjZuyYH_38.542781_-75.081170@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220741,
+    "wof:geomhash":"cd3c29911e7f419b9263e97e567195cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857696275
+        }
+    ],
+    "wof:id":857696275,
+    "wof:lastmodified":1464220741,
+    "wof:name":"Southern Delaware Sports Care",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.08117,
+    38.542781,
+    -75.08117,
+    38.542781
+],
+  "geometry": {"coordinates":[-75.08117,38.542781],"type":"Point"}
+}

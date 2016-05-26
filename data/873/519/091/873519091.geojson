@@ -1,0 +1,79 @@
+{
+  "id": 873519091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658861,39.723374,-75.658861,39.723374",
+    "geom:latitude":39.723374,
+    "geom:longitude":-75.658861,
+    "iso:country":"US",
+    "sg:address":"4616 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 3365",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ],
+    "sg:website":"http://www.enterprise.com/car_rental/deeplinkmap.do?gpbr=1774&bid=004&cnty=US&arc=YPTRL01&cm_mmc=Yellowpages.com-_-IYP-_-Tradelisting-_-branch",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z97c0NYdUSbwv4duf4iKD_39.723374_-75.658861@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223838,
+    "wof:geomhash":"ab44ba1420836f3a633845fcaef9dc7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873519091
+        }
+    ],
+    "wof:id":873519091,
+    "wof:lastmodified":1464223838,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.658861,
+    39.723374,
+    -75.658861,
+    39.723374
+],
+  "geometry": {"coordinates":[-75.658861,39.723374],"type":"Point"}
+}

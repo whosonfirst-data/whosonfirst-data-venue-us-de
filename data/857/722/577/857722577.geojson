@@ -1,0 +1,75 @@
+{
+  "id": 857722577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543793,39.715435,-75.543793,39.715435",
+    "geom:latitude":39.715435,
+    "geom:longitude":-75.543793,
+    "iso:country":"US",
+    "sg:address":"105 Center St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 6627",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VYG2GtjhU9ae6aL8qPjWs_39.715435_-75.543793@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221299,
+    "wof:geomhash":"2016006d90eb6eae06ff71f4b8246712",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":857722577
+        }
+    ],
+    "wof:id":857722577,
+    "wof:lastmodified":1464221299,
+    "wof:name":"Penn Mart Maintenance Office",
+    "wof:parent_id":85833991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.543793,
+    39.715435,
+    -75.543793,
+    39.715435
+],
+  "geometry": {"coordinates":[-75.54379299999999,39.715435],"type":"Point"}
+}

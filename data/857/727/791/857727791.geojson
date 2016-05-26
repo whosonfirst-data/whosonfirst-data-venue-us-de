@@ -1,0 +1,71 @@
+{
+  "id": 857727791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.185367,38.559932,-75.185367,38.559932",
+    "geom:latitude":38.559932,
+    "geom:longitude":-75.185367,
+    "iso:country":"US",
+    "sg:address":"53 Dogwood Estates Dr",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 3852",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56gVV5Vh1MUNA3YUV5k13f_38.559932_-75.185367@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221392,
+    "wof:geomhash":"18adfbab89eab903e6d7258b0292ef42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857727791
+        }
+    ],
+    "wof:id":857727791,
+    "wof:lastmodified":1464221392,
+    "wof:name":"Brafman Family Dentistry PC",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.185367,
+    38.559932,
+    -75.185367,
+    38.559932
+],
+  "geometry": {"coordinates":[-75.185367,38.559932],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857712499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.608219,39.305109,-75.608219,39.305109",
+    "geom:latitude":39.305109,
+    "geom:longitude":-75.608219,
+    "iso:country":"US",
+    "sg:address":"111 E Glenwood Ave",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 6465",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54Z0N3T4IKmIXDl9bEtFLM_39.305109_-75.608219@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221100,
+    "wof:geomhash":"f915482050dfd2dbfc6354a73ec6a7df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857712499
+        }
+    ],
+    "wof:id":857712499,
+    "wof:lastmodified":1464221100,
+    "wof:name":"American Legion Ambulance Svc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -75.608219,
+    39.305109,
+    -75.608219,
+    39.305109
+],
+  "geometry": {"coordinates":[-75.60821900000001,39.305109],"type":"Point"}
+}

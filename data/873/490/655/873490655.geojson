@@ -1,0 +1,69 @@
+{
+  "id": 873490655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.576854,39.675789,-75.576854,39.675789",
+    "geom:latitude":39.675789,
+    "geom:longitude":-75.576854,
+    "iso:country":"US",
+    "sg:address":"18 N Purdue Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 0243",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nKfRdGkTYGJOcXmD0fzfO_39.675789_-75.576854@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222519,
+    "wof:geomhash":"760d6b20ef86967da1a4fba1150e81af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873490655
+        }
+    ],
+    "wof:id":873490655,
+    "wof:lastmodified":1464222519,
+    "wof:name":"Sheehans Consolidated Services",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.576854,
+    39.675789,
+    -75.576854,
+    39.675789
+],
+  "geometry": {"coordinates":[-75.576854,39.675789],"type":"Point"}
+}

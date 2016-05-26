@@ -1,0 +1,69 @@
+{
+  "id": 873496289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.665455,39.727811,-75.665455,39.727811",
+    "geom:latitude":39.727811,
+    "geom:longitude":-75.665455,
+    "iso:country":"US",
+    "sg:address":"2405 Ivanhoe Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8920",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NE1XTx4oxgo97C1fIEhY9_39.727811_-75.665455@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222790,
+    "wof:geomhash":"ae3222d40dbf622f7a15d9aab7c06db9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873496289
+        }
+    ],
+    "wof:id":873496289,
+    "wof:lastmodified":1464222790,
+    "wof:name":"Sureshot Billiards",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool"
+    ]
+},
+  "bbox": [
+    -75.665455,
+    39.727811,
+    -75.665455,
+    39.727811
+],
+  "geometry": {"coordinates":[-75.66545499999999,39.727811],"type":"Point"}
+}

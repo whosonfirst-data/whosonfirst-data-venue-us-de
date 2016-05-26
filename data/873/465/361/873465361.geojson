@@ -1,0 +1,71 @@
+{
+  "id": 873465361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54382,39.113894,-75.54382,39.113894",
+    "geom:latitude":39.113894,
+    "geom:longitude":-75.54382,
+    "iso:country":"US",
+    "sg:address":"261 E Camden Wyoming Ave",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 9232",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HlR64ApLZJeycjPlGxaIA_39.113894_-75.543820@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221576,
+    "wof:geomhash":"81a80201af4a8a62ae47dfd093497fab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873465361
+        }
+    ],
+    "wof:id":873465361,
+    "wof:lastmodified":1464221576,
+    "wof:name":"Town of Camden",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -75.54382,
+    39.113894,
+    -75.54382,
+    39.113894
+],
+  "geometry": {"coordinates":[-75.54382,39.113894],"type":"Point"}
+}

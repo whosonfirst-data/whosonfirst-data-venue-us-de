@@ -1,0 +1,73 @@
+{
+  "id": 857730961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.707286,39.7144,-75.707286,39.7144",
+    "geom:latitude":39.7144,
+    "geom:longitude":-75.707286,
+    "iso:country":"US",
+    "sg:address":"103 Dewalt Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 7715",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QDfrbL428mZp0gunAx3aB_39.714400_-75.707286@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221455,
+    "wof:geomhash":"223480977b1d99dc8b80ce64166cdda4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857730961
+        }
+    ],
+    "wof:id":857730961,
+    "wof:lastmodified":1464221455,
+    "wof:name":"Delaware Association Of Homes",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -75.707286,
+    39.7144,
+    -75.707286,
+    39.7144
+],
+  "geometry": {"coordinates":[-75.707286,39.7144],"type":"Point"}
+}

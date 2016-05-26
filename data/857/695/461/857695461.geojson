@@ -1,0 +1,73 @@
+{
+  "id": 857695461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505427,39.764219,-75.505427,39.764219",
+    "geom:latitude":39.764219,
+    "geom:longitude":-75.505427,
+    "iso:country":"US",
+    "sg:address":"300 Lore Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 1991",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HMCvjn3A4A1EWTq6jEArF_39.764219_-75.505427@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220728,
+    "wof:geomhash":"55c6da89d62e72d50e307bdeca1e4074",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857695461
+        }
+    ],
+    "wof:id":857695461,
+    "wof:lastmodified":1464220728,
+    "wof:name":"Le Doc's Catering",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -75.505427,
+    39.764219,
+    -75.505427,
+    39.764219
+],
+  "geometry": {"coordinates":[-75.505427,39.764219],"type":"Point"}
+}

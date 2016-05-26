@@ -1,0 +1,73 @@
+{
+  "id": 857695159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.355771,38.759727,-75.355771,38.759727",
+    "geom:latitude":38.759727,
+    "geom:longitude":-75.355771,
+    "iso:country":"US",
+    "sg:address":"20262 Donovans Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9502",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VqCFLaw4Y799zLA9ymAyR_38.759727_-75.355771@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220723,
+    "wof:geomhash":"a77cbebc8d6ba466b83dc9174023d0f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857695159
+        }
+    ],
+    "wof:id":857695159,
+    "wof:lastmodified":1464220723,
+    "wof:name":"Donovan Salvage Works Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.355771,
+    38.759727,
+    -75.355771,
+    38.759727
+],
+  "geometry": {"coordinates":[-75.355771,38.759727],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857720805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592842,38.63544,-75.592842,38.63544",
+    "geom:latitude":38.63544,
+    "geom:longitude":-75.592842,
+    "iso:country":"US",
+    "sg:address":"660 S Dual Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 3152",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IMKCU73rPqnNL3B07AIIQ_38.635440_-75.592842@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221264,
+    "wof:geomhash":"38c9e1a800dd0094b16b6c23a1894079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857720805
+        }
+    ],
+    "wof:id":857720805,
+    "wof:lastmodified":1464221264,
+    "wof:name":"BMA of Seaford",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.592842,
+    38.63544,
+    -75.592842,
+    38.63544
+],
+  "geometry": {"coordinates":[-75.592842,38.63544],"type":"Point"}
+}

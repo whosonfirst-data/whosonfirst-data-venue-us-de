@@ -1,0 +1,74 @@
+{
+  "id": 857712275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528087,39.75165,-75.528087,39.75165",
+    "geom:latitude":39.75165,
+    "geom:longitude":-75.528087,
+    "iso:country":"US",
+    "sg:address":"831 E 28th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 4661",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.brookscourier.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0meHM3XFROIAfRtCGVJOfl_39.751650_-75.528087@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221087,
+    "wof:geomhash":"2fcf4244696413fee00fa12300eab87e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":857712275
+        }
+    ],
+    "wof:id":857712275,
+    "wof:lastmodified":1464221087,
+    "wof:name":"Brooks Courier Svc",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -75.528087,
+    39.75165,
+    -75.528087,
+    39.75165
+],
+  "geometry": {"coordinates":[-75.528087,39.75165],"type":"Point"}
+}

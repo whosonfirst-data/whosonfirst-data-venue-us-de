@@ -1,0 +1,78 @@
+{
+  "id": 873525277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59972,39.303531,-75.59972,39.303531",
+    "geom:latitude":39.303531,
+    "geom:longitude":-75.59972,
+    "iso:country":"US",
+    "sg:address":"28 Locust St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 242 1101",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OInuaXjM6ODD7l8D1XsEk_39.303531_-75.599720@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224090,
+    "wof:geomhash":"65c6e5cee112bf307716d04ee7b75e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525277
+        }
+    ],
+    "wof:id":873525277,
+    "wof:lastmodified":1464224090,
+    "wof:name":"First Class Cleaning Service",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -75.59972,
+    39.303531,
+    -75.59972,
+    39.303531
+],
+  "geometry": {"coordinates":[-75.59972,39.303531],"type":"Point"}
+}

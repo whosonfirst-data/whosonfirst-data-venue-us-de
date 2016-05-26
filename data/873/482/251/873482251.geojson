@@ -1,0 +1,83 @@
+{
+  "id": 873482251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549723,39.74095,-75.549723,39.74095",
+    "geom:latitude":39.74095,
+    "geom:longitude":-75.549723,
+    "iso:country":"US",
+    "sg:address":"518 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5400",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ORRphh8kg7qB9HKhwQxg6_39.740950_-75.549723@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222202,
+    "wof:geomhash":"c6fd2e5ea384518fb585531d510df41a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873482251
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873482251
+        }
+    ],
+    "wof:id":873482251,
+    "wof:lastmodified":1464222202,
+    "wof:name":"Graduate Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational"
+    ]
+},
+  "bbox": [
+    -75.549723,
+    39.74095,
+    -75.549723,
+    39.74095
+],
+  "geometry": {"coordinates":[-75.549723,39.74095],"type":"Point"}
+}

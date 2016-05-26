@@ -1,0 +1,83 @@
+{
+  "id": 873472775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.597228,39.755724,-75.597228,39.755724",
+    "geom:latitude":39.755724,
+    "geom:longitude":-75.597228,
+    "iso:country":"US",
+    "sg:address":"3825 Lancaster Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 7476",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg",
+        "machine",
+        "diamond",
+        "cutlery",
+        "instr"
+    ],
+    "sg:website":"www.ddk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70stGZV06KPdcgUekKB1Vj_39.755724_-75.597228@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221835,
+    "wof:geomhash":"28801ff08f42c5a7584761bfbe440f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873472775
+        }
+    ],
+    "wof:id":873472775,
+    "wof:lastmodified":1464221835,
+    "wof:name":"Delaware Diamond Knives Inc",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "machine",
+        "diamond",
+        "cutlery",
+        "instr"
+    ]
+},
+  "bbox": [
+    -75.597228,
+    39.755724,
+    -75.597228,
+    39.755724
+],
+  "geometry": {"coordinates":[-75.597228,39.755724],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873512187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.715405,38.753796,-75.715405,38.753796",
+    "geom:latitude":38.753796,
+    "geom:longitude":-75.715405,
+    "iso:country":"US",
+    "sg:address":"16609 Sand Hill Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 0721",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "staining",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tOuZgk0PnCekbdpSv86XB_38.753928_-75.715254@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223482,
+    "wof:geomhash":"d0f53cdf73206107f26a489bf63be408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873512187
+        }
+    ],
+    "wof:id":873512187,
+    "wof:lastmodified":1464223482,
+    "wof:name":"Mike's Quality Concrete Inc",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "staining",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.715405,
+    38.753796,
+    -75.715405,
+    38.753796
+],
+  "geometry": {"coordinates":[-75.715405,38.753796],"type":"Point"}
+}

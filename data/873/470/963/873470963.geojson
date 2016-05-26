@@ -1,0 +1,75 @@
+{
+  "id": 873470963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505163,39.151931,-75.505163,39.151931",
+    "geom:latitude":39.151931,
+    "geom:longitude":-75.505163,
+    "iso:country":"US",
+    "sg:address":"800 S Bay Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 760 2149",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vZPnmblU8L0x2Z0ZoQ4yV_39.151931_-75.505163@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221767,
+    "wof:geomhash":"9dc22e6e9d53087cac3876cde682bc30",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873470963
+        }
+    ],
+    "wof:id":873470963,
+    "wof:lastmodified":1464221767,
+    "wof:name":"Aeronautics Administration",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -75.505163,
+    39.151931,
+    -75.505163,
+    39.151931
+],
+  "geometry": {"coordinates":[-75.505163,39.151931],"type":"Point"}
+}

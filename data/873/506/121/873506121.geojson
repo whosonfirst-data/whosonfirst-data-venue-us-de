@@ -1,0 +1,93 @@
+{
+  "id": 873506121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.689634,39.790701,-75.689634,39.790701",
+    "geom:latitude":39.790701,
+    "geom:longitude":-75.689634,
+    "iso:country":"US",
+    "sg:address":"705 Yorklyn Rd",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 8206",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "scientific",
+        "for",
+        "equipment",
+        "mfg",
+        "instrument",
+        "sensor",
+        "apparatus"
+    ],
+    "sg:website":"www.cep-corp.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69dyGvLzl21CSZTLzoHJkl_39.790701_-75.689634@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223201,
+    "wof:geomhash":"f3bf15817770f289bbc8fd10919b59ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873506121
+        }
+    ],
+    "wof:id":873506121,
+    "wof:lastmodified":1464223201,
+    "wof:name":"Chemical Electro Physics Co",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "scientific",
+        "for",
+        "equipment",
+        "mfg",
+        "instrument",
+        "sensor",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    -75.689634,
+    39.790701,
+    -75.689634,
+    39.790701
+],
+  "geometry": {"coordinates":[-75.689634,39.790701],"type":"Point"}
+}

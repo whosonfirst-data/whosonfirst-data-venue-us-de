@@ -1,0 +1,83 @@
+{
+  "id": 873474347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541187,39.727931,-75.541187,39.727931",
+    "geom:latitude":39.727931,
+    "geom:longitude":-75.541187,
+    "iso:country":"US",
+    "sg:address":"1400 B St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 1500",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "packaging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EKjt7eFpr9KDisxACS0Eg_39.727931_-75.541187@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221893,
+    "wof:geomhash":"ced1762f5c63ea8dc462cc62ab66aacd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873474347
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":873474347
+        }
+    ],
+    "wof:id":873474347,
+    "wof:lastmodified":1464221893,
+    "wof:name":"Pack & Process Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging"
+    ]
+},
+  "bbox": [
+    -75.541187,
+    39.727931,
+    -75.541187,
+    39.727931
+],
+  "geometry": {"coordinates":[-75.54118699999999,39.727931],"type":"Point"}
+}

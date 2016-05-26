@@ -1,0 +1,68 @@
+{
+  "id": 857724313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.575189,39.74594,-75.575189,39.74594",
+    "geom:latitude":39.74594,
+    "geom:longitude":-75.575189,
+    "iso:country":"US",
+    "sg:address":"112 S Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 3411",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GqfYHYQjherPniKtcYy24_39.745940_-75.575189@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221330,
+    "wof:geomhash":"5c119fdb995dccdc173532d43fa440e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":857724313
+        }
+    ],
+    "wof:id":857724313,
+    "wof:lastmodified":1464221330,
+    "wof:name":"Union Wine & Liquors",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.575189,
+    39.74594,
+    -75.575189,
+    39.74594
+],
+  "geometry": {"coordinates":[-75.57518899999999,39.74594],"type":"Point"}
+}

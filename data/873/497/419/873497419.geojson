@@ -1,0 +1,71 @@
+{
+  "id": 873497419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.725355,39.677658,-75.725355,39.677658",
+    "geom:latitude":39.677658,
+    "geom:longitude":-75.725355,
+    "iso:country":"US",
+    "sg:address":"100 Kimberton Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 0116",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2cXGns9IGCkAo5hwVnyIun_39.677658_-75.725355@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222838,
+    "wof:geomhash":"c1bf52d7d94842e4c9ef15b71554c9d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873497419
+        }
+    ],
+    "wof:id":873497419,
+    "wof:lastmodified":1464222838,
+    "wof:name":"Kimberton Apartments",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.725355,
+    39.677658,
+    -75.725355,
+    39.677658
+],
+  "geometry": {"coordinates":[-75.72535499999999,39.677658],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857716663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56958,39.760739,-75.56958,39.760739",
+    "geom:latitude":39.760739,
+    "geom:longitude":-75.56958,
+    "iso:country":"US",
+    "sg:address":"1606 Woodlawn Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 426 0938",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tepyTakDjysN24jQDVD3l_39.760739_-75.569580@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221177,
+    "wof:geomhash":"88be2fa0e3ae20f9471c8d9333e8f615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":857716663
+        }
+    ],
+    "wof:id":857716663,
+    "wof:lastmodified":1464221177,
+    "wof:name":"Paul J Mraz",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -75.56958,
+    39.760739,
+    -75.56958,
+    39.760739
+],
+  "geometry": {"coordinates":[-75.56958,39.760739],"type":"Point"}
+}

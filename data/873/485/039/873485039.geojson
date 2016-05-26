@@ -1,0 +1,74 @@
+{
+  "id": 873485039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555952,39.725715,-75.555952,39.725715",
+    "geom:latitude":39.725715,
+    "geom:longitude":-75.555952,
+    "iso:country":"US",
+    "sg:address":"1000 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 8870",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "scaffolding"
+    ],
+    "sg:website":"www.brandscaffold.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MGSCXQeLY0cUdMaN8dHVC_39.725715_-75.555952@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222308,
+    "wof:geomhash":"d67f00c1cc3f72e828bf3b0f1c867974",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873485039
+        }
+    ],
+    "wof:id":873485039,
+    "wof:lastmodified":1464222308,
+    "wof:name":"Brand Scaffold Svc",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scaffolding"
+    ]
+},
+  "bbox": [
+    -75.555952,
+    39.725715,
+    -75.555952,
+    39.725715
+],
+  "geometry": {"coordinates":[-75.555952,39.725715],"type":"Point"}
+}

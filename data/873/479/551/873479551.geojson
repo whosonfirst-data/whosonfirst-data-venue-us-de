@@ -1,0 +1,71 @@
+{
+  "id": 873479551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.378672,38.664168,-75.378672,38.664168",
+    "geom:latitude":38.664168,
+    "geom:longitude":-75.378672,
+    "iso:country":"US",
+    "sg:address":"317 S Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 6994",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "probation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rAPkYW7eg4cvS0mkt4w0U_38.664168_-75.378672@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222089,
+    "wof:geomhash":"7b61a6e146b897a16ce7c6cb576a291e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873479551
+        }
+    ],
+    "wof:id":873479551,
+    "wof:lastmodified":1464222089,
+    "wof:name":"Probation & Parole",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation"
+    ]
+},
+  "bbox": [
+    -75.378672,
+    38.664168,
+    -75.378672,
+    38.664168
+],
+  "geometry": {"coordinates":[-75.37867199999999,38.664168],"type":"Point"}
+}

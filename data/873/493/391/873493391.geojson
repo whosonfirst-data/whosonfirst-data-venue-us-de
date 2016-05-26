@@ -1,0 +1,71 @@
+{
+  "id": 873493391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.402399,38.855177,-75.402399,38.855177",
+    "geom:latitude":38.855177,
+    "geom:longitude":-75.402399,
+    "iso:country":"US",
+    "sg:address":"9368 Clendaniel Pond Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 3628",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1o6e6lUzTM0Y3dn9XcJfBT_38.855177_-75.402399@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222621,
+    "wof:geomhash":"2cac636171b102131ba0c72cc408877b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873493391
+        }
+    ],
+    "wof:id":873493391,
+    "wof:lastmodified":1464222621,
+    "wof:name":"Lawn Barber",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.402399,
+    38.855177,
+    -75.402399,
+    38.855177
+],
+  "geometry": {"coordinates":[-75.402399,38.855177],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857697413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.508307,39.767058,-75.508307,39.767058",
+    "geom:latitude":39.767058,
+    "geom:longitude":-75.508307,
+    "iso:country":"US",
+    "sg:address":"301 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 2742",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xtq4e2AflPDonpG7NO5hH_39.767058_-75.508307@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220763,
+    "wof:geomhash":"910fc62145dcba9a97794a6224c07950",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857697413
+        }
+    ],
+    "wof:id":857697413,
+    "wof:lastmodified":1464220763,
+    "wof:name":"Jones Atlantic",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.508307,
+    39.767058,
+    -75.508307,
+    39.767058
+],
+  "geometry": {"coordinates":[-75.508307,39.767058],"type":"Point"}
+}

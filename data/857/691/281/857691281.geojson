@@ -1,0 +1,75 @@
+{
+  "id": 857691281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.722832,39.654908,-75.722832,39.654908",
+    "geom:latitude":39.654908,
+    "geom:longitude":-75.722832,
+    "iso:country":"US",
+    "sg:address":"13 Tyler Way",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 0696",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TGXBRillSWincDpB5w223_39.654908_-75.722832@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220647,
+    "wof:geomhash":"ca35e6b6ae5898add25ba9bd135ac5ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857691281
+        }
+    ],
+    "wof:id":857691281,
+    "wof:lastmodified":1464220647,
+    "wof:name":"BGWG Disposal Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.722832,
+    39.654908,
+    -75.722832,
+    39.654908
+],
+  "geometry": {"coordinates":[-75.722832,39.654908],"type":"Point"}
+}

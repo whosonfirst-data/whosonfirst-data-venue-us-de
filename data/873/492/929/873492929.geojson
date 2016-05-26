@@ -1,0 +1,73 @@
+{
+  "id": 873492929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.711501,39.775138,-75.711501,39.775138",
+    "geom:latitude":39.775138,
+    "geom:longitude":-75.711501,
+    "iso:country":"US",
+    "sg:address":"202 Lantana Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 1600",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85827779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71X4ndFinQCB8oXEk9kvBr_39.775138_-75.711501@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222604,
+    "wof:geomhash":"93cb16a547c805385ce7676da47edc78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85827779,
+            "region_id":85688611,
+            "venue_id":873492929
+        }
+    ],
+    "wof:id":873492929,
+    "wof:lastmodified":1464222604,
+    "wof:name":"Lantana Chiropratic",
+    "wof:parent_id":85827779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -75.711501,
+    39.775138,
+    -75.711501,
+    39.775138
+],
+  "geometry": {"coordinates":[-75.711501,39.775138],"type":"Point"}
+}

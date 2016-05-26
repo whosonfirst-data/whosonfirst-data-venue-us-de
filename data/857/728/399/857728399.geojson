@@ -1,0 +1,80 @@
+{
+  "id": 857728399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.68412,39.754882,-75.68412,39.754882",
+    "geom:latitude":39.754882,
+    "geom:longitude":-75.68412,
+    "iso:country":"US",
+    "sg:address":"167 Fairhill Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 1906",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pharmaceutical",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fz6OYx4zhjqNHSaABSxqv_39.754882_-75.684120@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221403,
+    "wof:geomhash":"2503153869c1d5359bc540cb848aea7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":857728399
+        }
+    ],
+    "wof:id":857728399,
+    "wof:lastmodified":1464221403,
+    "wof:name":"Medical Info Graphics",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -75.68412,
+    39.754882,
+    -75.68412,
+    39.754882
+],
+  "geometry": {"coordinates":[-75.68411999999999,39.754882],"type":"Point"}
+}

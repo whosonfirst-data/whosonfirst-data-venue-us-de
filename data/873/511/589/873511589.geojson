@@ -1,0 +1,73 @@
+{
+  "id": 873511589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547798,39.799801,-75.547798,39.799801",
+    "geom:latitude":39.799801,
+    "geom:longitude":-75.547798,
+    "iso:country":"US",
+    "sg:address":"3101 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1639",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24f2qxVpFAGPpf3Ux7EJot_39.799503_-75.547673@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223452,
+    "wof:geomhash":"50fb4bcebd51a7dd5dbbad81d61acf5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873511589
+        }
+    ],
+    "wof:id":873511589,
+    "wof:lastmodified":1464223452,
+    "wof:name":"Carriage House Liquors",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.547798,
+    39.799801,
+    -75.547798,
+    39.799801
+],
+  "geometry": {"coordinates":[-75.547798,39.799801],"type":"Point"}
+}

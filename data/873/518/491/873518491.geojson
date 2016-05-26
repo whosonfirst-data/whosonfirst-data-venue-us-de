@@ -1,0 +1,94 @@
+{
+  "id": 873518491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.582527,39.751049,-75.582527,39.751049",
+    "geom:latitude":39.751049,
+    "geom:longitude":-75.582527,
+    "iso:country":"US",
+    "sg:address":"200 N Ford Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 0752",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "plumber",
+        "electrician",
+        "specialty",
+        "heating",
+        "system",
+        "contractor",
+        "air conditioning"
+    ],
+    "sg:website":"http://www.georgehburns.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11KQToZyjKnmIFcVwpLtxp_39.751049_-75.582527@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223813,
+    "wof:geomhash":"0fffb55cecdb0533cd1da39ebe275a94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518491
+        }
+    ],
+    "wof:id":873518491,
+    "wof:lastmodified":1464223813,
+    "wof:name":"George H Burns Inc",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "plumber",
+        "electrician",
+        "specialty",
+        "heating",
+        "system",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -75.582527,
+    39.751049,
+    -75.582527,
+    39.751049
+],
+  "geometry": {"coordinates":[-75.582527,39.751049],"type":"Point"}
+}

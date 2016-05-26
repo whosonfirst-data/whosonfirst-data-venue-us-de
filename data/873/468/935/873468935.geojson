@@ -1,0 +1,78 @@
+{
+  "id": 873468935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550439,39.740065,-75.550439,39.740065",
+    "geom:latitude":39.740065,
+    "geom:longitude":-75.550439,
+    "iso:country":"US",
+    "sg:address":"300 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 282 1679",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VruIdHY4ZjjUxK27SJTgO_39.740065_-75.550439@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221685,
+    "wof:geomhash":"4fcf396c7f0c0b9b4ccc8cbf03de57db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873468935
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873468935
+        }
+    ],
+    "wof:id":873468935,
+    "wof:lastmodified":1464221685,
+    "wof:name":"Emcor",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.550439,
+    39.740065,
+    -75.550439,
+    39.740065
+],
+  "geometry": {"coordinates":[-75.550439,39.740065],"type":"Point"}
+}

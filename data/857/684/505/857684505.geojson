@@ -1,0 +1,71 @@
+{
+  "id": 857684505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.685662,39.706132,-75.685662,39.706132",
+    "geom:latitude":39.706132,
+    "geom:longitude":-75.685662,
+    "iso:country":"US",
+    "sg:address":"2650 Kirkwood Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 5602",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UDFxziWRlVKeIdO2hcRtm_39.706132_-75.685662@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220513,
+    "wof:geomhash":"e70848cdc83d80f56be62caf8818e990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857684505
+        }
+    ],
+    "wof:id":857684505,
+    "wof:lastmodified":1464220513,
+    "wof:name":"Meadowood Mobil",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.685662,
+    39.706132,
+    -75.685662,
+    39.706132
+],
+  "geometry": {"coordinates":[-75.68566199999999,39.706132],"type":"Point"}
+}

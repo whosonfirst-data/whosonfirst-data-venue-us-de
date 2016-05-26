@@ -1,0 +1,71 @@
+{
+  "id": 873468665,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.190904,38.552994,-75.190904,38.552994",
+    "geom:latitude":38.552994,
+    "geom:longitude":-75.190904,
+    "iso:country":"US",
+    "sg:address":"1 Judith Ln",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 7744",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51Mi2ULKrNW0DfFKukslN5_38.552994_-75.190904@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221675,
+    "wof:geomhash":"2dee22b58f949bd9992596dfc9aaa73c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873468665
+        }
+    ],
+    "wof:id":873468665,
+    "wof:lastmodified":1464221675,
+    "wof:name":"C & S Custom Framers LLC",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.190904,
+    38.552994,
+    -75.190904,
+    38.552994
+],
+  "geometry": {"coordinates":[-75.190904,38.552994],"type":"Point"}
+}

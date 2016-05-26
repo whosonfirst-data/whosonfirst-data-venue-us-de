@@ -1,0 +1,69 @@
+{
+  "id": 873521899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525299,39.138699,-75.525299,39.138699",
+    "geom:latitude":39.138699,
+    "geom:longitude":-75.525299,
+    "iso:country":"US",
+    "sg:address":"1300 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3440",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dwn47LSqtKZXAcqvG1tEe_39.138699_-75.525299@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223958,
+    "wof:geomhash":"fa36196e0c7255dce7b6751fe9b23fd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873521899
+        }
+    ],
+    "wof:id":873521899,
+    "wof:lastmodified":1464223958,
+    "wof:name":"Catherine's",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accessory"
+    ]
+},
+  "bbox": [
+    -75.525299,
+    39.138699,
+    -75.525299,
+    39.138699
+],
+  "geometry": {"coordinates":[-75.525299,39.138699],"type":"Point"}
+}

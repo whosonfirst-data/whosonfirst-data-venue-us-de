@@ -1,0 +1,70 @@
+{
+  "id": 873512931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.690737,39.661265,-75.690737,39.661265",
+    "geom:latitude":39.661265,
+    "geom:longitude":-75.690737,
+    "iso:country":"US",
+    "sg:address":"530 JFK Memorial Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/237854-roy-rogers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 8604",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vfzEbG5kvolLiiyBeH931_39.661265_-75.690737@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223511,
+    "wof:geomhash":"4e05e2eacbcb3d6fe3d40b3e6399fed0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512931
+        }
+    ],
+    "wof:id":873512931,
+    "wof:lastmodified":1464223511,
+    "wof:name":"Roy Rogers",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.690737,
+    39.661265,
+    -75.690737,
+    39.661265
+],
+  "geometry": {"coordinates":[-75.690737,39.661265],"type":"Point"}
+}

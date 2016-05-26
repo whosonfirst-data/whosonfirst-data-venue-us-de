@@ -1,0 +1,73 @@
+{
+  "id": 873500165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603596,39.300802,-75.603596,39.300802",
+    "geom:latitude":39.300802,
+    "geom:longitude":-75.603596,
+    "iso:country":"US",
+    "sg:address":"33 E South St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 5008",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32BtAmELKxU32gEijJHqah_39.300802_-75.603596@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222944,
+    "wof:geomhash":"728dd0525090937faefeeb0d50e0d277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873500165
+        }
+    ],
+    "wof:id":873500165,
+    "wof:lastmodified":1464222944,
+    "wof:name":"Morgan Paper Co",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.603596,
+    39.300802,
+    -75.603596,
+    39.300802
+],
+  "geometry": {"coordinates":[-75.603596,39.300802],"type":"Point"}
+}

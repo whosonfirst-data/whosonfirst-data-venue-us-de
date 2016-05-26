@@ -1,0 +1,73 @@
+{
+  "id": 873505221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523551,39.175155,-75.523551,39.175155",
+    "geom:latitude":39.175155,
+    "geom:longitude":-75.523551,
+    "iso:country":"US",
+    "sg:address":"506 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 1010",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mOO9TpP73Z1k1cjfkcnfV_39.175155_-75.523551@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223170,
+    "wof:geomhash":"2ddbab1cc5e637a6f6ad5dbd2e33a8ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873505221
+        }
+    ],
+    "wof:id":873505221,
+    "wof:lastmodified":1464223170,
+    "wof:name":"Atlantic Cellular",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -75.523551,
+    39.175155,
+    -75.523551,
+    39.175155
+],
+  "geometry": {"coordinates":[-75.523551,39.175155],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873471315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.531718,39.166497,-75.531718,39.166497",
+    "geom:latitude":39.166497,
+    "geom:longitude":-75.531718,
+    "iso:country":"US",
+    "sg:address":"304 N New St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5290",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2coQzKZd257e8cFaxFYueQ_39.166497_-75.531718@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221780,
+    "wof:geomhash":"d1f0b765c4ada29817717b4bf193e046",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873471315
+        }
+    ],
+    "wof:id":873471315,
+    "wof:lastmodified":1464221780,
+    "wof:name":"US Defense Investigative Svc",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -75.531718,
+    39.166497,
+    -75.531718,
+    39.166497
+],
+  "geometry": {"coordinates":[-75.531718,39.166497],"type":"Point"}
+}

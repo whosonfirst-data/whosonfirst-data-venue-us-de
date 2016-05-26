@@ -1,0 +1,70 @@
+{
+  "id": 873517523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548357,39.802667,-75.548357,39.802667",
+    "geom:latitude":39.802667,
+    "geom:longitude":-75.548357,
+    "iso:country":"US",
+    "sg:address":"3610 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 0800",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "italian"
+    ],
+    "sg:website":"www.bertuccis.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NnAAaHep3YfPVunx0UFox_39.802667_-75.548357@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223764,
+    "wof:geomhash":"1733c329f2940245f73718a4d05ae20f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517523
+        }
+    ],
+    "wof:id":873517523,
+    "wof:lastmodified":1464223764,
+    "wof:name":"Bertucci's",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.548357,
+    39.802667,
+    -75.548357,
+    39.802667
+],
+  "geometry": {"coordinates":[-75.548357,39.802667],"type":"Point"}
+}

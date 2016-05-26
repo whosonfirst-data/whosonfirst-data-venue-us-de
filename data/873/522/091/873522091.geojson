@@ -1,0 +1,71 @@
+{
+  "id": 873522091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55056,39.080421,-75.55056,39.080421",
+    "geom:latitude":39.080421,
+    "geom:longitude":-75.55056,
+    "iso:country":"US",
+    "sg:address":"523 S Red Haven Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 387 1690",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "casket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7idP31tuQ5IKICfK9s9EL8_39.080421_-75.550560@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223967,
+    "wof:geomhash":"2985c98ea511e22eef36a1d8cc9a5f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873522091
+        }
+    ],
+    "wof:id":873522091,
+    "wof:lastmodified":1464223967,
+    "wof:name":"Delaware Casket Company",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "casket"
+    ]
+},
+  "bbox": [
+    -75.55056,
+    39.080421,
+    -75.55056,
+    39.080421
+],
+  "geometry": {"coordinates":[-75.55056,39.080421],"type":"Point"}
+}

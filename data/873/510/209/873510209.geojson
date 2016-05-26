@@ -1,0 +1,78 @@
+{
+  "id": 873510209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577866,39.223016,-75.577866,39.223016",
+    "geom:latitude":39.223016,
+    "geom:longitude":-75.577866,
+    "iso:country":"US",
+    "sg:address":"761 Main St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 3307",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931477,
+        102083871,
+        85825779,
+        85931481,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DD1zU2eANGHPJH0K7c2O8_39.223016_-75.577866@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223386,
+    "wof:geomhash":"633d23280f725012c2a665842f8a6988",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931477,
+            "neighbourhood_id":85825779,
+            "region_id":85688611,
+            "venue_id":873510209
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873510209
+        }
+    ],
+    "wof:id":873510209,
+    "wof:lastmodified":1464223386,
+    "wof:name":"Shore Stop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.577866,
+    39.223016,
+    -75.577866,
+    39.223016
+],
+  "geometry": {"coordinates":[-75.577866,39.223016],"type":"Point"}
+}

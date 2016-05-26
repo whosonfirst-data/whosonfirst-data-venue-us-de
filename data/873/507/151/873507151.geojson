@@ -1,0 +1,71 @@
+{
+  "id": 873507151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60321,39.144963,-75.60321,39.144963",
+    "geom:latitude":39.144963,
+    "geom:longitude":-75.60321,
+    "iso:country":"US",
+    "sg:address":"2846 Yoder Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 4208",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sawmill"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WVwZsa0V4swWUnLiVolSQ_39.144963_-75.603210@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223243,
+    "wof:geomhash":"d3368c7cdf4de9fd0842eb2a0e594c25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873507151
+        }
+    ],
+    "wof:id":873507151,
+    "wof:lastmodified":1464223243,
+    "wof:name":"Byler Sawmill",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sawmill"
+    ]
+},
+  "bbox": [
+    -75.60321,
+    39.144963,
+    -75.60321,
+    39.144963
+],
+  "geometry": {"coordinates":[-75.60321,39.144963],"type":"Point"}
+}

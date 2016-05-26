@@ -1,0 +1,65 @@
+{
+  "id": 873468859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542973,39.791562,-75.542973,39.791562",
+    "geom:latitude":39.791562,
+    "geom:longitude":-75.542973,
+    "iso:country":"US",
+    "sg:address":"1 Sandra Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 252 2019",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:website":"www.aig-direct.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34bY2ea6YvL9WOurKvySHu_39.791562_-75.542973@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221682,
+    "wof:geomhash":"0979977c79dce6eccb50e714cbcdbc3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873468859
+        }
+    ],
+    "wof:id":873468859,
+    "wof:lastmodified":1464221682,
+    "wof:name":"AIG",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.542973,
+    39.791562,
+    -75.542973,
+    39.791562
+],
+  "geometry": {"coordinates":[-75.542973,39.791562],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873519421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504976,39.76856,-75.504976,39.76856",
+    "geom:latitude":39.76856,
+    "geom:longitude":-75.504976,
+    "iso:country":"US",
+    "sg:address":"520 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 791 7600",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://www.nationwide.com/agent/Wilmington-DELAWARE-insurance-agent/chadwiswall/office.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fipCYpuKjZ20t3oiyA0Kp_39.768560_-75.504976@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223851,
+    "wof:geomhash":"45cc5b68738cae5d10aa105c380ea904",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873519421
+        }
+    ],
+    "wof:id":873519421,
+    "wof:lastmodified":1464223851,
+    "wof:name":"The Wiswall Agency Inc - Nationwide Insurance",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -75.504976,
+    39.76856,
+    -75.504976,
+    39.76856
+],
+  "geometry": {"coordinates":[-75.504976,39.76856],"type":"Point"}
+}

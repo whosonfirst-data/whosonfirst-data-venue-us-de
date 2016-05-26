@@ -1,0 +1,73 @@
+{
+  "id": 873520223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546501,39.809101,-75.546501,39.809101",
+    "geom:latitude":39.809101,
+    "geom:longitude":-75.546501,
+    "iso:country":"US",
+    "sg:address":"3612 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 0373",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wnR5R2LqHf8bHzeWiggS1_39.809101_-75.546501@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223889,
+    "wof:geomhash":"ef10b731d1581915b8a9465e868884e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520223
+        }
+    ],
+    "wof:id":873520223,
+    "wof:lastmodified":1464223889,
+    "wof:name":"Marinelli Vincent Sr",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -75.546501,
+    39.809101,
+    -75.546501,
+    39.809101
+],
+  "geometry": {"coordinates":[-75.54650100000001,39.809101],"type":"Point"}
+}

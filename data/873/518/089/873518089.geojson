@@ -1,0 +1,73 @@
+{
+  "id": 873518089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544777,39.780041,-75.544777,39.780041",
+    "geom:latitude":39.780041,
+    "geom:longitude":-75.544777,
+    "iso:country":"US",
+    "sg:address":"103 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 691 6354",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6b8NaIh7QBgHdxwnOpI4cM_39.780041_-75.544777@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223798,
+    "wof:geomhash":"96aa05f313aca3270814e183a6d4ae2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873518089
+        }
+    ],
+    "wof:id":873518089,
+    "wof:lastmodified":1464223798,
+    "wof:name":"Big Rivers Leasing Corp",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.544777,
+    39.780041,
+    -75.544777,
+    39.780041
+],
+  "geometry": {"coordinates":[-75.544777,39.780041],"type":"Point"}
+}

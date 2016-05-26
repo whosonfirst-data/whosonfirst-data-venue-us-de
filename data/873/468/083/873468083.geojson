@@ -1,0 +1,72 @@
+{
+  "id": 873468083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.089971,38.546336,-75.089971,38.546336",
+    "geom:latitude":38.546336,
+    "geom:longitude":-75.089971,
+    "iso:country":"US",
+    "sg:address":"67 Central Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 3455",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.ovpc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OnDtiACxd2YUqkacmWH3F_38.546336_-75.089971@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221655,
+    "wof:geomhash":"06e4e1303facc4f6cc5d7bf85a1c2287",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873468083
+        }
+    ],
+    "wof:id":873468083,
+    "wof:lastmodified":1464221655,
+    "wof:name":"Ocean View Presbyterian Church",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.089971,
+    38.546336,
+    -75.089971,
+    38.546336
+],
+  "geometry": {"coordinates":[-75.08997100000001,38.546336],"type":"Point"}
+}

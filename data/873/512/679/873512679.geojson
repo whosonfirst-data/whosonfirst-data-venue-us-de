@@ -1,0 +1,84 @@
+{
+  "id": 873512679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522965,39.174641,-75.522965,39.174641",
+    "geom:latitude":39.174641,
+    "geom:longitude":-75.522965,
+    "iso:country":"US",
+    "sg:address":"514 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 0693",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "orthopedic",
+        "appliance",
+        "specialty",
+        "psychiatric",
+        "except"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zUnhRMD3HCqIE10vuOR8h_39.174923_-75.523330@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223500,
+    "wof:geomhash":"0b0db554b99e0b6898aca5df03fb7166",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873512679
+        }
+    ],
+    "wof:id":873512679,
+    "wof:lastmodified":1464223500,
+    "wof:name":"Lawall Prosthetics Orthotics Inc",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedic",
+        "appliance",
+        "specialty",
+        "psychiatric",
+        "except"
+    ]
+},
+  "bbox": [
+    -75.522965,
+    39.174641,
+    -75.522965,
+    39.174641
+],
+  "geometry": {"coordinates":[-75.522965,39.174641],"type":"Point"}
+}

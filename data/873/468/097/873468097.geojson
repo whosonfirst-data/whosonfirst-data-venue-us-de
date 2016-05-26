@@ -1,0 +1,78 @@
+{
+  "id": 873468097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604751,38.742685,-75.604751,38.742685",
+    "geom:latitude":38.742685,
+    "geom:longitude":-75.604751,
+    "iso:country":"US",
+    "sg:address":"416 Market St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8602",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KajKMUJYascwi3mGpFoAK_38.742685_-75.604751@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221656,
+    "wof:geomhash":"0a7873c4abb8a46108cea50d2e1a6547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873468097
+        }
+    ],
+    "wof:id":873468097,
+    "wof:lastmodified":1464221656,
+    "wof:name":"Jeff's Tap Room",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.604751,
+    38.742685,
+    -75.604751,
+    38.742685
+],
+  "geometry": {"coordinates":[-75.60475099999999,38.742685],"type":"Point"}
+}

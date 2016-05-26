@@ -1,0 +1,73 @@
+{
+  "id": 873492329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.508027,39.812751,-75.508027,39.812751",
+    "geom:latitude":39.812751,
+    "geom:longitude":-75.508027,
+    "iso:country":"US",
+    "sg:address":"2417 Larchwood Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 6553",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "construct",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37w6iPc6w2A0vxbGg6sUCj_39.812751_-75.508027@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222577,
+    "wof:geomhash":"1dfb455e986e7e77da92227af29d9e9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873492329
+        }
+    ],
+    "wof:id":873492329,
+    "wof:lastmodified":1464222577,
+    "wof:name":"Smith & Jewell Home Imprvs",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "construct",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.508027,
+    39.812751,
+    -75.508027,
+    39.812751
+],
+  "geometry": {"coordinates":[-75.508027,39.812751],"type":"Point"}
+}

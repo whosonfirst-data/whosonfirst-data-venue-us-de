@@ -1,0 +1,104 @@
+{
+  "id": 873514039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60786,39.307322,-75.60786,39.307322",
+    "geom:latitude":39.307322,
+    "geom:longitude":-75.60786,
+    "iso:country":"US",
+    "sg:address":"349 N Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/smyrna/130313-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 2892",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68jKYR3ApC2ok96MGfoZkL_39.307463_-75.607744@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223563,
+    "wof:geomhash":"bfafe9518b4291d16b30fb47af040d7d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873514039
+        }
+    ],
+    "wof:id":873514039,
+    "wof:lastmodified":1464223563,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.60786,
+    39.307322,
+    -75.60786,
+    39.307322
+],
+  "geometry": {"coordinates":[-75.60786,39.307322],"type":"Point"}
+}

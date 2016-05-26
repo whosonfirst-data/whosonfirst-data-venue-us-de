@@ -1,0 +1,71 @@
+{
+  "id": 857699479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.748638,39.626822,-75.748638,39.626822",
+    "geom:latitude":39.626822,
+    "geom:longitude":-75.748638,
+    "iso:country":"US",
+    "sg:address":"41 Winterhaven Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 1172",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78ZVDwYXYQ7rWRIw0Vt014_39.626822_-75.748638@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220800,
+    "wof:geomhash":"1cc407c41fe3c00e2593ea980af115f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857699479
+        }
+    ],
+    "wof:id":857699479,
+    "wof:lastmodified":1464220800,
+    "wof:name":"Strawberry Run Apartments",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.748638,
+    39.626822,
+    -75.748638,
+    39.626822
+],
+  "geometry": {"coordinates":[-75.748638,39.626822],"type":"Point"}
+}

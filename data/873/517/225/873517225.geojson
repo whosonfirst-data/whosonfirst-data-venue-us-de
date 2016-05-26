@@ -1,0 +1,75 @@
+{
+  "id": 873517225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555267,39.782391,-75.555267,39.782391",
+    "geom:latitude":39.782391,
+    "geom:longitude":-75.555267,
+    "iso:country":"US",
+    "sg:address":"1600 ROCKLAND RD P.O. BOX 269",
+    "sg:city":"WILMINGTON",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 4186",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"http://www.nemours.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PT05BrlLgxCryPCRLDd8L_39.782391_-75.555267@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223743,
+    "wof:geomhash":"59c1dce7a290c3e1e02f12c3f4946e00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873517225
+        }
+    ],
+    "wof:id":873517225,
+    "wof:lastmodified":1464223743,
+    "wof:name":"A I duPont Hospital for Children",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.555267,
+    39.782391,
+    -75.555267,
+    39.782391
+],
+  "geometry": {"coordinates":[-75.555267,39.782391],"type":"Point"}
+}

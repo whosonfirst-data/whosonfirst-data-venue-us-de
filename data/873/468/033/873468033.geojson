@@ -1,0 +1,71 @@
+{
+  "id": 873468033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.499836,38.44349,-75.499836,38.44349",
+    "geom:latitude":38.44349,
+    "geom:longitude":-75.499836,
+    "iso:country":"US",
+    "sg:address":"32075 Melson Rd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 3500",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85810701,
+        102082715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MUTbccrwXhyxfJusejOYq_38.443490_-75.499836@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221653,
+    "wof:geomhash":"e16529d82e8b6ef63fc6400ab31de009",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "neighbourhood_id":85810701,
+            "region_id":85688501,
+            "venue_id":873468033
+        }
+    ],
+    "wof:id":873468033,
+    "wof:lastmodified":1464221653,
+    "wof:name":"Tucker Homes",
+    "wof:parent_id":85810701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.499836,
+    38.44349,
+    -75.499836,
+    38.44349
+],
+  "geometry": {"coordinates":[-75.499836,38.44349],"type":"Point"}
+}

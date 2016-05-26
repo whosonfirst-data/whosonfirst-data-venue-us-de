@@ -1,0 +1,71 @@
+{
+  "id": 857703703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.649713,39.72831,-75.649713,39.72831",
+    "geom:latitude":39.72831,
+    "geom:longitude":-75.649713,
+    "iso:country":"US",
+    "sg:address":"4311 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8661",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12MX4361KiNoEhaKqbxIng_39.728310_-75.649713@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220890,
+    "wof:geomhash":"64d83a3395496c3550a73506e6e599de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857703703
+        }
+    ],
+    "wof:id":857703703,
+    "wof:lastmodified":1464220890,
+    "wof:name":"Alpine Cleaners",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -75.649713,
+    39.72831,
+    -75.649713,
+    39.72831
+],
+  "geometry": {"coordinates":[-75.64971300000001,39.72831],"type":"Point"}
+}

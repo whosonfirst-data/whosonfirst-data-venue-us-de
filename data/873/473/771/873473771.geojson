@@ -1,0 +1,78 @@
+{
+  "id": 873473771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551971,39.743612,-75.551971,39.743612",
+    "geom:latitude":39.743612,
+    "geom:longitude":-75.551971,
+    "iso:country":"US",
+    "sg:address":"207 W 7th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 9108",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pJ30zKcwdugUzO4xD6fQM_39.743612_-75.551971@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221873,
+    "wof:geomhash":"c60add62dc89d0869d2a1aed707588f1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873473771
+        }
+    ],
+    "wof:id":873473771,
+    "wof:lastmodified":1464221873,
+    "wof:name":"Diamond State Cleaning Service",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.551971,
+    39.743612,
+    -75.551971,
+    39.743612
+],
+  "geometry": {"coordinates":[-75.55197099999999,39.743612],"type":"Point"}
+}

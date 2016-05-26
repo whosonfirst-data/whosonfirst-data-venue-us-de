@@ -1,0 +1,73 @@
+{
+  "id": 857723879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.496536,39.140186,-75.496536,39.140186",
+    "geom:latitude":39.140186,
+    "geom:longitude":-75.496536,
+    "iso:country":"US",
+    "sg:address":"1008 Lafferty Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 8122",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33jND4FCtwEKiwLfYTXcKM_39.140186_-75.496536@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221322,
+    "wof:geomhash":"5d06b4ad3bc8d33de87f27499d1057e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":857723879
+        }
+    ],
+    "wof:id":857723879,
+    "wof:lastmodified":1464221322,
+    "wof:name":"Betsy Ross Pizza Restaurant",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.496536,
+    39.140186,
+    -75.496536,
+    39.140186
+],
+  "geometry": {"coordinates":[-75.49653600000001,39.140186],"type":"Point"}
+}

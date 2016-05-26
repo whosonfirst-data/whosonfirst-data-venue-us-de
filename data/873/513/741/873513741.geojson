@@ -1,0 +1,74 @@
+{
+  "id": 873513741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.428396,38.913167,-75.428396,38.913167",
+    "geom:latitude":38.913167,
+    "geom:longitude":-75.428396,
+    "iso:country":"US",
+    "sg:address":"10 S Walnut St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/milford-north/164662-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 9429",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ft5FbYjuB6mwwfYBCKapq_38.913167_-75.428396@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223546,
+    "wof:geomhash":"e56038f2cca2e6763ceb1575d24e4f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873513741
+        }
+    ],
+    "wof:id":873513741,
+    "wof:lastmodified":1464223546,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.428396,
+    38.913167,
+    -75.428396,
+    38.913167
+],
+  "geometry": {"coordinates":[-75.42839600000001,38.913167],"type":"Point"}
+}

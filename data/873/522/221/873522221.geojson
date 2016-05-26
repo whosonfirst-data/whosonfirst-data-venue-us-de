@@ -1,0 +1,73 @@
+{
+  "id": 873522221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.53756,39.187199,-75.53756,39.187199",
+    "geom:latitude":39.187199,
+    "geom:longitude":-75.53756,
+    "iso:country":"US",
+    "sg:address":"1141 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 5012",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ITByAUn4Q29nzAnwTpxyd_39.187199_-75.537560@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223973,
+    "wof:geomhash":"40769d6b8400044b291dc1cae81070df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873522221
+        }
+    ],
+    "wof:id":873522221,
+    "wof:lastmodified":1464223973,
+    "wof:name":"Chipotle Mexican Grill, Inc.",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -75.53756,
+    39.187199,
+    -75.53756,
+    39.187199
+],
+  "geometry": {"coordinates":[-75.53756,39.187199],"type":"Point"}
+}

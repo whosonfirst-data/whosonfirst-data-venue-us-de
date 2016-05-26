@@ -1,0 +1,69 @@
+{
+  "id": 873495347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.656189,39.72026,-75.656189,39.72026",
+    "geom:latitude":39.72026,
+    "geom:longitude":-75.656189,
+    "iso:country":"US",
+    "sg:address":"4608 Haverford Pl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1017",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3o3kSM9FVOZNjEtKAZ315f_39.720260_-75.656189@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222742,
+    "wof:geomhash":"e0f7e6006258998ec6b506ca55f68205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873495347
+        }
+    ],
+    "wof:id":873495347,
+    "wof:lastmodified":1464222742,
+    "wof:name":"Haverford Place Apartments",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.656189,
+    39.72026,
+    -75.656189,
+    39.72026
+],
+  "geometry": {"coordinates":[-75.656189,39.72026],"type":"Point"}
+}

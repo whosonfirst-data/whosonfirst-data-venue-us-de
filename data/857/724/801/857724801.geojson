@@ -1,0 +1,71 @@
+{
+  "id": 857724801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518636,39.782698,-75.518636,39.782698",
+    "geom:latitude":39.782698,
+    "geom:longitude":-75.518636,
+    "iso:country":"US",
+    "sg:address":"1000 Shipley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 0977",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "catholic",
+        "cafeteria"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85845563,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5flC2Ya7Y9RsPHRZbkrT5H_39.782698_-75.518636@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221339,
+    "wof:geomhash":"3e08851a2f5b45f9e332847e5ebe63e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85845563,
+            "region_id":85688611,
+            "venue_id":857724801
+        }
+    ],
+    "wof:id":857724801,
+    "wof:lastmodified":1464221339,
+    "wof:name":"Immaculate Heart Of Mary Schl",
+    "wof:parent_id":85845563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "catholic",
+        "cafeteria"
+    ]
+},
+  "bbox": [
+    -75.518636,
+    39.782698,
+    -75.518636,
+    39.782698
+],
+  "geometry": {"coordinates":[-75.518636,39.782698],"type":"Point"}
+}

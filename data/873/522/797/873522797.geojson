@@ -1,0 +1,73 @@
+{
+  "id": 873522797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52471,39.154235,-75.52471,39.154235",
+    "geom:latitude":39.154235,
+    "geom:longitude":-75.52471,
+    "iso:country":"US",
+    "sg:address":"102 W Water St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 1932",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cardiologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ccCHNnQELxy1lKW72ehXr_39.154235_-75.524710@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223999,
+    "wof:geomhash":"39ef1b14481da5ac5e90720dffca21cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873522797
+        }
+    ],
+    "wof:id":873522797,
+    "wof:lastmodified":1464223999,
+    "wof:name":"Pediatric Cardiology Associates of Delaware PA",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cardiologist"
+    ]
+},
+  "bbox": [
+    -75.52471,
+    39.154235,
+    -75.52471,
+    39.154235
+],
+  "geometry": {"coordinates":[-75.52471,39.154235],"type":"Point"}
+}

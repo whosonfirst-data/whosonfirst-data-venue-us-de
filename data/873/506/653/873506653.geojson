@@ -1,0 +1,73 @@
+{
+  "id": 873506653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.093937,38.545081,-75.093937,38.545081",
+    "geom:latitude":38.545081,
+    "geom:longitude":-75.093937,
+    "iso:country":"US",
+    "sg:address":"20 Woodland Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 7877",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YFzqIoGAleSDgt9ppCIY8_38.545081_-75.093937@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223223,
+    "wof:geomhash":"45941f7c1e6f82cd38dcbd39a615dd3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873506653
+        }
+    ],
+    "wof:id":873506653,
+    "wof:lastmodified":1464223223,
+    "wof:name":"Stover Homes LLC",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.093937,
+    38.545081,
+    -75.093937,
+    38.545081
+],
+  "geometry": {"coordinates":[-75.093937,38.545081],"type":"Point"}
+}

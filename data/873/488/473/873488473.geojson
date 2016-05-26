@@ -1,0 +1,71 @@
+{
+  "id": 873488473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.723035,39.032948,-75.723035,39.032948",
+    "geom:latitude":39.032948,
+    "geom:longitude":-75.723035,
+    "iso:country":"US",
+    "sg:address":"1107 Willow Grove Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 3933",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HzBx3LKuPGVqnohVoWJRk_39.032948_-75.723035@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222439,
+    "wof:geomhash":"a63910b3f07a0225066c406f66134070",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873488473
+        }
+    ],
+    "wof:id":873488473,
+    "wof:lastmodified":1464222439,
+    "wof:name":"Central Solid Waste Management",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -75.723035,
+    39.032948,
+    -75.723035,
+    39.032948
+],
+  "geometry": {"coordinates":[-75.723035,39.032948],"type":"Point"}
+}

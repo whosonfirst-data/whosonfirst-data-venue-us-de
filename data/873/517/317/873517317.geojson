@@ -1,0 +1,80 @@
+{
+  "id": 873517317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547835,39.800261,-75.547835,39.800261",
+    "geom:latitude":39.800261,
+    "geom:longitude":-75.547835,
+    "iso:country":"US",
+    "sg:address":"3211 Concord Pike Ste A",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5400",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratories-medical",
+        "dental",
+        "imaging",
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i6Q2tSLiNntcO4zyWHQxt_39.800261_-75.547835@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223749,
+    "wof:geomhash":"da00de4cb1a3b89d496c3121fd3b959c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517317
+        }
+    ],
+    "wof:id":873517317,
+    "wof:lastmodified":1464223749,
+    "wof:name":"Delaware Open Mri",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-medical",
+        "dental",
+        "imaging",
+        "x-ray"
+    ]
+},
+  "bbox": [
+    -75.547835,
+    39.800261,
+    -75.547835,
+    39.800261
+],
+  "geometry": {"coordinates":[-75.54783500000001,39.800261],"type":"Point"}
+}

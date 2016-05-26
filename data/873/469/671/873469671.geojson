@@ -1,0 +1,76 @@
+{
+  "id": 873469671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.583956,39.750651,-75.583956,39.750651",
+    "geom:latitude":39.750651,
+    "geom:longitude":-75.583956,
+    "iso:country":"US",
+    "sg:address":"2801 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 428 6121",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Dk3aAFiha11w7X4OsSwb4_39.750651_-75.583956@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221718,
+    "wof:geomhash":"ff5c505b5367db03ee5c47ab87724dda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873469671
+        }
+    ],
+    "wof:id":873469671,
+    "wof:lastmodified":1464221718,
+    "wof:name":"Pilipino Grocery & Take Out",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.583956,
+    39.750651,
+    -75.583956,
+    39.750651
+],
+  "geometry": {"coordinates":[-75.583956,39.750651],"type":"Point"}
+}

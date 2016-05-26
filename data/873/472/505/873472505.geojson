@@ -1,0 +1,71 @@
+{
+  "id": 873472505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606116,39.819274,-75.606116,39.819274",
+    "geom:latitude":39.819274,
+    "geom:longitude":-75.606116,
+    "iso:country":"US",
+    "sg:address":"22 Center Meeting Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 7040",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rr89o2TJeHYX4p8NoKruv_39.819274_-75.606116@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221825,
+    "wof:geomhash":"5dce2e2e4b26b785335223b8872cca76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":873472505
+        }
+    ],
+    "wof:id":873472505,
+    "wof:lastmodified":1464221825,
+    "wof:name":"Partners Plus",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -75.606116,
+    39.819274,
+    -75.606116,
+    39.819274
+],
+  "geometry": {"coordinates":[-75.606116,39.819274],"type":"Point"}
+}

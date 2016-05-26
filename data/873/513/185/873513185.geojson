@@ -1,0 +1,70 @@
+{
+  "id": 873513185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.711169,39.719844,-75.711169,39.719844",
+    "geom:latitude":39.719844,
+    "geom:longitude":-75.711169,
+    "iso:country":"US",
+    "sg:address":"8 Polly Drummond Shpg Ctr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/246416-mcglynns-pub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 7814",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "irish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pFkrs7ObNA0xS44wII3kW_39.719844_-75.711169@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223520,
+    "wof:geomhash":"d5a98ca86fc245bb58c50e32c0862247",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873513185
+        }
+    ],
+    "wof:id":873513185,
+    "wof:lastmodified":1464223520,
+    "wof:name":"McGlynns Pub",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irish"
+    ]
+},
+  "bbox": [
+    -75.711169,
+    39.719844,
+    -75.711169,
+    39.719844
+],
+  "geometry": {"coordinates":[-75.711169,39.719844],"type":"Point"}
+}

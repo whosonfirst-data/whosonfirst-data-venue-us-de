@@ -1,0 +1,81 @@
+{
+  "id": 873514985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.68843,39.78394,-75.68843,39.78394",
+    "geom:latitude":39.78394,
+    "geom:longitude":-75.68843,
+    "iso:country":"US",
+    "sg:address":"505 Schoolhouse Rd",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 2403",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ],
+    "sg:website":"http://www.hockessinbc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XIfmEHEkVCkGZw2TGCRZ2_39.783940_-75.688430@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223619,
+    "wof:geomhash":"c202b449b7f71a123103f3c81008fdc1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873514985
+        }
+    ],
+    "wof:id":873514985,
+    "wof:lastmodified":1464223619,
+    "wof:name":"Hockessin Baptist Church",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -75.68843,
+    39.78394,
+    -75.68843,
+    39.78394
+],
+  "geometry": {"coordinates":[-75.68843,39.78394],"type":"Point"}
+}

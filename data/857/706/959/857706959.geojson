@@ -1,0 +1,71 @@
+{
+  "id": 857706959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.442219,38.908479,-75.442219,38.908479",
+    "geom:latitude":38.908479,
+    "geom:longitude":-75.442219,
+    "iso:country":"US",
+    "sg:address":"550 S Dupont Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 1650",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QWa8Tcjwf41P8J9nQqtjf_38.908479_-75.442219@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220949,
+    "wof:geomhash":"415ba679c31a46f4e981c0907f653aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857706959
+        }
+    ],
+    "wof:id":857706959,
+    "wof:lastmodified":1464220949,
+    "wof:name":"K M G Pediatrics",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.442219,
+    38.908479,
+    -75.442219,
+    38.908479
+],
+  "geometry": {"coordinates":[-75.44221899999999,38.908479],"type":"Point"}
+}

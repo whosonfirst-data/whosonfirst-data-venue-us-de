@@ -1,0 +1,69 @@
+{
+  "id": 873486253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.73159,39.674246,-75.73159,39.674246",
+    "geom:latitude":39.674246,
+    "geom:longitude":-75.73159,
+    "iso:country":"US",
+    "sg:address":"7 Turnbridge Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 1956",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IgEzx3D4NiQ9NRGaRAldR_39.674246_-75.731590@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222351,
+    "wof:geomhash":"7ff9167c44aa4d3f4f08faddf62d35db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873486253
+        }
+    ],
+    "wof:id":873486253,
+    "wof:lastmodified":1464222351,
+    "wof:name":"Cain Plumbing & Heating Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.73159,
+    39.674246,
+    -75.73159,
+    39.674246
+],
+  "geometry": {"coordinates":[-75.73159,39.674246],"type":"Point"}
+}

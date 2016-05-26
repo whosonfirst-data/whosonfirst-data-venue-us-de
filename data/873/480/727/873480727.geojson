@@ -1,0 +1,71 @@
+{
+  "id": 873480727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59185,39.724314,-75.59185,39.724314",
+    "geom:latitude":39.724314,
+    "geom:longitude":-75.59185,
+    "iso:country":"US",
+    "sg:address":"503 S Maryland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 3103",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0p26hsAirG5gBa8ZowrCdP_39.724314_-75.591850@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222145,
+    "wof:geomhash":"4d29f8aa3e57db02b57afc3b3aa6b755",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873480727
+        }
+    ],
+    "wof:id":873480727,
+    "wof:lastmodified":1464222145,
+    "wof:name":"Envios Rapidos International",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -75.59185,
+    39.724314,
+    -75.59185,
+    39.724314
+],
+  "geometry": {"coordinates":[-75.59184999999999,39.724314],"type":"Point"}
+}

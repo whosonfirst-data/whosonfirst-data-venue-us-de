@@ -1,0 +1,68 @@
+{
+  "id": 873467337,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526658,39.163854,-75.526658,39.163854",
+    "geom:latitude":39.163854,
+    "geom:longitude":-75.526658,
+    "iso:country":"US",
+    "sg:address":"120 N State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 2413",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A231y9Bc06P3oKmSWEdfC_39.163854_-75.526658@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221629,
+    "wof:geomhash":"50acb1c05c153d01cf6b745d686175d5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873467337
+        }
+    ],
+    "wof:id":873467337,
+    "wof:lastmodified":1464221629,
+    "wof:name":"Parker Library",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.526658,
+    39.163854,
+    -75.526658,
+    39.163854
+],
+  "geometry": {"coordinates":[-75.526658,39.163854],"type":"Point"}
+}

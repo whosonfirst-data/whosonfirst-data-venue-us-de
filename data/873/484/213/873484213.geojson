@@ -1,0 +1,82 @@
+{
+  "id": 873484213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62423,39.734511,-75.62423,39.734511",
+    "geom:latitude":39.734511,
+    "geom:longitude":-75.62423,
+    "iso:country":"US",
+    "sg:address":"3315 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 7846",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "distributor",
+        "automotive",
+        "warehouse",
+        "dealer",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gimt8AoJ8ewxzIsbPP48c_39.734511_-75.624230@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222278,
+    "wof:geomhash":"1ab21e4f95e4c322efcd68636a00b496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873484213
+        }
+    ],
+    "wof:id":873484213,
+    "wof:lastmodified":1464222278,
+    "wof:name":"Auto Craft Automotive Pdts LLC",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distributor",
+        "automotive",
+        "warehouse",
+        "dealer",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.62423,
+    39.734511,
+    -75.62423,
+    39.734511
+],
+  "geometry": {"coordinates":[-75.62423,39.734511],"type":"Point"}
+}

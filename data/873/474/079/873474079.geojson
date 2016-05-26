@@ -1,0 +1,75 @@
+{
+  "id": 873474079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537879,39.749961,-75.537879,39.749961",
+    "geom:latitude":39.749961,
+    "geom:longitude":-75.537879,
+    "iso:country":"US",
+    "sg:address":"1603 Jessup St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 3700",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YRg6Fgn0sKR8QRGBn4myt_39.749961_-75.537879@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221884,
+    "wof:geomhash":"e6dc2cd46ebc1a4e8b226cf5129197a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873474079
+        }
+    ],
+    "wof:id":873474079,
+    "wof:lastmodified":1464221884,
+    "wof:name":"Day Cloud & Assoc Inc",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.537879,
+    39.749961,
+    -75.537879,
+    39.749961
+],
+  "geometry": {"coordinates":[-75.537879,39.749961],"type":"Point"}
+}

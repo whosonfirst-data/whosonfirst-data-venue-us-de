@@ -1,0 +1,76 @@
+{
+  "id": 873513721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.134195,38.778993,-75.134195,38.778993",
+    "geom:latitude":38.778993,
+    "geom:longitude":-75.134195,
+    "iso:country":"US",
+    "sg:address":"410 E Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lewes/285289-lewes-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 8211",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931621,
+        102083887,
+        85822813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Rj0MBNKzIFTSmvsT2oxf1_38.778993_-75.134195@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223545,
+    "wof:geomhash":"f9054632562e22da8d441d160ce6a050",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931621,
+            "neighbourhood_id":85822813,
+            "region_id":85688611,
+            "venue_id":873513721
+        }
+    ],
+    "wof:id":873513721,
+    "wof:lastmodified":1464223545,
+    "wof:name":"Lewes Pizza",
+    "wof:parent_id":85822813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.134195,
+    38.778993,
+    -75.134195,
+    38.778993
+],
+  "geometry": {"coordinates":[-75.13419500000001,38.778993],"type":"Point"}
+}

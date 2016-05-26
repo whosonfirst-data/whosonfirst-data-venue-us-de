@@ -1,0 +1,75 @@
+{
+  "id": 857704749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568245,38.919177,-75.568245,38.919177",
+    "geom:latitude":38.919177,
+    "geom:longitude":-75.568245,
+    "iso:country":"US",
+    "sg:address":"17568 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4668",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TLpNC8yux5YIEriG8ArH2_38.919177_-75.568245@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220908,
+    "wof:geomhash":"065842900d70a77145e9e2994ac7adae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857704749
+        }
+    ],
+    "wof:id":857704749,
+    "wof:lastmodified":1464220908,
+    "wof:name":"R S Bauer Heating & Cooling",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.568245,
+    38.919177,
+    -75.568245,
+    38.919177
+],
+  "geometry": {"coordinates":[-75.568245,38.919177],"type":"Point"}
+}

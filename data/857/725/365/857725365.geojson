@@ -1,0 +1,78 @@
+{
+  "id": 857725365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55347,39.741383,-75.55347,39.741383",
+    "geom:latitude":39.741383,
+    "geom:longitude":-75.55347,
+    "iso:country":"US",
+    "sg:address":"209 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 3910",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Bfi5PzpBUzc80BOesdQFL_39.741383_-75.553470@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221350,
+    "wof:geomhash":"f80e4b989e3901a368ac93260d789679",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857725365
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857725365
+        }
+    ],
+    "wof:id":857725365,
+    "wof:lastmodified":1464221350,
+    "wof:name":"4th St Chropractic",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.55347,
+    39.741383,
+    -75.55347,
+    39.741383
+],
+  "geometry": {"coordinates":[-75.55347,39.741383],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873485295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547538,39.71387,-75.547538,39.71387",
+    "geom:latitude":39.71387,
+    "geom:longitude":-75.547538,
+    "iso:country":"US",
+    "sg:address":"4048 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 5241",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hot",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5g6hdcC6quHCzr7kjECE1u_39.713870_-75.547538@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222317,
+    "wof:geomhash":"4238edd37b22fa2425c119ccbd04fee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873485295
+        }
+    ],
+    "wof:id":873485295,
+    "wof:lastmodified":1464222317,
+    "wof:name":"Contractors Materials",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hot",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.547538,
+    39.71387,
+    -75.547538,
+    39.71387
+],
+  "geometry": {"coordinates":[-75.547538,39.71387],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873481673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578199,38.92361,-75.578199,38.92361",
+    "geom:latitude":38.92361,
+    "geom:longitude":-75.578199,
+    "iso:country":"US",
+    "sg:address":"2 Commerce St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 3577",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0etkRN7yh8ewSIiKyHCGsx_38.923610_-75.578199@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222180,
+    "wof:geomhash":"33e12c06f5be7ff025643980c279ff66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873481673
+        }
+    ],
+    "wof:id":873481673,
+    "wof:lastmodified":1464222180,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -75.578199,
+    38.92361,
+    -75.578199,
+    38.92361
+],
+  "geometry": {"coordinates":[-75.578199,38.92361],"type":"Point"}
+}

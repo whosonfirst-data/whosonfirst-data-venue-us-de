@@ -1,0 +1,71 @@
+{
+  "id": 857700835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698277,39.6948,-75.698277,39.6948",
+    "geom:latitude":39.6948,
+    "geom:longitude":-75.698277,
+    "iso:country":"US",
+    "sg:address":"127 Longview Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 2623",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SHIZs9gzE0udxSYEYvfT9_39.694800_-75.698277@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220831,
+    "wof:geomhash":"08cb96a4937efc23d5b7160d1611ed7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857700835
+        }
+    ],
+    "wof:id":857700835,
+    "wof:lastmodified":1464220831,
+    "wof:name":"James L Lackford",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.698277,
+    39.6948,
+    -75.698277,
+    39.6948
+],
+  "geometry": {"coordinates":[-75.698277,39.6948],"type":"Point"}
+}

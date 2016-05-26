@@ -1,0 +1,73 @@
+{
+  "id": 873508511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.753364,39.661519,-75.753364,39.661519",
+    "geom:latitude":39.661519,
+    "geom:longitude":-75.753364,
+    "iso:country":"US",
+    "sg:address":"24 Marvin Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 4535",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ffTfXQHjUt6uF6E5MezEi_39.661519_-75.753364@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223309,
+    "wof:geomhash":"94731a828c6cdc086271f9cd3121e5f4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873508511
+        }
+    ],
+    "wof:id":873508511,
+    "wof:lastmodified":1464223309,
+    "wof:name":"Southgate Gardens Apartments",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.753364,
+    39.661519,
+    -75.753364,
+    39.661519
+],
+  "geometry": {"coordinates":[-75.753364,39.661519],"type":"Point"}
+}

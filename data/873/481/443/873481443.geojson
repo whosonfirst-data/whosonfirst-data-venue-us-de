@@ -1,0 +1,73 @@
+{
+  "id": 873481443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.409331,38.606362,-75.409331,38.606362",
+    "geom:latitude":38.606362,
+    "geom:longitude":-75.409331,
+    "iso:country":"US",
+    "sg:address":"18938 Asketum Branch Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 8300",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aHf6hakZjFeThXh2kRzFb_38.606362_-75.409331@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222171,
+    "wof:geomhash":"9b51fd7a6efa37407f734e217691fe41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873481443
+        }
+    ],
+    "wof:id":873481443,
+    "wof:lastmodified":1464222171,
+    "wof:name":"Leisure Disposal",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -75.409331,
+    38.606362,
+    -75.409331,
+    38.606362
+],
+  "geometry": {"coordinates":[-75.40933099999999,38.606362],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873468313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.536396,39.756741,-75.536396,39.756741",
+    "geom:latitude":39.756741,
+    "geom:longitude":-75.536396,
+    "iso:country":"US",
+    "sg:address":"2600 West St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 3196",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LhbSVZBIVK6uKFxxawp0V_39.756741_-75.536396@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221663,
+    "wof:geomhash":"de007f39d39749958c2170d268d83ce7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873468313
+        }
+    ],
+    "wof:id":873468313,
+    "wof:lastmodified":1464221663,
+    "wof:name":"C & C Liquors",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.536396,
+    39.756741,
+    -75.536396,
+    39.756741
+],
+  "geometry": {"coordinates":[-75.536396,39.756741],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857701573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.384909,38.690869,-75.384909,38.690869",
+    "geom:latitude":38.690869,
+    "geom:longitude":-75.384909,
+    "iso:country":"US",
+    "sg:address":"120 E Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6853",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p1VTScf1skM9vDRapz5uN_38.690869_-75.384909@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220851,
+    "wof:geomhash":"0a1337bcdc43caacc14f0b2f44d109dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857701573
+        }
+    ],
+    "wof:id":857701573,
+    "wof:lastmodified":1464220851,
+    "wof:name":"Casapullos Al",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.384909,
+    38.690869,
+    -75.384909,
+    38.690869
+],
+  "geometry": {"coordinates":[-75.38490899999999,38.690869],"type":"Point"}
+}

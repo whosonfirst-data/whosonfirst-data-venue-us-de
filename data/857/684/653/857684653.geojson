@@ -1,0 +1,73 @@
+{
+  "id": 857684653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.683099,39.738272,-75.683099,39.738272",
+    "geom:latitude":39.738272,
+    "geom:longitude":-75.683099,
+    "iso:country":"US",
+    "sg:address":"16 Woodward Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 683 9300",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K2hfIevjTNcrATQZzeefL_39.738272_-75.683099@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220516,
+    "wof:geomhash":"34e84246762a2cbfc87df5ece0b25048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":857684653
+        }
+    ],
+    "wof:id":857684653,
+    "wof:lastmodified":1464220516,
+    "wof:name":"Adaptivemallcom",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall",
+        "shopping",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.683099,
+    39.738272,
+    -75.683099,
+    39.738272
+],
+  "geometry": {"coordinates":[-75.683099,39.738272],"type":"Point"}
+}

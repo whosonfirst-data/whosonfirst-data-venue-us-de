@@ -1,0 +1,70 @@
+{
+  "id": 873518375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.583038,39.750301,-75.583038,39.750301",
+    "geom:latitude":39.750301,
+    "geom:longitude":-75.583038,
+    "iso:country":"US",
+    "sg:address":"2801 Lancaster Ave Ste A",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 426 1004",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan"
+    ],
+    "sg:website":"http://www.ezloansdelmarva.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jG6nJ5sPF3BLyyamUavZF_39.750301_-75.583038@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223809,
+    "wof:geomhash":"ef2c6df32fbde7d1324b9e297fdadefd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518375
+        }
+    ],
+    "wof:id":873518375,
+    "wof:lastmodified":1464223809,
+    "wof:name":"EZ Loans",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -75.583038,
+    39.750301,
+    -75.583038,
+    39.750301
+],
+  "geometry": {"coordinates":[-75.583038,39.750301],"type":"Point"}
+}

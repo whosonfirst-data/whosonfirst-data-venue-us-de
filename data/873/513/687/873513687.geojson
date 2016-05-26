@@ -1,0 +1,72 @@
+{
+  "id": 873513687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.051802,38.456177,-75.051802,38.456177",
+    "geom:latitude":38.456177,
+    "geom:longitude":-75.051802,
+    "iso:country":"US",
+    "sg:address":"601 Coastal Hwy",
+    "sg:city":"Fenwick Island",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/selbyville-frankford/268012-nantuckets-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 362 3463",
+    "sg:postcode":"19944",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lKMZDulEOQue8L2OR9eKD_38.456177_-75.051802@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223543,
+    "wof:geomhash":"65e1a046d3f629918978f956ad2cb625",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873513687
+        }
+    ],
+    "wof:id":873513687,
+    "wof:lastmodified":1464223543,
+    "wof:name":"Nantuckets Restaurant",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.051802,
+    38.456177,
+    -75.051802,
+    38.456177
+],
+  "geometry": {"coordinates":[-75.051802,38.456177],"type":"Point"}
+}

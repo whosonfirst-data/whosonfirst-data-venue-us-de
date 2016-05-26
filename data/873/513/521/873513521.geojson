@@ -1,0 +1,74 @@
+{
+  "id": 873513521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.623349,39.737369,-75.623349,39.737369",
+    "geom:latitude":39.737369,
+    "geom:longitude":-75.623349,
+    "iso:country":"US",
+    "sg:address":"3130 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lower-christiana/152632-boston-market/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 1602",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59YDvUi9ZxpCgZABZlpDwR_39.737369_-75.623349@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223533,
+    "wof:geomhash":"322a45d0ae9b7a7e27ee809e6e9bb627",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873513521
+        }
+    ],
+    "wof:id":873513521,
+    "wof:lastmodified":1464223533,
+    "wof:name":"Boston Market",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barbecue",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -75.623349,
+    39.737369,
+    -75.623349,
+    39.737369
+],
+  "geometry": {"coordinates":[-75.623349,39.737369],"type":"Point"}
+}

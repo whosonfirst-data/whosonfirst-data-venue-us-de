@@ -1,0 +1,73 @@
+{
+  "id": 873500583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549635,39.205103,-75.549635,39.205103",
+    "geom:latitude":39.205103,
+    "geom:longitude":-75.549635,
+    "iso:country":"US",
+    "sg:address":"240 Greenwich Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 1670",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "life",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MCJBqSC6SsSfxWBGYyw3v_39.205103_-75.549635@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222961,
+    "wof:geomhash":"1a8a97904561c58c9310402fb4d05567",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873500583
+        }
+    ],
+    "wof:id":873500583,
+    "wof:lastmodified":1464222961,
+    "wof:name":"Leininger Insurance Group",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "life",
+        "health"
+    ]
+},
+  "bbox": [
+    -75.549635,
+    39.205103,
+    -75.549635,
+    39.205103
+],
+  "geometry": {"coordinates":[-75.54963499999999,39.205103],"type":"Point"}
+}

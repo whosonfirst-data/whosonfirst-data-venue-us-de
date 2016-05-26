@@ -1,0 +1,71 @@
+{
+  "id": 873476489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.614681,39.15563,-75.614681,39.15563",
+    "geom:latitude":39.15563,
+    "geom:longitude":-75.614681,
+    "iso:country":"US",
+    "sg:address":"4019 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 0176",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DOBmJ8dDTPCZHj0eIvD49_39.155630_-75.614681@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221966,
+    "wof:geomhash":"18ae62ce011cd1ffac590a82a2dddaa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873476489
+        }
+    ],
+    "wof:id":873476489,
+    "wof:lastmodified":1464221966,
+    "wof:name":"Coast Guard United States",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -75.614681,
+    39.15563,
+    -75.614681,
+    39.15563
+],
+  "geometry": {"coordinates":[-75.614681,39.15563],"type":"Point"}
+}

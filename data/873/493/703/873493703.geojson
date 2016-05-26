@@ -1,0 +1,71 @@
+{
+  "id": 873493703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5327,39.808795,-75.5327,39.808795",
+    "geom:latitude":39.808795,
+    "geom:longitude":-75.5327,
+    "iso:country":"US",
+    "sg:address":"3205 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 888 5900",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EofXuGakzwuPUGxVKsoEM_39.808795_-75.532700@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222637,
+    "wof:geomhash":"2a6c35d5ccae1e3fe3303b8419757608",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873493703
+        }
+    ],
+    "wof:id":873493703,
+    "wof:lastmodified":1464222637,
+    "wof:name":"Essential Communications Inc",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.5327,
+    39.808795,
+    -75.5327,
+    39.808795
+],
+  "geometry": {"coordinates":[-75.53270000000001,39.808795],"type":"Point"}
+}

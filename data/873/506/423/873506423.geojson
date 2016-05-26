@@ -1,0 +1,69 @@
+{
+  "id": 873506423,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.641208,39.71556,-75.641208,39.71556",
+    "geom:latitude":39.71556,
+    "geom:longitude":-75.641208,
+    "iso:country":"US",
+    "sg:address":"2205 W Newport Pike",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 7284",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PS0cewBEvkBtXDHRVkRo6_39.715560_-75.641208@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223213,
+    "wof:geomhash":"5408bd64a798fe86aef9c350f67bbee2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873506423
+        }
+    ],
+    "wof:id":873506423,
+    "wof:lastmodified":1464223213,
+    "wof:name":"Stanton Pizza & Beer",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.641208,
+    39.71556,
+    -75.641208,
+    39.71556
+],
+  "geometry": {"coordinates":[-75.64120800000001,39.71556],"type":"Point"}
+}

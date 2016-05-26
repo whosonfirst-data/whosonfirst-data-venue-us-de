@@ -1,0 +1,75 @@
+{
+  "id": 873523147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565514,39.183052,-75.565514,39.183052",
+    "geom:latitude":39.183052,
+    "geom:longitude":-75.565514,
+    "iso:country":"US",
+    "sg:address":"253 Meadow Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 5690",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85852037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Faa4DhTqUWrG6TguNLX2h_39.183052_-75.565514@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224010,
+    "wof:geomhash":"38e23fb4a4d5f1839233feb5c47c6943",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85852037,
+            "region_id":85688611,
+            "venue_id":873523147
+        }
+    ],
+    "wof:id":873523147,
+    "wof:lastmodified":1464224010,
+    "wof:name":"Winston Awadzi Dr",
+    "wof:parent_id":85852037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.565514,
+    39.183052,
+    -75.565514,
+    39.183052
+],
+  "geometry": {"coordinates":[-75.56551399999999,39.183052],"type":"Point"}
+}

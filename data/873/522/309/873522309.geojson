@@ -1,0 +1,73 @@
+{
+  "id": 873522309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610497,39.1791,-75.610497,39.1791",
+    "geom:latitude":39.1791,
+    "geom:longitude":-75.610497,
+    "iso:country":"US",
+    "sg:address":"108 Omni Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4896",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77WSbL88iEBLdl8irnXnMx_39.179100_-75.610497@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223976,
+    "wof:geomhash":"72c9b5c69816e1b98ce4b3cdd74b6039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522309
+        }
+    ],
+    "wof:id":873522309,
+    "wof:lastmodified":1464223976,
+    "wof:name":"Chikes & Son Automotive",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.610497,
+    39.1791,
+    -75.610497,
+    39.1791
+],
+  "geometry": {"coordinates":[-75.610497,39.1791],"type":"Point"}
+}

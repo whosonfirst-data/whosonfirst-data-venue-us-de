@@ -1,0 +1,74 @@
+{
+  "id": 873518677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586983,39.761768,-75.586983,39.761768",
+    "geom:latitude":39.761768,
+    "geom:longitude":-75.586983,
+    "iso:country":"US",
+    "sg:address":"900 N Dupont Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 1066",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PqtvPjCnADNo32CBihpem_39.761768_-75.586983@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223823,
+    "wof:geomhash":"f79554c79037054ae0c0466fd851e691",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518677
+        }
+    ],
+    "wof:id":873518677,
+    "wof:lastmodified":1464223823,
+    "wof:name":"Baron Fini Usa Ltd",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.586983,
+    39.761768,
+    -75.586983,
+    39.761768
+],
+  "geometry": {"coordinates":[-75.586983,39.761768],"type":"Point"}
+}

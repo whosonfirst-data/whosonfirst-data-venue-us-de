@@ -1,0 +1,83 @@
+{
+  "id": 873473147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553947,39.731235,-75.553947,39.731235",
+    "geom:latitude":39.731235,
+    "geom:longitude":-75.553947,
+    "iso:country":"US",
+    "sg:address":"524 S Walnut St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 7786",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YuhMo7lYlzYHyZVla8PM9_39.731235_-75.553947@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221852,
+    "wof:geomhash":"ef546dad8c544cd2b19c88bea8b96b31",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873473147
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":873473147
+        }
+    ],
+    "wof:id":873473147,
+    "wof:lastmodified":1464221852,
+    "wof:name":"Diamond Chemical & Supply Co",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.553947,
+    39.731235,
+    -75.553947,
+    39.731235
+],
+  "geometry": {"coordinates":[-75.55394699999999,39.731235],"type":"Point"}
+}

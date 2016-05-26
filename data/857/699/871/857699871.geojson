@@ -1,0 +1,71 @@
+{
+  "id": 857699871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675658,39.69094,-75.675658,39.69094",
+    "geom:latitude":39.69094,
+    "geom:longitude":-75.675658,
+    "iso:country":"US",
+    "sg:address":"100 Hygeia Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 1151",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "blood",
+        "bank"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a5KNbmDj5bjEsSqMOB0Mk_39.690940_-75.675658@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220810,
+    "wof:geomhash":"bcfc5099b758fdc804c8867cfcfad85c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857699871
+        }
+    ],
+    "wof:id":857699871,
+    "wof:lastmodified":1464220810,
+    "wof:name":"Blood Bank of Delaware Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "blood",
+        "bank"
+    ]
+},
+  "bbox": [
+    -75.675658,
+    39.69094,
+    -75.675658,
+    39.69094
+],
+  "geometry": {"coordinates":[-75.675658,39.69094],"type":"Point"}
+}

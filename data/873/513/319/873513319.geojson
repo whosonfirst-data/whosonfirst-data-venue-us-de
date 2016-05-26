@@ -1,0 +1,89 @@
+{
+  "id": 873513319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592671,39.67766,-75.592671,39.67766",
+    "geom:latitude":39.67766,
+    "geom:longitude":-75.592671,
+    "iso:country":"US",
+    "sg:address":"196 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/130284-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 9733",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SS6t2WCY8Stax7oXB18AL_39.677660_-75.592671@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223525,
+    "wof:geomhash":"1b17ac8c4e8f40b52c5f2c5b65e8212e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873513319
+        }
+    ],
+    "wof:id":873513319,
+    "wof:lastmodified":1464223525,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.592671,
+    39.67766,
+    -75.592671,
+    39.67766
+],
+  "geometry": {"coordinates":[-75.592671,39.67766],"type":"Point"}
+}

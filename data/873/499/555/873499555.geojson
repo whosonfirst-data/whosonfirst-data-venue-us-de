@@ -1,0 +1,73 @@
+{
+  "id": 873499555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555754,39.236333,-75.555754,39.236333",
+    "geom:latitude":39.236333,
+    "geom:longitude":-75.555754,
+    "iso:country":"US",
+    "sg:address":"1338 Fast Landing Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 6142",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35MbV9TXCPvqFFTsYIeEVR_39.236333_-75.555754@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222921,
+    "wof:geomhash":"8cebd8f6164834a685c497892def2c57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873499555
+        }
+    ],
+    "wof:id":873499555,
+    "wof:lastmodified":1464222921,
+    "wof:name":"Vincent Severson",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.555754,
+    39.236333,
+    -75.555754,
+    39.236333
+],
+  "geometry": {"coordinates":[-75.55575399999999,39.236333],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873470255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604505,39.299651,-75.604505,39.299651",
+    "geom:latitude":39.299651,
+    "geom:longitude":-75.604505,
+    "iso:country":"US",
+    "sg:address":"112 S Main St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2560",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30wBdKTSgu8xYSBeQbtiS1_39.299651_-75.604505@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221739,
+    "wof:geomhash":"38844c05e0619d3924aea5eaedfd8744",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873470255
+        }
+    ],
+    "wof:id":873470255,
+    "wof:lastmodified":1464221739,
+    "wof:name":"Chem-Tex Corp",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.604505,
+    39.299651,
+    -75.604505,
+    39.299651
+],
+  "geometry": {"coordinates":[-75.604505,39.299651],"type":"Point"}
+}

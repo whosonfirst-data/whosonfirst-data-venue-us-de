@@ -1,0 +1,75 @@
+{
+  "id": 857703673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.587548,39.270317,-75.587548,39.270317",
+    "geom:latitude":39.270317,
+    "geom:longitude":-75.587548,
+    "iso:country":"US",
+    "sg:address":"325 Big Oak Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 6113",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vI0CyWVVqxEBKqFuPsjp5_39.270317_-75.587548@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220889,
+    "wof:geomhash":"692a4422a6ad388f30df03dea361542a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857703673
+        }
+    ],
+    "wof:id":857703673,
+    "wof:lastmodified":1464220889,
+    "wof:name":"Big Oak Dog Kennels",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -75.587548,
+    39.270317,
+    -75.587548,
+    39.270317
+],
+  "geometry": {"coordinates":[-75.587548,39.270317],"type":"Point"}
+}

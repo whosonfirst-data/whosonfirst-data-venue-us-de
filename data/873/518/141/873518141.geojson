@@ -1,0 +1,70 @@
+{
+  "id": 873518141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539755,39.796021,-75.539755,39.796021",
+    "geom:latitude":39.796021,
+    "geom:longitude":-75.539755,
+    "iso:country":"US",
+    "sg:address":"210 Cordon Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 8844",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrician"
+    ],
+    "sg:website":"www.eichholzservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u2v7XS9RVEwWhowKINjyH_39.796021_-75.539755@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223800,
+    "wof:geomhash":"f6293652c4cafd121a8e5cde2f3affd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873518141
+        }
+    ],
+    "wof:id":873518141,
+    "wof:lastmodified":1464223800,
+    "wof:name":"Eichholz Services",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -75.539755,
+    39.796021,
+    -75.539755,
+    39.796021
+],
+  "geometry": {"coordinates":[-75.539755,39.796021],"type":"Point"}
+}

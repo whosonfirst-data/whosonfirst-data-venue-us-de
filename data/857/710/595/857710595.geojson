@@ -1,0 +1,69 @@
+{
+  "id": 857710595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.687454,39.709796,-75.687454,39.709796",
+    "geom:latitude":39.709796,
+    "geom:longitude":-75.687454,
+    "iso:country":"US",
+    "sg:address":"115 Forsythia Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 8001",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y9K8bjLzBNYvgh2ccLPzA_39.709796_-75.687454@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221044,
+    "wof:geomhash":"9fefcbb32d5bad0f5cfd0f9630a09b18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857710595
+        }
+    ],
+    "wof:id":857710595,
+    "wof:lastmodified":1464221044,
+    "wof:name":"McLean Co Cleaning",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.687454,
+    39.709796,
+    -75.687454,
+    39.709796
+],
+  "geometry": {"coordinates":[-75.687454,39.709796],"type":"Point"}
+}

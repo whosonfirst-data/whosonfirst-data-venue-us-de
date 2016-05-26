@@ -1,0 +1,85 @@
+{
+  "id": 873480319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558216,39.162044,-75.558216,39.162044",
+    "geom:latitude":39.162044,
+    "geom:longitude":-75.558216,
+    "iso:country":"US",
+    "sg:address":"151 Periwinkle Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5799",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4EUw9AklyZ1UPVbAhWen9U_39.162044_-75.558216@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222124,
+    "wof:geomhash":"8c8998e73782028ea3afa526fa46917b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873480319
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873480319
+        }
+    ],
+    "wof:id":873480319,
+    "wof:lastmodified":1464222124,
+    "wof:name":"Gulf Mart",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.558216,
+    39.162044,
+    -75.558216,
+    39.162044
+],
+  "geometry": {"coordinates":[-75.558216,39.162044],"type":"Point"}
+}

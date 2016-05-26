@@ -1,0 +1,77 @@
+{
+  "id": 857693463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537348,39.159426,-75.537348,39.159426",
+    "geom:latitude":39.159426,
+    "geom:longitude":-75.537348,
+    "iso:country":"US",
+    "sg:address":"101 Weston Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7340",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vxNKGzwZNtDX76iwLvoJe_39.159426_-75.537348@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220690,
+    "wof:geomhash":"e76fbac1fff0c2d1b0848b962d21bdbe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":857693463
+        }
+    ],
+    "wof:id":857693463,
+    "wof:lastmodified":1464220690,
+    "wof:name":"Motion Body",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.537348,
+    39.159426,
+    -75.537348,
+    39.159426
+],
+  "geometry": {"coordinates":[-75.53734799999999,39.159426],"type":"Point"}
+}

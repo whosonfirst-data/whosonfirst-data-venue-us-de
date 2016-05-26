@@ -1,0 +1,75 @@
+{
+  "id": 873520651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547508,39.169147,-75.547508,39.169147",
+    "geom:latitude":39.169147,
+    "geom:longitude":-75.547508,
+    "iso:country":"US",
+    "sg:address":"1047 Walker Road",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 7611",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gfH2juY6zaXxDA43TySI1_39.169147_-75.547508@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223912,
+    "wof:geomhash":"f4955df6f8d6aa4ee76cb56af5952972",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873520651
+        }
+    ],
+    "wof:id":873520651,
+    "wof:lastmodified":1464223912,
+    "wof:name":"Roma Pizza",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.547508,
+    39.169147,
+    -75.547508,
+    39.169147
+],
+  "geometry": {"coordinates":[-75.54750799999999,39.169147],"type":"Point"}
+}

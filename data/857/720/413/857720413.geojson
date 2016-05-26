@@ -1,0 +1,77 @@
+{
+  "id": 857720413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.471168,39.822495,-75.471168,39.822495",
+    "geom:latitude":39.822495,
+    "geom:longitude":-75.471168,
+    "iso:country":"US",
+    "sg:address":"1107 Cypress Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 9449",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fire",
+        "water",
+        "restoration",
+        "indoor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZHO3cq0DDOlPnbKlpc5uz_39.822495_-75.471168@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221257,
+    "wof:geomhash":"3f584db247c9bfa52318eaaf322474fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857720413
+        }
+    ],
+    "wof:id":857720413,
+    "wof:lastmodified":1464221257,
+    "wof:name":"Steamatic",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "water",
+        "restoration",
+        "indoor"
+    ]
+},
+  "bbox": [
+    -75.471168,
+    39.822495,
+    -75.471168,
+    39.822495
+],
+  "geometry": {"coordinates":[-75.47116800000001,39.822495],"type":"Point"}
+}

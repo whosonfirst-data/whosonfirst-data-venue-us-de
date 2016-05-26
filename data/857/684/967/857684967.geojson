@@ -1,0 +1,71 @@
+{
+  "id": 857684967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.690418,39.684635,-75.690418,39.684635",
+    "geom:latitude":39.684635,
+    "geom:longitude":-75.690418,
+    "iso:country":"US",
+    "sg:address":"8 Coronet Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 5431",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0P9TfTHiTOO4dPGwWwM9Ah_39.684635_-75.690418@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220521,
+    "wof:geomhash":"4dd403e426af91ec3353eeff4f40114b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857684967
+        }
+    ],
+    "wof:id":857684967,
+    "wof:lastmodified":1464220521,
+    "wof:name":"S V S Mobile Automobile Repair",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.690418,
+    39.684635,
+    -75.690418,
+    39.684635
+],
+  "geometry": {"coordinates":[-75.69041799999999,39.684635],"type":"Point"}
+}

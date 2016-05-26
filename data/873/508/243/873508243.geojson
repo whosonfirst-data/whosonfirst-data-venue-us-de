@@ -1,0 +1,73 @@
+{
+  "id": 873508243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602896,39.739077,-75.602896,39.739077",
+    "geom:latitude":39.739077,
+    "geom:longitude":-75.602896,
+    "iso:country":"US",
+    "sg:address":"1401 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 9011",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "package"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_472PvZtOhGWIreNFoeDyhP_39.739077_-75.602896@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223296,
+    "wof:geomhash":"47dc0a1fbe3c6a071922b6b640bdb2d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873508243
+        }
+    ],
+    "wof:id":873508243,
+    "wof:lastmodified":1464223296,
+    "wof:name":"Community Liquor Store",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "package"
+    ]
+},
+  "bbox": [
+    -75.602896,
+    39.739077,
+    -75.602896,
+    39.739077
+],
+  "geometry": {"coordinates":[-75.602896,39.739077],"type":"Point"}
+}

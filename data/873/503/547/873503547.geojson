@@ -1,0 +1,71 @@
+{
+  "id": 873503547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589518,39.749141,-75.589518,39.749141",
+    "geom:latitude":39.749141,
+    "geom:longitude":-75.589518,
+    "iso:country":"US",
+    "sg:address":"108 S Dupont Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5956",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "merchandise",
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MHKAIMkjsFFRKZgMIZURF_39.749141_-75.589518@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223084,
+    "wof:geomhash":"317293d9c1d9b5f7ebc6c97e6face7ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873503547
+        }
+    ],
+    "wof:id":873503547,
+    "wof:lastmodified":1464223084,
+    "wof:name":"Wilmington Monument Company",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise",
+        "monument"
+    ]
+},
+  "bbox": [
+    -75.589518,
+    39.749141,
+    -75.589518,
+    39.749141
+],
+  "geometry": {"coordinates":[-75.589518,39.749141],"type":"Point"}
+}

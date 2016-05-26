@@ -1,0 +1,79 @@
+{
+  "id": 873525207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603634,39.302349,-75.603634,39.302349",
+    "geom:latitude":39.302349,
+    "geom:longitude":-75.603634,
+    "iso:country":"US",
+    "sg:address":"19 S Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 8521",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "new"
+    ],
+    "sg:website":"http://www.chrysler.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0I3eld9rbBoZVQde7d86EA_39.302349_-75.603634@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224087,
+    "wof:geomhash":"c4a3243d4e20c7f8e7a786d28770f6dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525207
+        }
+    ],
+    "wof:id":873525207,
+    "wof:lastmodified":1464224087,
+    "wof:name":"Brandywine - Smyrna",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "new"
+    ]
+},
+  "bbox": [
+    -75.603634,
+    39.302349,
+    -75.603634,
+    39.302349
+],
+  "geometry": {"coordinates":[-75.603634,39.302349],"type":"Point"}
+}

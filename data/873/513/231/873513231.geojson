@@ -1,0 +1,72 @@
+{
+  "id": 873513231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.751463,39.655419,-75.751463,39.655419",
+    "geom:latitude":39.655419,
+    "geom:longitude":-75.751463,
+    "iso:country":"US",
+    "sg:address":"812 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/21130-malins-market/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 0431",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iV6uX2qPle4anNwsnCi5G_39.655419_-75.751463@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223522,
+    "wof:geomhash":"b1c44d0b57c41a016734ab9766568ecd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873513231
+        }
+    ],
+    "wof:id":873513231,
+    "wof:lastmodified":1464223522,
+    "wof:name":"Malins Market",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.751463,
+    39.655419,
+    -75.751463,
+    39.655419
+],
+  "geometry": {"coordinates":[-75.751463,39.655419],"type":"Point"}
+}

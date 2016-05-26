@@ -1,0 +1,71 @@
+{
+  "id": 873490555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.704469,38.95913,-75.704469,38.95913",
+    "geom:latitude":38.95913,
+    "geom:longitude":-75.704469,
+    "iso:country":"US",
+    "sg:address":"1273 Two Mile Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4561",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TEacMGmnRwiLMp7IyhP6g_38.959130_-75.704469@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222516,
+    "wof:geomhash":"93610df8f2a4f1103f5f41d8dbc76683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873490555
+        }
+    ],
+    "wof:id":873490555,
+    "wof:lastmodified":1464222516,
+    "wof:name":"Bayside Electric",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.704469,
+    38.95913,
+    -75.704469,
+    38.95913
+],
+  "geometry": {"coordinates":[-75.704469,38.95913],"type":"Point"}
+}

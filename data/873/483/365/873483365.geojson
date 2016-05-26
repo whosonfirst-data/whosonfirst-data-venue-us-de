@@ -1,0 +1,72 @@
+{
+  "id": 873483365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658534,39.676888,-75.658534,39.676888",
+    "geom:latitude":39.676888,
+    "geom:longitude":-75.658534,
+    "iso:country":"US",
+    "sg:address":"400 Christiana Medical Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 8700",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.osteorec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BoMqTNgabVzqdV1tkDOGi_39.676888_-75.658534@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222243,
+    "wof:geomhash":"5cd5830abfd96915b7c840f4334007ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873483365
+        }
+    ],
+    "wof:id":873483365,
+    "wof:lastmodified":1464222243,
+    "wof:name":"Osteoporosis Resource Ctr",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.658534,
+    39.676888,
+    -75.658534,
+    39.676888
+],
+  "geometry": {"coordinates":[-75.658534,39.676888],"type":"Point"}
+}

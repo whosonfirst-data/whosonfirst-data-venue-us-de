@@ -1,0 +1,69 @@
+{
+  "id": 857693021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59976,38.654302,-75.59976,38.654302",
+    "geom:latitude":38.654302,
+    "geom:longitude":-75.59976,
+    "iso:country":"US",
+    "sg:address":"122 Seaford Meadows Dr",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 6416",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_195nPlfeul1G2huHgIkhFu_38.654302_-75.599760@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220680,
+    "wof:geomhash":"124c60f3b95f15b01812b981124b8848",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857693021
+        }
+    ],
+    "wof:id":857693021,
+    "wof:lastmodified":1464220680,
+    "wof:name":"Seaford Meadows",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.59976,
+    38.654302,
+    -75.59976,
+    38.654302
+],
+  "geometry": {"coordinates":[-75.59976,38.654302],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873499781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.53958,39.093999,-75.53958,39.093999",
+    "geom:latitude":39.093999,
+    "geom:longitude":-75.53958,
+    "iso:country":"US",
+    "sg:address":"41 King Henry Ct",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 4961",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wkdeOFdYFGw2YMTtC3Ydo_39.093999_-75.539580@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222929,
+    "wof:geomhash":"38d961147c43f87c647834b4e965768a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873499781
+        }
+    ],
+    "wof:id":873499781,
+    "wof:lastmodified":1464222929,
+    "wof:name":"Robert M Blitzer DDS",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.53958,
+    39.093999,
+    -75.53958,
+    39.093999
+],
+  "geometry": {"coordinates":[-75.53958,39.093999],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873469937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.659905,39.760305,-75.659905,39.760305",
+    "geom:latitude":39.760305,
+    "geom:longitude":-75.659905,
+    "iso:country":"US",
+    "sg:address":"3510 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 8018",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2lksdTcn6Qkmmiq2Kbl0Ua_39.760305_-75.659905@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221727,
+    "wof:geomhash":"193f0d6ee3c1630ee233dd60732e68b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873469937
+        }
+    ],
+    "wof:id":873469937,
+    "wof:lastmodified":1464221727,
+    "wof:name":"Delta II Corp",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.659905,
+    39.760305,
+    -75.659905,
+    39.760305
+],
+  "geometry": {"coordinates":[-75.65990499999999,39.760305],"type":"Point"}
+}

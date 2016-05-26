@@ -1,0 +1,73 @@
+{
+  "id": 873473729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610258,39.303595,-75.610258,39.303595",
+    "geom:latitude":39.303595,
+    "geom:longitude":-75.610258,
+    "iso:country":"US",
+    "sg:address":"94 E Glenwood Ave",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 3712",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "testing",
+        "apparatus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sf3DBv5e7eXxmyHNQuu1V_39.303595_-75.610258@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221872,
+    "wof:geomhash":"9e8bb8e48c12d46cf82ed857b1e44eb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873473729
+        }
+    ],
+    "wof:id":873473729,
+    "wof:lastmodified":1464221872,
+    "wof:name":"DSO Test",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing",
+        "apparatus"
+    ]
+},
+  "bbox": [
+    -75.610258,
+    39.303595,
+    -75.610258,
+    39.303595
+],
+  "geometry": {"coordinates":[-75.610258,39.303595],"type":"Point"}
+}

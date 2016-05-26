@@ -1,0 +1,68 @@
+{
+  "id": 873522751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55049,39.151363,-75.55049,39.151363",
+    "geom:latitude":39.151363,
+    "geom:longitude":-75.55049,
+    "iso:country":"US",
+    "sg:address":"195 Commerce Way",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1511",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ln9dzMun5aYCusLRocARq_39.151363_-75.550490@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223997,
+    "wof:geomhash":"32931911f8e57c1045c44fcb4975401e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873522751
+        }
+    ],
+    "wof:id":873522751,
+    "wof:lastmodified":1464223997,
+    "wof:name":"Dover Laundry & Dry Cleaners Incorporated",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.55049,
+    39.151363,
+    -75.55049,
+    39.151363
+],
+  "geometry": {"coordinates":[-75.55049,39.151363],"type":"Point"}
+}

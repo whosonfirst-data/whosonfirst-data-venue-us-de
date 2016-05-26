@@ -1,0 +1,71 @@
+{
+  "id": 873509963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574103,39.764992,-75.574103,39.764992",
+    "geom:latitude":39.764992,
+    "geom:longitude":-75.574103,
+    "iso:country":"US",
+    "sg:address":"2629 W 19th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 1807",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NtQufqGdfYKYwdSOM6RvP_39.764992_-75.574103@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223376,
+    "wof:geomhash":"a3528e31b4d2c30f732eb30f0720a183",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873509963
+        }
+    ],
+    "wof:id":873509963,
+    "wof:lastmodified":1464223376,
+    "wof:name":"Mt Salem United Methodist Chr",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.574103,
+    39.764992,
+    -75.574103,
+    39.764992
+],
+  "geometry": {"coordinates":[-75.57410299999999,39.764992],"type":"Point"}
+}

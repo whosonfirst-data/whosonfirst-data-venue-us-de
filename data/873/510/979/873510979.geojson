@@ -1,0 +1,71 @@
+{
+  "id": 873510979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.49246,39.788752,-75.49246,39.788752",
+    "geom:latitude":39.788752,
+    "geom:longitude":-75.49246,
+    "iso:country":"US",
+    "sg:address":"38 N Cliffe Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 8551",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52VluW5sO4gl4BLBoIYSya_39.788752_-75.492460@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223418,
+    "wof:geomhash":"2b4198a40282463abb23410c8049c53c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":873510979
+        }
+    ],
+    "wof:id":873510979,
+    "wof:lastmodified":1464223418,
+    "wof:name":"P C Resource",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -75.49246,
+    39.788752,
+    -75.49246,
+    39.788752
+],
+  "geometry": {"coordinates":[-75.49245999999999,39.788752],"type":"Point"}
+}

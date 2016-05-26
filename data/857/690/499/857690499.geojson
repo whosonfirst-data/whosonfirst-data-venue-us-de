@@ -1,0 +1,73 @@
+{
+  "id": 857690499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5761,38.923311,-75.5761,38.923311",
+    "geom:latitude":38.923311,
+    "geom:longitude":-75.5761,
+    "iso:country":"US",
+    "sg:address":"10 Clark St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 6299",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_456ruLNNtBlfqIaJHoMh5E_38.923311_-75.576100@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220628,
+    "wof:geomhash":"7b2c5737e2df3b6f08d2c510a1f1670d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857690499
+        }
+    ],
+    "wof:id":857690499,
+    "wof:lastmodified":1464220628,
+    "wof:name":"Guy's Auto Sales",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.5761,
+    38.923311,
+    -75.5761,
+    38.923311
+],
+  "geometry": {"coordinates":[-75.5761,38.923311],"type":"Point"}
+}

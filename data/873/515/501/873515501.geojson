@@ -1,0 +1,73 @@
+{
+  "id": 873515501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.732502,39.679445,-75.732502,39.679445",
+    "geom:latitude":39.679445,
+    "geom:longitude":-75.732502,
+    "iso:country":"US",
+    "sg:address":"5 Innovation Way Ste 100",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 7030",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "development",
+        "electronics",
+        "technology-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N3W9SatOeYAyppykCmOFn_39.679445_-75.732502@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223645,
+    "wof:geomhash":"0a0eee444d0be9bf604b84787dc7fdd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515501
+        }
+    ],
+    "wof:id":873515501,
+    "wof:lastmodified":1464223645,
+    "wof:name":"Optrec",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "electronics",
+        "technology-research"
+    ]
+},
+  "bbox": [
+    -75.732502,
+    39.679445,
+    -75.732502,
+    39.679445
+],
+  "geometry": {"coordinates":[-75.732502,39.679445],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873471005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566104,39.750277,-75.566104,39.750277",
+    "geom:latitude":39.750277,
+    "geom:longitude":-75.566104,
+    "iso:country":"US",
+    "sg:address":"700 N Clayton St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 575 8040",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5u29NyP1A2CQzHu9yu9lYh_39.750277_-75.566104@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221768,
+    "wof:geomhash":"ac541a178783278e969f688a472fac6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873471005
+        }
+    ],
+    "wof:id":873471005,
+    "wof:lastmodified":1464221768,
+    "wof:name":"Tiney Steps",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -75.566104,
+    39.750277,
+    -75.566104,
+    39.750277
+],
+  "geometry": {"coordinates":[-75.566104,39.750277],"type":"Point"}
+}

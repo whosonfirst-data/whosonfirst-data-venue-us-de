@@ -1,0 +1,71 @@
+{
+  "id": 873496315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.649284,39.728305,-75.649284,39.728305",
+    "geom:latitude":39.728305,
+    "geom:longitude":-75.649284,
+    "iso:country":"US",
+    "sg:address":"3920 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6695",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "federal",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NFsvMcnMpBYiXOicmWe87_39.728305_-75.649284@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222791,
+    "wof:geomhash":"9d20d8b4073c63b56d8a4c33675474b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873496315
+        }
+    ],
+    "wof:id":873496315,
+    "wof:lastmodified":1464222791,
+    "wof:name":"US Marine Corps Training",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "federal",
+        "security"
+    ]
+},
+  "bbox": [
+    -75.649284,
+    39.728305,
+    -75.649284,
+    39.728305
+],
+  "geometry": {"coordinates":[-75.64928399999999,39.728305],"type":"Point"}
+}

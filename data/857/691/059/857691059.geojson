@@ -1,0 +1,69 @@
+{
+  "id": 857691059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.153944,38.760392,-75.153944,38.760392",
+    "geom:latitude":38.760392,
+    "geom:longitude":-75.153944,
+    "iso:country":"US",
+    "sg:address":"1307 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2666",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GonlczFtiVXPcsTF2asY2_38.760392_-75.153944@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220642,
+    "wof:geomhash":"5c4c0e80d03d2603b7fc9149cdc168ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857691059
+        }
+    ],
+    "wof:id":857691059,
+    "wof:lastmodified":1464220642,
+    "wof:name":"Antoinette M Ptak MD",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.153944,
+    38.760392,
+    -75.153944,
+    38.760392
+],
+  "geometry": {"coordinates":[-75.153944,38.760392],"type":"Point"}
+}

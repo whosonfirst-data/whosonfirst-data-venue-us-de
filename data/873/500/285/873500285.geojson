@@ -1,0 +1,64 @@
+{
+  "id": 873500285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578547,39.689536,-75.578547,39.689536",
+    "geom:latitude":39.689536,
+    "geom:longitude":-75.578547,
+    "iso:country":"US",
+    "sg:address":"1617 Matassino Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"School Buses",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 6673",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h4QvtxBoqTBVzOBQujRt3_39.689536_-75.578547@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222948,
+    "wof:geomhash":"109c6cd7bb4360660d5333f23ca48aa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873500285
+        }
+    ],
+    "wof:id":873500285,
+    "wof:lastmodified":1464222948,
+    "wof:name":"Transportation Department",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.578547,
+    39.689536,
+    -75.578547,
+    39.689536
+],
+  "geometry": {"coordinates":[-75.578547,39.689536],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873493653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.72656,39.687572,-75.72656,39.687572",
+    "geom:latitude":39.687572,
+    "geom:longitude":-75.72656,
+    "iso:country":"US",
+    "sg:address":"409 Stafford Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 4274",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b9r6vuBz1suUJ1RJFX5Tv_39.687572_-75.726560@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222634,
+    "wof:geomhash":"171d1d340d664fef93187b1a7c81af6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873493653
+        }
+    ],
+    "wof:id":873493653,
+    "wof:lastmodified":1464222634,
+    "wof:name":"Texaco",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.72656,
+    39.687572,
+    -75.72656,
+    39.687572
+],
+  "geometry": {"coordinates":[-75.72656000000001,39.687572],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873523443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.612699,38.738949,-75.612699,38.738949",
+    "geom:latitude":38.738949,
+    "geom:longitude":-75.612699,
+    "iso:country":"US",
+    "sg:address":"7451 Federalsburg Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8233",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313867405&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5H0RYySkLPA2U4L6nwbOMs_38.738949_-75.612699@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224020,
+    "wof:geomhash":"16657f08505c37b4300c221083439a2c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873523443
+        }
+    ],
+    "wof:id":873523443,
+    "wof:lastmodified":1464224020,
+    "wof:name":"Shark's Service Center",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [
+    -75.612699,
+    38.738949,
+    -75.612699,
+    38.738949
+],
+  "geometry": {"coordinates":[-75.61269900000001,38.738949],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873510157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601928,38.741002,-75.601928,38.741002",
+    "geom:latitude":38.741002,
+    "geom:longitude":-75.601928,
+    "iso:country":"US",
+    "sg:address":"300 Walnut St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 7354",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UgAXYh3Boh1k13DpxIAuE_38.741002_-75.601928@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223384,
+    "wof:geomhash":"686326078f2a77eb8199ec92407a7be5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873510157
+        }
+    ],
+    "wof:id":873510157,
+    "wof:lastmodified":1464223384,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.601928,
+    38.741002,
+    -75.601928,
+    38.741002
+],
+  "geometry": {"coordinates":[-75.601928,38.741002],"type":"Point"}
+}

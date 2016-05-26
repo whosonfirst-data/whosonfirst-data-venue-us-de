@@ -1,0 +1,73 @@
+{
+  "id": 873491731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561773,39.115936,-75.561773,39.115936",
+    "geom:latitude":39.115936,
+    "geom:longitude":-75.561773,
+    "iso:country":"US",
+    "sg:address":"204 Southern Blvd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3118",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "frozen",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BWH0eMNYAsSym5pszJ21c_39.115936_-75.561773@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222557,
+    "wof:geomhash":"fddc7c6b29037d427f00c1f6677a846e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873491731
+        }
+    ],
+    "wof:id":873491731,
+    "wof:lastmodified":1464222557,
+    "wof:name":"Quality Kitchen Corp",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.561773,
+    39.115936,
+    -75.561773,
+    39.115936
+],
+  "geometry": {"coordinates":[-75.561773,39.115936],"type":"Point"}
+}

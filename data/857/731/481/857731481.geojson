@@ -1,0 +1,71 @@
+{
+  "id": 857731481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548537,39.818324,-75.548537,39.818324",
+    "geom:latitude":39.818324,
+    "geom:longitude":-75.548537,
+    "iso:country":"US",
+    "sg:address":"4735 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 9691",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HBXBx7gILZGKERKnQwdeO_39.818324_-75.548537@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221467,
+    "wof:geomhash":"a57bb0b593937c7521b5d9e1827c549f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857731481
+        }
+    ],
+    "wof:id":857731481,
+    "wof:lastmodified":1464221467,
+    "wof:name":"T-Mobile",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -75.548537,
+    39.818324,
+    -75.548537,
+    39.818324
+],
+  "geometry": {"coordinates":[-75.548537,39.818324],"type":"Point"}
+}

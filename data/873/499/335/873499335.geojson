@@ -1,0 +1,69 @@
+{
+  "id": 873499335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.492896,39.832251,-75.492896,39.832251",
+    "geom:latitude":39.832251,
+    "geom:longitude":-75.492896,
+    "iso:country":"US",
+    "sg:address":"1903 Zebley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 0976",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85806713,
+        102080913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N99gG5JHNE5KKDQD6VJVK_39.832251_-75.492896@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222914,
+    "wof:geomhash":"fccab380f74d6a136bc6c314c5b47cdd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080913,
+            "neighbourhood_id":85806713,
+            "region_id":85688481,
+            "venue_id":873499335
+        }
+    ],
+    "wof:id":873499335,
+    "wof:lastmodified":1464222914,
+    "wof:name":"Bobbies Day Care",
+    "wof:parent_id":85806713,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.492896,
+    39.832251,
+    -75.492896,
+    39.832251
+],
+  "geometry": {"coordinates":[-75.492896,39.832251],"type":"Point"}
+}

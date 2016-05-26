@@ -1,0 +1,71 @@
+{
+  "id": 873480559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592726,38.689316,-75.592726,38.689316",
+    "geom:latitude":38.689316,
+    "geom:longitude":-75.592726,
+    "iso:country":"US",
+    "sg:address":"306 Sunnydale Ln",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 5345",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AFUDQtxhr7EGQoStnODxS_38.689316_-75.592726@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222135,
+    "wof:geomhash":"a302053611f67697f0037c20bd8ee157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873480559
+        }
+    ],
+    "wof:id":873480559,
+    "wof:lastmodified":1464222135,
+    "wof:name":"American Appraisal Assoc",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -75.592726,
+    38.689316,
+    -75.592726,
+    38.689316
+],
+  "geometry": {"coordinates":[-75.592726,38.689316],"type":"Point"}
+}

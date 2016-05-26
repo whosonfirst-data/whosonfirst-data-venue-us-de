@@ -1,0 +1,71 @@
+{
+  "id": 873474883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.620492,39.72717,-75.620492,39.72717",
+    "geom:latitude":39.72717,
+    "geom:longitude":-75.620492,
+    "iso:country":"US",
+    "sg:address":"1018 Liberty Rd",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 5644",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27I2mtyCTfl8YYRQWeDinB_39.727170_-75.620492@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221910,
+    "wof:geomhash":"e2aa28601212f675e9f9abba5ba7984c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873474883
+        }
+    ],
+    "wof:id":873474883,
+    "wof:lastmodified":1464221910,
+    "wof:name":"Trinney Auto Sales",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.620492,
+    39.72717,
+    -75.620492,
+    39.72717
+],
+  "geometry": {"coordinates":[-75.620492,39.72717],"type":"Point"}
+}

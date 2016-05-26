@@ -1,0 +1,72 @@
+{
+  "id": 873513577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505169,39.800226,-75.505169,39.800226",
+    "geom:latitude":39.800226,
+    "geom:longitude":-75.505169,
+    "iso:country":"US",
+    "sg:address":"1710 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/109731-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 2268",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iKEtJcp6DF20t5dMwZsz5_39.800226_-75.505169@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223537,
+    "wof:geomhash":"808b0b2c6425a3660dcd8482028234e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873513577
+        }
+    ],
+    "wof:id":873513577,
+    "wof:lastmodified":1464223537,
+    "wof:name":"Subway",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.505169,
+    39.800226,
+    -75.505169,
+    39.800226
+],
+  "geometry": {"coordinates":[-75.505169,39.800226],"type":"Point"}
+}

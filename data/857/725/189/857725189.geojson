@@ -1,0 +1,79 @@
+{
+  "id": 857725189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.715101,39.650324,-75.715101,39.650324",
+    "geom:latitude":39.650324,
+    "geom:longitude":-75.715101,
+    "iso:country":"US",
+    "sg:address":"78 Albe Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 3469",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GNIbqaqvnxqsa6LJ64ADK_39.650324_-75.715101@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221347,
+    "wof:geomhash":"e9949655edf4728fffe7c6ac0b42fd36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857725189
+        }
+    ],
+    "wof:id":857725189,
+    "wof:lastmodified":1464221347,
+    "wof:name":"Reeder's Auto",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.715101,
+    39.650324,
+    -75.715101,
+    39.650324
+],
+  "geometry": {"coordinates":[-75.715101,39.650324],"type":"Point"}
+}

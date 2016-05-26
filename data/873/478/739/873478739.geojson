@@ -1,0 +1,78 @@
+{
+  "id": 873478739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543309,39.73717,-75.543309,39.73717",
+    "geom:latitude":39.73717,
+    "geom:longitude":-75.543309,
+    "iso:country":"US",
+    "sg:address":"701 E 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 425 4245",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kuMLhE706E3FrlAeLShX4_39.737170_-75.543309@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222051,
+    "wof:geomhash":"4a0ed67789bec93b8f53a7b02bc46c45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873478739
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873478739
+        }
+    ],
+    "wof:id":873478739,
+    "wof:lastmodified":1464222051,
+    "wof:name":"Crab Truck Orignal",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.543309,
+    39.73717,
+    -75.543309,
+    39.73717
+],
+  "geometry": {"coordinates":[-75.54330899999999,39.73717],"type":"Point"}
+}

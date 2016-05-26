@@ -1,0 +1,73 @@
+{
+  "id": 857710451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.632427,39.290713,-75.632427,39.290713",
+    "geom:latitude":39.290713,
+    "geom:longitude":-75.632427,
+    "iso:country":"US",
+    "sg:address":"202 S Basset St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 9191",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6clufDAIKxE1EQGYDO97fw_39.290713_-75.632427@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221040,
+    "wof:geomhash":"9643db20476ac154f834693ca14200c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857710451
+        }
+    ],
+    "wof:id":857710451,
+    "wof:lastmodified":1464221040,
+    "wof:name":"Brothers Electrical Contractor",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.632427,
+    39.290713,
+    -75.632427,
+    39.290713
+],
+  "geometry": {"coordinates":[-75.63242700000001,39.290713],"type":"Point"}
+}

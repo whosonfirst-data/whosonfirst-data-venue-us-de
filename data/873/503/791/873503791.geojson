@@ -1,0 +1,71 @@
+{
+  "id": 873503791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.17472,38.741022,-75.17472,38.741022",
+    "geom:latitude":38.741022,
+    "geom:longitude":-75.17472,
+    "iso:country":"US",
+    "sg:address":"18365 Seashell Blvd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 7454",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "investigation",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21O9vxcwm2ZayLXcOC9gBk_38.741022_-75.174720@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223092,
+    "wof:geomhash":"152b5a59b3bcfec0e43b65f586bcdf0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873503791
+        }
+    ],
+    "wof:id":873503791,
+    "wof:lastmodified":1464223092,
+    "wof:name":"Hill Investigations",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigation",
+        "private"
+    ]
+},
+  "bbox": [
+    -75.17472,
+    38.741022,
+    -75.17472,
+    38.741022
+],
+  "geometry": {"coordinates":[-75.17471999999999,38.741022],"type":"Point"}
+}

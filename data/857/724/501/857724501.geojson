@@ -1,0 +1,71 @@
+{
+  "id": 857724501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.362679,38.655098,-75.362679,38.655098",
+    "geom:latitude":38.655098,
+    "geom:longitude":-75.362679,
+    "iso:country":"US",
+    "sg:address":"22445 Zoar Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7126",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photographer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mWpyGcuE5cCeRf6MGANQ9_38.655098_-75.362679@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221333,
+    "wof:geomhash":"0495ef30eee85d83a872565aeb43e3a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857724501
+        }
+    ],
+    "wof:id":857724501,
+    "wof:lastmodified":1464221333,
+    "wof:name":"Thomas E Short Jr",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer"
+    ]
+},
+  "bbox": [
+    -75.362679,
+    38.655098,
+    -75.362679,
+    38.655098
+],
+  "geometry": {"coordinates":[-75.362679,38.655098],"type":"Point"}
+}

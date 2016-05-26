@@ -1,0 +1,73 @@
+{
+  "id": 873480819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602288,39.713465,-75.602288,39.713465",
+    "geom:latitude":39.713465,
+    "geom:longitude":-75.602288,
+    "iso:country":"US",
+    "sg:address":"1624 E Ayre St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 1606",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rsHxDHQSxD9fSHx5dBHXS_39.713465_-75.602288@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222148,
+    "wof:geomhash":"8bc36c76dd7ca26f67b11237d8306670",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873480819
+        }
+    ],
+    "wof:id":873480819,
+    "wof:lastmodified":1464222148,
+    "wof:name":"Daniel D Rappa Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.602288,
+    39.713465,
+    -75.602288,
+    39.713465
+],
+  "geometry": {"coordinates":[-75.602288,39.713465],"type":"Point"}
+}

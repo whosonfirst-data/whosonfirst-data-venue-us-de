@@ -1,0 +1,71 @@
+{
+  "id": 873511503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546218,39.114527,-75.546218,39.114527",
+    "geom:latitude":39.114527,
+    "geom:longitude":-75.546218,
+    "iso:country":"US",
+    "sg:address":"10 S West St",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 5250",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1P3MccaUZ3lQGnXcn3P0C4_39.114287_-75.546382@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223441,
+    "wof:geomhash":"5c47cd6316d0fc8b14aa719d25a2d3b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873511503
+        }
+    ],
+    "wof:id":873511503,
+    "wof:lastmodified":1464223441,
+    "wof:name":"Elegant Images Llp",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.546218,
+    39.114527,
+    -75.546218,
+    39.114527
+],
+  "geometry": {"coordinates":[-75.546218,39.114527],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857686883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.150757,38.763356,-75.150757,38.763356",
+    "geom:latitude":38.763356,
+    "geom:longitude":-75.150757,
+    "iso:country":"US",
+    "sg:address":"1141 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 4543",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iaXA3Smd2pz871Z4Bcibx_38.763356_-75.150757@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220557,
+    "wof:geomhash":"cb55648c8800eb2032d7b5f88c6010bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857686883
+        }
+    ],
+    "wof:id":857686883,
+    "wof:lastmodified":1464220557,
+    "wof:name":"Hazzard Auto Repairs Inc",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.150757,
+    38.763356,
+    -75.150757,
+    38.763356
+],
+  "geometry": {"coordinates":[-75.150757,38.763356],"type":"Point"}
+}

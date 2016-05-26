@@ -1,0 +1,77 @@
+{
+  "id": 873515743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.738251,39.684292,-75.738251,39.684292",
+    "geom:latitude":39.684292,
+    "geom:longitude":-75.738251,
+    "iso:country":"US",
+    "sg:address":"1 Washington St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7010",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"http://www.prudentialproperties.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QqolyVuvIDDVbGrpVbuvJ_39.684292_-75.738251@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223654,
+    "wof:geomhash":"8d48ac7e87263f3247d158600951bda3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515743
+        }
+    ],
+    "wof:id":873515743,
+    "wof:lastmodified":1464223654,
+    "wof:name":"Prudential Carruthers Realtors",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.738251,
+    39.684292,
+    -75.738251,
+    39.684292
+],
+  "geometry": {"coordinates":[-75.73825100000001,39.684292],"type":"Point"}
+}

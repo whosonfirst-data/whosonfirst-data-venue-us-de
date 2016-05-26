@@ -1,0 +1,66 @@
+{
+  "id": 873475561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.624048,39.280442,-75.624048,39.280442",
+    "geom:latitude":39.280442,
+    "geom:longitude":-75.624048,
+    "iso:country":"US",
+    "sg:address":"44 Artisan Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 2727",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59xh9633lqNc6OeqmzszV6_39.280442_-75.624048@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221934,
+    "wof:geomhash":"919d8385534ec08328099edb2f3bb14b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873475561
+        }
+    ],
+    "wof:id":873475561,
+    "wof:lastmodified":1464221934,
+    "wof:name":"Bob Johnson's Computer Stuff",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.624048,
+    39.280442,
+    -75.624048,
+    39.280442
+],
+  "geometry": {"coordinates":[-75.624048,39.280442],"type":"Point"}
+}

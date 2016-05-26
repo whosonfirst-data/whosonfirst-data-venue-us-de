@@ -1,0 +1,71 @@
+{
+  "id": 857706097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589288,39.038927,-75.589288,39.038927",
+    "geom:latitude":39.038927,
+    "geom:longitude":-75.589288,
+    "iso:country":"US",
+    "sg:address":"937 W Evens Rd",
+    "sg:city":"Viola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9898",
+    "sg:postcode":"19979",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QpDrW2k7ruNBaWU86k8Q1_39.038927_-75.589288@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220934,
+    "wof:geomhash":"cecedd475c52f17697c1f35f83860eca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857706097
+        }
+    ],
+    "wof:id":857706097,
+    "wof:lastmodified":1464220934,
+    "wof:name":"Lamb's Photography",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -75.589288,
+    39.038927,
+    -75.589288,
+    39.038927
+],
+  "geometry": {"coordinates":[-75.589288,39.038927],"type":"Point"}
+}

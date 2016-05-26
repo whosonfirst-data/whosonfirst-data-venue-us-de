@@ -1,0 +1,69 @@
+{
+  "id": 873466883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57331,38.658823,-75.57331,38.658823",
+    "geom:latitude":38.658823,
+    "geom:longitude":-75.57331,
+    "iso:country":"US",
+    "sg:address":"24016 Snug Harbor Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 9899",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tree"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0R1ikhPCdFFIW0Ay3MAVNo_38.658823_-75.573310@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221614,
+    "wof:geomhash":"8bdd4db9a6bee9567dc12d6c9026f9fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873466883
+        }
+    ],
+    "wof:id":873466883,
+    "wof:lastmodified":1464221614,
+    "wof:name":"Sussex Tree Inc",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tree"
+    ]
+},
+  "bbox": [
+    -75.57331,
+    38.658823,
+    -75.57331,
+    38.658823
+],
+  "geometry": {"coordinates":[-75.57331000000001,38.658823],"type":"Point"}
+}

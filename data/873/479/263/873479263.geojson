@@ -1,0 +1,75 @@
+{
+  "id": 873479263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571845,39.748712,-75.571845,39.748712",
+    "geom:latitude":39.748712,
+    "geom:longitude":-75.571845,
+    "iso:country":"US",
+    "sg:address":"1802 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5822",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical",
+        "intermediate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03SyBn1pimnVzHWEGyWcdo_39.748712_-75.571845@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222075,
+    "wof:geomhash":"a4d3962f1452c50a377c2ce691a490ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873479263
+        }
+    ],
+    "wof:id":873479263,
+    "wof:lastmodified":1464222075,
+    "wof:name":"Westside Health",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "intermediate"
+    ]
+},
+  "bbox": [
+    -75.571845,
+    39.748712,
+    -75.571845,
+    39.748712
+],
+  "geometry": {"coordinates":[-75.571845,39.748712],"type":"Point"}
+}

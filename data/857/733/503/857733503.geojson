@@ -1,0 +1,84 @@
+{
+  "id": 857733503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.381292,38.692737,-75.381292,38.692737",
+    "geom:latitude":38.692737,
+    "geom:longitude":-75.381292,
+    "iso:country":"US",
+    "sg:address":"5 S King St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 4344",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alternative",
+        "clinic",
+        "abortion",
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EM6DohwzUz4bx47GzadgT_38.692737_-75.381292@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221510,
+    "wof:geomhash":"c53e14882e20e5b1c12e0a3e5629907a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857733503
+        }
+    ],
+    "wof:id":857733503,
+    "wof:lastmodified":1464221510,
+    "wof:name":"Sussex Pregnancy Care Center",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternative",
+        "clinic",
+        "abortion",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -75.381292,
+    38.692737,
+    -75.381292,
+    38.692737
+],
+  "geometry": {"coordinates":[-75.381292,38.692737],"type":"Point"}
+}

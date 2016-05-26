@@ -1,0 +1,69 @@
+{
+  "id": 857690111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592736,39.723699,-75.592736,39.723699",
+    "geom:latitude":39.723699,
+    "geom:longitude":-75.592736,
+    "iso:country":"US",
+    "sg:address":"630 S Maryland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 5892",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5p3tLt8fR7EYI63RhMkygi_39.723699_-75.592736@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220619,
+    "wof:geomhash":"8bcffaef4f214c7e6206691f6e909013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":857690111
+        }
+    ],
+    "wof:id":857690111,
+    "wof:lastmodified":1464220619,
+    "wof:name":"Boxwood Liquors Inc",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -75.592736,
+    39.723699,
+    -75.592736,
+    39.723699
+],
+  "geometry": {"coordinates":[-75.592736,39.723699],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857733215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.644832,39.138512,-75.644832,39.138512",
+    "geom:latitude":39.138512,
+    "geom:longitude":-75.644832,
+    "iso:country":"US",
+    "sg:address":"1282 Pearsons Corner Rd",
+    "sg:city":"Hartly",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 9338",
+    "sg:postcode":"19953",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zrp6qRKWk65gQekfsXMrH_39.138512_-75.644832@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221505,
+    "wof:geomhash":"a0c2a5ec6a48a61ac4b95958225efde8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":857733215
+        }
+    ],
+    "wof:id":857733215,
+    "wof:lastmodified":1464221505,
+    "wof:name":"Heat Relief Svc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.644832,
+    39.138512,
+    -75.644832,
+    39.138512
+],
+  "geometry": {"coordinates":[-75.64483199999999,39.138512],"type":"Point"}
+}

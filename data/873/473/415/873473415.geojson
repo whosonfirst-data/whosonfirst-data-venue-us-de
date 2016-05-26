@@ -1,0 +1,71 @@
+{
+  "id": 873473415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607449,39.64326,-75.607449,39.64326",
+    "geom:latitude":39.64326,
+    "geom:longitude":-75.607449,
+    "iso:country":"US",
+    "sg:address":"417 Llangollen Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 2198",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "exercising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ij3Edg2iKwKmfSxnhISd6_39.643260_-75.607449@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221861,
+    "wof:geomhash":"b525db1b51c793da6285dd7d4bedb1de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873473415
+        }
+    ],
+    "wof:id":873473415,
+    "wof:lastmodified":1464221861,
+    "wof:name":"Pet Partners",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "exercising"
+    ]
+},
+  "bbox": [
+    -75.607449,
+    39.64326,
+    -75.607449,
+    39.64326
+],
+  "geometry": {"coordinates":[-75.607449,39.64326],"type":"Point"}
+}

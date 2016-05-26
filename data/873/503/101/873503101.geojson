@@ -1,0 +1,77 @@
+{
+  "id": 873503101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.699487,39.648336,-75.699487,39.648336",
+    "geom:latitude":39.648336,
+    "geom:longitude":-75.699487,
+    "iso:country":"US",
+    "sg:address":"549 Old Baltimore Pike",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 894 9101",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MmRsT5xfXTjccWBV7hwwj_39.648336_-75.699487@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223069,
+    "wof:geomhash":"21123be80c398a9fa7b8d29bf058c9cb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873503101
+        }
+    ],
+    "wof:id":873503101,
+    "wof:lastmodified":1464223069,
+    "wof:name":"Patriot's Shaggy Shack",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -75.699487,
+    39.648336,
+    -75.699487,
+    39.648336
+],
+  "geometry": {"coordinates":[-75.699487,39.648336],"type":"Point"}
+}

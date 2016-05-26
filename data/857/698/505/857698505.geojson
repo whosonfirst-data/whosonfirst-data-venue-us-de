@@ -1,0 +1,69 @@
+{
+  "id": 857698505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549211,39.809205,-75.549211,39.809205",
+    "geom:latitude":39.809205,
+    "geom:longitude":-75.549211,
+    "iso:country":"US",
+    "sg:address":"3600 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 6272",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CsYVEQZQaxgvAKuYnqpYH_39.809205_-75.549211@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220783,
+    "wof:geomhash":"4e0d95324c7942fc9cd44cd7087928d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857698505
+        }
+    ],
+    "wof:id":857698505,
+    "wof:lastmodified":1464220783,
+    "wof:name":"Laboratory Corp Of America",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.549211,
+    39.809205,
+    -75.549211,
+    39.809205
+],
+  "geometry": {"coordinates":[-75.549211,39.809205],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873509901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746377,39.685665,-75.746377,39.685665",
+    "geom:latitude":39.685665,
+    "geom:longitude":-75.746377,
+    "iso:country":"US",
+    "sg:address":"45 New St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 1522",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55nSZy5MBns4ou95oPZXRx_39.685665_-75.746377@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223374,
+    "wof:geomhash":"f19f33ffabfd57a425bea4d7c497ab15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873509901
+        }
+    ],
+    "wof:id":873509901,
+    "wof:lastmodified":1464223374,
+    "wof:name":"Paige Excavating Company",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.746377,
+    39.685665,
+    -75.746377,
+    39.685665
+],
+  "geometry": {"coordinates":[-75.746377,39.685665],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873512341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607491,39.755989,-75.607491,39.755989",
+    "geom:latitude":39.755989,
+    "geom:longitude":-75.607491,
+    "iso:country":"US",
+    "sg:address":"974 Centre Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 5000",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "marketing",
+        "drug",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iXAWLFuMZuprJ4nmw6aoR_39.756433_-75.606679@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223488,
+    "wof:geomhash":"2b1566157b06f4b983248f7ee2d69381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873512341
+        }
+    ],
+    "wof:id":873512341,
+    "wof:lastmodified":1464223488,
+    "wof:name":"Bristol-Myers Squibb",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marketing",
+        "drug",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -75.607491,
+    39.755989,
+    -75.607491,
+    39.755989
+],
+  "geometry": {"coordinates":[-75.607491,39.755989],"type":"Point"}
+}

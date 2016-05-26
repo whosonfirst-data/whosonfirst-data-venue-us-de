@@ -1,0 +1,73 @@
+{
+  "id": 857717059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.591466,39.73393,-75.591466,39.73393",
+    "geom:latitude":39.73393,
+    "geom:longitude":-75.591466,
+    "iso:country":"US",
+    "sg:address":"422 B and O Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 0303",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14O2AT0IZWrzQulEi5wa7n_39.733930_-75.591466@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221185,
+    "wof:geomhash":"5265ca8f0bb6aa719770171340d1f13e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":857717059
+        }
+    ],
+    "wof:id":857717059,
+    "wof:lastmodified":1464221185,
+    "wof:name":"Wampler Clearners",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -75.591466,
+    39.73393,
+    -75.591466,
+    39.73393
+],
+  "geometry": {"coordinates":[-75.591466,39.73393],"type":"Point"}
+}

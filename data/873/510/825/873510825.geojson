@@ -1,0 +1,73 @@
+{
+  "id": 873510825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.051503,38.452876,-75.051503,38.452876",
+    "geom:latitude":38.452876,
+    "geom:longitude":-75.051503,
+    "iso:country":"US",
+    "sg:address":"7 Delaware Ave",
+    "sg:city":"Fenwick Island",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 9611",
+    "sg:postcode":"19944",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00fvNOYNC1R1rgJCGXD3NL_38.452876_-75.051503@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223412,
+    "wof:geomhash":"208f6fa73d60f3a21e852c383cb90f86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873510825
+        }
+    ],
+    "wof:id":873510825,
+    "wof:lastmodified":1464223412,
+    "wof:name":"Gryphon Electric",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.051503,
+    38.452876,
+    -75.051503,
+    38.452876
+],
+  "geometry": {"coordinates":[-75.051503,38.452876],"type":"Point"}
+}

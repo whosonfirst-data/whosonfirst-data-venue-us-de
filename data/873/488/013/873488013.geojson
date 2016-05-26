@@ -1,0 +1,76 @@
+{
+  "id": 873488013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.581865,39.68956,-75.581865,39.68956",
+    "geom:latitude":39.68956,
+    "geom:longitude":-75.581865,
+    "iso:country":"US",
+    "sg:address":"1416 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 8111",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gyb6ug0nOmhoXNPSPQNNZ_39.689560_-75.581865@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222422,
+    "wof:geomhash":"2dc0c31b2b26f9ceaa07d9ebce487193",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873488013
+        }
+    ],
+    "wof:id":873488013,
+    "wof:lastmodified":1464222422,
+    "wof:name":"Jackson Hewitt Tax Service",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -75.581865,
+    39.68956,
+    -75.581865,
+    39.68956
+],
+  "geometry": {"coordinates":[-75.58186499999999,39.68956],"type":"Point"}
+}

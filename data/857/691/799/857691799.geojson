@@ -1,0 +1,73 @@
+{
+  "id": 857691799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.088647,38.706753,-75.088647,38.706753",
+    "geom:latitude":38.706753,
+    "geom:longitude":-75.088647,
+    "iso:country":"US",
+    "sg:address":"3809 Hwy One",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 2774",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931597,
+        102083887,
+        85844243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SuSH1x4uSSP9HGs4oKJez_38.706753_-75.088647@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220658,
+    "wof:geomhash":"1ad57070ddd0255b400dca227dec3430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931597,
+            "neighbourhood_id":85844243,
+            "region_id":85688611,
+            "venue_id":857691799
+        }
+    ],
+    "wof:id":857691799,
+    "wof:lastmodified":1464220658,
+    "wof:name":"Rehoboth Beach Medical Care",
+    "wof:parent_id":85844243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -75.088647,
+    38.706753,
+    -75.088647,
+    38.706753
+],
+  "geometry": {"coordinates":[-75.08864699999999,38.706753],"type":"Point"}
+}

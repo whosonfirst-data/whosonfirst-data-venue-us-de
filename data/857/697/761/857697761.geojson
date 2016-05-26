@@ -1,0 +1,71 @@
+{
+  "id": 857697761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595855,39.776004,-75.595855,39.776004",
+    "geom:latitude":39.776004,
+    "geom:longitude":-75.595855,
+    "iso:country":"US",
+    "sg:address":"4001 Kennett Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 4880",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "announcement",
+        "invitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834895,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_370jbdl2tyrV2sTLw1ILWr_39.776004_-75.595855@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220769,
+    "wof:geomhash":"93344a42a71dee4ef85ec55b93193639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834895,
+            "region_id":85688611,
+            "venue_id":857697761
+        }
+    ],
+    "wof:id":857697761,
+    "wof:lastmodified":1464220769,
+    "wof:name":"Apropos",
+    "wof:parent_id":85834895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "announcement",
+        "invitation"
+    ]
+},
+  "bbox": [
+    -75.595855,
+    39.776004,
+    -75.595855,
+    39.776004
+],
+  "geometry": {"coordinates":[-75.595855,39.776004],"type":"Point"}
+}

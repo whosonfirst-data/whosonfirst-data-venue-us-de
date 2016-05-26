@@ -1,0 +1,71 @@
+{
+  "id": 873480639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566759,38.43282,-75.566759,38.43282",
+    "geom:latitude":38.43282,
+    "geom:longitude":-75.566759,
+    "iso:country":"US",
+    "sg:address":"8724 Bi State Blvd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 2300",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vFnvTNFeR9VrrCRVRMgzL_38.432820_-75.566759@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222140,
+    "wof:geomhash":"9d0fc949ddcf6460feb90842544e5596",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873480639
+        }
+    ],
+    "wof:id":873480639,
+    "wof:lastmodified":1464222140,
+    "wof:name":"Peninsula Remodeling Co",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -75.566759,
+    38.43282,
+    -75.566759,
+    38.43282
+],
+  "geometry": {"coordinates":[-75.566759,38.43282],"type":"Point"}
+}

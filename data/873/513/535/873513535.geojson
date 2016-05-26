@@ -1,0 +1,89 @@
+{
+  "id": 873513535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.665829,39.730973,-75.665829,39.730973",
+    "geom:latitude":39.730973,
+    "geom:longitude":-75.665829,
+    "iso:country":"US",
+    "sg:address":"1327 Mckennans Church Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/130317-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9551",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2eVr0zWpjWGN4jYWQD9h95_39.730973_-75.665829@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223535,
+    "wof:geomhash":"9ec82af2f1a7d48810829789281092ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873513535
+        }
+    ],
+    "wof:id":873513535,
+    "wof:lastmodified":1464223535,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.665829,
+    39.730973,
+    -75.665829,
+    39.730973
+],
+  "geometry": {"coordinates":[-75.665829,39.730973],"type":"Point"}
+}

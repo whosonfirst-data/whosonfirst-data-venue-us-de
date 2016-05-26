@@ -1,0 +1,71 @@
+{
+  "id": 873504275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539943,39.782164,-75.539943,39.782164",
+    "geom:latitude":39.782164,
+    "geom:longitude":-75.539943,
+    "iso:country":"US",
+    "sg:address":"410 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 6650",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39bst8EMu4KDcAxbqLrH98_39.782164_-75.539943@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223115,
+    "wof:geomhash":"0336793592d8848d432683244cbc0c9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873504275
+        }
+    ],
+    "wof:id":873504275,
+    "wof:lastmodified":1464223115,
+    "wof:name":"Priemer Primary Care",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.539943,
+    39.782164,
+    -75.539943,
+    39.782164
+],
+  "geometry": {"coordinates":[-75.53994299999999,39.782164],"type":"Point"}
+}

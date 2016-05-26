@@ -1,0 +1,71 @@
+{
+  "id": 873510293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.651645,39.727019,-75.651645,39.727019",
+    "geom:latitude":39.727019,
+    "geom:longitude":-75.651645,
+    "iso:country":"US",
+    "sg:address":"4304 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 0131",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZdY4LAFdDODLOT68Ot58S_39.727019_-75.651645@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223388,
+    "wof:geomhash":"4c83cab05bf9a60e523120082881b9c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873510293
+        }
+    ],
+    "wof:id":873510293,
+    "wof:lastmodified":1464223388,
+    "wof:name":"Smith Volkswagen LTD",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.651645,
+    39.727019,
+    -75.651645,
+    39.727019
+],
+  "geometry": {"coordinates":[-75.651645,39.727019],"type":"Point"}
+}

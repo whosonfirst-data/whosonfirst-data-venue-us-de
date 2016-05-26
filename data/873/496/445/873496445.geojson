@@ -1,0 +1,71 @@
+{
+  "id": 873496445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5732,38.452399,-75.5732,38.452399",
+    "geom:latitude":38.452399,
+    "geom:longitude":-75.5732,
+    "iso:country":"US",
+    "sg:address":"409 E Pine St",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 9118",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27Zuz7I86E9vqTqP9nnEoB_38.452399_-75.573200@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222796,
+    "wof:geomhash":"dd6abcb9ae16b4f2949772eae7379205",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873496445
+        }
+    ],
+    "wof:id":873496445,
+    "wof:lastmodified":1464222796,
+    "wof:name":"Nibletts Landscaping",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -75.5732,
+    38.452399,
+    -75.5732,
+    38.452399
+],
+  "geometry": {"coordinates":[-75.5732,38.452399],"type":"Point"}
+}

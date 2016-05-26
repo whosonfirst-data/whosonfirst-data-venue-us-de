@@ -1,0 +1,75 @@
+{
+  "id": 857728959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744682,39.705826,-75.744682,39.705826",
+    "geom:latitude":39.705826,
+    "geom:longitude":-75.744682,
+    "iso:country":"US",
+    "sg:address":"101 Odessa Way",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 1588",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zpGkkjZIXdAy8xjV4jDQF_39.705826_-75.744682@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221414,
+    "wof:geomhash":"71e8259d00f6669c8125c37f53a14a44",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":857728959
+        }
+    ],
+    "wof:id":857728959,
+    "wof:lastmodified":1464221414,
+    "wof:name":"M D M Properties",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.744682,
+    39.705826,
+    -75.744682,
+    39.705826
+],
+  "geometry": {"coordinates":[-75.744682,39.705826],"type":"Point"}
+}

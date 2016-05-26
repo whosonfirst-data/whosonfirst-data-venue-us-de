@@ -1,0 +1,73 @@
+{
+  "id": 873492799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626933,39.722828,-75.626933,39.722828",
+    "geom:latitude":39.722828,
+    "geom:longitude":-75.626933,
+    "iso:country":"US",
+    "sg:address":"218 Wardel Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 1870",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xDHO4DgWXeg1oRxqESZak_39.722828_-75.626933@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222593,
+    "wof:geomhash":"b71f66fda9633cdd393a311fb54c8725",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873492799
+        }
+    ],
+    "wof:id":873492799,
+    "wof:lastmodified":1464222593,
+    "wof:name":"Franks Auto/Caldwell Trucking",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.626933,
+    39.722828,
+    -75.626933,
+    39.722828
+],
+  "geometry": {"coordinates":[-75.62693299999999,39.722828],"type":"Point"}
+}

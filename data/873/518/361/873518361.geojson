@@ -1,0 +1,74 @@
+{
+  "id": 873518361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.560798,39.744289,-75.560798,39.744289",
+    "geom:latitude":39.744289,
+    "geom:longitude":-75.560798,
+    "iso:country":"US",
+    "sg:address":"1005 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 7656",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "variety"
+    ],
+    "sg:website":"http://www.familydollar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iZm3xxrBQadl6pshrBy6h_39.744289_-75.560798@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223808,
+    "wof:geomhash":"2c00400a9ed1353cd3397be7b6996cc7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873518361
+        }
+    ],
+    "wof:id":873518361,
+    "wof:lastmodified":1464223808,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "variety"
+    ]
+},
+  "bbox": [
+    -75.560798,
+    39.744289,
+    -75.560798,
+    39.744289
+],
+  "geometry": {"coordinates":[-75.56079800000001,39.744289],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873497131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522106,39.753469,-75.522106,39.753469",
+    "geom:latitude":39.753469,
+    "geom:longitude":-75.522106,
+    "iso:country":"US",
+    "sg:address":"3504 Governor Printz Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 7830",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hoQ0khA8t8jfblfhIdYWM_39.753469_-75.522106@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222828,
+    "wof:geomhash":"4fff788a014833eff43a2a7224e1d34b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873497131
+        }
+    ],
+    "wof:id":873497131,
+    "wof:lastmodified":1464222828,
+    "wof:name":"Central Transport Intl Inc",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.522106,
+    39.753469,
+    -75.522106,
+    39.753469
+],
+  "geometry": {"coordinates":[-75.52210599999999,39.753469],"type":"Point"}
+}

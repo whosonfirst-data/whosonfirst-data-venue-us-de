@@ -1,0 +1,105 @@
+{
+  "id": 873525227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606785,39.306114,-75.606785,39.306114",
+    "geom:latitude":39.306114,
+    "geom:longitude":-75.606785,
+    "iso:country":"US",
+    "sg:address":"302 N Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 0480",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engines-rebuild",
+        "exchange",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "truck",
+        "supplies-used",
+        "rebuilt",
+        "batteries-storage"
+    ],
+    "sg:website":"http://www.advanceautoparts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YkdTSwCUJ0HhPT0zLunlI_39.306114_-75.606785@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224088,
+    "wof:geomhash":"552806ef9eaf6954c10b9be4f8cb7630",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525227
+        }
+    ],
+    "wof:id":873525227,
+    "wof:lastmodified":1464224088,
+    "wof:name":"Advance Auto Parts",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engines-rebuild",
+        "exchange",
+        "battery",
+        "automobile",
+        "accessory",
+        "equipment",
+        "truck",
+        "supplies-used",
+        "rebuilt",
+        "batteries-storage"
+    ]
+},
+  "bbox": [
+    -75.606785,
+    39.306114,
+    -75.606785,
+    39.306114
+],
+  "geometry": {"coordinates":[-75.606785,39.306114],"type":"Point"}
+}

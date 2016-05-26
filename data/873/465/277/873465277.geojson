@@ -1,0 +1,69 @@
+{
+  "id": 873465277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.669894,39.757429,-75.669894,39.757429",
+    "geom:latitude":39.757429,
+    "geom:longitude":-75.669894,
+    "iso:country":"US",
+    "sg:address":"511 Riblett Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 1576",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1F3FiRTLBzcnfIm4UhFCRK_39.757429_-75.669894@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221574,
+    "wof:geomhash":"768ef756346b4ec02d6aab932598d718",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873465277
+        }
+    ],
+    "wof:id":873465277,
+    "wof:lastmodified":1464221574,
+    "wof:name":"Mazzettis Steaks & Subs",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.669894,
+    39.757429,
+    -75.669894,
+    39.757429
+],
+  "geometry": {"coordinates":[-75.669894,39.757429],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873473947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.500945,39.789959,-75.500945,39.789959",
+    "geom:latitude":39.789959,
+    "geom:longitude":-75.500945,
+    "iso:country":"US",
+    "sg:address":"1214 Heather Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 9002",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821991,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ku7qPl5mCeWSFG2tYnUCh_39.789959_-75.500945@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221879,
+    "wof:geomhash":"3dda4548154b851a65737a48028eabe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821991,
+            "region_id":85688611,
+            "venue_id":873473947
+        }
+    ],
+    "wof:id":873473947,
+    "wof:lastmodified":1464221879,
+    "wof:name":"Mullin Heating & AC",
+    "wof:parent_id":85821991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.500945,
+    39.789959,
+    -75.500945,
+    39.789959
+],
+  "geometry": {"coordinates":[-75.500945,39.789959],"type":"Point"}
+}

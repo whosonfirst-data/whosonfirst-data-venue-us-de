@@ -1,0 +1,75 @@
+{
+  "id": 873470667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606427,39.283881,-75.606427,39.283881",
+    "geom:latitude":39.283881,
+    "geom:longitude":-75.606427,
+    "iso:country":"US",
+    "sg:address":"509 S Carters Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 1829",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "refrigeration",
+        "conditioning",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UH4aQoknIUWEn5vsMJI8d_39.283881_-75.606427@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221754,
+    "wof:geomhash":"d30aa1ec4ed121eabb550920be03fc08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873470667
+        }
+    ],
+    "wof:id":873470667,
+    "wof:lastmodified":1464221754,
+    "wof:name":"Lantz Refrigeration",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "conditioning",
+        "air"
+    ]
+},
+  "bbox": [
+    -75.606427,
+    39.283881,
+    -75.606427,
+    39.283881
+],
+  "geometry": {"coordinates":[-75.606427,39.283881],"type":"Point"}
+}

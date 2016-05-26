@@ -1,0 +1,71 @@
+{
+  "id": 857689107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603894,39.713231,-75.603894,39.713231",
+    "geom:latitude":39.713231,
+    "geom:longitude":-75.603894,
+    "iso:country":"US",
+    "sg:address":"454 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 0770",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cW1dPiwqtEi9ZvQwsYPcf_39.713231_-75.603894@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220601,
+    "wof:geomhash":"e79702d1cc092e38a2abacd28af4b656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857689107
+        }
+    ],
+    "wof:id":857689107,
+    "wof:lastmodified":1464220601,
+    "wof:name":"J A Stuart Electrical Contrac",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.603894,
+    39.713231,
+    -75.603894,
+    39.713231
+],
+  "geometry": {"coordinates":[-75.603894,39.713231],"type":"Point"}
+}

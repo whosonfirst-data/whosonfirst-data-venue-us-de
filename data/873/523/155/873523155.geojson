@@ -1,0 +1,68 @@
+{
+  "id": 873523155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524077,39.148235,-75.524077,39.148235",
+    "geom:latitude":39.148235,
+    "geom:longitude":-75.524077,
+    "iso:country":"US",
+    "sg:address":"938 S Bradford St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 7155",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Cb5vaGIkvGVcncv6MoBoF_39.148235_-75.524077@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224011,
+    "wof:geomhash":"879d2a87f7b51f7c51b0770ea6e3f59d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873523155
+        }
+    ],
+    "wof:id":873523155,
+    "wof:lastmodified":1464224011,
+    "wof:name":"Kent Pulmonary Associates",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.524077,
+    39.148235,
+    -75.524077,
+    39.148235
+],
+  "geometry": {"coordinates":[-75.52407700000001,39.148235],"type":"Point"}
+}

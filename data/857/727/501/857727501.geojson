@@ -1,0 +1,73 @@
+{
+  "id": 857727501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60163,39.783465,-75.60163,39.783465",
+    "geom:latitude":39.783465,
+    "geom:longitude":-75.60163,
+    "iso:country":"US",
+    "sg:address":"4208 Kennett Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 1826",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "malt",
+        "beverage",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XIyK5ddYByTvBn0enoRSp_39.783465_-75.601630@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221387,
+    "wof:geomhash":"f3135c5611ee0aabd025e00b19e3d7f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":857727501
+        }
+    ],
+    "wof:id":857727501,
+    "wof:lastmodified":1464221387,
+    "wof:name":"Twin Lakes Brewing Co LP",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "malt",
+        "beverage",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.60163,
+    39.783465,
+    -75.60163,
+    39.783465
+],
+  "geometry": {"coordinates":[-75.60163,39.783465],"type":"Point"}
+}

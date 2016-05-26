@@ -1,0 +1,71 @@
+{
+  "id": 873472235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.414027,38.891127,-75.414027,38.891127",
+    "geom:latitude":38.891127,
+    "geom:longitude":-75.414027,
+    "iso:country":"US",
+    "sg:address":"618 Evans Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 1106",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Rbm2XrD5wQtv18Ep8xWDe_38.891127_-75.414027@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221814,
+    "wof:geomhash":"1ce134e49fe114c78bba7cc749b001db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873472235
+        }
+    ],
+    "wof:id":873472235,
+    "wof:lastmodified":1464221814,
+    "wof:name":"Jones Consulting",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -75.414027,
+    38.891127,
+    -75.414027,
+    38.891127
+],
+  "geometry": {"coordinates":[-75.414027,38.891127],"type":"Point"}
+}

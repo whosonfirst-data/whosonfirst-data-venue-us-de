@@ -1,0 +1,68 @@
+{
+  "id": 857697391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.743934,39.676849,-75.743934,39.676849",
+    "geom:latitude":39.676849,
+    "geom:longitude":-75.743934,
+    "iso:country":"US",
+    "sg:address":"197 S Chapel St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 0700",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Mo3fbUxqsiHZlWpOgU8r7_39.676849_-75.743934@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220763,
+    "wof:geomhash":"7fa6b1c2e727891e2c92cf322e914b69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":857697391
+        }
+    ],
+    "wof:id":857697391,
+    "wof:lastmodified":1464220763,
+    "wof:name":"Chapel Street Antiques",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.743934,
+    39.676849,
+    -75.743934,
+    39.676849
+],
+  "geometry": {"coordinates":[-75.743934,39.676849],"type":"Point"}
+}

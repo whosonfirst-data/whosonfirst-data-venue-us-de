@@ -1,0 +1,78 @@
+{
+  "id": 873504641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.666883,39.665035,-75.666883,39.665035",
+    "geom:latitude":39.665035,
+    "geom:longitude":-75.666883,
+    "iso:country":"US",
+    "sg:address":"600 Christiana Vlg Prof Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 2242",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "break",
+        "coffee",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77t9KSiiGva2ACahGV6i81_39.665035_-75.666883@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223135,
+    "wof:geomhash":"fa593c17696f8578feb455e68f2137d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873504641
+        }
+    ],
+    "wof:id":873504641,
+    "wof:lastmodified":1464223135,
+    "wof:name":"Action Coffee Svc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "break",
+        "coffee",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.666883,
+    39.665035,
+    -75.666883,
+    39.665035
+],
+  "geometry": {"coordinates":[-75.666883,39.665035],"type":"Point"}
+}

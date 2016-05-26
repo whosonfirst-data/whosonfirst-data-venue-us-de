@@ -1,0 +1,69 @@
+{
+  "id": 857699045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.521541,39.781175,-75.521541,39.781175",
+    "geom:latitude":39.781175,
+    "geom:longitude":-75.521541,
+    "iso:country":"US",
+    "sg:address":"1003 Weldin Cir",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 4201",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85845563,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OiuJzUeDTwgbg0Z39RQ0q_39.781175_-75.521541@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220792,
+    "wof:geomhash":"817ac522e6823517c9c51eb4f0b6ba39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85845563,
+            "region_id":85688611,
+            "venue_id":857699045
+        }
+    ],
+    "wof:id":857699045,
+    "wof:lastmodified":1464220792,
+    "wof:name":"Marc A Wooley MD",
+    "wof:parent_id":85845563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.521541,
+    39.781175,
+    -75.521541,
+    39.781175
+],
+  "geometry": {"coordinates":[-75.521541,39.781175],"type":"Point"}
+}

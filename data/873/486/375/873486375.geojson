@@ -1,0 +1,67 @@
+{
+  "id": 873486375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.052234,38.457455,-75.052234,38.457455",
+    "geom:latitude":38.457455,
+    "geom:longitude":-75.052234,
+    "iso:country":"US",
+    "sg:address":"701 Coastal Hwy",
+    "sg:city":"Fenwick Island",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 2077",
+    "sg:postcode":"19944",
+    "sg:province":"DE",
+    "sg:website":"www.royalfarms.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nFrSpXd09EtzhKpb36bhF_38.457455_-75.052234@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222356,
+    "wof:geomhash":"d07d3d9b10ac4fca0117772977b07b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873486375
+        }
+    ],
+    "wof:id":873486375,
+    "wof:lastmodified":1464222356,
+    "wof:name":"Royal Farms",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.052234,
+    38.457455,
+    -75.052234,
+    38.457455
+],
+  "geometry": {"coordinates":[-75.052234,38.457455],"type":"Point"}
+}

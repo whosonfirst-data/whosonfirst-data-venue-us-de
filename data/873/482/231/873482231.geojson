@@ -1,0 +1,74 @@
+{
+  "id": 873482231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.48132,39.804477,-75.48132,39.804477",
+    "geom:latitude":39.804477,
+    "geom:longitude":-75.48132,
+    "iso:country":"US",
+    "sg:address":"1400 Harvey Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 0555",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary",
+        "school"
+    ],
+    "sg:website":"www.wmsde.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_466IBM3ExqYTwVPPvQl5Fz_39.804477_-75.481320@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222202,
+    "wof:geomhash":"b424379e544abc0cc07887e57062d176",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873482231
+        }
+    ],
+    "wof:id":873482231,
+    "wof:lastmodified":1464222202,
+    "wof:name":"Wilmington Montessori School",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "school"
+    ]
+},
+  "bbox": [
+    -75.48132,
+    39.804477,
+    -75.48132,
+    39.804477
+],
+  "geometry": {"coordinates":[-75.48132,39.804477],"type":"Point"}
+}

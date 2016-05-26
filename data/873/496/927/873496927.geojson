@@ -1,0 +1,71 @@
+{
+  "id": 873496927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606582,39.74394,-75.606582,39.74394",
+    "geom:latitude":39.74394,
+    "geom:longitude":-75.606582,
+    "iso:country":"US",
+    "sg:address":"1517 Binder Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 6449",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5NvbrE5LFeDxU4sbgsvkmH_39.743940_-75.606582@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222821,
+    "wof:geomhash":"a876f4a9a2d123a80f7bb7a088ca116c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873496927
+        }
+    ],
+    "wof:id":873496927,
+    "wof:lastmodified":1464222821,
+    "wof:name":"Bartell Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.606582,
+    39.74394,
+    -75.606582,
+    39.74394
+],
+  "geometry": {"coordinates":[-75.606582,39.74394],"type":"Point"}
+}

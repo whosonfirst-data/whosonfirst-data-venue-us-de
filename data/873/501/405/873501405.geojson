@@ -1,0 +1,71 @@
+{
+  "id": 873501405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548941,39.805456,-75.548941,39.805456",
+    "geom:latitude":39.805456,
+    "geom:longitude":-75.548941,
+    "iso:country":"US",
+    "sg:address":"3805 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8863",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39TMq90ODD4K0CQvBPWLgn_39.805456_-75.548941@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223005,
+    "wof:geomhash":"e46de93d4116ab86c3cef9429949a77a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873501405
+        }
+    ],
+    "wof:id":873501405,
+    "wof:lastmodified":1464223005,
+    "wof:name":"Precision Tune Auto Care",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.548941,
+    39.805456,
+    -75.548941,
+    39.805456
+],
+  "geometry": {"coordinates":[-75.548941,39.805456],"type":"Point"}
+}

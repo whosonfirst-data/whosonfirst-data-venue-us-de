@@ -1,0 +1,69 @@
+{
+  "id": 857725685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.077042,38.691735,-75.077042,38.691735",
+    "geom:latitude":38.691735,
+    "geom:longitude":-75.077042,
+    "iso:country":"US",
+    "sg:address":"126 Read St",
+    "sg:city":"Dewey Beach",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 8534",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85803179,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xDn6vmqf7RQG9WEwiPACu_38.691735_-75.077042@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221356,
+    "wof:geomhash":"5b03492f6482a72596d4f4bd2f9a53d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85803179,
+            "region_id":85688611,
+            "venue_id":857725685
+        }
+    ],
+    "wof:id":857725685,
+    "wof:lastmodified":1464221356,
+    "wof:name":"Snug Harbor Apartments",
+    "wof:parent_id":85803179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.077042,
+    38.691735,
+    -75.077042,
+    38.691735
+],
+  "geometry": {"coordinates":[-75.07704200000001,38.691735],"type":"Point"}
+}

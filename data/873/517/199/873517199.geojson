@@ -1,0 +1,74 @@
+{
+  "id": 873517199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547798,39.798901,-75.547798,39.798901",
+    "geom:latitude":39.798901,
+    "geom:longitude":-75.547798,
+    "iso:country":"US",
+    "sg:address":"2900 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Bicycle Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 9438",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bike"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uL93J3ENSzbPoRuXz3V5c_39.798901_-75.547798@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223738,
+    "wof:geomhash":"37d547790a23cb189271e1ba49f218d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517199
+        }
+    ],
+    "wof:id":873517199,
+    "wof:lastmodified":1464223738,
+    "wof:name":"Bike Line",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -75.547798,
+    39.798901,
+    -75.547798,
+    39.798901
+],
+  "geometry": {"coordinates":[-75.547798,39.798901],"type":"Point"}
+}

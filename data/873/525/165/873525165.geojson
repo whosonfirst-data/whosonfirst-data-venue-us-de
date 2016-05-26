@@ -1,0 +1,80 @@
+{
+  "id": 873525165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.229073,38.451321,-75.229073,38.451321",
+    "geom:latitude":38.451321,
+    "geom:longitude":-75.229073,
+    "iso:country":"US",
+    "sg:address":"9 Mason Dr",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 7060",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "toy",
+        "kites-retail",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EatvtuiKgxPYPIHtQUALU_38.451321_-75.229073@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224085,
+    "wof:geomhash":"5800a443f80dddbaad9b4d3e71a628da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525165
+        }
+    ],
+    "wof:id":873525165,
+    "wof:lastmodified":1464224085,
+    "wof:name":"Kites Tails & Toys Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "kites-retail",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.229073,
+    38.451321,
+    -75.229073,
+    38.451321
+],
+  "geometry": {"coordinates":[-75.229073,38.451321],"type":"Point"}
+}

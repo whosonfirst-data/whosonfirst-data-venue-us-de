@@ -1,0 +1,85 @@
+{
+  "id": 873496457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.079195,38.716137,-75.079195,38.716137",
+    "geom:latitude":38.716137,
+    "geom:longitude":-75.079195,
+    "iso:country":"US",
+    "sg:address":"110 Rehoboth Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 5649",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "spa",
+        "day",
+        "store",
+        "miscellaneous"
+    ],
+    "sg:website":"www.avenueinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931597,
+        102083887,
+        85848725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CCLLih92xymv0v66qGccL_38.716137_-75.079195@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222797,
+    "wof:geomhash":"6058ccb795a15bf2a4e5af63110d1077",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931597,
+            "neighbourhood_id":85848725,
+            "region_id":85688611,
+            "venue_id":873496457
+        }
+    ],
+    "wof:id":873496457,
+    "wof:lastmodified":1464222797,
+    "wof:name":"Avenue Day Spa",
+    "wof:parent_id":85848725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "spa",
+        "day",
+        "store",
+        "miscellaneous"
+    ]
+},
+  "bbox": [
+    -75.079195,
+    38.716137,
+    -75.079195,
+    38.716137
+],
+  "geometry": {"coordinates":[-75.079195,38.716137],"type":"Point"}
+}

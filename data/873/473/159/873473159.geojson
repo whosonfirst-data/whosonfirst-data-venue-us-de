@@ -1,0 +1,71 @@
+{
+  "id": 873473159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601839,39.71949,-75.601839,39.71949",
+    "geom:latitude":39.71949,
+    "geom:longitude":-75.601839,
+    "iso:country":"US",
+    "sg:address":"505 Tyrone Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 8210",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33gRUUVua41tW84iePeotv_39.719490_-75.601839@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221852,
+    "wof:geomhash":"b9b8ce2fcade5606031f9c3c87e165dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873473159
+        }
+    ],
+    "wof:id":873473159,
+    "wof:lastmodified":1464221852,
+    "wof:name":"D P Contracting Inc",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.601839,
+    39.71949,
+    -75.601839,
+    39.71949
+],
+  "geometry": {"coordinates":[-75.601839,39.71949],"type":"Point"}
+}

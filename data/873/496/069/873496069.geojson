@@ -1,0 +1,74 @@
+{
+  "id": 873496069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567582,39.657629,-75.567582,39.657629",
+    "geom:latitude":39.657629,
+    "geom:longitude":-75.567582,
+    "iso:country":"US",
+    "sg:address":"110 W 3rd St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 325 9814",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "information"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39DCo2ynRhcr2dpyKgEX4o_39.657629_-75.567582@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222782,
+    "wof:geomhash":"dc014f57c97fbb745b0f3dd72b32628e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873496069
+        }
+    ],
+    "wof:id":873496069,
+    "wof:lastmodified":1464222782,
+    "wof:name":"Bittersweet Bears",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information"
+    ]
+},
+  "bbox": [
+    -75.567582,
+    39.657629,
+    -75.567582,
+    39.657629
+],
+  "geometry": {"coordinates":[-75.567582,39.657629],"type":"Point"}
+}

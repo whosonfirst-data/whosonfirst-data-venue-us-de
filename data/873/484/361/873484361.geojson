@@ -1,0 +1,73 @@
+{
+  "id": 873484361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.576665,39.690368,-75.576665,39.690368",
+    "geom:latitude":39.690368,
+    "geom:longitude":-75.576665,
+    "iso:country":"US",
+    "sg:address":"660 Baylor Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 577 3004",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JmzlqtiVcS9q4il2H6gd1_39.690368_-75.576665@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222283,
+    "wof:geomhash":"c8043f82d959011c0fc38551a39a3394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873484361
+        }
+    ],
+    "wof:id":873484361,
+    "wof:lastmodified":1464222283,
+    "wof:name":"Correctional Institution-Women",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -75.576665,
+    39.690368,
+    -75.576665,
+    39.690368
+],
+  "geometry": {"coordinates":[-75.57666500000001,39.690368],"type":"Point"}
+}

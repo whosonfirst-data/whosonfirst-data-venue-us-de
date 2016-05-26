@@ -1,0 +1,73 @@
+{
+  "id": 873510733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.402517,38.896817,-75.402517,38.896817",
+    "geom:latitude":38.896817,
+    "geom:longitude":-75.402517,
+    "iso:country":"US",
+    "sg:address":"10 Concord Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 2211",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nursing",
+        "seminar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YprPgR29S85VMnsZasrqa_38.896817_-75.402517@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223409,
+    "wof:geomhash":"98fd1b3524734bf598247ad3d2ad598e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873510733
+        }
+    ],
+    "wof:id":873510733,
+    "wof:lastmodified":1464223409,
+    "wof:name":"Urology Nursing Society",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "seminar"
+    ]
+},
+  "bbox": [
+    -75.402517,
+    38.896817,
+    -75.402517,
+    38.896817
+],
+  "geometry": {"coordinates":[-75.402517,38.896817],"type":"Point"}
+}

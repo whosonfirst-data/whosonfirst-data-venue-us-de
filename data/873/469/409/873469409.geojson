@@ -1,0 +1,71 @@
+{
+  "id": 873469409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558528,38.452645,-75.558528,38.452645",
+    "geom:latitude":38.452645,
+    "geom:longitude":-75.558528,
+    "iso:country":"US",
+    "sg:address":"9461 Ocean Hwy",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 742 8701",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hr4ZS3EB3wAAtDTGRBho4_38.452645_-75.558528@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221700,
+    "wof:geomhash":"1b3f06d3c01366f8452cac89cc048b27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873469409
+        }
+    ],
+    "wof:id":873469409,
+    "wof:lastmodified":1464221700,
+    "wof:name":"Travelers Motel",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -75.558528,
+    38.452645,
+    -75.558528,
+    38.452645
+],
+  "geometry": {"coordinates":[-75.558528,38.452645],"type":"Point"}
+}

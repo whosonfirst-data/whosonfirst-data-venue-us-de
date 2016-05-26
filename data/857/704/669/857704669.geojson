@@ -1,0 +1,76 @@
+{
+  "id": 857704669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556075,39.701777,-75.556075,39.701777",
+    "geom:latitude":39.701777,
+    "geom:longitude":-75.556075,
+    "iso:country":"US",
+    "sg:address":"33 Memorial Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 9964",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "recording",
+        "studio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bQLInt2rVo2fhfK9J7rdR_39.701777_-75.556075@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220906,
+    "wof:geomhash":"d884621be8b0ea8238724441fff56509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857704669
+        }
+    ],
+    "wof:id":857704669,
+    "wof:lastmodified":1464220906,
+    "wof:name":"Twin Record Company Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recording",
+        "studio"
+    ]
+},
+  "bbox": [
+    -75.556075,
+    39.701777,
+    -75.556075,
+    39.701777
+],
+  "geometry": {"coordinates":[-75.55607500000001,39.701777],"type":"Point"}
+}

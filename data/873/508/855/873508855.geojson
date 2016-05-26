@@ -1,0 +1,71 @@
+{
+  "id": 873508855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.313745,38.711278,-75.313745,38.711278",
+    "geom:latitude":38.711278,
+    "geom:longitude":-75.313745,
+    "iso:country":"US",
+    "sg:address":"25138 Bennum Switch Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 1333",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xE1SsYkFtiFAwo5MWAjgX_38.711278_-75.313745@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223325,
+    "wof:geomhash":"187b69fe7328154d0b03dd8da3bbd677",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873508855
+        }
+    ],
+    "wof:id":873508855,
+    "wof:lastmodified":1464223325,
+    "wof:name":"Phil Stein MD PHD",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.313745,
+    38.711278,
+    -75.313745,
+    38.711278
+],
+  "geometry": {"coordinates":[-75.313745,38.711278],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873517901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547798,39.798199,-75.547798,39.798199",
+    "geom:latitude":39.798199,
+    "geom:longitude":-75.547798,
+    "iso:country":"US",
+    "sg:address":"2800 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1888",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CoOzx4WE3qdybd6OWFnKS_39.798199_-75.547798@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223789,
+    "wof:geomhash":"e12dac132209b2d3e360068fd98f529f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517901
+        }
+    ],
+    "wof:id":873517901,
+    "wof:lastmodified":1464223789,
+    "wof:name":"Jacobs Music Co",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -75.547798,
+    39.798199,
+    -75.547798,
+    39.798199
+],
+  "geometry": {"coordinates":[-75.547798,39.798199],"type":"Point"}
+}

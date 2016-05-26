@@ -1,0 +1,71 @@
+{
+  "id": 857696869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544555,39.699341,-75.544555,39.699341",
+    "geom:latitude":39.699341,
+    "geom:longitude":-75.544555,
+    "iso:country":"US",
+    "sg:address":"403 7th St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 9831",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "tire"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hXMRFajPY2PU0PvDHEi8d_39.699341_-75.544555@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220751,
+    "wof:geomhash":"cc52544f2c0e6ca5627a33992f1841d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857696869
+        }
+    ],
+    "wof:id":857696869,
+    "wof:lastmodified":1464220751,
+    "wof:name":"Roy's Tire Svc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -75.544555,
+    39.699341,
+    -75.544555,
+    39.699341
+],
+  "geometry": {"coordinates":[-75.544555,39.699341],"type":"Point"}
+}

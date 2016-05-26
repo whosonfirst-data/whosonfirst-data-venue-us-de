@@ -1,0 +1,80 @@
+{
+  "id": 873514497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.750618,39.603119,-75.750618,39.603119",
+    "geom:latitude":39.603119,
+    "geom:longitude":-75.750618,
+    "iso:country":"US",
+    "sg:address":"1400 Peoples Plz Ste 124",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 3565",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgery",
+        "surgeons",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DM11MsBXjJt5iW3aJzx8a_39.603119_-75.750618@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223593,
+    "wof:geomhash":"00f90cef0063a20211e2c147b445502e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514497
+        }
+    ],
+    "wof:id":873514497,
+    "wof:lastmodified":1464223593,
+    "wof:name":"Petrunich Raymond W DDS",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgery",
+        "surgeons",
+        "oral"
+    ]
+},
+  "bbox": [
+    -75.750618,
+    39.603119,
+    -75.750618,
+    39.603119
+],
+  "geometry": {"coordinates":[-75.750618,39.603119],"type":"Point"}
+}

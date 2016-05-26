@@ -1,0 +1,71 @@
+{
+  "id": 873499105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.674864,39.667929,-75.674864,39.667929",
+    "geom:latitude":39.667929,
+    "geom:longitude":-75.674864,
+    "iso:country":"US",
+    "sg:address":"256 Chapman Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 3820",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZRmJy5bBunoijoCaFhZFH_39.667929_-75.674864@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222903,
+    "wof:geomhash":"bf6b6944113d6032dab8a4d10c9a9d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873499105
+        }
+    ],
+    "wof:id":873499105,
+    "wof:lastmodified":1464222903,
+    "wof:name":"Health & Social Svc Dept",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -75.674864,
+    39.667929,
+    -75.674864,
+    39.667929
+],
+  "geometry": {"coordinates":[-75.674864,39.667929],"type":"Point"}
+}

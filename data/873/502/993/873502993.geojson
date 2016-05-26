@@ -1,0 +1,71 @@
+{
+  "id": 873502993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599281,39.30448,-75.599281,39.30448",
+    "geom:latitude":39.30448,
+    "geom:longitude":-75.599281,
+    "iso:country":"US",
+    "sg:address":"363 E Commerce St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 0204",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4m769BxyMyqP25PCb0m1wT_39.304480_-75.599281@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223065,
+    "wof:geomhash":"2e5cbb1a17954d6b230fa67cfd18881b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873502993
+        }
+    ],
+    "wof:id":873502993,
+    "wof:lastmodified":1464223065,
+    "wof:name":"Heron Run Apartments",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.599281,
+    39.30448,
+    -75.599281,
+    39.30448
+],
+  "geometry": {"coordinates":[-75.599281,39.30448],"type":"Point"}
+}

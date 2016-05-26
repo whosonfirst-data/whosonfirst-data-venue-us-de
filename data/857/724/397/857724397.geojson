@@ -1,0 +1,71 @@
+{
+  "id": 857724397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.220509,38.459267,-75.220509,38.459267",
+    "geom:latitude":38.459267,
+    "geom:longitude":-75.220509,
+    "iso:country":"US",
+    "sg:address":"13 S Main St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 5133",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dYGNtAxcrZKCCLnYIt0kb_38.459267_-75.220509@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221331,
+    "wof:geomhash":"2107bfb2e9b69c9cb1df0670af316e60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857724397
+        }
+    ],
+    "wof:id":857724397,
+    "wof:lastmodified":1464221331,
+    "wof:name":"James K Kramer DDS",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.220509,
+    38.459267,
+    -75.220509,
+    38.459267
+],
+  "geometry": {"coordinates":[-75.22050900000001,38.459267],"type":"Point"}
+}

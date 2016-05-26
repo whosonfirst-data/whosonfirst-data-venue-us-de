@@ -1,0 +1,73 @@
+{
+  "id": 873486613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572381,39.74812,-75.572381,39.74812",
+    "geom:latitude":39.74812,
+    "geom:longitude":-75.572381,
+    "iso:country":"US",
+    "sg:address":"227 N Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 888 1650",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ryiaASwCTWer3Zn6MWUNb_39.748120_-75.572381@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222363,
+    "wof:geomhash":"a8a865952d907d3b7c6f0844ad537c97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873486613
+        }
+    ],
+    "wof:id":873486613,
+    "wof:lastmodified":1464222363,
+    "wof:name":"Marenco Constructors Inc",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.572381,
+    39.74812,
+    -75.572381,
+    39.74812
+],
+  "geometry": {"coordinates":[-75.57238099999999,39.74812],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873466429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589007,39.72639,-75.589007,39.72639",
+    "geom:latitude":39.72639,
+    "geom:longitude":-75.589007,
+    "iso:country":"US",
+    "sg:address":"301 S Maryland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 5599",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cuyZ5SRJANvkWN4YgU7eR_39.726390_-75.589007@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221599,
+    "wof:geomhash":"bbe6fa7b2f2b1f393558e1e49a83f46f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873466429
+        }
+    ],
+    "wof:id":873466429,
+    "wof:lastmodified":1464221599,
+    "wof:name":"Vantasy Island",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.589007,
+    39.72639,
+    -75.589007,
+    39.72639
+],
+  "geometry": {"coordinates":[-75.589007,39.72639],"type":"Point"}
+}

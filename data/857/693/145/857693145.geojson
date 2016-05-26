@@ -1,0 +1,71 @@
+{
+  "id": 857693145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604073,39.735853,-75.604073,39.735853",
+    "geom:latitude":39.735853,
+    "geom:longitude":-75.604073,
+    "iso:country":"US",
+    "sg:address":"101 Beech Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 774 3366",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7XXlVDcZq2fMZ3sm4C7KBT_39.735853_-75.604073@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220683,
+    "wof:geomhash":"2018908bcaf0006e50b2a87ce5dabc24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857693145
+        }
+    ],
+    "wof:id":857693145,
+    "wof:lastmodified":1464220683,
+    "wof:name":"Dupont",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.604073,
+    39.735853,
+    -75.604073,
+    39.735853
+],
+  "geometry": {"coordinates":[-75.604073,39.735853],"type":"Point"}
+}

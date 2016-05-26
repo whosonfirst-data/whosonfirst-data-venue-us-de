@@ -1,0 +1,74 @@
+{
+  "id": 873513451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59848,39.756491,-75.59848,39.756491",
+    "geom:latitude":39.756491,
+    "geom:longitude":-75.59848,
+    "iso:country":"US",
+    "sg:address":"3901 Lancaster Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/piedmont/107330-soup-man/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 7125",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "soup",
+        "american",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vbasphwVvLfSNYmwyu43r_39.756491_-75.598480@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223530,
+    "wof:geomhash":"f1ef297af2103befe08d555680cabb3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873513451
+        }
+    ],
+    "wof:id":873513451,
+    "wof:lastmodified":1464223530,
+    "wof:name":"Soup Man",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soup",
+        "american",
+        "salad"
+    ]
+},
+  "bbox": [
+    -75.59848,
+    39.756491,
+    -75.59848,
+    39.756491
+],
+  "geometry": {"coordinates":[-75.59848,39.756491],"type":"Point"}
+}

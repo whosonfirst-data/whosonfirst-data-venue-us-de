@@ -1,0 +1,70 @@
+{
+  "id": 873517849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548686,39.803757,-75.548686,39.803757",
+    "geom:latitude":39.803757,
+    "geom:longitude":-75.548686,
+    "iso:country":"US",
+    "sg:address":"3624 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0707",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.ollyshoes.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fnnYjsgssoLnOoAvLKozL_39.803757_-75.548686@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223784,
+    "wof:geomhash":"7a73bc7482457263e3e07bf0d659d34b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517849
+        }
+    ],
+    "wof:id":873517849,
+    "wof:lastmodified":1464223784,
+    "wof:name":"Olly Shoes",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -75.548686,
+    39.803757,
+    -75.548686,
+    39.803757
+],
+  "geometry": {"coordinates":[-75.548686,39.803757],"type":"Point"}
+}

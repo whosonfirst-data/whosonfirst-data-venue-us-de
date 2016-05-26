@@ -1,0 +1,68 @@
+{
+  "id": 857717467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547854,39.735962,-75.547854,39.735962",
+    "geom:latitude":39.735962,
+    "geom:longitude":-75.547854,
+    "iso:country":"US",
+    "sg:address":"500 E Front St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 4533",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12WjfkcnfohYVvD2BY9fCl_39.735962_-75.547854@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221195,
+    "wof:geomhash":"b53379d677cdf0ae9542398d7e0d27aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857717467
+        }
+    ],
+    "wof:id":857717467,
+    "wof:lastmodified":1464221195,
+    "wof:name":"Wilmington Youth Rowing Assn",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.547854,
+    39.735962,
+    -75.547854,
+    39.735962
+],
+  "geometry": {"coordinates":[-75.547854,39.735962],"type":"Point"}
+}

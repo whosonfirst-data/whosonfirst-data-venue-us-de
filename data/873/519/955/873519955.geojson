@@ -1,0 +1,77 @@
+{
+  "id": 873519955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548365,39.809167,-75.548365,39.809167",
+    "geom:latitude":39.809167,
+    "geom:longitude":-75.548365,
+    "iso:country":"US",
+    "sg:address":"3650 1/2 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1982",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ticket",
+        "sale"
+    ],
+    "sg:website":"http://www.supertixx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kzUxqlEicbCxGo0XDSfK2_39.809167_-75.548365@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223877,
+    "wof:geomhash":"39d8e658074e222f23d10ea294313f2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873519955
+        }
+    ],
+    "wof:id":873519955,
+    "wof:lastmodified":1464223877,
+    "wof:name":"Supertix",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "sale"
+    ]
+},
+  "bbox": [
+    -75.548365,
+    39.809167,
+    -75.548365,
+    39.809167
+],
+  "geometry": {"coordinates":[-75.548365,39.809167],"type":"Point"}
+}

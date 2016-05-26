@@ -1,0 +1,91 @@
+{
+  "id": 873516229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.696203,39.680099,-75.696203,39.680099",
+    "geom:latitude":39.680099,
+    "geom:longitude":-75.696203,
+    "iso:country":"US",
+    "sg:address":"316 Red Mill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 2511",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "churches-baptist-general",
+        "nursery",
+        "day",
+        "churches-baptist"
+    ],
+    "sg:website":"http://www.ogletown.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VUpcB8UITBIQAK7nHyA48_39.680099_-75.696203@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223671,
+    "wof:geomhash":"3af8411853e116eece95275f253e69f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516229
+        }
+    ],
+    "wof:id":873516229,
+    "wof:lastmodified":1464223671,
+    "wof:name":"Ogletown Baptist Church",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-baptist-general",
+        "nursery",
+        "day",
+        "churches-baptist"
+    ]
+},
+  "bbox": [
+    -75.696203,
+    39.680099,
+    -75.696203,
+    39.680099
+],
+  "geometry": {"coordinates":[-75.696203,39.680099],"type":"Point"}
+}

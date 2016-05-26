@@ -1,0 +1,86 @@
+{
+  "id": 873487653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.470608,39.137669,-75.470608,39.137669",
+    "geom:latitude":39.137669,
+    "geom:longitude":-75.470608,
+    "iso:country":"US",
+    "sg:address":"1144 Janes Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 3644",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "billiard",
+        "table",
+        "pool",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wsWmECAEVg9wgUcOZgrRo_39.137669_-75.470608@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222408,
+    "wof:geomhash":"e429d3b89285906ba1af19b9af20bdb8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873487653
+        }
+    ],
+    "wof:id":873487653,
+    "wof:lastmodified":1464222408,
+    "wof:name":"Wayne's Pool Table Sales & Rpr",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "billiard",
+        "table",
+        "pool",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.470608,
+    39.137669,
+    -75.470608,
+    39.137669
+],
+  "geometry": {"coordinates":[-75.470608,39.137669],"type":"Point"}
+}

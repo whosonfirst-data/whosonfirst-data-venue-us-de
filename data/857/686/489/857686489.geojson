@@ -1,0 +1,71 @@
+{
+  "id": 857686489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.685201,39.712698,-75.685201,39.712698",
+    "geom:latitude":39.712698,
+    "geom:longitude":-75.685201,
+    "iso:country":"US",
+    "sg:address":"114 Larkspur Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8665",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ll1GwDeIdfeonB52w8bfh_39.712698_-75.685201@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220548,
+    "wof:geomhash":"74df50bd65ea51e0941e8d3aeb8b3e6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857686489
+        }
+    ],
+    "wof:id":857686489,
+    "wof:lastmodified":1464220548,
+    "wof:name":"Weik Dental Laboratory",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -75.685201,
+    39.712698,
+    -75.685201,
+    39.712698
+],
+  "geometry": {"coordinates":[-75.68520100000001,39.712698],"type":"Point"}
+}

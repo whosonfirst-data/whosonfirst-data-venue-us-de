@@ -1,0 +1,72 @@
+{
+  "id": 873513287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.684068,39.684711,-75.684068,39.684711",
+    "geom:latitude":39.684711,
+    "geom:longitude":-75.684068,
+    "iso:country":"US",
+    "sg:address":"4138 Ogletown Stanton Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/246420-ming-garden-cocktails-chinese-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 2839",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vEkbdBil4pGJErIj8KOK0_39.684711_-75.684068@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223523,
+    "wof:geomhash":"69a46341fadf4d14fe6551b10b7c02f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513287
+        }
+    ],
+    "wof:id":873513287,
+    "wof:lastmodified":1464223523,
+    "wof:name":"Ming Garden Cocktails Chinese Restaurant",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -75.684068,
+    39.684711,
+    -75.684068,
+    39.684711
+],
+  "geometry": {"coordinates":[-75.684068,39.684711],"type":"Point"}
+}

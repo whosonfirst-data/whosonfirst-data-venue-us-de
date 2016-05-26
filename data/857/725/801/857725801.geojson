@@ -1,0 +1,76 @@
+{
+  "id": 857725801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.123807,38.732321,-75.123807,38.732321",
+    "geom:latitude":38.732321,
+    "geom:longitude":-75.123807,
+    "iso:country":"US",
+    "sg:address":"108 Midway Dr",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 5383",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jIJG5vgVC7iFYUtmXmLvM_38.732321_-75.123807@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221358,
+    "wof:geomhash":"e63c1531cc2e4a18412f847dd07fe131",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":857725801
+        }
+    ],
+    "wof:id":857725801,
+    "wof:lastmodified":1464221358,
+    "wof:name":"Henlopen Electronics",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -75.123807,
+    38.732321,
+    -75.123807,
+    38.732321
+],
+  "geometry": {"coordinates":[-75.123807,38.732321],"type":"Point"}
+}

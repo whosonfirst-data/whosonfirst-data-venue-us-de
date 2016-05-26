@@ -1,0 +1,82 @@
+{
+  "id": 873478347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.519072,39.190585,-75.519072,39.190585",
+    "geom:latitude":39.190585,
+    "geom:longitude":-75.519072,
+    "iso:country":"US",
+    "sg:address":"110 Persimmon Cir",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5990",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07TCB4JMvIleGbFc0GEThI_39.190585_-75.519072@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222033,
+    "wof:geomhash":"918b3a3feaaca6d091f67b20067ca417",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873478347
+        }
+    ],
+    "wof:id":873478347,
+    "wof:lastmodified":1464222033,
+    "wof:name":"Persimmon Park Place Pool",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community",
+        "residential"
+    ]
+},
+  "bbox": [
+    -75.519072,
+    39.190585,
+    -75.519072,
+    39.190585
+],
+  "geometry": {"coordinates":[-75.51907199999999,39.190585],"type":"Point"}
+}

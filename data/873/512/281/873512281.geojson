@@ -1,0 +1,75 @@
+{
+  "id": 873512281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.521103,39.172901,-75.521103,39.172901",
+    "geom:latitude":39.172901,
+    "geom:longitude":-75.521103,
+    "iso:country":"US",
+    "sg:address":"400 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4800",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57XN076mzjzSrsZ0e5pqgQ_39.172708_-75.520963@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223486,
+    "wof:geomhash":"1f898b5e079b8f87be675f327826c7ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873512281
+        }
+    ],
+    "wof:id":873512281,
+    "wof:lastmodified":1464223486,
+    "wof:name":"Lake Club Apartments",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.521103,
+    39.172901,
+    -75.521103,
+    39.172901
+],
+  "geometry": {"coordinates":[-75.521103,39.172901],"type":"Point"}
+}

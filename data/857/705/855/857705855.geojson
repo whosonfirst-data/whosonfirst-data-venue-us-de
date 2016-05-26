@@ -1,0 +1,75 @@
+{
+  "id": 857705855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.750622,39.674401,-75.750622,39.674401",
+    "geom:latitude":39.674401,
+    "geom:longitude":-75.750622,
+    "iso:country":"US",
+    "sg:address":"504 Academy St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 831 2226",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R49wzXk9qKOKUCosKemRK_39.674401_-75.750622@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220930,
+    "wof:geomhash":"3bcc614a8710f036de8535cd59a81be4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":857705855
+        }
+    ],
+    "wof:id":857705855,
+    "wof:lastmodified":1464220930,
+    "wof:name":"University-De Student Hlth Svc",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.750622,
+    39.674401,
+    -75.750622,
+    39.674401
+],
+  "geometry": {"coordinates":[-75.75062200000001,39.674401],"type":"Point"}
+}

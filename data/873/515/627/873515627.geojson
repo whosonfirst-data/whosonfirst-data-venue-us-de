@@ -1,0 +1,78 @@
+{
+  "id": 873515627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.719387,39.694284,-75.719387,39.694284",
+    "geom:latitude":39.694284,
+    "geom:longitude":-75.719387,
+    "iso:country":"US",
+    "sg:address":"9 Liberty Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7445",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hot",
+        "hamburger",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xyIuzUdWsM8qiADqzuiBn_39.694284_-75.719387@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223649,
+    "wof:geomhash":"f429076f6fd63fa89faea745d8a6a89e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873515627
+        }
+    ],
+    "wof:id":873515627,
+    "wof:lastmodified":1464223649,
+    "wof:name":"Jake's Hamburgers Corp Office",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hot",
+        "hamburger",
+        "dog"
+    ]
+},
+  "bbox": [
+    -75.719387,
+    39.694284,
+    -75.719387,
+    39.694284
+],
+  "geometry": {"coordinates":[-75.719387,39.694284],"type":"Point"}
+}

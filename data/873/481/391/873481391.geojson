@@ -1,0 +1,73 @@
+{
+  "id": 873481391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.726568,39.740396,-75.726568,39.740396",
+    "geom:latitude":39.740396,
+    "geom:longitude":-75.726568,
+    "iso:country":"US",
+    "sg:address":"604 Corner Ketch Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 4996",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85842215,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zz3udALo3uHYHqnwuldtx_39.740396_-75.726568@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222169,
+    "wof:geomhash":"6ad2785b10d42ccf43c2cd8ecc395c4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85842215,
+            "region_id":85688611,
+            "venue_id":873481391
+        }
+    ],
+    "wof:id":873481391,
+    "wof:lastmodified":1464222169,
+    "wof:name":"Dempseys Service Center Inc",
+    "wof:parent_id":85842215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.726568,
+    39.740396,
+    -75.726568,
+    39.740396
+],
+  "geometry": {"coordinates":[-75.726568,39.740396],"type":"Point"}
+}

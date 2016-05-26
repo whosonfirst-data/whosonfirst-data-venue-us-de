@@ -1,0 +1,85 @@
+{
+  "id": 873516359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.730181,39.651747,-75.730181,39.651747",
+    "geom:latitude":39.651747,
+    "geom:longitude":-75.730181,
+    "iso:country":"US",
+    "sg:address":"11 Mcmillan Way",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 722 4636",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "roofing",
+        "contractor",
+        "maintenance",
+        "consultant"
+    ],
+    "sg:website":"http://advancemyhome1.reachlocal.com/?scid=1997618",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VZut7GHKzbjq7DK3zeVD2_39.651747_-75.730181@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223677,
+    "wof:geomhash":"fae332fdeaa49e1780ca0640965d6e9d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873516359
+        }
+    ],
+    "wof:id":873516359,
+    "wof:lastmodified":1464223677,
+    "wof:name":"Advance Roofing DE NJ PA",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor",
+        "maintenance",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -75.730181,
+    39.651747,
+    -75.730181,
+    39.651747
+],
+  "geometry": {"coordinates":[-75.730181,39.651747],"type":"Point"}
+}

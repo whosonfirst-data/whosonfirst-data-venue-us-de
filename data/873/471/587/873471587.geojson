@@ -1,0 +1,71 @@
+{
+  "id": 873471587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.51503,39.808193,-75.51503,39.808193",
+    "geom:latitude":39.808193,
+    "geom:longitude":-75.51503,
+    "iso:country":"US",
+    "sg:address":"2409 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 4859",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_729bhhd7fU9jQnJYY2WUzZ_39.808193_-75.515030@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221789,
+    "wof:geomhash":"fd183fb24fcf24656a59359328411645",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873471587
+        }
+    ],
+    "wof:id":873471587,
+    "wof:lastmodified":1464221789,
+    "wof:name":"Wood Electric",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.51503,
+    39.808193,
+    -75.51503,
+    39.808193
+],
+  "geometry": {"coordinates":[-75.51503,39.808193],"type":"Point"}
+}

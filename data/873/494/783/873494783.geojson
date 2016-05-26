@@ -1,0 +1,71 @@
+{
+  "id": 873494783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544875,39.777501,-75.544875,39.777501",
+    "geom:latitude":39.777501,
+    "geom:longitude":-75.544875,
+    "iso:country":"US",
+    "sg:address":"1902 Rockland Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 4210",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19j7fWqBjkUvVdxg2731uI_39.777501_-75.544875@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222701,
+    "wof:geomhash":"61d277c1a4f9f3ade6cc15d03868fe55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873494783
+        }
+    ],
+    "wof:id":873494783,
+    "wof:lastmodified":1464222701,
+    "wof:name":"Bancroft Construction Co",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.544875,
+    39.777501,
+    -75.544875,
+    39.777501
+],
+  "geometry": {"coordinates":[-75.544875,39.777501],"type":"Point"}
+}

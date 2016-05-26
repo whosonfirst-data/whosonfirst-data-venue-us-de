@@ -1,0 +1,71 @@
+{
+  "id": 873487739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.511304,38.974292,-75.511304,38.974292",
+    "geom:latitude":38.974292,
+    "geom:longitude":-75.511304,
+    "iso:country":"US",
+    "sg:address":"102 Outten Blvd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 3772",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "leasing",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AHNufkxoOxB9ioFuPAtdy_38.974292_-75.511304@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222412,
+    "wof:geomhash":"bec8e9261ad3a401680bf3f8d4cf3caf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873487739
+        }
+    ],
+    "wof:id":873487739,
+    "wof:lastmodified":1464222412,
+    "wof:name":"Paradise Estates",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "rental"
+    ]
+},
+  "bbox": [
+    -75.511304,
+    38.974292,
+    -75.511304,
+    38.974292
+],
+  "geometry": {"coordinates":[-75.511304,38.974292],"type":"Point"}
+}

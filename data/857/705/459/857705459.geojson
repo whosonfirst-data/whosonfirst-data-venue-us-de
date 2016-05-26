@@ -1,0 +1,71 @@
+{
+  "id": 857705459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745229,39.603016,-75.745229,39.603016",
+    "geom:latitude":39.603016,
+    "geom:longitude":-75.745229,
+    "iso:country":"US",
+    "sg:address":"150 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 1002",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HbReUvEXXejAdiZYf8IVA_39.603016_-75.745229@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220923,
+    "wof:geomhash":"efe587253c557dc6e6945a0525a403f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857705459
+        }
+    ],
+    "wof:id":857705459,
+    "wof:lastmodified":1464220923,
+    "wof:name":"Parkway Cleaners",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -75.745229,
+    39.603016,
+    -75.745229,
+    39.603016
+],
+  "geometry": {"coordinates":[-75.74522899999999,39.603016],"type":"Point"}
+}

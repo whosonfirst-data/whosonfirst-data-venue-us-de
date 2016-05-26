@@ -1,0 +1,77 @@
+{
+  "id": 873495929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.530148,39.757055,-75.530148,39.757055",
+    "geom:latitude":39.757055,
+    "geom:longitude":-75.530148,
+    "iso:country":"US",
+    "sg:address":"3100 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 3432",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SX5G2yiRLuArpgOwXPzn3_39.757055_-75.530148@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222775,
+    "wof:geomhash":"98a915e922a7d6ddef7d5443dd15357a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873495929
+        }
+    ],
+    "wof:id":873495929,
+    "wof:lastmodified":1464222775,
+    "wof:name":"North Market Street Motors",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -75.530148,
+    39.757055,
+    -75.530148,
+    39.757055
+],
+  "geometry": {"coordinates":[-75.530148,39.757055],"type":"Point"}
+}

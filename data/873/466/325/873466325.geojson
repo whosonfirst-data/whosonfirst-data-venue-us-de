@@ -1,0 +1,64 @@
+{
+  "id": 873466325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.737172,39.685285,-75.737172,39.685285",
+    "geom:latitude":39.685285,
+    "geom:longitude":-75.737172,
+    "iso:country":"US",
+    "sg:address":"374 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 0502",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H4XiFqbHAbP8WavrfHZRV_39.685285_-75.737172@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221595,
+    "wof:geomhash":"065096f592ea9badcb7dd69e9d1db071",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873466325
+        }
+    ],
+    "wof:id":873466325,
+    "wof:lastmodified":1464221595,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.737172,
+    39.685285,
+    -75.737172,
+    39.685285
+],
+  "geometry": {"coordinates":[-75.737172,39.685285],"type":"Point"}
+}

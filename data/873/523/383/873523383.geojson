@@ -1,0 +1,74 @@
+{
+  "id": 873523383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542297,39.1703,-75.542297,39.1703",
+    "geom:latitude":39.1703,
+    "geom:longitude":-75.542297,
+    "iso:country":"US",
+    "sg:address":"830 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 8848",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:website":"www.delawarebackpain.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DI5AdjECItb1SG8cy8vlq_39.170300_-75.542297@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224018,
+    "wof:geomhash":"7dd798e206f55daae4882e31d9b3998b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873523383
+        }
+    ],
+    "wof:id":873523383,
+    "wof:lastmodified":1464224018,
+    "wof:name":"Delaware Back Pain & Sports Rehabilitation Center",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.542297,
+    39.1703,
+    -75.542297,
+    39.1703
+],
+  "geometry": {"coordinates":[-75.542297,39.1703],"type":"Point"}
+}

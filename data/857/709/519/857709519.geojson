@@ -1,0 +1,79 @@
+{
+  "id": 857709519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.748796,39.683449,-75.748796,39.683449",
+    "geom:latitude":39.683449,
+    "geom:longitude":-75.748796,
+    "iso:country":"US",
+    "sg:address":"90 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 1064",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_315jcqvDTgg4knEuWoXME0_39.683449_-75.748796@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221018,
+    "wof:geomhash":"31668e2e1e3538dc306dd7080f44841a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":857709519
+        }
+    ],
+    "wof:id":857709519,
+    "wof:lastmodified":1464221018,
+    "wof:name":"Bert's Compact Discs",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "compact",
+        "record",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.748796,
+    39.683449,
+    -75.748796,
+    39.683449
+],
+  "geometry": {"coordinates":[-75.748796,39.683449],"type":"Point"}
+}

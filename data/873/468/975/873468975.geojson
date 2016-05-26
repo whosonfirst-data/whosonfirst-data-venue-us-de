@@ -1,0 +1,78 @@
+{
+  "id": 873468975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606275,39.735311,-75.606275,39.735311",
+    "geom:latitude":39.735311,
+    "geom:longitude":-75.606275,
+    "iso:country":"US",
+    "sg:address":"1410 Cypress Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 2537",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "management",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tSZiKB3rWqP7auPpU67UH_39.735311_-75.606275@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221686,
+    "wof:geomhash":"68b8f0bcf0c712d0dbafe522374b79a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873468975
+        }
+    ],
+    "wof:id":873468975,
+    "wof:lastmodified":1464221686,
+    "wof:name":"JAB Property Management Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "management",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.606275,
+    39.735311,
+    -75.606275,
+    39.735311
+],
+  "geometry": {"coordinates":[-75.606275,39.735311],"type":"Point"}
+}

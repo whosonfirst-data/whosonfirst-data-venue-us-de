@@ -1,0 +1,71 @@
+{
+  "id": 873494203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.379132,38.678453,-75.379132,38.678453",
+    "geom:latitude":38.678453,
+    "geom:longitude":-75.379132,
+    "iso:country":"US",
+    "sg:address":"410 S Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 1642",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gOO7sQu3yAeSXBh2oQAuP_38.678453_-75.379132@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222669,
+    "wof:geomhash":"c25fe4753aec79ce065eb8d665e0ec58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873494203
+        }
+    ],
+    "wof:id":873494203,
+    "wof:lastmodified":1464222669,
+    "wof:name":"Telamon Sussex County",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "county"
+    ]
+},
+  "bbox": [
+    -75.379132,
+    38.678453,
+    -75.379132,
+    38.678453
+],
+  "geometry": {"coordinates":[-75.379132,38.678453],"type":"Point"}
+}

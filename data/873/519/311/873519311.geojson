@@ -1,0 +1,83 @@
+{
+  "id": 873519311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.66011,39.722889,-75.66011,39.722889",
+    "geom:latitude":39.722889,
+    "geom:longitude":-75.66011,
+    "iso:country":"US",
+    "sg:address":"4605 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 7661",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sale",
+        "dvds-rental",
+        "tape",
+        "video",
+        "store"
+    ],
+    "sg:website":"http://www.hollywoodvideo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RSQQ31FLvheZwAsl5P8ZP_39.722889_-75.660110@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223847,
+    "wof:geomhash":"199763f01a217f744630e9d9aebcb9be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873519311
+        }
+    ],
+    "wof:id":873519311,
+    "wof:lastmodified":1464223847,
+    "wof:name":"Hollywood Video",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sale",
+        "dvds-rental",
+        "tape",
+        "video",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.66011,
+    39.722889,
+    -75.66011,
+    39.722889
+],
+  "geometry": {"coordinates":[-75.66011,39.722889],"type":"Point"}
+}

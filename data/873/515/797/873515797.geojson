@@ -1,0 +1,71 @@
+{
+  "id": 873515797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.723186,39.690826,-75.723186,39.690826",
+    "geom:latitude":39.690826,
+    "geom:longitude":-75.723186,
+    "iso:country":"US",
+    "sg:address":"16 Ferncliff Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 0113",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pwP1BkPAtDlGerpQZJYOe_39.690826_-75.723186@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223656,
+    "wof:geomhash":"ee805d450e2b3f347f8ef1757dbd5482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515797
+        }
+    ],
+    "wof:id":873515797,
+    "wof:lastmodified":1464223656,
+    "wof:name":"William Houck Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.723186,
+    39.690826,
+    -75.723186,
+    39.690826
+],
+  "geometry": {"coordinates":[-75.723186,39.690826],"type":"Point"}
+}

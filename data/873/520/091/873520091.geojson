@@ -1,0 +1,79 @@
+{
+  "id": 873520091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.490494,39.793179,-75.490494,39.793179",
+    "geom:latitude":39.793179,
+    "geom:longitude":-75.490494,
+    "iso:country":"US",
+    "sg:address":"1401 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 5600",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.degrootchiropractic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47TutESscQj0woYdIyvd17_39.793179_-75.490494@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223884,
+    "wof:geomhash":"16632940ea994f74961f64aafdcf1c9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873520091
+        }
+    ],
+    "wof:id":873520091,
+    "wof:lastmodified":1464223884,
+    "wof:name":"De Groot Chiropractic",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -75.490494,
+    39.793179,
+    -75.490494,
+    39.793179
+],
+  "geometry": {"coordinates":[-75.490494,39.793179],"type":"Point"}
+}

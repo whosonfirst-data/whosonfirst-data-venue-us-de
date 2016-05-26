@@ -1,0 +1,77 @@
+{
+  "id": 873488991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.530943,39.164697,-75.530943,39.164697",
+    "geom:latitude":39.164697,
+    "geom:longitude":-75.530943,
+    "iso:country":"US",
+    "sg:address":"200 N New St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1173",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "interior",
+        "painting",
+        "exterior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cBdX4Pf43fgp64LxOID7r_39.164697_-75.530943@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222456,
+    "wof:geomhash":"76270fe15989ab627918cdbe0f829f3b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873488991
+        }
+    ],
+    "wof:id":873488991,
+    "wof:lastmodified":1464222456,
+    "wof:name":"Empire Painting Inc",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "painting",
+        "exterior"
+    ]
+},
+  "bbox": [
+    -75.530943,
+    39.164697,
+    -75.530943,
+    39.164697
+],
+  "geometry": {"coordinates":[-75.53094299999999,39.164697],"type":"Point"}
+}

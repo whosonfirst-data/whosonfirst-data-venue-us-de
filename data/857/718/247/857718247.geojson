@@ -1,0 +1,73 @@
+{
+  "id": 857718247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.581751,38.980546,-75.581751,38.980546",
+    "geom:latitude":38.980546,
+    "geom:longitude":-75.581751,
+    "iso:country":"US",
+    "sg:address":"3512 Little Mastens Corner Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 1333",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gjThMTSHeotHfjVwSXbhd_38.980546_-75.581751@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221208,
+    "wof:geomhash":"5a0ef05c7d17987497f4db41e8bb132c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857718247
+        }
+    ],
+    "wof:id":857718247,
+    "wof:lastmodified":1464221208,
+    "wof:name":"Williams Electric Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.581751,
+    38.980546,
+    -75.581751,
+    38.980546
+],
+  "geometry": {"coordinates":[-75.581751,38.980546],"type":"Point"}
+}

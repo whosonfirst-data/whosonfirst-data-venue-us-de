@@ -1,0 +1,71 @@
+{
+  "id": 873504173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.721146,39.684477,-75.721146,39.684477",
+    "geom:latitude":39.684477,
+    "geom:longitude":-75.721146,
+    "iso:country":"US",
+    "sg:address":"2009 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 1333",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QzImacF2f1uJBjctGF4hV_39.684477_-75.721146@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223111,
+    "wof:geomhash":"89f31ccc54474c3e619187ab2ce8dc7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873504173
+        }
+    ],
+    "wof:id":873504173,
+    "wof:lastmodified":1464223111,
+    "wof:name":"Nowland Associates Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.721146,
+    39.684477,
+    -75.721146,
+    39.684477
+],
+  "geometry": {"coordinates":[-75.721146,39.684477],"type":"Point"}
+}

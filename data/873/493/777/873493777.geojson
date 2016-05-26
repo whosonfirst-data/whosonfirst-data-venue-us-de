@@ -1,0 +1,71 @@
+{
+  "id": 873493777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.41893,38.877608,-75.41893,38.877608",
+    "geom:latitude":38.877608,
+    "geom:longitude":-75.41893,
+    "iso:country":"US",
+    "sg:address":"7411 Marshall St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8357",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PuDD1uwqui4jfjAGMO24O_38.877608_-75.418930@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222641,
+    "wof:geomhash":"15391c05bf4430d6570c38e8eff84813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873493777
+        }
+    ],
+    "wof:id":873493777,
+    "wof:lastmodified":1464222641,
+    "wof:name":"Lincoln Body Shop",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -75.41893,
+    38.877608,
+    -75.41893,
+    38.877608
+],
+  "geometry": {"coordinates":[-75.41893,38.877608],"type":"Point"}
+}

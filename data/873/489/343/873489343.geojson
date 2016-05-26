@@ -1,0 +1,66 @@
+{
+  "id": 873489343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62606,39.283023,-75.62606,39.283023",
+    "geom:latitude":39.283023,
+    "geom:longitude":-75.62606,
+    "iso:country":"US",
+    "sg:address":"10 Artisan Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2300",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S4HJM25zkjuKBKHCxe5Rj_39.283023_-75.626060@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222469,
+    "wof:geomhash":"fd9c8c92320ff92faef808d646cf39c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873489343
+        }
+    ],
+    "wof:id":873489343,
+    "wof:lastmodified":1464222469,
+    "wof:name":"Dover Animal Hospital",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.62606,
+    39.283023,
+    -75.62606,
+    39.283023
+],
+  "geometry": {"coordinates":[-75.62606,39.283023],"type":"Point"}
+}

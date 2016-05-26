@@ -1,0 +1,75 @@
+{
+  "id": 873493985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598553,39.291844,-75.598553,39.291844",
+    "geom:latitude":39.291844,
+    "geom:longitude":-75.598553,
+    "iso:country":"US",
+    "sg:address":"30 Sunnyside Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2870",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zoZuQKzeX5Ttr3QWzZ2Xf_39.291844_-75.598553@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222651,
+    "wof:geomhash":"6a54306ccbf5046c585273664c4d790c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873493985
+        }
+    ],
+    "wof:id":873493985,
+    "wof:lastmodified":1464222651,
+    "wof:name":"Public Health Laboratory",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -75.598553,
+    39.291844,
+    -75.598553,
+    39.291844
+],
+  "geometry": {"coordinates":[-75.598553,39.291844],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873478241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57027,39.74805,-75.57027,39.74805",
+    "geom:latitude":39.74805,
+    "geom:longitude":-75.57027,
+    "iso:country":"US",
+    "sg:address":"1740 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 3977",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56UpT8YYfnpAMSAZdTdqvn_39.748050_-75.570270@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222028,
+    "wof:geomhash":"993d5264acbbca022058ebaa8c5be1d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873478241
+        }
+    ],
+    "wof:id":873478241,
+    "wof:lastmodified":1464222028,
+    "wof:name":"Tony's Liquor Store",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.57027,
+    39.74805,
+    -75.57027,
+    39.74805
+],
+  "geometry": {"coordinates":[-75.57026999999999,39.74805],"type":"Point"}
+}

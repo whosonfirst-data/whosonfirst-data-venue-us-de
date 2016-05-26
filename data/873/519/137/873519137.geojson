@@ -1,0 +1,76 @@
+{
+  "id": 873519137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.679224,39.723865,-75.679224,39.723865",
+    "geom:latitude":39.723865,
+    "geom:longitude":-75.679224,
+    "iso:country":"US",
+    "sg:address":"2641 Drayton Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 3088",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "market",
+        "analysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31svjJ2RpdYPXjcER189lO_39.723865_-75.679224@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223840,
+    "wof:geomhash":"a04c15994852643cca727333efe91c60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873519137
+        }
+    ],
+    "wof:id":873519137,
+    "wof:lastmodified":1464223840,
+    "wof:name":"Seek Research",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "market",
+        "analysis"
+    ]
+},
+  "bbox": [
+    -75.679224,
+    39.723865,
+    -75.679224,
+    39.723865
+],
+  "geometry": {"coordinates":[-75.679224,39.723865],"type":"Point"}
+}

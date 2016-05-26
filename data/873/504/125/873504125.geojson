@@ -1,0 +1,71 @@
+{
+  "id": 873504125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.721688,39.670823,-75.721688,39.670823",
+    "geom:latitude":39.670823,
+    "geom:longitude":-75.721688,
+    "iso:country":"US",
+    "sg:address":"15 Mackay Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 420 9090",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5f2Plz21YBGAv8zErs2VDn_39.670823_-75.721688@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223110,
+    "wof:geomhash":"32b09182fc4938f7cda7ab99d75a79cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873504125
+        }
+    ],
+    "wof:id":873504125,
+    "wof:lastmodified":1464223110,
+    "wof:name":"Rhino Cabling Group Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.721688,
+    39.670823,
+    -75.721688,
+    39.670823
+],
+  "geometry": {"coordinates":[-75.721688,39.670823],"type":"Point"}
+}

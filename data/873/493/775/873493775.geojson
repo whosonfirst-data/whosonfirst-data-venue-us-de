@@ -1,0 +1,71 @@
+{
+  "id": 873493775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.482299,39.782001,-75.482299,39.782001",
+    "geom:latitude":39.782001,
+    "geom:longitude":-75.482299,
+    "iso:country":"US",
+    "sg:address":"1320 Philadelphia Pike",
+    "sg:city":"Edgemoor",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 3271",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iNnc56BOVjaE3Fc6hSJq6_39.782001_-75.482299@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222641,
+    "wof:geomhash":"3ca94e0e74a4588e871e1b14c902f6af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873493775
+        }
+    ],
+    "wof:id":873493775,
+    "wof:lastmodified":1464222641,
+    "wof:name":"Bonel Medical Equipment Co",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.482299,
+    39.782001,
+    -75.482299,
+    39.782001
+],
+  "geometry": {"coordinates":[-75.482299,39.782001],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873484175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.486373,39.825443,-75.486373,39.825443",
+    "geom:latitude":39.825443,
+    "geom:longitude":-75.486373,
+    "iso:country":"US",
+    "sg:address":"3 Dale Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 8075",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3itSftI5MT1kHIfvp786fU_39.825443_-75.486373@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222277,
+    "wof:geomhash":"b101041ec0fd528e8445ea9abba74163",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873484175
+        }
+    ],
+    "wof:id":873484175,
+    "wof:lastmodified":1464222277,
+    "wof:name":"Oldhams Appliance Repair",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -75.486373,
+    39.825443,
+    -75.486373,
+    39.825443
+],
+  "geometry": {"coordinates":[-75.486373,39.825443],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873524759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.099846,38.545594,-75.099846,38.545594",
+    "geom:latitude":38.545594,
+    "geom:longitude":-75.099846,
+    "iso:country":"US",
+    "sg:address":"203 Atlantic Ave Ste 1",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 0793",
+    "sg:postcode":"19967",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "surgeons",
+        "internal",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pJY6besIw11t72hPqStd6_38.545594_-75.099846@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224069,
+    "wof:geomhash":"5fd1fae3536aa924eff8b82551aa9edf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873524759
+        }
+    ],
+    "wof:id":873524759,
+    "wof:lastmodified":1464224069,
+    "wof:name":"Coastal Kid Watch",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "pediatrics-emergency",
+        "pediatrics",
+        "surgeons",
+        "internal",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.099846,
+    38.545594,
+    -75.099846,
+    38.545594
+],
+  "geometry": {"coordinates":[-75.099846,38.545594],"type":"Point"}
+}

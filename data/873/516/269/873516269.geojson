@@ -1,0 +1,94 @@
+{
+  "id": 873516269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.687636,39.683001,-75.687636,39.683001",
+    "geom:latitude":39.683001,
+    "geom:longitude":-75.687636,
+    "iso:country":"US",
+    "sg:address":"4102 Ogletown Stanton Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 8800",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "laser",
+        "correction",
+        "surgeons",
+        "ophthalmology",
+        "surgeon",
+        "surgery",
+        "vision"
+    ],
+    "sg:website":"http://www.laseramerica.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3H9oOgVlUvr3n80KntfcvF_39.683001_-75.687636@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223672,
+    "wof:geomhash":"457e810d719095c7cc0e17de7a051862",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516269
+        }
+    ],
+    "wof:id":873516269,
+    "wof:lastmodified":1464223672,
+    "wof:name":"Eye Care Of Delaware",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "laser",
+        "correction",
+        "surgeons",
+        "ophthalmology",
+        "surgeon",
+        "surgery",
+        "vision"
+    ]
+},
+  "bbox": [
+    -75.687636,
+    39.683001,
+    -75.687636,
+    39.683001
+],
+  "geometry": {"coordinates":[-75.687636,39.683001],"type":"Point"}
+}

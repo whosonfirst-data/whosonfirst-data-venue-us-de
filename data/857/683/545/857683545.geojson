@@ -1,0 +1,71 @@
+{
+  "id": 857683545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.690778,39.669912,-75.690778,39.669912",
+    "geom:latitude":39.669912,
+    "geom:longitude":-75.690778,
+    "iso:country":"US",
+    "sg:address":"39 E Regal Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 6867",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "turnpike",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ivYR6gTVXDP9044wwRP70_39.669912_-75.690778@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220490,
+    "wof:geomhash":"d8447b33606e966e1ca0f561e06c7f4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857683545
+        }
+    ],
+    "wof:id":857683545,
+    "wof:lastmodified":1464220490,
+    "wof:name":"Delaware Turnpike Maintenance",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "turnpike",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.690778,
+    39.669912,
+    -75.690778,
+    39.669912
+],
+  "geometry": {"coordinates":[-75.69077799999999,39.669912],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873523913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555099,39.059299,-75.555099,39.059299",
+    "geom:latitude":39.059299,
+    "geom:longitude":-75.555099,
+    "iso:country":"US",
+    "sg:address":"7093 S Dupont Hwy",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 6489",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4azsysMiSLQ5kuENtX68IU_39.059299_-75.555099@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224036,
+    "wof:geomhash":"1e0a1192bc5d67fdc7b03f768ba4176d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873523913
+        }
+    ],
+    "wof:id":873523913,
+    "wof:lastmodified":1464224036,
+    "wof:name":"Kenco Construction",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.555099,
+    39.059299,
+    -75.555099,
+    39.059299
+],
+  "geometry": {"coordinates":[-75.555099,39.059299],"type":"Point"}
+}

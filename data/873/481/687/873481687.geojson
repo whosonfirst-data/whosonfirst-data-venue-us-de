@@ -1,0 +1,71 @@
+{
+  "id": 873481687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.291017,38.580284,-75.291017,38.580284",
+    "geom:latitude":38.580284,
+    "geom:longitude":-75.291017,
+    "iso:country":"US",
+    "sg:address":"240 E Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 8838",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lYTH8Aa48tOZ8j5zEnAWL_38.580284_-75.291017@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222180,
+    "wof:geomhash":"d403ff11f41b61f90a04710e44a22d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873481687
+        }
+    ],
+    "wof:id":873481687,
+    "wof:lastmodified":1464222180,
+    "wof:name":"Grace Amazing",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -75.291017,
+    38.580284,
+    -75.291017,
+    38.580284
+],
+  "geometry": {"coordinates":[-75.291017,38.580284],"type":"Point"}
+}

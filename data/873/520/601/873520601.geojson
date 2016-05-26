@@ -1,0 +1,73 @@
+{
+  "id": 873520601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.477124,39.826674,-75.477124,39.826674",
+    "geom:latitude":39.826674,
+    "geom:longitude":-75.477124,
+    "iso:country":"US",
+    "sg:address":"2637 Bittersweet Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 1086",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19ngIvIIIQ438B4tFh0BwL_39.826674_-75.477124@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223909,
+    "wof:geomhash":"116c0e0a1f3a455884ce7ccd9ffef360",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873520601
+        }
+    ],
+    "wof:id":873520601,
+    "wof:lastmodified":1464223909,
+    "wof:name":"Nippert Victor M Dpm Jr",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -75.477124,
+    39.826674,
+    -75.477124,
+    39.826674
+],
+  "geometry": {"coordinates":[-75.477124,39.826674],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 873518367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570461,39.752967,-75.570461,39.752967",
+    "geom:latitude":39.752967,
+    "geom:longitude":-75.570461,
+    "iso:country":"US",
+    "sg:address":"825 N Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 1514",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "supply",
+        "supplies-wholesale",
+        "equipment",
+        "paper-wholesale",
+        "janitor",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BXANFcdkEIiqWQSsggYiw_39.752967_-75.570461@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223809,
+    "wof:geomhash":"9251fdc55167752f4fcb8e0248fccb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873518367
+        }
+    ],
+    "wof:id":873518367,
+    "wof:lastmodified":1464223809,
+    "wof:name":"Goorland And Mann, Inc.",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "supplies-wholesale",
+        "equipment",
+        "paper-wholesale",
+        "janitor",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.570461,
+    39.752967,
+    -75.570461,
+    39.752967
+],
+  "geometry": {"coordinates":[-75.57046099999999,39.752967],"type":"Point"}
+}

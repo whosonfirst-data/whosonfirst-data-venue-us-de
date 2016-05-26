@@ -1,0 +1,71 @@
+{
+  "id": 873485265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.747442,39.624261,-75.747442,39.624261",
+    "geom:latitude":39.624261,
+    "geom:longitude":-75.747442,
+    "iso:country":"US",
+    "sg:address":"321 Norman Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 838 9333",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "butler",
+        "maid"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KEOM2ElOtWEPhIjuiNDH5_39.624261_-75.747442@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222316,
+    "wof:geomhash":"ed1489cb315d87013d4254ef3410ce04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873485265
+        }
+    ],
+    "wof:id":873485265,
+    "wof:lastmodified":1464222316,
+    "wof:name":"K & N Cleaning",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "butler",
+        "maid"
+    ]
+},
+  "bbox": [
+    -75.747442,
+    39.624261,
+    -75.747442,
+    39.624261
+],
+  "geometry": {"coordinates":[-75.74744200000001,39.624261],"type":"Point"}
+}

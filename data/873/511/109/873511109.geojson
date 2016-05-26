@@ -1,0 +1,71 @@
+{
+  "id": 873511109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.501692,39.769016,-75.501692,39.769016",
+    "geom:latitude":39.769016,
+    "geom:longitude":-75.501692,
+    "iso:country":"US",
+    "sg:address":"210 Bellefonte Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 5595",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "religious"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fjSJlunZoZ6lXmcn9VvNt_39.769016_-75.501692@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223426,
+    "wof:geomhash":"5b808d987f1a2d0952a8c8d390fe4f02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873511109
+        }
+    ],
+    "wof:id":873511109,
+    "wof:lastmodified":1464223426,
+    "wof:name":"St Helena School",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "religious"
+    ]
+},
+  "bbox": [
+    -75.501692,
+    39.769016,
+    -75.501692,
+    39.769016
+],
+  "geometry": {"coordinates":[-75.50169200000001,39.769016],"type":"Point"}
+}

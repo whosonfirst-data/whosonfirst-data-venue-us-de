@@ -1,0 +1,79 @@
+{
+  "id": 873511617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.564758,39.02079,-75.564758,39.02079",
+    "geom:latitude":39.02079,
+    "geom:longitude":-75.564758,
+    "iso:country":"US",
+    "sg:address":"10445 S Dupont Hwy",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4425",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "used",
+        "automobile",
+        "dealers-used",
+        "automotive",
+        "cars-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aj1dp9vCfHXX3MNGJ4wEW_39.020558_-75.564791@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223453,
+    "wof:geomhash":"64baa4160811b8db2bdd68947b1d0255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873511617
+        }
+    ],
+    "wof:id":873511617,
+    "wof:lastmodified":1464223453,
+    "wof:name":"Moxley's Auto Repair",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "used",
+        "automobile",
+        "dealers-used",
+        "automotive",
+        "cars-wholesale"
+    ]
+},
+  "bbox": [
+    -75.564758,
+    39.02079,
+    -75.564758,
+    39.02079
+],
+  "geometry": {"coordinates":[-75.564758,39.02079],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857691429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.70123,39.699061,-75.70123,39.699061",
+    "geom:latitude":39.699061,
+    "geom:longitude":-75.70123,
+    "iso:country":"US",
+    "sg:address":"10 Darwin Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 8316",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WeGQcxd7WPEaYBCfszsF3_39.699061_-75.701230@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220650,
+    "wof:geomhash":"5150b8147c3dddac524ddc2d05554661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857691429
+        }
+    ],
+    "wof:id":857691429,
+    "wof:lastmodified":1464220650,
+    "wof:name":"Kirkwood Endoscopy Ctr",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.70123,
+    39.699061,
+    -75.70123,
+    39.699061
+],
+  "geometry": {"coordinates":[-75.70123,39.699061],"type":"Point"}
+}

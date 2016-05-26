@@ -1,0 +1,71 @@
+{
+  "id": 873521629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543602,39.0993,-75.543602,39.0993",
+    "geom:latitude":39.0993,
+    "geom:longitude":-75.543602,
+    "iso:country":"US",
+    "sg:address":"4575 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 7300",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hAgWijAY9sFH4BAeIqaha_39.099300_-75.543602@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223949,
+    "wof:geomhash":"0d7bd41a76ed0944ee892b19b473ba9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873521629
+        }
+    ],
+    "wof:id":873521629,
+    "wof:lastmodified":1464223949,
+    "wof:name":"Price Automotive Group",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car"
+    ]
+},
+  "bbox": [
+    -75.543602,
+    39.0993,
+    -75.543602,
+    39.0993
+],
+  "geometry": {"coordinates":[-75.54360200000001,39.0993],"type":"Point"}
+}

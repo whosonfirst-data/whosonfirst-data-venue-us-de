@@ -1,0 +1,73 @@
+{
+  "id": 873511469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526497,39.1576,-75.526497,39.1576",
+    "geom:latitude":39.1576,
+    "geom:longitude":-75.526497,
+    "iso:country":"US",
+    "sg:address":"121 W Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 0442",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "comic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iuQasTYWuO9H0n4CLAVw9_39.157896_-75.525979@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223440,
+    "wof:geomhash":"22cedb5b0159e71a6e5e449a13f28cdb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873511469
+        }
+    ],
+    "wof:id":873511469,
+    "wof:lastmodified":1464223440,
+    "wof:name":"Superior Comics",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "comic"
+    ]
+},
+  "bbox": [
+    -75.526497,
+    39.1576,
+    -75.526497,
+    39.1576
+],
+  "geometry": {"coordinates":[-75.52649700000001,39.1576],"type":"Point"}
+}

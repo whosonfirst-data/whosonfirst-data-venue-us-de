@@ -1,0 +1,73 @@
+{
+  "id": 857732279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56406,38.944246,-75.56406,38.944246",
+    "geom:latitude":38.944246,
+    "geom:longitude":-75.56406,
+    "iso:country":"US",
+    "sg:address":"15428 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4887",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r9UqZ95iQWDasskQsD7dR_38.944246_-75.564060@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221489,
+    "wof:geomhash":"32af503e33dda40db32456ab7750ca97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857732279
+        }
+    ],
+    "wof:id":857732279,
+    "wof:lastmodified":1464221489,
+    "wof:name":"Sipple's Auto Sales",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.56406,
+    38.944246,
+    -75.56406,
+    38.944246
+],
+  "geometry": {"coordinates":[-75.56406,38.944246],"type":"Point"}
+}

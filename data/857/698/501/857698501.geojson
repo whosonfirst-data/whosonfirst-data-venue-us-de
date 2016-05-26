@@ -1,0 +1,76 @@
+{
+  "id": 857698501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59616,39.692845,-75.59616,39.692845",
+    "geom:latitude":39.692845,
+    "geom:longitude":-75.59616,
+    "iso:country":"US",
+    "sg:address":"21 Bellecor Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 0500",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hhWSqrQw1b5fTYrqv1bIm_39.692845_-75.596160@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220783,
+    "wof:geomhash":"2bde20066e0d4221756fdee46b9e1678",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857698501
+        }
+    ],
+    "wof:id":857698501,
+    "wof:lastmodified":1464220783,
+    "wof:name":"Byrne Millwork Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.59616,
+    39.692845,
+    -75.59616,
+    39.692845
+],
+  "geometry": {"coordinates":[-75.59616,39.692845],"type":"Point"}
+}

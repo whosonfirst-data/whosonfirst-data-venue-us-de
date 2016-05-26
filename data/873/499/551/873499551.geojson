@@ -1,0 +1,71 @@
+{
+  "id": 873499551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.095185,38.71082,-75.095185,38.71082",
+    "geom:latitude":38.71082,
+    "geom:longitude":-75.095185,
+    "iso:country":"US",
+    "sg:address":"100 Burton Village Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 6881",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63rckYU37vqcrqnSkcQdo6_38.710820_-75.095185@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222921,
+    "wof:geomhash":"8186a2646c67e7a6cf50a8da731ce6d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":873499551
+        }
+    ],
+    "wof:id":873499551,
+    "wof:lastmodified":1464222921,
+    "wof:name":"Housing Authority",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -75.095185,
+    38.71082,
+    -75.095185,
+    38.71082
+],
+  "geometry": {"coordinates":[-75.095185,38.71082],"type":"Point"}
+}

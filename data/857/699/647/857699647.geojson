@@ -1,0 +1,69 @@
+{
+  "id": 857699647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.700245,39.667028,-75.700245,39.667028",
+    "geom:latitude":39.667028,
+    "geom:longitude":-75.700245,
+    "iso:country":"US",
+    "sg:address":"905 Village Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 7131",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vd5BMEQ1dsMWDOuvOb1rN_39.667028_-75.700245@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220805,
+    "wof:geomhash":"489bcc23398ee6b00c27d3146c93c875",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857699647
+        }
+    ],
+    "wof:id":857699647,
+    "wof:lastmodified":1464220805,
+    "wof:name":"Accurate Auto Service",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.700245,
+    39.667028,
+    -75.700245,
+    39.667028
+],
+  "geometry": {"coordinates":[-75.700245,39.667028],"type":"Point"}
+}

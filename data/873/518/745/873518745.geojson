@@ -1,0 +1,76 @@
+{
+  "id": 873518745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595421,39.812248,-75.595421,39.812248",
+    "geom:latitude":39.812248,
+    "geom:longitude":-75.595421,
+    "iso:country":"US",
+    "sg:address":"601 Adams Dam Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 3335",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "course",
+        "courses-private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cweSIbQRL9zpeGVDsJDsL_39.812248_-75.595421@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223826,
+    "wof:geomhash":"45995a6c52cc996ba0ef6138e7071629",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873518745
+        }
+    ],
+    "wof:id":873518745,
+    "wof:lastmodified":1464223826,
+    "wof:name":"Vicmead Hunt Club",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "courses-private"
+    ]
+},
+  "bbox": [
+    -75.595421,
+    39.812248,
+    -75.595421,
+    39.812248
+],
+  "geometry": {"coordinates":[-75.595421,39.812248],"type":"Point"}
+}

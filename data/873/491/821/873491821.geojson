@@ -1,0 +1,68 @@
+{
+  "id": 873491821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565952,39.752946,-75.565952,39.752946",
+    "geom:latitude":39.752946,
+    "geom:longitude":-75.565952,
+    "iso:country":"US",
+    "sg:address":"901 N Dupont St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 5446",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p7BGHeIeyz1To2JQMeFQF_39.752946_-75.565952@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222560,
+    "wof:geomhash":"522cdb2428bd698fd49a73a901441fb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873491821
+        }
+    ],
+    "wof:id":873491821,
+    "wof:lastmodified":1464222560,
+    "wof:name":"Fournier Hall",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.565952,
+    39.752946,
+    -75.565952,
+    39.752946
+],
+  "geometry": {"coordinates":[-75.565952,39.752946],"type":"Point"}
+}

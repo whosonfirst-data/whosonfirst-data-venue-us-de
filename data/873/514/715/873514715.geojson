@@ -1,0 +1,71 @@
+{
+  "id": 873514715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746619,39.626785,-75.746619,39.626785",
+    "geom:latitude":39.626785,
+    "geom:longitude":-75.746619,
+    "iso:country":"US",
+    "sg:address":"646 Plaza Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 283 1880",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53h7PMZRPl8JuykMEmR8YD_39.626785_-75.746619@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223609,
+    "wof:geomhash":"58f8e379a1a2444530ca958a5ce18e6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514715
+        }
+    ],
+    "wof:id":873514715,
+    "wof:lastmodified":1464223609,
+    "wof:name":"Wolff Insurance Agency",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "business"
+    ]
+},
+  "bbox": [
+    -75.746619,
+    39.626785,
+    -75.746619,
+    39.626785
+],
+  "geometry": {"coordinates":[-75.746619,39.626785],"type":"Point"}
+}

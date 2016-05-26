@@ -1,0 +1,75 @@
+{
+  "id": 873465197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.387508,38.689731,-75.387508,38.689731",
+    "geom:latitude":38.689731,
+    "geom:longitude":-75.387508,
+    "iso:country":"US",
+    "sg:address":"8 N Front St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2008",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AxNhfWFKapPR52q76D3tY_38.689731_-75.387508@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221573,
+    "wof:geomhash":"37af198974d3a67d49c856f27c962820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873465197
+        }
+    ],
+    "wof:id":873465197,
+    "wof:lastmodified":1464221573,
+    "wof:name":"Hector J Maya MD MPH",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.387508,
+    38.689731,
+    -75.387508,
+    38.689731
+],
+  "geometry": {"coordinates":[-75.387508,38.689731],"type":"Point"}
+}

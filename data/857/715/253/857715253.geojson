@@ -1,0 +1,71 @@
+{
+  "id": 857715253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.622861,39.738064,-75.622861,39.738064",
+    "geom:latitude":39.738064,
+    "geom:longitude":-75.622861,
+    "iso:country":"US",
+    "sg:address":"1907 Centerville Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 0901",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FsfQcWk66C387QnAypE3H_39.738064_-75.622861@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221152,
+    "wof:geomhash":"3662801d5c1a37bb8d39aa0bf8e04b3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857715253
+        }
+    ],
+    "wof:id":857715253,
+    "wof:lastmodified":1464221152,
+    "wof:name":"Shore Stop",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.622861,
+    39.738064,
+    -75.622861,
+    39.738064
+],
+  "geometry": {"coordinates":[-75.622861,39.738064],"type":"Point"}
+}

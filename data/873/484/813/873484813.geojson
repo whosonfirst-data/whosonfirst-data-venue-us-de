@@ -1,0 +1,72 @@
+{
+  "id": 873484813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554227,39.805521,-75.554227,39.805521",
+    "geom:latitude":39.805521,
+    "geom:longitude":-75.554227,
+    "iso:country":"US",
+    "sg:address":"3 Mount Lebanon Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 9622",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.ymcade.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TAuLk3MKzJAbZ8ZXrUEQo_39.805521_-75.554227@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222299,
+    "wof:geomhash":"3bae6951f6c1efcd5cd6ed81294caffa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873484813
+        }
+    ],
+    "wof:id":873484813,
+    "wof:lastmodified":1464222299,
+    "wof:name":"YMCA",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.554227,
+    39.805521,
+    -75.554227,
+    39.805521
+],
+  "geometry": {"coordinates":[-75.554227,39.805521],"type":"Point"}
+}

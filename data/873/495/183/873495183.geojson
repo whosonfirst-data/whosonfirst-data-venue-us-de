@@ -1,0 +1,71 @@
+{
+  "id": 873495183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675767,39.691038,-75.675767,39.691038",
+    "geom:latitude":39.691038,
+    "geom:longitude":-75.675767,
+    "iso:country":"US",
+    "sg:address":"46 Omega Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 9494",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "testing",
+        "examination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2V7Xi8b65VwNLwxdWhSxOm_39.691038_-75.675767@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222732,
+    "wof:geomhash":"37b759a8e31490142dba5f40bd48a415",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873495183
+        }
+    ],
+    "wof:id":873495183,
+    "wof:lastmodified":1464222732,
+    "wof:name":"Womens Imaging Center Delaware",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing",
+        "examination"
+    ]
+},
+  "bbox": [
+    -75.675767,
+    39.691038,
+    -75.675767,
+    39.691038
+],
+  "geometry": {"coordinates":[-75.67576699999999,39.691038],"type":"Point"}
+}

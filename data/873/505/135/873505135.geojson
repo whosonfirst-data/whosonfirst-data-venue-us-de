@@ -1,0 +1,71 @@
+{
+  "id": 873505135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605319,39.300126,-75.605319,39.300126",
+    "geom:latitude":39.300126,
+    "geom:longitude":-75.605319,
+    "iso:country":"US",
+    "sg:address":"14 S Main St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 6190",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "florist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7REaWBRhm6qVrGHsVCVmCM_39.300126_-75.605319@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223162,
+    "wof:geomhash":"37b42f304311bf47fa811fe439f0701e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873505135
+        }
+    ],
+    "wof:id":873505135,
+    "wof:lastmodified":1464223162,
+    "wof:name":"Floral Occasions & Gifts",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist"
+    ]
+},
+  "bbox": [
+    -75.605319,
+    39.300126,
+    -75.605319,
+    39.300126
+],
+  "geometry": {"coordinates":[-75.60531899999999,39.300126],"type":"Point"}
+}

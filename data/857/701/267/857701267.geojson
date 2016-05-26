@@ -1,0 +1,73 @@
+{
+  "id": 857701267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.384902,38.795573,-75.384902,38.795573",
+    "geom:latitude":38.795573,
+    "geom:longitude":-75.384902,
+    "iso:country":"US",
+    "sg:address":"221 Ellendale Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 3077",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yzOdpC2jqS2a78khW0fiO_38.795573_-75.384902@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220840,
+    "wof:geomhash":"fc0135373cef3028381ca26a60529815",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857701267
+        }
+    ],
+    "wof:id":857701267,
+    "wof:lastmodified":1464220840,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -75.384902,
+    38.795573,
+    -75.384902,
+    38.795573
+],
+  "geometry": {"coordinates":[-75.384902,38.795573],"type":"Point"}
+}

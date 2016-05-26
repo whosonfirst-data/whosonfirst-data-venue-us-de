@@ -1,0 +1,74 @@
+{
+  "id": 873512475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.750032,39.652252,-75.750032,39.652252",
+    "geom:latitude":39.652252,
+    "geom:longitude":-75.750032,
+    "iso:country":"US",
+    "sg:address":"1005 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 8357",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "sg:website":"http://www.budgettruck.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63JROPzPNvHEyYsFVw2dHY_39.651794_-75.749540@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223492,
+    "wof:geomhash":"5fc4054d89a2884c5438e4b52e78f97d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873512475
+        }
+    ],
+    "wof:id":873512475,
+    "wof:lastmodified":1464223492,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -75.750032,
+    39.652252,
+    -75.750032,
+    39.652252
+],
+  "geometry": {"coordinates":[-75.750032,39.652252],"type":"Point"}
+}

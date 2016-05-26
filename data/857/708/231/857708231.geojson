@@ -1,0 +1,71 @@
+{
+  "id": 857708231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.315695,38.645616,-75.315695,38.645616",
+    "geom:latitude":38.645616,
+    "geom:longitude":-75.315695,
+    "iso:country":"US",
+    "sg:address":"14 Blue Heron Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 3708",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "development"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VfSm3t6MpgRPh1XzxH3eA_38.645616_-75.315695@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220980,
+    "wof:geomhash":"c0bbd240571c168ddba9e6a5562b9884",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857708231
+        }
+    ],
+    "wof:id":857708231,
+    "wof:lastmodified":1464220980,
+    "wof:name":"Blue Heron Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development"
+    ]
+},
+  "bbox": [
+    -75.315695,
+    38.645616,
+    -75.315695,
+    38.645616
+],
+  "geometry": {"coordinates":[-75.31569500000001,38.645616],"type":"Point"}
+}

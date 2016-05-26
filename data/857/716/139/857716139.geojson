@@ -1,0 +1,73 @@
+{
+  "id": 857716139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.508889,39.124283,-75.508889,39.124283",
+    "geom:latitude":39.124283,
+    "geom:longitude":-75.508889,
+    "iso:country":"US",
+    "sg:address":"109 Stuart Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 4130",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931709,
+        102083871,
+        85858961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05yeMlwQoJLaTLdkyIf5tm_39.124283_-75.508889@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221167,
+    "wof:geomhash":"be680d3dc721b213da8dc16f04a85175",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931709,
+            "neighbourhood_id":85858961,
+            "region_id":85688611,
+            "venue_id":857716139
+        }
+    ],
+    "wof:id":857716139,
+    "wof:lastmodified":1464221167,
+    "wof:name":"Barry Goldstein MD",
+    "wof:parent_id":85858961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.508889,
+    39.124283,
+    -75.508889,
+    39.124283
+],
+  "geometry": {"coordinates":[-75.508889,39.124283],"type":"Point"}
+}

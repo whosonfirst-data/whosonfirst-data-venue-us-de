@@ -1,0 +1,73 @@
+{
+  "id": 857700699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555134,39.199802,-75.555134,39.199802",
+    "geom:latitude":39.199802,
+    "geom:longitude":-75.555134,
+    "iso:country":"US",
+    "sg:address":"3045 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 3755",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cosmetic",
+        "perfume"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53O3XtjyLi7qrl0oWSZOrS_39.199802_-75.555134@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220829,
+    "wof:geomhash":"74138161b9ad1fe6347a1db85406ebf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857700699
+        }
+    ],
+    "wof:id":857700699,
+    "wof:lastmodified":1464220829,
+    "wof:name":"Bath & Body Works",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cosmetic",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -75.555134,
+    39.199802,
+    -75.555134,
+    39.199802
+],
+  "geometry": {"coordinates":[-75.555134,39.199802],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873502795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56402,39.760035,-75.56402,39.760035",
+    "geom:latitude":39.760035,
+    "geom:longitude":-75.56402,
+    "iso:country":"US",
+    "sg:address":"1707 N Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 7173",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WT5e5xIcZggodYbzXocFh_39.760035_-75.564020@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223058,
+    "wof:geomhash":"8bc6a0ed63ec36150bf53c649f3004d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873502795
+        }
+    ],
+    "wof:id":873502795,
+    "wof:lastmodified":1464223058,
+    "wof:name":"Frame Central",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.56402,
+    39.760035,
+    -75.56402,
+    39.760035
+],
+  "geometry": {"coordinates":[-75.56402,39.760035],"type":"Point"}
+}

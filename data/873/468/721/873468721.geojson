@@ -1,0 +1,76 @@
+{
+  "id": 873468721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.657154,39.632322,-75.657154,39.632322",
+    "geom:latitude":39.632322,
+    "geom:longitude":-75.657154,
+    "iso:country":"US",
+    "sg:address":"660 Eden Cir",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 8999",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "sg:website":"www.blockbuster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xlLRGEXFSF0thhOpQ6zWU_39.632322_-75.657154@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221678,
+    "wof:geomhash":"1b5ed95b105c6344aab3a8c04b01051b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873468721
+        }
+    ],
+    "wof:id":873468721,
+    "wof:lastmodified":1464221678,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.657154,
+    39.632322,
+    -75.657154,
+    39.632322
+],
+  "geometry": {"coordinates":[-75.65715400000001,39.632322],"type":"Point"}
+}

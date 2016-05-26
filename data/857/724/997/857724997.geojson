@@ -1,0 +1,71 @@
+{
+  "id": 857724997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56979,39.210334,-75.56979,39.210334",
+    "geom:latitude":39.210334,
+    "geom:longitude":-75.56979,
+    "iso:country":"US",
+    "sg:address":"4227 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 1405",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cZHlCyXrLayRjv2cTNY3T_39.210334_-75.569790@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221342,
+    "wof:geomhash":"3f4c8d844bde1ca01e5b23bc6a28a18c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857724997
+        }
+    ],
+    "wof:id":857724997,
+    "wof:lastmodified":1464221342,
+    "wof:name":"Nanticoke Homes Of Dover",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -75.56979,
+    39.210334,
+    -75.56979,
+    39.210334
+],
+  "geometry": {"coordinates":[-75.56979,39.210334],"type":"Point"}
+}

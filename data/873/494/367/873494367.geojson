@@ -1,0 +1,71 @@
+{
+  "id": 873494367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.152788,38.761433,-75.152788,38.761433",
+    "geom:latitude":38.761433,
+    "geom:longitude":-75.152788,
+    "iso:country":"US",
+    "sg:address":"1201 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 7919",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lipOElUukR1vWQPzZPprm_38.761433_-75.152788@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222678,
+    "wof:geomhash":"4df321e2ae0b9f112c9363625825d4e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873494367
+        }
+    ],
+    "wof:id":873494367,
+    "wof:lastmodified":1464222678,
+    "wof:name":"Sdia Properties LLC",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.152788,
+    38.761433,
+    -75.152788,
+    38.761433
+],
+  "geometry": {"coordinates":[-75.152788,38.761433],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857715029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.507265,38.423164,-75.507265,38.423164",
+    "geom:latitude":38.423164,
+    "geom:longitude":-75.507265,
+    "iso:country":"US",
+    "sg:address":"31830 Essex Pl",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 749 0411",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85810701,
+        102082715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HezbiorHg1lDTkl5nYKsa_38.423164_-75.507265@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221148,
+    "wof:geomhash":"3259e10053ed5c17c68f13540831a033",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "neighbourhood_id":85810701,
+            "region_id":85688501,
+            "venue_id":857715029
+        }
+    ],
+    "wof:id":857715029,
+    "wof:lastmodified":1464221148,
+    "wof:name":"B V Donovan",
+    "wof:parent_id":85810701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.507265,
+    38.423164,
+    -75.507265,
+    38.423164
+],
+  "geometry": {"coordinates":[-75.507265,38.423164],"type":"Point"}
+}

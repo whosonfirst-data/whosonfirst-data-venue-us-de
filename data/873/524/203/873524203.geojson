@@ -1,0 +1,76 @@
+{
+  "id": 873524203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566277,38.925571,-75.566277,38.925571",
+    "geom:latitude":38.925571,
+    "geom:longitude":-75.566277,
+    "iso:country":"US",
+    "sg:address":"1000 Midway Dr Ste 10",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8200",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07PJd7Bklxcbw9BcJsYEMV_38.925571_-75.566277@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224048,
+    "wof:geomhash":"61808be8a5473370440edad6e7a18f6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524203
+        }
+    ],
+    "wof:id":873524203,
+    "wof:lastmodified":1464224048,
+    "wof:name":"Harrington Realty",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.566277,
+    38.925571,
+    -75.566277,
+    38.925571
+],
+  "geometry": {"coordinates":[-75.566277,38.925571],"type":"Point"}
+}

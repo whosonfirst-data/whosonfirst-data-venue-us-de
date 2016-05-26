@@ -1,0 +1,71 @@
+{
+  "id": 873485143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.414043,38.665682,-75.414043,38.665682",
+    "geom:latitude":38.665682,
+    "geom:longitude":-75.414043,
+    "iso:country":"US",
+    "sg:address":"19423 Substation Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 1778",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WItm5DgkhB2e2ABBpAYbb_38.665682_-75.414043@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222312,
+    "wof:geomhash":"72c048702291c13ad837253c020a7aa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873485143
+        }
+    ],
+    "wof:id":873485143,
+    "wof:lastmodified":1464222312,
+    "wof:name":"Herbs Auto Repair Inc",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.414043,
+    38.665682,
+    -75.414043,
+    38.665682
+],
+  "geometry": {"coordinates":[-75.41404300000001,38.665682],"type":"Point"}
+}

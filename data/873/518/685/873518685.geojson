@@ -1,0 +1,74 @@
+{
+  "id": 873518685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.609001,39.799702,-75.609001,39.799702",
+    "geom:latitude":39.799702,
+    "geom:longitude":-75.609001,
+    "iso:country":"US",
+    "sg:address":"4902 Kennett Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5628",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tWu7j3X3XAXjNxi0wfX3F_39.799702_-75.609001@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223823,
+    "wof:geomhash":"60cd24a52fa05118105ceef71b1f0ac9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":873518685
+        }
+    ],
+    "wof:id":873518685,
+    "wof:lastmodified":1464223823,
+    "wof:name":"Grace United Methodist Church Pre-School",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.609001,
+    39.799702,
+    -75.609001,
+    39.799702
+],
+  "geometry": {"coordinates":[-75.60900100000001,39.799702],"type":"Point"}
+}

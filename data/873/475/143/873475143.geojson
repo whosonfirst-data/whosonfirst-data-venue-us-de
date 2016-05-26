@@ -1,0 +1,73 @@
+{
+  "id": 873475143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.714801,39.648105,-75.714801,39.648105",
+    "geom:latitude":39.648105,
+    "geom:longitude":-75.714801,
+    "iso:country":"US",
+    "sg:address":"35 Albe Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 283 0600",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68B7l7YYCHFqgiM9wB1XaY_39.648105_-75.714801@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221920,
+    "wof:geomhash":"c7fb52d867571db768e9a15444ad9cc2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873475143
+        }
+    ],
+    "wof:id":873475143,
+    "wof:lastmodified":1464221920,
+    "wof:name":"Thomas Building Group",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.714801,
+    39.648105,
+    -75.714801,
+    39.648105
+],
+  "geometry": {"coordinates":[-75.71480099999999,39.648105],"type":"Point"}
+}

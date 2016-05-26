@@ -1,0 +1,71 @@
+{
+  "id": 873495111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.757013,39.603788,-75.757013,39.603788",
+    "geom:latitude":39.603788,
+    "geom:longitude":-75.757013,
+    "iso:country":"US",
+    "sg:address":"2693 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 2836",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan",
+        "company"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ATr8dnXvifT7b5R0AFFUT_39.603788_-75.757013@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222722,
+    "wof:geomhash":"49a16c89c1cb38b9fa80522997a7acf2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873495111
+        }
+    ],
+    "wof:id":873495111,
+    "wof:lastmodified":1464222722,
+    "wof:name":"Easy Money LLC",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "company"
+    ]
+},
+  "bbox": [
+    -75.757013,
+    39.603788,
+    -75.757013,
+    39.603788
+],
+  "geometry": {"coordinates":[-75.757013,39.603788],"type":"Point"}
+}

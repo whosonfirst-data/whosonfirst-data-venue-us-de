@@ -1,0 +1,73 @@
+{
+  "id": 873508463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.580112,39.752178,-75.580112,39.752178",
+    "geom:latitude":39.752178,
+    "geom:longitude":-75.580112,
+    "iso:country":"US",
+    "sg:address":"2601 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 0651",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "counseling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ja4NBSYjCPculFNzvN5GS_39.752178_-75.580112@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223307,
+    "wof:geomhash":"6a13a7c1272d1af1e48ad1ea0961ed50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873508463
+        }
+    ],
+    "wof:id":873508463,
+    "wof:lastmodified":1464223307,
+    "wof:name":"Catholic Charities Counseling",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling"
+    ]
+},
+  "bbox": [
+    -75.580112,
+    39.752178,
+    -75.580112,
+    39.752178
+],
+  "geometry": {"coordinates":[-75.580112,39.752178],"type":"Point"}
+}

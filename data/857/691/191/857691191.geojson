@@ -1,0 +1,71 @@
+{
+  "id": 857691191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.492369,39.77196,-75.492369,39.77196",
+    "geom:latitude":39.77196,
+    "geom:longitude":-75.492369,
+    "iso:country":"US",
+    "sg:address":"1511 Brandywine Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 3397",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GOK6EwRsZYdrnef2m52fY_39.771960_-75.492369@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220645,
+    "wof:geomhash":"ba1155b775183af0bf91f1bfdb9d0807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":857691191
+        }
+    ],
+    "wof:id":857691191,
+    "wof:lastmodified":1464220645,
+    "wof:name":"Lotech Corp",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.492369,
+    39.77196,
+    -75.492369,
+    39.77196
+],
+  "geometry": {"coordinates":[-75.492369,39.77196],"type":"Point"}
+}

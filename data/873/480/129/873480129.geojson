@@ -1,0 +1,73 @@
+{
+  "id": 873480129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.501979,39.018126,-75.501979,39.018126",
+    "geom:latitude":39.018126,
+    "geom:longitude":-75.501979,
+    "iso:country":"US",
+    "sg:address":"4036 Andrews Lake Rd",
+    "sg:city":"Frederica",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 0355",
+    "sg:postcode":"19946",
+    "sg:province":"DE",
+    "sg:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6or9nI69DQxUO1sEZfMTKy_39.018126_-75.501979@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222117,
+    "wof:geomhash":"6de7aa6da2d7323917836e038322583d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873480129
+        }
+    ],
+    "wof:id":873480129,
+    "wof:lastmodified":1464222117,
+    "wof:name":"Heartland Trucking Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "long",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.501979,
+    39.018126,
+    -75.501979,
+    39.018126
+],
+  "geometry": {"coordinates":[-75.50197900000001,39.018126],"type":"Point"}
+}

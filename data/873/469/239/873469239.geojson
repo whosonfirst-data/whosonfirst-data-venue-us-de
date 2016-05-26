@@ -1,0 +1,73 @@
+{
+  "id": 873469239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62718,39.201989,-75.62718,39.201989",
+    "geom:latitude":39.201989,
+    "geom:longitude":-75.62718,
+    "iso:country":"US",
+    "sg:address":"150 Sunnyfield Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8610",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WUYpP9j7eEJK6nTsatm9E_39.201989_-75.627180@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221695,
+    "wof:geomhash":"4a1a7d727f6bae18122cb1380ed4e5ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873469239
+        }
+    ],
+    "wof:id":873469239,
+    "wof:lastmodified":1464221695,
+    "wof:name":"Sunnyfield Contractors",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -75.62718,
+    39.201989,
+    -75.62718,
+    39.201989
+],
+  "geometry": {"coordinates":[-75.62718,39.201989],"type":"Point"}
+}

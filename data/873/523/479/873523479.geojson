@@ -1,0 +1,78 @@
+{
+  "id": 873523479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.668382,38.699154,-75.668382,38.699154",
+    "geom:latitude":38.699154,
+    "geom:longitude":-75.668382,
+    "iso:country":"US",
+    "sg:address":"4877 Baker Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 519 6539",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaner",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56RYPCWaRsDdh9ioqxKlsZ_38.699154_-75.668382@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224022,
+    "wof:geomhash":"55992fc2733f85b224275b6fa108abe5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873523479
+        }
+    ],
+    "wof:id":873523479,
+    "wof:lastmodified":1464224022,
+    "wof:name":"Rodneys Cleaning Service",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaner",
+        "house"
+    ]
+},
+  "bbox": [
+    -75.668382,
+    38.699154,
+    -75.668382,
+    38.699154
+],
+  "geometry": {"coordinates":[-75.66838199999999,38.699154],"type":"Point"}
+}

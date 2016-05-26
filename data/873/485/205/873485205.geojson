@@ -1,0 +1,73 @@
+{
+  "id": 873485205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.303934,38.590706,-75.303934,38.590706",
+    "geom:latitude":38.590706,
+    "geom:longitude":-75.303934,
+    "iso:country":"US",
+    "sg:address":"415 W Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 9454",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_621UDQ0ERc6FyghcadybPO_38.590706_-75.303934@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222314,
+    "wof:geomhash":"2c5b751d83ab26fe4872f844990adef6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873485205
+        }
+    ],
+    "wof:id":873485205,
+    "wof:lastmodified":1464222314,
+    "wof:name":"East-Side Car Wash",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.303934,
+    38.590706,
+    -75.303934,
+    38.590706
+],
+  "geometry": {"coordinates":[-75.303934,38.590706],"type":"Point"}
+}

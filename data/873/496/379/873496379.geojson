@@ -1,0 +1,71 @@
+{
+  "id": 873496379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.58901,39.181212,-75.58901,39.181212",
+    "geom:latitude":39.181212,
+    "geom:longitude":-75.58901,
+    "iso:country":"US",
+    "sg:address":"3369 W Denneys Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 8480",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LM8oHs5Go5r7mqLQjS6Td_39.181212_-75.589010@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222793,
+    "wof:geomhash":"d11d9ef543c1386dad6cabf36b89245f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873496379
+        }
+    ],
+    "wof:id":873496379,
+    "wof:lastmodified":1464222793,
+    "wof:name":"Heat Guys Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.58901,
+    39.181212,
+    -75.58901,
+    39.181212
+],
+  "geometry": {"coordinates":[-75.58901,39.181212],"type":"Point"}
+}

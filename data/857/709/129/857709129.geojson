@@ -1,0 +1,71 @@
+{
+  "id": 857709129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.653583,39.76576,-75.653583,39.76576",
+    "geom:latitude":39.76576,
+    "geom:longitude":-75.653583,
+    "iso:country":"US",
+    "sg:address":"6525 Lancaster Pike",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 1637",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6darHey004DEvbHkocfFBu_39.765760_-75.653583@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221006,
+    "wof:geomhash":"5d067ad5b0bed0540442e56b672114a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857709129
+        }
+    ],
+    "wof:id":857709129,
+    "wof:lastmodified":1464221006,
+    "wof:name":"Mumford & Miller Concrete Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.653583,
+    39.76576,
+    -75.653583,
+    39.76576
+],
+  "geometry": {"coordinates":[-75.653583,39.76576],"type":"Point"}
+}

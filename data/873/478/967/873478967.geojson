@@ -1,0 +1,71 @@
+{
+  "id": 873478967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.685527,39.683997,-75.685527,39.683997",
+    "geom:latitude":39.683997,
+    "geom:longitude":-75.685527,
+    "iso:country":"US",
+    "sg:address":"54 Cheswold Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 0784",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KjgE6ENX7XgS6p8IEf5Qj_39.683997_-75.685527@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222060,
+    "wof:geomhash":"5904cf5dcfa81dd32d4beba3af29b689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873478967
+        }
+    ],
+    "wof:id":873478967,
+    "wof:lastmodified":1464222060,
+    "wof:name":"Royale Apts",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.685527,
+    39.683997,
+    -75.685527,
+    39.683997
+],
+  "geometry": {"coordinates":[-75.68552699999999,39.683997],"type":"Point"}
+}

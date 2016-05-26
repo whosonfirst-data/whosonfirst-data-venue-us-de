@@ -1,0 +1,75 @@
+{
+  "id": 873474429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.51095,39.812717,-75.51095,39.812717",
+    "geom:latitude":39.812717,
+    "geom:longitude":-75.51095,
+    "iso:country":"US",
+    "sg:address":"2002 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 1975",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65hBkYJBVAp6RzYGLYFxEQ_39.812717_-75.510950@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221895,
+    "wof:geomhash":"503b29a01fd3eafc45a2c09ebde0dc71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873474429
+        }
+    ],
+    "wof:id":873474429,
+    "wof:lastmodified":1464221895,
+    "wof:name":"Rockwood Physicians PA",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.51095,
+    39.812717,
+    -75.51095,
+    39.812717
+],
+  "geometry": {"coordinates":[-75.51094999999999,39.812717],"type":"Point"}
+}

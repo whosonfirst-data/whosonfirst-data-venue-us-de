@@ -1,0 +1,73 @@
+{
+  "id": 857734811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563131,39.758983,-75.563131,39.758983",
+    "geom:latitude":39.758983,
+    "geom:longitude":-75.563131,
+    "iso:country":"US",
+    "sg:address":"1722 N Scott St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 8625",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2hMt5y6takCHDA6TsNbKSo_39.758983_-75.563131@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221536,
+    "wof:geomhash":"43d5490c8c96841af9151fee6235c403",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":857734811
+        }
+    ],
+    "wof:id":857734811,
+    "wof:lastmodified":1464221536,
+    "wof:name":"Angelo's Luncheonette",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.563131,
+    39.758983,
+    -75.563131,
+    39.758983
+],
+  "geometry": {"coordinates":[-75.563131,39.758983],"type":"Point"}
+}

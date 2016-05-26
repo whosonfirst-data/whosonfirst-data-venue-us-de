@@ -1,0 +1,75 @@
+{
+  "id": 873498461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675099,39.776535,-75.675099,39.776535",
+    "geom:latitude":39.776535,
+    "geom:longitude":-75.675099,
+    "iso:country":"US",
+    "sg:address":"957 Old Lancaster Pike",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 7631",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "presbyterian",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZAzWmaiPSTtHaKAqajbES_39.776535_-75.675099@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222880,
+    "wof:geomhash":"d0d1364cd008d2ca0a51a90b0e2461b6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873498461
+        }
+    ],
+    "wof:id":873498461,
+    "wof:lastmodified":1464222880,
+    "wof:name":"Berea Presbyterian Church",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "presbyterian",
+        "church"
+    ]
+},
+  "bbox": [
+    -75.675099,
+    39.776535,
+    -75.675099,
+    39.776535
+],
+  "geometry": {"coordinates":[-75.675099,39.776535],"type":"Point"}
+}

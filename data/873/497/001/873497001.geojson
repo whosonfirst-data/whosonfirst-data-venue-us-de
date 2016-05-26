@@ -1,0 +1,69 @@
+{
+  "id": 873497001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571911,38.647334,-75.571911,38.647334",
+    "geom:latitude":38.647334,
+    "geom:longitude":-75.571911,
+    "iso:country":"US",
+    "sg:address":"201 Rivers End Dr",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 8384",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZD01nlg2t2fqxyezLEZ76_38.647334_-75.571911@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222823,
+    "wof:geomhash":"403c708a164ff2ffa37927f76c25d79e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873497001
+        }
+    ],
+    "wof:id":873497001,
+    "wof:lastmodified":1464222823,
+    "wof:name":"Thomas R Mullen DDS",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.571911,
+    38.647334,
+    -75.571911,
+    38.647334
+],
+  "geometry": {"coordinates":[-75.571911,38.647334],"type":"Point"}
+}

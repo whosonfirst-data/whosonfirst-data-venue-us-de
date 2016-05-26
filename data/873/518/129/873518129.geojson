@@ -1,0 +1,65 @@
+{
+  "id": 873518129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549301,39.815701,-75.549301,39.815701",
+    "geom:latitude":39.815701,
+    "geom:longitude":-75.549301,
+    "iso:country":"US",
+    "sg:address":"4301 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 7822",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:website":"www.pnc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d0w9OwEfOwTHioyiwACn2_39.815701_-75.549301@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223799,
+    "wof:geomhash":"973ec2dc0a64ef40e5b5eb8cabfcc421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873518129
+        }
+    ],
+    "wof:id":873518129,
+    "wof:lastmodified":1464223799,
+    "wof:name":"Pnc Bank",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.549301,
+    39.815701,
+    -75.549301,
+    39.815701
+],
+  "geometry": {"coordinates":[-75.549301,39.815701],"type":"Point"}
+}

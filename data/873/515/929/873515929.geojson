@@ -1,0 +1,71 @@
+{
+  "id": 873515929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.740691,39.684044,-75.740691,39.684044",
+    "geom:latitude":39.684044,
+    "geom:longitude":-75.740691,
+    "iso:country":"US",
+    "sg:address":"313 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 0826",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Jh2qs2vhaObg1vmtA9tuS_39.684044_-75.740691@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223661,
+    "wof:geomhash":"a91c93d26b5a6c0507d031f58dd61f81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515929
+        }
+    ],
+    "wof:id":873515929,
+    "wof:lastmodified":1464223661,
+    "wof:name":"Newark Housing Authority",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -75.740691,
+    39.684044,
+    -75.740691,
+    39.684044
+],
+  "geometry": {"coordinates":[-75.740691,39.684044],"type":"Point"}
+}

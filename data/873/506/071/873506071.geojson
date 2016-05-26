@@ -1,0 +1,74 @@
+{
+  "id": 873506071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.655956,39.725007,-75.655956,39.725007",
+    "geom:latitude":39.725007,
+    "geom:longitude":-75.655956,
+    "iso:country":"US",
+    "sg:address":"4555 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 3156",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fBPQtzZcbNRAigZJsb5W7_39.725007_-75.655956@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223200,
+    "wof:geomhash":"fa500fa252a174a9eaa96bab52c9b55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873506071
+        }
+    ],
+    "wof:id":873506071,
+    "wof:lastmodified":1464223200,
+    "wof:name":"Books & Tobaccos Inc",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.655956,
+    39.725007,
+    -75.655956,
+    39.725007
+],
+  "geometry": {"coordinates":[-75.655956,39.725007],"type":"Point"}
+}

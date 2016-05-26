@@ -1,0 +1,78 @@
+{
+  "id": 873493931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529494,39.135405,-75.529494,39.135405",
+    "geom:latitude":39.135405,
+    "geom:longitude":-75.529494,
+    "iso:country":"US",
+    "sg:address":"1280 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2853",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "hospital",
+        "purchasing",
+        "for",
+        "trade"
+    ],
+    "sg:website":"www.deha.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vzAAzmqHr88Il8qzaTgjL_39.135405_-75.529494@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222648,
+    "wof:geomhash":"baf0f3b4680e596c7b854333f9e7391c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873493931
+        }
+    ],
+    "wof:id":873493931,
+    "wof:lastmodified":1464222648,
+    "wof:name":"Delaware Healthcare Assn",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "hospital",
+        "purchasing",
+        "for",
+        "trade"
+    ]
+},
+  "bbox": [
+    -75.529494,
+    39.135405,
+    -75.529494,
+    39.135405
+],
+  "geometry": {"coordinates":[-75.529494,39.135405],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857703329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.636228,38.759142,-75.636228,38.759142",
+    "geom:latitude":38.759142,
+    "geom:longitude":-75.636228,
+    "iso:country":"US",
+    "sg:address":"6482 Seashore Hwy",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3521",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pyHt3u4lfRaC4kyDYhQr5_38.759142_-75.636228@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220883,
+    "wof:geomhash":"053a61789def9860764248c8ffda30cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":857703329
+        }
+    ],
+    "wof:id":857703329,
+    "wof:lastmodified":1464220883,
+    "wof:name":"Delaware Solid Waste Authority",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -75.636228,
+    38.759142,
+    -75.636228,
+    38.759142
+],
+  "geometry": {"coordinates":[-75.636228,38.759142],"type":"Point"}
+}

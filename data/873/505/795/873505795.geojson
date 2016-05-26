@@ -1,0 +1,75 @@
+{
+  "id": 873505795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527203,39.158087,-75.527203,39.158087",
+    "geom:latitude":39.158087,
+    "geom:longitude":-75.527203,
+    "iso:country":"US",
+    "sg:address":"150 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 9754",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mQlTTCRgN1DnjfvVfgHXv_39.158087_-75.527203@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223190,
+    "wof:geomhash":"f038ed9ad95d45ab72f8207962300610",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873505795
+        }
+    ],
+    "wof:id":873505795,
+    "wof:lastmodified":1464223190,
+    "wof:name":"Delaware Shoe Repair",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -75.527203,
+    39.158087,
+    -75.527203,
+    39.158087
+],
+  "geometry": {"coordinates":[-75.527203,39.158087],"type":"Point"}
+}

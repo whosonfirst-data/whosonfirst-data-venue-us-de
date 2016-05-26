@@ -1,0 +1,69 @@
+{
+  "id": 857692425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.171852,38.600201,-75.171852,38.600201",
+    "geom:latitude":38.600201,
+    "geom:longitude":-75.171852,
+    "iso:country":"US",
+    "sg:address":"29 Cannon Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 947 9810",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NA2KpcRWYGkwfPzPodoTU_38.600201_-75.171852@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220670,
+    "wof:geomhash":"2146dc780761d2dab6f7d11ec4a06a49",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":857692425
+        }
+    ],
+    "wof:id":857692425,
+    "wof:lastmodified":1464220670,
+    "wof:name":"Action Appliance Svc",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -75.171852,
+    38.600201,
+    -75.171852,
+    38.600201
+],
+  "geometry": {"coordinates":[-75.171852,38.600201],"type":"Point"}
+}

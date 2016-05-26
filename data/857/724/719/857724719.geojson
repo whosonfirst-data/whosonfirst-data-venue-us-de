@@ -1,0 +1,77 @@
+{
+  "id": 857724719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570238,39.753478,-75.570238,39.753478",
+    "geom:latitude":39.753478,
+    "geom:longitude":-75.570238,
+    "iso:country":"US",
+    "sg:address":"831 N Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 893 2734",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BWw8B42nFOlgCs9TKYPSE_39.753478_-75.570238@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221337,
+    "wof:geomhash":"1ddb320f7f0d1bf8f0eb4141d926e13b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857724719
+        }
+    ],
+    "wof:id":857724719,
+    "wof:lastmodified":1464221337,
+    "wof:name":"Good To Go Delivery LLC",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.570238,
+    39.753478,
+    -75.570238,
+    39.753478
+],
+  "geometry": {"coordinates":[-75.570238,39.753478],"type":"Point"}
+}

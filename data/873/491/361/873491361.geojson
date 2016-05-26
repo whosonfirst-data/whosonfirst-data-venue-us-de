@@ -1,0 +1,73 @@
+{
+  "id": 873491361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595556,38.670663,-75.595556,38.670663",
+    "geom:latitude":38.670663,
+    "geom:longitude":-75.595556,
+    "iso:country":"US",
+    "sg:address":"22572 Bridgeville Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 8769",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pE32tBDLa3aLJLtdvawGa_38.670663_-75.595556@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222544,
+    "wof:geomhash":"df53ac4a1063d0996f7c0dbf83a9d49f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873491361
+        }
+    ],
+    "wof:id":873491361,
+    "wof:lastmodified":1464222544,
+    "wof:name":"Poor Tom's Pre-Owned Cars",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.595556,
+    38.670663,
+    -75.595556,
+    38.670663
+],
+  "geometry": {"coordinates":[-75.595556,38.670663],"type":"Point"}
+}

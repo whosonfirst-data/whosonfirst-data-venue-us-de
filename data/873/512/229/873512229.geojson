@@ -1,0 +1,75 @@
+{
+  "id": 873512229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.512901,39.154499,-75.512901,39.154499",
+    "geom:latitude":39.154499,
+    "geom:longitude":-75.512901,
+    "iso:country":"US",
+    "sg:address":"529 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 1940",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "used",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XtWZpmxyZEnLEu3eD5Ww1_39.154040_-75.513065@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223483,
+    "wof:geomhash":"98a673a5df134928dfeafc5080ed8962",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873512229
+        }
+    ],
+    "wof:id":873512229,
+    "wof:lastmodified":1464223483,
+    "wof:name":"Asap Auto Sales",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "towing"
+    ]
+},
+  "bbox": [
+    -75.512901,
+    39.154499,
+    -75.512901,
+    39.154499
+],
+  "geometry": {"coordinates":[-75.512901,39.154499],"type":"Point"}
+}

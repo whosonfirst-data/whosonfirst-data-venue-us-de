@@ -1,0 +1,73 @@
+{
+  "id": 857688499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567687,38.436768,-75.567687,38.436768",
+    "geom:latitude":38.436768,
+    "geom:longitude":-75.567687,
+    "iso:country":"US",
+    "sg:address":"8861 Bi State Blvd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 4024",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_186CIaOQxSYdvb09kvkFh1_38.436768_-75.567687@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220589,
+    "wof:geomhash":"e55a7983cd980182ba88f8181beb27a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":857688499
+        }
+    ],
+    "wof:id":857688499,
+    "wof:lastmodified":1464220589,
+    "wof:name":"Han's Auto & Truck Clinic Inc",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.567687,
+    38.436768,
+    -75.567687,
+    38.436768
+],
+  "geometry": {"coordinates":[-75.56768700000001,38.436768],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873464923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703858,39.679196,-75.703858,39.679196",
+    "geom:latitude":39.679196,
+    "geom:longitude":-75.703858,
+    "iso:country":"US",
+    "sg:address":"38 E Stephen Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 2966",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cuZKwic7OGmyF7ECkRz1V_39.679196_-75.703858@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221567,
+    "wof:geomhash":"40cc926887af209bc3047938e846c87e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873464923
+        }
+    ],
+    "wof:id":873464923,
+    "wof:lastmodified":1464221567,
+    "wof:name":"Carroll's Cleaning Svc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.703858,
+    39.679196,
+    -75.703858,
+    39.679196
+],
+  "geometry": {"coordinates":[-75.703858,39.679196],"type":"Point"}
+}

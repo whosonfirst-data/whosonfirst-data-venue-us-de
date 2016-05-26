@@ -1,0 +1,71 @@
+{
+  "id": 857716511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540179,39.100655,-75.540179,39.100655",
+    "geom:latitude":39.100655,
+    "geom:longitude":-75.540179,
+    "iso:country":"US",
+    "sg:address":"118 Vanessa Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 0964",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vIaRnzkswnDA8Z1dNupHQ_39.100655_-75.540179@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221174,
+    "wof:geomhash":"1bfb80012d902b3524bcd8bf463dffb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857716511
+        }
+    ],
+    "wof:id":857716511,
+    "wof:lastmodified":1464221174,
+    "wof:name":"Daniel Thomas",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -75.540179,
+    39.100655,
+    -75.540179,
+    39.100655
+],
+  "geometry": {"coordinates":[-75.54017899999999,39.100655],"type":"Point"}
+}

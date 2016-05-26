@@ -1,0 +1,71 @@
+{
+  "id": 857728175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556702,39.687739,-75.556702,39.687739",
+    "geom:latitude":39.687739,
+    "geom:longitude":-75.556702,
+    "iso:country":"US",
+    "sg:address":"1707 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 6430",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_347eylriCCMl28vIm56Rza_39.687739_-75.556702@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221399,
+    "wof:geomhash":"0c59735db9af348076f8109eca32a512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857728175
+        }
+    ],
+    "wof:id":857728175,
+    "wof:lastmodified":1464221399,
+    "wof:name":"Magic Touch Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.556702,
+    39.687739,
+    -75.556702,
+    39.687739
+],
+  "geometry": {"coordinates":[-75.556702,39.687739],"type":"Point"}
+}

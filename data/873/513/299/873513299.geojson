@@ -1,0 +1,70 @@
+{
+  "id": 873513299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.665962,39.691379,-75.665962,39.691379",
+    "geom:latitude":39.691379,
+    "geom:longitude":-75.665962,
+    "iso:country":"US",
+    "sg:address":"1279 Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/41273-olive-garden-italian-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 5430",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ylnn1mESKtdIeTWpS4Ozh_39.691379_-75.665962@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223524,
+    "wof:geomhash":"8ed3469fad62a11733b814edf387cf9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513299
+        }
+    ],
+    "wof:id":873513299,
+    "wof:lastmodified":1464223524,
+    "wof:name":"Olive Garden Italian Restaurant",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.665962,
+    39.691379,
+    -75.665962,
+    39.691379
+],
+  "geometry": {"coordinates":[-75.66596199999999,39.691379],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857686521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545887,39.785593,-75.545887,39.785593",
+    "geom:latitude":39.785593,
+    "geom:longitude":-75.545887,
+    "iso:country":"US",
+    "sg:address":"1701 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 421 9063",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "kitchen",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0is3sEqq4OEGGMtoIsDQRI_39.785593_-75.545887@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220549,
+    "wof:geomhash":"a28318ea183eea9289c32e9570d2b134",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":857686521
+        }
+    ],
+    "wof:id":857686521,
+    "wof:lastmodified":1464220549,
+    "wof:name":"Classic Kitchens Inc",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "kitchen",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -75.545887,
+    39.785593,
+    -75.545887,
+    39.785593
+],
+  "geometry": {"coordinates":[-75.54588699999999,39.785593],"type":"Point"}
+}

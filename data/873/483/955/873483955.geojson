@@ -1,0 +1,75 @@
+{
+  "id": 873483955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.49929,39.763017,-75.49929,39.763017",
+    "geom:latitude":39.763017,
+    "geom:longitude":-75.49929,
+    "iso:country":"US",
+    "sg:address":"107 North Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 2145",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "exercising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85828879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DDrqUQrpx6MdhIXt41Iuu_39.763017_-75.499290@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222269,
+    "wof:geomhash":"63eeefab54d2f9515b898a6c5814e690",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85828879,
+            "region_id":85688611,
+            "venue_id":873483955
+        }
+    ],
+    "wof:id":873483955,
+    "wof:lastmodified":1464222269,
+    "wof:name":"Pet Pals",
+    "wof:parent_id":85828879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "exercising"
+    ]
+},
+  "bbox": [
+    -75.49929,
+    39.763017,
+    -75.49929,
+    39.763017
+],
+  "geometry": {"coordinates":[-75.49929,39.763017],"type":"Point"}
+}

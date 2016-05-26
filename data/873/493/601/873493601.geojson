@@ -1,0 +1,71 @@
+{
+  "id": 873493601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544421,39.115688,-75.544421,39.115688",
+    "geom:latitude":39.115688,
+    "geom:longitude":-75.544421,
+    "iso:country":"US",
+    "sg:address":"224 Center St",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 7900",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hVvT6y1rneJOXxgbXfaHv_39.115688_-75.544421@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222632,
+    "wof:geomhash":"b7fb12e636b21ee7a9ec2e69224862a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873493601
+        }
+    ],
+    "wof:id":873493601,
+    "wof:lastmodified":1464222632,
+    "wof:name":"Community Builders Inc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -75.544421,
+    39.115688,
+    -75.544421,
+    39.115688
+],
+  "geometry": {"coordinates":[-75.544421,39.115688],"type":"Point"}
+}

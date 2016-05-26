@@ -1,0 +1,75 @@
+{
+  "id": 857707879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532986,39.745326,-75.532986,39.745326",
+    "geom:latitude":39.745326,
+    "geom:longitude":-75.532986,
+    "iso:country":"US",
+    "sg:address":"1401 Northeast Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 2352",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rnB16k9lvQ7Y0HYO82zSM_39.745326_-75.532986@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220967,
+    "wof:geomhash":"e7066d31c471800fe5b329024133318e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":857707879
+        }
+    ],
+    "wof:id":857707879,
+    "wof:lastmodified":1464220967,
+    "wof:name":"Northeast Gulf Station",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.532986,
+    39.745326,
+    -75.532986,
+    39.745326
+],
+  "geometry": {"coordinates":[-75.53298599999999,39.745326],"type":"Point"}
+}

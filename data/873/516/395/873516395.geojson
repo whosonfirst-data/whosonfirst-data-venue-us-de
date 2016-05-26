@@ -1,0 +1,76 @@
+{
+  "id": 873516395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.776205,39.645472,-75.776205,39.645472",
+    "geom:latitude":39.645472,
+    "geom:longitude":-75.776205,
+    "iso:country":"US",
+    "sg:address":"16 Knights Xing",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 5888",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0736nEgzAEh81aXbK19EpB_39.645472_-75.776205@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223683,
+    "wof:geomhash":"f6e6b390626be228f4df6cdc0edec703",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873516395
+        }
+    ],
+    "wof:id":873516395,
+    "wof:lastmodified":1464223683,
+    "wof:name":"Greystone Servicing Corporation, Inc.",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing"
+    ]
+},
+  "bbox": [
+    -75.776205,
+    39.645472,
+    -75.776205,
+    39.645472
+],
+  "geometry": {"coordinates":[-75.776205,39.645472],"type":"Point"}
+}

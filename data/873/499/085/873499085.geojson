@@ -1,0 +1,69 @@
+{
+  "id": 873499085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703929,39.68794,-75.703929,39.68794",
+    "geom:latitude":39.68794,
+    "geom:longitude":-75.703929,
+    "iso:country":"US",
+    "sg:address":"301 Ruthar Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 0355",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6q12SMr5dIMcTb1Ys1TRgy_39.687940_-75.703929@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222903,
+    "wof:geomhash":"efb058f1c302d3cd7070177dd0aae12d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873499085
+        }
+    ],
+    "wof:id":873499085,
+    "wof:lastmodified":1464222903,
+    "wof:name":"Penn-Del Sprinkler",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.703929,
+    39.68794,
+    -75.703929,
+    39.68794
+],
+  "geometry": {"coordinates":[-75.703929,39.68794],"type":"Point"}
+}

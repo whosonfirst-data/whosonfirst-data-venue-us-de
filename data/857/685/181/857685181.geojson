@@ -1,0 +1,73 @@
+{
+  "id": 857685181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.681211,39.785348,-75.681211,39.785348",
+    "geom:latitude":39.785348,
+    "geom:longitude":-75.681211,
+    "iso:country":"US",
+    "sg:address":"103 Dennison Ln",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 1785",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LPU87Xi6bCmdawPMzRxPw_39.785348_-75.681211@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220525,
+    "wof:geomhash":"7af7a1eb6a99ef297ef6031c21b4ab6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":857685181
+        }
+    ],
+    "wof:id":857685181,
+    "wof:lastmodified":1464220525,
+    "wof:name":"Wm H Jeppe Dr",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.681211,
+    39.785348,
+    -75.681211,
+    39.785348
+],
+  "geometry": {"coordinates":[-75.681211,39.785348],"type":"Point"}
+}

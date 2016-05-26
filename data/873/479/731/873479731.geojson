@@ -1,0 +1,71 @@
+{
+  "id": 873479731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548178,39.802521,-75.548178,39.802521",
+    "geom:latitude":39.802521,
+    "geom:longitude":-75.548178,
+    "iso:country":"US",
+    "sg:address":"3401 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 9450",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sczYs0e6JxjjP16ndmauU_39.802521_-75.548178@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222099,
+    "wof:geomhash":"4a3ce28f4e44c1168a483119c6bfdf0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873479731
+        }
+    ],
+    "wof:id":873479731,
+    "wof:lastmodified":1464222099,
+    "wof:name":"Steve Swyka Auto Specialist",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.548178,
+    39.802521,
+    -75.548178,
+    39.802521
+],
+  "geometry": {"coordinates":[-75.54817799999999,39.802521],"type":"Point"}
+}

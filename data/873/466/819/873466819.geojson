@@ -1,0 +1,71 @@
+{
+  "id": 873466819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.387612,38.69311,-75.387612,38.69311",
+    "geom:latitude":38.69311,
+    "geom:longitude":-75.387612,
+    "iso:country":"US",
+    "sg:address":"206 N Race St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 9411",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ps17IqUaR6Y60BbBFRvBu_38.693110_-75.387612@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221612,
+    "wof:geomhash":"47627b91a1702f50c5ba01e2f18baf4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873466819
+        }
+    ],
+    "wof:id":873466819,
+    "wof:lastmodified":1464221612,
+    "wof:name":"Little Mexico",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.387612,
+    38.69311,
+    -75.387612,
+    38.69311
+],
+  "geometry": {"coordinates":[-75.387612,38.69311],"type":"Point"}
+}

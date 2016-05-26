@@ -1,0 +1,109 @@
+{
+  "id": 873519095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.684242,39.736715,-75.684242,39.736715",
+    "geom:latitude":39.736715,
+    "geom:longitude":-75.684242,
+    "iso:country":"US",
+    "sg:address":"255 Limestone Rd Ste 109",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 489 0220",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "family",
+        "counselors-licensed",
+        "psychologist",
+        "individual",
+        "marriage",
+        "treatment",
+        "child",
+        "professional",
+        "counselor",
+        "sleep",
+        "disorders-information"
+    ],
+    "sg:website":"http://www.newperspectivesinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZsMgsmxuU6FPoBkO1pG1o_39.736715_-75.684242@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223838,
+    "wof:geomhash":"4a337eab249bbf00a7f157d573ba3678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":873519095
+        }
+    ],
+    "wof:id":873519095,
+    "wof:lastmodified":1464223838,
+    "wof:name":"New Perspectives Inc",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family",
+        "counselors-licensed",
+        "psychologist",
+        "individual",
+        "marriage",
+        "treatment",
+        "child",
+        "professional",
+        "counselor",
+        "sleep",
+        "disorders-information"
+    ]
+},
+  "bbox": [
+    -75.684242,
+    39.736715,
+    -75.684242,
+    39.736715
+],
+  "geometry": {"coordinates":[-75.684242,39.736715],"type":"Point"}
+}

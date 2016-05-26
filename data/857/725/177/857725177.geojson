@@ -1,0 +1,75 @@
+{
+  "id": 857725177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.391352,38.694998,-75.391352,38.694998",
+    "geom:latitude":38.694998,
+    "geom:longitude":-75.391352,
+    "iso:country":"US",
+    "sg:address":"662 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 9302",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "s",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uHrviGA7e5WvZPtcmJGIl_38.694998_-75.391352@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221347,
+    "wof:geomhash":"feb0d59851c61ad7e09db6d6e4903d87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857725177
+        }
+    ],
+    "wof:id":857725177,
+    "wof:lastmodified":1464221347,
+    "wof:name":"Howard Maint",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "s",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.391352,
+    38.694998,
+    -75.391352,
+    38.694998
+],
+  "geometry": {"coordinates":[-75.391352,38.694998],"type":"Point"}
+}

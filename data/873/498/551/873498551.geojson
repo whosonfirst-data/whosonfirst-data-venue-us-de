@@ -1,0 +1,71 @@
+{
+  "id": 873498551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.584924,39.077978,-75.584924,39.077978",
+    "geom:latitude":39.077978,
+    "geom:longitude":-75.584924,
+    "iso:country":"US",
+    "sg:address":"547 Steeles Ridge Rd",
+    "sg:city":"Hartly",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 610 745 2372",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48jxcUqTu09obSr1I4gSWe_39.077978_-75.584924@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222884,
+    "wof:geomhash":"26f88cbcee39be902cb98ea5f4147b00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873498551
+        }
+    ],
+    "wof:id":873498551,
+    "wof:lastmodified":1464222884,
+    "wof:name":"Zerbes Atv Detailing",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -75.584924,
+    39.077978,
+    -75.584924,
+    39.077978
+],
+  "geometry": {"coordinates":[-75.584924,39.077978],"type":"Point"}
+}

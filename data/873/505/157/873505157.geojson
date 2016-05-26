@@ -1,0 +1,69 @@
+{
+  "id": 873505157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.709532,39.697671,-75.709532,39.697671",
+    "geom:latitude":39.697671,
+    "geom:longitude":-75.709532,
+    "iso:country":"US",
+    "sg:address":"1248 Capitol Trl",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 9515",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07oQdKOvVzTE2JMbB19Shr_39.697671_-75.709532@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223163,
+    "wof:geomhash":"1b30c5ca4da9a268f8a995cc41037f12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873505157
+        }
+    ],
+    "wof:id":873505157,
+    "wof:lastmodified":1464223163,
+    "wof:name":"Red Mill Laundromat",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -75.709532,
+    39.697671,
+    -75.709532,
+    39.697671
+],
+  "geometry": {"coordinates":[-75.709532,39.697671],"type":"Point"}
+}

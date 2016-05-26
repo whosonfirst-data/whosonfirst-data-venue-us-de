@@ -1,0 +1,71 @@
+{
+  "id": 873494981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.739448,39.684077,-75.739448,39.684077",
+    "geom:latitude":39.684077,
+    "geom:longitude":-75.739448,
+    "iso:country":"US",
+    "sg:address":"311 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 1430",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QOxABdq3W7jMYAkxQ8WX2_39.684077_-75.739448@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222715,
+    "wof:geomhash":"acea4bff2fa0b4455cbbf0c32ba3cff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873494981
+        }
+    ],
+    "wof:id":873494981,
+    "wof:lastmodified":1464222715,
+    "wof:name":"Goodwill Industries",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.739448,
+    39.684077,
+    -75.739448,
+    39.684077
+],
+  "geometry": {"coordinates":[-75.739448,39.684077],"type":"Point"}
+}

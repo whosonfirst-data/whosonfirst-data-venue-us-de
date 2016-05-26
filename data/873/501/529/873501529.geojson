@@ -1,0 +1,73 @@
+{
+  "id": 873501529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565243,39.760594,-75.565243,39.760594",
+    "geom:latitude":39.760594,
+    "geom:longitude":-75.565243,
+    "iso:country":"US",
+    "sg:address":"1903 Delaware Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 3549",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Xb7zgyyVkgHMpoZHIFp4O_39.760594_-75.565243@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223012,
+    "wof:geomhash":"f2a876eace8ac64155706f974012b419",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873501529
+        }
+    ],
+    "wof:id":873501529,
+    "wof:lastmodified":1464223012,
+    "wof:name":"Classic Video",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.565243,
+    39.760594,
+    -75.565243,
+    39.760594
+],
+  "geometry": {"coordinates":[-75.565243,39.760594],"type":"Point"}
+}

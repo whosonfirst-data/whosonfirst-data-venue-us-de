@@ -1,0 +1,68 @@
+{
+  "id": 857721371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563878,39.661102,-75.563878,39.661102",
+    "geom:latitude":39.661102,
+    "geom:longitude":-75.563878,
+    "iso:country":"US",
+    "sg:address":"41 E 4th St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 0930",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931555,
+        102083891,
+        85845649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01A0Yps5mjNbbQ4WxAIyHf_39.661102_-75.563878@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221277,
+    "wof:geomhash":"a00036671d1480af140dca06bc434064",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931555,
+            "neighbourhood_id":85845649,
+            "region_id":85688611,
+            "venue_id":857721371
+        }
+    ],
+    "wof:id":857721371,
+    "wof:lastmodified":1464221277,
+    "wof:name":"Norton Realty Inc",
+    "wof:parent_id":85845649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.563878,
+    39.661102,
+    -75.563878,
+    39.661102
+],
+  "geometry": {"coordinates":[-75.563878,39.661102],"type":"Point"}
+}

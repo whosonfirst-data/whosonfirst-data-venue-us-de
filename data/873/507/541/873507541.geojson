@@ -1,0 +1,77 @@
+{
+  "id": 873507541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.669025,39.667426,-75.669025,39.667426",
+    "geom:latitude":39.667426,
+    "geom:longitude":-75.669025,
+    "iso:country":"US",
+    "sg:address":"240 University Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 6050",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garment",
+        "cleaners",
+        "plant",
+        "agent",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CxIWhEl1kYUNNtmSLcMUo_39.667426_-75.669025@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223260,
+    "wof:geomhash":"d15c306934812e7d1a7e59f0fddba6fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873507541
+        }
+    ],
+    "wof:id":873507541,
+    "wof:lastmodified":1464223260,
+    "wof:name":"University Cleaners Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "cleaners",
+        "plant",
+        "agent",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -75.669025,
+    39.667426,
+    -75.669025,
+    39.667426
+],
+  "geometry": {"coordinates":[-75.669025,39.667426],"type":"Point"}
+}

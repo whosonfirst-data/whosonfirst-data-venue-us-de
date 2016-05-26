@@ -1,0 +1,71 @@
+{
+  "id": 873514101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.727409,39.59444,-75.727409,39.59444",
+    "geom:latitude":39.59444,
+    "geom:longitude":-75.727409,
+    "iso:country":"US",
+    "sg:address":"9 E Savannah Dr",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 886 7733",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cesp7dcgEaBs3JfE0nAIa_39.594440_-75.727409@1303262469"
+    },
+    "wof:country":"US",
+    "wof:created":1464223568,
+    "wof:geomhash":"f48fc7e90a4acf5d1a898a4ecaaeb671",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514101
+        }
+    ],
+    "wof:id":873514101,
+    "wof:lastmodified":1464223568,
+    "wof:name":"Cynthia K Dinetta",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.727409,
+    39.59444,
+    -75.727409,
+    39.59444
+],
+  "geometry": {"coordinates":[-75.72740899999999,39.59444],"type":"Point"}
+}

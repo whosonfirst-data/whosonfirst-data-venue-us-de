@@ -1,0 +1,71 @@
+{
+  "id": 873468091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.708946,39.682524,-75.708946,39.682524",
+    "geom:latitude":39.682524,
+    "geom:longitude":-75.708946,
+    "iso:country":"US",
+    "sg:address":"2860 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 2013",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ulrpbcaFVAmtLS63bfTJJ_39.682524_-75.708946@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221655,
+    "wof:geomhash":"a19f14c93e3952cbb658ba19f5ff87f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873468091
+        }
+    ],
+    "wof:id":873468091,
+    "wof:lastmodified":1464221655,
+    "wof:name":"SVS Mobile Automobile Repair",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.708946,
+    39.682524,
+    -75.708946,
+    39.682524
+],
+  "geometry": {"coordinates":[-75.708946,39.682524],"type":"Point"}
+}

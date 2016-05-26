@@ -1,0 +1,69 @@
+{
+  "id": 873517789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.521599,39.801399,-75.521599,39.801399",
+    "geom:latitude":39.801399,
+    "geom:longitude":-75.521599,
+    "iso:country":"US",
+    "sg:address":"1409 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1301",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d032YlR5PT5g2s5rlgXJh_39.801399_-75.521599@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223780,
+    "wof:geomhash":"948fcb2f454a5da67684c52a955135a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873517789
+        }
+    ],
+    "wof:id":873517789,
+    "wof:lastmodified":1464223780,
+    "wof:name":"Maxim Healthcare Services",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.521599,
+    39.801399,
+    -75.521599,
+    39.801399
+],
+  "geometry": {"coordinates":[-75.52159899999999,39.801399],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873514347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.714272,39.650733,-75.714272,39.650733",
+    "geom:latitude":39.650733,
+    "geom:longitude":-75.714272,
+    "iso:country":"US",
+    "sg:address":"107 Albe Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 7923",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "scooters-repairing",
+        "scooters-parts",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07BgIO3X2APWOuKa2EMe3F_39.650733_-75.714272@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223584,
+    "wof:geomhash":"2177f2eb0698f97cfa2d3a18c708dfb6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873514347
+        }
+    ],
+    "wof:id":873514347,
+    "wof:lastmodified":1464223584,
+    "wof:name":"Independents Choppers",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-repairing",
+        "scooters-parts",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.714272,
+    39.650733,
+    -75.714272,
+    39.650733
+],
+  "geometry": {"coordinates":[-75.71427199999999,39.650733],"type":"Point"}
+}

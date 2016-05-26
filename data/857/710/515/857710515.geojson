@@ -1,0 +1,73 @@
+{
+  "id": 857710515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.677932,38.955785,-75.677932,38.955785",
+    "geom:latitude":38.955785,
+    "geom:longitude":-75.677932,
+    "iso:country":"US",
+    "sg:address":"3180 Park Brown Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 242 6599",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential",
+        "commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t7Bbn8wmX58akEYaWvVQJ_38.955785_-75.677932@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221041,
+    "wof:geomhash":"a6021887d95ae9556945f35a0f9d4c77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857710515
+        }
+    ],
+    "wof:id":857710515,
+    "wof:lastmodified":1464221041,
+    "wof:name":"Tri-County Excavation LLC",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.677932,
+    38.955785,
+    -75.677932,
+    38.955785
+],
+  "geometry": {"coordinates":[-75.677932,38.955785],"type":"Point"}
+}

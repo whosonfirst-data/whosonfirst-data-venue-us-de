@@ -1,0 +1,71 @@
+{
+  "id": 873501837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.630755,39.736111,-75.630755,39.736111",
+    "geom:latitude":39.736111,
+    "geom:longitude":-75.630755,
+    "iso:country":"US",
+    "sg:address":"3401 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1253",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HCJA5Pi39b1sYHOODOkzC_39.736111_-75.630755@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223022,
+    "wof:geomhash":"cbb34a4ec313a0dcdf14bd812c0c5401",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873501837
+        }
+    ],
+    "wof:id":873501837,
+    "wof:lastmodified":1464223022,
+    "wof:name":"Exxon",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.630755,
+    39.736111,
+    -75.630755,
+    39.736111
+],
+  "geometry": {"coordinates":[-75.63075499999999,39.736111],"type":"Point"}
+}

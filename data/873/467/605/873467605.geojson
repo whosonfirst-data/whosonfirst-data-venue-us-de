@@ -1,0 +1,69 @@
+{
+  "id": 873467605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.151945,38.614316,-75.151945,38.614316",
+    "geom:latitude":38.614316,
+    "geom:longitude":-75.151945,
+    "iso:country":"US",
+    "sg:address":"468 Bay Rd",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 4091",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bKrg92OD9nu2fq2jAI1De_38.614316_-75.151945@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221638,
+    "wof:geomhash":"a77c0636516903d4c79be73d88d57b52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873467605
+        }
+    ],
+    "wof:id":873467605,
+    "wof:lastmodified":1464221638,
+    "wof:name":"Melco Painting & Drywall",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -75.151945,
+    38.614316,
+    -75.151945,
+    38.614316
+],
+  "geometry": {"coordinates":[-75.151945,38.614316],"type":"Point"}
+}

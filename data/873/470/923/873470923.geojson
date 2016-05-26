@@ -1,0 +1,71 @@
+{
+  "id": 873470923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675141,39.666197,-75.675141,39.666197",
+    "geom:latitude":39.666197,
+    "geom:longitude":-75.675141,
+    "iso:country":"US",
+    "sg:address":"305 Mederia Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 8000",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OU7UjPXyvZIYZ6svmE9FQ_39.666197_-75.675141@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221764,
+    "wof:geomhash":"f44827b72353b12347876aa6d9259c31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873470923
+        }
+    ],
+    "wof:id":873470923,
+    "wof:lastmodified":1464221764,
+    "wof:name":"Kushner Companies",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.675141,
+    39.666197,
+    -75.675141,
+    39.666197
+],
+  "geometry": {"coordinates":[-75.675141,39.666197],"type":"Point"}
+}

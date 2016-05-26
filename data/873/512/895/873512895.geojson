@@ -1,0 +1,72 @@
+{
+  "id": 873512895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.750375,39.60214,-75.750375,39.60214",
+    "geom:latitude":39.60214,
+    "geom:longitude":-75.750375,
+    "iso:country":"US",
+    "sg:address":"1500 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/central-pencader/99040-friendlys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 8450",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hZgVmL0eqgOTLUwlw2C7M_39.602140_-75.750375@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223510,
+    "wof:geomhash":"d64b2517c1b0256b68dbf86566c841ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873512895
+        }
+    ],
+    "wof:id":873512895,
+    "wof:lastmodified":1464223510,
+    "wof:name":"Friendly's",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.750375,
+    39.60214,
+    -75.750375,
+    39.60214
+],
+  "geometry": {"coordinates":[-75.75037500000001,39.60214],"type":"Point"}
+}

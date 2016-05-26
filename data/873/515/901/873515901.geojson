@@ -1,0 +1,87 @@
+{
+  "id": 873515901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.709503,39.69928,-75.709503,39.69928",
+    "geom:latitude":39.69928,
+    "geom:longitude":-75.709503,
+    "iso:country":"US",
+    "sg:address":"20 Polly Drummond Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 0044",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://www.nationwide.com/agent/Newark-DELAWARE-insurance-agent/lisabroadbent/office.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XK9e99Oz1OYqvHU5czCLg_39.699280_-75.709503@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223659,
+    "wof:geomhash":"db366ab0a81363092d45088a720f557d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873515901
+        }
+    ],
+    "wof:id":873515901,
+    "wof:lastmodified":1464223659,
+    "wof:name":"Lisa Broadbent Ins Inc - Nationwide Insurance",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -75.709503,
+    39.69928,
+    -75.709503,
+    39.69928
+],
+  "geometry": {"coordinates":[-75.709503,39.69928],"type":"Point"}
+}

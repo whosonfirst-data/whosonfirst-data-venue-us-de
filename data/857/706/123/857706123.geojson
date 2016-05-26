@@ -1,0 +1,76 @@
+{
+  "id": 857706123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57361,39.691069,-75.57361,39.691069",
+    "geom:latitude":39.691069,
+    "geom:longitude":-75.57361,
+    "iso:country":"US",
+    "sg:address":"12 McCullough Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 221 3831",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "transmission",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cd2bYrjHjZfgom9IQIVPn_39.691069_-75.573610@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220934,
+    "wof:geomhash":"6d357e1eb334bb5d7effca9155567855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857706123
+        }
+    ],
+    "wof:id":857706123,
+    "wof:lastmodified":1464220934,
+    "wof:name":"Power Trans Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -75.57361,
+    39.691069,
+    -75.57361,
+    39.691069
+],
+  "geometry": {"coordinates":[-75.57361,39.691069],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873519143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.661303,39.722269,-75.661303,39.722269",
+    "geom:latitude":39.722269,
+    "geom:longitude":-75.661303,
+    "iso:country":"US",
+    "sg:address":"4725 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 3013",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.pncbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sUenxw41yzpBYNwHYTRke_39.722269_-75.661303@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223840,
+    "wof:geomhash":"17922edf1de02a41241243ea6abf6ac1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873519143
+        }
+    ],
+    "wof:id":873519143,
+    "wof:lastmodified":1464223840,
+    "wof:name":"PNC Bank",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.661303,
+    39.722269,
+    -75.661303,
+    39.722269
+],
+  "geometry": {"coordinates":[-75.661303,39.722269],"type":"Point"}
+}

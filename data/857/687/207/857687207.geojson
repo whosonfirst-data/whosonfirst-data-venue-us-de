@@ -1,0 +1,73 @@
+{
+  "id": 857687207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.490301,39.787584,-75.490301,39.787584",
+    "geom:latitude":39.787584,
+    "geom:longitude":-75.490301,
+    "iso:country":"US",
+    "sg:address":"501 Woodside Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 5652",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UJHvk9oKq0xm883ZukKqE_39.787584_-75.490301@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220563,
+    "wof:geomhash":"624e604eb0d8f0caac4f910d72c1c251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":857687207
+        }
+    ],
+    "wof:id":857687207,
+    "wof:lastmodified":1464220563,
+    "wof:name":"Pyramid Electric",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.490301,
+    39.787584,
+    -75.490301,
+    39.787584
+],
+  "geometry": {"coordinates":[-75.490301,39.787584],"type":"Point"}
+}

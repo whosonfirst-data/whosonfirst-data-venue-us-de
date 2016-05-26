@@ -1,0 +1,71 @@
+{
+  "id": 873499343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601052,38.650693,-75.601052,38.650693",
+    "geom:latitude":38.650693,
+    "geom:longitude":-75.601052,
+    "iso:country":"US",
+    "sg:address":"809 Norman Eskridge Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 3900",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1llOxmnyCeA9gyZAMpxmlh_38.650693_-75.601052@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222914,
+    "wof:geomhash":"3b47368a51b5affc57795a7569704c43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873499343
+        }
+    ],
+    "wof:id":873499343,
+    "wof:lastmodified":1464222914,
+    "wof:name":"Service General Corp",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -75.601052,
+    38.650693,
+    -75.601052,
+    38.650693
+],
+  "geometry": {"coordinates":[-75.601052,38.650693],"type":"Point"}
+}

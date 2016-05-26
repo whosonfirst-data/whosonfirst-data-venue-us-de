@@ -1,0 +1,69 @@
+{
+  "id": 873481775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59284,38.635407,-75.59284,38.635407",
+    "geom:latitude":38.635407,
+    "geom:longitude":-75.59284,
+    "iso:country":"US",
+    "sg:address":"668 S Dual Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 9800",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NTpkFOj5OtHhe3r0ObWmt_38.635407_-75.592840@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222186,
+    "wof:geomhash":"f8ed3fb31f625d3dc449cd94e686dfa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873481775
+        }
+    ],
+    "wof:id":873481775,
+    "wof:lastmodified":1464222186,
+    "wof:name":"Oasis Car Wash",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -75.59284,
+    38.635407,
+    -75.59284,
+    38.635407
+],
+  "geometry": {"coordinates":[-75.59284,38.635407],"type":"Point"}
+}

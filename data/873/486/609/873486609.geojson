@@ -1,0 +1,76 @@
+{
+  "id": 873486609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.704916,39.680676,-75.704916,39.680676",
+    "geom:latitude":39.680676,
+    "geom:longitude":-75.704916,
+    "iso:country":"US",
+    "sg:address":"2911 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 7006",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lawn",
+        "mower"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wJrILDDe4WEj9VsV6OVJz_39.680676_-75.704916@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222363,
+    "wof:geomhash":"e41b0d35c1bc85992239eab3b9de0a07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873486609
+        }
+    ],
+    "wof:id":873486609,
+    "wof:lastmodified":1464222363,
+    "wof:name":"Bowersox Equipment Co",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "mower"
+    ]
+},
+  "bbox": [
+    -75.704916,
+    39.680676,
+    -75.704916,
+    39.680676
+],
+  "geometry": {"coordinates":[-75.704916,39.680676],"type":"Point"}
+}

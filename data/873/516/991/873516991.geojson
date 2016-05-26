@@ -1,0 +1,85 @@
+{
+  "id": 873516991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525685,39.757386,-75.525685,39.757386",
+    "geom:latitude":39.757386,
+    "geom:longitude":-75.525685,
+    "iso:country":"US",
+    "sg:address":"208 E 35th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Cemetery",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 8448",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "director",
+        "crematory",
+        "plans-pre-arranged",
+        "supply"
+    ],
+    "sg:website":"http://www.houseofwrightmortuary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36KXA5anceQIc1gx4JIL09_39.757386_-75.525685@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223719,
+    "wof:geomhash":"43fabecd4f9184fc99732ef8622b2413",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873516991
+        }
+    ],
+    "wof:id":873516991,
+    "wof:lastmodified":1464223719,
+    "wof:name":"House of Wright Mortuary",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director",
+        "crematory",
+        "plans-pre-arranged",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.525685,
+    39.757386,
+    -75.525685,
+    39.757386
+],
+  "geometry": {"coordinates":[-75.525685,39.757386],"type":"Point"}
+}

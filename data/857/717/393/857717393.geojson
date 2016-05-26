@@ -1,0 +1,73 @@
+{
+  "id": 857717393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537269,39.167747,-75.537269,39.167747",
+    "geom:latitude":39.167747,
+    "geom:longitude":-75.537269,
+    "iso:country":"US",
+    "sg:address":"509 Pear St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 4080",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wy7fJQwezabn92vVEiA42_39.167747_-75.537269@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221192,
+    "wof:geomhash":"570e050c20a34b20e90ffe6f2bec4afe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":857717393
+        }
+    ],
+    "wof:id":857717393,
+    "wof:lastmodified":1464221192,
+    "wof:name":"Rimvision",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.537269,
+    39.167747,
+    -75.537269,
+    39.167747
+],
+  "geometry": {"coordinates":[-75.53726899999999,39.167747],"type":"Point"}
+}

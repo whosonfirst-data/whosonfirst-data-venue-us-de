@@ -1,0 +1,73 @@
+{
+  "id": 873489935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.258235,38.544156,-75.258235,38.544156",
+    "geom:latitude":38.544156,
+    "geom:longitude":-75.258235,
+    "iso:country":"US",
+    "sg:address":"212 Cea Dag Cir",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 3462",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1p9u0Wyj7TQfU1PhhAE4X3_38.544156_-75.258235@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222491,
+    "wof:geomhash":"8321876719f938aec72ce5a530516826",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873489935
+        }
+    ],
+    "wof:id":873489935,
+    "wof:lastmodified":1464222491,
+    "wof:name":"Cea Dag Court",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.258235,
+    38.544156,
+    -75.258235,
+    38.544156
+],
+  "geometry": {"coordinates":[-75.258235,38.544156],"type":"Point"}
+}

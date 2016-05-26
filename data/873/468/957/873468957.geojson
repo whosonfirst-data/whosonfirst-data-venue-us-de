@@ -1,0 +1,69 @@
+{
+  "id": 873468957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.536987,39.038323,-75.536987,39.038323",
+    "geom:latitude":39.038323,
+    "geom:longitude":-75.536987,
+    "iso:country":"US",
+    "sg:address":"837 Barratts Chapel Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4372",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QCLBXXRg71qy3F43glEwS_39.038323_-75.536987@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221685,
+    "wof:geomhash":"00bb43053df3fa24fd9aa757f8100062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873468957
+        }
+    ],
+    "wof:id":873468957,
+    "wof:lastmodified":1464221685,
+    "wof:name":"Gibbs Alton Felton",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.536987,
+    39.038323,
+    -75.536987,
+    39.038323
+],
+  "geometry": {"coordinates":[-75.536987,39.038323],"type":"Point"}
+}

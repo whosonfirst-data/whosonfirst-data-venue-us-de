@@ -1,0 +1,82 @@
+{
+  "id": 873517369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546661,39.79402,-75.546661,39.79402",
+    "geom:latitude":39.79402,
+    "geom:longitude":-75.546661,
+    "iso:country":"US",
+    "sg:address":"2401 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 9786",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "smog",
+        "check"
+    ],
+    "sg:website":"www.pontesautocare.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PnJGrLdmbIwj05GMCaROE_39.794020_-75.546661@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223754,
+    "wof:geomhash":"8a7b789b5218ccbae87917739da25461",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517369
+        }
+    ],
+    "wof:id":873517369,
+    "wof:lastmodified":1464223754,
+    "wof:name":"Ponte's Auto Care",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smog",
+        "check"
+    ]
+},
+  "bbox": [
+    -75.546661,
+    39.79402,
+    -75.546661,
+    39.79402
+],
+  "geometry": {"coordinates":[-75.546661,39.79402],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873503385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.663564,39.612222,-75.663564,39.612222",
+    "geom:latitude":39.612222,
+    "geom:longitude":-75.663564,
+    "iso:country":"US",
+    "sg:address":"1625 Bear Corbitt Rd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 8888",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aCkSse8A0qhBN4AgOCk8Q_39.612222_-75.663564@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223078,
+    "wof:geomhash":"0af59927d8de6c870882cdd4545006db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873503385
+        }
+    ],
+    "wof:id":873503385,
+    "wof:lastmodified":1464223078,
+    "wof:name":"Gin-Way Kennels",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.663564,
+    39.612222,
+    -75.663564,
+    39.612222
+],
+  "geometry": {"coordinates":[-75.66356399999999,39.612222],"type":"Point"}
+}

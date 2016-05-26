@@ -1,0 +1,71 @@
+{
+  "id": 873498163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.783518,39.647796,-75.783518,39.647796",
+    "geom:latitude":39.647796,
+    "geom:longitude":-75.783518,
+    "iso:country":"US",
+    "sg:address":"10 Milkweed Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 383 4106",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qqBgVrlNIGLblBrqt4Cch_39.647796_-75.783518@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222869,
+    "wof:geomhash":"1878b843236bdf6999d99793caea64a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873498163
+        }
+    ],
+    "wof:id":873498163,
+    "wof:lastmodified":1464222869,
+    "wof:name":"Graven & Graven Company LLC",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.783518,
+    39.647796,
+    -75.783518,
+    39.647796
+],
+  "geometry": {"coordinates":[-75.783518,39.647796],"type":"Point"}
+}

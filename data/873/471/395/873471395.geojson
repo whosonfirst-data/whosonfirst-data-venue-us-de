@@ -1,0 +1,71 @@
+{
+  "id": 873471395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.781438,39.601881,-75.781438,39.601881",
+    "geom:latitude":39.601881,
+    "geom:longitude":-75.781438,
+    "iso:country":"US",
+    "sg:address":"23 Bastille Loop",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 8786",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PaBt0iy43lq3pa9F1LGYZ_39.601881_-75.781438@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221783,
+    "wof:geomhash":"1e515cff0dcb71fb145065f75c931e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873471395
+        }
+    ],
+    "wof:id":873471395,
+    "wof:lastmodified":1464221783,
+    "wof:name":"Sales & Installation Flooring",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "work"
+    ]
+},
+  "bbox": [
+    -75.781438,
+    39.601881,
+    -75.781438,
+    39.601881
+],
+  "geometry": {"coordinates":[-75.78143799999999,39.601881],"type":"Point"}
+}

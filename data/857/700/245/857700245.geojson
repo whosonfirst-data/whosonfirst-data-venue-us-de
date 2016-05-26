@@ -1,0 +1,73 @@
+{
+  "id": 857700245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547359,39.704321,-75.547359,39.704321",
+    "geom:latitude":39.704321,
+    "geom:longitude":-75.547359,
+    "iso:country":"US",
+    "sg:address":"19 Lambson Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 0581",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zSfYHex75AD1CvH1Inr0u_39.704321_-75.547359@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220818,
+    "wof:geomhash":"baa34dcb094eea116d5a81fb00e6969b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857700245
+        }
+    ],
+    "wof:id":857700245,
+    "wof:lastmodified":1464220818,
+    "wof:name":"De LA WARR Senior Ctr",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -75.547359,
+    39.704321,
+    -75.547359,
+    39.704321
+],
+  "geometry": {"coordinates":[-75.547359,39.704321],"type":"Point"}
+}

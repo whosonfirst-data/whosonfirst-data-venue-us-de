@@ -1,0 +1,73 @@
+{
+  "id": 857687915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.391474,38.686633,-75.391474,38.686633",
+    "geom:latitude":38.686633,
+    "geom:longitude":-75.391474,
+    "iso:country":"US",
+    "sg:address":"2 N Margaret St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2219",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shipping",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PwOwG376kGE1gJxWDdWAX_38.686633_-75.391474@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220577,
+    "wof:geomhash":"e8c3ff1a78c9771a6d22c844512f2d55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857687915
+        }
+    ],
+    "wof:id":857687915,
+    "wof:lastmodified":1464220577,
+    "wof:name":"Cathell & Cathell Designs",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shipping",
+        "agent"
+    ]
+},
+  "bbox": [
+    -75.391474,
+    38.686633,
+    -75.391474,
+    38.686633
+],
+  "geometry": {"coordinates":[-75.391474,38.686633],"type":"Point"}
+}

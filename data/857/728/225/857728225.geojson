@@ -1,0 +1,71 @@
+{
+  "id": 857728225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.702866,39.674919,-75.702866,39.674919",
+    "geom:latitude":39.674919,
+    "geom:longitude":-75.702866,
+    "iso:country":"US",
+    "sg:address":"750 Christiana Pkwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 9607",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v63IpYZIFk1e6faeS2qzF_39.674919_-75.702866@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221400,
+    "wof:geomhash":"9b6f270963fd9c0b6a3447a84c3fed07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857728225
+        }
+    ],
+    "wof:id":857728225,
+    "wof:lastmodified":1464221400,
+    "wof:name":"Ryder",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -75.702866,
+    39.674919,
+    -75.702866,
+    39.674919
+],
+  "geometry": {"coordinates":[-75.702866,39.674919],"type":"Point"}
+}

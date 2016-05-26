@@ -1,0 +1,83 @@
+{
+  "id": 873521435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.531307,39.182691,-75.531307,39.182691",
+    "geom:latitude":39.182691,
+    "geom:longitude":-75.531307,
+    "iso:country":"US",
+    "sg:address":"865 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 8445",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "club",
+        "night"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ssLv7mupBFAYIfOVY8l1x_39.182691_-75.531307@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223942,
+    "wof:geomhash":"e17d62e4e16dadd54a70b0755ce3b984",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873521435
+        }
+    ],
+    "wof:id":873521435,
+    "wof:lastmodified":1464223942,
+    "wof:name":"Bubba's",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "night"
+    ]
+},
+  "bbox": [
+    -75.531307,
+    39.182691,
+    -75.531307,
+    39.182691
+],
+  "geometry": {"coordinates":[-75.531307,39.182691],"type":"Point"}
+}

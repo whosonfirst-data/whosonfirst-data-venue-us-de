@@ -1,0 +1,73 @@
+{
+  "id": 857691299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570576,39.733987,-75.570576,39.733987",
+    "geom:latitude":39.733987,
+    "geom:longitude":-75.570576,
+    "iso:country":"US",
+    "sg:address":"106 7th Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 9803",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72E2tfYAsp04CvSJ1vndKJ_39.733987_-75.570576@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220647,
+    "wof:geomhash":"bff5833452cd93bd504d32f380e42153",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":857691299
+        }
+    ],
+    "wof:id":857691299,
+    "wof:lastmodified":1464220647,
+    "wof:name":"Veterans Of Foreign Wars",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -75.570576,
+    39.733987,
+    -75.570576,
+    39.733987
+],
+  "geometry": {"coordinates":[-75.570576,39.733987],"type":"Point"}
+}

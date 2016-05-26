@@ -1,0 +1,78 @@
+{
+  "id": 857702073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553324,39.743142,-75.553324,39.743142",
+    "geom:latitude":39.743142,
+    "geom:longitude":-75.553324,
+    "iso:country":"US",
+    "sg:address":"500 N West St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5920",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TFbDIE1bSsRKpiEzIptZw_39.743142_-75.553324@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220861,
+    "wof:geomhash":"235d98066c5e50ef85883f7c451118a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857702073
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857702073
+        }
+    ],
+    "wof:id":857702073,
+    "wof:lastmodified":1464220861,
+    "wof:name":"St Peters Cathedral",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.553324,
+    39.743142,
+    -75.553324,
+    39.743142
+],
+  "geometry": {"coordinates":[-75.553324,39.743142],"type":"Point"}
+}

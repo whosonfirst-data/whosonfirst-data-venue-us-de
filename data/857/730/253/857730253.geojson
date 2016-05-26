@@ -1,0 +1,71 @@
+{
+  "id": 857730253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.651665,39.726255,-75.651665,39.726255",
+    "geom:latitude":39.726255,
+    "geom:longitude":-75.651665,
+    "iso:country":"US",
+    "sg:address":"4315 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 4550",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gu3d3ANHcszrDp5pPfX95_39.726255_-75.651665@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221443,
+    "wof:geomhash":"85b1b00b40fb4be6842289a47e93871f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857730253
+        }
+    ],
+    "wof:id":857730253,
+    "wof:lastmodified":1464221443,
+    "wof:name":"Midway Park Apartments Inc",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.651665,
+    39.726255,
+    -75.651665,
+    39.726255
+],
+  "geometry": {"coordinates":[-75.65166499999999,39.726255],"type":"Point"}
+}

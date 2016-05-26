@@ -1,0 +1,75 @@
+{
+  "id": 873470411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545281,39.747511,-75.545281,39.747511",
+    "geom:latitude":39.747511,
+    "geom:longitude":-75.545281,
+    "iso:country":"US",
+    "sg:address":"1230 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 575 0301",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aHNO5UzB2kvYrEa2XpxTw_39.747511_-75.545281@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221745,
+    "wof:geomhash":"84915bfe5e310d1462c2e4010a385a28",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873470411
+        }
+    ],
+    "wof:id":873470411,
+    "wof:lastmodified":1464221745,
+    "wof:name":"Special Consulting Svc",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -75.545281,
+    39.747511,
+    -75.545281,
+    39.747511
+],
+  "geometry": {"coordinates":[-75.545281,39.747511],"type":"Point"}
+}

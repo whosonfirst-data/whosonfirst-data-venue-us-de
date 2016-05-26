@@ -1,0 +1,72 @@
+{
+  "id": 857716797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.575258,38.649163,-75.575258,38.649163",
+    "geom:latitude":38.649163,
+    "geom:longitude":-75.575258,
+    "iso:country":"US",
+    "sg:address":"24467 Old Meadow Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 5531",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.nanticoke.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kmdTN6pqijytpEb1lFVJo_38.649163_-75.575258@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221180,
+    "wof:geomhash":"c2cefa3a3efe9b72684103bc5676f05d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857716797
+        }
+    ],
+    "wof:id":857716797,
+    "wof:lastmodified":1464221180,
+    "wof:name":"Nanticoke Pathology Svc",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.575258,
+    38.649163,
+    -75.575258,
+    38.649163
+],
+  "geometry": {"coordinates":[-75.57525800000001,38.649163],"type":"Point"}
+}

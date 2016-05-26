@@ -1,0 +1,73 @@
+{
+  "id": 873502151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.713095,39.794499,-75.713095,39.794499",
+    "geom:latitude":39.794499,
+    "geom:longitude":-75.713095,
+    "iso:country":"US",
+    "sg:address":"707 Ace Memorial Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 235 2737",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85827779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TstCaJYHI1YJvqbNFlDtD_39.794499_-75.713095@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223034,
+    "wof:geomhash":"1450af87fb7d201e61516e4ad604620d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85827779,
+            "region_id":85688611,
+            "venue_id":873502151
+        }
+    ],
+    "wof:id":873502151,
+    "wof:lastmodified":1464223034,
+    "wof:name":"New Dragon Restaurant",
+    "wof:parent_id":85827779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.713095,
+    39.794499,
+    -75.713095,
+    39.794499
+],
+  "geometry": {"coordinates":[-75.713095,39.794499],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873470013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.261342,38.653082,-75.261342,38.653082",
+    "geom:latitude":38.653082,
+    "geom:longitude":-75.261342,
+    "iso:country":"US",
+    "sg:address":"28035 Wagner Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 8629",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cMxzYLPYmMLYCYpZNUREJ_38.653082_-75.261342@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221729,
+    "wof:geomhash":"afd55936e73c56e1147a6f73cfeb256d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873470013
+        }
+    ],
+    "wof:id":873470013,
+    "wof:lastmodified":1464221729,
+    "wof:name":"New Meal Deal On Wheels",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.261342,
+    38.653082,
+    -75.261342,
+    38.653082
+],
+  "geometry": {"coordinates":[-75.261342,38.653082],"type":"Point"}
+}

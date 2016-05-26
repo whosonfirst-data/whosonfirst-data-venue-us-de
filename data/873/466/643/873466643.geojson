@@ -1,0 +1,66 @@
+{
+  "id": 873466643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.382223,38.691408,-75.382223,38.691408",
+    "geom:latitude":38.691408,
+    "geom:longitude":-75.382223,
+    "iso:country":"US",
+    "sg:address":"1000 S Railroad Ave",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7059",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OjrDrLlNSUQAKCRJl2SzD_38.691408_-75.382223@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221606,
+    "wof:geomhash":"b9b3596532f0cd0434a6a901cc6bc92e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873466643
+        }
+    ],
+    "wof:id":873466643,
+    "wof:lastmodified":1464221606,
+    "wof:name":"Georgetown Air Services",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.382223,
+    38.691408,
+    -75.382223,
+    38.691408
+],
+  "geometry": {"coordinates":[-75.382223,38.691408],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873508571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682866,39.706967,-75.682866,39.706967",
+    "geom:latitude":39.706967,
+    "geom:longitude":-75.682866,
+    "iso:country":"US",
+    "sg:address":"2604 Eastburn Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Chemicals & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 9095",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "gasoline",
+        "additive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tPlWbiyt6T20xKAsR4gPj_39.706967_-75.682866@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223313,
+    "wof:geomhash":"191c08a3b27680dae698acfcea407dd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873508571
+        }
+    ],
+    "wof:id":873508571,
+    "wof:lastmodified":1464223313,
+    "wof:name":"Sweet Oil",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gasoline",
+        "additive"
+    ]
+},
+  "bbox": [
+    -75.682866,
+    39.706967,
+    -75.682866,
+    39.706967
+],
+  "geometry": {"coordinates":[-75.682866,39.706967],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857688691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554158,39.095382,-75.554158,39.095382",
+    "geom:latitude":39.095382,
+    "geom:longitude":-75.554158,
+    "iso:country":"US",
+    "sg:address":"166 Lochmeath Way",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 242 9044",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35ZDScIIOacYOmjtSLH6Rc_39.095382_-75.554158@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220593,
+    "wof:geomhash":"0c32a80de69c27eb05a5e72b7d12d386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857688691
+        }
+    ],
+    "wof:id":857688691,
+    "wof:lastmodified":1464220593,
+    "wof:name":"First State Billing",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -75.554158,
+    39.095382,
+    -75.554158,
+    39.095382
+],
+  "geometry": {"coordinates":[-75.554158,39.095382],"type":"Point"}
+}

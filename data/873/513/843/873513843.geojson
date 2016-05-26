@@ -1,0 +1,72 @@
+{
+  "id": 873513843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.596986,38.64614,-75.596986,38.64614",
+    "geom:latitude":38.64614,
+    "geom:longitude":-75.596986,
+    "iso:country":"US",
+    "sg:address":"1701 Middleford Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/seaford/164757-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 8071",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0otiazIrxtoZXDJCfqXAeb_38.646140_-75.596986@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223551,
+    "wof:geomhash":"e913d0c173e4b150fc71317648cf5394",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873513843
+        }
+    ],
+    "wof:id":873513843,
+    "wof:lastmodified":1464223551,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.596986,
+    38.64614,
+    -75.596986,
+    38.64614
+],
+  "geometry": {"coordinates":[-75.596986,38.64614],"type":"Point"}
+}

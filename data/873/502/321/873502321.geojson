@@ -1,0 +1,75 @@
+{
+  "id": 873502321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594247,39.753739,-75.594247,39.753739",
+    "geom:latitude":39.753739,
+    "geom:longitude":-75.594247,
+    "iso:country":"US",
+    "sg:address":"200 Mary Ella Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 6361",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "general",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LzkdQWCYyXdxekZsYPouI_39.753739_-75.594247@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223040,
+    "wof:geomhash":"60086d0d47ef0aee9bd30a01affff573",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873502321
+        }
+    ],
+    "wof:id":873502321,
+    "wof:lastmodified":1464223040,
+    "wof:name":"Bestfield Homes",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "general",
+        "family",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.594247,
+    39.753739,
+    -75.594247,
+    39.753739
+],
+  "geometry": {"coordinates":[-75.594247,39.753739],"type":"Point"}
+}

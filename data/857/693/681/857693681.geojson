@@ -1,0 +1,71 @@
+{
+  "id": 857693681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.443863,38.911426,-75.443863,38.911426",
+    "geom:latitude":38.911426,
+    "geom:longitude":-75.443863,
+    "iso:country":"US",
+    "sg:address":"513 Kings Hwy",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5713",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QbMErmbAxwNisRGn76ZPO_38.911426_-75.443863@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220694,
+    "wof:geomhash":"2d037030161e63d34e3f4e8acabe0215",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857693681
+        }
+    ],
+    "wof:id":857693681,
+    "wof:lastmodified":1464220694,
+    "wof:name":"William O Adkins Dr",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.443863,
+    38.911426,
+    -75.443863,
+    38.911426
+],
+  "geometry": {"coordinates":[-75.44386299999999,38.911426],"type":"Point"}
+}

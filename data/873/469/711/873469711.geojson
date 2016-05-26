@@ -1,0 +1,71 @@
+{
+  "id": 873469711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.576109,39.01035,-75.576109,39.01035",
+    "geom:latitude":39.01035,
+    "geom:longitude":-75.576109,
+    "iso:country":"US",
+    "sg:address":"2 E High St",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 1169",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TDEEu2AAc27C0QBXmLekY_39.010350_-75.576109@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221719,
+    "wof:geomhash":"73c7e6710895a3caf965343a56e4df7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873469711
+        }
+    ],
+    "wof:id":873469711,
+    "wof:lastmodified":1464221719,
+    "wof:name":"Jo Ann Fields MD",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.576109,
+    39.01035,
+    -75.576109,
+    39.01035
+],
+  "geometry": {"coordinates":[-75.576109,39.01035],"type":"Point"}
+}

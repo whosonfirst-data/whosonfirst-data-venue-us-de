@@ -1,0 +1,78 @@
+{
+  "id": 873511607,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529602,39.129101,-75.529602,39.129101",
+    "geom:latitude":39.129101,
+    "geom:longitude":-75.529602,
+    "iso:country":"US",
+    "sg:address":"1675 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7481",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ophthalmologist",
+        "surgeon",
+        "physician"
+    ],
+    "sg:website":"www.bemd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28nQX72JBgOwjDtj3SzBLh_39.129267_-75.529532@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223453,
+    "wof:geomhash":"d93587b06776e221e2ff8deff0ede0d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":873511607
+        }
+    ],
+    "wof:id":873511607,
+    "wof:lastmodified":1464223453,
+    "wof:name":"Elliott Brett MD",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ophthalmologist",
+        "surgeon",
+        "physician"
+    ]
+},
+  "bbox": [
+    -75.529602,
+    39.129101,
+    -75.529602,
+    39.129101
+],
+  "geometry": {"coordinates":[-75.529602,39.129101],"type":"Point"}
+}

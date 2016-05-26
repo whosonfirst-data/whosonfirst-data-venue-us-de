@@ -1,0 +1,81 @@
+{
+  "id": 873518005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546181,39.788084,-75.546181,39.788084",
+    "geom:latitude":39.788084,
+    "geom:longitude":-75.546181,
+    "iso:country":"US",
+    "sg:address":"2011 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 421 7508",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LfGLCcipRJ0JMCLIYeM8x_39.788084_-75.546181@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223794,
+    "wof:geomhash":"72597a6a53aa827d31cdbd70e4ebbb0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873518005
+        }
+    ],
+    "wof:id":873518005,
+    "wof:lastmodified":1464223794,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.546181,
+    39.788084,
+    -75.546181,
+    39.788084
+],
+  "geometry": {"coordinates":[-75.546181,39.788084],"type":"Point"}
+}

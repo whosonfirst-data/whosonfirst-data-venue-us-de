@@ -1,0 +1,69 @@
+{
+  "id": 873480209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.707447,38.849172,-75.707447,38.849172",
+    "geom:latitude":38.849172,
+    "geom:longitude":-75.707447,
+    "iso:country":"US",
+    "sg:address":"1021 Cattail Branch Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 4956",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CAYqgb27QtiuoPxBMNl5g_38.849172_-75.707447@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222120,
+    "wof:geomhash":"aa41fbf4bf9e4f8d5a60430f571892bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873480209
+        }
+    ],
+    "wof:id":873480209,
+    "wof:lastmodified":1464222120,
+    "wof:name":"Beauchamp Builders",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.707447,
+    38.849172,
+    -75.707447,
+    38.849172
+],
+  "geometry": {"coordinates":[-75.707447,38.849172],"type":"Point"}
+}

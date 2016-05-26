@@ -1,0 +1,80 @@
+{
+  "id": 873478735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.709991,39.706542,-75.709991,39.706542",
+    "geom:latitude":39.706542,
+    "geom:longitude":-75.709991,
+    "iso:country":"US",
+    "sg:address":"40 Polly Drummond Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 3110",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "rehab",
+        "therapist",
+        "outpatient",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Vh6p697KNJglYDTmsO1ms_39.706542_-75.709991@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222051,
+    "wof:geomhash":"3ac6a14b9773d536dcb9f924c77a0312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873478735
+        }
+    ],
+    "wof:id":873478735,
+    "wof:lastmodified":1464222051,
+    "wof:name":"Delaware Curative",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rehab",
+        "therapist",
+        "outpatient",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.709991,
+    39.706542,
+    -75.709991,
+    39.706542
+],
+  "geometry": {"coordinates":[-75.709991,39.706542],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873512571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549599,39.810699,-75.549599,39.810699",
+    "geom:latitude":39.810699,
+    "geom:longitude":-75.549599,
+    "iso:country":"US",
+    "sg:address":"4117 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5600",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jeRhYqLT6sjTwf9ZKQ4hy_39.810968_-75.550176@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223496,
+    "wof:geomhash":"d358fc2fb1f9a18634d14defc96cc24b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873512571
+        }
+    ],
+    "wof:id":873512571,
+    "wof:lastmodified":1464223496,
+    "wof:name":"California Sun Tanning",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -75.549599,
+    39.810699,
+    -75.549599,
+    39.810699
+],
+  "geometry": {"coordinates":[-75.549599,39.810699],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873501015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.771229,39.585499,-75.771229,39.585499",
+    "geom:latitude":39.585499,
+    "geom:longitude":-75.771229,
+    "iso:country":"US",
+    "sg:address":"3019 McDaniel Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 9040",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "insulation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_097EDpGxDoNpSQI1yqnXTW_39.585499_-75.771229@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222988,
+    "wof:geomhash":"65f3018477f1ce4d37ee8195f61d09ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873501015
+        }
+    ],
+    "wof:id":873501015,
+    "wof:lastmodified":1464222988,
+    "wof:name":"A S A P Insulation Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.771229,
+    39.585499,
+    -75.771229,
+    39.585499
+],
+  "geometry": {"coordinates":[-75.77122900000001,39.585499],"type":"Point"}
+}

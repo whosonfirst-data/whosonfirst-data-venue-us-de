@@ -1,0 +1,96 @@
+{
+  "id": 873516869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561188,39.737389,-75.561188,39.737389",
+    "geom:latitude":39.737389,
+    "geom:longitude":-75.561188,
+    "iso:country":"US",
+    "sg:address":"300 S Madison St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 4210",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ],
+    "sg:website":"http://www.ryder.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3eI4NwP7POZ7S5sjnke4dF_39.737389_-75.561188@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223712,
+    "wof:geomhash":"7e30778fae8a891ff68e65f0abcee7e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873516869
+        }
+    ],
+    "wof:id":873516869,
+    "wof:lastmodified":1464223712,
+    "wof:name":"Ryder",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "moving-self",
+        "leasing",
+        "truck",
+        "van",
+        "moving",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -75.561188,
+    39.737389,
+    -75.561188,
+    39.737389
+],
+  "geometry": {"coordinates":[-75.561188,39.737389],"type":"Point"}
+}

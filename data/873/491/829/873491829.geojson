@@ -1,0 +1,73 @@
+{
+  "id": 873491829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.747483,39.654767,-75.747483,39.654767",
+    "geom:latitude":39.654767,
+    "geom:longitude":-75.747483,
+    "iso:country":"US",
+    "sg:address":"6 Aldershot Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 286 6096",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wmnCDA5iued2HcSrB0Yqm_39.654767_-75.747483@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222560,
+    "wof:geomhash":"37809b310b487ba8a858a6b326097220",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873491829
+        }
+    ],
+    "wof:id":873491829,
+    "wof:lastmodified":1464222560,
+    "wof:name":"Slammednet",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -75.747483,
+    39.654767,
+    -75.747483,
+    39.654767
+],
+  "geometry": {"coordinates":[-75.747483,39.654767],"type":"Point"}
+}

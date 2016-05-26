@@ -1,0 +1,81 @@
+{
+  "id": 873521359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.511721,39.157665,-75.511721,39.157665",
+    "geom:latitude":39.157665,
+    "geom:longitude":-75.511721,
+    "iso:country":"US",
+    "sg:address":"295 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 432 1000",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"Www.Bankofamerica.Com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gSe0V037MfHJsOyAEbIQh_39.157665_-75.511721@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223939,
+    "wof:geomhash":"1a5329b7d01ebb1e6070d54d0ce256d3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873521359
+        }
+    ],
+    "wof:id":873521359,
+    "wof:lastmodified":1464223939,
+    "wof:name":"Bank of America Atm",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.511721,
+    39.157665,
+    -75.511721,
+    39.157665
+],
+  "geometry": {"coordinates":[-75.51172099999999,39.157665],"type":"Point"}
+}

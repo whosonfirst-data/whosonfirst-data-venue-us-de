@@ -1,0 +1,71 @@
+{
+  "id": 873512177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5476,39.797699,-75.5476,39.797699",
+    "geom:latitude":39.797699,
+    "geom:longitude":-75.5476,
+    "iso:country":"US",
+    "sg:address":"2801 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 4009",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tA51sK5DTc1mzO651XQoB_39.797108_-75.547323@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223482,
+    "wof:geomhash":"da0635c516aafd7cbddeeabe99075af5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873512177
+        }
+    ],
+    "wof:id":873512177,
+    "wof:lastmodified":1464223482,
+    "wof:name":"C & S Automotive Service",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.5476,
+    39.797699,
+    -75.5476,
+    39.797699
+],
+  "geometry": {"coordinates":[-75.5476,39.797699],"type":"Point"}
+}

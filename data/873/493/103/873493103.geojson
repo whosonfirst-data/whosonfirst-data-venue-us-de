@@ -1,0 +1,71 @@
+{
+  "id": 873493103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.108373,38.551331,-75.108373,38.551331",
+    "geom:latitude":38.551331,
+    "geom:longitude":-75.108373,
+    "iso:country":"US",
+    "sg:address":"14 Old Mill Ct",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 5646",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YtwIwFW0AmV4NlwsBw0ci_38.551331_-75.108373@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222611,
+    "wof:geomhash":"5df02aaba80bc25399ff2e934076bcff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873493103
+        }
+    ],
+    "wof:id":873493103,
+    "wof:lastmodified":1464222611,
+    "wof:name":"Paul A Brandenburg",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -75.108373,
+    38.551331,
+    -75.108373,
+    38.551331
+],
+  "geometry": {"coordinates":[-75.108373,38.551331],"type":"Point"}
+}

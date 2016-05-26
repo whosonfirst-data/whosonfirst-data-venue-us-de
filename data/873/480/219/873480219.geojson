@@ -1,0 +1,73 @@
+{
+  "id": 873480219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540506,39.73902,-75.540506,39.73902",
+    "geom:latitude":39.73902,
+    "geom:longitude":-75.540506,
+    "iso:country":"US",
+    "sg:address":"823 E 7th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 984 9582",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qsb9UO5tQnjjLogveZc2A_39.739020_-75.540506@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222120,
+    "wof:geomhash":"440ca30de65f9f08bf6b6633e0b9b715",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873480219
+        }
+    ],
+    "wof:id":873480219,
+    "wof:lastmodified":1464222120,
+    "wof:name":"US Coast Guard Aux",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation"
+    ]
+},
+  "bbox": [
+    -75.540506,
+    39.73902,
+    -75.540506,
+    39.73902
+],
+  "geometry": {"coordinates":[-75.54050599999999,39.73902],"type":"Point"}
+}

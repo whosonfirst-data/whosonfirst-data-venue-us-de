@@ -1,0 +1,73 @@
+{
+  "id": 873502067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.51458,39.758149,-75.51458,39.758149",
+    "geom:latitude":39.758149,
+    "geom:longitude":-75.51458,
+    "iso:country":"US",
+    "sg:address":"5 Colony Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 8877",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qSBBbiFVGBrSVYATIbAzk_39.758149_-75.514580@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223030,
+    "wof:geomhash":"020b924583ae4fe8b28117876d1b3071",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873502067
+        }
+    ],
+    "wof:id":873502067,
+    "wof:lastmodified":1464223030,
+    "wof:name":"Las Casas",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.51458,
+    39.758149,
+    -75.51458,
+    39.758149
+],
+  "geometry": {"coordinates":[-75.51458,39.758149],"type":"Point"}
+}

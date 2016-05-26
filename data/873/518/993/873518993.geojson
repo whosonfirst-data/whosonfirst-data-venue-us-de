@@ -1,0 +1,103 @@
+{
+  "id": 873518993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.648758,39.727039,-75.648758,39.727039",
+    "geom:latitude":39.727039,
+    "geom:longitude":-75.648758,
+    "iso:country":"US",
+    "sg:address":"2201 Farrand Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 0495",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "stereo",
+        "theater",
+        "automobile",
+        "television",
+        "system",
+        "equipment",
+        "radio",
+        "major",
+        "consumer",
+        "store"
+    ],
+    "sg:website":"http://www.bestbuy.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OcDttNv6ZKgHqXwlAkP32_39.727039_-75.648758@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223834,
+    "wof:geomhash":"2ff485d5ddeab9f46af62bc1258cbcd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873518993
+        }
+    ],
+    "wof:id":873518993,
+    "wof:lastmodified":1464223834,
+    "wof:name":"Best Buy",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stereo",
+        "theater",
+        "automobile",
+        "television",
+        "system",
+        "equipment",
+        "radio",
+        "major",
+        "consumer",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.648758,
+    39.727039,
+    -75.648758,
+    39.727039
+],
+  "geometry": {"coordinates":[-75.648758,39.727039],"type":"Point"}
+}

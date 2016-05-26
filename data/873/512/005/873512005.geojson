@@ -1,0 +1,75 @@
+{
+  "id": 873512005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.499603,39.156799,-75.499603,39.156799",
+    "geom:latitude":39.156799,
+    "geom:longitude":-75.499603,
+    "iso:country":"US",
+    "sg:address":"1030 S Little Creek Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 0919",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xhj6FT9Renb3IC5IkA1EX_39.156824_-75.498818@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223473,
+    "wof:geomhash":"52409399f6d16ea4dfe2735b2300c794",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873512005
+        }
+    ],
+    "wof:id":873512005,
+    "wof:lastmodified":1464223473,
+    "wof:name":"Pizzeria Genova",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.499603,
+    39.156799,
+    -75.499603,
+    39.156799
+],
+  "geometry": {"coordinates":[-75.49960299999999,39.156799],"type":"Point"}
+}

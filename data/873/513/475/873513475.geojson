@@ -1,0 +1,74 @@
+{
+  "id": 873513475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572328,39.750181,-75.572328,39.750181",
+    "geom:latitude":39.750181,
+    "geom:longitude":-75.572328,
+    "iso:country":"US",
+    "sg:address":"520 N Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/wilmington/45471-mrs-robinos/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 9223",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rhK8Oc6i1G9iDXNVURYOz_39.750181_-75.572328@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223531,
+    "wof:geomhash":"d354da9999e1c1153651dc869738eb79",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873513475
+        }
+    ],
+    "wof:id":873513475,
+    "wof:lastmodified":1464223531,
+    "wof:name":"Mrs Robino's",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.572328,
+    39.750181,
+    -75.572328,
+    39.750181
+],
+  "geometry": {"coordinates":[-75.572328,39.750181],"type":"Point"}
+}

@@ -1,0 +1,98 @@
+{
+  "id": 873516599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555847,39.72723,-75.555847,39.72723",
+    "geom:latitude":39.72723,
+    "geom:longitude":-75.555847,
+    "iso:country":"US",
+    "sg:address":"1000 S Market St Ste 1",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 1134",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "refinishing",
+        "home",
+        "surgeon",
+        "eldercare-home",
+        "equipment-repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CevkgHKYaQBuOxSlvKKmE_39.727230_-75.555847@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223696,
+    "wof:geomhash":"45180af2e03fff99e6745bec3b9d9b11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873516599
+        }
+    ],
+    "wof:id":873516599,
+    "wof:lastmodified":1464223696,
+    "wof:name":"Freedom Medical Inc",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "refinishing",
+        "home",
+        "surgeon",
+        "eldercare-home",
+        "equipment-repairing"
+    ]
+},
+  "bbox": [
+    -75.555847,
+    39.72723,
+    -75.555847,
+    39.72723
+],
+  "geometry": {"coordinates":[-75.555847,39.72723],"type":"Point"}
+}

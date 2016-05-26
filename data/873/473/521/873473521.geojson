@@ -1,0 +1,75 @@
+{
+  "id": 873473521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515275,39.163267,-75.515275,39.163267",
+    "geom:latitude":39.163267,
+    "geom:longitude":-75.515275,
+    "iso:country":"US",
+    "sg:address":"28 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 3640",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "clothes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n5T4rtLEsvnpIID9Dfr2F_39.163267_-75.515275@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221865,
+    "wof:geomhash":"b821a358ac37871126be1dd5e4587049",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873473521
+        }
+    ],
+    "wof:id":873473521,
+    "wof:lastmodified":1464221865,
+    "wof:name":"P&S LLC",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "clothes"
+    ]
+},
+  "bbox": [
+    -75.515275,
+    39.163267,
+    -75.515275,
+    39.163267
+],
+  "geometry": {"coordinates":[-75.515275,39.163267],"type":"Point"}
+}

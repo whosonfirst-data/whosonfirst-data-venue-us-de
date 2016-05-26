@@ -1,0 +1,71 @@
+{
+  "id": 873490641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634817,38.887853,-75.634817,38.887853",
+    "geom:latitude":38.887853,
+    "geom:longitude":-75.634817,
+    "iso:country":"US",
+    "sg:address":"2484 Prospect Church Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 0278",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WxOLtkH0r6RozJBeaolZU_38.887853_-75.634817@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222519,
+    "wof:geomhash":"cb28aa0c178cd68f1417a6e708625ce3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873490641
+        }
+    ],
+    "wof:id":873490641,
+    "wof:lastmodified":1464222519,
+    "wof:name":"ICP",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -75.634817,
+    38.887853,
+    -75.634817,
+    38.887853
+],
+  "geometry": {"coordinates":[-75.634817,38.887853],"type":"Point"}
+}

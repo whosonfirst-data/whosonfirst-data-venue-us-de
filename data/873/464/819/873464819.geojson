@@ -1,0 +1,71 @@
+{
+  "id": 873464819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.665751,39.752384,-75.665751,39.752384",
+    "geom:latitude":39.752384,
+    "geom:longitude":-75.665751,
+    "iso:country":"US",
+    "sg:address":"21 Drummond Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 1441",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YAbWhNzy4kHY9TZp0JQBX_39.752384_-75.665751@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221565,
+    "wof:geomhash":"04442df5e6d965befb274685b40540ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873464819
+        }
+    ],
+    "wof:id":873464819,
+    "wof:lastmodified":1464221565,
+    "wof:name":"U S Electric Inc",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.665751,
+    39.752384,
+    -75.665751,
+    39.752384
+],
+  "geometry": {"coordinates":[-75.665751,39.752384],"type":"Point"}
+}

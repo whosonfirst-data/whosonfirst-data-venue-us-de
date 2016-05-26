@@ -1,0 +1,71 @@
+{
+  "id": 873489553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.510982,39.812671,-75.510982,39.812671",
+    "geom:latitude":39.812671,
+    "geom:longitude":-75.510982,
+    "iso:country":"US",
+    "sg:address":"2004 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Pet Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 3800",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "feed"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fcYV9KRd65NXh4WldbTl5_39.812671_-75.510982@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222477,
+    "wof:geomhash":"a91c155ac22f865e9dc4d1635ce6dc45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873489553
+        }
+    ],
+    "wof:id":873489553,
+    "wof:lastmodified":1464222477,
+    "wof:name":"By Products Inc",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "feed"
+    ]
+},
+  "bbox": [
+    -75.510982,
+    39.812671,
+    -75.510982,
+    39.812671
+],
+  "geometry": {"coordinates":[-75.510982,39.812671],"type":"Point"}
+}

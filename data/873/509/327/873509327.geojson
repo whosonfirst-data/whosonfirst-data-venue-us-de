@@ -1,0 +1,71 @@
+{
+  "id": 873509327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.429163,38.928379,-75.429163,38.928379",
+    "geom:latitude":38.928379,
+    "geom:longitude":-75.429163,
+    "iso:country":"US",
+    "sg:address":"1015 N Walnut St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 0841",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LFK9MWThLKBGSUVMqVT4i_38.928379_-75.429163@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223345,
+    "wof:geomhash":"116476e102fb85c915b5d4a2cbef91a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873509327
+        }
+    ],
+    "wof:id":873509327,
+    "wof:lastmodified":1464223345,
+    "wof:name":"CA Dispatch Inc",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.429163,
+    38.928379,
+    -75.429163,
+    38.928379
+],
+  "geometry": {"coordinates":[-75.429163,38.928379],"type":"Point"}
+}

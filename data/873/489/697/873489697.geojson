@@ -1,0 +1,71 @@
+{
+  "id": 873489697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.582859,39.66009,-75.582859,39.66009",
+    "geom:latitude":39.66009,
+    "geom:longitude":-75.582859,
+    "iso:country":"US",
+    "sg:address":"732 W 11th St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 1801",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vPfWD27abYLkyyhnFes35_39.660090_-75.582859@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222482,
+    "wof:geomhash":"1b662bc4b550e5337614f78881e75e4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873489697
+        }
+    ],
+    "wof:id":873489697,
+    "wof:lastmodified":1464222482,
+    "wof:name":"H W S Construction",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.582859,
+    39.66009,
+    -75.582859,
+    39.66009
+],
+  "geometry": {"coordinates":[-75.582859,39.66009],"type":"Point"}
+}

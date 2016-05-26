@@ -1,0 +1,75 @@
+{
+  "id": 873498035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541945,39.758778,-75.541945,39.758778",
+    "geom:latitude":39.758778,
+    "geom:longitude":-75.541945,
+    "iso:country":"US",
+    "sg:address":"2312 N Monroe St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 9200",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ticket",
+        "lottery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kfBUX8DSOgLwzyTDfjng9_39.758778_-75.541945@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222863,
+    "wof:geomhash":"48e7df5cd5619030f76e9f6783a17b8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873498035
+        }
+    ],
+    "wof:id":873498035,
+    "wof:lastmodified":1464222863,
+    "wof:name":"Concord Liquor",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "lottery"
+    ]
+},
+  "bbox": [
+    -75.541945,
+    39.758778,
+    -75.541945,
+    39.758778
+],
+  "geometry": {"coordinates":[-75.541945,39.758778],"type":"Point"}
+}

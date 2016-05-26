@@ -1,0 +1,71 @@
+{
+  "id": 857700345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698851,39.689463,-75.698851,39.689463",
+    "geom:latitude":39.689463,
+    "geom:longitude":-75.698851,
+    "iso:country":"US",
+    "sg:address":"326 Ruthar Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 0335",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bU1KnUvFA1cRz5K9KnHRO_39.689463_-75.698851@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220820,
+    "wof:geomhash":"f7f5dbd2f06e8fba1c2845db87d5afb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857700345
+        }
+    ],
+    "wof:id":857700345,
+    "wof:lastmodified":1464220820,
+    "wof:name":"Happy Harrys Disc DRG Stores",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.698851,
+    39.689463,
+    -75.698851,
+    39.689463
+],
+  "geometry": {"coordinates":[-75.698851,39.689463],"type":"Point"}
+}

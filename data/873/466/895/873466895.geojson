@@ -1,0 +1,69 @@
+{
+  "id": 873466895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736128,39.686603,-75.736128,39.686603",
+    "geom:latitude":39.686603,
+    "geom:longitude":-75.736128,
+    "iso:country":"US",
+    "sg:address":"503 Capitol Trl",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 1100",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fOVNf0S8ALEx12ZIN93ic_39.686603_-75.736128@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221614,
+    "wof:geomhash":"d8460a811a4af4e81efca17af2d15ed4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873466895
+        }
+    ],
+    "wof:id":873466895,
+    "wof:lastmodified":1464221614,
+    "wof:name":"Cleaning Concepts",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.736128,
+    39.686603,
+    -75.736128,
+    39.686603
+],
+  "geometry": {"coordinates":[-75.73612799999999,39.686603],"type":"Point"}
+}

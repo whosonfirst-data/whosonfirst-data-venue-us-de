@@ -1,0 +1,76 @@
+{
+  "id": 873471215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.614521,39.725676,-75.614521,39.725676",
+    "geom:latitude":39.725676,
+    "geom:longitude":-75.614521,
+    "iso:country":"US",
+    "sg:address":"801 Boxwood Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 9099",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TF4dZOhkTfigGjQSYROfP_39.725676_-75.614521@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221777,
+    "wof:geomhash":"16d885c0b69287ac369fd5dbd3ab87b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873471215
+        }
+    ],
+    "wof:id":873471215,
+    "wof:lastmodified":1464221777,
+    "wof:name":"American Food & Vending Corp",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -75.614521,
+    39.725676,
+    -75.614521,
+    39.725676
+],
+  "geometry": {"coordinates":[-75.614521,39.725676],"type":"Point"}
+}

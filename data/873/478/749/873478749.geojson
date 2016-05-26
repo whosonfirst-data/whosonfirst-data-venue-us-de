@@ -1,0 +1,71 @@
+{
+  "id": 873478749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.084639,38.721101,-75.084639,38.721101",
+    "geom:latitude":38.721101,
+    "geom:longitude":-75.084639,
+    "iso:country":"US",
+    "sg:address":"77 Columbia Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 2551",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_086bG89LmdYuolNaOaaF6j_38.721101_-75.084639@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222051,
+    "wof:geomhash":"d2057d6eb04c615b0deb357dcfff3ebb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":873478749
+        }
+    ],
+    "wof:id":873478749,
+    "wof:lastmodified":1464222051,
+    "wof:name":"Horizon Room Restaurant",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.084639,
+    38.721101,
+    -75.084639,
+    38.721101
+],
+  "geometry": {"coordinates":[-75.084639,38.721101],"type":"Point"}
+}

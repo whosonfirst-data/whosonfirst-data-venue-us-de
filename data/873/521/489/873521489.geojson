@@ -1,0 +1,72 @@
+{
+  "id": 873521489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55212,39.197323,-75.55212,39.197323",
+    "geom:latitude":39.197323,
+    "geom:longitude":-75.55212,
+    "iso:country":"US",
+    "sg:address":"1654 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 1204",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://www.comfortsuites.com/hotel-dover-delaware-DE402",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14sD0pQ6CU4HNMmnJwbiGc_39.197323_-75.552120@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223944,
+    "wof:geomhash":"bf66f135584968ea872550f4e149f02e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873521489
+        }
+    ],
+    "wof:id":873521489,
+    "wof:lastmodified":1464223944,
+    "wof:name":"Comfort Suites Dover",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -75.55212,
+    39.197323,
+    -75.55212,
+    39.197323
+],
+  "geometry": {"coordinates":[-75.55212,39.197323],"type":"Point"}
+}

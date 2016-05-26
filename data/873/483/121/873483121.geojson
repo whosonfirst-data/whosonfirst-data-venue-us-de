@@ -1,0 +1,69 @@
+{
+  "id": 873483121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.12806,38.624445,-75.12806,38.624445",
+    "geom:latitude":38.624445,
+    "geom:longitude":-75.12806,
+    "iso:country":"US",
+    "sg:address":"31 Sussex Ln",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 947 1454",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dwelling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CdqAIkMBx3iaSwUkgKg17_38.624445_-75.128060@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222234,
+    "wof:geomhash":"c8fd3a1da6ff7a8d29a8836854970e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873483121
+        }
+    ],
+    "wof:id":873483121,
+    "wof:lastmodified":1464222234,
+    "wof:name":"Jack E & Theresa E Cowart",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dwelling"
+    ]
+},
+  "bbox": [
+    -75.12806,
+    38.624445,
+    -75.12806,
+    38.624445
+],
+  "geometry": {"coordinates":[-75.12806,38.624445],"type":"Point"}
+}

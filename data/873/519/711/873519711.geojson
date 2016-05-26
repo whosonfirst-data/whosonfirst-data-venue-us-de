@@ -1,0 +1,73 @@
+{
+  "id": 873519711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.507896,39.8041,-75.507896,39.8041",
+    "geom:latitude":39.8041,
+    "geom:longitude":-75.507896,
+    "iso:country":"US",
+    "sg:address":"2222 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 6288",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J8QAib2grFRCbloMjqErt_39.804100_-75.507896@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223866,
+    "wof:geomhash":"3e1d9f0b0d6607c79130e74a9bfad05c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519711
+        }
+    ],
+    "wof:id":873519711,
+    "wof:lastmodified":1464223866,
+    "wof:name":"J & J Restorations",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.507896,
+    39.8041,
+    -75.507896,
+    39.8041
+],
+  "geometry": {"coordinates":[-75.507896,39.8041],"type":"Point"}
+}

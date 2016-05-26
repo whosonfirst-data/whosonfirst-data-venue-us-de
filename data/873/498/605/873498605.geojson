@@ -1,0 +1,75 @@
+{
+  "id": 873498605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539828,39.091474,-75.539828,39.091474",
+    "geom:latitude":39.091474,
+    "geom:longitude":-75.539828,
+    "iso:country":"US",
+    "sg:address":"487 Brookfield Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 8411",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electronic",
+        "component",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7aigovrk0eoc0eQqrNijES_39.091474_-75.539828@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222886,
+    "wof:geomhash":"e588790afd9d28301bd39d7b8a1efa1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873498605
+        }
+    ],
+    "wof:id":873498605,
+    "wof:lastmodified":1464222886,
+    "wof:name":"Dedicated Circuits LLC",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronic",
+        "component",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.539828,
+    39.091474,
+    -75.539828,
+    39.091474
+],
+  "geometry": {"coordinates":[-75.539828,39.091474],"type":"Point"}
+}

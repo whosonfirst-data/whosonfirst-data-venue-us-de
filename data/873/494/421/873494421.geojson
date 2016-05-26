@@ -1,0 +1,71 @@
+{
+  "id": 873494421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542994,39.778753,-75.542994,39.778753",
+    "geom:latitude":39.778753,
+    "geom:longitude":-75.542994,
+    "iso:country":"US",
+    "sg:address":"400 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 4633",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75y2JlCiTQymRQas3aVrlj_39.778753_-75.542994@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222681,
+    "wof:geomhash":"2018a5fa5989984d097606e30d6fb23b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873494421
+        }
+    ],
+    "wof:id":873494421,
+    "wof:lastmodified":1464222681,
+    "wof:name":"Tax Talk & Prep",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -75.542994,
+    39.778753,
+    -75.542994,
+    39.778753
+],
+  "geometry": {"coordinates":[-75.54299399999999,39.778753],"type":"Point"}
+}

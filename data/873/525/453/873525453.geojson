@@ -1,0 +1,79 @@
+{
+  "id": 873525453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532236,39.096662,-75.532236,39.096662",
+    "geom:latitude":39.096662,
+    "geom:longitude":-75.532236,
+    "iso:country":"US",
+    "sg:address":"16 Douglas Court",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instant-messaging",
+        "voip",
+        "widget",
+        "mailwidget",
+        "video-widget"
+    ],
+    "sg:website":"http://goober.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46PRMb27YdWJehvepsqh0P_39.096662_-75.532236@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1464224097,
+    "wof:geomhash":"2a15d2569013dbdf3f7ed0542de5f823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873525453
+        }
+    ],
+    "wof:id":873525453,
+    "wof:lastmodified":1464224097,
+    "wof:name":"Goober Networks",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instant-messaging",
+        "voip",
+        "widget",
+        "mailwidget",
+        "video-widget"
+    ]
+},
+  "bbox": [
+    -75.532236,
+    39.096662,
+    -75.532236,
+    39.096662
+],
+  "geometry": {"coordinates":[-75.532236,39.096662],"type":"Point"}
+}

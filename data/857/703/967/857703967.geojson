@@ -1,0 +1,71 @@
+{
+  "id": 857703967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.777754,39.655188,-75.777754,39.655188",
+    "geom:latitude":39.655188,
+    "geom:longitude":-75.777754,
+    "iso:country":"US",
+    "sg:address":"104 Sandy Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 1580",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ry1tErnG8WTS4C3WhZ9eq_39.655188_-75.777754@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220895,
+    "wof:geomhash":"bdac2bf3ca7b2f92c54fe8cf88d37cf7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857703967
+        }
+    ],
+    "wof:id":857703967,
+    "wof:lastmodified":1464220895,
+    "wof:name":"ALN Construction Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.777754,
+    39.655188,
+    -75.777754,
+    39.655188
+],
+  "geometry": {"coordinates":[-75.777754,39.655188],"type":"Point"}
+}

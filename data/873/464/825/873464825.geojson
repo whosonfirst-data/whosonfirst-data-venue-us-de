@@ -1,0 +1,71 @@
+{
+  "id": 873464825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.758447,39.603174,-75.758447,39.603174",
+    "geom:latitude":39.603174,
+    "geom:longitude":-75.758447,
+    "iso:country":"US",
+    "sg:address":"2742 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 2426",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavation",
+        "work"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zU40jvy7tkG6SbBXtrPMZ_39.603174_-75.758447@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221565,
+    "wof:geomhash":"20b69aa41462dd62d1f0d48875c62ae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873464825
+        }
+    ],
+    "wof:id":873464825,
+    "wof:lastmodified":1464221565,
+    "wof:name":"Nichols Nursery Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "work"
+    ]
+},
+  "bbox": [
+    -75.758447,
+    39.603174,
+    -75.758447,
+    39.603174
+],
+  "geometry": {"coordinates":[-75.758447,39.603174],"type":"Point"}
+}

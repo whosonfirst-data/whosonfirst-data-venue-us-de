@@ -1,0 +1,73 @@
+{
+  "id": 857699347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586801,39.660932,-75.586801,39.660932",
+    "geom:latitude":39.660932,
+    "geom:longitude":-75.586801,
+    "iso:country":"US",
+    "sg:address":"1620 Johnson Way",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 325 9070",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pl2RMHq2q51por2uWvn7V_39.660932_-75.586801@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220798,
+    "wof:geomhash":"cf3cebfe0f854b646fb052c742f25c93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857699347
+        }
+    ],
+    "wof:id":857699347,
+    "wof:lastmodified":1464220798,
+    "wof:name":"J W Allen Enterprises",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.586801,
+    39.660932,
+    -75.586801,
+    39.660932
+],
+  "geometry": {"coordinates":[-75.58680099999999,39.660932],"type":"Point"}
+}

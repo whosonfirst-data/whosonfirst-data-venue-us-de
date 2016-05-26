@@ -1,0 +1,71 @@
+{
+  "id": 873483261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.72686,39.701326,-75.72686,39.701326",
+    "geom:latitude":39.701326,
+    "geom:longitude":-75.72686,
+    "iso:country":"US",
+    "sg:address":"196 Possum Park Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 4402",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01GpJTEM7R1lEzasZ4RjYR_39.701326_-75.726860@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222239,
+    "wof:geomhash":"70fd84cdd3316bca16daffbfc556731b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873483261
+        }
+    ],
+    "wof:id":873483261,
+    "wof:lastmodified":1464222239,
+    "wof:name":"Valley Forge Homes Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.72686,
+    39.701326,
+    -75.72686,
+    39.701326
+],
+  "geometry": {"coordinates":[-75.72686,39.701326],"type":"Point"}
+}

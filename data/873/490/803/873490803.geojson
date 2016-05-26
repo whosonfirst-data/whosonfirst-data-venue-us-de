@@ -1,0 +1,73 @@
+{
+  "id": 873490803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.432966,38.479399,-75.432966,38.479399",
+    "geom:latitude":38.479399,
+    "geom:longitude":-75.432966,
+    "iso:country":"US",
+    "sg:address":"18129 Arvey Rd",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 875 2115",
+    "sg:postcode":"19956",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Osf5DagbvJurtV2hacQBb_38.479399_-75.432966@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222524,
+    "wof:geomhash":"bfd70cc65b4f2189d09b55bcd9272f21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873490803
+        }
+    ],
+    "wof:id":873490803,
+    "wof:lastmodified":1464222524,
+    "wof:name":"Defelice Electric",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.432966,
+    38.479399,
+    -75.432966,
+    38.479399
+],
+  "geometry": {"coordinates":[-75.43296599999999,38.479399],"type":"Point"}
+}

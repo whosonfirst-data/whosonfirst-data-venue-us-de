@@ -1,0 +1,73 @@
+{
+  "id": 857712907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.44648,38.908042,-75.44648,38.908042",
+    "geom:latitude":38.908042,
+    "geom:longitude":-75.44648,
+    "iso:country":"US",
+    "sg:address":"9 Woodside Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 6757",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "sewing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45j0bMWpYnJDqOwNDhpEwL_38.908042_-75.446480@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221108,
+    "wof:geomhash":"11e04e1c78576151a955065500be8e6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857712907
+        }
+    ],
+    "wof:id":857712907,
+    "wof:lastmodified":1464221108,
+    "wof:name":"Sussex Sewing Svc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "sewing"
+    ]
+},
+  "bbox": [
+    -75.44648,
+    38.908042,
+    -75.44648,
+    38.908042
+],
+  "geometry": {"coordinates":[-75.44647999999999,38.908042],"type":"Point"}
+}

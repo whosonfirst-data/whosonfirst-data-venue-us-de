@@ -1,0 +1,71 @@
+{
+  "id": 873519033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.679509,39.73324,-75.679509,39.73324",
+    "geom:latitude":39.73324,
+    "geom:longitude":-75.679509,
+    "iso:country":"US",
+    "sg:address":"3700 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 1922",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tr5eIb2FK9sk5xyPVlDDJ_39.733240_-75.679509@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223836,
+    "wof:geomhash":"831ea6c43253a9ed80b5ccfd3bec936f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873519033
+        }
+    ],
+    "wof:id":873519033,
+    "wof:lastmodified":1464223836,
+    "wof:name":"County Of New Castle",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -75.679509,
+    39.73324,
+    -75.679509,
+    39.73324
+],
+  "geometry": {"coordinates":[-75.679509,39.73324],"type":"Point"}
+}

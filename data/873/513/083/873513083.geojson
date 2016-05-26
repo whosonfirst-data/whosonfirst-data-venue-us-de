@@ -1,0 +1,72 @@
+{
+  "id": 873513083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.701762,39.700274,-75.701762,39.700274",
+    "geom:latitude":39.700274,
+    "geom:longitude":-75.701762,
+    "iso:country":"US",
+    "sg:address":"1700 Capitol Trl",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/174697-popeyes-chicken--biscuits/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 9782",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60QcFYUhTFxd7BdoYObfYx_39.700274_-75.701762@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223516,
+    "wof:geomhash":"cefdc4e1ab96d3ae17fdb6e2ccf1ae42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513083
+        }
+    ],
+    "wof:id":873513083,
+    "wof:lastmodified":1464223516,
+    "wof:name":"Popeyes Chicken & Biscuits",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -75.701762,
+    39.700274,
+    -75.701762,
+    39.700274
+],
+  "geometry": {"coordinates":[-75.701762,39.700274],"type":"Point"}
+}

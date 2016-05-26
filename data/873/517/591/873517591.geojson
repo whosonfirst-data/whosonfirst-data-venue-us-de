@@ -1,0 +1,91 @@
+{
+  "id": 873517591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557289,39.760849,-75.557289,39.760849",
+    "geom:latitude":39.760849,
+    "geom:longitude":-75.557289,
+    "iso:country":"US",
+    "sg:address":"1700 Augustine Cut Off",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Exhibition Hall",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Dance",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Dance Hall",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 1153",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "auditorium",
+        "instruction",
+        "halls",
+        "ballroom",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AI5HUUKNpMA2atp4NLytc_39.760849_-75.557289@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223769,
+    "wof:geomhash":"4d2d54ac12926b50eeb7e72e7b552b99",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873517591
+        }
+    ],
+    "wof:id":873517591,
+    "wof:lastmodified":1464223769,
+    "wof:name":"Academy Ballroom Dance Studio",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auditorium",
+        "instruction",
+        "halls",
+        "ballroom",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -75.557289,
+    39.760849,
+    -75.557289,
+    39.760849
+],
+  "geometry": {"coordinates":[-75.557289,39.760849],"type":"Point"}
+}

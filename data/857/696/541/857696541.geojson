@@ -1,0 +1,71 @@
+{
+  "id": 857696541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.28276,38.571474,-75.28276,38.571474",
+    "geom:latitude":38.571474,
+    "geom:longitude":-75.28276,
+    "iso:country":"US",
+    "sg:address":"553 E Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 7268",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40gVdtjT5fuw92hSw3tNkE_38.571474_-75.282760@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220745,
+    "wof:geomhash":"41c1c298bf426bbace2d0bb969d3d76c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857696541
+        }
+    ],
+    "wof:id":857696541,
+    "wof:lastmodified":1464220745,
+    "wof:name":"Justice Of The Peace",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -75.28276,
+    38.571474,
+    -75.28276,
+    38.571474
+],
+  "geometry": {"coordinates":[-75.28276,38.571474],"type":"Point"}
+}

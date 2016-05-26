@@ -1,0 +1,82 @@
+{
+  "id": 873507959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.562835,39.026662,-75.562835,39.026662",
+    "geom:latitude":39.026662,
+    "geom:longitude":-75.562835,
+    "iso:country":"US",
+    "sg:address":"9989 S Dupont Hwy",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 3799",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tile",
+        "equipment",
+        "ceramic",
+        "supply",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LIwXBSQXtObktwHJXOVo8_39.026662_-75.562835@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223279,
+    "wof:geomhash":"02e840302721e1873f0edeb2ba3342d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873507959
+        }
+    ],
+    "wof:id":873507959,
+    "wof:lastmodified":1464223279,
+    "wof:name":"Ceramic Country",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "equipment",
+        "ceramic",
+        "supply",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.562835,
+    39.026662,
+    -75.562835,
+    39.026662
+],
+  "geometry": {"coordinates":[-75.56283500000001,39.026662],"type":"Point"}
+}

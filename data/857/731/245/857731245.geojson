@@ -1,0 +1,71 @@
+{
+  "id": 857731245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.080189,38.537505,-75.080189,38.537505",
+    "geom:latitude":38.537505,
+    "geom:longitude":-75.080189,
+    "iso:country":"US",
+    "sg:address":"214 Venta Dr",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 542 0406",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "communication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vCCWB8b2CoTFQBehwGIyA_38.537505_-75.080189@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221461,
+    "wof:geomhash":"de1f2f8e780e249106ae77cbd12d01a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857731245
+        }
+    ],
+    "wof:id":857731245,
+    "wof:lastmodified":1464221461,
+    "wof:name":"Parisi Communication Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication"
+    ]
+},
+  "bbox": [
+    -75.080189,
+    38.537505,
+    -75.080189,
+    38.537505
+],
+  "geometry": {"coordinates":[-75.080189,38.537505],"type":"Point"}
+}

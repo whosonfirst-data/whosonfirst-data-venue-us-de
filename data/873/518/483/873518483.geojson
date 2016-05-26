@@ -1,0 +1,90 @@
+{
+  "id": 873518483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594847,39.755004,-75.594847,39.755004",
+    "geom:latitude":39.755004,
+    "geom:longitude":-75.594847,
+    "iso:country":"US",
+    "sg:address":"3700 Lancaster Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"College",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 9075",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nursing",
+        "assistant",
+        "dental",
+        "technician",
+        "medical",
+        "massage"
+    ],
+    "sg:website":"http://www.dawntrainingcentre.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_431Voha6ipDc5seW8oOKoW_39.755004_-75.594847@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223813,
+    "wof:geomhash":"12ea221447220c2fb8d18721790f0f48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518483
+        }
+    ],
+    "wof:id":873518483,
+    "wof:lastmodified":1464223813,
+    "wof:name":"Dawn Career Institute",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursing",
+        "assistant",
+        "dental",
+        "technician",
+        "medical",
+        "massage"
+    ]
+},
+  "bbox": [
+    -75.594847,
+    39.755004,
+    -75.594847,
+    39.755004
+],
+  "geometry": {"coordinates":[-75.594847,39.755004],"type":"Point"}
+}

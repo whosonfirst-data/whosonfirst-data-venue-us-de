@@ -1,0 +1,69 @@
+{
+  "id": 873480491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626748,39.72333,-75.626748,39.72333",
+    "geom:latitude":39.72333,
+    "geom:longitude":-75.626748,
+    "iso:country":"US",
+    "sg:address":"202 Wardel Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 1953",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v3WtvxH3NXc5aXjMC688j_39.723330_-75.626748@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222132,
+    "wof:geomhash":"7fc9f1ec5c20acf6c94a8b4099d47ee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873480491
+        }
+    ],
+    "wof:id":873480491,
+    "wof:lastmodified":1464222132,
+    "wof:name":"Morris Mechanical",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.626748,
+    39.72333,
+    -75.626748,
+    39.72333
+],
+  "geometry": {"coordinates":[-75.62674800000001,39.72333],"type":"Point"}
+}

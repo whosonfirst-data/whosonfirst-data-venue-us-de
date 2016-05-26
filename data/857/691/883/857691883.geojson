@@ -1,0 +1,71 @@
+{
+  "id": 857691883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594494,38.638255,-75.594494,38.638255",
+    "geom:latitude":38.638255,
+    "geom:longitude":-75.594494,
+    "iso:country":"US",
+    "sg:address":"893 Brickyard Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 5396",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "household",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tcD8QHATt0c2wDrWHYEMI_38.638255_-75.594494@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220660,
+    "wof:geomhash":"3b04410c5818dedefff7948d8f61bda6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857691883
+        }
+    ],
+    "wof:id":857691883,
+    "wof:lastmodified":1464220660,
+    "wof:name":"Kelly Appliance Service",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -75.594494,
+    38.638255,
+    -75.594494,
+    38.638255
+],
+  "geometry": {"coordinates":[-75.594494,38.638255],"type":"Point"}
+}

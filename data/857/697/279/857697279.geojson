@@ -1,0 +1,68 @@
+{
+  "id": 857697279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524703,39.158089,-75.524703,39.158089",
+    "geom:latitude":39.158089,
+    "geom:longitude":-75.524703,
+    "iso:country":"US",
+    "sg:address":"27 W Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 7810",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ovByfqRpEfNPNsXedgW2T_39.158089_-75.524703@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220760,
+    "wof:geomhash":"ba22ca1b40eeacbe5f6ec970f8662f57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":857697279
+        }
+    ],
+    "wof:id":857697279,
+    "wof:lastmodified":1464220760,
+    "wof:name":"Lunch Box",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.524703,
+    39.158089,
+    -75.524703,
+    39.158089
+],
+  "geometry": {"coordinates":[-75.524703,39.158089],"type":"Point"}
+}

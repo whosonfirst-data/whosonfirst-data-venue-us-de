@@ -1,0 +1,71 @@
+{
+  "id": 873502013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.584143,39.74732,-75.584143,39.74732",
+    "geom:latitude":39.74732,
+    "geom:longitude":-75.584143,
+    "iso:country":"US",
+    "sg:address":"105 Colonial Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 7724",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lithographic",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19XLe3MdKN8GjeXEl3cYWx_39.747320_-75.584143@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223029,
+    "wof:geomhash":"a256b0ccb22f6eba68fed4d1731217bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873502013
+        }
+    ],
+    "wof:id":873502013,
+    "wof:lastmodified":1464223029,
+    "wof:name":"Chambers Press Inc",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographic",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.584143,
+    39.74732,
+    -75.584143,
+    39.74732
+],
+  "geometry": {"coordinates":[-75.584143,39.74732],"type":"Point"}
+}

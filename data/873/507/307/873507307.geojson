@@ -1,0 +1,73 @@
+{
+  "id": 873507307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.392724,38.68877,-75.392724,38.68877",
+    "geom:latitude":38.68877,
+    "geom:longitude":-75.392724,
+    "iso:country":"US",
+    "sg:address":"300 Franklin St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9292",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mqBR6IajttsaWP9TAWdYW_38.688770_-75.392724@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223250,
+    "wof:geomhash":"0947d2eaa5425e3f066689d4feb503fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873507307
+        }
+    ],
+    "wof:id":873507307,
+    "wof:lastmodified":1464223250,
+    "wof:name":"Towers Electric",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.392724,
+    38.68877,
+    -75.392724,
+    38.68877
+],
+  "geometry": {"coordinates":[-75.392724,38.68877],"type":"Point"}
+}

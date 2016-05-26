@@ -1,0 +1,71 @@
+{
+  "id": 873475351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.751076,39.653981,-75.751076,39.653981",
+    "geom:latitude":39.653981,
+    "geom:longitude":-75.751076,
+    "iso:country":"US",
+    "sg:address":"804 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 0844",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7kVYY1O74rijhQOUoq9Hm7_39.653981_-75.751076@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221926,
+    "wof:geomhash":"fe80768fe2936dde66882e2dcc2c2776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873475351
+        }
+    ],
+    "wof:id":873475351,
+    "wof:lastmodified":1464221926,
+    "wof:name":"896 Shell Station",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.751076,
+    39.653981,
+    -75.751076,
+    39.653981
+],
+  "geometry": {"coordinates":[-75.751076,39.653981],"type":"Point"}
+}

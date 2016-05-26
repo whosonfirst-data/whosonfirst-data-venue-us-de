@@ -1,0 +1,71 @@
+{
+  "id": 873500853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592862,38.635751,-75.592862,38.635751",
+    "geom:latitude":38.635751,
+    "geom:longitude":-75.592862,
+    "iso:country":"US",
+    "sg:address":"585 S Dual Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 9810",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "leasing",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2r8XjWTo4elJbgPjkfTfI0_38.635751_-75.592862@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222978,
+    "wof:geomhash":"89375279082e56540c477d6cc4e11356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873500853
+        }
+    ],
+    "wof:id":873500853,
+    "wof:lastmodified":1464222978,
+    "wof:name":"Rent-Way",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.592862,
+    38.635751,
+    -75.592862,
+    38.635751
+],
+  "geometry": {"coordinates":[-75.592862,38.635751],"type":"Point"}
+}

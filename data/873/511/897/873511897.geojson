@@ -1,0 +1,75 @@
+{
+  "id": 873511897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5261,39.154999,-75.5261,39.154999",
+    "geom:latitude":39.154999,
+    "geom:longitude":-75.5261,
+    "iso:country":"US",
+    "sg:address":"422 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 1964",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "performing",
+        "art"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JchGflDeFXQTiAomF2V8g_39.155316_-75.526158@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223469,
+    "wof:geomhash":"a020471f374fb117c09d2ac785460977",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873511897
+        }
+    ],
+    "wof:id":873511897,
+    "wof:lastmodified":1464223469,
+    "wof:name":"Dance Factory",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing",
+        "art"
+    ]
+},
+  "bbox": [
+    -75.5261,
+    39.154999,
+    -75.5261,
+    39.154999
+],
+  "geometry": {"coordinates":[-75.5261,39.154999],"type":"Point"}
+}

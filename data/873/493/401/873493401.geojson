@@ -1,0 +1,77 @@
+{
+  "id": 873493401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540296,39.730413,-75.540296,39.730413",
+    "geom:latitude":39.730413,
+    "geom:longitude":-75.540296,
+    "iso:country":"US",
+    "sg:address":"200 Bradford St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 4332",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XeMwiAsVxM19vIho63Pa8_39.730413_-75.540296@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222622,
+    "wof:geomhash":"048ac3406e8bf33adb6ac19e0cec5b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873493401
+        }
+    ],
+    "wof:id":873493401,
+    "wof:lastmodified":1464222622,
+    "wof:name":"Zieger's Body & Paint Shop",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.540296,
+    39.730413,
+    -75.540296,
+    39.730413
+],
+  "geometry": {"coordinates":[-75.540296,39.730413],"type":"Point"}
+}

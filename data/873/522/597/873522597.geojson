@@ -1,0 +1,73 @@
+{
+  "id": 873522597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563004,39.084801,-75.563004,39.084801",
+    "geom:latitude":39.084801,
+    "geom:longitude":-75.563004,
+    "iso:country":"US",
+    "sg:address":"106 Lake Front Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 2454",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h9EKHEnxtSGyJdSksC2ch_39.084801_-75.563004@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223992,
+    "wof:geomhash":"f77fcb98c611ab29db86de7bd47a8798",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873522597
+        }
+    ],
+    "wof:id":873522597,
+    "wof:lastmodified":1464223992,
+    "wof:name":"Jester Richd E DDS",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -75.563004,
+    39.084801,
+    -75.563004,
+    39.084801
+],
+  "geometry": {"coordinates":[-75.56300400000001,39.084801],"type":"Point"}
+}

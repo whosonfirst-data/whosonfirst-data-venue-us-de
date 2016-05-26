@@ -1,0 +1,71 @@
+{
+  "id": 857724335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.090581,38.715881,-75.090581,38.715881",
+    "geom:latitude":38.715881,
+    "geom:longitude":-75.090581,
+    "iso:country":"US",
+    "sg:address":"161 Columbia Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 2050",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VcxfOooiwAE4bjwaZ8PpH_38.715881_-75.090581@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221330,
+    "wof:geomhash":"140bf9b624682b6df0bdda893416de55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":857724335
+        }
+    ],
+    "wof:id":857724335,
+    "wof:lastmodified":1464221330,
+    "wof:name":"Rehoboth Dance & Fitnes Studio",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -75.090581,
+    38.715881,
+    -75.090581,
+    38.715881
+],
+  "geometry": {"coordinates":[-75.090581,38.715881],"type":"Point"}
+}

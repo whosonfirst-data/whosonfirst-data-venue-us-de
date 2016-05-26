@@ -1,0 +1,77 @@
+{
+  "id": 873505763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.424126,38.90132,-75.424126,38.90132",
+    "geom:latitude":38.90132,
+    "geom:longitude":-75.424126,
+    "iso:country":"US",
+    "sg:address":"745 McColley St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 3021",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg",
+        "industrial",
+        "organic",
+        "cyclic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uAajVTA14gMU2bPYfaGa6_38.901320_-75.424126@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223189,
+    "wof:geomhash":"fb581deb0d74e8d3b3b96226d7263e54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873505763
+        }
+    ],
+    "wof:id":873505763,
+    "wof:lastmodified":1464223189,
+    "wof:name":"Clariant Corporation",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "industrial",
+        "organic",
+        "cyclic"
+    ]
+},
+  "bbox": [
+    -75.424126,
+    38.90132,
+    -75.424126,
+    38.90132
+],
+  "geometry": {"coordinates":[-75.424126,38.90132],"type":"Point"}
+}

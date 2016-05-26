@@ -1,0 +1,71 @@
+{
+  "id": 873507047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.427549,38.904794,-75.427549,38.904794",
+    "geom:latitude":38.904794,
+    "geom:longitude":-75.427549,
+    "iso:country":"US",
+    "sg:address":"502 S Washington St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 5600",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "warehouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27JKbm2Wsd5X63o2Mk1HC8_38.904794_-75.427549@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223239,
+    "wof:geomhash":"8e96d7eb957c01d7198f3d3c24d025ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873507047
+        }
+    ],
+    "wof:id":873507047,
+    "wof:lastmodified":1464223239,
+    "wof:name":"Warehouse",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse"
+    ]
+},
+  "bbox": [
+    -75.427549,
+    38.904794,
+    -75.427549,
+    38.904794
+],
+  "geometry": {"coordinates":[-75.427549,38.904794],"type":"Point"}
+}

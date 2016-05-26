@@ -1,0 +1,73 @@
+{
+  "id": 873523509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574203,39.1147,-75.574203,39.1147",
+    "geom:latitude":39.1147,
+    "geom:longitude":-75.574203,
+    "iso:country":"US",
+    "sg:address":"1266 Moose Lodge Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 6936",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DeSjTzRtbRHagdQT0mfIr_39.114700_-75.574203@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224023,
+    "wof:geomhash":"35d5130632dba4b3eb4096641dfadf5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523509
+        }
+    ],
+    "wof:id":873523509,
+    "wof:lastmodified":1464224023,
+    "wof:name":"Custom Canine Grooming & Boarding",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -75.574203,
+    39.1147,
+    -75.574203,
+    39.1147
+],
+  "geometry": {"coordinates":[-75.574203,39.1147],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857715755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546096,39.787726,-75.546096,39.787726",
+    "geom:latitude":39.787726,
+    "geom:longitude":-75.546096,
+    "iso:country":"US",
+    "sg:address":"2121 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"News Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"News",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 0013",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "newsstand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kfdBupCSVE7VS3wfDHhwe_39.787726_-75.546096@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221161,
+    "wof:geomhash":"a5d811a2ff4d0610b5ee970c5cd152e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":857715755
+        }
+    ],
+    "wof:id":857715755,
+    "wof:lastmodified":1464221161,
+    "wof:name":"Fairfax News Stand",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "newsstand"
+    ]
+},
+  "bbox": [
+    -75.546096,
+    39.787726,
+    -75.546096,
+    39.787726
+],
+  "geometry": {"coordinates":[-75.54609600000001,39.787726],"type":"Point"}
+}

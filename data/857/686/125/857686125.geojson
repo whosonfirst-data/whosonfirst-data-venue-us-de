@@ -1,0 +1,73 @@
+{
+  "id": 857686125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.313215,38.598933,-75.313215,38.598933",
+    "geom:latitude":38.598933,
+    "geom:longitude":-75.313215,
+    "iso:country":"US",
+    "sg:address":"400 W State St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 8304",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_255XoucDzTkbxUgiMtbgqB_38.598933_-75.313215@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220542,
+    "wof:geomhash":"612db6d9405ec043ef97917922af81c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857686125
+        }
+    ],
+    "wof:id":857686125,
+    "wof:lastmodified":1464220542,
+    "wof:name":"Mid-County Electric Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.313215,
+    38.598933,
+    -75.313215,
+    38.598933
+],
+  "geometry": {"coordinates":[-75.313215,38.598933],"type":"Point"}
+}

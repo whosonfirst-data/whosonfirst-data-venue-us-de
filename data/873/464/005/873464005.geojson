@@ -1,0 +1,73 @@
+{
+  "id": 873464005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.385194,38.806746,-75.385194,38.806746",
+    "geom:latitude":38.806746,
+    "geom:longitude":-75.385194,
+    "iso:country":"US",
+    "sg:address":"15 Lorraine Ln",
+    "sg:city":"Frederica",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 9880",
+    "sg:postcode":"19941",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yOi3AY6B1FIn1gV6LkEdr_38.806746_-75.385194@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221547,
+    "wof:geomhash":"ffbf56c45b130804474f7cccb3f6dccd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873464005
+        }
+    ],
+    "wof:id":873464005,
+    "wof:lastmodified":1464221547,
+    "wof:name":"Richmond American Homes",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.385194,
+    38.806746,
+    -75.385194,
+    38.806746
+],
+  "geometry": {"coordinates":[-75.385194,38.806746],"type":"Point"}
+}

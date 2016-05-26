@@ -1,0 +1,71 @@
+{
+  "id": 857727541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736362,39.595318,-75.736362,39.595318",
+    "geom:latitude":39.595318,
+    "geom:longitude":-75.736362,
+    "iso:country":"US",
+    "sg:address":"212 Springwood Dr",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 838 0952",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "splicing",
+        "cable"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SHzTQeHpDwPPFLSlHbb4j_39.595318_-75.736362@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221388,
+    "wof:geomhash":"e708f24c8b1add1a1069430f623f30c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857727541
+        }
+    ],
+    "wof:id":857727541,
+    "wof:lastmodified":1464221388,
+    "wof:name":"Fox Communications Svc Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "splicing",
+        "cable"
+    ]
+},
+  "bbox": [
+    -75.736362,
+    39.595318,
+    -75.736362,
+    39.595318
+],
+  "geometry": {"coordinates":[-75.736362,39.595318],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873512119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5355,39.8009,-75.5355,39.8009",
+    "geom:latitude":39.8009,
+    "geom:longitude":-75.5355,
+    "iso:country":"US",
+    "sg:address":"2111 Largo Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0622",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I5jGVblf23V1ASCaB2gC4_39.801532_-75.535450@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223479,
+    "wof:geomhash":"9a39a9eb1d0ab5d4d779867c492e506a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873512119
+        }
+    ],
+    "wof:id":873512119,
+    "wof:lastmodified":1464223479,
+    "wof:name":"Fabricare Inc",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -75.5355,
+    39.8009,
+    -75.5355,
+    39.8009
+],
+  "geometry": {"coordinates":[-75.5355,39.8009],"type":"Point"}
+}

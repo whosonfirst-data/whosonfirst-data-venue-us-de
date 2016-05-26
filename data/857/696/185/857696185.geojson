@@ -1,0 +1,71 @@
+{
+  "id": 857696185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.659976,39.731565,-75.659976,39.731565",
+    "geom:latitude":39.731565,
+    "geom:longitude":-75.659976,
+    "iso:country":"US",
+    "sg:address":"4504 Pickwick Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 225 3330",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JnPeqVMyofzSZQ7nomBz2_39.731565_-75.659976@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220739,
+    "wof:geomhash":"2a26a47c5742e46d8e18064bfcfbd30d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857696185
+        }
+    ],
+    "wof:id":857696185,
+    "wof:lastmodified":1464220739,
+    "wof:name":"Manley Lawn & Landscaping Inc",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.659976,
+    39.731565,
+    -75.659976,
+    39.731565
+],
+  "geometry": {"coordinates":[-75.659976,39.731565],"type":"Point"}
+}

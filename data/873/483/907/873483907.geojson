@@ -1,0 +1,69 @@
+{
+  "id": 873483907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.581336,39.750478,-75.581336,39.750478",
+    "geom:latitude":39.750478,
+    "geom:longitude":-75.581336,
+    "iso:country":"US",
+    "sg:address":"111 Greenhill Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 0277",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56MMT4UnGNlAlbRRCsPk4c_39.750478_-75.581336@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222267,
+    "wof:geomhash":"186321191bf1294275fd429db6793fbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873483907
+        }
+    ],
+    "wof:id":873483907,
+    "wof:lastmodified":1464222267,
+    "wof:name":"Greenhill Self Serve Car Wash",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -75.581336,
+    39.750478,
+    -75.581336,
+    39.750478
+],
+  "geometry": {"coordinates":[-75.58133599999999,39.750478],"type":"Point"}
+}

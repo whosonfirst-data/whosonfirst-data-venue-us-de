@@ -1,0 +1,71 @@
+{
+  "id": 873499117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.639366,39.733636,-75.639366,39.733636",
+    "geom:latitude":39.733636,
+    "geom:longitude":-75.639366,
+    "iso:country":"US",
+    "sg:address":"3613 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 1322",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "printer",
+        "offset"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GyeBjG6tkYI4Y43HHuDjF_39.733636_-75.639366@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222904,
+    "wof:geomhash":"773ac08a650cb28ab097261d7050ef2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873499117
+        }
+    ],
+    "wof:id":873499117,
+    "wof:lastmodified":1464222904,
+    "wof:name":"Minuteman Press",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer",
+        "offset"
+    ]
+},
+  "bbox": [
+    -75.639366,
+    39.733636,
+    -75.639366,
+    39.733636
+],
+  "geometry": {"coordinates":[-75.639366,39.733636],"type":"Point"}
+}

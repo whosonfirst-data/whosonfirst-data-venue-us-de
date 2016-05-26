@@ -1,0 +1,75 @@
+{
+  "id": 857728919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.747846,39.683377,-75.747846,39.683377",
+    "geom:latitude":39.683377,
+    "geom:longitude":-75.747846,
+    "iso:country":"US",
+    "sg:address":"117 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 2290",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ld2QXSBNJ2035UUlNzSbB_39.683377_-75.747846@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221413,
+    "wof:geomhash":"278c741084b50faa45c119caf1c5c678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":857728919
+        }
+    ],
+    "wof:id":857728919,
+    "wof:lastmodified":1464221413,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.747846,
+    39.683377,
+    -75.747846,
+    39.683377
+],
+  "geometry": {"coordinates":[-75.747846,39.683377],"type":"Point"}
+}

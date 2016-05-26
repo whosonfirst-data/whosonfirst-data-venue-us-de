@@ -1,0 +1,67 @@
+{
+  "id": 873511955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.484787,39.804379,-75.484787,39.804379",
+    "geom:latitude":39.804379,
+    "geom:longitude":-75.484787,
+    "iso:country":"US",
+    "sg:address":"1501 Beech Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 6678",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:website":"http://www.unbroke.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QfkeBPSRQADLn88NXwDvN_39.804977_-75.484460@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223471,
+    "wof:geomhash":"e6afa3a5328dc08c6622c80a82cf9f69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873511955
+        }
+    ],
+    "wof:id":873511955,
+    "wof:lastmodified":1464223471,
+    "wof:name":"United Brokers Inc",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.484787,
+    39.804379,
+    -75.484787,
+    39.804379
+],
+  "geometry": {"coordinates":[-75.484787,39.804379],"type":"Point"}
+}

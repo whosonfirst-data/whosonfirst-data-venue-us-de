@@ -1,0 +1,68 @@
+{
+  "id": 873469465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563712,39.756369,-75.563712,39.756369",
+    "geom:latitude":39.756369,
+    "geom:longitude":-75.563712,
+    "iso:country":"US",
+    "sg:address":"1321 N Dupont St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 512 651 5662",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dDOIOSHw4L0o5O2uDrjBF_39.756369_-75.563712@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221703,
+    "wof:geomhash":"9d2be9abc7f3d88e657f9606e620a55a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873469465
+        }
+    ],
+    "wof:id":873469465,
+    "wof:lastmodified":1464221703,
+    "wof:name":"Austin Logistics Inc",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.563712,
+    39.756369,
+    -75.563712,
+    39.756369
+],
+  "geometry": {"coordinates":[-75.563712,39.756369],"type":"Point"}
+}

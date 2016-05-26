@@ -1,0 +1,73 @@
+{
+  "id": 857722953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.731534,39.650485,-75.731534,39.650485",
+    "geom:latitude":39.650485,
+    "geom:longitude":-75.731534,
+    "iso:country":"US",
+    "sg:address":"669 Dawson Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 9490",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "motorcycle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JuWt2CgaJBQldG0d7WA7a_39.650485_-75.731534@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221305,
+    "wof:geomhash":"8f98fd9dbaf41ed394926649dc9c39c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857722953
+        }
+    ],
+    "wof:id":857722953,
+    "wof:lastmodified":1464221305,
+    "wof:name":"Un Eazy Kustoms",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motorcycle"
+    ]
+},
+  "bbox": [
+    -75.731534,
+    39.650485,
+    -75.731534,
+    39.650485
+],
+  "geometry": {"coordinates":[-75.731534,39.650485],"type":"Point"}
+}

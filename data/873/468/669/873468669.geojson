@@ -1,0 +1,65 @@
+{
+  "id": 873468669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.649157,39.7283,-75.649157,39.7283",
+    "geom:latitude":39.7283,
+    "geom:longitude":-75.649157,
+    "iso:country":"US",
+    "sg:address":"3926 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8448",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:website":"www.tweeter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wTiYpf1vPMONGZN0bbzjS_39.728300_-75.649157@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221676,
+    "wof:geomhash":"d2dfcea3f0b8ade3abc6afd5d471ada3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873468669
+        }
+    ],
+    "wof:id":873468669,
+    "wof:lastmodified":1464221676,
+    "wof:name":"Tweeter",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.649157,
+    39.7283,
+    -75.649157,
+    39.7283
+],
+  "geometry": {"coordinates":[-75.649157,39.7283],"type":"Point"}
+}

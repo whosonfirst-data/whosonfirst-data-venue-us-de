@@ -1,0 +1,71 @@
+{
+  "id": 857728217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.128168,38.761489,-75.128168,38.761489",
+    "geom:latitude":38.761489,
+    "geom:longitude":-75.128168,
+    "iso:country":"US",
+    "sg:address":"110 Cutter Ct",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 7388",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814899,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DmTcbNV4pEhtnwuIecJf4_38.761489_-75.128168@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221400,
+    "wof:geomhash":"982c8e68e35388e0b61df70b53019484",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85814899,
+            "region_id":85688611,
+            "venue_id":857728217
+        }
+    ],
+    "wof:id":857728217,
+    "wof:lastmodified":1464221400,
+    "wof:name":"David Anthony Pavlik",
+    "wof:parent_id":85814899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.128168,
+    38.761489,
+    -75.128168,
+    38.761489
+],
+  "geometry": {"coordinates":[-75.128168,38.761489],"type":"Point"}
+}

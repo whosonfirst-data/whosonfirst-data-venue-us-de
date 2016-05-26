@@ -1,0 +1,71 @@
+{
+  "id": 857713855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544303,39.800982,-75.544303,39.800982",
+    "geom:latitude":39.800982,
+    "geom:longitude":-75.544303,
+    "iso:country":"US",
+    "sg:address":"111 Concord Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 438 7146",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uxwXt1uGo4WsWXyYYIfDq_39.800982_-75.544303@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221127,
+    "wof:geomhash":"2f5fe10cbb57d6031fb139f5f98e6647",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":857713855
+        }
+    ],
+    "wof:id":857713855,
+    "wof:lastmodified":1464221127,
+    "wof:name":"M H Jones",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.544303,
+    39.800982,
+    -75.544303,
+    39.800982
+],
+  "geometry": {"coordinates":[-75.544303,39.800982],"type":"Point"}
+}

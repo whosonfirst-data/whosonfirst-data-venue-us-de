@@ -1,0 +1,71 @@
+{
+  "id": 873497389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602906,38.743169,-75.602906,38.743169",
+    "geom:latitude":38.743169,
+    "geom:longitude":-75.602906,
+    "iso:country":"US",
+    "sg:address":"302 Market St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8302",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hLM7YGwG0qurB2xG5MUkZ_38.743169_-75.602906@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222837,
+    "wof:geomhash":"4fdf15d85180b4310f17aed09cace8bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873497389
+        }
+    ],
+    "wof:id":873497389,
+    "wof:lastmodified":1464222837,
+    "wof:name":"Town of Bridgeville The",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -75.602906,
+    38.743169,
+    -75.602906,
+    38.743169
+],
+  "geometry": {"coordinates":[-75.602906,38.743169],"type":"Point"}
+}

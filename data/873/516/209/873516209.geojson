@@ -1,0 +1,105 @@
+{
+  "id": 873516209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.651962,39.697208,-75.651962,39.697208",
+    "geom:latitude":39.697208,
+    "geom:longitude":-75.651962,
+    "iso:country":"US",
+    "sg:address":"1000 Twin C Ln Ste 100",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0774",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "surgeons",
+        "osteopathic",
+        "mri",
+        "resonance",
+        "magnetic",
+        "x-ray",
+        "imaging"
+    ],
+    "sg:website":"http://www3.americanradiology.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WTD4pZYcMn1yHg3kApwis_39.697208_-75.651962@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223670,
+    "wof:geomhash":"52df3aa55aed7a23995a9e4da49396a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873516209
+        }
+    ],
+    "wof:id":873516209,
+    "wof:lastmodified":1464223670,
+    "wof:name":"American Radiology Services",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "surgeons",
+        "osteopathic",
+        "mri",
+        "resonance",
+        "magnetic",
+        "x-ray",
+        "imaging"
+    ]
+},
+  "bbox": [
+    -75.651962,
+    39.697208,
+    -75.651962,
+    39.697208
+],
+  "geometry": {"coordinates":[-75.651962,39.697208],"type":"Point"}
+}

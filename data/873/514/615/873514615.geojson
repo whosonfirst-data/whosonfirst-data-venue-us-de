@@ -1,0 +1,86 @@
+{
+  "id": 873514615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.717598,39.644901,-75.717598,39.644901",
+    "geom:latitude":39.644901,
+    "geom:longitude":-75.717598,
+    "iso:country":"US",
+    "sg:address":"2 Burleigh Ct Ofc A4",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 8228",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Jxr667hMNknnFK4fYrOvM_39.644901_-75.717598@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223600,
+    "wof:geomhash":"cf5ce0d50e72a7aba08e70f8ca80f1ef",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873514615
+        }
+    ],
+    "wof:id":873514615,
+    "wof:lastmodified":1464223600,
+    "wof:name":"Iron Hill Apartments",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "vacancy",
+        "listing",
+        "rental",
+        "finder"
+    ]
+},
+  "bbox": [
+    -75.717598,
+    39.644901,
+    -75.717598,
+    39.644901
+],
+  "geometry": {"coordinates":[-75.717598,39.644901],"type":"Point"}
+}

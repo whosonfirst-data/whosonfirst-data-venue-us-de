@@ -1,0 +1,75 @@
+{
+  "id": 873471693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553311,39.116109,-75.553311,39.116109",
+    "geom:latitude":39.116109,
+    "geom:longitude":-75.553311,
+    "iso:country":"US",
+    "sg:address":"2 S Caesar Rodney Ave",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 9595",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "used",
+        "new"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JNJO0AGeG9XK5Eg7hAFTa_39.116109_-75.553311@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221793,
+    "wof:geomhash":"c83017a8cbc72ee5f410e621eff080d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873471693
+        }
+    ],
+    "wof:id":873471693,
+    "wof:lastmodified":1464221793,
+    "wof:name":"Camden-Wyoming Auto Sales Inc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "used",
+        "new"
+    ]
+},
+  "bbox": [
+    -75.553311,
+    39.116109,
+    -75.553311,
+    39.116109
+],
+  "geometry": {"coordinates":[-75.55331099999999,39.116109],"type":"Point"}
+}

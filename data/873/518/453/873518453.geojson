@@ -1,0 +1,87 @@
+{
+  "id": 873518453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598809,39.741212,-75.598809,39.741212",
+    "geom:latitude":39.741212,
+    "geom:longitude":-75.598809,
+    "iso:country":"US",
+    "sg:address":"15 Sanders Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 691 3918",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "cleaners-repair",
+        "system",
+        "cleaners-household-dealers",
+        "vacuum"
+    ],
+    "sg:website":"http://www.docsvacuums.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N8jfzpP15iq2kaJZZeWXO_39.741212_-75.598809@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223812,
+    "wof:geomhash":"c01cc3acdb21e45d6696622004f4414f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873518453
+        }
+    ],
+    "wof:id":873518453,
+    "wof:lastmodified":1464223812,
+    "wof:name":"Doc's Vacuum Sales and Repairs",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "cleaners-repair",
+        "system",
+        "cleaners-household-dealers",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -75.598809,
+    39.741212,
+    -75.598809,
+    39.741212
+],
+  "geometry": {"coordinates":[-75.598809,39.741212],"type":"Point"}
+}

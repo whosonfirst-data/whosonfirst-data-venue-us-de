@@ -1,0 +1,75 @@
+{
+  "id": 873511783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.696929,39.755749,-75.696929,39.755749",
+    "geom:latitude":39.755749,
+    "geom:longitude":-75.696929,
+    "iso:country":"US",
+    "sg:address":"237 Charleston Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 4847",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "toy",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2WTm1vA5DA5MsWZFiCDVcY_39.755541_-75.697446@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223464,
+    "wof:geomhash":"db55b0ace700ce1a21258acddb37bb2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873511783
+        }
+    ],
+    "wof:id":873511783,
+    "wof:lastmodified":1464223464,
+    "wof:name":"Tri Supply Inc",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.696929,
+    39.755749,
+    -75.696929,
+    39.755749
+],
+  "geometry": {"coordinates":[-75.696929,39.755749],"type":"Point"}
+}

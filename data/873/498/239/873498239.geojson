@@ -1,0 +1,69 @@
+{
+  "id": 873498239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.099325,38.717342,-75.099325,38.717342",
+    "geom:latitude":38.717342,
+    "geom:longitude":-75.099325,
+    "iso:country":"US",
+    "sg:address":"100 Norwood St",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 5442",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dhbXfwX80AOGnPbeoudyD_38.717342_-75.099325@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222872,
+    "wof:geomhash":"6e983b8c5394add688ffee8014d91a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873498239
+        }
+    ],
+    "wof:id":873498239,
+    "wof:lastmodified":1464222872,
+    "wof:name":"Westside N Begnings Yth Imprvm",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -75.099325,
+    38.717342,
+    -75.099325,
+    38.717342
+],
+  "geometry": {"coordinates":[-75.09932499999999,38.717342],"type":"Point"}
+}

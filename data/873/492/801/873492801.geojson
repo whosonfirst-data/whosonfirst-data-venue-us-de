@@ -1,0 +1,71 @@
+{
+  "id": 873492801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.579788,39.67406,-75.579788,39.67406",
+    "geom:latitude":39.67406,
+    "geom:longitude":-75.579788,
+    "iso:country":"US",
+    "sg:address":"55 Notre Dame Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 1883",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7k6uo2GPMP0TccYSMM5zb6_39.674060_-75.579788@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222593,
+    "wof:geomhash":"bb70ec131048d0703278f81cf9e2760a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873492801
+        }
+    ],
+    "wof:id":873492801,
+    "wof:lastmodified":1464222593,
+    "wof:name":"Joseph Cardenti",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.579788,
+    39.67406,
+    -75.579788,
+    39.67406
+],
+  "geometry": {"coordinates":[-75.57978799999999,39.67406],"type":"Point"}
+}

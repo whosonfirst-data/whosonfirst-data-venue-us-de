@@ -1,0 +1,71 @@
+{
+  "id": 873486687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.784721,39.646036,-75.784721,39.646036",
+    "geom:latitude":39.646036,
+    "geom:longitude":-75.784721,
+    "iso:country":"US",
+    "sg:address":"20 Maple Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Advertising",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 9933",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mail",
+        "direct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oOiboROG3g2Xcdk2YIUl5_39.646036_-75.784721@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222366,
+    "wof:geomhash":"ba0c15bcd050f05607f3ab45560536b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873486687
+        }
+    ],
+    "wof:id":873486687,
+    "wof:lastmodified":1464222366,
+    "wof:name":"Alto Shipping Company",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "direct"
+    ]
+},
+  "bbox": [
+    -75.784721,
+    39.646036,
+    -75.784721,
+    39.646036
+],
+  "geometry": {"coordinates":[-75.784721,39.646036],"type":"Point"}
+}

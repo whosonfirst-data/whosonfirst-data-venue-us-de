@@ -1,0 +1,71 @@
+{
+  "id": 873508215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549517,39.811442,-75.549517,39.811442",
+    "geom:latitude":39.811442,
+    "geom:longitude":-75.549517,
+    "iso:country":"US",
+    "sg:address":"4130 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 4081",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "major",
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RuiRCWTvqWP1XX5EfVBNC_39.811442_-75.549517@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223295,
+    "wof:geomhash":"500f41c9a1eb5f0cde78f9cbfa1fd0e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873508215
+        }
+    ],
+    "wof:id":873508215,
+    "wof:lastmodified":1464223295,
+    "wof:name":"Circuit City",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "appliance"
+    ]
+},
+  "bbox": [
+    -75.549517,
+    39.811442,
+    -75.549517,
+    39.811442
+],
+  "geometry": {"coordinates":[-75.54951699999999,39.811442],"type":"Point"}
+}

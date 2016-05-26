@@ -1,0 +1,80 @@
+{
+  "id": 873524625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.376078,38.454042,-75.376078,38.454042",
+    "geom:latitude":38.454042,
+    "geom:longitude":-75.376078,
+    "iso:country":"US",
+    "sg:address":"38682 Cooper Rd",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 238 7065",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q6qV8xyCggTXLLSpQQWB0_38.454042_-75.376078@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224064,
+    "wof:geomhash":"411701b1ab773248c751570deaef5864",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873524625
+        }
+    ],
+    "wof:id":873524625,
+    "wof:lastmodified":1464224064,
+    "wof:name":"G & L Trucking",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.376078,
+    38.454042,
+    -75.376078,
+    38.454042
+],
+  "geometry": {"coordinates":[-75.37607800000001,38.454042],"type":"Point"}
+}

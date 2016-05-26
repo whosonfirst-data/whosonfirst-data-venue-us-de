@@ -1,0 +1,68 @@
+{
+  "id": 873506875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.582846,39.164805,-75.582846,39.164805",
+    "geom:latitude":39.164805,
+    "geom:longitude":-75.582846,
+    "iso:country":"US",
+    "sg:address":"313 Springfield Way",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2473",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6m6ZX9Tgu3FeVpuq5YwIA9_39.164805_-75.582846@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223233,
+    "wof:geomhash":"bf92741faac54123707306a3d85d1ba6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873506875
+        }
+    ],
+    "wof:id":873506875,
+    "wof:lastmodified":1464223233,
+    "wof:name":"Paradee Equine Services Inc",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.582846,
+    39.164805,
+    -75.582846,
+    39.164805
+],
+  "geometry": {"coordinates":[-75.582846,39.164805],"type":"Point"}
+}

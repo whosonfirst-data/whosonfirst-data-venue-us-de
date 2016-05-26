@@ -1,0 +1,75 @@
+{
+  "id": 857683811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.389285,38.693116,-75.389285,38.693116",
+    "geom:latitude":38.693116,
+    "geom:longitude":-75.389285,
+    "iso:country":"US",
+    "sg:address":"413 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 3828",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZlTDGu0OABAbz3XEqVBko_38.693116_-75.389285@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220495,
+    "wof:geomhash":"9f9d172103c5b6c0241922f96d1a2265",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857683811
+        }
+    ],
+    "wof:id":857683811,
+    "wof:lastmodified":1464220495,
+    "wof:name":"Joe's Paint & Body Shop",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.389285,
+    38.693116,
+    -75.389285,
+    38.693116
+],
+  "geometry": {"coordinates":[-75.389285,38.693116],"type":"Point"}
+}

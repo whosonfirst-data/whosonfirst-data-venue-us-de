@@ -1,0 +1,73 @@
+{
+  "id": 857710859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.727854,39.71482,-75.727854,39.71482",
+    "geom:latitude":39.71482,
+    "geom:longitude":-75.727854,
+    "iso:country":"US",
+    "sg:address":"29 Possum Hollow Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 0660",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "aviation",
+        "aircraft",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85842215,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23c6hVDKJvEKHbylocPv8M_39.714820_-75.727854@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221049,
+    "wof:geomhash":"8723fa4fc10538ff5bc2cf9ca99fd6ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85842215,
+            "region_id":85688611,
+            "venue_id":857710859
+        }
+    ],
+    "wof:id":857710859,
+    "wof:lastmodified":1464221049,
+    "wof:name":"Three Dogs Aviation Corp",
+    "wof:parent_id":85842215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aviation",
+        "aircraft",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -75.727854,
+    39.71482,
+    -75.727854,
+    39.71482
+],
+  "geometry": {"coordinates":[-75.72785399999999,39.71482],"type":"Point"}
+}

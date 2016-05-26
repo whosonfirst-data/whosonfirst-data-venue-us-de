@@ -1,0 +1,80 @@
+{
+  "id": 873510335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.630097,39.736087,-75.630097,39.736087",
+    "geom:latitude":39.736087,
+    "geom:longitude":-75.630097,
+    "iso:country":"US",
+    "sg:address":"3316 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8800",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "venetian",
+        "blind",
+        "drapery",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rnKkHyVJIdlAjmrAellTN_39.736087_-75.630097@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223390,
+    "wof:geomhash":"1948163826cda3a48fea105b7a8a75b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873510335
+        }
+    ],
+    "wof:id":873510335,
+    "wof:lastmodified":1464223390,
+    "wof:name":"Blind Factory Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "venetian",
+        "blind",
+        "drapery",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.630097,
+    39.736087,
+    -75.630097,
+    39.736087
+],
+  "geometry": {"coordinates":[-75.63009700000001,39.736087],"type":"Point"}
+}

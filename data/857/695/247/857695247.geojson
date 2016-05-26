@@ -1,0 +1,75 @@
+{
+  "id": 857695247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566333,39.756519,-75.566333,39.756519",
+    "geom:latitude":39.756519,
+    "geom:longitude":-75.566333,
+    "iso:country":"US",
+    "sg:address":"1815 W 13th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 1190",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yXYcy9ccpiD23jH2vMuL0_39.756519_-75.566333@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220724,
+    "wof:geomhash":"9dfccc17aa762a2374055c116515e507",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857695247
+        }
+    ],
+    "wof:id":857695247,
+    "wof:lastmodified":1464220724,
+    "wof:name":"Concorde Physical Therapy",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.566333,
+    39.756519,
+    -75.566333,
+    39.756519
+],
+  "geometry": {"coordinates":[-75.566333,39.756519],"type":"Point"}
+}

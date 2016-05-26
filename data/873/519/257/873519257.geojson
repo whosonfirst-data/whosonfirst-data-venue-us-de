@@ -1,0 +1,85 @@
+{
+  "id": 873519257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625206,39.737194,-75.625206,39.737194",
+    "geom:latitude":39.737194,
+    "geom:longitude":-75.625206,
+    "iso:country":"US",
+    "sg:address":"3216 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 3130",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners-household-dealers",
+        "system",
+        "equipment",
+        "cleaners-repair",
+        "vacuum",
+        "small"
+    ],
+    "sg:website":"http://www.oreckretail.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nHJLySsaIgJcXCByod40f_39.737194_-75.625206@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223844,
+    "wof:geomhash":"b9710ebd20f68fe8df948847e92f1d52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873519257
+        }
+    ],
+    "wof:id":873519257,
+    "wof:lastmodified":1464223844,
+    "wof:name":"Oreck",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners-household-dealers",
+        "system",
+        "equipment",
+        "cleaners-repair",
+        "vacuum",
+        "small"
+    ]
+},
+  "bbox": [
+    -75.625206,
+    39.737194,
+    -75.625206,
+    39.737194
+],
+  "geometry": {"coordinates":[-75.62520600000001,39.737194],"type":"Point"}
+}

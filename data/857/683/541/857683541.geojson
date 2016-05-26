@@ -1,0 +1,77 @@
+{
+  "id": 857683541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.562764,39.67643,-75.562764,39.67643",
+    "geom:latitude":39.67643,
+    "geom:longitude":-75.562764,
+    "iso:country":"US",
+    "sg:address":"200 Brylgon Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 1488",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sweeping",
+        "repair",
+        "chimney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931555,
+        102083891,
+        85845649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RHX6k7xcKlFe5vLJv5vPi_39.676430_-75.562764@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220490,
+    "wof:geomhash":"3fcc750dd51c45e110994a31c8845345",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931555,
+            "neighbourhood_id":85845649,
+            "region_id":85688611,
+            "venue_id":857683541
+        }
+    ],
+    "wof:id":857683541,
+    "wof:lastmodified":1464220490,
+    "wof:name":"Magic Sweep",
+    "wof:parent_id":85845649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sweeping",
+        "repair",
+        "chimney"
+    ]
+},
+  "bbox": [
+    -75.562764,
+    39.67643,
+    -75.562764,
+    39.67643
+],
+  "geometry": {"coordinates":[-75.562764,39.67643],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873482461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546339,39.746106,-75.546339,39.746106",
+    "geom:latitude":39.746106,
+    "geom:longitude":-75.546339,
+    "iso:country":"US",
+    "sg:address":"1000 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 577 3803",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4W7MFEfiDxPiV2F2Dduoz1_39.746106_-75.546339@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222210,
+    "wof:geomhash":"057853a3489e711af1bf2cc4ea6a7d38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873482461
+        }
+    ],
+    "wof:id":873482461,
+    "wof:lastmodified":1464222210,
+    "wof:name":"Delaware Capitol Police",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -75.546339,
+    39.746106,
+    -75.546339,
+    39.746106
+],
+  "geometry": {"coordinates":[-75.546339,39.746106],"type":"Point"}
+}

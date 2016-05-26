@@ -1,0 +1,76 @@
+{
+  "id": 873524681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.182523,38.6076,-75.182523,38.6076",
+    "geom:latitude":38.6076,
+    "geom:longitude":-75.182523,
+    "iso:country":"US",
+    "sg:address":"32610 Captains Way",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 3532",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59LLmPoTApIOEFe7hiwmTQ_38.607600_-75.182523@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224067,
+    "wof:geomhash":"d8ab90f32767a51067ce08e05226b885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873524681
+        }
+    ],
+    "wof:id":873524681,
+    "wof:lastmodified":1464224067,
+    "wof:name":"Total Refresh",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "cleaners-interior"
+    ]
+},
+  "bbox": [
+    -75.182523,
+    38.6076,
+    -75.182523,
+    38.6076
+],
+  "geometry": {"coordinates":[-75.182523,38.6076],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873508903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563327,39.758835,-75.563327,39.758835",
+    "geom:latitude":39.758835,
+    "geom:longitude":-75.563327,
+    "iso:country":"US",
+    "sg:address":"1715 Delaware Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 5907",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "massage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Z1860g1HJRgiBDwkhL5Jr_39.758835_-75.563327@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223326,
+    "wof:geomhash":"2e0579d8591a1f814bff59d01a89fbf8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873508903
+        }
+    ],
+    "wof:id":873508903,
+    "wof:lastmodified":1464223326,
+    "wof:name":"Massage & Bodywork Ctr",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "massage"
+    ]
+},
+  "bbox": [
+    -75.563327,
+    39.758835,
+    -75.563327,
+    39.758835
+],
+  "geometry": {"coordinates":[-75.563327,39.758835],"type":"Point"}
+}

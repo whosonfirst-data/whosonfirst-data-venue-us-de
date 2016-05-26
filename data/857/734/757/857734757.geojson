@@ -1,0 +1,75 @@
+{
+  "id": 857734757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.533964,39.119989,-75.533964,39.119989",
+    "geom:latitude":39.119989,
+    "geom:longitude":-75.533964,
+    "iso:country":"US",
+    "sg:address":"2089 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 4040",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DtkNyLzk4r6atoojouh1F_39.119989_-75.533964@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221535,
+    "wof:geomhash":"ef241f3d7020e304014c19638b864b15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":857734757
+        }
+    ],
+    "wof:id":857734757,
+    "wof:lastmodified":1464221535,
+    "wof:name":"Nightingale Health Svc",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -75.533964,
+    39.119989,
+    -75.533964,
+    39.119989
+],
+  "geometry": {"coordinates":[-75.533964,39.119989],"type":"Point"}
+}

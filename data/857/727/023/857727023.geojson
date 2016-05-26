@@ -1,0 +1,75 @@
+{
+  "id": 857727023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529044,39.743876,-75.529044,39.743876",
+    "geom:latitude":39.743876,
+    "geom:longitude":-75.529044,
+    "iso:country":"US",
+    "sg:address":"1600 Bowers St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 1501",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M3k2CNn1zMtupaZwTb3vZ_39.743876_-75.529044@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221378,
+    "wof:geomhash":"b44d784b7dd1b658a78c9f7863b4ffce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":857727023
+        }
+    ],
+    "wof:id":857727023,
+    "wof:lastmodified":1464221378,
+    "wof:name":"Diamond State Recycling Corp",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.529044,
+    39.743876,
+    -75.529044,
+    39.743876
+],
+  "geometry": {"coordinates":[-75.529044,39.743876],"type":"Point"}
+}

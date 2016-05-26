@@ -1,0 +1,71 @@
+{
+  "id": 873479519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602372,39.713455,-75.602372,39.713455",
+    "geom:latitude":39.713455,
+    "geom:longitude":-75.602372,
+    "iso:country":"US",
+    "sg:address":"1618 E Ayre St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 1888",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rcMO6KLxIJSj9qQfLWjRM_39.713455_-75.602372@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222086,
+    "wof:geomhash":"fba120fdcc9d0ac9cbf6468559b7bc16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873479519
+        }
+    ],
+    "wof:id":873479519,
+    "wof:lastmodified":1464222086,
+    "wof:name":"Perfect Custom Auto Detailing",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.602372,
+    39.713455,
+    -75.602372,
+    39.713455
+],
+  "geometry": {"coordinates":[-75.602372,39.713455],"type":"Point"}
+}

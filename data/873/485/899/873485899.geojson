@@ -1,0 +1,71 @@
+{
+  "id": 873485899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.739555,39.684214,-75.739555,39.684214",
+    "geom:latitude":39.684214,
+    "geom:longitude":-75.739555,
+    "iso:country":"US",
+    "sg:address":"314 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 9266",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clinic",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1y6HCrcRAjUkBYjjbRXK5c_39.684214_-75.739555@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222338,
+    "wof:geomhash":"07dc286e2805cd2e68cf28be089a42d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873485899
+        }
+    ],
+    "wof:id":873485899,
+    "wof:lastmodified":1464222338,
+    "wof:name":"Sathurukan Amara MD",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.739555,
+    39.684214,
+    -75.739555,
+    39.684214
+],
+  "geometry": {"coordinates":[-75.739555,39.684214],"type":"Point"}
+}

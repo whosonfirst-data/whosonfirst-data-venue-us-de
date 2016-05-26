@@ -1,0 +1,80 @@
+{
+  "id": 873519059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.627925,39.733612,-75.627925,39.733612",
+    "geom:latitude":39.733612,
+    "geom:longitude":-75.627925,
+    "iso:country":"US",
+    "sg:address":"1810 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 3335",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apparel-wholesale",
+        "manufacturer",
+        "clothing-men's-wholesale",
+        "women's"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bqm4jsDlTdplM1xwQ6rBu_39.733612_-75.627925@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223837,
+    "wof:geomhash":"c78f1aa64859fb9467130d8d0c0ffcba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873519059
+        }
+    ],
+    "wof:id":873519059,
+    "wof:lastmodified":1464223837,
+    "wof:name":"La Vaquerita",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel-wholesale",
+        "manufacturer",
+        "clothing-men's-wholesale",
+        "women's"
+    ]
+},
+  "bbox": [
+    -75.627925,
+    39.733612,
+    -75.627925,
+    39.733612
+],
+  "geometry": {"coordinates":[-75.627925,39.733612],"type":"Point"}
+}

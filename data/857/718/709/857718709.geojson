@@ -1,0 +1,73 @@
+{
+  "id": 857718709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62666,39.738764,-75.62666,39.738764",
+    "geom:latitude":39.738764,
+    "geom:longitude":-75.62666,
+    "iso:country":"US",
+    "sg:address":"111 Greenbank Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1214",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2s22Zs6yVXMOzyWXDRn33I_39.738764_-75.626660@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221216,
+    "wof:geomhash":"e5669bd53beb394ee3a38bb3a6fdad4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857718709
+        }
+    ],
+    "wof:id":857718709,
+    "wof:lastmodified":1464221216,
+    "wof:name":"Higham's Cleaners",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.62666,
+    39.738764,
+    -75.62666,
+    39.738764
+],
+  "geometry": {"coordinates":[-75.62666,39.738764],"type":"Point"}
+}

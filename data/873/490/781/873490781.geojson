@@ -1,0 +1,78 @@
+{
+  "id": 873490781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.711334,39.71904,-75.711334,39.71904",
+    "geom:latitude":39.71904,
+    "geom:longitude":-75.711334,
+    "iso:country":"US",
+    "sg:address":"14 Polly Drummond Shpg Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 7643",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delicatessen",
+        "sandwich",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2JvDt6x5osaS0Kr5RQfBPn_39.719040_-75.711334@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222523,
+    "wof:geomhash":"37a64c2d2fe9d0dbc76dc515de76939d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873490781
+        }
+    ],
+    "wof:id":873490781,
+    "wof:lastmodified":1464222523,
+    "wof:name":"Samson's Country Maid",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -75.711334,
+    39.71904,
+    -75.711334,
+    39.71904
+],
+  "geometry": {"coordinates":[-75.71133399999999,39.71904],"type":"Point"}
+}

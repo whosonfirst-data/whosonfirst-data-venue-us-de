@@ -1,0 +1,75 @@
+{
+  "id": 873515021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.6875,39.797298,-75.6875,39.797298",
+    "geom:latitude":39.797298,
+    "geom:longitude":-75.6875,
+    "iso:country":"US",
+    "sg:address":"910 Old Public Rd",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 0475",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b3rLhef2ToDOXfyFadrUy_39.797298_-75.687500@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223621,
+    "wof:geomhash":"7e44a0fb807b06a4f9ede292ee04ae4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873515021
+        }
+    ],
+    "wof:id":873515021,
+    "wof:lastmodified":1464223621,
+    "wof:name":"Hooper Robt D DDS",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -75.6875,
+    39.797298,
+    -75.6875,
+    39.797298
+],
+  "geometry": {"coordinates":[-75.6875,39.797298],"type":"Point"}
+}

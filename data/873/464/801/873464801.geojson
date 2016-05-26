@@ -1,0 +1,71 @@
+{
+  "id": 873464801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.103902,38.713528,-75.103902,38.713528",
+    "geom:latitude":38.713528,
+    "geom:longitude":-75.103902,
+    "iso:country":"US",
+    "sg:address":"4260 Hwy One",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 9655",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7m349gjqZhzKhhi2npjtzc_38.713528_-75.103902@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221564,
+    "wof:geomhash":"9282763b0bcade2f963b5b448638a2e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873464801
+        }
+    ],
+    "wof:id":873464801,
+    "wof:lastmodified":1464221564,
+    "wof:name":"Caldera Properties",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.103902,
+    38.713528,
+    -75.103902,
+    38.713528
+],
+  "geometry": {"coordinates":[-75.10390200000001,38.713528],"type":"Point"}
+}

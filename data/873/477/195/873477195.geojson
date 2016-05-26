@@ -1,0 +1,71 @@
+{
+  "id": 873477195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603685,39.718363,-75.603685,39.718363",
+    "geom:latitude":39.718363,
+    "geom:longitude":-75.603685,
+    "iso:country":"US",
+    "sg:address":"480 1st Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 9133",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AXIonpVe3zfkoNS6bSOYe_39.718363_-75.603685@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221990,
+    "wof:geomhash":"c75d2da58782c7da316a7b669b452145",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873477195
+        }
+    ],
+    "wof:id":873477195,
+    "wof:lastmodified":1464221990,
+    "wof:name":"Billows Electric Supply",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.603685,
+    39.718363,
+    -75.603685,
+    39.718363
+],
+  "geometry": {"coordinates":[-75.603685,39.718363],"type":"Point"}
+}

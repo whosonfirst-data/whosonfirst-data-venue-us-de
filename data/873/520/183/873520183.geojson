@@ -1,0 +1,76 @@
+{
+  "id": 873520183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547972,39.809207,-75.547972,39.809207",
+    "geom:latitude":39.809207,
+    "geom:longitude":-75.547972,
+    "iso:country":"US",
+    "sg:address":"Talleyville Center 3619 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5935",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "do-it-yourself"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fx1JCJRQtLS0kNr8BXofx_39.809207_-75.547972@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223888,
+    "wof:geomhash":"a50b3ba094bfe5b512e3f32267ee617c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520183
+        }
+    ],
+    "wof:id":873520183,
+    "wof:lastmodified":1464223888,
+    "wof:name":"Super Suppers",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "do-it-yourself"
+    ]
+},
+  "bbox": [
+    -75.547972,
+    39.809207,
+    -75.547972,
+    39.809207
+],
+  "geometry": {"coordinates":[-75.547972,39.809207],"type":"Point"}
+}

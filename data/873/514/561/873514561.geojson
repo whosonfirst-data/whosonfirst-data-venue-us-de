@@ -1,0 +1,88 @@
+{
+  "id": 873514561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.757365,39.6289,-75.757365,39.6289",
+    "geom:latitude":39.6289,
+    "geom:longitude":-75.757365,
+    "iso:country":"US",
+    "sg:address":"24 Briarcliffe Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 5329",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "vinyl",
+        "fence",
+        "contractor"
+    ],
+    "sg:website":"http://www.newarkfence.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eBjWEOtWJbjizrC7qUu8l_39.628900_-75.757365@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223597,
+    "wof:geomhash":"c1920a9a86b6df85e8a9c56235de1c14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514561
+        }
+    ],
+    "wof:id":873514561,
+    "wof:lastmodified":1464223597,
+    "wof:name":"Newark Fence Co",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "vinyl",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.757365,
+    39.6289,
+    -75.757365,
+    39.6289
+],
+  "geometry": {"coordinates":[-75.75736499999999,39.6289],"type":"Point"}
+}

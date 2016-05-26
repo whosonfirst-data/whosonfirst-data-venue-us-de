@@ -1,0 +1,88 @@
+{
+  "id": 873523515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55112,39.11125,-75.55112,39.11125",
+    "geom:latitude":39.11125,
+    "geom:longitude":-75.55112,
+    "iso:country":"US",
+    "sg:address":"107 South St Ste 2",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 4242",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-non-denominational",
+        "churches-various",
+        "denomination"
+    ],
+    "sg:website":"http://www.worshipchristiancenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10UB6FimrZ2rudLSy8diLl_39.111250_-75.551120@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224023,
+    "wof:geomhash":"1eb7d2120a5663ce75abeadff841771b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523515
+        }
+    ],
+    "wof:id":873523515,
+    "wof:lastmodified":1464224023,
+    "wof:name":"Christian Worship Center",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-non-denominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -75.55112,
+    39.11125,
+    -75.55112,
+    39.11125
+],
+  "geometry": {"coordinates":[-75.55112,39.11125],"type":"Point"}
+}

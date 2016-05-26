@@ -1,0 +1,68 @@
+{
+  "id": 873505039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544414,39.715419,-75.544414,39.715419",
+    "geom:latitude":39.715419,
+    "geom:longitude":-75.544414,
+    "iso:country":"US",
+    "sg:address":"188 Center St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 9979",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HaVKp2Gai7f21S0zxyWou_39.715419_-75.544414@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223158,
+    "wof:geomhash":"c93f99ab57024b3f0120f6918272bde3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":873505039
+        }
+    ],
+    "wof:id":873505039,
+    "wof:lastmodified":1464223158,
+    "wof:name":"Nino's Pizza",
+    "wof:parent_id":85833991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.544414,
+    39.715419,
+    -75.544414,
+    39.715419
+],
+  "geometry": {"coordinates":[-75.544414,39.715419],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873479233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548811,39.711878,-75.548811,39.711878",
+    "geom:latitude":39.711878,
+    "geom:longitude":-75.548811,
+    "iso:country":"US",
+    "sg:address":"500 Rogers Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 577 3814",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jE0MghvrD6wnwscLDnoFt_39.711878_-75.548811@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222074,
+    "wof:geomhash":"06cf11c451bd38ee651a58bd9fab80c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873479233
+        }
+    ],
+    "wof:id":873479233,
+    "wof:lastmodified":1464222074,
+    "wof:name":"Social Services Div",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -75.548811,
+    39.711878,
+    -75.548811,
+    39.711878
+],
+  "geometry": {"coordinates":[-75.548811,39.711878],"type":"Point"}
+}

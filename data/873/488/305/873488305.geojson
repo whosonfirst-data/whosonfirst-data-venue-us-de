@@ -1,0 +1,85 @@
+{
+  "id": 873488305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556517,39.167195,-75.556517,39.167195",
+    "geom:latitude":39.167195,
+    "geom:longitude":-75.556517,
+    "iso:country":"US",
+    "sg:address":"1209 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 7600",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xQf8SRFiDgeXvkVBN8mC6_39.167195_-75.556517@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222433,
+    "wof:geomhash":"9bcae002543a0ed02af251db28ffaeb7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873488305
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859501,
+            "region_id":85688611,
+            "venue_id":873488305
+        }
+    ],
+    "wof:id":873488305,
+    "wof:lastmodified":1464222433,
+    "wof:name":"WIBF Broadcasting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -75.556517,
+    39.167195,
+    -75.556517,
+    39.167195
+],
+  "geometry": {"coordinates":[-75.556517,39.167195],"type":"Point"}
+}

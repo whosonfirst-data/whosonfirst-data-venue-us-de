@@ -1,0 +1,85 @@
+{
+  "id": 873521693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518665,39.170799,-75.518665,39.170799",
+    "geom:latitude":39.170799,
+    "geom:longitude":-75.518665,
+    "iso:country":"US",
+    "sg:address":"283 N Dupont Hwy Ste E",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7735",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bedroom",
+        "set",
+        "bed",
+        "mattress"
+    ],
+    "sg:website":"http://www.mattressgaint.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fnkswWXAXnTan0z56a8uq_39.170799_-75.518665@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223951,
+    "wof:geomhash":"d4416c90a026490e9ced627b0614d0a7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873521693
+        }
+    ],
+    "wof:id":873521693,
+    "wof:lastmodified":1464223951,
+    "wof:name":"Mattress Giant",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bedroom",
+        "set",
+        "bed",
+        "mattress"
+    ]
+},
+  "bbox": [
+    -75.518665,
+    39.170799,
+    -75.518665,
+    39.170799
+],
+  "geometry": {"coordinates":[-75.518665,39.170799],"type":"Point"}
+}

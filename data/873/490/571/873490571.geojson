@@ -1,0 +1,71 @@
+{
+  "id": 873490571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.396239,38.698113,-75.396239,38.698113",
+    "geom:latitude":38.698113,
+    "geom:longitude":-75.396239,
+    "iso:country":"US",
+    "sg:address":"25 Bridgeville Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2254",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dJVSKxYmy2mIuVlF9N8py_38.698113_-75.396239@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222516,
+    "wof:geomhash":"883bc7a03f7e95e9e9ffe1735b594871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873490571
+        }
+    ],
+    "wof:id":873490571,
+    "wof:lastmodified":1464222516,
+    "wof:name":"Lee Harvey Y MD",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.396239,
+    38.698113,
+    -75.396239,
+    38.698113
+],
+  "geometry": {"coordinates":[-75.39623899999999,38.698113],"type":"Point"}
+}

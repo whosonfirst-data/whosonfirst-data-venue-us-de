@@ -1,0 +1,71 @@
+{
+  "id": 873507707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.650259,39.728024,-75.650259,39.728024",
+    "geom:latitude":39.728024,
+    "geom:longitude":-75.650259,
+    "iso:country":"US",
+    "sg:address":"4325 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 7978",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2McLeRAGgj57SyIiUPkquJ_39.728024_-75.650259@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223270,
+    "wof:geomhash":"23d986caab634fd03551ffbe0552cc8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873507707
+        }
+    ],
+    "wof:id":873507707,
+    "wof:lastmodified":1464223270,
+    "wof:name":"Quality Auto Svc",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.650259,
+    39.728024,
+    -75.650259,
+    39.728024
+],
+  "geometry": {"coordinates":[-75.65025900000001,39.728024],"type":"Point"}
+}

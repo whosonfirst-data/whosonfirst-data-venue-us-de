@@ -1,0 +1,77 @@
+{
+  "id": 873495973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.414554,38.910756,-75.414554,38.910756",
+    "geom:latitude":38.910756,
+    "geom:longitude":-75.414554,
+    "iso:country":"US",
+    "sg:address":"320 S Rehoboth Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8448",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fD47QW5wczZdP1voy9A9C_38.910756_-75.414554@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222778,
+    "wof:geomhash":"f8716cce15d5f28cbce20376451db9cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873495973
+        }
+    ],
+    "wof:id":873495973,
+    "wof:lastmodified":1464222778,
+    "wof:name":"Bud's Auto Body",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.414554,
+    38.910756,
+    -75.414554,
+    38.910756
+],
+  "geometry": {"coordinates":[-75.414554,38.910756],"type":"Point"}
+}

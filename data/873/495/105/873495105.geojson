@@ -1,0 +1,71 @@
+{
+  "id": 873495105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571595,39.694698,-75.571595,39.694698",
+    "geom:latitude":39.694698,
+    "geom:longitude":-75.571595,
+    "iso:country":"US",
+    "sg:address":"11 Southgate Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 2136",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "linen",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ntx3C84wWFFEbRSWkwnVA_39.694698_-75.571595@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222722,
+    "wof:geomhash":"cc9a0b25f296f40469093d08217712cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873495105
+        }
+    ],
+    "wof:id":873495105,
+    "wof:lastmodified":1464222722,
+    "wof:name":"Linens Of The Week",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "linen",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.571595,
+    39.694698,
+    -75.571595,
+    39.694698
+],
+  "geometry": {"coordinates":[-75.571595,39.694698],"type":"Point"}
+}

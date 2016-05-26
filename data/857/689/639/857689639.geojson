@@ -1,0 +1,71 @@
+{
+  "id": 857689639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573745,39.688953,-75.573745,39.688953",
+    "geom:latitude":39.688953,
+    "geom:longitude":-75.573745,
+    "iso:country":"US",
+    "sg:address":"18 Boulden Cir",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 9348",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industry",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xwy7KuNAl05une7Zmozff_39.688953_-75.573745@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220610,
+    "wof:geomhash":"11f0d832c255bd95408f05fb7caf34f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857689639
+        }
+    ],
+    "wof:id":857689639,
+    "wof:lastmodified":1464220610,
+    "wof:name":"Johnson Controls",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industry",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.573745,
+    39.688953,
+    -75.573745,
+    39.688953
+],
+  "geometry": {"coordinates":[-75.573745,39.688953],"type":"Point"}
+}

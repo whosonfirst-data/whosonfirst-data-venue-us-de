@@ -1,0 +1,71 @@
+{
+  "id": 873481291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570741,39.691017,-75.570741,39.691017",
+    "geom:latitude":39.691017,
+    "geom:longitude":-75.570741,
+    "iso:country":"US",
+    "sg:address":"2 McCullough Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 2226",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1OsImjJRFnIVgW8757jK4I_39.691017_-75.570741@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222166,
+    "wof:geomhash":"08add491a05a921c899be2df0ade5967",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873481291
+        }
+    ],
+    "wof:id":873481291,
+    "wof:lastmodified":1464222166,
+    "wof:name":"Derke Properties LLC",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.570741,
+    39.691017,
+    -75.570741,
+    39.691017
+],
+  "geometry": {"coordinates":[-75.570741,39.691017],"type":"Point"}
+}

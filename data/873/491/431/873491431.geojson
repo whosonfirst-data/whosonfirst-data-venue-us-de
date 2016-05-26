@@ -1,0 +1,71 @@
+{
+  "id": 873491431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.678862,39.725328,-75.678862,39.725328",
+    "geom:latitude":39.725328,
+    "geom:longitude":-75.678862,
+    "iso:country":"US",
+    "sg:address":"2658 Drayton Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 235 5988",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "semiconductor",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WranaYAayRDRKu0VSUjju_39.725328_-75.678862@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222546,
+    "wof:geomhash":"c337962fb0d63863bd3a1af9262e76bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873491431
+        }
+    ],
+    "wof:id":873491431,
+    "wof:lastmodified":1464222546,
+    "wof:name":"Calico",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "devices"
+    ]
+},
+  "bbox": [
+    -75.678862,
+    39.725328,
+    -75.678862,
+    39.725328
+],
+  "geometry": {"coordinates":[-75.678862,39.725328],"type":"Point"}
+}

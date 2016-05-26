@@ -1,0 +1,68 @@
+{
+  "id": 873485005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.708654,39.788396,-75.708654,39.788396",
+    "geom:latitude":39.788396,
+    "geom:longitude":-75.708654,
+    "iso:country":"US",
+    "sg:address":"2 Jacqueline Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 4555",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85827779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZcKDapBxjbruXFflxYI3M_39.788396_-75.708654@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222306,
+    "wof:geomhash":"0e4ffa97f2b8a60a2304ef9f00c76ca3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85827779,
+            "region_id":85688611,
+            "venue_id":873485005
+        }
+    ],
+    "wof:id":873485005,
+    "wof:lastmodified":1464222306,
+    "wof:name":"Mary Kay Cosmetics Distributor",
+    "wof:parent_id":85827779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.708654,
+    39.788396,
+    -75.708654,
+    39.788396
+],
+  "geometry": {"coordinates":[-75.708654,39.788396],"type":"Point"}
+}

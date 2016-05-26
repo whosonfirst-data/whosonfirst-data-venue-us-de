@@ -1,0 +1,71 @@
+{
+  "id": 873480311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.614828,39.118362,-75.614828,39.118362",
+    "geom:latitude":39.118362,
+    "geom:longitude":-75.614828,
+    "iso:country":"US",
+    "sg:address":"6 Pintail Pl",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 2336",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SFZuzkLiVv2DlM2RQKBwO_39.118362_-75.614828@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222123,
+    "wof:geomhash":"952179d4e03b9fd8c4880809a027f8bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873480311
+        }
+    ],
+    "wof:id":873480311,
+    "wof:lastmodified":1464222123,
+    "wof:name":"Rafael Zaragoza Dr",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.614828,
+    39.118362,
+    -75.614828,
+    39.118362
+],
+  "geometry": {"coordinates":[-75.614828,39.118362],"type":"Point"}
+}

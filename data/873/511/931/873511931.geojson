@@ -1,0 +1,71 @@
+{
+  "id": 873511931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552727,39.071034,-75.552727,39.071034",
+    "geom:latitude":39.071034,
+    "geom:longitude":-75.552727,
+    "iso:country":"US",
+    "sg:address":"500 Walnut Shade Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 531 0283",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3OJONeD33BEaN61Lyxcznp_39.071060_-75.552329@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223471,
+    "wof:geomhash":"174f4201a2a1e81261fd96d1164150ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873511931
+        }
+    ],
+    "wof:id":873511931,
+    "wof:lastmodified":1464223471,
+    "wof:name":"Asset Builders",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.552727,
+    39.071034,
+    -75.552727,
+    39.071034
+],
+  "geometry": {"coordinates":[-75.552727,39.071034],"type":"Point"}
+}

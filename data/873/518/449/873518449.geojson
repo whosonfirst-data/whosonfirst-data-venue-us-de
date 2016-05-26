@@ -1,0 +1,71 @@
+{
+  "id": 873518449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60887,39.754675,-75.60887,39.754675",
+    "geom:latitude":39.754675,
+    "geom:longitude":-75.60887,
+    "iso:country":"US",
+    "sg:address":"1013 Centre Rd Ste 300",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 2131",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a6IacETsjNzwg8ylTNEP7_39.754675_-75.608870@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223812,
+    "wof:geomhash":"331b76b8a70bee0730efc80bab7a96a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518449
+        }
+    ],
+    "wof:id":873518449,
+    "wof:lastmodified":1464223812,
+    "wof:name":"Principal Trust",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.60887,
+    39.754675,
+    -75.60887,
+    39.754675
+],
+  "geometry": {"coordinates":[-75.60887,39.754675],"type":"Point"}
+}

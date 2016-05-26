@@ -1,0 +1,71 @@
+{
+  "id": 873463827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.151251,38.760421,-75.151251,38.760421",
+    "geom:latitude":38.760421,
+    "geom:longitude":-75.151251,
+    "iso:country":"US",
+    "sg:address":"43 Henlopen Ct",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Ferry",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 6030",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "deep",
+        "sea"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p12YNF9X5djBmkbZMGQm2_38.760421_-75.151251@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221543,
+    "wof:geomhash":"7151e4c0f7cd1c546e955475378d01d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873463827
+        }
+    ],
+    "wof:id":873463827,
+    "wof:lastmodified":1464221543,
+    "wof:name":"Cape May-Lewes Ferry",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deep",
+        "sea"
+    ]
+},
+  "bbox": [
+    -75.151251,
+    38.760421,
+    -75.151251,
+    38.760421
+],
+  "geometry": {"coordinates":[-75.151251,38.760421],"type":"Point"}
+}

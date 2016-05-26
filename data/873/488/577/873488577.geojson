@@ -1,0 +1,71 @@
+{
+  "id": 873488577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553397,39.116079,-75.553397,39.116079",
+    "geom:latitude":39.116079,
+    "geom:longitude":-75.553397,
+    "iso:country":"US",
+    "sg:address":"4 S Caesar Rodney Ave",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 242 8103",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bKwh56YJ18s39In3JWOZg_39.116079_-75.553397@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222443,
+    "wof:geomhash":"aba4f03e28ece174544ef6bfa7bbb196",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873488577
+        }
+    ],
+    "wof:id":873488577,
+    "wof:lastmodified":1464222443,
+    "wof:name":"Harringtons Auto Service",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.553397,
+    39.116079,
+    -75.553397,
+    39.116079
+],
+  "geometry": {"coordinates":[-75.553397,39.116079],"type":"Point"}
+}

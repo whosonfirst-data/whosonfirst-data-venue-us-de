@@ -1,0 +1,73 @@
+{
+  "id": 857710055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523788,39.764313,-75.523788,39.764313",
+    "geom:latitude":39.764313,
+    "geom:longitude":-75.523788,
+    "iso:country":"US",
+    "sg:address":"4201 N Washington St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 6789",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fe06glbMVyjpBOeUXAvM2_39.764313_-75.523788@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221031,
+    "wof:geomhash":"ddf3c04715aced31a398bee18421190d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857710055
+        }
+    ],
+    "wof:id":857710055,
+    "wof:lastmodified":1464221031,
+    "wof:name":"Bell J Llewellyn Mem Chapel",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -75.523788,
+    39.764313,
+    -75.523788,
+    39.764313
+],
+  "geometry": {"coordinates":[-75.523788,39.764313],"type":"Point"}
+}

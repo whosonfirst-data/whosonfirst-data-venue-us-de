@@ -1,0 +1,71 @@
+{
+  "id": 873503031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.4363,38.915217,-75.4363,38.915217",
+    "geom:latitude":38.915217,
+    "geom:longitude":-75.4363,
+    "iso:country":"US",
+    "sg:address":"100 Valley Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 1910",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47QVq5LMR9QQkoJ5U9XcUF_38.915217_-75.436300@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223066,
+    "wof:geomhash":"7c7ef89c47c3b980b7541ed22e8d142d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873503031
+        }
+    ],
+    "wof:id":873503031,
+    "wof:lastmodified":1464223066,
+    "wof:name":"Valley Run Apartments",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.4363,
+    38.915217,
+    -75.4363,
+    38.915217
+],
+  "geometry": {"coordinates":[-75.4363,38.915217],"type":"Point"}
+}

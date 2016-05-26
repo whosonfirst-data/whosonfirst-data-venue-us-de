@@ -1,0 +1,69 @@
+{
+  "id": 873479195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.694256,39.726545,-75.694256,39.726545",
+    "geom:latitude":39.726545,
+    "geom:longitude":-75.694256,
+    "iso:country":"US",
+    "sg:address":"5426 Valley Green Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 8489",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wq05dgGTXaHkBAxCopkWU_39.726545_-75.694256@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222072,
+    "wof:geomhash":"f401d49d0174b81babb3887248e800ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873479195
+        }
+    ],
+    "wof:id":873479195,
+    "wof:lastmodified":1464222072,
+    "wof:name":"Linden Green Condos",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -75.694256,
+    39.726545,
+    -75.694256,
+    39.726545
+],
+  "geometry": {"coordinates":[-75.694256,39.726545],"type":"Point"}
+}

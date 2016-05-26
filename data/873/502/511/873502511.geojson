@@ -1,0 +1,71 @@
+{
+  "id": 873502511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505049,39.801894,-75.505049,39.801894",
+    "geom:latitude":39.801894,
+    "geom:longitude":-75.505049,
+    "iso:country":"US",
+    "sg:address":"1731 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5373",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GjQ5bf0waSnip2gIhSSaX_39.801894_-75.505049@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223046,
+    "wof:geomhash":"bdfd68b2bd359e46e7a393de8a240fe7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873502511
+        }
+    ],
+    "wof:id":873502511,
+    "wof:lastmodified":1464223046,
+    "wof:name":"Kathy's Nail Salon",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -75.505049,
+    39.801894,
+    -75.505049,
+    39.801894
+],
+  "geometry": {"coordinates":[-75.505049,39.801894],"type":"Point"}
+}

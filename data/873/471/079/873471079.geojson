@@ -1,0 +1,71 @@
+{
+  "id": 873471079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634881,39.729347,-75.634881,39.729347",
+    "geom:latitude":39.729347,
+    "geom:longitude":-75.634881,
+    "iso:country":"US",
+    "sg:address":"3634 Old Capitol Trl",
+    "sg:city":"Marshallton",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 5357",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75hyyTfElfUFBo8rmN2Ued_39.729347_-75.634881@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221772,
+    "wof:geomhash":"c448d19ad43bc0d3717d4a6300f251a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873471079
+        }
+    ],
+    "wof:id":873471079,
+    "wof:lastmodified":1464221772,
+    "wof:name":"Marshallton Pizza",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.634881,
+    39.729347,
+    -75.634881,
+    39.729347
+],
+  "geometry": {"coordinates":[-75.63488099999999,39.729347],"type":"Point"}
+}

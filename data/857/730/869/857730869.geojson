@@ -1,0 +1,83 @@
+{
+  "id": 857730869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555923,39.160384,-75.555923,39.160384",
+    "geom:latitude":39.160384,
+    "geom:longitude":-75.555923,
+    "iso:country":"US",
+    "sg:address":"73 Greentree Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 643 0989",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Sz1bDJxc59HUDjPkuEPLT_39.160384_-75.555923@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221453,
+    "wof:geomhash":"6ac70886c2665ee5b614287e9f11bf4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":857730869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":857730869
+        }
+    ],
+    "wof:id":857730869,
+    "wof:lastmodified":1464221453,
+    "wof:name":"Uhp Homes",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing"
+    ]
+},
+  "bbox": [
+    -75.555923,
+    39.160384,
+    -75.555923,
+    39.160384
+],
+  "geometry": {"coordinates":[-75.55592300000001,39.160384],"type":"Point"}
+}

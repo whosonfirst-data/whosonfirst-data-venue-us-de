@@ -1,0 +1,73 @@
+{
+  "id": 857724815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558821,39.754621,-75.558821,39.754621",
+    "geom:latitude":39.754621,
+    "geom:longitude":-75.558821,
+    "iso:country":"US",
+    "sg:address":"1300 Delaware Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 5822",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_240kCAH5KUiqsWciPEzCG0_39.754621_-75.558821@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221339,
+    "wof:geomhash":"3eedd62fde4aa805c6aab7f79db6e331",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888517,
+            "region_id":85688611,
+            "venue_id":857724815
+        }
+    ],
+    "wof:id":857724815,
+    "wof:lastmodified":1464221339,
+    "wof:name":"Charles E Hill MD",
+    "wof:parent_id":85888517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.558821,
+    39.754621,
+    -75.558821,
+    39.754621
+],
+  "geometry": {"coordinates":[-75.55882099999999,39.754621],"type":"Point"}
+}

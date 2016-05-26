@@ -1,0 +1,71 @@
+{
+  "id": 857717897,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.386126,38.689732,-75.386126,38.689732",
+    "geom:latitude":38.689732,
+    "geom:longitude":-75.386126,
+    "iso:country":"US",
+    "sg:address":"5 W Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6282",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4urJOA9vNqnkZ10QYdKChr_38.689732_-75.386126@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221202,
+    "wof:geomhash":"a24f8c87a09b39e15452306da7c1414b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857717897
+        }
+    ],
+    "wof:id":857717897,
+    "wof:lastmodified":1464221202,
+    "wof:name":"Fellowship Health Resources",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -75.386126,
+    38.689732,
+    -75.386126,
+    38.689732
+],
+  "geometry": {"coordinates":[-75.386126,38.689732],"type":"Point"}
+}

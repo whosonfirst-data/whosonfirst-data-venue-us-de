@@ -1,0 +1,65 @@
+{
+  "id": 873511481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553299,39.8097,-75.553299,39.8097",
+    "geom:latitude":39.8097,
+    "geom:longitude":-75.553299,
+    "iso:country":"US",
+    "sg:address":"100 Garden of Eden Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1740",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:website":"www.pilotschool.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K3t3uKVAQEBE8t7YaPHEu_39.809459_-75.553559@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223440,
+    "wof:geomhash":"64cfaac4e002516b58c9b0ec982be53c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873511481
+        }
+    ],
+    "wof:id":873511481,
+    "wof:lastmodified":1464223440,
+    "wof:name":"Pilot School",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.553299,
+    39.8097,
+    -75.553299,
+    39.8097
+],
+  "geometry": {"coordinates":[-75.553299,39.8097],"type":"Point"}
+}

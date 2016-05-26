@@ -1,0 +1,69 @@
+{
+  "id": 873478531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.639332,39.733394,-75.639332,39.733394",
+    "geom:latitude":39.733394,
+    "geom:longitude":-75.639332,
+    "iso:country":"US",
+    "sg:address":"3600 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 8198",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iKs06Cv5PafFJh6DZJ2qZ_39.733394_-75.639332@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222042,
+    "wof:geomhash":"2d360b2aba7dbaf24ea42f0d9e1af2bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873478531
+        }
+    ],
+    "wof:id":873478531,
+    "wof:lastmodified":1464222042,
+    "wof:name":"Creative Nail Salon",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.639332,
+    39.733394,
+    -75.639332,
+    39.733394
+],
+  "geometry": {"coordinates":[-75.639332,39.733394],"type":"Point"}
+}

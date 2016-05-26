@@ -1,0 +1,71 @@
+{
+  "id": 857699219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.31037,38.783049,-75.31037,38.783049",
+    "geom:latitude":38.783049,
+    "geom:longitude":-75.31037,
+    "iso:country":"US",
+    "sg:address":"215 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 5994",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zq8Oq2I9aavOyQIDiD73t_38.783049_-75.310370@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220795,
+    "wof:geomhash":"cffde2770f03ca5ceb2697ea2c9f1910",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857699219
+        }
+    ],
+    "wof:id":857699219,
+    "wof:lastmodified":1464220795,
+    "wof:name":"Food Lion",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.31037,
+    38.783049,
+    -75.31037,
+    38.783049
+],
+  "geometry": {"coordinates":[-75.31037000000001,38.783049],"type":"Point"}
+}

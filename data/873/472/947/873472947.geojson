@@ -1,0 +1,69 @@
+{
+  "id": 873472947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.660684,39.708113,-75.660684,39.708113",
+    "geom:latitude":39.708113,
+    "geom:longitude":-75.660684,
+    "iso:country":"US",
+    "sg:address":"777 Delaware Park Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 9584",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "rail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yzhcB52wM3gLmaGRVTbRl_39.708113_-75.660684@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221840,
+    "wof:geomhash":"792bc5ba0e6bb09ca86b64a8c9946481",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873472947
+        }
+    ],
+    "wof:id":873472947,
+    "wof:lastmodified":1464221840,
+    "wof:name":"Churchman Train Station",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rail"
+    ]
+},
+  "bbox": [
+    -75.660684,
+    39.708113,
+    -75.660684,
+    39.708113
+],
+  "geometry": {"coordinates":[-75.660684,39.708113],"type":"Point"}
+}

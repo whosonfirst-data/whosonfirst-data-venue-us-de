@@ -1,0 +1,69 @@
+{
+  "id": 857724877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62838,39.723986,-75.62838,39.723986",
+    "geom:latitude":39.723986,
+    "geom:longitude":-75.62838,
+    "iso:country":"US",
+    "sg:address":"807 Kiamensi Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1185",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KtFfGO6gphlhIcRstcWNj_39.723986_-75.628380@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221340,
+    "wof:geomhash":"a4052a13662347afa2ff35a4d515c775",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857724877
+        }
+    ],
+    "wof:id":857724877,
+    "wof:lastmodified":1464221340,
+    "wof:name":"Hell Bent Customs",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.62838,
+    39.723986,
+    -75.62838,
+    39.723986
+],
+  "geometry": {"coordinates":[-75.62838000000001,39.723986],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857725707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.368143,38.700917,-75.368143,38.700917",
+    "geom:latitude":38.700917,
+    "geom:longitude":-75.368143,
+    "iso:country":"US",
+    "sg:address":"1121 Clark Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6676",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01sTFhc45lMlXoU2V9kwzr_38.700917_-75.368143@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221356,
+    "wof:geomhash":"b19405bac48b9b0ec51ae266a3ce5eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857725707
+        }
+    ],
+    "wof:id":857725707,
+    "wof:lastmodified":1464221356,
+    "wof:name":"Cheer Apartments",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.368143,
+    38.700917,
+    -75.368143,
+    38.700917
+],
+  "geometry": {"coordinates":[-75.368143,38.700917],"type":"Point"}
+}

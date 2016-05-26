@@ -1,0 +1,75 @@
+{
+  "id": 873523411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525093,39.152133,-75.525093,39.152133",
+    "geom:latitude":39.152133,
+    "geom:longitude":-75.525093,
+    "iso:country":"US",
+    "sg:address":"560 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 744 7095",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ytOokbWKAS3ejh1VYXr7U_39.152133_-75.525093@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224019,
+    "wof:geomhash":"13982ce365fc333a25c9b09841392bfe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873523411
+        }
+    ],
+    "wof:id":873523411,
+    "wof:lastmodified":1464224019,
+    "wof:name":"Bayhealth Medical Center",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.525093,
+    39.152133,
+    -75.525093,
+    39.152133
+],
+  "geometry": {"coordinates":[-75.525093,39.152133],"type":"Point"}
+}

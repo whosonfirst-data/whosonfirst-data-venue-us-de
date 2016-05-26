@@ -1,0 +1,72 @@
+{
+  "id": 873511631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625481,39.737155,-75.625481,39.737155",
+    "geom:latitude":39.737155,
+    "geom:longitude":-75.625481,
+    "iso:country":"US",
+    "sg:address":"3240 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 9295",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "brake"
+    ],
+    "sg:website":"http://www.sears.com/shc/s/v_10153_12605_Automotive?adCell=AH",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bnO33qkFjdkGiJtrh2usz_39.737120_-75.625315@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223454,
+    "wof:geomhash":"24028a5bff40db521286611209b88434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873511631
+        }
+    ],
+    "wof:id":873511631,
+    "wof:lastmodified":1464223454,
+    "wof:name":"Sears Auto Center",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "brake"
+    ]
+},
+  "bbox": [
+    -75.625481,
+    39.737155,
+    -75.625481,
+    39.737155
+],
+  "geometry": {"coordinates":[-75.62548099999999,39.737155],"type":"Point"}
+}

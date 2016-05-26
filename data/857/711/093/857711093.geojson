@@ -1,0 +1,69 @@
+{
+  "id": 857711093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557169,39.708499,-75.557169,39.708499",
+    "geom:latitude":39.708499,
+    "geom:longitude":-75.557169,
+    "iso:country":"US",
+    "sg:address":"460 Robinson Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 1683",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WCx87h6VzYGoTk5ig1nlj_39.708499_-75.557169@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221052,
+    "wof:geomhash":"98db38491be71573289cced1808fb08a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857711093
+        }
+    ],
+    "wof:id":857711093,
+    "wof:lastmodified":1464221052,
+    "wof:name":"Ras Addis & Assoc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.557169,
+    39.708499,
+    -75.557169,
+    39.708499
+],
+  "geometry": {"coordinates":[-75.557169,39.708499],"type":"Point"}
+}

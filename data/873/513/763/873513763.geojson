@@ -1,0 +1,76 @@
+{
+  "id": 873513763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.107495,38.547205,-75.107495,38.547205",
+    "geom:latitude":38.547205,
+    "geom:longitude":-75.107495,
+    "iso:country":"US",
+    "sg:address":"216 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/selbyville-frankford/124263-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 8410",
+    "sg:postcode":"19967",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_253EB5inQzoTKZLfHuQYmK_38.547205_-75.107495@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223547,
+    "wof:geomhash":"2231384cacdc84b1ce570a5b3dff9656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873513763
+        }
+    ],
+    "wof:id":873513763,
+    "wof:lastmodified":1464223547,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.107495,
+    38.547205,
+    -75.107495,
+    38.547205
+],
+  "geometry": {"coordinates":[-75.107495,38.547205],"type":"Point"}
+}

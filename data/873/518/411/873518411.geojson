@@ -1,0 +1,73 @@
+{
+  "id": 873518411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.600426,39.739403,-75.600426,39.739403",
+    "geom:latitude":39.739403,
+    "geom:longitude":-75.600426,
+    "iso:country":"US",
+    "sg:address":"1201 Kirkwood Hwy Ste D",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 4300",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "chiropractic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UUB7L3QsGsJ4uNxyifaMS_39.739403_-75.600426@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223810,
+    "wof:geomhash":"d12407ea63e46196312708f526798e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873518411
+        }
+    ],
+    "wof:id":873518411,
+    "wof:lastmodified":1464223810,
+    "wof:name":"Carey Chiropractic Center",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -75.600426,
+    39.739403,
+    -75.600426,
+    39.739403
+],
+  "geometry": {"coordinates":[-75.600426,39.739403],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873499647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.503129,39.812804,-75.503129,39.812804",
+    "geom:latitude":39.812804,
+    "geom:longitude":-75.503129,
+    "iso:country":"US",
+    "sg:address":"2010 Kynwyd Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 4855",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "announcement",
+        "invitation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00dhOkfC8c6nuZOZIIWKCy_39.812804_-75.503129@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222925,
+    "wof:geomhash":"068a3e6aa8bfe9b90391f028e8f3eca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873499647
+        }
+    ],
+    "wof:id":873499647,
+    "wof:lastmodified":1464222925,
+    "wof:name":"Personality",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "announcement",
+        "invitation"
+    ]
+},
+  "bbox": [
+    -75.503129,
+    39.812804,
+    -75.503129,
+    39.812804
+],
+  "geometry": {"coordinates":[-75.503129,39.812804],"type":"Point"}
+}

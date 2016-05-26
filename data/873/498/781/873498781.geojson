@@ -1,0 +1,78 @@
+{
+  "id": 873498781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548463,39.739467,-75.548463,39.739467",
+    "geom:latitude":39.739467,
+    "geom:longitude":-75.548463,
+    "iso:country":"US",
+    "sg:address":"401 N Walnut St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 254 4671",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yNqDnN1pWhY4pSJs3KI6V_39.739467_-75.548463@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222892,
+    "wof:geomhash":"f2c1d2e695dfabcc9d2f871bac73bd14",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873498781
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873498781
+        }
+    ],
+    "wof:id":873498781,
+    "wof:lastmodified":1464222892,
+    "wof:name":"New Castle County Courthouse",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.548463,
+    39.739467,
+    -75.548463,
+    39.739467
+],
+  "geometry": {"coordinates":[-75.548463,39.739467],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857684963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.387747,38.693037,-75.387747,38.693037",
+    "geom:latitude":38.693037,
+    "geom:longitude":-75.387747,
+    "iso:country":"US",
+    "sg:address":"205 N Race St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 0034",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1i8xBoDpCQln5uROdcS6mC_38.693037_-75.387747@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220521,
+    "wof:geomhash":"02557f034e246101176595a02be76fba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857684963
+        }
+    ],
+    "wof:id":857684963,
+    "wof:lastmodified":1464220521,
+    "wof:name":"Verizon Communications",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -75.387747,
+    38.693037,
+    -75.387747,
+    38.693037
+],
+  "geometry": {"coordinates":[-75.387747,38.693037],"type":"Point"}
+}

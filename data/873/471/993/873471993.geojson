@@ -1,0 +1,71 @@
+{
+  "id": 873471993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.430258,38.900145,-75.430258,38.900145",
+    "geom:latitude":38.900145,
+    "geom:longitude":-75.430258,
+    "iso:country":"US",
+    "sg:address":"202 S Walnut St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 0522",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5us2NB5vnV9GTycVXILuYd_38.900145_-75.430258@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221805,
+    "wof:geomhash":"88376c6698eba37bb972a98efa557f57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873471993
+        }
+    ],
+    "wof:id":873471993,
+    "wof:lastmodified":1464221805,
+    "wof:name":"Julie Kazimiroff Dr",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.430258,
+    38.900145,
+    -75.430258,
+    38.900145
+],
+  "geometry": {"coordinates":[-75.43025799999999,38.900145],"type":"Point"}
+}

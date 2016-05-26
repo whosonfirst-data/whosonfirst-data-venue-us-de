@@ -1,0 +1,73 @@
+{
+  "id": 873473393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558845,39.740392,-75.558845,39.740392",
+    "geom:latitude":39.740392,
+    "geom:longitude":-75.558845,
+    "iso:country":"US",
+    "sg:address":"630 Martin Luther King Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Electric",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 375 7117",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12Goa3GLQPco17yzKZDocb_39.740392_-75.558845@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221860,
+    "wof:geomhash":"1ed6609229d1e06ae50fdbdadb1ebaa3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873473393
+        }
+    ],
+    "wof:id":873473393,
+    "wof:lastmodified":1464221860,
+    "wof:name":"Conectiv Inc",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gas"
+    ]
+},
+  "bbox": [
+    -75.558845,
+    39.740392,
+    -75.558845,
+    39.740392
+],
+  "geometry": {"coordinates":[-75.55884500000001,39.740392],"type":"Point"}
+}

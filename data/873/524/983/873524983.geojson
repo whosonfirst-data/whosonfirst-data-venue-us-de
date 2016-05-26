@@ -1,0 +1,86 @@
+{
+  "id": 873524983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594201,38.659823,-75.594201,38.659823",
+    "geom:latitude":38.659823,
+    "geom:longitude":-75.594201,
+    "iso:country":"US",
+    "sg:address":"22932 Sussex Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 7849",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.quiznos.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TTVijflLNjDAaMNnQ8xpP_38.659823_-75.594201@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224078,
+    "wof:geomhash":"30acf1387efda24c20fad425e9e496fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873524983
+        }
+    ],
+    "wof:id":873524983,
+    "wof:lastmodified":1464224078,
+    "wof:name":"Quiznos Classic Subs",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -75.594201,
+    38.659823,
+    -75.594201,
+    38.659823
+],
+  "geometry": {"coordinates":[-75.594201,38.659823],"type":"Point"}
+}

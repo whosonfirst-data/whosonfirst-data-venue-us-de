@@ -1,0 +1,71 @@
+{
+  "id": 857719465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505453,39.768257,-75.505453,39.768257",
+    "geom:latitude":39.768257,
+    "geom:longitude":-75.505453,
+    "iso:country":"US",
+    "sg:address":"510 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 6400",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19DJqkMWBzTXTLwvg8PY5s_39.768257_-75.505453@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221237,
+    "wof:geomhash":"e2f287b448bca95efdeb162c2463b679",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":857719465
+        }
+    ],
+    "wof:id":857719465,
+    "wof:lastmodified":1464221237,
+    "wof:name":"Cornell Management Corp",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "management"
+    ]
+},
+  "bbox": [
+    -75.505453,
+    39.768257,
+    -75.505453,
+    39.768257
+],
+  "geometry": {"coordinates":[-75.505453,39.768257],"type":"Point"}
+}

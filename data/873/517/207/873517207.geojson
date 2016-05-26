@@ -1,0 +1,74 @@
+{
+  "id": 873517207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5476,39.798,-75.5476,39.798",
+    "geom:latitude":39.798,
+    "geom:longitude":-75.5476,
+    "iso:country":"US",
+    "sg:address":"2807 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0820",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5K0pf95ntlSGie9bLJ1SB5_39.798000_-75.547600@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223741,
+    "wof:geomhash":"641600c44f669c64f43e491f73c4f27a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517207
+        }
+    ],
+    "wof:id":873517207,
+    "wof:lastmodified":1464223741,
+    "wof:name":"Visions Hair Design",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -75.5476,
+    39.798,
+    -75.5476,
+    39.798
+],
+  "geometry": {"coordinates":[-75.5476,39.798],"type":"Point"}
+}

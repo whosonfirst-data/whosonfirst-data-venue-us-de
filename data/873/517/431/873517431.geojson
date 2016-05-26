@@ -1,0 +1,91 @@
+{
+  "id": 873517431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545627,39.783783,-75.545627,39.783783",
+    "geom:latitude":39.783783,
+    "geom:longitude":-75.545627,
+    "iso:country":"US",
+    "sg:address":"1705 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 482 7913",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "platinum",
+        "gold",
+        "supply",
+        "metals-precious",
+        "buyer",
+        "coin",
+        "silver"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tSGIMsz7ozxnVCzWFMnIA_39.783783_-75.545627@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223758,
+    "wof:geomhash":"56b45b7f6df86262053c044cb30b5f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873517431
+        }
+    ],
+    "wof:id":873517431,
+    "wof:lastmodified":1464223758,
+    "wof:name":"Lucky Brothers Recycling",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "platinum",
+        "gold",
+        "supply",
+        "metals-precious",
+        "buyer",
+        "coin",
+        "silver"
+    ]
+},
+  "bbox": [
+    -75.545627,
+    39.783783,
+    -75.545627,
+    39.783783
+],
+  "geometry": {"coordinates":[-75.545627,39.783783],"type":"Point"}
+}

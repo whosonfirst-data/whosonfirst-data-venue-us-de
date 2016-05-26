@@ -1,0 +1,74 @@
+{
+  "id": 857732641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.630393,39.73599,-75.630393,39.73599",
+    "geom:latitude":39.73599,
+    "geom:longitude":-75.630393,
+    "iso:country":"US",
+    "sg:address":"3306 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 7083",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A3uBEGQswJhQbPHHxTP3c_39.735990_-75.630393@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221495,
+    "wof:geomhash":"a4803620071c5eb062d64e18ed89ee37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857732641
+        }
+    ],
+    "wof:id":857732641,
+    "wof:lastmodified":1464221495,
+    "wof:name":"Cranston Heights Fire Co",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -75.630393,
+    39.73599,
+    -75.630393,
+    39.73599
+],
+  "geometry": {"coordinates":[-75.630393,39.73599],"type":"Point"}
+}

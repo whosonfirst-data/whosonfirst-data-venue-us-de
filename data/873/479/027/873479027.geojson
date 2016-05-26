@@ -1,0 +1,69 @@
+{
+  "id": 873479027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.42923,38.927803,-75.42923,38.927803",
+    "geom:latitude":38.927803,
+    "geom:longitude":-75.42923,
+    "iso:country":"US",
+    "sg:address":"1042 N Walnut St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 6111",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6uN0DtC7sSwTDToBkDMnwb_38.927803_-75.429230@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222062,
+    "wof:geomhash":"b58a93c75c8c45098b7b77c14175a0c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873479027
+        }
+    ],
+    "wof:id":873479027,
+    "wof:lastmodified":1464222062,
+    "wof:name":"Milford Diner Inc",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.42923,
+    38.927803,
+    -75.42923,
+    38.927803
+],
+  "geometry": {"coordinates":[-75.42923,38.927803],"type":"Point"}
+}

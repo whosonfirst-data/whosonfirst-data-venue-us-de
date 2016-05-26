@@ -1,0 +1,73 @@
+{
+  "id": 873512207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.535004,39.163898,-75.535004,39.163898",
+    "geom:latitude":39.163898,
+    "geom:longitude":-75.535004,
+    "iso:country":"US",
+    "sg:address":"612 Mary St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9500",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VCKr992ZC7xkOAJml5ztX_39.163578_-75.535597@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223483,
+    "wof:geomhash":"aef68c23e4ee633f79fc21b5c36e9230",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873512207
+        }
+    ],
+    "wof:id":873512207,
+    "wof:lastmodified":1464223483,
+    "wof:name":"Teal Construction Inc",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.535004,
+    39.163898,
+    -75.535004,
+    39.163898
+],
+  "geometry": {"coordinates":[-75.535004,39.163898],"type":"Point"}
+}

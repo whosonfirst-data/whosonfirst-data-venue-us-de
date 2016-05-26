@@ -1,0 +1,73 @@
+{
+  "id": 873497273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745876,39.602964,-75.745876,39.602964",
+    "geom:latitude":39.602964,
+    "geom:longitude":-75.745876,
+    "iso:country":"US",
+    "sg:address":"660 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 4600",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GV2p0bzAoRbJTlcy8UiRY_39.602964_-75.745876@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222833,
+    "wof:geomhash":"9d4f5945b600892c4441559e231a6baa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873497273
+        }
+    ],
+    "wof:id":873497273,
+    "wof:lastmodified":1464222833,
+    "wof:name":"Sasay Grooming Salon",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.745876,
+    39.602964,
+    -75.745876,
+    39.602964
+],
+  "geometry": {"coordinates":[-75.745876,39.602964],"type":"Point"}
+}

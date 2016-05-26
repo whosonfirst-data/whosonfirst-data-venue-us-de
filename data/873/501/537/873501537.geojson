@@ -1,0 +1,73 @@
+{
+  "id": 873501537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.361184,38.833115,-75.361184,38.833115",
+    "geom:latitude":38.833115,
+    "geom:longitude":-75.361184,
+    "iso:country":"US",
+    "sg:address":"22252 Jefferson Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8299",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BjyIX50CWAbJsSUP4S2yy_38.833115_-75.361184@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223012,
+    "wof:geomhash":"b7408bd48e5047d82158ec686be373cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873501537
+        }
+    ],
+    "wof:id":873501537,
+    "wof:lastmodified":1464223012,
+    "wof:name":"New Hue",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.361184,
+    38.833115,
+    -75.361184,
+    38.833115
+],
+  "geometry": {"coordinates":[-75.36118399999999,38.833115],"type":"Point"}
+}

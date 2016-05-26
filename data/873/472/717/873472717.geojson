@@ -1,0 +1,71 @@
+{
+  "id": 873472717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.158908,38.755939,-75.158908,38.755939",
+    "geom:latitude":38.755939,
+    "geom:longitude":-75.158908,
+    "iso:country":"US",
+    "sg:address":"1532 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 2770",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kT4q4jurq52EtVUocvkzu_38.755939_-75.158908@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221833,
+    "wof:geomhash":"46a8d630b6fa7a0db32d49fbefa50673",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873472717
+        }
+    ],
+    "wof:id":873472717,
+    "wof:lastmodified":1464221833,
+    "wof:name":"Deborah Rose MD",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.158908,
+    38.755939,
+    -75.158908,
+    38.755939
+],
+  "geometry": {"coordinates":[-75.158908,38.755939],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873518435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.588687,39.745279,-75.588687,39.745279",
+    "geom:latitude":39.745279,
+    "geom:longitude":-75.588687,
+    "iso:country":"US",
+    "sg:address":"213 S Cleveland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 3264",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurse",
+        "registry",
+        "nurses-advanced",
+        "practice-arnp"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hxgw9nTyeI9Y624zrgjLm_39.745279_-75.588687@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223811,
+    "wof:geomhash":"6474e354d9c14080329494cc15fdc408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518435
+        }
+    ],
+    "wof:id":873518435,
+    "wof:lastmodified":1464223811,
+    "wof:name":"Frederick E Klotz Mrs Nurse",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry",
+        "nurses-advanced",
+        "practice-arnp"
+    ]
+},
+  "bbox": [
+    -75.588687,
+    39.745279,
+    -75.588687,
+    39.745279
+],
+  "geometry": {"coordinates":[-75.58868699999999,39.745279],"type":"Point"}
+}

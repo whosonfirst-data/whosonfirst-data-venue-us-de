@@ -1,0 +1,71 @@
+{
+  "id": 857690071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.42151,38.910348,-75.42151,38.910348",
+    "geom:latitude":38.910348,
+    "geom:longitude":-75.42151,
+    "iso:country":"US",
+    "sg:address":"508 SE 2nd St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 6576",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BZxYZS4s3gH45eH4ZYeki_38.910348_-75.421510@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220618,
+    "wof:geomhash":"3228a9c7c66b9fff946d4b2303fdf11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857690071
+        }
+    ],
+    "wof:id":857690071,
+    "wof:lastmodified":1464220618,
+    "wof:name":"Mills Brothers Markets",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.42151,
+    38.910348,
+    -75.42151,
+    38.910348
+],
+  "geometry": {"coordinates":[-75.42151,38.910348],"type":"Point"}
+}

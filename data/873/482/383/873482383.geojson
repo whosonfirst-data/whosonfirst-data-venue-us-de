@@ -1,0 +1,71 @@
+{
+  "id": 873482383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.672077,39.762805,-75.672077,39.762805",
+    "geom:latitude":39.762805,
+    "geom:longitude":-75.672077,
+    "iso:country":"US",
+    "sg:address":"22 Bernard Blvd",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 5547",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZjDlB4FbLzk1bJ86iXa25_39.762805_-75.672077@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222207,
+    "wof:geomhash":"038c66d2b0afd5ef2791a77d8663acc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873482383
+        }
+    ],
+    "wof:id":873482383,
+    "wof:lastmodified":1464222207,
+    "wof:name":"Michael Fogarty",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.672077,
+    39.762805,
+    -75.672077,
+    39.762805
+],
+  "geometry": {"coordinates":[-75.672077,39.762805],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873509495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.690272,39.691953,-75.690272,39.691953",
+    "geom:latitude":39.691953,
+    "geom:longitude":-75.690272,
+    "iso:country":"US",
+    "sg:address":"121 Ruthar Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 2787",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "storage",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HLzjymJKFJbkc872DFPQZ_39.691953_-75.690272@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223351,
+    "wof:geomhash":"99e4034f6ca4cce9f3545596893a9e7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873509495
+        }
+    ],
+    "wof:id":873509495,
+    "wof:lastmodified":1464223351,
+    "wof:name":"Storage USA",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "storage",
+        "facility"
+    ]
+},
+  "bbox": [
+    -75.690272,
+    39.691953,
+    -75.690272,
+    39.691953
+],
+  "geometry": {"coordinates":[-75.69027199999999,39.691953],"type":"Point"}
+}

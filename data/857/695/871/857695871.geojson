@@ -1,0 +1,73 @@
+{
+  "id": 857695871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.644915,39.727458,-75.644915,39.727458",
+    "geom:latitude":39.727458,
+    "geom:longitude":-75.644915,
+    "iso:country":"US",
+    "sg:address":"4000 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 0374",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavating",
+        "trenching",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06N8XyP3rrpL3HuwBTs1I0_39.727458_-75.644915@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220734,
+    "wof:geomhash":"863ea10005364b855032e5831554c915",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857695871
+        }
+    ],
+    "wof:id":857695871,
+    "wof:lastmodified":1464220734,
+    "wof:name":"Ainsworth Excavating Company",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "trenching",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.644915,
+    39.727458,
+    -75.644915,
+    39.727458
+],
+  "geometry": {"coordinates":[-75.644915,39.727458],"type":"Point"}
+}

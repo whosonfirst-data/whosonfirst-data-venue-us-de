@@ -1,0 +1,80 @@
+{
+  "id": 873519169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.691206,39.741105,-75.691206,39.741105",
+    "geom:latitude":39.741105,
+    "geom:longitude":-75.691206,
+    "iso:country":"US",
+    "sg:address":"4764 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 218 1033",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vhMyMUyxgvwh5XSMB7SAu_39.741105_-75.691206@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223841,
+    "wof:geomhash":"29a184ffabe5f4726a8a325d24b1263c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":873519169
+        }
+    ],
+    "wof:id":873519169,
+    "wof:lastmodified":1464223841,
+    "wof:name":"Stan Rzucidlo",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.691206,
+    39.741105,
+    -75.691206,
+    39.741105
+],
+  "geometry": {"coordinates":[-75.69120599999999,39.741105],"type":"Point"}
+}

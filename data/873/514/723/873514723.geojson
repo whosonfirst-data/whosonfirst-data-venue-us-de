@@ -1,0 +1,93 @@
+{
+  "id": 873514723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.750748,39.60358,-75.750748,39.60358",
+    "geom:latitude":39.60358,
+    "geom:longitude":-75.750748,
+    "iso:country":"US",
+    "sg:address":"1200 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 8593",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "financing",
+        "planning",
+        "loan",
+        "mortgage"
+    ],
+    "sg:website":"http://www.primerica.com/public/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UCbeV7bbe7OZIRa4vjuOo_39.603580_-75.750748@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223609,
+    "wof:geomhash":"df5d7739375226720819e1cd9d8db119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514723
+        }
+    ],
+    "wof:id":873514723,
+    "wof:lastmodified":1464223609,
+    "wof:name":"Primerica",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "financing",
+        "planning",
+        "loan",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.750748,
+    39.60358,
+    -75.750748,
+    39.60358
+],
+  "geometry": {"coordinates":[-75.750748,39.60358],"type":"Point"}
+}

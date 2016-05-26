@@ -1,0 +1,71 @@
+{
+  "id": 873475269,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.344382,38.871981,-75.344382,38.871981",
+    "geom:latitude":38.871981,
+    "geom:longitude":-75.344382,
+    "iso:country":"US",
+    "sg:address":"8503 Church Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5335",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61KpS9YB43MrA2PZItngsr_38.871981_-75.344382@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221924,
+    "wof:geomhash":"ec9f9e5b3a19d7a271984398e3425d81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873475269
+        }
+    ],
+    "wof:id":873475269,
+    "wof:lastmodified":1464221924,
+    "wof:name":"Mutual Inspection Bureau",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -75.344382,
+    38.871981,
+    -75.344382,
+    38.871981
+],
+  "geometry": {"coordinates":[-75.344382,38.871981],"type":"Point"}
+}

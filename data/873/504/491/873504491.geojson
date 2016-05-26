@@ -1,0 +1,73 @@
+{
+  "id": 873504491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505058,39.80204,-75.505058,39.80204",
+    "geom:latitude":39.80204,
+    "geom:longitude":-75.505058,
+    "iso:country":"US",
+    "sg:address":"2116 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 9213",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75x2ZH2FGr9eFxIvpJdMxr_39.802040_-75.505058@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223126,
+    "wof:geomhash":"7ad397b8c781512498e36e5513e06d58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873504491
+        }
+    ],
+    "wof:id":873504491,
+    "wof:lastmodified":1464223126,
+    "wof:name":"Young's Cleaners",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.505058,
+    39.80204,
+    -75.505058,
+    39.80204
+],
+  "geometry": {"coordinates":[-75.50505800000001,39.80204],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857686153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.486566,39.772834,-75.486566,39.772834",
+    "geom:latitude":39.772834,
+    "geom:longitude":-75.486566,
+    "iso:country":"US",
+    "sg:address":"713 Bellevue Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 5037",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RmLJxHynf1qjnJpim6FVs_39.772834_-75.486566@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220542,
+    "wof:geomhash":"4ce18e300ac75e37d9dae2f2a9c41b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":857686153
+        }
+    ],
+    "wof:id":857686153,
+    "wof:lastmodified":1464220542,
+    "wof:name":"Garrett's Landscape",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.486566,
+    39.772834,
+    -75.486566,
+    39.772834
+],
+  "geometry": {"coordinates":[-75.486566,39.772834],"type":"Point"}
+}

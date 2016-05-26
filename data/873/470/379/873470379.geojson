@@ -1,0 +1,68 @@
+{
+  "id": 873470379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540178,39.752454,-75.540178,39.752454",
+    "geom:latitude":39.752454,
+    "geom:longitude":-75.540178,
+    "iso:country":"US",
+    "sg:address":"2130 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 1101",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NRyLXxnQ6rYtEqEAUqePC_39.752454_-75.540178@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221744,
+    "wof:geomhash":"7f7fbf69c4b0f98917a02450512b5289",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873470379
+        }
+    ],
+    "wof:id":873470379,
+    "wof:lastmodified":1464221744,
+    "wof:name":"Thomas A Edison Charter School",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.540178,
+    39.752454,
+    -75.540178,
+    39.752454
+],
+  "geometry": {"coordinates":[-75.540178,39.752454],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873519659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.502998,39.804699,-75.502998,39.804699",
+    "geom:latitude":39.804699,
+    "geom:longitude":-75.502998,
+    "iso:country":"US",
+    "sg:address":"1829 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 7337",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RpKrNwfxik4X43oNodU3N_39.804699_-75.502998@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223864,
+    "wof:geomhash":"a622dc39d550d7bc85a9bd0a4b4904e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519659
+        }
+    ],
+    "wof:id":873519659,
+    "wof:lastmodified":1464223864,
+    "wof:name":"Paolino C M Inc",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.502998,
+    39.804699,
+    -75.502998,
+    39.804699
+],
+  "geometry": {"coordinates":[-75.50299800000001,39.804699],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873523547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555941,39.110927,-75.555941,39.110927",
+    "geom:latitude":39.110927,
+    "geom:longitude":-75.555941,
+    "iso:country":"US",
+    "sg:address":"12312 Willow Grove Rd",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 0994",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a4MERzogaUQVy8oDb8qCp_39.110927_-75.555941@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224024,
+    "wof:geomhash":"18bd13f7a015db233ca321c0ec27595b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523547
+        }
+    ],
+    "wof:id":873523547,
+    "wof:lastmodified":1464224024,
+    "wof:name":"Trim Specialties",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.555941,
+    39.110927,
+    -75.555941,
+    39.110927
+],
+  "geometry": {"coordinates":[-75.555941,39.110927],"type":"Point"}
+}

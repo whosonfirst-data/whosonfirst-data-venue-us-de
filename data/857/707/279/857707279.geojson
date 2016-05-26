@@ -1,0 +1,69 @@
+{
+  "id": 857707279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566848,39.663659,-75.566848,39.663659",
+    "geom:latitude":39.663659,
+    "geom:longitude":-75.566848,
+    "iso:country":"US",
+    "sg:address":"726 Ferry Cut Off St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 0223",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vZPmkczfbiPAWd9aUB4zf_39.663659_-75.566848@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220954,
+    "wof:geomhash":"322cdce485a4fd55df92fc37bb0d47b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857707279
+        }
+    ],
+    "wof:id":857707279,
+    "wof:lastmodified":1464220954,
+    "wof:name":"Sunshine Cleaners",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.566848,
+    39.663659,
+    -75.566848,
+    39.663659
+],
+  "geometry": {"coordinates":[-75.56684799999999,39.663659],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873509367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.1927,38.637443,-75.1927,38.637443",
+    "geom:latitude":38.637443,
+    "geom:longitude":-75.1927,
+    "iso:country":"US",
+    "sg:address":"79 White Pine Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 0746",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0LJ4R6UYgpTIgMIfm25fDY_38.637443_-75.192700@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223346,
+    "wof:geomhash":"b59b4db56965ed6cb6325e024ed23476",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873509367
+        }
+    ],
+    "wof:id":873509367,
+    "wof:lastmodified":1464223346,
+    "wof:name":"A Gift From Heart",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.1927,
+    38.637443,
+    -75.1927,
+    38.637443
+],
+  "geometry": {"coordinates":[-75.1927,38.637443],"type":"Point"}
+}

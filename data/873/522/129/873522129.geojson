@@ -1,0 +1,72 @@
+{
+  "id": 873522129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552658,39.197708,-75.552658,39.197708",
+    "geom:latitude":39.197708,
+    "geom:longitude":-75.552658,
+    "iso:country":"US",
+    "sg:address":"1700 N Dupont Hwy Ste 1",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8887",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"http://www.dogwood-creek.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0A3EjT5oX32m65tCz6whNo_39.197708_-75.552658@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223968,
+    "wof:geomhash":"24bf8b911605c52867a2175373d5a1a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522129
+        }
+    ],
+    "wof:id":873522129,
+    "wof:lastmodified":1464223968,
+    "wof:name":"Cedar Chase Apartments",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.552658,
+    39.197708,
+    -75.552658,
+    39.197708
+],
+  "geometry": {"coordinates":[-75.55265799999999,39.197708],"type":"Point"}
+}

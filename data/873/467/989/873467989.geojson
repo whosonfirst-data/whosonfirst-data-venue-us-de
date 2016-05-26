@@ -1,0 +1,71 @@
+{
+  "id": 873467989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602048,39.717081,-75.602048,39.717081",
+    "geom:latitude":39.717081,
+    "geom:longitude":-75.602048,
+    "iso:country":"US",
+    "sg:address":"1502 E Newport Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 8400",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Nfm0ITHI8BUAhrSZE7Ff_39.717081_-75.602048@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221652,
+    "wof:geomhash":"1574246de00fce57846cf74e5cd670d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873467989
+        }
+    ],
+    "wof:id":873467989,
+    "wof:lastmodified":1464221652,
+    "wof:name":"Metroform Electric Co Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.602048,
+    39.717081,
+    -75.602048,
+    39.717081
+],
+  "geometry": {"coordinates":[-75.602048,39.717081],"type":"Point"}
+}

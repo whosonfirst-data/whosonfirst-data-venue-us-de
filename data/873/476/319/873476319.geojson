@@ -1,0 +1,71 @@
+{
+  "id": 873476319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.147381,38.738327,-75.147381,38.738327",
+    "geom:latitude":38.738327,
+    "geom:longitude":-75.147381,
+    "iso:country":"US",
+    "sg:address":"104 Maple Dr",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 6386",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "agency",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814899,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PnGxXr70WUDTuu1WZJ9TT_38.738327_-75.147381@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221959,
+    "wof:geomhash":"78157fc82c3c818db7a71eb7fa443cc9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85814899,
+            "region_id":85688611,
+            "venue_id":873476319
+        }
+    ],
+    "wof:id":873476319,
+    "wof:lastmodified":1464221959,
+    "wof:name":"Mike Mock Rentals",
+    "wof:parent_id":85814899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "rental"
+    ]
+},
+  "bbox": [
+    -75.147381,
+    38.738327,
+    -75.147381,
+    38.738327
+],
+  "geometry": {"coordinates":[-75.147381,38.738327],"type":"Point"}
+}

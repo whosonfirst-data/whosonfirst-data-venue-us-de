@@ -1,0 +1,71 @@
+{
+  "id": 857684759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.499506,39.805353,-75.499506,39.805353",
+    "geom:latitude":39.805353,
+    "geom:longitude":-75.499506,
+    "iso:country":"US",
+    "sg:address":"106 W Sutton Pl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 1537",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R0i7fSXtN6br0lxL1hUHm_39.805353_-75.499506@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220517,
+    "wof:geomhash":"13c855117373f0ea05429001235b6cd8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":857684759
+        }
+    ],
+    "wof:id":857684759,
+    "wof:lastmodified":1464220517,
+    "wof:name":"Morts Electric",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.499506,
+    39.805353,
+    -75.499506,
+    39.805353
+],
+  "geometry": {"coordinates":[-75.499506,39.805353],"type":"Point"}
+}

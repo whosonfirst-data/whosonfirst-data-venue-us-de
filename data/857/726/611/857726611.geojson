@@ -1,0 +1,69 @@
+{
+  "id": 857726611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586376,39.039766,-75.586376,39.039766",
+    "geom:latitude":39.039766,
+    "geom:longitude":-75.586376,
+    "iso:country":"US",
+    "sg:address":"795 W Evens Rd",
+    "sg:city":"Viola",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8757",
+    "sg:postcode":"19979",
+    "sg:province":"DE",
+    "sg:tags":[
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58b3YjggoICGhVuUit5W1M_39.039766_-75.586376@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221371,
+    "wof:geomhash":"c3751ed2e74e3f05017272340da71985",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857726611
+        }
+    ],
+    "wof:id":857726611,
+    "wof:lastmodified":1464221371,
+    "wof:name":"Franks Locksmith Service",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -75.586376,
+    39.039766,
+    -75.586376,
+    39.039766
+],
+  "geometry": {"coordinates":[-75.586376,39.039766],"type":"Point"}
+}

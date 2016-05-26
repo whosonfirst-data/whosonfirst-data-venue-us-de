@@ -1,0 +1,84 @@
+{
+  "id": 873515957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.693642,39.690811,-75.693642,39.690811",
+    "geom:latitude":39.690811,
+    "geom:longitude":-75.693642,
+    "iso:country":"US",
+    "sg:address":"201 Ruthar Dr Ste 3",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 1788",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ],
+    "sg:website":"http://www.deltamachineandtool.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QzWb38cMQMTWa4YIpbHRd_39.690811_-75.693642@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223661,
+    "wof:geomhash":"ebe36802926656cf1e0f193441a2f523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873515957
+        }
+    ],
+    "wof:id":873515957,
+    "wof:lastmodified":1464223661,
+    "wof:name":"Delta Machine & Tool Company",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automobile",
+        "machinery-rebuild"
+    ]
+},
+  "bbox": [
+    -75.693642,
+    39.690811,
+    -75.693642,
+    39.690811
+],
+  "geometry": {"coordinates":[-75.693642,39.690811],"type":"Point"}
+}

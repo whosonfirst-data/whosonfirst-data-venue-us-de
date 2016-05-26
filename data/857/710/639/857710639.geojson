@@ -1,0 +1,71 @@
+{
+  "id": 857710639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594046,38.749354,-75.594046,38.749354",
+    "geom:latitude":38.749354,
+    "geom:longitude":-75.594046,
+    "iso:country":"US",
+    "sg:address":"8991 Redden Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3300",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FGHze9VzEeqG6q1C2TuvD_38.749354_-75.594046@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221045,
+    "wof:geomhash":"dd7fbd8361af37b5eda2303f458a6665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857710639
+        }
+    ],
+    "wof:id":857710639,
+    "wof:lastmodified":1464221045,
+    "wof:name":"Smith Kenneth MD",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.594046,
+    38.749354,
+    -75.594046,
+    38.749354
+],
+  "geometry": {"coordinates":[-75.59404600000001,38.749354],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857704873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.141866,38.759786,-75.141866,38.759786",
+    "geom:latitude":38.759786,
+    "geom:longitude":-75.141866,
+    "iso:country":"US",
+    "sg:address":"1 Surf Ave",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 7735",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bAUxAW9g3UymooSWp0rvD_38.759786_-75.141866@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220910,
+    "wof:geomhash":"cce210553b75cd5027e733ce3e511cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857704873
+        }
+    ],
+    "wof:id":857704873,
+    "wof:lastmodified":1464220910,
+    "wof:name":"Seaside Electrical Service",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.141866,
+    38.759786,
+    -75.141866,
+    38.759786
+],
+  "geometry": {"coordinates":[-75.14186599999999,38.759786],"type":"Point"}
+}

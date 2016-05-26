@@ -1,0 +1,71 @@
+{
+  "id": 873476845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.310254,38.782932,-75.310254,38.782932",
+    "geom:latitude":38.782932,
+    "geom:longitude":-75.310254,
+    "iso:country":"US",
+    "sg:address":"206 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 4799",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hARXIgqmhp5VJTXIkizzk_38.782932_-75.310254@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221978,
+    "wof:geomhash":"9ef0de885cc3ce2bc569018fb6d056a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873476845
+        }
+    ],
+    "wof:id":873476845,
+    "wof:lastmodified":1464221978,
+    "wof:name":"Beebe Medical",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -75.310254,
+    38.782932,
+    -75.310254,
+    38.782932
+],
+  "geometry": {"coordinates":[-75.310254,38.782932],"type":"Point"}
+}

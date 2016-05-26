@@ -1,0 +1,71 @@
+{
+  "id": 857708869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.695179,39.690419,-75.695179,39.690419",
+    "geom:latitude":39.690419,
+    "geom:longitude":-75.695179,
+    "iso:country":"US",
+    "sg:address":"201 Ruthar Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 2991",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a1vAJHyUGIxhLS53R8KAC_39.690419_-75.695179@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220996,
+    "wof:geomhash":"feffee9465eb23dea66772a5bc6935d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857708869
+        }
+    ],
+    "wof:id":857708869,
+    "wof:lastmodified":1464220996,
+    "wof:name":"Associated Rehabilitation Cons",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.695179,
+    39.690419,
+    -75.695179,
+    39.690419
+],
+  "geometry": {"coordinates":[-75.695179,39.690419],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857724193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563594,39.765479,-75.563594,39.765479",
+    "geom:latitude":39.765479,
+    "geom:longitude":-75.563594,
+    "iso:country":"US",
+    "sg:address":"17 Wood Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Secretarial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5541",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NJkwC4JUgFbO5sn7D3u1O_39.765479_-75.563594@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221327,
+    "wof:geomhash":"c9a3119be92120e83fe5050af641c77b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":857724193
+        }
+    ],
+    "wof:id":857724193,
+    "wof:lastmodified":1464221327,
+    "wof:name":"Bloom Reporting Svc",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convention",
+        "court",
+        "reporter"
+    ]
+},
+  "bbox": [
+    -75.563594,
+    39.765479,
+    -75.563594,
+    39.765479
+],
+  "geometry": {"coordinates":[-75.56359399999999,39.765479],"type":"Point"}
+}

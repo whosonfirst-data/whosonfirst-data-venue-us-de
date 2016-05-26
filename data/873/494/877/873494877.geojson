@@ -1,0 +1,69 @@
+{
+  "id": 873494877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.664285,39.690639,-75.664285,39.690639",
+    "geom:latitude":39.690639,
+    "geom:longitude":-75.664285,
+    "iso:country":"US",
+    "sg:address":"1119 Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 5900",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xtJdJ4A83nu8BlJxC0vba_39.690639_-75.664285@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222708,
+    "wof:geomhash":"57e54eda3763ec20a573fb043b177832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873494877
+        }
+    ],
+    "wof:id":873494877,
+    "wof:lastmodified":1464222708,
+    "wof:name":"McLarens Irish Pub LL",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -75.664285,
+    39.690639,
+    -75.664285,
+    39.690639
+],
+  "geometry": {"coordinates":[-75.66428500000001,39.690639],"type":"Point"}
+}

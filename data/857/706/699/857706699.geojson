@@ -1,0 +1,73 @@
+{
+  "id": 857706699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569874,39.751784,-75.569874,39.751784",
+    "geom:latitude":39.751784,
+    "geom:longitude":-75.569874,
+    "iso:country":"US",
+    "sg:address":"705 N Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 428 0838",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cSo8XXNsY1bBacY9kIpU1_39.751784_-75.569874@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220944,
+    "wof:geomhash":"a776f267f97359231616ad4da1390c50",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857706699
+        }
+    ],
+    "wof:id":857706699,
+    "wof:lastmodified":1464220944,
+    "wof:name":"De Brights Auto Service Inc",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.569874,
+    39.751784,
+    -75.569874,
+    39.751784
+],
+  "geometry": {"coordinates":[-75.569874,39.751784],"type":"Point"}
+}

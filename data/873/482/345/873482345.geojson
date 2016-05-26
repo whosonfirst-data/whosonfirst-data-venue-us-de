@@ -1,0 +1,71 @@
+{
+  "id": 873482345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60909,39.636887,-75.60909,39.636887",
+    "geom:latitude":39.636887,
+    "geom:longitude":-75.60909,
+    "iso:country":"US",
+    "sg:address":"1161 River Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 7000",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "national",
+        "security"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66QTovbfw3636qr2TvonEz_39.636887_-75.609090@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222206,
+    "wof:geomhash":"badde6c0f2485dc546af042350de3db6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873482345
+        }
+    ],
+    "wof:id":873482345,
+    "wof:lastmodified":1464222206,
+    "wof:name":"Army National Guard",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "security"
+    ]
+},
+  "bbox": [
+    -75.60909,
+    39.636887,
+    -75.60909,
+    39.636887
+],
+  "geometry": {"coordinates":[-75.60908999999999,39.636887],"type":"Point"}
+}

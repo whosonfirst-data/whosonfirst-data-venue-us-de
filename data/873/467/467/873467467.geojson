@@ -1,0 +1,74 @@
+{
+  "id": 873467467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.778653,39.654213,-75.778653,39.654213",
+    "geom:latitude":39.654213,
+    "geom:longitude":-75.778653,
+    "iso:country":"US",
+    "sg:address":"134 Sandy Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 0768",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EZBhCf8659ayUGl4P7t7T_39.654213_-75.778653@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221634,
+    "wof:geomhash":"34d3b25102db9aa7dc0ca0fda74dcead",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873467467
+        }
+    ],
+    "wof:id":873467467,
+    "wof:lastmodified":1464221634,
+    "wof:name":"Boulden Home & Hearth",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.778653,
+    39.654213,
+    -75.778653,
+    39.654213
+],
+  "geometry": {"coordinates":[-75.77865300000001,39.654213],"type":"Point"}
+}

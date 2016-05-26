@@ -1,0 +1,71 @@
+{
+  "id": 857688225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549373,39.698688,-75.549373,39.698688",
+    "geom:latitude":39.698688,
+    "geom:longitude":-75.549373,
+    "iso:country":"US",
+    "sg:address":"1000 West Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 3976",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UJXvJ87PZZzrsrdac8vuu_39.698688_-75.549373@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220583,
+    "wof:geomhash":"4ad5109407883ed3906f8e8624ed3932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857688225
+        }
+    ],
+    "wof:id":857688225,
+    "wof:lastmodified":1464220583,
+    "wof:name":"R C & Son",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.549373,
+    39.698688,
+    -75.549373,
+    39.698688
+],
+  "geometry": {"coordinates":[-75.549373,39.698688],"type":"Point"}
+}

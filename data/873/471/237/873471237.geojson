@@ -1,0 +1,66 @@
+{
+  "id": 873471237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59587,38.735416,-75.59587,38.735416",
+    "geom:latitude":38.735416,
+    "geom:longitude":-75.59587,
+    "iso:country":"US",
+    "sg:address":"603 S Main St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8950",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ztFYBpxXi0QO6vDKBWViH_38.735416_-75.595870@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221777,
+    "wof:geomhash":"d741d1ab20031ec7f4ea790536f7d312",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873471237
+        }
+    ],
+    "wof:id":873471237,
+    "wof:lastmodified":1464221777,
+    "wof:name":"Shore Stop",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.59587,
+    38.735416,
+    -75.59587,
+    38.735416
+],
+  "geometry": {"coordinates":[-75.59587000000001,38.735416],"type":"Point"}
+}

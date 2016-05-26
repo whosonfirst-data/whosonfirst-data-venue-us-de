@@ -1,0 +1,73 @@
+{
+  "id": 873509853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.42941,38.900767,-75.42941,38.900767",
+    "geom:latitude":38.900767,
+    "geom:longitude":-75.42941,
+    "iso:country":"US",
+    "sg:address":"23 Elizabeth St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5322",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Lz06JHAXwywJX660BLT9T_38.900767_-75.429410@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223372,
+    "wof:geomhash":"e06752effd24b9afafb6311ed82496d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873509853
+        }
+    ],
+    "wof:id":873509853,
+    "wof:lastmodified":1464223372,
+    "wof:name":"Heritage Investment Properties",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.42941,
+    38.900767,
+    -75.42941,
+    38.900767
+],
+  "geometry": {"coordinates":[-75.42941,38.900767],"type":"Point"}
+}

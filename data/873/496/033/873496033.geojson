@@ -1,0 +1,71 @@
+{
+  "id": 873496033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.584012,39.74892,-75.584012,39.74892",
+    "geom:latitude":39.74892,
+    "geom:longitude":-75.584012,
+    "iso:country":"US",
+    "sg:address":"18 S Ford Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 5595",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kiqoClb0DwVOIzagXQlun_39.748920_-75.584012@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222780,
+    "wof:geomhash":"f2edbfda55e7cef4be8c3cf5e02af4ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873496033
+        }
+    ],
+    "wof:id":873496033,
+    "wof:lastmodified":1464222780,
+    "wof:name":"Vicens Dry Wall",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.584012,
+    39.74892,
+    -75.584012,
+    39.74892
+],
+  "geometry": {"coordinates":[-75.584012,39.74892],"type":"Point"}
+}

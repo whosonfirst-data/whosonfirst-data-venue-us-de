@@ -1,0 +1,71 @@
+{
+  "id": 873492999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.61996,38.968369,-75.61996,38.968369",
+    "geom:latitude":38.968369,
+    "geom:longitude":-75.61996,
+    "iso:country":"US",
+    "sg:address":"2684 Hills Market Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 8357",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z6g2QT0sV50MxRSBSaIOw_38.968369_-75.619960@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222607,
+    "wof:geomhash":"342144ebe79bf110e262a1f9a2c49dc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873492999
+        }
+    ],
+    "wof:id":873492999,
+    "wof:lastmodified":1464222607,
+    "wof:name":"Albert Darling Electrical",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.61996,
+    38.968369,
+    -75.61996,
+    38.968369
+],
+  "geometry": {"coordinates":[-75.61996000000001,38.968369],"type":"Point"}
+}

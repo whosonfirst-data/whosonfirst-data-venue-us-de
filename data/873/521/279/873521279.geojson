@@ -1,0 +1,75 @@
+{
+  "id": 873521279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5158,39.121498,-75.5158,39.121498",
+    "geom:latitude":39.121498,
+    "geom:longitude":-75.5158,
+    "iso:country":"US",
+    "sg:address":"1981 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 1152",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931709,
+        102083871,
+        85858961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SboSbpB50TMSqCynGnuMt_39.121498_-75.515800@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223935,
+    "wof:geomhash":"15ad0416e650afad780b567100242a4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931709,
+            "neighbourhood_id":85858961,
+            "region_id":85688611,
+            "venue_id":873521279
+        }
+    ],
+    "wof:id":873521279,
+    "wof:lastmodified":1464223935,
+    "wof:name":"Thomas Wayne H DDS",
+    "wof:parent_id":85858961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -75.5158,
+    39.121498,
+    -75.5158,
+    39.121498
+],
+  "geometry": {"coordinates":[-75.5158,39.121498],"type":"Point"}
+}

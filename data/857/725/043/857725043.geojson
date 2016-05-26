@@ -1,0 +1,71 @@
+{
+  "id": 857725043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601372,38.748579,-75.601372,38.748579",
+    "geom:latitude":38.748579,
+    "geom:longitude":-75.601372,
+    "iso:country":"US",
+    "sg:address":"41 Church St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3281",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a85ZwsHCkgyDODe14Lvea_38.748579_-75.601372@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221343,
+    "wof:geomhash":"0951b32070dc6176b4b35acc17a02d46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857725043
+        }
+    ],
+    "wof:id":857725043,
+    "wof:lastmodified":1464221343,
+    "wof:name":"Young Entrepreneur Svc Inc",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.601372,
+    38.748579,
+    -75.601372,
+    38.748579
+],
+  "geometry": {"coordinates":[-75.601372,38.748579],"type":"Point"}
+}

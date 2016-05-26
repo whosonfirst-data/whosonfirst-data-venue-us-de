@@ -1,0 +1,76 @@
+{
+  "id": 873476591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.753684,39.616577,-75.753684,39.616577",
+    "geom:latitude":39.616577,
+    "geom:longitude":-75.753684,
+    "iso:country":"US",
+    "sg:address":"420 Corporate Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 9001",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "mfg",
+        "polyurethane",
+        "fabricating"
+    ],
+    "sg:website":"www.polytechinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GzdKrx63e4otLAeBPGd4G_39.616577_-75.753684@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221969,
+    "wof:geomhash":"f716c911c692f1c63206b8f8bf599165",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873476591
+        }
+    ],
+    "wof:id":873476591,
+    "wof:lastmodified":1464221969,
+    "wof:name":"Polymer Technologies Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg",
+        "polyurethane",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -75.753684,
+    39.616577,
+    -75.753684,
+    39.616577
+],
+  "geometry": {"coordinates":[-75.75368400000001,39.616577],"type":"Point"}
+}

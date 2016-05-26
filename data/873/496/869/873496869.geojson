@@ -1,0 +1,69 @@
+{
+  "id": 873496869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.480853,39.78312,-75.480853,39.78312",
+    "geom:latitude":39.78312,
+    "geom:longitude":-75.480853,
+    "iso:country":"US",
+    "sg:address":"1403 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 0655",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51YeA4RNT8WLlgSQA3YIXz_39.783120_-75.480853@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222819,
+    "wof:geomhash":"52053ac55626ebcfabe5b62f88061200",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873496869
+        }
+    ],
+    "wof:id":873496869,
+    "wof:lastmodified":1464222819,
+    "wof:name":"Webbs Cleaners Corp",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.480853,
+    39.78312,
+    -75.480853,
+    39.78312
+],
+  "geometry": {"coordinates":[-75.480853,39.78312],"type":"Point"}
+}

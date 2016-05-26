@@ -1,0 +1,94 @@
+{
+  "id": 857721457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55089,39.741162,-75.55089,39.741162",
+    "geom:latitude":39.741162,
+    "geom:longitude":-75.55089,
+    "iso:country":"US",
+    "sg:address":"405 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 6455",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "athletic",
+        "apparel",
+        "sport",
+        "footwear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CgHPGg1riqDrKy41FIATt_39.741162_-75.550890@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221279,
+    "wof:geomhash":"116c1bc2c21654eee13a20bf3e4f99e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857721457
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857721457
+        }
+    ],
+    "wof:id":857721457,
+    "wof:lastmodified":1464221279,
+    "wof:name":"Sports Connection Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "athletic",
+        "apparel",
+        "sport",
+        "footwear"
+    ]
+},
+  "bbox": [
+    -75.55089,
+    39.741162,
+    -75.55089,
+    39.741162
+],
+  "geometry": {"coordinates":[-75.55089,39.741162],"type":"Point"}
+}

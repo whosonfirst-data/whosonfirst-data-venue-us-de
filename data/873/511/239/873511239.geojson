@@ -1,0 +1,73 @@
+{
+  "id": 873511239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.193413,38.621368,-75.193413,38.621368",
+    "geom:latitude":38.621368,
+    "geom:longitude":-75.193413,
+    "iso:country":"US",
+    "sg:address":"21 John B Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 9202",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor",
+        "painting",
+        "hanging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HBwoAXjPUuypJIH72vqMN_38.620790_-75.193833@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223431,
+    "wof:geomhash":"182e0241a0ed315a24dd1851f5a9065e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873511239
+        }
+    ],
+    "wof:id":873511239,
+    "wof:lastmodified":1464223431,
+    "wof:name":"O'kanes Painting",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "painting",
+        "hanging"
+    ]
+},
+  "bbox": [
+    -75.193413,
+    38.621368,
+    -75.193413,
+    38.621368
+],
+  "geometry": {"coordinates":[-75.19341300000001,38.621368],"type":"Point"}
+}

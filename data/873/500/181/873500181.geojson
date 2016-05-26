@@ -1,0 +1,75 @@
+{
+  "id": 873500181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736029,39.654886,-75.736029,39.654886",
+    "geom:latitude":39.654886,
+    "geom:longitude":-75.736029,
+    "iso:country":"US",
+    "sg:address":"60 Blue Hen Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 2825",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FDo7eEdHx0TrIO3zOL2zb_39.654886_-75.736029@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222944,
+    "wof:geomhash":"6b86355590f75fd6d54f1f90f6b8ae25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873500181
+        }
+    ],
+    "wof:id":873500181,
+    "wof:lastmodified":1464222944,
+    "wof:name":"Brandywine Research Labs Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.736029,
+    39.654886,
+    -75.736029,
+    39.654886
+],
+  "geometry": {"coordinates":[-75.736029,39.654886],"type":"Point"}
+}

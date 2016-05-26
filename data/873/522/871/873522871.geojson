@@ -1,0 +1,75 @@
+{
+  "id": 873522871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541083,39.170762,-75.541083,39.170762",
+    "geom:latitude":39.170762,
+    "geom:longitude":-75.541083,
+    "iso:country":"US",
+    "sg:address":"755 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 747 7010",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "school",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xfzEhfr4zSymsTdL7TSpv_39.170762_-75.541083@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224001,
+    "wof:geomhash":"c6d9015abe7a3424fb4ca109a86e0545",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873522871
+        }
+    ],
+    "wof:id":873522871,
+    "wof:lastmodified":1464224001,
+    "wof:name":"Edico USA",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "language"
+    ]
+},
+  "bbox": [
+    -75.541083,
+    39.170762,
+    -75.541083,
+    39.170762
+],
+  "geometry": {"coordinates":[-75.541083,39.170762],"type":"Point"}
+}

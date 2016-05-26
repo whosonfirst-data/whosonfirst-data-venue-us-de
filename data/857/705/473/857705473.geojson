@@ -1,0 +1,71 @@
+{
+  "id": 857705473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.156909,38.75583,-75.156909,38.75583",
+    "geom:latitude":38.75583,
+    "geom:longitude":-75.156909,
+    "iso:country":"US",
+    "sg:address":"108 Woodland Ave",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 6918",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5P20l2NdDxdd2MLjREii8A_38.755830_-75.156909@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220923,
+    "wof:geomhash":"5542ab8863a733497e7d0617c819ec52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857705473
+        }
+    ],
+    "wof:id":857705473,
+    "wof:lastmodified":1464220923,
+    "wof:name":"Night Liters",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.156909,
+    38.75583,
+    -75.156909,
+    38.75583
+],
+  "geometry": {"coordinates":[-75.156909,38.75583],"type":"Point"}
+}

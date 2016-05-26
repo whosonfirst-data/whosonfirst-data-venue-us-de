@@ -1,0 +1,75 @@
+{
+  "id": 873468901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543095,39.747384,-75.543095,39.747384",
+    "geom:latitude":39.747384,
+    "geom:longitude":-75.543095,
+    "iso:country":"US",
+    "sg:address":"1302 N Walnut St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 432 1635",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_040tcIuJ1mITem0jFKVDIj_39.747384_-75.543095@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221684,
+    "wof:geomhash":"98d829f1fe1ea8c4f06ae6d3398a70ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873468901
+        }
+    ],
+    "wof:id":873468901,
+    "wof:lastmodified":1464221684,
+    "wof:name":"MBNA",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -75.543095,
+    39.747384,
+    -75.543095,
+    39.747384
+],
+  "geometry": {"coordinates":[-75.54309499999999,39.747384],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 873524837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.617581,38.648779,-75.617581,38.648779",
+    "geom:latitude":38.648779,
+    "geom:longitude":-75.617581,
+    "iso:country":"US",
+    "sg:address":"32 N Pine Street Ext",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 2294",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "altering",
+        "contractor",
+        "contractors-commercial",
+        "improvement",
+        "remodeling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02zLJi3UEjM2ytrKrdrEuY_38.648779_-75.617581@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224073,
+    "wof:geomhash":"5e8f79b48eeee226cdc2b8854dcf863b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873524837
+        }
+    ],
+    "wof:id":873524837,
+    "wof:lastmodified":1464224073,
+    "wof:name":"Tri State Roofing Company Inc",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "altering",
+        "contractor",
+        "contractors-commercial",
+        "improvement",
+        "remodeling"
+    ]
+},
+  "bbox": [
+    -75.617581,
+    38.648779,
+    -75.617581,
+    38.648779
+],
+  "geometry": {"coordinates":[-75.617581,38.648779],"type":"Point"}
+}

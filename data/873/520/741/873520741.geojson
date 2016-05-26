@@ -1,0 +1,74 @@
+{
+  "id": 873520741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517571,39.169848,-75.517571,39.169848",
+    "geom:latitude":39.169848,
+    "geom:longitude":-75.517571,
+    "iso:country":"US",
+    "sg:address":"245 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2945",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"Www.Riteaid.Com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eHX7OcWfQrZlb7iTZ2k8L_39.169848_-75.517571@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223915,
+    "wof:geomhash":"54ec07e7451ce0fdfe13a9af34053f52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873520741
+        }
+    ],
+    "wof:id":873520741,
+    "wof:lastmodified":1464223915,
+    "wof:name":"Rite Aid Pharmacies",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -75.517571,
+    39.169848,
+    -75.517571,
+    39.169848
+],
+  "geometry": {"coordinates":[-75.517571,39.169848],"type":"Point"}
+}

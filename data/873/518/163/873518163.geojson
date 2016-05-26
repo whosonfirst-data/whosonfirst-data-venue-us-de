@@ -1,0 +1,96 @@
+{
+  "id": 873518163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549468,39.810612,-75.549468,39.810612",
+    "geom:latitude":39.810612,
+    "geom:longitude":-75.549468,
+    "iso:country":"US",
+    "sg:address":"4115 Concord Pike Ste A",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8740",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "mail",
+        "supply",
+        "stamp",
+        "online",
+        "hobby",
+        "model",
+        "coin",
+        "order"
+    ],
+    "sg:website":"http://www.thestampcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61E0dPsQuDfJLTqQjPbfuP_39.810612_-75.549468@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223801,
+    "wof:geomhash":"70935c386e49811f621e8b292c95cee5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873518163
+        }
+    ],
+    "wof:id":873518163,
+    "wof:lastmodified":1464223801,
+    "wof:name":"Dutch Country Auction",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "mail",
+        "supply",
+        "stamp",
+        "online",
+        "hobby",
+        "model",
+        "coin",
+        "order"
+    ]
+},
+  "bbox": [
+    -75.549468,
+    39.810612,
+    -75.549468,
+    39.810612
+],
+  "geometry": {"coordinates":[-75.549468,39.810612],"type":"Point"}
+}

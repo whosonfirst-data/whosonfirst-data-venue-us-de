@@ -1,0 +1,69 @@
+{
+  "id": 857723475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.489207,39.785042,-75.489207,39.785042",
+    "geom:latitude":39.785042,
+    "geom:longitude":-75.489207,
+    "iso:country":"US",
+    "sg:address":"5 Wayne Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 5155",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zAunv8R4G0K8JYmESQGxp_39.785042_-75.489207@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221315,
+    "wof:geomhash":"a19a5a133b2e8b571ff004ddcb5be0ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":857723475
+        }
+    ],
+    "wof:id":857723475,
+    "wof:lastmodified":1464221315,
+    "wof:name":"Deborah K Witt MD",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.489207,
+    39.785042,
+    -75.489207,
+    39.785042
+],
+  "geometry": {"coordinates":[-75.48920699999999,39.785042],"type":"Point"}
+}

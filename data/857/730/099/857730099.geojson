@@ -1,0 +1,71 @@
+{
+  "id": 857730099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.534318,39.807673,-75.534318,39.807673",
+    "geom:latitude":39.807673,
+    "geom:longitude":-75.534318,
+    "iso:country":"US",
+    "sg:address":"3201 Kammerer Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 0545",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6F3eIct3Ivkc1bZVGwrtvx_39.807673_-75.534318@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221440,
+    "wof:geomhash":"ad6bd4f0cdf91935aee3cd6c78a7a1d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":857730099
+        }
+    ],
+    "wof:id":857730099,
+    "wof:lastmodified":1464221440,
+    "wof:name":"Koke Inc",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -75.534318,
+    39.807673,
+    -75.534318,
+    39.807673
+],
+  "geometry": {"coordinates":[-75.534318,39.807673],"type":"Point"}
+}

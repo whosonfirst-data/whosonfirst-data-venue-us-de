@@ -1,0 +1,73 @@
+{
+  "id": 857716113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566553,39.749553,-75.566553,39.749553",
+    "geom:latitude":39.749553,
+    "geom:longitude":-75.566553,
+    "iso:country":"US",
+    "sg:address":"1505 W 7th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 1212",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mNRhX2X4cjhjAxYW28dBF_39.749553_-75.566553@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221167,
+    "wof:geomhash":"d623f75a563f996d2e7fe843da10b84d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857716113
+        }
+    ],
+    "wof:id":857716113,
+    "wof:lastmodified":1464221167,
+    "wof:name":"Heating & Air",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.566553,
+    39.749553,
+    -75.566553,
+    39.749553
+],
+  "geometry": {"coordinates":[-75.566553,39.749553],"type":"Point"}
+}

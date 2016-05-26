@@ -1,0 +1,80 @@
+{
+  "id": 857697197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566455,39.205826,-75.566455,39.205826",
+    "geom:latitude":39.205826,
+    "geom:longitude":-75.566455,
+    "iso:country":"US",
+    "sg:address":"267 Fork Branch Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 1099",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential",
+        "top",
+        "counter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dFl7csjX9DLtZkYM5KrFc_39.205826_-75.566455@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220756,
+    "wof:geomhash":"26384e654e65eb001501288a73f00fe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857697197
+        }
+    ],
+    "wof:id":857697197,
+    "wof:lastmodified":1464220756,
+    "wof:name":"T J Lane Construction Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "top",
+        "counter"
+    ]
+},
+  "bbox": [
+    -75.566455,
+    39.205826,
+    -75.566455,
+    39.205826
+],
+  "geometry": {"coordinates":[-75.566455,39.205826],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873498583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703027,39.698623,-75.703027,39.698623",
+    "geom:latitude":39.698623,
+    "geom:longitude":-75.703027,
+    "iso:country":"US",
+    "sg:address":"111 Brewster Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 8350",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_428Nznz5vEKr8sfEsjYvKg_39.698623_-75.703027@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222885,
+    "wof:geomhash":"9e48a0d9a2173f53c854a3abcd9f3feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873498583
+        }
+    ],
+    "wof:id":873498583,
+    "wof:lastmodified":1464222885,
+    "wof:name":"KES Electrical Contractor",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.703027,
+    39.698623,
+    -75.703027,
+    39.698623
+],
+  "geometry": {"coordinates":[-75.70302700000001,39.698623],"type":"Point"}
+}

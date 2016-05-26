@@ -1,0 +1,69 @@
+{
+  "id": 857718965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.617801,39.732224,-75.617801,39.732224",
+    "geom:latitude":39.732224,
+    "geom:longitude":-75.617801,
+    "iso:country":"US",
+    "sg:address":"420 Century Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6988",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1aHxbgjYHF0i3Vo6TG8F43_39.732224_-75.617801@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221226,
+    "wof:geomhash":"d3480f5d9045c2667e3fac848ba08039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857718965
+        }
+    ],
+    "wof:id":857718965,
+    "wof:lastmodified":1464221226,
+    "wof:name":"Car Version 2",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -75.617801,
+    39.732224,
+    -75.617801,
+    39.732224
+],
+  "geometry": {"coordinates":[-75.617801,39.732224],"type":"Point"}
+}

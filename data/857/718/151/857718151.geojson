@@ -1,0 +1,69 @@
+{
+  "id": 857718151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.715693,39.684499,-75.715693,39.684499",
+    "geom:latitude":39.684499,
+    "geom:longitude":-75.715693,
+    "iso:country":"US",
+    "sg:address":"1102 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 8465",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "printer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UzPnH2SkkVnLHXM0BVk2x_39.684499_-75.715693@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221206,
+    "wof:geomhash":"c1c96b48d3d13b866cb29a1040d34d77",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857718151
+        }
+    ],
+    "wof:id":857718151,
+    "wof:lastmodified":1464221206,
+    "wof:name":"Armor Graphics Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "printer"
+    ]
+},
+  "bbox": [
+    -75.715693,
+    39.684499,
+    -75.715693,
+    39.684499
+],
+  "geometry": {"coordinates":[-75.715693,39.684499],"type":"Point"}
+}

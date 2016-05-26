@@ -1,0 +1,73 @@
+{
+  "id": 873494755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.482299,39.782001,-75.482299,39.782001",
+    "geom:latitude":39.782001,
+    "geom:longitude":-75.482299,
+    "iso:country":"US",
+    "sg:address":"1320 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 8712",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ERvY2VRj8vEu77TaD1SMO_39.782001_-75.482299@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222699,
+    "wof:geomhash":"3ca94e0e74a4588e871e1b14c902f6af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873494755
+        }
+    ],
+    "wof:id":873494755,
+    "wof:lastmodified":1464222699,
+    "wof:name":"Pedro Q Dayrit MD",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.482299,
+    39.782001,
+    -75.482299,
+    39.782001
+],
+  "geometry": {"coordinates":[-75.482299,39.782001],"type":"Point"}
+}

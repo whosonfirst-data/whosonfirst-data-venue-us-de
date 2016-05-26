@@ -1,0 +1,75 @@
+{
+  "id": 873490369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.202277,38.744983,-75.202277,38.744983",
+    "geom:latitude":38.744983,
+    "geom:longitude":-75.202277,
+    "iso:country":"US",
+    "sg:address":"52 Coventry Ln",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2792",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XZvWami5SjQf6yI91wgdA_38.744983_-75.202277@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222509,
+    "wof:geomhash":"b91ee77a1afb3884e6e55fa5daf36f3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873490369
+        }
+    ],
+    "wof:id":873490369,
+    "wof:lastmodified":1464222509,
+    "wof:name":"Jetco Heating & AC",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.202277,
+    38.744983,
+    -75.202277,
+    38.744983
+],
+  "geometry": {"coordinates":[-75.202277,38.744983],"type":"Point"}
+}

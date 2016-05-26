@@ -1,0 +1,101 @@
+{
+  "id": 873515103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.695778,39.787331,-75.695778,39.787331",
+    "geom:latitude":39.787331,
+    "geom:longitude":-75.695778,
+    "iso:country":"US",
+    "sg:address":"400 Hockessin Cors",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Barbecue",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 4800",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grill",
+        "outdoor",
+        "supply",
+        "equipment",
+        "patio",
+        "fireplace",
+        "store"
+    ],
+    "sg:website":"http://www.casualmarketplace.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_173s5llAlMbv7MFwLpe30m_39.787331_-75.695778@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223624,
+    "wof:geomhash":"233bc3172425c00961eabf94434383b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873515103
+        }
+    ],
+    "wof:id":873515103,
+    "wof:lastmodified":1464223624,
+    "wof:name":"Casual Marketplace",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "outdoor",
+        "supply",
+        "equipment",
+        "patio",
+        "fireplace",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.695778,
+    39.787331,
+    -75.695778,
+    39.787331
+],
+  "geometry": {"coordinates":[-75.695778,39.787331],"type":"Point"}
+}

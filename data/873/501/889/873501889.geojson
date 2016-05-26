@@ -1,0 +1,73 @@
+{
+  "id": 873501889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.699099,39.685701,-75.699099,39.685701",
+    "geom:latitude":39.685701,
+    "geom:longitude":-75.699099,
+    "iso:country":"US",
+    "sg:address":"7 Mill Park Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 0333",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77ONNgg2W98UcbeAn8Vugh_39.685701_-75.699099@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223024,
+    "wof:geomhash":"9e557137cf4c2e06610ad1e84616f6cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873501889
+        }
+    ],
+    "wof:id":873501889,
+    "wof:lastmodified":1464223024,
+    "wof:name":"Red Mill Car Wash Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "carwash",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.699099,
+    39.685701,
+    -75.699099,
+    39.685701
+],
+  "geometry": {"coordinates":[-75.699099,39.685701],"type":"Point"}
+}

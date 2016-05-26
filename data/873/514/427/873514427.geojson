@@ -1,0 +1,81 @@
+{
+  "id": 873514427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.648311,39.679039,-75.648311,39.679039",
+    "geom:latitude":39.679039,
+    "geom:longitude":-75.648311,
+    "iso:country":"US",
+    "sg:address":"434 Christiana Mall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 9903",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apparel",
+        "sportswear",
+        "store",
+        "women's"
+    ],
+    "sg:website":"http://www.ladyfootlocker.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A96gR96jddq49RGFH6PKV_39.679039_-75.648311@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223588,
+    "wof:geomhash":"b6fcf0b61db53e35c1d73330d2d247de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514427
+        }
+    ],
+    "wof:id":873514427,
+    "wof:lastmodified":1464223588,
+    "wof:name":"Lady Foot Locker",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "sportswear",
+        "store",
+        "women's"
+    ]
+},
+  "bbox": [
+    -75.648311,
+    39.679039,
+    -75.648311,
+    39.679039
+],
+  "geometry": {"coordinates":[-75.64831100000001,39.679039],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873510531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.593949,38.648377,-75.593949,38.648377",
+    "geom:latitude":38.648377,
+    "geom:longitude":-75.593949,
+    "iso:country":"US",
+    "sg:address":"1515 Middleford Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 9141",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qVVaxJvpnvnNLN9sQAOor_38.648377_-75.593949@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223397,
+    "wof:geomhash":"56616bc1f5462e7157c3cb6abe359e44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873510531
+        }
+    ],
+    "wof:id":873510531,
+    "wof:lastmodified":1464223397,
+    "wof:name":"Electrolux",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -75.593949,
+    38.648377,
+    -75.593949,
+    38.648377
+],
+  "geometry": {"coordinates":[-75.59394899999999,38.648377],"type":"Point"}
+}

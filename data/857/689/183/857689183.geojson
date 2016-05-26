@@ -1,0 +1,71 @@
+{
+  "id": 857689183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602435,39.713594,-75.602435,39.713594",
+    "geom:latitude":39.713594,
+    "geom:longitude":-75.602435,
+    "iso:country":"US",
+    "sg:address":"1615 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 5793",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heavy",
+        "construction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0J8Ndhir9lr32HZa9ZuYLh_39.713594_-75.602435@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220602,
+    "wof:geomhash":"4d298fd7300c7c818fcebc400c87537c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857689183
+        }
+    ],
+    "wof:id":857689183,
+    "wof:lastmodified":1464220602,
+    "wof:name":"Don D Corp",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heavy",
+        "construction"
+    ]
+},
+  "bbox": [
+    -75.602435,
+    39.713594,
+    -75.602435,
+    39.713594
+],
+  "geometry": {"coordinates":[-75.602435,39.713594],"type":"Point"}
+}

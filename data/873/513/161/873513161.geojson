@@ -1,0 +1,76 @@
+{
+  "id": 873513161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.719429,39.694514,-75.719429,39.694514",
+    "geom:latitude":39.694514,
+    "geom:longitude":-75.719429,
+    "iso:country":"US",
+    "sg:address":"3 Liberty Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/25136-korean-bbq/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 9100",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "korean",
+        "sushi",
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48QJYOjEz2BN1384XhZQcu_39.694514_-75.719429@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223519,
+    "wof:geomhash":"6fe66435089041108b2691901accdb5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513161
+        }
+    ],
+    "wof:id":873513161,
+    "wof:lastmodified":1464223519,
+    "wof:name":"Korean BBQ",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "korean",
+        "sushi",
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -75.719429,
+    39.694514,
+    -75.719429,
+    39.694514
+],
+  "geometry": {"coordinates":[-75.71942900000001,39.694514],"type":"Point"}
+}

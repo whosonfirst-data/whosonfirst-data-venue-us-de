@@ -1,0 +1,69 @@
+{
+  "id": 873496725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565694,38.932572,-75.565694,38.932572",
+    "geom:latitude":38.932572,
+    "geom:longitude":-75.565694,
+    "iso:country":"US",
+    "sg:address":"16479 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4714",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32vkOzUW2p5C5cOedjOJs4_38.932572_-75.565694@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222814,
+    "wof:geomhash":"d541c002d08fc2d50b3bec1e82fedf40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873496725
+        }
+    ],
+    "wof:id":873496725,
+    "wof:lastmodified":1464222814,
+    "wof:name":"Comcast",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -75.565694,
+    38.932572,
+    -75.565694,
+    38.932572
+],
+  "geometry": {"coordinates":[-75.56569399999999,38.932572],"type":"Point"}
+}

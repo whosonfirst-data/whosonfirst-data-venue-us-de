@@ -1,0 +1,80 @@
+{
+  "id": 873470751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.614986,39.292936,-75.614986,39.292936",
+    "geom:latitude":39.292936,
+    "geom:longitude":-75.614986,
+    "iso:country":"US",
+    "sg:address":"37 S Clements St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 4215",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XNMSjy9CDT9zKrg3eGnnW_39.292936_-75.614986@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221757,
+    "wof:geomhash":"018cdf99c9fd47361cff169bea5bfbe4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873470751
+        }
+    ],
+    "wof:id":873470751,
+    "wof:lastmodified":1464221757,
+    "wof:name":"Hewes James L & Sons",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "marking",
+        "maintenance",
+        "parking"
+    ]
+},
+  "bbox": [
+    -75.614986,
+    39.292936,
+    -75.614986,
+    39.292936
+],
+  "geometry": {"coordinates":[-75.614986,39.292936],"type":"Point"}
+}

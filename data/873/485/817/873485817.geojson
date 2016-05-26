@@ -1,0 +1,75 @@
+{
+  "id": 873485817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.502463,39.79065,-75.502463,39.79065",
+    "geom:latitude":39.79065,
+    "geom:longitude":-75.502463,
+    "iso:country":"US",
+    "sg:address":"1228 Evergreen Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 5683",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "dwelling",
+        "family",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821991,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NS3G52QnoGhcptk10U9nS_39.790650_-75.502463@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222335,
+    "wof:geomhash":"8327db16e9035632f204cbec48c285a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821991,
+            "region_id":85688611,
+            "venue_id":873485817
+        }
+    ],
+    "wof:id":873485817,
+    "wof:lastmodified":1464222335,
+    "wof:name":"Jack Saxton Construction Co",
+    "wof:parent_id":85821991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "dwelling",
+        "family",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.502463,
+    39.79065,
+    -75.502463,
+    39.79065
+],
+  "geometry": {"coordinates":[-75.50246300000001,39.79065],"type":"Point"}
+}

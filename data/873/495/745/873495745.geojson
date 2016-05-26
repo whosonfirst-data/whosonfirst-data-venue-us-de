@@ -1,0 +1,73 @@
+{
+  "id": 873495745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.534544,39.751585,-75.534544,39.751585",
+    "geom:latitude":39.751585,
+    "geom:longitude":-75.534544,
+    "iso:country":"US",
+    "sg:address":"2300 Pine St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 426 9711",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qTE5xVARrKrBmBqEXu8x7_39.751585_-75.534544@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222763,
+    "wof:geomhash":"0d8b759a94dadb94de292669e07e7f6f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873495745
+        }
+    ],
+    "wof:id":873495745,
+    "wof:lastmodified":1464222763,
+    "wof:name":"Bethel Pentecostal Church",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.534544,
+    39.751585,
+    -75.534544,
+    39.751585
+],
+  "geometry": {"coordinates":[-75.534544,39.751585],"type":"Point"}
+}

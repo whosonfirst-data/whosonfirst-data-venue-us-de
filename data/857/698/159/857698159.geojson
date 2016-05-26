@@ -1,0 +1,72 @@
+{
+  "id": 857698159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527452,39.178859,-75.527452,39.178859",
+    "geom:latitude":39.178859,
+    "geom:longitude":-75.527452,
+    "iso:country":"US",
+    "sg:address":"710 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 1340",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "sg:website":"www.vioc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vOpSgj81vCdroCrJBKsm3_39.178859_-75.527452@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220776,
+    "wof:geomhash":"de3c501d9aa05f968681964df83ad5c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857698159
+        }
+    ],
+    "wof:id":857698159,
+    "wof:lastmodified":1464220776,
+    "wof:name":"Valvoline Instant Oil Change",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.527452,
+    39.178859,
+    -75.527452,
+    39.178859
+],
+  "geometry": {"coordinates":[-75.527452,39.178859],"type":"Point"}
+}

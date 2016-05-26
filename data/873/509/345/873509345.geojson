@@ -1,0 +1,75 @@
+{
+  "id": 873509345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.294617,38.58617,-75.294617,38.58617",
+    "geom:latitude":38.58617,
+    "geom:longitude":-75.294617,
+    "iso:country":"US",
+    "sg:address":"231 Washington St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 7300",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63g8n3m1FRGc3rL2dsi3w5_38.586170_-75.294617@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223345,
+    "wof:geomhash":"cfd4b7cb455654af216c6d62521b0656",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873509345
+        }
+    ],
+    "wof:id":873509345,
+    "wof:lastmodified":1464223345,
+    "wof:name":"Green Valley Terrance",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "skilled",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -75.294617,
+    38.58617,
+    -75.294617,
+    38.58617
+],
+  "geometry": {"coordinates":[-75.294617,38.58617],"type":"Point"}
+}

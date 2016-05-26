@@ -1,0 +1,73 @@
+{
+  "id": 857705833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.564263,39.748457,-75.564263,39.748457",
+    "geom:latitude":39.748457,
+    "geom:longitude":-75.564263,
+    "iso:country":"US",
+    "sg:address":"1304 W 7th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 9228",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SkdBZgOIuIlSFoks0vlyN_39.748457_-75.564263@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220929,
+    "wof:geomhash":"1fda1e7e6f103221b44f17deeb25743d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857705833
+        }
+    ],
+    "wof:id":857705833,
+    "wof:lastmodified":1464220929,
+    "wof:name":"Pfeiffer Home Inspections",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -75.564263,
+    39.748457,
+    -75.564263,
+    39.748457
+],
+  "geometry": {"coordinates":[-75.564263,39.748457],"type":"Point"}
+}

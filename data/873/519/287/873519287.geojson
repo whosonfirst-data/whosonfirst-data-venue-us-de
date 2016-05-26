@@ -1,0 +1,96 @@
+{
+  "id": 873519287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.65863,39.723495,-75.65863,39.723495",
+    "geom:latitude":39.723495,
+    "geom:longitude":-75.65863,
+    "iso:country":"US",
+    "sg:address":"4600 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 1689",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wheel",
+        "tires-wholesale",
+        "tire",
+        "retread",
+        "balancing",
+        "wheels-aligning",
+        "recap",
+        "brake",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.ntb.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Auj8XKoMDk3OW1nFd5wlw_39.723495_-75.658630@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223845,
+    "wof:geomhash":"c3e87fe997548d51ba747f9f946c2e80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873519287
+        }
+    ],
+    "wof:id":873519287,
+    "wof:lastmodified":1464223845,
+    "wof:name":"NTB - National Tire & Battery",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wheel",
+        "tires-wholesale",
+        "tire",
+        "retread",
+        "balancing",
+        "wheels-aligning",
+        "recap",
+        "brake",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.65863,
+    39.723495,
+    -75.65863,
+    39.723495
+],
+  "geometry": {"coordinates":[-75.65863,39.723495],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873516151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.709836,39.677914,-75.709836,39.677914",
+    "geom:latitude":39.677914,
+    "geom:longitude":-75.709836,
+    "iso:country":"US",
+    "sg:address":"19 Carole Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 353 5132",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3QaycR9SpsdcokvuwC3joN_39.677914_-75.709836@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223668,
+    "wof:geomhash":"0011b15153c3ce3c6608a8c784bb47cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516151
+        }
+    ],
+    "wof:id":873516151,
+    "wof:lastmodified":1464223668,
+    "wof:name":"AAA Foley Appraisals",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -75.709836,
+    39.677914,
+    -75.709836,
+    39.677914
+],
+  "geometry": {"coordinates":[-75.709836,39.677914],"type":"Point"}
+}

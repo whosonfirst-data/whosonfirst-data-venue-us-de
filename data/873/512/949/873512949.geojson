@@ -1,0 +1,72 @@
+{
+  "id": 873512949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682673,39.622598,-75.682673,39.622598",
+    "geom:latitude":39.622598,
+    "geom:longitude":-75.682673,
+    "iso:country":"US",
+    "sg:address":"1460 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/241761-seasons-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 5555",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59rWK63bGJOQN0YGSxo4wT_39.622598_-75.682673@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223512,
+    "wof:geomhash":"63cec7dace14d46e98b636147791ba27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512949
+        }
+    ],
+    "wof:id":873512949,
+    "wof:lastmodified":1464223512,
+    "wof:name":"Season's Pizza",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.682673,
+    39.622598,
+    -75.682673,
+    39.622598
+],
+  "geometry": {"coordinates":[-75.68267299999999,39.622598],"type":"Point"}
+}

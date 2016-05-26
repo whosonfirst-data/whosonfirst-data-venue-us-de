@@ -1,0 +1,73 @@
+{
+  "id": 857710585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.302267,38.589894,-75.302267,38.589894",
+    "geom:latitude":38.589894,
+    "geom:longitude":-75.302267,
+    "iso:country":"US",
+    "sg:address":"311 US Hwy 113",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 6600",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69J74DWhbstjTMoZc7yCw4_38.589894_-75.302267@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221044,
+    "wof:geomhash":"e9ffbf7b48894843d97f301e519df1cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857710585
+        }
+    ],
+    "wof:id":857710585,
+    "wof:lastmodified":1464221044,
+    "wof:name":"Rent Equip",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.302267,
+    38.589894,
+    -75.302267,
+    38.589894
+],
+  "geometry": {"coordinates":[-75.302267,38.589894],"type":"Point"}
+}

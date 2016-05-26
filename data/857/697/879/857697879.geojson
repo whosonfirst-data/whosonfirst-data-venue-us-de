@@ -1,0 +1,71 @@
+{
+  "id": 857697879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.692227,39.71026,-75.692227,39.71026",
+    "geom:latitude":39.71026,
+    "geom:longitude":-75.692227,
+    "iso:country":"US",
+    "sg:address":"128 Rockrose Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 9985",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34rbY6yHoFFxsUXA3QRMcG_39.710260_-75.692227@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220771,
+    "wof:geomhash":"897d185eb830532ca0d24926fd90e05b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857697879
+        }
+    ],
+    "wof:id":857697879,
+    "wof:lastmodified":1464220771,
+    "wof:name":"Fleet Of Angels",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.692227,
+    39.71026,
+    -75.692227,
+    39.71026
+],
+  "geometry": {"coordinates":[-75.692227,39.71026],"type":"Point"}
+}

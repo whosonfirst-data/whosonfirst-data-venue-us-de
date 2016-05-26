@@ -1,0 +1,68 @@
+{
+  "id": 873502853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54005,39.752678,-75.54005,39.752678",
+    "geom:latitude":39.752678,
+    "geom:longitude":-75.54005,
+    "iso:country":"US",
+    "sg:address":"2109 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 4060",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tOsjmNOZkI5CYSSsb8JS2_39.752678_-75.540050@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223060,
+    "wof:geomhash":"94c507bc47e7adff45ba00b0142b5497",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873502853
+        }
+    ],
+    "wof:id":873502853,
+    "wof:lastmodified":1464223060,
+    "wof:name":"Ho Ho Mart",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54005,
+    39.752678,
+    -75.54005,
+    39.752678
+],
+  "geometry": {"coordinates":[-75.54004999999999,39.752678],"type":"Point"}
+}

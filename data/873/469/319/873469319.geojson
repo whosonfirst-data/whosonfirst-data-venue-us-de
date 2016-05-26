@@ -1,0 +1,73 @@
+{
+  "id": 873469319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.680171,39.708402,-75.680171,39.708402",
+    "geom:latitude":39.708402,
+    "geom:longitude":-75.680171,
+    "iso:country":"US",
+    "sg:address":"2132 Carol Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 0899",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZXhLHAZu9ivR4n4dlWoHu_39.708402_-75.680171@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221697,
+    "wof:geomhash":"0ffd835161678f802e88e238674bdb22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873469319
+        }
+    ],
+    "wof:id":873469319,
+    "wof:lastmodified":1464221697,
+    "wof:name":"Mc Ginnes Electrical",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.680171,
+    39.708402,
+    -75.680171,
+    39.708402
+],
+  "geometry": {"coordinates":[-75.680171,39.708402],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873487097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567071,39.737346,-75.567071,39.737346",
+    "geom:latitude":39.737346,
+    "geom:longitude":-75.567071,
+    "iso:country":"US",
+    "sg:address":"810 Maryland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 426 0446",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dTCDZ5g95wpZRsGUxGfL1_39.737346_-75.567071@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222382,
+    "wof:geomhash":"b8ac979d910c5a063c1e24413c90f5d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873487097
+        }
+    ],
+    "wof:id":873487097,
+    "wof:lastmodified":1464222382,
+    "wof:name":"New Pizza House",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.567071,
+    39.737346,
+    -75.567071,
+    39.737346
+],
+  "geometry": {"coordinates":[-75.567071,39.737346],"type":"Point"}
+}

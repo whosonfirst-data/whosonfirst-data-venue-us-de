@@ -1,0 +1,80 @@
+{
+  "id": 873505837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.322107,38.830169,-75.322107,38.830169",
+    "geom:latitude":38.830169,
+    "geom:longitude":-75.322107,
+    "iso:country":"US",
+    "sg:address":"118 Pine Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 3999",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pilot",
+        "help",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t6sUaLZTi6JJ9D6tW0Lwa_38.830169_-75.322107@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223191,
+    "wof:geomhash":"cbcc086b86e4e59de12547d077a5430e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873505837
+        }
+    ],
+    "wof:id":873505837,
+    "wof:lastmodified":1464223191,
+    "wof:name":"Coastal Marine Specialists Inc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pilot",
+        "help",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.322107,
+    38.830169,
+    -75.322107,
+    38.830169
+],
+  "geometry": {"coordinates":[-75.322107,38.830169],"type":"Point"}
+}

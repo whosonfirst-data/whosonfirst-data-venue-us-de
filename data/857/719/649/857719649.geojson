@@ -1,0 +1,73 @@
+{
+  "id": 857719649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565028,39.761947,-75.565028,39.761947",
+    "geom:latitude":39.761947,
+    "geom:longitude":-75.565028,
+    "iso:country":"US",
+    "sg:address":"2013 Gilpin Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5519",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VP5BjOWmnIYlcLz6qmd8T_39.761947_-75.565028@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221243,
+    "wof:geomhash":"153dfc0bba5157988b53c6db770774d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":857719649
+        }
+    ],
+    "wof:id":857719649,
+    "wof:lastmodified":1464221243,
+    "wof:name":"St Ann's Church",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -75.565028,
+    39.761947,
+    -75.565028,
+    39.761947
+],
+  "geometry": {"coordinates":[-75.565028,39.761947],"type":"Point"}
+}

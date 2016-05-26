@@ -1,0 +1,73 @@
+{
+  "id": 857724591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572627,39.688378,-75.572627,39.688378",
+    "geom:latitude":39.688378,
+    "geom:longitude":-75.572627,
+    "iso:country":"US",
+    "sg:address":"51 Boulden Cir",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 325 9290",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IomJjRpjTFFzzYQqPI5lM_39.688378_-75.572627@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221335,
+    "wof:geomhash":"21f1370dd55376e5e3118e129d04925e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857724591
+        }
+    ],
+    "wof:id":857724591,
+    "wof:lastmodified":1464221335,
+    "wof:name":"Penske Truck Rental",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -75.572627,
+    39.688378,
+    -75.572627,
+    39.688378
+],
+  "geometry": {"coordinates":[-75.572627,39.688378],"type":"Point"}
+}

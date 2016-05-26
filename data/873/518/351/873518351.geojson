@@ -1,0 +1,71 @@
+{
+  "id": 873518351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.623659,39.753138,-75.623659,39.753138",
+    "geom:latitude":39.753138,
+    "geom:longitude":-75.623659,
+    "iso:country":"US",
+    "sg:address":"2508 Teal Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1648",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5d64niXibMo6cBZEueIIPs_39.753138_-75.623659@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223808,
+    "wof:geomhash":"85bc204fac7fc12bb34f77cf970e56c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873518351
+        }
+    ],
+    "wof:id":873518351,
+    "wof:lastmodified":1464223808,
+    "wof:name":"Pfl Publications",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [
+    -75.623659,
+    39.753138,
+    -75.623659,
+    39.753138
+],
+  "geometry": {"coordinates":[-75.623659,39.753138],"type":"Point"}
+}

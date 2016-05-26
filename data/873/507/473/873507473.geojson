@@ -1,0 +1,75 @@
+{
+  "id": 873507473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.717958,39.701607,-75.717958,39.701607",
+    "geom:latitude":39.701607,
+    "geom:longitude":-75.717958,
+    "iso:country":"US",
+    "sg:address":"269 Delaplane Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 8285",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "distance",
+        "carrier",
+        "long",
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43vlMF5DlJknbHeU2tys00_39.701607_-75.717958@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223257,
+    "wof:geomhash":"553ab06fe05e6280d919fcf20006de31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873507473
+        }
+    ],
+    "wof:id":873507473,
+    "wof:lastmodified":1464223257,
+    "wof:name":"ISI",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "distance",
+        "carrier",
+        "long",
+        "communications"
+    ]
+},
+  "bbox": [
+    -75.717958,
+    39.701607,
+    -75.717958,
+    39.701607
+],
+  "geometry": {"coordinates":[-75.717958,39.701607],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873490759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610272,39.303513,-75.610272,39.303513",
+    "geom:latitude":39.303513,
+    "geom:longitude":-75.610272,
+    "iso:country":"US",
+    "sg:address":"201 N Main St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 2977",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2seyQHW8fIUuz8lNv2L06A_39.303513_-75.610272@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222522,
+    "wof:geomhash":"6323cb99942a472e48fba3e84a6c3fab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873490759
+        }
+    ],
+    "wof:id":873490759,
+    "wof:lastmodified":1464222522,
+    "wof:name":"Excel Physical Therapy Smyrna",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.610272,
+    39.303513,
+    -75.610272,
+    39.303513
+],
+  "geometry": {"coordinates":[-75.61027199999999,39.303513],"type":"Point"}
+}

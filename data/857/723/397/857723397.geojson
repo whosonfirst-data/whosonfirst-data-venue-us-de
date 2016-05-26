@@ -1,0 +1,66 @@
+{
+  "id": 857723397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.291589,38.580921,-75.291589,38.580921",
+    "geom:latitude":38.580921,
+    "geom:longitude":-75.291589,
+    "iso:country":"US",
+    "sg:address":"214 E Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 0195",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zesD7To9Xj7kbgAaNIt9H_38.580921_-75.291589@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221313,
+    "wof:geomhash":"0ccd07f34864631927e4be4e1d8a470c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857723397
+        }
+    ],
+    "wof:id":857723397,
+    "wof:lastmodified":1464221313,
+    "wof:name":"Millsboro VA Clinic",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.291589,
+    38.580921,
+    -75.291589,
+    38.580921
+],
+  "geometry": {"coordinates":[-75.291589,38.580921],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873511189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.733061,39.703133,-75.733061,39.703133",
+    "geom:latitude":39.703133,
+    "geom:longitude":-75.733061,
+    "iso:country":"US",
+    "sg:address":"112 Aronimink Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 6682",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "engineering",
+        "safety",
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CUiuozCpqRMKNT8jgSXVz_39.703456_-75.732903@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223429,
+    "wof:geomhash":"4eef024f4977ed2e6548c5665d1945c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873511189
+        }
+    ],
+    "wof:id":873511189,
+    "wof:lastmodified":1464223429,
+    "wof:name":"Manning Assoc",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "engineering",
+        "safety",
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.733061,
+    39.703133,
+    -75.733061,
+    39.703133
+],
+  "geometry": {"coordinates":[-75.73306100000001,39.703133],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873475555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.511169,39.760338,-75.511169,39.760338",
+    "geom:latitude":39.760338,
+    "geom:longitude":-75.511169,
+    "iso:country":"US",
+    "sg:address":"304 Edgemoor Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 1195",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gXqFmgCLsf1thEgQd5rvr_39.760338_-75.511169@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221934,
+    "wof:geomhash":"fc49795d00a84ea5074df0126f24b4ce",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873475555
+        }
+    ],
+    "wof:id":873475555,
+    "wof:lastmodified":1464221934,
+    "wof:name":"Clifton Liquors Inc",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.511169,
+    39.760338,
+    -75.511169,
+    39.760338
+],
+  "geometry": {"coordinates":[-75.511169,39.760338],"type":"Point"}
+}

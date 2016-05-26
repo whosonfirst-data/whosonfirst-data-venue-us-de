@@ -1,0 +1,71 @@
+{
+  "id": 857721703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.757095,39.590439,-75.757095,39.590439",
+    "geom:latitude":39.590439,
+    "geom:longitude":-75.757095,
+    "iso:country":"US",
+    "sg:address":"212 Marabou Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 1307",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "monitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xdGvmLOda6PeEZlZelaHp_39.590439_-75.757095@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221283,
+    "wof:geomhash":"ff0f51b8deb2d1d61433812f0bbed93a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857721703
+        }
+    ],
+    "wof:id":857721703,
+    "wof:lastmodified":1464221283,
+    "wof:name":"Tek Enterprises",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "monitor"
+    ]
+},
+  "bbox": [
+    -75.757095,
+    39.590439,
+    -75.757095,
+    39.590439
+],
+  "geometry": {"coordinates":[-75.75709500000001,39.590439],"type":"Point"}
+}

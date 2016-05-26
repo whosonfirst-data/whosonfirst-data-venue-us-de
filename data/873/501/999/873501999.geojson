@@ -1,0 +1,73 @@
+{
+  "id": 873501999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.313215,38.598933,-75.313215,38.598933",
+    "geom:latitude":38.598933,
+    "geom:longitude":-75.313215,
+    "iso:country":"US",
+    "sg:address":"404 W State St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 9800",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Vte4B8uTe9OY3HHUClgCr_38.598933_-75.313215@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223028,
+    "wof:geomhash":"612db6d9405ec043ef97917922af81c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873501999
+        }
+    ],
+    "wof:id":873501999,
+    "wof:lastmodified":1464223028,
+    "wof:name":"Superior Drywall Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.313215,
+    38.598933,
+    -75.313215,
+    38.598933
+],
+  "geometry": {"coordinates":[-75.313215,38.598933],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873516647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54097,39.743931,-75.54097,39.743931",
+    "geom:latitude":39.743931,
+    "geom:longitude":-75.54097,
+    "iso:country":"US",
+    "sg:address":"1100 N Pine St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 4176",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_738YNtcJowpB0cjiygsmgJ_39.743931_-75.540970@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223698,
+    "wof:geomhash":"dcefc6af0e73b807bc57e826a78448ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873516647
+        }
+    ],
+    "wof:id":873516647,
+    "wof:lastmodified":1464223698,
+    "wof:name":"Christina School District",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54097,
+    39.743931,
+    -75.54097,
+    39.743931
+],
+  "geometry": {"coordinates":[-75.54097,39.743931],"type":"Point"}
+}

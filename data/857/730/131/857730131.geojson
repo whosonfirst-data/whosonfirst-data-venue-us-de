@@ -1,0 +1,79 @@
+{
+  "id": 857730131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528392,39.748809,-75.528392,39.748809",
+    "geom:latitude":39.748809,
+    "geom:longitude":-75.528392,
+    "iso:country":"US",
+    "sg:address":"2510 Northeast Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 0100",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "used",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GxVQ7wlUI9EWAaOGePZ4z_39.748809_-75.528392@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221441,
+    "wof:geomhash":"dd13a674b9db61cfa43bff78b1d59363",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":857730131
+        }
+    ],
+    "wof:id":857730131,
+    "wof:lastmodified":1464221441,
+    "wof:name":"Northeast Body Shop",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "used",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.528392,
+    39.748809,
+    -75.528392,
+    39.748809
+],
+  "geometry": {"coordinates":[-75.528392,39.748809],"type":"Point"}
+}

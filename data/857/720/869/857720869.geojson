@@ -1,0 +1,78 @@
+{
+  "id": 857720869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551809,39.740706,-75.551809,39.740706",
+    "geom:latitude":39.740706,
+    "geom:longitude":-75.551809,
+    "iso:country":"US",
+    "sg:address":"5 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 1513",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X8yr3oC74n6u0wGyZnJSm_39.740706_-75.551809@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221265,
+    "wof:geomhash":"ea5521194a36ac37a704f3e43f4e0c4c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857720869
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857720869
+        }
+    ],
+    "wof:id":857720869,
+    "wof:lastmodified":1464221265,
+    "wof:name":"Miami Pizza Food Market",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.551809,
+    39.740706,
+    -75.551809,
+    39.740706
+],
+  "geometry": {"coordinates":[-75.55180900000001,39.740706],"type":"Point"}
+}

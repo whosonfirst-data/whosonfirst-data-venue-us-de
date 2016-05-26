@@ -1,0 +1,71 @@
+{
+  "id": 857723743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.739589,39.684058,-75.739589,39.684058",
+    "geom:latitude":39.684058,
+    "geom:longitude":-75.739589,
+    "iso:country":"US",
+    "sg:address":"319 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 3466",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "band",
+        "orchestra"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s1Pag0vTe8rWmvFR0eO3H_39.684058_-75.739589@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221320,
+    "wof:geomhash":"e6e237368a5376bee620982566ed5fc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857723743
+        }
+    ],
+    "wof:id":857723743,
+    "wof:lastmodified":1464221320,
+    "wof:name":"Newark Symphony Orchestra",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "band",
+        "orchestra"
+    ]
+},
+  "bbox": [
+    -75.739589,
+    39.684058,
+    -75.739589,
+    39.684058
+],
+  "geometry": {"coordinates":[-75.739589,39.684058],"type":"Point"}
+}

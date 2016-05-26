@@ -1,0 +1,72 @@
+{
+  "id": 873513565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.661316,39.722264,-75.661316,39.722264",
+    "geom:latitude":39.722264,
+    "geom:longitude":-75.661316,
+    "iso:country":"US",
+    "sg:address":"4723 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/241763-seasons-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6500",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YZpaJt7Djje8hw1s9k18J_39.722264_-75.661316@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223537,
+    "wof:geomhash":"ae08cc0dc2a5e3c085496be771f5b04f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873513565
+        }
+    ],
+    "wof:id":873513565,
+    "wof:lastmodified":1464223537,
+    "wof:name":"Season's Pizza",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.661316,
+    39.722264,
+    -75.661316,
+    39.722264
+],
+  "geometry": {"coordinates":[-75.661316,39.722264],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873504069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.596628,39.755469,-75.596628,39.755469",
+    "geom:latitude":39.755469,
+    "geom:longitude":-75.596628,
+    "iso:country":"US",
+    "sg:address":"3901 Lancaster Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 7127",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "money",
+        "transfer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6N0tMetrBWj0VyhFlJ2ZJc_39.755469_-75.596628@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223108,
+    "wof:geomhash":"8114389cf54a11801fcbabdb6e3fb7ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873504069
+        }
+    ],
+    "wof:id":873504069,
+    "wof:lastmodified":1464223108,
+    "wof:name":"Western Union",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "transfer"
+    ]
+},
+  "bbox": [
+    -75.596628,
+    39.755469,
+    -75.596628,
+    39.755469
+],
+  "geometry": {"coordinates":[-75.596628,39.755469],"type":"Point"}
+}

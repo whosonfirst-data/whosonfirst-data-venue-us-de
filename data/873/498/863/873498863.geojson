@@ -1,0 +1,73 @@
+{
+  "id": 873498863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518422,39.17058,-75.518422,39.17058",
+    "geom:latitude":39.17058,
+    "geom:longitude":-75.518422,
+    "iso:country":"US",
+    "sg:address":"261 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2569",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SQ4imaz0qn0dyKTeowucl_39.170580_-75.518422@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222895,
+    "wof:geomhash":"6107230fda643f96314ef16b7cbd865b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873498863
+        }
+    ],
+    "wof:id":873498863,
+    "wof:lastmodified":1464222895,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.518422,
+    39.17058,
+    -75.518422,
+    39.17058
+],
+  "geometry": {"coordinates":[-75.518422,39.17058],"type":"Point"}
+}

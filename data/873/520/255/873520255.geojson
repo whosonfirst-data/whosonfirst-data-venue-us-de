@@ -1,0 +1,70 @@
+{
+  "id": 873520255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549008,39.81121,-75.549008,39.81121",
+    "geom:latitude":39.81121,
+    "geom:longitude":-75.549008,
+    "iso:country":"US",
+    "sg:address":"4127 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1987",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "veggie"
+    ],
+    "sg:website":"www.saladworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6KTaqB2eIqjv3oiDrOtkvs_39.811210_-75.549008@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223892,
+    "wof:geomhash":"443c9ec91d612826e3c17e3bbb27db31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520255
+        }
+    ],
+    "wof:id":873520255,
+    "wof:lastmodified":1464223892,
+    "wof:name":"Salad Works",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -75.549008,
+    39.81121,
+    -75.549008,
+    39.81121
+],
+  "geometry": {"coordinates":[-75.549008,39.81121],"type":"Point"}
+}

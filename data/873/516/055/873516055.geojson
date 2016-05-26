@@ -1,0 +1,84 @@
+{
+  "id": 873516055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.70946,39.698935,-75.70946,39.698935",
+    "geom:latitude":39.698935,
+    "geom:longitude":-75.70946,
+    "iso:country":"US",
+    "sg:address":"12 Polly Drummond Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 2200",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.dominospizza.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DU3Vt9CdpEFeQCd4YdRaH_39.698935_-75.709460@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223665,
+    "wof:geomhash":"673b7f9b0cfc03ced5cb30bacb6dcd99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516055
+        }
+    ],
+    "wof:id":873516055,
+    "wof:lastmodified":1464223665,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.70946,
+    39.698935,
+    -75.70946,
+    39.698935
+],
+  "geometry": {"coordinates":[-75.70946000000001,39.698935],"type":"Point"}
+}

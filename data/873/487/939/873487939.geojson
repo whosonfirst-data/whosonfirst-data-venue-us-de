@@ -1,0 +1,74 @@
+{
+  "id": 873487939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745553,39.683951,-75.745553,39.683951",
+    "geom:latitude":39.683951,
+    "geom:longitude":-75.745553,
+    "iso:country":"US",
+    "sg:address":"52 N Chapel St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 6635",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ],
+    "sg:website":"www.cardiokinetics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w1GrY7nYM4Fns0eLWTooP_39.683951_-75.745553@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222420,
+    "wof:geomhash":"6c52f892c87dfd37dea097fabd709346",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873487939
+        }
+    ],
+    "wof:id":873487939,
+    "wof:lastmodified":1464222420,
+    "wof:name":"Cardio-Kinetics Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical",
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -75.745553,
+    39.683951,
+    -75.745553,
+    39.683951
+],
+  "geometry": {"coordinates":[-75.745553,39.683951],"type":"Point"}
+}

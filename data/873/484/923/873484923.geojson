@@ -1,0 +1,71 @@
+{
+  "id": 873484923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.059352,38.587826,-75.059352,38.587826",
+    "geom:latitude":38.587826,
+    "geom:longitude":-75.059352,
+    "iso:country":"US",
+    "sg:address":"114 Ocean Rd",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 7692",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_391FgY4PXj92T5hq0LV6YD_38.587826_-75.059352@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222303,
+    "wof:geomhash":"60976bc9a4a06f50069f533efb451a34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873484923
+        }
+    ],
+    "wof:id":873484923,
+    "wof:lastmodified":1464222303,
+    "wof:name":"Recess Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.059352,
+    38.587826,
+    -75.059352,
+    38.587826
+],
+  "geometry": {"coordinates":[-75.059352,38.587826],"type":"Point"}
+}

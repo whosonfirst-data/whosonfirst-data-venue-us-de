@@ -1,0 +1,88 @@
+{
+  "id": 873518429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56813,39.754224,-75.56813,39.754224",
+    "geom:latitude":39.754224,
+    "geom:longitude":-75.56813,
+    "iso:country":"US",
+    "sg:address":"1033 N Lincoln St Ste 500",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 8590",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "planning",
+        "balloon",
+        "delivery",
+        "balloons-retail",
+        "event",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43lDTpAd80WCFrA2ej4miy_39.754224_-75.568130@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223811,
+    "wof:geomhash":"0d2026392545d14ecb1bff3bccfddc51",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873518429
+        }
+    ],
+    "wof:id":873518429,
+    "wof:lastmodified":1464223811,
+    "wof:name":"Kool Beans Etc Inc",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "planning",
+        "balloon",
+        "delivery",
+        "balloons-retail",
+        "event",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -75.56813,
+    39.754224,
+    -75.56813,
+    39.754224
+],
+  "geometry": {"coordinates":[-75.56813,39.754224],"type":"Point"}
+}

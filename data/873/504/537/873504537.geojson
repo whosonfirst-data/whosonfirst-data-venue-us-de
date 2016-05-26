@@ -1,0 +1,75 @@
+{
+  "id": 873504537,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607758,39.738304,-75.607758,39.738304",
+    "geom:latitude":39.738304,
+    "geom:longitude":-75.607758,
+    "iso:country":"US",
+    "sg:address":"2003 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 2430",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "station",
+        "general",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nbccIv7BR7zmTmJ2hkHBp_39.738304_-75.607758@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223129,
+    "wof:geomhash":"7d8a8300591158d05708712dcd89e7ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873504537
+        }
+    ],
+    "wof:id":873504537,
+    "wof:lastmodified":1464223129,
+    "wof:name":"Brets Automotive Center Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "station",
+        "general",
+        "repair"
+    ]
+},
+  "bbox": [
+    -75.607758,
+    39.738304,
+    -75.607758,
+    39.738304
+],
+  "geometry": {"coordinates":[-75.607758,39.738304],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873468879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745081,39.603035,-75.745081,39.603035",
+    "geom:latitude":39.603035,
+    "geom:longitude":-75.745081,
+    "iso:country":"US",
+    "sg:address":"214 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 3365",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qPsdcX3byuO0mZdUN72pC_39.603035_-75.745081@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221683,
+    "wof:geomhash":"002aeb7f3772c608808f99c83130254a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873468879
+        }
+    ],
+    "wof:id":873468879,
+    "wof:lastmodified":1464221683,
+    "wof:name":"Oolala Cafe",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -75.745081,
+    39.603035,
+    -75.745081,
+    39.603035
+],
+  "geometry": {"coordinates":[-75.745081,39.603035],"type":"Point"}
+}

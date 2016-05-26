@@ -1,0 +1,78 @@
+{
+  "id": 873525253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532656,39.291201,-75.532656,39.291201",
+    "geom:latitude":39.291201,
+    "geom:longitude":-75.532656,
+    "iso:country":"US",
+    "sg:address":"1311 Dutch Neck Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 8709",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1AI0laKGHvWPSzxqMHvfLp_39.291201_-75.532656@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224089,
+    "wof:geomhash":"55b807f62e33462b5455f4ad802d0cac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525253
+        }
+    ],
+    "wof:id":873525253,
+    "wof:lastmodified":1464224089,
+    "wof:name":"Richard Hudson",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [
+    -75.532656,
+    39.291201,
+    -75.532656,
+    39.291201
+],
+  "geometry": {"coordinates":[-75.532656,39.291201],"type":"Point"}
+}

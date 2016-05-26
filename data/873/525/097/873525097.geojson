@@ -1,0 +1,79 @@
+{
+  "id": 873525097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.115851,38.469678,-75.115851,38.469678",
+    "geom:latitude":38.469678,
+    "geom:longitude":-75.115851,
+    "iso:country":"US",
+    "sg:address":"31221 Americana Pkwy",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Supermarket",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 2827",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "super",
+        "store"
+    ],
+    "sg:website":"http://www.harristeeter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78JcMAfozagVmP21tVnxq0_38.469678_-75.115851@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224083,
+    "wof:geomhash":"be3700e108bc36dd0090afd7417afa72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525097
+        }
+    ],
+    "wof:id":873525097,
+    "wof:lastmodified":1464224083,
+    "wof:name":"Harris Teeter",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "super",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.115851,
+    38.469678,
+    -75.115851,
+    38.469678
+],
+  "geometry": {"coordinates":[-75.11585100000001,38.469678],"type":"Point"}
+}

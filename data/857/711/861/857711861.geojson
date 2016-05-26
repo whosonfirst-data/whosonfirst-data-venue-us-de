@@ -1,0 +1,73 @@
+{
+  "id": 857711861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526824,39.750619,-75.526824,39.750619",
+    "geom:latitude":39.750619,
+    "geom:longitude":-75.526824,
+    "iso:country":"US",
+    "sg:address":"2715 Northeast Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 3035",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZqPRVs1mhoGFJsBwBuE8Z_39.750619_-75.526824@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221075,
+    "wof:geomhash":"262e7315a88275a444efc980b0a6860e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":857711861
+        }
+    ],
+    "wof:id":857711861,
+    "wof:lastmodified":1464221075,
+    "wof:name":"K-S Printz Market",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.526824,
+    39.750619,
+    -75.526824,
+    39.750619
+],
+  "geometry": {"coordinates":[-75.526824,39.750619],"type":"Point"}
+}

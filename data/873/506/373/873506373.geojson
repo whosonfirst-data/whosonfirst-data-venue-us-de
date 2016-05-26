@@ -1,0 +1,66 @@
+{
+  "id": 873506373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.498184,38.699308,-75.498184,38.699308",
+    "geom:latitude":38.699308,
+    "geom:longitude":-75.498184,
+    "iso:country":"US",
+    "sg:address":"13049 Seashore Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 0718",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DhJbac6sJaHtTMT3m7993_38.699308_-75.498184@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223211,
+    "wof:geomhash":"ee05a67ffce3626245db5900f7b7ea02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873506373
+        }
+    ],
+    "wof:id":873506373,
+    "wof:lastmodified":1464223211,
+    "wof:name":"Perez Market",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.498184,
+    38.699308,
+    -75.498184,
+    38.699308
+],
+  "geometry": {"coordinates":[-75.49818399999999,38.699308],"type":"Point"}
+}

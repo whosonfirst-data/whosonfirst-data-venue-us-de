@@ -1,0 +1,87 @@
+{
+  "id": 873520359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547833,39.809139,-75.547833,39.809139",
+    "geom:latitude":39.809139,
+    "geom:longitude":-75.547833,
+    "iso:country":"US",
+    "sg:address":"3620 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 2626",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "individual",
+        "family",
+        "psychologist",
+        "therapist",
+        "marriage",
+        "child",
+        "counselor"
+    ],
+    "sg:website":"http://www.donnahilton.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WqSBnGV7XL6gKvjambtRJ_39.809139_-75.547833@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223898,
+    "wof:geomhash":"578ffc0bb1d6124bc71865ec0297465e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520359
+        }
+    ],
+    "wof:id":873520359,
+    "wof:lastmodified":1464223898,
+    "wof:name":"Donna J. Hilton, PhD",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "individual",
+        "family",
+        "psychologist",
+        "therapist",
+        "marriage",
+        "child",
+        "counselor"
+    ]
+},
+  "bbox": [
+    -75.547833,
+    39.809139,
+    -75.547833,
+    39.809139
+],
+  "geometry": {"coordinates":[-75.547833,39.809139],"type":"Point"}
+}

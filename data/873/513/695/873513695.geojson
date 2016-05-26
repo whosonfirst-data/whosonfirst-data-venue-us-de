@@ -1,0 +1,72 @@
+{
+  "id": 873513695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565048,38.925176,-75.565048,38.925176",
+    "geom:latitude":38.925176,
+    "geom:longitude":-75.565048,
+    "iso:country":"US",
+    "sg:address":"1000 Midway Dr",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/harrington/109715-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 6100",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1d93wpdp94ipGUlKM6gIQD_38.925176_-75.565048@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223543,
+    "wof:geomhash":"19b63acc86f456f2ec30e4347eebd9ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873513695
+        }
+    ],
+    "wof:id":873513695,
+    "wof:lastmodified":1464223543,
+    "wof:name":"Subway",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.565048,
+    38.925176,
+    -75.565048,
+    38.925176
+],
+  "geometry": {"coordinates":[-75.565048,38.925176],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857734729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55701,39.162846,-75.55701,39.162846",
+    "geom:latitude":39.162846,
+    "geom:longitude":-75.55701,
+    "iso:country":"US",
+    "sg:address":"327 Stonebrook Pl",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 0866",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "embalming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69km0sEJBVikFzfrtic0eV_39.162846_-75.557010@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221534,
+    "wof:geomhash":"7e841baf9a83bb17ccc7377c9db3796e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":857734729
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":857734729
+        }
+    ],
+    "wof:id":857734729,
+    "wof:lastmodified":1464221534,
+    "wof:name":"First State Funeral Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "embalming"
+    ]
+},
+  "bbox": [
+    -75.55701,
+    39.162846,
+    -75.55701,
+    39.162846
+],
+  "geometry": {"coordinates":[-75.55701000000001,39.162846],"type":"Point"}
+}

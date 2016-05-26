@@ -1,0 +1,69 @@
+{
+  "id": 873508405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567401,38.979135,-75.567401,38.979135",
+    "geom:latitude":38.979135,
+    "geom:longitude":-75.567401,
+    "iso:country":"US",
+    "sg:address":"13326 S Dupont Hwy",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 3100",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "crane"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IV673avOw7NBLITnmP2fw_38.979135_-75.567401@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223305,
+    "wof:geomhash":"e886af90d04d184534c57d2552111f71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873508405
+        }
+    ],
+    "wof:id":873508405,
+    "wof:lastmodified":1464223305,
+    "wof:name":"First State Crane Svc Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crane"
+    ]
+},
+  "bbox": [
+    -75.567401,
+    38.979135,
+    -75.567401,
+    38.979135
+],
+  "geometry": {"coordinates":[-75.567401,38.979135],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873474331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522335,39.148026,-75.522335,39.148026",
+    "geom:latitude":39.148026,
+    "geom:longitude":-75.522335,
+    "iso:country":"US",
+    "sg:address":"955 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 1690",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ln3AEQWneUPbgOmQxIii0_39.148026_-75.522335@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221892,
+    "wof:geomhash":"f2014d61b2c2ba530bf525bd0c3f55db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873474331
+        }
+    ],
+    "wof:id":873474331,
+    "wof:lastmodified":1464221892,
+    "wof:name":"South Dover Elementary School",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.522335,
+    39.148026,
+    -75.522335,
+    39.148026
+],
+  "geometry": {"coordinates":[-75.522335,39.148026],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873518359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59798,39.754779,-75.59798,39.754779",
+    "geom:latitude":39.754779,
+    "geom:longitude":-75.59798,
+    "iso:country":"US",
+    "sg:address":"70 Court Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 668 1854",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o1693HionwbHepFsMQBbI_39.754779_-75.597980@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223808,
+    "wof:geomhash":"86f604b96fae9b537048787395e46c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518359
+        }
+    ],
+    "wof:id":873518359,
+    "wof:lastmodified":1464223808,
+    "wof:name":"Lancaster Court Apartments",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -75.59798,
+    39.754779,
+    -75.59798,
+    39.754779
+],
+  "geometry": {"coordinates":[-75.59798000000001,39.754779],"type":"Point"}
+}

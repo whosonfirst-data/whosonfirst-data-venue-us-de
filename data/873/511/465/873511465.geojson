@@ -1,0 +1,71 @@
+{
+  "id": 873511465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.506401,39.802898,-75.506401,39.802898",
+    "geom:latitude":39.802898,
+    "geom:longitude":-75.506401,
+    "iso:country":"US",
+    "sg:address":"2209 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 2000",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "watch"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hSApJ5O3qc8MzoKE7d2y4_39.803473_-75.507120@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223440,
+    "wof:geomhash":"f05cc3244205b731768f2bc7c2c84194",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873511465
+        }
+    ],
+    "wof:id":873511465,
+    "wof:lastmodified":1464223440,
+    "wof:name":"Continental Jewelers Inc",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "watch"
+    ]
+},
+  "bbox": [
+    -75.506401,
+    39.802898,
+    -75.506401,
+    39.802898
+],
+  "geometry": {"coordinates":[-75.506401,39.802898],"type":"Point"}
+}

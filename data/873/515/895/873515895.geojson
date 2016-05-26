@@ -1,0 +1,73 @@
+{
+  "id": 873515895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.693642,39.690811,-75.693642,39.690811",
+    "geom:latitude":39.690811,
+    "geom:longitude":-75.693642,
+    "iso:country":"US",
+    "sg:address":"201 Ruthar Dr Ste 5",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 9742",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurse",
+        "practice-arnp",
+        "nurses-advanced"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bVDs2x1lFX6Aja90abndv_39.690811_-75.693642@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223659,
+    "wof:geomhash":"ebe36802926656cf1e0f193441a2f523",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873515895
+        }
+    ],
+    "wof:id":873515895,
+    "wof:lastmodified":1464223659,
+    "wof:name":"Neuro Care Total Care",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "practice-arnp",
+        "nurses-advanced"
+    ]
+},
+  "bbox": [
+    -75.693642,
+    39.690811,
+    -75.693642,
+    39.690811
+],
+  "geometry": {"coordinates":[-75.693642,39.690811],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873515723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.715683,39.684324,-75.715683,39.684324",
+    "geom:latitude":39.684324,
+    "geom:longitude":-75.715683,
+    "iso:country":"US",
+    "sg:address":"1001 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 6000",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "packaging",
+        "materials-wholesale",
+        "material",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r44oPc4pmmZLiDZ2I60XQ_39.684324_-75.715683@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223653,
+    "wof:geomhash":"afb6c9ab36eae3ac0408094a2b7a6612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515723
+        }
+    ],
+    "wof:id":873515723,
+    "wof:lastmodified":1464223653,
+    "wof:name":"Inland Paperboard & Packaging",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "materials-wholesale",
+        "material",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.715683,
+    39.684324,
+    -75.715683,
+    39.684324
+],
+  "geometry": {"coordinates":[-75.715683,39.684324],"type":"Point"}
+}

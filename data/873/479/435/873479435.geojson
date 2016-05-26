@@ -1,0 +1,73 @@
+{
+  "id": 873479435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.110043,38.557179,-75.110043,38.557179",
+    "geom:latitude":38.557179,
+    "geom:longitude":-75.110043,
+    "iso:country":"US",
+    "sg:address":"3 Oak St",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 1919",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "designer",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FPjYTAPaTfjsJDHeoRoks_38.557179_-75.110043@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222082,
+    "wof:geomhash":"f5c1e34d59ef21e190c392aa83226c0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873479435
+        }
+    ],
+    "wof:id":873479435,
+    "wof:lastmodified":1464222082,
+    "wof:name":"Land Design Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -75.110043,
+    38.557179,
+    -75.110043,
+    38.557179
+],
+  "geometry": {"coordinates":[-75.110043,38.557179],"type":"Point"}
+}

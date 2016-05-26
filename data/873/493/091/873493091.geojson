@@ -1,0 +1,73 @@
+{
+  "id": 873493091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626649,39.732705,-75.626649,39.732705",
+    "geom:latitude":39.732705,
+    "geom:longitude":-75.626649,
+    "iso:country":"US",
+    "sg:address":"3318 Elizabeth Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 0900",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gtQBzdanSFCR73TGQ8nCD_39.732705_-75.626649@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222610,
+    "wof:geomhash":"cd295b7042a4caeba87b612cde1f609e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873493091
+        }
+    ],
+    "wof:id":873493091,
+    "wof:lastmodified":1464222610,
+    "wof:name":"Security Alarm Monitoring Svc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alarm",
+        "burglar",
+        "system"
+    ]
+},
+  "bbox": [
+    -75.626649,
+    39.732705,
+    -75.626649,
+    39.732705
+],
+  "geometry": {"coordinates":[-75.626649,39.732705],"type":"Point"}
+}

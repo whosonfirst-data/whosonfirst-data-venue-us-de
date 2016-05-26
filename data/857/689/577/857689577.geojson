@@ -1,0 +1,75 @@
+{
+  "id": 857689577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.323315,38.685037,-75.323315,38.685037",
+    "geom:latitude":38.685037,
+    "geom:longitude":-75.323315,
+    "iso:country":"US",
+    "sg:address":"24400 Springfield Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 4080",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EVeaOBzm2j8V0RZfap9fP_38.685037_-75.323315@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220609,
+    "wof:geomhash":"9635eadccaf0b0de73bf9394b8a87d4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857689577
+        }
+    ],
+    "wof:id":857689577,
+    "wof:lastmodified":1464220609,
+    "wof:name":"Thompson Electric Svc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.323315,
+    38.685037,
+    -75.323315,
+    38.685037
+],
+  "geometry": {"coordinates":[-75.32331499999999,38.685037],"type":"Point"}
+}

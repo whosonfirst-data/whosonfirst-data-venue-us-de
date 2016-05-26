@@ -1,0 +1,71 @@
+{
+  "id": 873490245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746204,39.687065,-75.746204,39.687065",
+    "geom:latitude":39.687065,
+    "geom:longitude":-75.746204,
+    "iso:country":"US",
+    "sg:address":"289 E Cleveland Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 9300",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68n4fJ2slZc0pCQkxb9QA1_39.687065_-75.746204@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222504,
+    "wof:geomhash":"b05eef1eb36773e11625956babdafa25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873490245
+        }
+    ],
+    "wof:id":873490245,
+    "wof:lastmodified":1464222504,
+    "wof:name":"Martin Dealership",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.746204,
+    39.687065,
+    -75.746204,
+    39.687065
+],
+  "geometry": {"coordinates":[-75.74620400000001,39.687065],"type":"Point"}
+}

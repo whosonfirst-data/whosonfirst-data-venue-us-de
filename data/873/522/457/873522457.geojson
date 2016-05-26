@@ -1,0 +1,73 @@
+{
+  "id": 873522457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543608,39.152953,-75.543608,39.152953",
+    "geom:latitude":39.152953,
+    "geom:longitude":-75.543608,
+    "iso:country":"US",
+    "sg:address":"250 Beiser Blvd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5437",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pediatric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4b1vyUsZbP2rxR3GvVMosx_39.152953_-75.543608@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223987,
+    "wof:geomhash":"b4676386567ca7207c175f565083a217",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873522457
+        }
+    ],
+    "wof:id":873522457,
+    "wof:lastmodified":1464223987,
+    "wof:name":"Louie Lawrence A DMD",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pediatric"
+    ]
+},
+  "bbox": [
+    -75.543608,
+    39.152953,
+    -75.543608,
+    39.152953
+],
+  "geometry": {"coordinates":[-75.54360800000001,39.152953],"type":"Point"}
+}

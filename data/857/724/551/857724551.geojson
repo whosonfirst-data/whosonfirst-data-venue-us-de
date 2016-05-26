@@ -1,0 +1,73 @@
+{
+  "id": 857724551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.712336,39.77593,-75.712336,39.77593",
+    "geom:latitude":39.77593,
+    "geom:longitude":-75.712336,
+    "iso:country":"US",
+    "sg:address":"306 Lantana Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 3275",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85827779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b7mPci7bzvKWnT22OQ1ga_39.775930_-75.712336@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221334,
+    "wof:geomhash":"cb2b3bd35f57b46bfc12cdd20f2086c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85827779,
+            "region_id":85688611,
+            "venue_id":857724551
+        }
+    ],
+    "wof:id":857724551,
+    "wof:lastmodified":1464221334,
+    "wof:name":"Lantana Veterinary Ctr",
+    "wof:parent_id":85827779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -75.712336,
+    39.77593,
+    -75.712336,
+    39.77593
+],
+  "geometry": {"coordinates":[-75.71233599999999,39.77593],"type":"Point"}
+}

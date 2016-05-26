@@ -1,0 +1,73 @@
+{
+  "id": 857687439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556422,39.740387,-75.556422,39.740387",
+    "geom:latitude":39.740387,
+    "geom:longitude":-75.556422,
+    "iso:country":"US",
+    "sg:address":"400 W 2nd St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 4593",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1N8cWlpshr4iJIv7OXGlsl_39.740387_-75.556422@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220567,
+    "wof:geomhash":"adfd1c0bc29ff5c6887a3d5ec4905e45",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":857687439
+        }
+    ],
+    "wof:id":857687439,
+    "wof:lastmodified":1464220567,
+    "wof:name":"Wilmington Fire Station 1",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -75.556422,
+    39.740387,
+    -75.556422,
+    39.740387
+],
+  "geometry": {"coordinates":[-75.556422,39.740387],"type":"Point"}
+}

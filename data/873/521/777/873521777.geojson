@@ -1,0 +1,70 @@
+{
+  "id": 873521777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522522,39.143123,-75.522522,39.143123",
+    "geom:latitude":39.143123,
+    "geom:longitude":-75.522522,
+    "iso:country":"US",
+    "sg:address":"1215 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 1170",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.walgreens.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dBPrCrPGrRLdmJhPPj0vW_39.143123_-75.522522@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223954,
+    "wof:geomhash":"2c0049f8a962e5ba3731b7c43128eee3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873521777
+        }
+    ],
+    "wof:id":873521777,
+    "wof:lastmodified":1464223954,
+    "wof:name":"Happy Harry's A Walgreens Pharmacy",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -75.522522,
+    39.143123,
+    -75.522522,
+    39.143123
+],
+  "geometry": {"coordinates":[-75.522522,39.143123],"type":"Point"}
+}

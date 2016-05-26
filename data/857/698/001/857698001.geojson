@@ -1,0 +1,73 @@
+{
+  "id": 857698001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.386293,38.69141,-75.386293,38.69141",
+    "geom:latitude":38.69141,
+    "geom:longitude":-75.386293,
+    "iso:country":"US",
+    "sg:address":"1 E Laurel St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6033",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vWOBxna4qfbRsTAdapfCl_38.691410_-75.386293@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220773,
+    "wof:geomhash":"91bacce3472183177f19e59953d683f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857698001
+        }
+    ],
+    "wof:id":857698001,
+    "wof:lastmodified":1464220773,
+    "wof:name":"Cooperative Mortgage",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -75.386293,
+    38.69141,
+    -75.386293,
+    38.69141
+],
+  "geometry": {"coordinates":[-75.38629299999999,38.69141],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873513947,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547815,39.800262,-75.547815,39.800262",
+    "geom:latitude":39.800262,
+    "geom:longitude":-75.547815,
+    "iso:country":"US",
+    "sg:address":"3209b Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/233137-manhattan-bagel/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0700",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bagel",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LkCUGNuf3cfrwL2cYXzDv_39.801096_-75.547883@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223558,
+    "wof:geomhash":"504bc8cc8f81538c018b243c2ba373cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873513947
+        }
+    ],
+    "wof:id":873513947,
+    "wof:lastmodified":1464223558,
+    "wof:name":"Manhattan Bagel",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.547815,
+    39.800262,
+    -75.547815,
+    39.800262
+],
+  "geometry": {"coordinates":[-75.547815,39.800262],"type":"Point"}
+}

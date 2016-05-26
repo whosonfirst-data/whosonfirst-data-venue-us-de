@@ -1,0 +1,73 @@
+{
+  "id": 873500457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.309749,38.590577,-75.309749,38.590577",
+    "geom:latitude":38.590577,
+    "geom:longitude":-75.309749,
+    "iso:country":"US",
+    "sg:address":"178 Oak Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 3474",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "party",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aqhAKbe5YJJXjoj90zxXG_38.590577_-75.309749@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222955,
+    "wof:geomhash":"781921b271ce7dd05a174d8fe815dd3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873500457
+        }
+    ],
+    "wof:id":873500457,
+    "wof:lastmodified":1464222955,
+    "wof:name":"Captain Tom's Sport Fishing",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -75.309749,
+    38.590577,
+    -75.309749,
+    38.590577
+],
+  "geometry": {"coordinates":[-75.309749,38.590577],"type":"Point"}
+}

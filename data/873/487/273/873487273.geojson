@@ -1,0 +1,73 @@
+{
+  "id": 873487273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.663187,39.642086,-75.663187,39.642086",
+    "geom:latitude":39.642086,
+    "geom:longitude":-75.663187,
+    "iso:country":"US",
+    "sg:address":"1 Songsmith Dr",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 838 1500",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "kindergarten",
+        "provides",
+        "private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53Gfva0BiRuTaBiZdawUpP_39.642086_-75.663187@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222389,
+    "wof:geomhash":"0963e7bec8b1a54a1fd71ea29dbc1088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873487273
+        }
+    ],
+    "wof:id":873487273,
+    "wof:lastmodified":1464222389,
+    "wof:name":"Great New Beginnings Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "provides",
+        "private"
+    ]
+},
+  "bbox": [
+    -75.663187,
+    39.642086,
+    -75.663187,
+    39.642086
+],
+  "geometry": {"coordinates":[-75.66318699999999,39.642086],"type":"Point"}
+}

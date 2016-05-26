@@ -1,0 +1,83 @@
+{
+  "id": 873467367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.53719,39.734856,-75.53719,39.734856",
+    "geom:latitude":39.734856,
+    "geom:longitude":-75.53719,
+    "iso:country":"US",
+    "sg:address":"35 Commerce St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 1560",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63u3eXWRX0SzKpHUslgXUr_39.734856_-75.537190@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221631,
+    "wof:geomhash":"433dda9e7a4a52dd40970d29992d9424",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873467367
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":873467367
+        }
+    ],
+    "wof:id":873467367,
+    "wof:lastmodified":1464221631,
+    "wof:name":"R J Casho Towing Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -75.53719,
+    39.734856,
+    -75.53719,
+    39.734856
+],
+  "geometry": {"coordinates":[-75.53719,39.734856],"type":"Point"}
+}

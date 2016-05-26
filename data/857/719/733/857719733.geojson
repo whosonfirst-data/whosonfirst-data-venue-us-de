@@ -1,0 +1,73 @@
+{
+  "id": 857719733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.638129,38.72691,-75.638129,38.72691",
+    "geom:latitude":38.72691,
+    "geom:longitude":-75.638129,
+    "iso:country":"US",
+    "sg:address":"6472 Federalsburg Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 7566",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qcNxMJZDwANPPR0ENEQRA_38.726910_-75.638129@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221245,
+    "wof:geomhash":"bc6ba3d294f3e94c4655668c9ba03a79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":857719733
+        }
+    ],
+    "wof:id":857719733,
+    "wof:lastmodified":1464221245,
+    "wof:name":"Ken's Electric",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.638129,
+    38.72691,
+    -75.638129,
+    38.72691
+],
+  "geometry": {"coordinates":[-75.63812900000001,38.72691],"type":"Point"}
+}

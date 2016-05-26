@@ -1,0 +1,72 @@
+{
+  "id": 873523581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.583801,39.092899,-75.583801,39.092899",
+    "geom:latitude":39.092899,
+    "geom:longitude":-75.583801,
+    "iso:country":"US",
+    "sg:address":"RR 10",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 9038",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home"
+    ],
+    "sg:website":"www.merrymaids.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RLgRXKZYGDSxjXV7Ai5fr_39.092899_-75.583801@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224025,
+    "wof:geomhash":"5b84fa0be9199299400e6af599e54c5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523581
+        }
+    ],
+    "wof:id":873523581,
+    "wof:lastmodified":1464224025,
+    "wof:name":"Merry Maids",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home"
+    ]
+},
+  "bbox": [
+    -75.583801,
+    39.092899,
+    -75.583801,
+    39.092899
+],
+  "geometry": {"coordinates":[-75.58380099999999,39.092899],"type":"Point"}
+}

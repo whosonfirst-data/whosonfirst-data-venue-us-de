@@ -1,0 +1,75 @@
+{
+  "id": 857698525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.309584,38.590448,-75.309584,38.590448",
+    "geom:latitude":38.590448,
+    "geom:longitude":-75.309584,
+    "iso:country":"US",
+    "sg:address":"151 Oak Dr",
+    "sg:city":"Cheswold",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 0530",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ready",
+        "concrete",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sIKjgCMShEvuf9Fd0a7JJ_38.590448_-75.309584@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220783,
+    "wof:geomhash":"5bff1770a01572b34084e125d99aac96",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857698525
+        }
+    ],
+    "wof:id":857698525,
+    "wof:lastmodified":1464220783,
+    "wof:name":"Atlantic Concrete",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "concrete",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.309584,
+    38.590448,
+    -75.309584,
+    38.590448
+],
+  "geometry": {"coordinates":[-75.309584,38.590448],"type":"Point"}
+}

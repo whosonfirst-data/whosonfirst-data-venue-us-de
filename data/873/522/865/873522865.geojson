@@ -1,0 +1,76 @@
+{
+  "id": 873522865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532181,39.142466,-75.532181,39.142466",
+    "geom:latitude":39.142466,
+    "geom:longitude":-75.532181,
+    "iso:country":"US",
+    "sg:address":"1155 Woodsedge Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 1044",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wVl12LhXqsrqHjhMolUrK_39.142466_-75.532181@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224001,
+    "wof:geomhash":"0210ebe04b7f4fb8db5d09f9bc73396c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873522865
+        }
+    ],
+    "wof:id":873522865,
+    "wof:lastmodified":1464224001,
+    "wof:name":"Stoneback Realty Company",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.532181,
+    39.142466,
+    -75.532181,
+    39.142466
+],
+  "geometry": {"coordinates":[-75.53218099999999,39.142466],"type":"Point"}
+}

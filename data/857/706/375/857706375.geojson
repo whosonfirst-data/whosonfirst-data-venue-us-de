@@ -1,0 +1,73 @@
+{
+  "id": 857706375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.619768,38.64764,-75.619768,38.64764",
+    "geom:latitude":38.64764,
+    "geom:longitude":-75.619768,
+    "iso:country":"US",
+    "sg:address":"216 Tulip Pl",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 4134",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kc48ssYb0PTNpKIJOL67y_38.647640_-75.619768@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220938,
+    "wof:geomhash":"0be777931d33663fba67f6d1c9f5a3e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":857706375
+        }
+    ],
+    "wof:id":857706375,
+    "wof:lastmodified":1464220938,
+    "wof:name":"Greenside Manor",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.619768,
+    38.64764,
+    -75.619768,
+    38.64764
+],
+  "geometry": {"coordinates":[-75.61976799999999,38.64764],"type":"Point"}
+}

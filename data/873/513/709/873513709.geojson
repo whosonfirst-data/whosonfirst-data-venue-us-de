@@ -1,0 +1,70 @@
+{
+  "id": 873513709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.157956,38.747519,-75.157956,38.747519",
+    "geom:latitude":38.747519,
+    "geom:longitude":-75.157956,
+    "iso:country":"US",
+    "sg:address":"1602 Hwy 1",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lewes/41753-bob-evans/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 0871",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G0w7frasDAHfip2qgQzhA_38.747519_-75.157956@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223544,
+    "wof:geomhash":"adcdbb07011bac1a4c13ed45896c6011",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873513709
+        }
+    ],
+    "wof:id":873513709,
+    "wof:lastmodified":1464223544,
+    "wof:name":"Bob Evans",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.157956,
+    38.747519,
+    -75.157956,
+    38.747519
+],
+  "geometry": {"coordinates":[-75.157956,38.747519],"type":"Point"}
+}

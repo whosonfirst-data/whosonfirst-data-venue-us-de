@@ -1,0 +1,71 @@
+{
+  "id": 857715875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.730313,39.687227,-75.730313,39.687227",
+    "geom:latitude":39.687227,
+    "geom:longitude":-75.730313,
+    "iso:country":"US",
+    "sg:address":"395 Stafford Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 7333",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z5uUvHlO470Bn7ibYoT1t_39.687227_-75.730313@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221163,
+    "wof:geomhash":"3324b239c7c5210fccba714dbc0a25c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857715875
+        }
+    ],
+    "wof:id":857715875,
+    "wof:lastmodified":1464221163,
+    "wof:name":"Allstate Electric Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.730313,
+    39.687227,
+    -75.730313,
+    39.687227
+],
+  "geometry": {"coordinates":[-75.730313,39.687227],"type":"Point"}
+}

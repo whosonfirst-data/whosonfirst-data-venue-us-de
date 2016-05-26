@@ -1,0 +1,71 @@
+{
+  "id": 873504709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.612215,39.74,-75.612215,39.74",
+    "geom:latitude":39.74,
+    "geom:longitude":-75.612215,
+    "iso:country":"US",
+    "sg:address":"2319 Frederick Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 2455",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rLrhWByRuQQjMxRcAQCEY_39.740000_-75.612215@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223140,
+    "wof:geomhash":"6805ed8d82eeda46f2901104354699d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873504709
+        }
+    ],
+    "wof:id":873504709,
+    "wof:lastmodified":1464223140,
+    "wof:name":"Jack Parisi Tile Co",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.612215,
+    39.74,
+    -75.612215,
+    39.74
+],
+  "geometry": {"coordinates":[-75.61221500000001,39.74],"type":"Point"}
+}

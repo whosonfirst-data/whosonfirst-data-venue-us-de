@@ -1,0 +1,71 @@
+{
+  "id": 873517805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550725,39.81354,-75.550725,39.81354",
+    "geom:latitude":39.81354,
+    "geom:longitude":-75.550725,
+    "iso:country":"US",
+    "sg:address":"1 Righter Pkwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 9230",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wDBrqVPrrGEXnvF7hB2aK_39.813540_-75.550725@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223782,
+    "wof:geomhash":"60bee7642c8295c4620d4d5907900686",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517805
+        }
+    ],
+    "wof:id":873517805,
+    "wof:lastmodified":1464223782,
+    "wof:name":"Huntington Mortgage Company",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.550725,
+    39.81354,
+    -75.550725,
+    39.81354
+],
+  "geometry": {"coordinates":[-75.550725,39.81354],"type":"Point"}
+}

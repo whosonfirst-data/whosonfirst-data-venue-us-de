@@ -1,0 +1,81 @@
+{
+  "id": 873515989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.715683,39.684324,-75.715683,39.684324",
+    "geom:latitude":39.684324,
+    "geom:longitude":-75.715683,
+    "iso:country":"US",
+    "sg:address":"1851 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 974 9779",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "used",
+        "new",
+        "car"
+    ],
+    "sg:website":"http://national.citysearch.com/profile/external/653751750/newark_de/winner_porsche.html?publisher=yellowpages&reference_id=15&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dB3u4eMyqxY802TQaAH8n_39.684324_-75.715683@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223662,
+    "wof:geomhash":"afb6c9ab36eae3ac0408094a2b7a6612",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515989
+        }
+    ],
+    "wof:id":873515989,
+    "wof:lastmodified":1464223662,
+    "wof:name":"Winner Porsche",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "used",
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.715683,
+    39.684324,
+    -75.715683,
+    39.684324
+],
+  "geometry": {"coordinates":[-75.715683,39.684324],"type":"Point"}
+}

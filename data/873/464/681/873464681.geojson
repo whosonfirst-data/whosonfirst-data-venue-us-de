@@ -1,0 +1,75 @@
+{
+  "id": 873464681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.628023,39.215413,-75.628023,39.215413",
+    "geom:latitude":39.215413,
+    "geom:longitude":-75.628023,
+    "iso:country":"US",
+    "sg:address":"2317 Seven Hickories Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 2211",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "water",
+        "well",
+        "drilling"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vTiKeuyth6e5kIzbWtP3v_39.215413_-75.628023@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221562,
+    "wof:geomhash":"d8f5c8839ed861e739f2aefefc331f00",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873464681
+        }
+    ],
+    "wof:id":873464681,
+    "wof:lastmodified":1464221562,
+    "wof:name":"John's Well Drilling Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "well",
+        "drilling"
+    ]
+},
+  "bbox": [
+    -75.628023,
+    39.215413,
+    -75.628023,
+    39.215413
+],
+  "geometry": {"coordinates":[-75.628023,39.215413],"type":"Point"}
+}

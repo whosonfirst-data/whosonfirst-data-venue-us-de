@@ -1,0 +1,74 @@
+{
+  "id": 873501001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.778224,39.633475,-75.778224,39.633475",
+    "geom:latitude":39.633475,
+    "geom:longitude":-75.778224,
+    "iso:country":"US",
+    "sg:address":"1654 Otts Chapel Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 5514",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HsUv6CMDIHFZ86rMAUqJk_39.633475_-75.778224@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222988,
+    "wof:geomhash":"2e3ab525a48aca2c5547f372a0ca8279",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873501001
+        }
+    ],
+    "wof:id":873501001,
+    "wof:lastmodified":1464222988,
+    "wof:name":"Primary Colors Painting Co Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -75.778224,
+    39.633475,
+    -75.778224,
+    39.633475
+],
+  "geometry": {"coordinates":[-75.77822399999999,39.633475],"type":"Point"}
+}

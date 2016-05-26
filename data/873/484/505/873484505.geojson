@@ -1,0 +1,71 @@
+{
+  "id": 873484505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545448,39.034457,-75.545448,39.034457",
+    "geom:latitude":39.034457,
+    "geom:longitude":-75.545448,
+    "iso:country":"US",
+    "sg:address":"101 Vineyard Ln",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 1313",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YuxMVJaBHr7OmeZUpQ8sz_39.034457_-75.545448@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222288,
+    "wof:geomhash":"f110b7ba3fa7db547cb0b9f4f6aa1405",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873484505
+        }
+    ],
+    "wof:id":873484505,
+    "wof:lastmodified":1464222288,
+    "wof:name":"Collins Lawn & Land Svc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.545448,
+    39.034457,
+    -75.545448,
+    39.034457
+],
+  "geometry": {"coordinates":[-75.54544799999999,39.034457],"type":"Point"}
+}

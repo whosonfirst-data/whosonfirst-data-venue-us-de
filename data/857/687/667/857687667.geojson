@@ -1,0 +1,69 @@
+{
+  "id": 857687667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545917,39.786603,-75.545917,39.786603",
+    "geom:latitude":39.786603,
+    "geom:longitude":-75.545917,
+    "iso:country":"US",
+    "sg:address":"2215 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 7610",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Dmt3Hd4tb05xwm1DoPNUm_39.786603_-75.545917@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220572,
+    "wof:geomhash":"6511c05587e764d8d1149a205419b8e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":857687667
+        }
+    ],
+    "wof:id":857687667,
+    "wof:lastmodified":1464220572,
+    "wof:name":"Fairfax Liquors Inc",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.545917,
+    39.786603,
+    -75.545917,
+    39.786603
+],
+  "geometry": {"coordinates":[-75.545917,39.786603],"type":"Point"}
+}

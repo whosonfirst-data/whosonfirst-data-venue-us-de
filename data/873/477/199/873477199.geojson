@@ -1,0 +1,71 @@
+{
+  "id": 873477199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610294,38.744694,-75.610294,38.744694",
+    "geom:latitude":38.744694,
+    "geom:longitude":-75.610294,
+    "iso:country":"US",
+    "sg:address":"10609 Seashore Hwy",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8832",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5xZVPdvA1M0qu3iqo8JtmC_38.744694_-75.610294@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221990,
+    "wof:geomhash":"7636391a08572c208f497a6b2cf4c408",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873477199
+        }
+    ],
+    "wof:id":873477199,
+    "wof:lastmodified":1464221990,
+    "wof:name":"Myer's Grocery",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.610294,
+    38.744694,
+    -75.610294,
+    38.744694
+],
+  "geometry": {"coordinates":[-75.610294,38.744694],"type":"Point"}
+}

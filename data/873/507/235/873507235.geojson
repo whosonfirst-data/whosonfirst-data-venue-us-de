@@ -1,0 +1,73 @@
+{
+  "id": 873507235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548236,39.757336,-75.548236,39.757336",
+    "geom:latitude":39.757336,
+    "geom:longitude":-75.548236,
+    "iso:country":"US",
+    "sg:address":"611 W 18th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 5457",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6myL42IlbQJbQXg7pCRaQe_39.757336_-75.548236@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223246,
+    "wof:geomhash":"4223e4f653ff692cba89c8c62795816b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888517,
+            "region_id":85688611,
+            "venue_id":873507235
+        }
+    ],
+    "wof:id":873507235,
+    "wof:lastmodified":1464223246,
+    "wof:name":"First State Cleaning Inc",
+    "wof:parent_id":85888517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.548236,
+    39.757336,
+    -75.548236,
+    39.757336
+],
+  "geometry": {"coordinates":[-75.548236,39.757336],"type":"Point"}
+}

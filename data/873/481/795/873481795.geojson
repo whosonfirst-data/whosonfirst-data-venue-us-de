@@ -1,0 +1,76 @@
+{
+  "id": 873481795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658198,39.73361,-75.658198,39.73361",
+    "geom:latitude":39.73361,
+    "geom:longitude":-75.658198,
+    "iso:country":"US",
+    "sg:address":"907 Milltown Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0211",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3xZ0ixMIo9wgeqtrocs8Um_39.733610_-75.658198@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222187,
+    "wof:geomhash":"f8138c4c49c5a7201162c836735c4bea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873481795
+        }
+    ],
+    "wof:id":873481795,
+    "wof:lastmodified":1464222187,
+    "wof:name":"Saint John The Beloved",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "church"
+    ]
+},
+  "bbox": [
+    -75.658198,
+    39.73361,
+    -75.658198,
+    39.73361
+],
+  "geometry": {"coordinates":[-75.658198,39.73361],"type":"Point"}
+}

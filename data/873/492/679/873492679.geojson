@@ -1,0 +1,73 @@
+{
+  "id": 873492679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546655,39.743957,-75.546655,39.743957",
+    "geom:latitude":39.743957,
+    "geom:longitude":-75.546655,
+    "iso:country":"US",
+    "sg:address":"800 N French St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 000 1111",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hMFvxzmoPg4XTBlWyTdOT_39.743957_-75.546655@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222589,
+    "wof:geomhash":"a2c98ab73a383089841f47b99aa9eba9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873492679
+        }
+    ],
+    "wof:id":873492679,
+    "wof:lastmodified":1464222589,
+    "wof:name":"City Ambulance",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -75.546655,
+    39.743957,
+    -75.546655,
+    39.743957
+],
+  "geometry": {"coordinates":[-75.546655,39.743957],"type":"Point"}
+}

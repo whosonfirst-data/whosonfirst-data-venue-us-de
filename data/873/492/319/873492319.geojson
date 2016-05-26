@@ -1,0 +1,75 @@
+{
+  "id": 873492319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548305,39.195479,-75.548305,39.195479",
+    "geom:latitude":39.195479,
+    "geom:longitude":-75.548305,
+    "iso:country":"US",
+    "sg:address":"717 Maxwell St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5347",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1l3OuU7bYuQ3k2B9NLlpto_39.195479_-75.548305@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222577,
+    "wof:geomhash":"dacd6d7af1dad75797b8c28352fbffd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873492319
+        }
+    ],
+    "wof:id":873492319,
+    "wof:lastmodified":1464222577,
+    "wof:name":"Carl's Auto Trim & Glass Shop",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -75.548305,
+    39.195479,
+    -75.548305,
+    39.195479
+],
+  "geometry": {"coordinates":[-75.548305,39.195479],"type":"Point"}
+}

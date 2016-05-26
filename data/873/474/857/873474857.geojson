@@ -1,0 +1,82 @@
+{
+  "id": 873474857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60416,39.713209,-75.60416,39.713209",
+    "geom:latitude":39.713209,
+    "geom:longitude":-75.60416,
+    "iso:country":"US",
+    "sg:address":"464 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6865",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fabricator",
+        "industrial",
+        "sheet",
+        "metalwork",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aov9zfgPyznRkQTxgaXCc_39.713209_-75.604160@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221910,
+    "wof:geomhash":"7e51e1c032747116f8a853a543927da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873474857
+        }
+    ],
+    "wof:id":873474857,
+    "wof:lastmodified":1464221910,
+    "wof:name":"Custom Sheet Metal of Delaware",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "industrial",
+        "sheet",
+        "metalwork",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.60416,
+    39.713209,
+    -75.60416,
+    39.713209
+],
+  "geometry": {"coordinates":[-75.60415999999999,39.713209],"type":"Point"}
+}

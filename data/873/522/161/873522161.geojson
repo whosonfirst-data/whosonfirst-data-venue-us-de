@@ -1,0 +1,83 @@
+{
+  "id": 873522161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526398,39.137299,-75.526398,39.137299",
+    "geom:latitude":39.137299,
+    "geom:longitude":-75.526398,
+    "iso:country":"US",
+    "sg:address":"1378 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 3955",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "used",
+        "leasing",
+        "car",
+        "truck",
+        "new"
+    ],
+    "sg:website":"http://www.hertrichnissan.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LRBHeEcxsLthKKNFJrJSm_39.137299_-75.526398@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223969,
+    "wof:geomhash":"0f6e85c2670f2a714f47e826461a6ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873522161
+        }
+    ],
+    "wof:id":873522161,
+    "wof:lastmodified":1464223969,
+    "wof:name":"Hertrich Nissan Jeep",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "used",
+        "leasing",
+        "car",
+        "truck",
+        "new"
+    ]
+},
+  "bbox": [
+    -75.526398,
+    39.137299,
+    -75.526398,
+    39.137299
+],
+  "geometry": {"coordinates":[-75.526398,39.137299],"type":"Point"}
+}

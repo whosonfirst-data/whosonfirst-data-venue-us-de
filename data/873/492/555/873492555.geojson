@@ -1,0 +1,73 @@
+{
+  "id": 873492555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529419,39.135509,-75.529419,39.135509",
+    "geom:latitude":39.135509,
+    "geom:longitude":-75.529419,
+    "iso:country":"US",
+    "sg:address":"1272 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 3333",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "convenience",
+        "gasoline",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iFG9fHa1iVACpcM06TXX4_39.135509_-75.529419@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222585,
+    "wof:geomhash":"8a9a7067d312c62a5af6b9b8305aeb73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873492555
+        }
+    ],
+    "wof:id":873492555,
+    "wof:lastmodified":1464222585,
+    "wof:name":"Super Soda Center",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "gasoline",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.529419,
+    39.135509,
+    -75.529419,
+    39.135509
+],
+  "geometry": {"coordinates":[-75.529419,39.135509],"type":"Point"}
+}

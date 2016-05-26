@@ -1,0 +1,71 @@
+{
+  "id": 873504877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543944,39.191814,-75.543944,39.191814",
+    "geom:latitude":39.191814,
+    "geom:longitude":-75.543944,
+    "iso:country":"US",
+    "sg:address":"1643 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3383",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00bzcogOLQF3mlmG7sACIB_39.191814_-75.543944@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223152,
+    "wof:geomhash":"9428c2bc5e405af8b333d9cd46a60da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873504877
+        }
+    ],
+    "wof:id":873504877,
+    "wof:lastmodified":1464223152,
+    "wof:name":"Atlantic Women's Medical Svc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -75.543944,
+    39.191814,
+    -75.543944,
+    39.191814
+],
+  "geometry": {"coordinates":[-75.543944,39.191814],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 873523925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.240829,38.51824,-75.240829,38.51824",
+    "geom:latitude":38.51824,
+    "geom:longitude":-75.240829,
+    "iso:country":"US",
+    "sg:address":"34144 Dupont Blvd",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 9823",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "recap",
+        "retread",
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.coopertire.com/html/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YAD60GdYwmajVDy8bi6sr_38.518240_-75.240829@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224037,
+    "wof:geomhash":"10536e45f45b17ab1156bb068dc752d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873523925
+        }
+    ],
+    "wof:id":873523925,
+    "wof:lastmodified":1464224037,
+    "wof:name":"Gray's Mobil Service",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recap",
+        "retread",
+        "tires-wholesale",
+        "tire",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.240829,
+    38.51824,
+    -75.240829,
+    38.51824
+],
+  "geometry": {"coordinates":[-75.24082900000001,38.51824],"type":"Point"}
+}

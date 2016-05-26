@@ -1,0 +1,83 @@
+{
+  "id": 873503063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558105,39.158903,-75.558105,39.158903",
+    "geom:latitude":39.158903,
+    "geom:longitude":-75.558105,
+    "iso:country":"US",
+    "sg:address":"1404 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 3090",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0B9RcTTQ4ptYwx2BYltn3l_39.158903_-75.558105@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223068,
+    "wof:geomhash":"e7bf77c547e6c4fd429ad2667af97cfa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873503063
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873503063
+        }
+    ],
+    "wof:id":873503063,
+    "wof:lastmodified":1464223068,
+    "wof:name":"Tresses Hair Salon",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.558105,
+    39.158903,
+    -75.558105,
+    39.158903
+],
+  "geometry": {"coordinates":[-75.558105,39.158903],"type":"Point"}
+}

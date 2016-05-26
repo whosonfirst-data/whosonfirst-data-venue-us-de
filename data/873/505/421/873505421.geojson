@@ -1,0 +1,69 @@
+{
+  "id": 873505421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.672659,39.668205,-75.672659,39.668205",
+    "geom:latitude":39.668205,
+    "geom:longitude":-75.672659,
+    "iso:country":"US",
+    "sg:address":"300 Chapman Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 1244",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dCN37Nypkr5WdU3kqjWkr_39.668205_-75.672659@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223177,
+    "wof:geomhash":"a3e631294845e8955fd02ade30501ee7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873505421
+        }
+    ],
+    "wof:id":873505421,
+    "wof:lastmodified":1464223177,
+    "wof:name":"Plaza Exxon Svc Ctr",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -75.672659,
+    39.668205,
+    -75.672659,
+    39.668205
+],
+  "geometry": {"coordinates":[-75.672659,39.668205],"type":"Point"}
+}

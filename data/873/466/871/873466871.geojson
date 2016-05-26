@@ -1,0 +1,73 @@
+{
+  "id": 873466871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.600089,38.743759,-75.600089,38.743759",
+    "geom:latitude":38.743759,
+    "geom:longitude":-75.600089,
+    "iso:country":"US",
+    "sg:address":"113 Market St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3299",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iGsJWbuCYlxd21vBK6UQg_38.743759_-75.600089@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221614,
+    "wof:geomhash":"ae687a1152e4552f431c690d45e14559",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873466871
+        }
+    ],
+    "wof:id":873466871,
+    "wof:lastmodified":1464221614,
+    "wof:name":"Crystal Video",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.600089,
+    38.743759,
+    -75.600089,
+    38.743759
+],
+  "geometry": {"coordinates":[-75.600089,38.743759],"type":"Point"}
+}

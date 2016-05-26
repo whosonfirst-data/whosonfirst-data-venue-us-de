@@ -1,0 +1,88 @@
+{
+  "id": 873519083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.677628,39.71077,-75.677628,39.71077",
+    "geom:latitude":39.71077,
+    "geom:longitude":-75.677628,
+    "iso:country":"US",
+    "sg:address":"5909 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 0900",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "telecommunications-equipment",
+        "system",
+        "data",
+        "supply"
+    ],
+    "sg:website":"http://www.alpha-sure.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0caUZtelFMTADdKWc49EpH_39.710770_-75.677628@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223838,
+    "wof:geomhash":"193e2a8aa3a71d81d38969b6d81ad25e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873519083
+        }
+    ],
+    "wof:id":873519083,
+    "wof:lastmodified":1464223838,
+    "wof:name":"Alphasure Technologies",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telecommunications-equipment",
+        "system",
+        "data",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.677628,
+    39.71077,
+    -75.677628,
+    39.71077
+],
+  "geometry": {"coordinates":[-75.677628,39.71077],"type":"Point"}
+}

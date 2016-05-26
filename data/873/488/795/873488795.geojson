@@ -1,0 +1,75 @@
+{
+  "id": 873488795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527805,39.1564,-75.527805,39.1564",
+    "geom:latitude":39.1564,
+    "geom:longitude":-75.527805,
+    "iso:country":"US",
+    "sg:address":"300 S New St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 3308",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "legislative",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XrXmpsue2K9UYOYx49GGf_39.156400_-75.527805@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222450,
+    "wof:geomhash":"13755cda90f89fbfc64f92ee5debb5ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873488795
+        }
+    ],
+    "wof:id":873488795,
+    "wof:lastmodified":1464222450,
+    "wof:name":"Senator Roth",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legislative",
+        "body"
+    ]
+},
+  "bbox": [
+    -75.527805,
+    39.1564,
+    -75.527805,
+    39.1564
+],
+  "geometry": {"coordinates":[-75.527805,39.1564],"type":"Point"}
+}

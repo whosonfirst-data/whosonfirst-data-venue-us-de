@@ -1,0 +1,71 @@
+{
+  "id": 873497581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602197,38.748348,-75.602197,38.748348",
+    "geom:latitude":38.748348,
+    "geom:longitude":-75.602197,
+    "iso:country":"US",
+    "sg:address":"219 1st St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 0145",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76fhAApippFGvqIYOFLMC6_38.748348_-75.602197@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222845,
+    "wof:geomhash":"1155285e4515e49fd02546960e70747a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873497581
+        }
+    ],
+    "wof:id":873497581,
+    "wof:lastmodified":1464222845,
+    "wof:name":"Royals Learning Ctr",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -75.602197,
+    38.748348,
+    -75.602197,
+    38.748348
+],
+  "geometry": {"coordinates":[-75.602197,38.748348],"type":"Point"}
+}

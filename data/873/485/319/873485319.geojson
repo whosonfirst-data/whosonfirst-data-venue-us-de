@@ -1,0 +1,73 @@
+{
+  "id": 873485319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.615156,38.646781,-75.615156,38.646781",
+    "geom:latitude":38.646781,
+    "geom:longitude":-75.615156,
+    "iso:country":"US",
+    "sg:address":"315 E Stein Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 5303",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DDRCpUinYks56dexhcSXi_38.646781_-75.615156@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222318,
+    "wof:geomhash":"95c5909427f0714e030063e9d6410575",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873485319
+        }
+    ],
+    "wof:id":873485319,
+    "wof:lastmodified":1464222318,
+    "wof:name":"Buyers Choice Mortgage Inc",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.615156,
+    38.646781,
+    -75.615156,
+    38.646781
+],
+  "geometry": {"coordinates":[-75.615156,38.646781],"type":"Point"}
+}

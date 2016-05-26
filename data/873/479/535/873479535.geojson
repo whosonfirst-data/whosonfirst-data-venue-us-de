@@ -1,0 +1,73 @@
+{
+  "id": 873479535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.700378,39.695636,-75.700378,39.695636",
+    "geom:latitude":39.695636,
+    "geom:longitude":-75.700378,
+    "iso:country":"US",
+    "sg:address":"126 Mc Cann Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 8016",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3iqMyKVCdgZ4n8RGEZpstm_39.695636_-75.700378@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222087,
+    "wof:geomhash":"9427b1eb12c5502e5de3dda3760ef16e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873479535
+        }
+    ],
+    "wof:id":873479535,
+    "wof:lastmodified":1464222087,
+    "wof:name":"Day's Cleaning Svc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -75.700378,
+    39.695636,
+    -75.700378,
+    39.695636
+],
+  "geometry": {"coordinates":[-75.700378,39.695636],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873502625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.383017,38.69381,-75.383017,38.69381",
+    "geom:latitude":38.69381,
+    "geom:longitude":-75.383017,
+    "iso:country":"US",
+    "sg:address":"101 N King St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9529",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dzwrc43wdzcdWLlrXazYu_38.693810_-75.383017@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223050,
+    "wof:geomhash":"337c5adeaf8e08f5fe11e77e90433fda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873502625
+        }
+    ],
+    "wof:id":873502625,
+    "wof:lastmodified":1464223050,
+    "wof:name":"Georgetown Town Office",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -75.383017,
+    38.69381,
+    -75.383017,
+    38.69381
+],
+  "geometry": {"coordinates":[-75.383017,38.69381],"type":"Point"}
+}

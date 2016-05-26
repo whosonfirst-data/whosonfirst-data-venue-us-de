@@ -1,0 +1,69 @@
+{
+  "id": 873473843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537447,39.810992,-75.537447,39.810992",
+    "geom:latitude":39.810992,
+    "geom:longitude":-75.537447,
+    "iso:country":"US",
+    "sg:address":"8 Quail Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 4195",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2f0bM4yWOQXxCvu7EJwAhI_39.810992_-75.537447@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221875,
+    "wof:geomhash":"5a6884930303ac959c02dd74382c0c5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873473843
+        }
+    ],
+    "wof:id":873473843,
+    "wof:lastmodified":1464221875,
+    "wof:name":"Larry S Paul",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.537447,
+    39.810992,
+    -75.537447,
+    39.810992
+],
+  "geometry": {"coordinates":[-75.537447,39.810992],"type":"Point"}
+}

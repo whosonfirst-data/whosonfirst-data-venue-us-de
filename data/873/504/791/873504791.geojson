@@ -1,0 +1,71 @@
+{
+  "id": 873504791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.405164,38.909933,-75.405164,38.909933",
+    "geom:latitude":38.909933,
+    "geom:longitude":-75.405164,
+    "iso:country":"US",
+    "sg:address":"22 Beaver Dam Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 4027",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y6k8stIe6XXjmkrhLwroE_38.909933_-75.405164@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223145,
+    "wof:geomhash":"90fd2c000b2cc02505a7adb9b5c73a1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873504791
+        }
+    ],
+    "wof:id":873504791,
+    "wof:lastmodified":1464223145,
+    "wof:name":"Chez Service",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.405164,
+    38.909933,
+    -75.405164,
+    38.909933
+],
+  "geometry": {"coordinates":[-75.405164,38.909933],"type":"Point"}
+}

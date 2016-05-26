@@ -1,0 +1,69 @@
+{
+  "id": 873483239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.751441,39.596345,-75.751441,39.596345",
+    "geom:latitude":39.596345,
+    "geom:longitude":-75.751441,
+    "iso:country":"US",
+    "sg:address":"15 Melody Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 1223",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "vitamin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LtFZL6pTGP7WlO3R7hEnz_39.596345_-75.751441@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222238,
+    "wof:geomhash":"f28e6b5fb82f4822b102742122610b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873483239
+        }
+    ],
+    "wof:id":873483239,
+    "wof:lastmodified":1464222238,
+    "wof:name":"Maria T Miller Hlth Supplement",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vitamin"
+    ]
+},
+  "bbox": [
+    -75.751441,
+    39.596345,
+    -75.751441,
+    39.596345
+],
+  "geometry": {"coordinates":[-75.751441,39.596345],"type":"Point"}
+}

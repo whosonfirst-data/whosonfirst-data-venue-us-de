@@ -1,0 +1,73 @@
+{
+  "id": 873484909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.711007,39.64705,-75.711007,39.64705",
+    "geom:latitude":39.64705,
+    "geom:longitude":-75.711007,
+    "iso:country":"US",
+    "sg:address":"644 Old Baltimore Pike",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 5879",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MIRAmAUuSyxY8rW5lbvec_39.647050_-75.711007@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222302,
+    "wof:geomhash":"8c66b25a8f5584699498380616a246d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873484909
+        }
+    ],
+    "wof:id":873484909,
+    "wof:lastmodified":1464222302,
+    "wof:name":"Village Service and Repair",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.711007,
+    39.64705,
+    -75.711007,
+    39.64705
+],
+  "geometry": {"coordinates":[-75.711007,39.64705],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 857726207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557195,39.167002,-75.557195,39.167002",
+    "geom:latitude":39.167002,
+    "geom:longitude":-75.557195,
+    "iso:country":"US",
+    "sg:address":"1225 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 8181",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "skill",
+        "clinic",
+        "outpatient",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859501,
+        85823075
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KbuMXkHr7Iot4MK6BLMLa_39.167002_-75.557195@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221365,
+    "wof:geomhash":"39ea0badb2508f8d1927c58065eccefe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859501,
+            "region_id":85688611,
+            "venue_id":857726207
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":857726207
+        }
+    ],
+    "wof:id":857726207,
+    "wof:lastmodified":1464221365,
+    "wof:name":"Capital Healthcare Services N",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skill",
+        "clinic",
+        "outpatient",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -75.557195,
+    39.167002,
+    -75.557195,
+    39.167002
+],
+  "geometry": {"coordinates":[-75.55719499999999,39.167002],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873512545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548003,39.800176,-75.548003,39.800176",
+    "geom:latitude":39.800176,
+    "geom:longitude":-75.548003,
+    "iso:country":"US",
+    "sg:address":"3206 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 4342",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory",
+        "radiology",
+        "surgeons",
+        "physician"
+    ],
+    "sg:website":"http://www.diaxray.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fUlPVEzxWbEvwcelDxC4C_39.800234_-75.548088@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223495,
+    "wof:geomhash":"a67823f56d9b80503895230fda298f23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873512545
+        }
+    ],
+    "wof:id":873512545,
+    "wof:lastmodified":1464223495,
+    "wof:name":"Diagnostic Imaging Associate",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "radiology",
+        "surgeons",
+        "physician"
+    ]
+},
+  "bbox": [
+    -75.548003,
+    39.800176,
+    -75.548003,
+    39.800176
+],
+  "geometry": {"coordinates":[-75.54800299999999,39.800176],"type":"Point"}
+}

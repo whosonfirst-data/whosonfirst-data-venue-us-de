@@ -1,0 +1,71 @@
+{
+  "id": 873468437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.108728,38.539446,-75.108728,38.539446",
+    "geom:latitude":38.539446,
+    "geom:longitude":-75.108728,
+    "iso:country":"US",
+    "sg:address":"4 Meadow Ln",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 1204",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2esoUtGJpMxgqu0dGBgYgf_38.539446_-75.108728@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221667,
+    "wof:geomhash":"1a620120bacaaf2eeed3253f61fb3142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873468437
+        }
+    ],
+    "wof:id":873468437,
+    "wof:lastmodified":1464221667,
+    "wof:name":"Rupp Homes Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.108728,
+    38.539446,
+    -75.108728,
+    38.539446
+],
+  "geometry": {"coordinates":[-75.108728,38.539446],"type":"Point"}
+}

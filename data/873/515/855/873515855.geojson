@@ -1,0 +1,87 @@
+{
+  "id": 873515855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.690597,39.691525,-75.690597,39.691525",
+    "geom:latitude":39.691525,
+    "geom:longitude":-75.690597,
+    "iso:country":"US",
+    "sg:address":"111 Alan Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 8691",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "compounds",
+        "materials-colorants",
+        "powders",
+        "plastics-raw",
+        "resins",
+        "liquids"
+    ],
+    "sg:website":"http://www.fpintl.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YjEj9HIJ4sNlSoLKpawL8_39.691525_-75.690597@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223658,
+    "wof:geomhash":"513b5e3306618ef761584bb6d2619e56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873515855
+        }
+    ],
+    "wof:id":873515855,
+    "wof:lastmodified":1464223658,
+    "wof:name":"Fp International",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "compounds",
+        "materials-colorants",
+        "powders",
+        "plastics-raw",
+        "resins",
+        "liquids"
+    ]
+},
+  "bbox": [
+    -75.690597,
+    39.691525,
+    -75.690597,
+    39.691525
+],
+  "geometry": {"coordinates":[-75.690597,39.691525],"type":"Point"}
+}

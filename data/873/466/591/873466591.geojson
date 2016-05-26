@@ -1,0 +1,70 @@
+{
+  "id": 873466591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595624,39.69376,-75.595624,39.69376",
+    "geom:latitude":39.69376,
+    "geom:longitude":-75.595624,
+    "iso:country":"US",
+    "sg:address":"1 Bellecor Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 5421",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mover"
+    ],
+    "sg:website":"www.hopkinsandsons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24Vkg3bKfQ9emonnBJns2S_39.693760_-75.595624@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221604,
+    "wof:geomhash":"a2f0cd0ca067ff9d965f08c90964f9d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873466591
+        }
+    ],
+    "wof:id":873466591,
+    "wof:lastmodified":1464221604,
+    "wof:name":"Hopkins & Sons Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -75.595624,
+    39.69376,
+    -75.595624,
+    39.69376
+],
+  "geometry": {"coordinates":[-75.595624,39.69376],"type":"Point"}
+}

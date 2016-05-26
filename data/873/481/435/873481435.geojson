@@ -1,0 +1,73 @@
+{
+  "id": 873481435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.288211,38.710233,-75.288211,38.710233",
+    "geom:latitude":38.710233,
+    "geom:longitude":-75.288211,
+    "iso:country":"US",
+    "sg:address":"20206 Doddtown Rd",
+    "sg:city":"Harbeson",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 3518",
+    "sg:postcode":"19951",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PD6q3Y32GVkOeoAJTm7J5_38.710233_-75.288211@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222171,
+    "wof:geomhash":"ecaba96932fbb380d3393adbfee9625f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873481435
+        }
+    ],
+    "wof:id":873481435,
+    "wof:lastmodified":1464222171,
+    "wof:name":"Baron Q Joseph Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.288211,
+    38.710233,
+    -75.288211,
+    38.710233
+],
+  "geometry": {"coordinates":[-75.288211,38.710233],"type":"Point"}
+}

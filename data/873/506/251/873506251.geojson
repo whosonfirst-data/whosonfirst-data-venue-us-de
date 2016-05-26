@@ -1,0 +1,71 @@
+{
+  "id": 873506251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.432256,38.933774,-75.432256,38.933774",
+    "geom:latitude":38.933774,
+    "geom:longitude":-75.432256,
+    "iso:country":"US",
+    "sg:address":"1049 Warner Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 6026",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Adq5hZ6ef9uylHErVtJR_38.933774_-75.432256@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223206,
+    "wof:geomhash":"e3a21e79a302f6d21190bf32ce6aac21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873506251
+        }
+    ],
+    "wof:id":873506251,
+    "wof:lastmodified":1464223206,
+    "wof:name":"One Stop Auto Shop",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.432256,
+    38.933774,
+    -75.432256,
+    38.933774
+],
+  "geometry": {"coordinates":[-75.432256,38.933774],"type":"Point"}
+}

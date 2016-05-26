@@ -1,0 +1,71 @@
+{
+  "id": 873521089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544225,39.096762,-75.544225,39.096762",
+    "geom:latitude":39.096762,
+    "geom:longitude":-75.544225,
+    "iso:country":"US",
+    "sg:address":"3566 Peachtree Run Rd Ste 1",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 3620",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UTNGE6m4Dw3N7aOMyWqfE_39.096762_-75.544225@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223928,
+    "wof:geomhash":"8a4c940b5184c574aca9cd74c8e17a86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873521089
+        }
+    ],
+    "wof:id":873521089,
+    "wof:lastmodified":1464223928,
+    "wof:name":"Diamond Electric Inc",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician"
+    ]
+},
+  "bbox": [
+    -75.544225,
+    39.096762,
+    -75.544225,
+    39.096762
+],
+  "geometry": {"coordinates":[-75.544225,39.096762],"type":"Point"}
+}

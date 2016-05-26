@@ -1,0 +1,80 @@
+{
+  "id": 873524145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5705,38.928927,-75.5705,38.928927",
+    "geom:latitude":38.928927,
+    "geom:longitude":-75.5705,
+    "iso:country":"US",
+    "sg:address":"203 Shaw Ave",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8704",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ],
+    "sg:website":"http://www.bayhealth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jRziMxUwyVOglrNQ4335f_38.928927_-75.570500@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224046,
+    "wof:geomhash":"a18d30e3e4a39cc862473c1a143ee0d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524145
+        }
+    ],
+    "wof:id":873524145,
+    "wof:lastmodified":1464224046,
+    "wof:name":"Bayhealth Family Practice",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.5705,
+    38.928927,
+    -75.5705,
+    38.928927
+],
+  "geometry": {"coordinates":[-75.5705,38.928927],"type":"Point"}
+}

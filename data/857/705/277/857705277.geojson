@@ -1,0 +1,73 @@
+{
+  "id": 857705277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736663,39.678627,-75.736663,39.678627",
+    "geom:latitude":39.678627,
+    "geom:longitude":-75.736663,
+    "iso:country":"US",
+    "sg:address":"33 Duke St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 9222",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mVKFgtOtJU51QjwKdsnfV_39.678627_-75.736663@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220919,
+    "wof:geomhash":"476c88b1cfb824f50976956e4af27bc4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":857705277
+        }
+    ],
+    "wof:id":857705277,
+    "wof:lastmodified":1464220919,
+    "wof:name":"School Lane Garden Apartments",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.736663,
+    39.678627,
+    -75.736663,
+    39.678627
+],
+  "geometry": {"coordinates":[-75.73666299999999,39.678627],"type":"Point"}
+}

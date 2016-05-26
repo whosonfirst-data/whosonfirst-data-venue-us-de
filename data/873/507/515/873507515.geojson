@@ -1,0 +1,71 @@
+{
+  "id": 873507515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.741278,39.68405,-75.741278,39.68405",
+    "geom:latitude":39.68405,
+    "geom:longitude":-75.741278,
+    "iso:country":"US",
+    "sg:address":"276 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 1481",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31liATYim0LXF20pZtJ9Pi_39.684050_-75.741278@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223259,
+    "wof:geomhash":"2108d153b1f5b17e7b7f6099493bddcf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873507515
+        }
+    ],
+    "wof:id":873507515,
+    "wof:lastmodified":1464223259,
+    "wof:name":"Capital One Mortgage LLC",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -75.741278,
+    39.68405,
+    -75.741278,
+    39.68405
+],
+  "geometry": {"coordinates":[-75.74127799999999,39.68405],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857708291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548435,39.744457,-75.548435,39.744457",
+    "geom:latitude":39.744457,
+    "geom:longitude":-75.548435,
+    "iso:country":"US",
+    "sg:address":"814 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 3600",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7C2N8HzH88txuk1sI4QOi7_39.744457_-75.548435@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220981,
+    "wof:geomhash":"1024aa794ab6228b2479595d673d2ae1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857708291
+        }
+    ],
+    "wof:id":857708291,
+    "wof:lastmodified":1464220981,
+    "wof:name":"The Scrivener",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.548435,
+    39.744457,
+    -75.548435,
+    39.744457
+],
+  "geometry": {"coordinates":[-75.548435,39.744457],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873479867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.166377,38.75096,-75.166377,38.75096",
+    "geom:latitude":38.75096,
+    "geom:longitude":-75.166377,
+    "iso:country":"US",
+    "sg:address":"1632 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 9278",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ULJp2P001xJWa1ZT97Va_38.750960_-75.166377@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222106,
+    "wof:geomhash":"5b905758208fd06ac58b1a7413bbcfcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873479867
+        }
+    ],
+    "wof:id":873479867,
+    "wof:lastmodified":1464222106,
+    "wof:name":"Whitehorse Rehabilitation Svcs",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy"
+    ]
+},
+  "bbox": [
+    -75.166377,
+    38.75096,
+    -75.166377,
+    38.75096
+],
+  "geometry": {"coordinates":[-75.166377,38.75096],"type":"Point"}
+}

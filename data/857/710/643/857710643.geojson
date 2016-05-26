@@ -1,0 +1,71 @@
+{
+  "id": 857710643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.64291,38.687094,-75.64291,38.687094",
+    "geom:latitude":38.687094,
+    "geom:longitude":-75.64291,
+    "iso:country":"US",
+    "sg:address":"20478 Atlanta Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8202",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurseryman"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62om3OZARKPUGg5t98vcv4_38.687094_-75.642910@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221045,
+    "wof:geomhash":"d3259028e6930bfbd0bf21c31fa55b7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":857710643
+        }
+    ],
+    "wof:id":857710643,
+    "wof:lastmodified":1464221045,
+    "wof:name":"Nanticoke Nursery",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurseryman"
+    ]
+},
+  "bbox": [
+    -75.64291,
+    38.687094,
+    -75.64291,
+    38.687094
+],
+  "geometry": {"coordinates":[-75.64291,38.687094],"type":"Point"}
+}

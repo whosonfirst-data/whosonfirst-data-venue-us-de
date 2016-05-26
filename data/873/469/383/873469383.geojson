@@ -1,0 +1,71 @@
+{
+  "id": 873469383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.391553,38.695111,-75.391553,38.695111",
+    "geom:latitude":38.695111,
+    "geom:longitude":-75.391553,
+    "iso:country":"US",
+    "sg:address":"620 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6802",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HSdTyRV8PyB0uF6gYFyLN_38.695111_-75.391553@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221699,
+    "wof:geomhash":"1febc5bfbf608de382915b9ee46de595",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873469383
+        }
+    ],
+    "wof:id":873469383,
+    "wof:lastmodified":1464221699,
+    "wof:name":"Georgetown Wesleyan Church",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.391553,
+    38.695111,
+    -75.391553,
+    38.695111
+],
+  "geometry": {"coordinates":[-75.391553,38.695111],"type":"Point"}
+}

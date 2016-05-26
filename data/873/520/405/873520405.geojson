@@ -1,0 +1,72 @@
+{
+  "id": 873520405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504204,39.8018,-75.504204,39.8018",
+    "geom:latitude":39.8018,
+    "geom:longitude":-75.504204,
+    "iso:country":"US",
+    "sg:address":"2118 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 6995",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "sg:website":"www.muddypawspetsalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63fBF3pOwkg2qFO9gTMC01_39.801800_-75.504204@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223900,
+    "wof:geomhash":"46201ed0eb687205c4ff00d3b30ca382",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873520405
+        }
+    ],
+    "wof:id":873520405,
+    "wof:lastmodified":1464223900,
+    "wof:name":"Muddy Paws Pet Salon",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -75.504204,
+    39.8018,
+    -75.504204,
+    39.8018
+],
+  "geometry": {"coordinates":[-75.504204,39.8018],"type":"Point"}
+}

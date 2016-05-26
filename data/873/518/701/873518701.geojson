@@ -1,0 +1,82 @@
+{
+  "id": 873518701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.596458,39.770672,-75.596458,39.770672",
+    "geom:latitude":39.770672,
+    "geom:longitude":-75.596458,
+    "iso:country":"US",
+    "sg:address":"107 Presidential Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 5077",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "image",
+        "health",
+        "consultants-personal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931745,
+        102083891,
+        85823113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sjIFpYTxovLloJbyLsRPX_39.770672_-75.596458@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223824,
+    "wof:geomhash":"35942258786dbeb5b5fc3704fbb75e13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931745,
+            "neighbourhood_id":85823113,
+            "region_id":85688611,
+            "venue_id":873518701
+        }
+    ],
+    "wof:id":873518701,
+    "wof:lastmodified":1464223824,
+    "wof:name":"Balance",
+    "wof:parent_id":85823113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "image",
+        "health",
+        "consultants-personal"
+    ]
+},
+  "bbox": [
+    -75.596458,
+    39.770672,
+    -75.596458,
+    39.770672
+],
+  "geometry": {"coordinates":[-75.596458,39.770672],"type":"Point"}
+}

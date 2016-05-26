@@ -1,0 +1,71 @@
+{
+  "id": 857722559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.156134,38.758338,-75.156134,38.758338",
+    "geom:latitude":38.758338,
+    "geom:longitude":-75.156134,
+    "iso:country":"US",
+    "sg:address":"1400 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 7737",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10weZ1Tun9Hc5eftA0nykG_38.758338_-75.156134@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221298,
+    "wof:geomhash":"701b2b4eb7386b1d7ed8033d27f6d91a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857722559
+        }
+    ],
+    "wof:id":857722559,
+    "wof:lastmodified":1464221298,
+    "wof:name":"Swiers Clinic",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.156134,
+    38.758338,
+    -75.156134,
+    38.758338
+],
+  "geometry": {"coordinates":[-75.15613399999999,38.758338],"type":"Point"}
+}

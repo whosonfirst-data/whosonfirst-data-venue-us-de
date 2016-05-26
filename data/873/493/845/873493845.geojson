@@ -1,0 +1,73 @@
+{
+  "id": 873493845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.212516,38.827991,-75.212516,38.827991",
+    "geom:latitude":38.827991,
+    "geom:longitude":-75.212516,
+    "iso:country":"US",
+    "sg:address":"2 S Bayshore Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 4809",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37LjpRItL1RwuWjJegY2cC_38.827991_-75.212516@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222644,
+    "wof:geomhash":"7198aefd59eff3844396ec421acdadac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873493845
+        }
+    ],
+    "wof:id":873493845,
+    "wof:lastmodified":1464222644,
+    "wof:name":"Broadkill Store",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "operator",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.212516,
+    38.827991,
+    -75.212516,
+    38.827991
+],
+  "geometry": {"coordinates":[-75.21251599999999,38.827991],"type":"Point"}
+}

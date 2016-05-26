@@ -1,0 +1,69 @@
+{
+  "id": 857697067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.534118,39.705772,-75.534118,39.705772",
+    "geom:latitude":39.705772,
+    "geom:longitude":-75.534118,
+    "iso:country":"US",
+    "sg:address":"1101 Lambson Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 577 3459",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cB890zpxw9TG7vBiKGTRW_39.705772_-75.534118@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220755,
+    "wof:geomhash":"06b74a40c2f8edcd79fecbe7cd213dec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857697067
+        }
+    ],
+    "wof:id":857697067,
+    "wof:lastmodified":1464220755,
+    "wof:name":"Delaware Solid Waste Authority",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system"
+    ]
+},
+  "bbox": [
+    -75.534118,
+    39.705772,
+    -75.534118,
+    39.705772
+],
+  "geometry": {"coordinates":[-75.53411800000001,39.705772],"type":"Point"}
+}

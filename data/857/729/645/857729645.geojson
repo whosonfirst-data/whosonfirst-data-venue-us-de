@@ -1,0 +1,75 @@
+{
+  "id": 857729645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607883,39.305547,-75.607883,39.305547",
+    "geom:latitude":39.305547,
+    "geom:longitude":-75.607883,
+    "iso:country":"US",
+    "sg:address":"280 E Glenwood Ave",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 5864",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Nkj6YAixFqlOSeVpyjdCP_39.305547_-75.607883@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221427,
+    "wof:geomhash":"1ac5dd30ca176bf663c0ebce3ae0e095",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857729645
+        }
+    ],
+    "wof:id":857729645,
+    "wof:lastmodified":1464221427,
+    "wof:name":"John George Kays MD",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.607883,
+    39.305547,
+    -75.607883,
+    39.305547
+],
+  "geometry": {"coordinates":[-75.607883,39.305547],"type":"Point"}
+}

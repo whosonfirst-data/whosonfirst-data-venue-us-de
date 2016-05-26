@@ -1,0 +1,78 @@
+{
+  "id": 873512905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.650691,39.675799,-75.650691,39.675799",
+    "geom:latitude":39.675799,
+    "geom:longitude":-75.650691,
+    "iso:country":"US",
+    "sg:address":"206 Christiana Mall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/246390-bains-deli/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 1910",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3q6c1eM2RXM3L4ORB58155_39.675799_-75.650691@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223510,
+    "wof:geomhash":"65bffb424de6304f9a61238537f98741",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512905
+        }
+    ],
+    "wof:id":873512905,
+    "wof:lastmodified":1464223510,
+    "wof:name":"Bain's Deli",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -75.650691,
+    39.675799,
+    -75.650691,
+    39.675799
+],
+  "geometry": {"coordinates":[-75.65069099999999,39.675799],"type":"Point"}
+}

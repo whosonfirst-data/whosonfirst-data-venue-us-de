@@ -1,0 +1,80 @@
+{
+  "id": 873513145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.719376,39.69425,-75.719376,39.69425",
+    "geom:latitude":39.69425,
+    "geom:longitude":-75.719376,
+    "iso:country":"US",
+    "sg:address":"12 Liberty Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/25138-perkins-restaurant--bakery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 3500",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XGldpoFaSoGKe6ae4cFPZ_39.694250_-75.719376@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223518,
+    "wof:geomhash":"8fbf691caaa8fb88b9ab7952e026bd5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513145
+        }
+    ],
+    "wof:id":873513145,
+    "wof:lastmodified":1464223518,
+    "wof:name":"Perkins Restaurant & Bakery",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "soup",
+        "american",
+        "pastry",
+        "wrap"
+    ]
+},
+  "bbox": [
+    -75.719376,
+    39.69425,
+    -75.719376,
+    39.69425
+],
+  "geometry": {"coordinates":[-75.719376,39.69425],"type":"Point"}
+}

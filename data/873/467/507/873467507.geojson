@@ -1,0 +1,75 @@
+{
+  "id": 873467507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.597661,39.712437,-75.597661,39.712437",
+    "geom:latitude":39.712437,
+    "geom:longitude":-75.597661,
+    "iso:country":"US",
+    "sg:address":"300 Harvey Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 0991",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "system",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TnnOk3onpq5Z9A4RSQNbi_39.712437_-75.597661@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221635,
+    "wof:geomhash":"acce702928e04634e74b2a67ef68a7c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873467507
+        }
+    ],
+    "wof:id":873467507,
+    "wof:lastmodified":1464221635,
+    "wof:name":"Waste Management",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "system",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.597661,
+    39.712437,
+    -75.597661,
+    39.712437
+],
+  "geometry": {"coordinates":[-75.597661,39.712437],"type":"Point"}
+}

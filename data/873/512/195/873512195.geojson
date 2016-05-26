@@ -1,0 +1,71 @@
+{
+  "id": 873512195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525597,39.1432,-75.525597,39.1432",
+    "geom:latitude":39.1432,
+    "geom:longitude":-75.525597,
+    "iso:country":"US",
+    "sg:address":"1012 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1328",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary",
+        "school"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ue0TWqhkd7VswjDbtctuK_39.143158_-75.525562@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223482,
+    "wof:geomhash":"eb8e08e7fa49c214d34af3ac1808518b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873512195
+        }
+    ],
+    "wof:id":873512195,
+    "wof:lastmodified":1464223482,
+    "wof:name":"Dover Early Learning Center",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "school"
+    ]
+},
+  "bbox": [
+    -75.525597,
+    39.1432,
+    -75.525597,
+    39.1432
+],
+  "geometry": {"coordinates":[-75.525597,39.1432],"type":"Point"}
+}

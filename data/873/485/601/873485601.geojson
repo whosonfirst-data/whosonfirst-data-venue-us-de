@@ -1,0 +1,73 @@
+{
+  "id": 873485601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.538665,39.75812,-75.538665,39.75812",
+    "geom:latitude":39.75812,
+    "geom:longitude":-75.538665,
+    "iso:country":"US",
+    "sg:address":"2500 N Jefferson St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 4430",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13U2H0O2S4JkVhnQK3MhSM_39.758120_-75.538665@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222328,
+    "wof:geomhash":"9912d4e21fa70d3183b17beb9d270dc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873485601
+        }
+    ],
+    "wof:id":873485601,
+    "wof:lastmodified":1464222328,
+    "wof:name":"United Independent Methodist",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.538665,
+    39.75812,
+    -75.538665,
+    39.75812
+],
+  "geometry": {"coordinates":[-75.53866499999999,39.75812],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873522593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527199,39.154301,-75.527199,39.154301",
+    "geom:latitude":39.154301,
+    "geom:longitude":-75.527199,
+    "iso:country":"US",
+    "sg:address":"446 S New St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optician",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 2525",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eyewear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6do0B6rkEwzD8zUXJGn6w5_39.154301_-75.527199@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223992,
+    "wof:geomhash":"4546e78673ac4c7a6538023e799ae76f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873522593
+        }
+    ],
+    "wof:id":873522593,
+    "wof:lastmodified":1464223992,
+    "wof:name":"New Vision Care Center",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eyewear"
+    ]
+},
+  "bbox": [
+    -75.527199,
+    39.154301,
+    -75.527199,
+    39.154301
+],
+  "geometry": {"coordinates":[-75.527199,39.154301],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873493411,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.727842,39.652056,-75.727842,39.652056",
+    "geom:latitude":39.652056,
+    "geom:longitude":-75.727842,
+    "iso:country":"US",
+    "sg:address":"727 Dawson Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 8676",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "steel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jkrH4naW4h33rx4o5mmPH_39.652056_-75.727842@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222622,
+    "wof:geomhash":"de2afa5a6b386ee86374b8128b88109b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873493411
+        }
+    ],
+    "wof:id":873493411,
+    "wof:lastmodified":1464222622,
+    "wof:name":"Murphy Steel",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel"
+    ]
+},
+  "bbox": [
+    -75.727842,
+    39.652056,
+    -75.727842,
+    39.652056
+],
+  "geometry": {"coordinates":[-75.727842,39.652056],"type":"Point"}
+}

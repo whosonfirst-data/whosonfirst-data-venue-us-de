@@ -1,0 +1,76 @@
+{
+  "id": 857717407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.739836,39.684024,-75.739836,39.684024",
+    "geom:latitude":39.684024,
+    "geom:longitude":-75.739836,
+    "iso:country":"US",
+    "sg:address":"333 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 9105",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0v36eINZlVZ7qY2OO0JEy2_39.684024_-75.739836@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221193,
+    "wof:geomhash":"6d9db2e30a841c48cbfe103a769f03d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857717407
+        }
+    ],
+    "wof:id":857717407,
+    "wof:lastmodified":1464221193,
+    "wof:name":"Delaware Eye Care Ctr Prof",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.739836,
+    39.684024,
+    -75.739836,
+    39.684024
+],
+  "geometry": {"coordinates":[-75.739836,39.684024],"type":"Point"}
+}

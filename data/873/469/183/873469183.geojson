@@ -1,0 +1,76 @@
+{
+  "id": 873469183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544406,39.747344,-75.544406,39.747344",
+    "geom:latitude":39.747344,
+    "geom:longitude":-75.544406,
+    "iso:country":"US",
+    "sg:address":"1215 N French St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 9800",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "sg:website":"www.wilm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qxAyU8VpHX0MBgsrewRhE_39.747344_-75.544406@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221693,
+    "wof:geomhash":"c0ee62837b29d74c49fc3305437504df",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873469183
+        }
+    ],
+    "wof:id":873469183,
+    "wof:lastmodified":1464221693,
+    "wof:name":"WILM",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -75.544406,
+    39.747344,
+    -75.544406,
+    39.747344
+],
+  "geometry": {"coordinates":[-75.544406,39.747344],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873497275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.11862,38.742317,-75.11862,38.742317",
+    "geom:latitude":38.742317,
+    "geom:longitude":-75.11862,
+    "iso:country":"US",
+    "sg:address":"36160 Wolfe Neck Rd",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 2761",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "system",
+        "sewerage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814899,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZdJvuUwNQarkATCdSaRo3_38.742317_-75.118620@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222833,
+    "wof:geomhash":"fb9708551e22594ba005dc1d51e0d08a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85814899,
+            "region_id":85688611,
+            "venue_id":873497275
+        }
+    ],
+    "wof:id":873497275,
+    "wof:lastmodified":1464222833,
+    "wof:name":"Wolfe Neck Treatment Plant",
+    "wof:parent_id":85814899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "sewerage"
+    ]
+},
+  "bbox": [
+    -75.11862,
+    38.742317,
+    -75.11862,
+    38.742317
+],
+  "geometry": {"coordinates":[-75.11862000000001,38.742317],"type":"Point"}
+}

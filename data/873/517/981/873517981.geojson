@@ -1,0 +1,69 @@
+{
+  "id": 873517981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546491,39.790471,-75.546491,39.790471",
+    "geom:latitude":39.790471,
+    "geom:longitude":-75.546491,
+    "iso:country":"US",
+    "sg:address":"2213 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 7768",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dGW5crvyUOM2uHJVQkGAx_39.790471_-75.546491@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223793,
+    "wof:geomhash":"e6767d7f3a63aa95565a00fd97190eb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517981
+        }
+    ],
+    "wof:id":873517981,
+    "wof:lastmodified":1464223793,
+    "wof:name":"Fairfax Shopping Center",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall"
+    ]
+},
+  "bbox": [
+    -75.546491,
+    39.790471,
+    -75.546491,
+    39.790471
+],
+  "geometry": {"coordinates":[-75.546491,39.790471],"type":"Point"}
+}

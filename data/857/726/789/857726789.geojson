@@ -1,0 +1,75 @@
+{
+  "id": 857726789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568055,38.67652,-75.568055,38.67652",
+    "geom:latitude":38.67652,
+    "geom:longitude":-75.568055,
+    "iso:country":"US",
+    "sg:address":"22321 Eskridge Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 3333",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QZdO8bLpayXtKP5JaX4L9_38.676520_-75.568055@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221375,
+    "wof:geomhash":"06aeb2a452e5b21292d0147a1b686878",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857726789
+        }
+    ],
+    "wof:id":857726789,
+    "wof:lastmodified":1464221375,
+    "wof:name":"David Milligan",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.568055,
+    38.67652,
+    -75.568055,
+    38.67652
+],
+  "geometry": {"coordinates":[-75.568055,38.67652],"type":"Point"}
+}

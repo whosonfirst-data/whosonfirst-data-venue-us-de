@@ -1,0 +1,68 @@
+{
+  "id": 873522937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.535896,39.158501,-75.535896,39.158501",
+    "geom:latitude":39.158501,
+    "geom:longitude":-75.535896,
+    "iso:country":"US",
+    "sg:address":"805 Forest St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 8234",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mAgi6nZ3nAcbsD5UVztlo_39.158501_-75.535896@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224003,
+    "wof:geomhash":"5d094ea602e0f1248eef9311947b06c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873522937
+        }
+    ],
+    "wof:id":873522937,
+    "wof:lastmodified":1464224003,
+    "wof:name":"West Side Car Wash",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.535896,
+    39.158501,
+    -75.535896,
+    39.158501
+],
+  "geometry": {"coordinates":[-75.53589599999999,39.158501],"type":"Point"}
+}

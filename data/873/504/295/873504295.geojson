@@ -1,0 +1,71 @@
+{
+  "id": 873504295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.587703,39.74865,-75.587703,39.74865",
+    "geom:latitude":39.74865,
+    "geom:longitude":-75.587703,
+    "iso:country":"US",
+    "sg:address":"209 S Ogle Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 4646",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7AO3CLfdVjuLKdxePyuRXO_39.748650_-75.587703@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223116,
+    "wof:geomhash":"d9b5ea2cd315aa2bfcd2d80cc790a2c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873504295
+        }
+    ],
+    "wof:id":873504295,
+    "wof:lastmodified":1464223116,
+    "wof:name":"BHP Partners",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -75.587703,
+    39.74865,
+    -75.587703,
+    39.74865
+],
+  "geometry": {"coordinates":[-75.587703,39.74865],"type":"Point"}
+}

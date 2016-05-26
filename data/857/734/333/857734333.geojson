@@ -1,0 +1,71 @@
+{
+  "id": 857734333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548683,39.80447,-75.548683,39.80447",
+    "geom:latitude":39.80447,
+    "geom:longitude":-75.548683,
+    "iso:country":"US",
+    "sg:address":"3501 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1684",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_211rSiOJBj5GhrfTLaugBL_39.804470_-75.548683@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221527,
+    "wof:geomhash":"89d6e642a163169b540631e4f3a238f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857734333
+        }
+    ],
+    "wof:id":857734333,
+    "wof:lastmodified":1464221527,
+    "wof:name":"Blue Echo Electrical Services",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.548683,
+    39.80447,
+    -75.548683,
+    39.80447
+],
+  "geometry": {"coordinates":[-75.548683,39.80447],"type":"Point"}
+}

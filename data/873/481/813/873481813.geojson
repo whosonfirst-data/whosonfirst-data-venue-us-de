@@ -1,0 +1,71 @@
+{
+  "id": 873481813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606014,39.738478,-75.606014,39.738478",
+    "geom:latitude":39.738478,
+    "geom:longitude":-75.606014,
+    "iso:country":"US",
+    "sg:address":"1601 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 5253",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_768QCp8xPeXnzYQiyBWmvt_39.738478_-75.606014@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222187,
+    "wof:geomhash":"05e316837e154550ec7d956f8113f1f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873481813
+        }
+    ],
+    "wof:id":873481813,
+    "wof:lastmodified":1464222187,
+    "wof:name":"Department Of Veterans Affairs",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.606014,
+    39.738478,
+    -75.606014,
+    39.738478
+],
+  "geometry": {"coordinates":[-75.606014,39.738478],"type":"Point"}
+}

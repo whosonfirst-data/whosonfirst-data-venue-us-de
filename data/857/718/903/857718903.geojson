@@ -1,0 +1,66 @@
+{
+  "id": 857718903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.370633,38.789826,-75.370633,38.789826",
+    "geom:latitude":38.789826,
+    "geom:longitude":-75.370633,
+    "iso:country":"US",
+    "sg:address":"122 Ellendale Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 3141",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55bktmaLtq8VSTEqXyCS6W_38.789826_-75.370633@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221225,
+    "wof:geomhash":"aa1a348fc3028ef8d374523faeb012ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857718903
+        }
+    ],
+    "wof:id":857718903,
+    "wof:lastmodified":1464221225,
+    "wof:name":"Milton Quick Stop",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.370633,
+    38.789826,
+    -75.370633,
+    38.789826
+],
+  "geometry": {"coordinates":[-75.370633,38.789826],"type":"Point"}
+}

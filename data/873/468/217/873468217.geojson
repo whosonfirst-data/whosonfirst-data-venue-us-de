@@ -1,0 +1,73 @@
+{
+  "id": 873468217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548903,39.809257,-75.548903,39.809257",
+    "geom:latitude":39.809257,
+    "geom:longitude":-75.548903,
+    "iso:country":"US",
+    "sg:address":"3511 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 416 203 2442",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electronics",
+        "manufacturing",
+        "module"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nvn72sLjZamigB4YT9hAs_39.809257_-75.548903@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221659,
+    "wof:geomhash":"9d28d5c1cb3a7646b23e262fbc47d3ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873468217
+        }
+    ],
+    "wof:id":873468217,
+    "wof:lastmodified":1464221659,
+    "wof:name":"Carter Group Inc",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electronics",
+        "manufacturing",
+        "module"
+    ]
+},
+  "bbox": [
+    -75.548903,
+    39.809257,
+    -75.548903,
+    39.809257
+],
+  "geometry": {"coordinates":[-75.548903,39.809257],"type":"Point"}
+}

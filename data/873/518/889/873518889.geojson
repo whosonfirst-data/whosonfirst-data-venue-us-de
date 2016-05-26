@@ -1,0 +1,75 @@
+{
+  "id": 873518889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.700211,39.735142,-75.700211,39.735142",
+    "geom:latitude":39.735142,
+    "geom:longitude":-75.700211,
+    "iso:country":"US",
+    "sg:address":"4801 Plum Run Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 294 6103",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kcUc9SSWajl84MfaE0CMf_39.735142_-75.700211@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223831,
+    "wof:geomhash":"b7d641ab1cc45d9b50dd94d7393bdb8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":873518889
+        }
+    ],
+    "wof:id":873518889,
+    "wof:lastmodified":1464223831,
+    "wof:name":"Algaenetics",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -75.700211,
+    39.735142,
+    -75.700211,
+    39.735142
+],
+  "geometry": {"coordinates":[-75.700211,39.735142],"type":"Point"}
+}

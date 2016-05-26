@@ -1,0 +1,73 @@
+{
+  "id": 873523777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.148047,38.55639,-75.148047,38.55639",
+    "geom:latitude":38.55639,
+    "geom:longitude":-75.148047,
+    "iso:country":"US",
+    "sg:address":"34508 Sylvan Vue Dr",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 841 2466",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lawn",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VS64UrzMpWAnYhSegTR5r_38.556390_-75.148047@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224032,
+    "wof:geomhash":"961fcb4b864eebbe5ac0596a6bb85dc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873523777
+        }
+    ],
+    "wof:id":873523777,
+    "wof:lastmodified":1464224032,
+    "wof:name":"Ben's Lawn Care",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.148047,
+    38.55639,
+    -75.148047,
+    38.55639
+],
+  "geometry": {"coordinates":[-75.14804700000001,38.55639],"type":"Point"}
+}

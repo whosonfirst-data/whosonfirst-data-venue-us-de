@@ -1,0 +1,75 @@
+{
+  "id": 873502903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.702852,39.71883,-75.702852,39.71883",
+    "geom:latitude":39.71883,
+    "geom:longitude":-75.702852,
+    "iso:country":"US",
+    "sg:address":"1202 Greystone Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 8285",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "telecom",
+        "equipment",
+        "product",
+        "certification"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Uje9IxV1h32oZKKiR5B0a_39.718830_-75.702852@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223061,
+    "wof:geomhash":"2a67a0787643c21d348b8d7d7bdf0fff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873502903
+        }
+    ],
+    "wof:id":873502903,
+    "wof:lastmodified":1464223061,
+    "wof:name":"White & Red International Inc",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telecom",
+        "equipment",
+        "product",
+        "certification"
+    ]
+},
+  "bbox": [
+    -75.702852,
+    39.71883,
+    -75.702852,
+    39.71883
+],
+  "geometry": {"coordinates":[-75.70285199999999,39.71883],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873507089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528927,39.809789,-75.528927,39.809789",
+    "geom:latitude":39.809789,
+    "geom:longitude":-75.528927,
+    "iso:country":"US",
+    "sg:address":"2700 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 2635",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Q0w6r7B4oazvjga6PD2GJ_39.809789_-75.528927@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223240,
+    "wof:geomhash":"d3bdbcfe2de2932d690e8e155dcf2ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873507089
+        }
+    ],
+    "wof:id":873507089,
+    "wof:lastmodified":1464223240,
+    "wof:name":"Roche Biomedical Labs",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.528927,
+    39.809789,
+    -75.528927,
+    39.809789
+],
+  "geometry": {"coordinates":[-75.528927,39.809789],"type":"Point"}
+}

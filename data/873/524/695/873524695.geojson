@@ -1,0 +1,80 @@
+{
+  "id": 873524695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.291932,38.596792,-75.291932,38.596792",
+    "geom:latitude":38.596792,
+    "geom:longitude":-75.291932,
+    "iso:country":"US",
+    "sg:address":"28302 Gravel Hill Rd",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 8822",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1A9xrzkX9bzuZIyamk75u3_38.596792_-75.291932@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224067,
+    "wof:geomhash":"ddb132c5f64f802976ed31535bba3689",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524695
+        }
+    ],
+    "wof:id":873524695,
+    "wof:lastmodified":1464224067,
+    "wof:name":"The Doggie Day Spa",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "dog",
+        "cat"
+    ]
+},
+  "bbox": [
+    -75.291932,
+    38.596792,
+    -75.291932,
+    38.596792
+],
+  "geometry": {"coordinates":[-75.291932,38.596792],"type":"Point"}
+}

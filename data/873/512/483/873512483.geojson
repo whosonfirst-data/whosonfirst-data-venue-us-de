@@ -1,0 +1,75 @@
+{
+  "id": 873512483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539299,39.064899,-75.539299,39.064899",
+    "geom:latitude":39.064899,
+    "geom:longitude":-75.539299,
+    "iso:country":"US",
+    "sg:address":"285 Stevenson Dr",
+    "sg:city":"Magnolia",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 0421",
+    "sg:postcode":"19962",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lock",
+        "key",
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Omu92f2iLv7ymtLNK5EV_39.064500_-75.539442@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223493,
+    "wof:geomhash":"a263629d011752fdb469f02596571274",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873512483
+        }
+    ],
+    "wof:id":873512483,
+    "wof:lastmodified":1464223493,
+    "wof:name":"Austin Locksmith Service",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "key",
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -75.539299,
+    39.064899,
+    -75.539299,
+    39.064899
+],
+  "geometry": {"coordinates":[-75.539299,39.064899],"type":"Point"}
+}

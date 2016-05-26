@@ -1,0 +1,69 @@
+{
+  "id": 857698311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.684967,39.6567,-75.684967,39.6567",
+    "geom:latitude":39.6567,
+    "geom:longitude":-75.684967,
+    "iso:country":"US",
+    "sg:address":"10 Abbey Rd",
+    "sg:city":"Townsend",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 449 0739",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gdPjg56XpFDnvKhMB2CPc_39.656700_-75.684967@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220779,
+    "wof:geomhash":"08f9afab69d883806c068eaec95645a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857698311
+        }
+    ],
+    "wof:id":857698311,
+    "wof:lastmodified":1464220779,
+    "wof:name":"Healthy Nutrition",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -75.684967,
+    39.6567,
+    -75.684967,
+    39.6567
+],
+  "geometry": {"coordinates":[-75.684967,39.6567],"type":"Point"}
+}

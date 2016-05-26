@@ -1,0 +1,81 @@
+{
+  "id": 873507601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578096,39.750465,-75.578096,39.750465",
+    "geom:latitude":39.750465,
+    "geom:longitude":-75.578096,
+    "iso:country":"US",
+    "sg:address":"2302 W 3rd St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 5133",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jmprh9LC3ISe6NcbGjbaR_39.750465_-75.578096@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223265,
+    "wof:geomhash":"3896edec4f14151912ee3ad6cd20442e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873507601
+        }
+    ],
+    "wof:id":873507601,
+    "wof:lastmodified":1464223265,
+    "wof:name":"John's Body Shop Inc",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automotive",
+        "painting",
+        "shop",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.578096,
+    39.750465,
+    -75.578096,
+    39.750465
+],
+  "geometry": {"coordinates":[-75.578096,39.750465],"type":"Point"}
+}

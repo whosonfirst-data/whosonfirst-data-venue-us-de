@@ -1,0 +1,75 @@
+{
+  "id": 873512381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.752901,39.666821,-75.752901,39.666821",
+    "geom:latitude":39.666821,
+    "geom:longitude":-75.752901,
+    "iso:country":"US",
+    "sg:address":"550 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 5249",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "personal",
+        "assistant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OXCZYnSK3xI6L9XWh1IYm_39.666922_-75.752837@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223489,
+    "wof:geomhash":"0b0dde7b4b07a0027cb40940c27c64ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873512381
+        }
+    ],
+    "wof:id":873512381,
+    "wof:lastmodified":1464223489,
+    "wof:name":"Newark Assemblly Plt",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -75.752901,
+    39.666821,
+    -75.752901,
+    39.666821
+],
+  "geometry": {"coordinates":[-75.75290099999999,39.666821],"type":"Point"}
+}

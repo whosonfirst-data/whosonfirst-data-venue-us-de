@@ -1,0 +1,73 @@
+{
+  "id": 857700589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.057359,38.549168,-75.057359,38.549168",
+    "geom:latitude":38.549168,
+    "geom:longitude":-75.057359,
+    "iso:country":"US",
+    "sg:address":"18 Evans Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 9200",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z1r5GZW6ru3IWTv2fwNJ3_38.549168_-75.057359@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220826,
+    "wof:geomhash":"ba9b6d48951758ce22c4ba1e57337d4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857700589
+        }
+    ],
+    "wof:id":857700589,
+    "wof:lastmodified":1464220826,
+    "wof:name":"Black Rock Paving",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.057359,
+    38.549168,
+    -75.057359,
+    38.549168
+],
+  "geometry": {"coordinates":[-75.05735900000001,38.549168],"type":"Point"}
+}

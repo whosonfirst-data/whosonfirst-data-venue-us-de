@@ -1,0 +1,75 @@
+{
+  "id": 857694203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561773,39.734567,-75.561773,39.734567",
+    "geom:latitude":39.734567,
+    "geom:longitude":-75.561773,
+    "iso:country":"US",
+    "sg:address":"700 S Madison St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 6767",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15KyrQuSBTM8JauJbjxiiv_39.734567_-75.561773@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220703,
+    "wof:geomhash":"b810c1d786bb56a435e7077ed1302633",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":857694203
+        }
+    ],
+    "wof:id":857694203,
+    "wof:lastmodified":1464220703,
+    "wof:name":"P & C Roofing Inc",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.561773,
+    39.734567,
+    -75.561773,
+    39.734567
+],
+  "geometry": {"coordinates":[-75.561773,39.734567],"type":"Point"}
+}

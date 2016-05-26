@@ -1,0 +1,73 @@
+{
+  "id": 873481547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.633412,39.28409,-75.633412,39.28409",
+    "geom:latitude":39.28409,
+    "geom:longitude":-75.633412,
+    "iso:country":"US",
+    "sg:address":"91 Preston Ln",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 0131",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "processing",
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j29QQYeU7eJ0oR9MNJZ49_39.284090_-75.633412@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222175,
+    "wof:geomhash":"d5168ae85ae98e5ca249b328bb30a0bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873481547
+        }
+    ],
+    "wof:id":873481547,
+    "wof:lastmodified":1464222175,
+    "wof:name":"Susan L Harrison",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum"
+    ]
+},
+  "bbox": [
+    -75.633412,
+    39.28409,
+    -75.633412,
+    39.28409
+],
+  "geometry": {"coordinates":[-75.63341200000001,39.28409],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873519005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625076,39.733339,-75.625076,39.733339",
+    "geom:latitude":39.733339,
+    "geom:longitude":-75.625076,
+    "iso:country":"US",
+    "sg:address":"3301 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 2487",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lube",
+        "oil",
+        "tire"
+    ],
+    "sg:website":"http://www.firestonecompleteautocare.com/?s_kwcid=IYP_NTL",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hRxlQiSgRHqn3kkVoRC0g_39.733339_-75.625076@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223835,
+    "wof:geomhash":"70e7717e0ef6de398064c78ce8620535",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873519005
+        }
+    ],
+    "wof:id":873519005,
+    "wof:lastmodified":1464223835,
+    "wof:name":"Firestone Complete Auto Care Store",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lube",
+        "oil",
+        "tire"
+    ]
+},
+  "bbox": [
+    -75.625076,
+    39.733339,
+    -75.625076,
+    39.733339
+],
+  "geometry": {"coordinates":[-75.62507600000001,39.733339],"type":"Point"}
+}

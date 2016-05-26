@@ -1,0 +1,69 @@
+{
+  "id": 857709933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662768,39.694245,-75.662768,39.694245",
+    "geom:latitude":39.694245,
+    "geom:longitude":-75.662768,
+    "iso:country":"US",
+    "sg:address":"1092 Old Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 7550",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qxc6ZpMN5Jryr5c7aJWFV_39.694245_-75.662768@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221029,
+    "wof:geomhash":"0955e101fb2869b3c74eb0a8ec42911c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":857709933
+        }
+    ],
+    "wof:id":857709933,
+    "wof:lastmodified":1464221029,
+    "wof:name":"Conti Christopher M MD",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.662768,
+    39.694245,
+    -75.662768,
+    39.694245
+],
+  "geometry": {"coordinates":[-75.662768,39.694245],"type":"Point"}
+}

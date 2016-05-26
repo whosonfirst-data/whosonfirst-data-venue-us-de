@@ -1,0 +1,71 @@
+{
+  "id": 857698671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.112332,38.539303,-75.112332,38.539303",
+    "geom:latitude":38.539303,
+    "geom:longitude":-75.112332,
+    "iso:country":"US",
+    "sg:address":"5 Pine Grove Ln",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 9105",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31AXv14ceFTmctC4EQcuyy_38.539303_-75.112332@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220785,
+    "wof:geomhash":"e365c7fa8e4b705343cfa5c549d3fe12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857698671
+        }
+    ],
+    "wof:id":857698671,
+    "wof:lastmodified":1464220785,
+    "wof:name":"Fred A Englert Dr",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.112332,
+    38.539303,
+    -75.112332,
+    38.539303
+],
+  "geometry": {"coordinates":[-75.11233199999999,38.539303],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873472421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517482,39.144226,-75.517482,39.144226",
+    "geom:latitude":39.144226,
+    "geom:longitude":-75.517482,
+    "iso:country":"US",
+    "sg:address":"1050 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 8800",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WP0Ry86pMmlJ0E9xbhHMu_39.144226_-75.517482@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221822,
+    "wof:geomhash":"175c02d502bb8b57e19573d79950e59e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873472421
+        }
+    ],
+    "wof:id":873472421,
+    "wof:lastmodified":1464221822,
+    "wof:name":"Rainbow Vacuum Inc",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -75.517482,
+    39.144226,
+    -75.517482,
+    39.144226
+],
+  "geometry": {"coordinates":[-75.517482,39.144226],"type":"Point"}
+}

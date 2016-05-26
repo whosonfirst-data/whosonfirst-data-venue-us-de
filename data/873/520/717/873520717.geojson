@@ -1,0 +1,84 @@
+{
+  "id": 873520717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54607,39.192986,-75.54607,39.192986",
+    "geom:latitude":39.192986,
+    "geom:longitude":-75.54607,
+    "iso:country":"US",
+    "sg:address":"1570 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Resort",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Ski Resort",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 8500",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://clk.atdmt.com/NYC/go/156347033/direct/01/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v4k9dHUyFM2NrNwYMbegP_39.192986_-75.546070@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223914,
+    "wof:geomhash":"c2625745c73cab77ed98ea318605cf40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873520717
+        }
+    ],
+    "wof:id":873520717,
+    "wof:lastmodified":1464223914,
+    "wof:name":"Sheraton Dover",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -75.54607,
+    39.192986,
+    -75.54607,
+    39.192986
+],
+  "geometry": {"coordinates":[-75.54607,39.192986],"type":"Point"}
+}

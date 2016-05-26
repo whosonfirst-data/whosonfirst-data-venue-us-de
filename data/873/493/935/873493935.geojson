@@ -1,0 +1,69 @@
+{
+  "id": 873493935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.075564,38.69506,-75.075564,38.69506",
+    "geom:latitude":38.69506,
+    "geom:longitude":-75.075564,
+    "iso:country":"US",
+    "sg:address":"120 New Orleans St",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 5062",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85803179,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WOCpqdUuOVM6LEYm6gG3h_38.695060_-75.075564@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222648,
+    "wof:geomhash":"1d444c3bf47ea62bba667f8a4d82c9a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85803179,
+            "region_id":85688611,
+            "venue_id":873493935
+        }
+    ],
+    "wof:id":873493935,
+    "wof:lastmodified":1464222648,
+    "wof:name":"Caminero Rosario Dr",
+    "wof:parent_id":85803179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.075564,
+    38.69506,
+    -75.075564,
+    38.69506
+],
+  "geometry": {"coordinates":[-75.075564,38.69506],"type":"Point"}
+}

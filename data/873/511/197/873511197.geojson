@@ -1,0 +1,85 @@
+{
+  "id": 873511197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.750059,39.68328,-75.750059,39.68328",
+    "geom:latitude":39.68328,
+    "geom:longitude":-75.750059,
+    "iso:country":"US",
+    "sg:address":"63 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Photographic Equipment",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 3500",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratories-commercial",
+        "finishing",
+        "photo",
+        "supply"
+    ],
+    "sg:website":"http://www.newarkcamera.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DyryT7G9QISursvTad0bO_39.683147_-75.750723@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223430,
+    "wof:geomhash":"4dfe8b6a1b223601f7c0496213c029fe",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873511197
+        }
+    ],
+    "wof:id":873511197,
+    "wof:lastmodified":1464223430,
+    "wof:name":"Newark Camera Shop",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratories-commercial",
+        "finishing",
+        "photo",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.750059,
+    39.68328,
+    -75.750059,
+    39.68328
+],
+  "geometry": {"coordinates":[-75.75005899999999,39.68328],"type":"Point"}
+}

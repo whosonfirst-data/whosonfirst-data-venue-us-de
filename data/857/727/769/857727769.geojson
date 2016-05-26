@@ -1,0 +1,73 @@
+{
+  "id": 857727769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.307793,38.78374,-75.307793,38.78374",
+    "geom:latitude":38.78374,
+    "geom:longitude":-75.307793,
+    "iso:country":"US",
+    "sg:address":"609 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 9141",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24YbpwE8pglAP4ddtpUunf_38.783740_-75.307793@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221392,
+    "wof:geomhash":"e9327c20a19334e158a622b597787e52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857727769
+        }
+    ],
+    "wof:id":857727769,
+    "wof:lastmodified":1464221392,
+    "wof:name":"Cape Surgical Assoc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.307793,
+    38.78374,
+    -75.307793,
+    38.78374
+],
+  "geometry": {"coordinates":[-75.307793,38.78374],"type":"Point"}
+}

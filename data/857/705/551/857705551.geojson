@@ -1,0 +1,82 @@
+{
+  "id": 857705551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571385,39.21204,-75.571385,39.21204",
+    "geom:latitude":39.21204,
+    "geom:longitude":-75.571385,
+    "iso:country":"US",
+    "sg:address":"4508 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 3444",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "armature",
+        "electric",
+        "motor",
+        "rewinding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4C4cW0Py3sEsbRO8IP9VJ7_39.212040_-75.571385@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220924,
+    "wof:geomhash":"92c8e5ed0f969b45c2cea9f386dfe615",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857705551
+        }
+    ],
+    "wof:id":857705551,
+    "wof:lastmodified":1464220924,
+    "wof:name":"Dill's Electric",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "armature",
+        "electric",
+        "motor",
+        "rewinding"
+    ]
+},
+  "bbox": [
+    -75.571385,
+    39.21204,
+    -75.571385,
+    39.21204
+],
+  "geometry": {"coordinates":[-75.57138500000001,39.21204],"type":"Point"}
+}

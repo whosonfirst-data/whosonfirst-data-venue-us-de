@@ -1,0 +1,71 @@
+{
+  "id": 873492915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601239,39.725108,-75.601239,39.725108",
+    "geom:latitude":39.725108,
+    "geom:longitude":-75.601239,
+    "iso:country":"US",
+    "sg:address":"6 North Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 2347",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "support",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hvu9XkPQ0yDTcRVkJgX7u_39.725108_-75.601239@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222603,
+    "wof:geomhash":"d1700c78df88c7a10b38dd11e3670e78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873492915
+        }
+    ],
+    "wof:id":873492915,
+    "wof:lastmodified":1464222603,
+    "wof:name":"Family Resource Network",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "support",
+        "family"
+    ]
+},
+  "bbox": [
+    -75.601239,
+    39.725108,
+    -75.601239,
+    39.725108
+],
+  "geometry": {"coordinates":[-75.60123900000001,39.725108],"type":"Point"}
+}

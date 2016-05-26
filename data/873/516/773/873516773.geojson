@@ -1,0 +1,80 @@
+{
+  "id": 873516773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556183,39.730705,-75.556183,39.730705",
+    "geom:latitude":39.730705,
+    "geom:longitude":-75.556183,
+    "iso:country":"US",
+    "sg:address":"518 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5898",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "transmission",
+        "transmissions-other"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zG27CB8sDIfKaNRjUqtzt_39.730705_-75.556183@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223707,
+    "wof:geomhash":"8091fe1037829ec37ab8b68f0f4f27db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873516773
+        }
+    ],
+    "wof:id":873516773,
+    "wof:lastmodified":1464223707,
+    "wof:name":"American Transmission Rebuilders, Inc",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "transmissions-other"
+    ]
+},
+  "bbox": [
+    -75.556183,
+    39.730705,
+    -75.556183,
+    39.730705
+],
+  "geometry": {"coordinates":[-75.556183,39.730705],"type":"Point"}
+}

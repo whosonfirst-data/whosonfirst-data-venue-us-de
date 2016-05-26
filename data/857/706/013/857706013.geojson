@@ -1,0 +1,75 @@
+{
+  "id": 857706013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586095,39.71898,-75.586095,39.71898",
+    "geom:latitude":39.71898,
+    "geom:longitude":-75.586095,
+    "iso:country":"US",
+    "sg:address":"3 Lewis Cir",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 2584",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "construction",
+        "safety",
+        "rent",
+        "highway"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SOGN3ZgT9Q2qJm1G0xbfu_39.718980_-75.586095@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220932,
+    "wof:geomhash":"adba7afaf17f1f866dc2d1e0986676ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":857706013
+        }
+    ],
+    "wof:id":857706013,
+    "wof:lastmodified":1464220932,
+    "wof:name":"Protection Services Inc",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "construction",
+        "safety",
+        "rent",
+        "highway"
+    ]
+},
+  "bbox": [
+    -75.586095,
+    39.71898,
+    -75.586095,
+    39.71898
+],
+  "geometry": {"coordinates":[-75.586095,39.71898],"type":"Point"}
+}

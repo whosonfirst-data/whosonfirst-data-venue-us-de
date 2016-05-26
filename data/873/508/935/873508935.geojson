@@ -1,0 +1,69 @@
+{
+  "id": 873508935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.53039,39.782855,-75.53039,39.782855",
+    "geom:latitude":39.782855,
+    "geom:longitude":-75.53039,
+    "iso:country":"US",
+    "sg:address":"1504 Talley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 5773",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "stationery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85845563,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yRL2BZSdNIFny2PX1YfpV_39.782855_-75.530390@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223327,
+    "wof:geomhash":"c36050008a4595a841260dc4d90dc7d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85845563,
+            "region_id":85688611,
+            "venue_id":873508935
+        }
+    ],
+    "wof:id":873508935,
+    "wof:lastmodified":1464223327,
+    "wof:name":"Print Data Corp",
+    "wof:parent_id":85845563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stationery"
+    ]
+},
+  "bbox": [
+    -75.53039,
+    39.782855,
+    -75.53039,
+    39.782855
+],
+  "geometry": {"coordinates":[-75.53039,39.782855],"type":"Point"}
+}

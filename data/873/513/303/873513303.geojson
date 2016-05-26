@@ -1,0 +1,72 @@
+{
+  "id": 873513303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.684009,39.684738,-75.684009,39.684738",
+    "geom:latitude":39.684738,
+    "geom:longitude":-75.684009,
+    "iso:country":"US",
+    "sg:address":"4140 Ogletown Stanton Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/81434-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 0770",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tbDrKnq0HGvCNErl7CDbk_39.684738_-75.684009@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223524,
+    "wof:geomhash":"af9c56b83c307132070246fcc85c7449",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513303
+        }
+    ],
+    "wof:id":873513303,
+    "wof:lastmodified":1464223524,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.684009,
+    39.684738,
+    -75.684009,
+    39.684738
+],
+  "geometry": {"coordinates":[-75.684009,39.684738],"type":"Point"}
+}

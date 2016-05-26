@@ -1,0 +1,71 @@
+{
+  "id": 873467223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.161638,38.73427,-75.161638,38.73427",
+    "geom:latitude":38.73427,
+    "geom:longitude":-75.161638,
+    "iso:country":"US",
+    "sg:address":"17 The Plantations",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2221",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36G4DwCBupNYDoKXSBovot_38.734270_-75.161638@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221626,
+    "wof:geomhash":"09abfd0eb3650632f14616660e95bf5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873467223
+        }
+    ],
+    "wof:id":873467223,
+    "wof:lastmodified":1464221626,
+    "wof:name":"Colors By Vaughn",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.161638,
+    38.73427,
+    -75.161638,
+    38.73427
+],
+  "geometry": {"coordinates":[-75.161638,38.73427],"type":"Point"}
+}

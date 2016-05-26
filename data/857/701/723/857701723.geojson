@@ -1,0 +1,75 @@
+{
+  "id": 857701723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571468,39.748711,-75.571468,39.748711",
+    "geom:latitude":39.748711,
+    "geom:longitude":-75.571468,
+    "iso:country":"US",
+    "sg:address":"1831 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 2437",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0o9az3NLfAVYWkoic9Q1kG_39.748711_-75.571468@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220854,
+    "wof:geomhash":"ec49dbedf4d02ad05c0150f7fc66be2f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857701723
+        }
+    ],
+    "wof:id":857701723,
+    "wof:lastmodified":1464220854,
+    "wof:name":"Todd Dental Laboratory",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -75.571468,
+    39.748711,
+    -75.571468,
+    39.748711
+],
+  "geometry": {"coordinates":[-75.571468,39.748711],"type":"Point"}
+}

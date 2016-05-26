@@ -1,0 +1,76 @@
+{
+  "id": 873518341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60136,39.712551,-75.60136,39.712551",
+    "geom:latitude":39.712551,
+    "geom:longitude":-75.60136,
+    "iso:country":"US",
+    "sg:address":"355 Water St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1644",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "installation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19sJLB6TxbnTnCpt7ZnLsu_39.712551_-75.601360@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223808,
+    "wof:geomhash":"b9d1e5ebf512aa2eef2f467a8a24eeb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873518341
+        }
+    ],
+    "wof:id":873518341,
+    "wof:lastmodified":1464223808,
+    "wof:name":"Us Installation Group Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "installation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.60136,
+    39.712551,
+    -75.60136,
+    39.712551
+],
+  "geometry": {"coordinates":[-75.60136,39.712551],"type":"Point"}
+}

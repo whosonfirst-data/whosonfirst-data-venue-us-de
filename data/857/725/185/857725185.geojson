@@ -1,0 +1,76 @@
+{
+  "id": 857725185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.318239,38.783333,-75.318239,38.783333",
+    "geom:latitude":38.783333,
+    "geom:longitude":-75.318239,
+    "iso:country":"US",
+    "sg:address":"428 Rudder Ln",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 3610",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hteqw0HXQ4kRMLL4JR7W0_38.783333_-75.318239@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221347,
+    "wof:geomhash":"c3fba1988816ae674976e62d10e78076",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857725185
+        }
+    ],
+    "wof:id":857725185,
+    "wof:lastmodified":1464221347,
+    "wof:name":"Fernandez Therapeutic Services",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -75.318239,
+    38.783333,
+    -75.318239,
+    38.783333
+],
+  "geometry": {"coordinates":[-75.31823900000001,38.783333],"type":"Point"}
+}

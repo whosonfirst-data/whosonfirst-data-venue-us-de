@@ -1,0 +1,73 @@
+{
+  "id": 873487545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.520719,39.750241,-75.520719,39.750241",
+    "geom:latitude":39.750241,
+    "geom:longitude":-75.520719,
+    "iso:country":"US",
+    "sg:address":"3015 Bellevue Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 765 3497",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "stone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74xJtfaz1QbKoenATk9Q7z_39.750241_-75.520719@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222398,
+    "wof:geomhash":"79141846ff5a0def65a960fff721157b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873487545
+        }
+    ],
+    "wof:id":873487545,
+    "wof:lastmodified":1464222398,
+    "wof:name":"Best Stoneworks Inc",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stone"
+    ]
+},
+  "bbox": [
+    -75.520719,
+    39.750241,
+    -75.520719,
+    39.750241
+],
+  "geometry": {"coordinates":[-75.520719,39.750241],"type":"Point"}
+}

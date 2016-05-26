@@ -1,0 +1,71 @@
+{
+  "id": 873476013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.643136,39.750362,-75.643136,39.750362",
+    "geom:latitude":39.750362,
+    "geom:longitude":-75.643136,
+    "iso:country":"US",
+    "sg:address":"2835 E Oakland Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 1549",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YC2DK7WNmLJNOR7nGBAbj_39.750362_-75.643136@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221949,
+    "wof:geomhash":"7c6ef6d031d5b0bac1c479a98d1bc70a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873476013
+        }
+    ],
+    "wof:id":873476013,
+    "wof:lastmodified":1464221949,
+    "wof:name":"Geek Technologies Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -75.643136,
+    39.750362,
+    -75.643136,
+    39.750362
+],
+  "geometry": {"coordinates":[-75.643136,39.750362],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873488319,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.718333,39.668634,-75.718333,39.668634",
+    "geom:latitude":39.668634,
+    "geom:longitude":-75.718333,
+    "iso:country":"US",
+    "sg:address":"168 Brookside Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 0647",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UUroW4CMFYZleeYXsSaJF_39.668634_-75.718333@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222434,
+    "wof:geomhash":"862e7252ee7f9f4f4f9a844a24eba054",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873488319
+        }
+    ],
+    "wof:id":873488319,
+    "wof:lastmodified":1464222434,
+    "wof:name":"Back To Basics",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.718333,
+    39.668634,
+    -75.718333,
+    39.668634
+],
+  "geometry": {"coordinates":[-75.718333,39.668634],"type":"Point"}
+}

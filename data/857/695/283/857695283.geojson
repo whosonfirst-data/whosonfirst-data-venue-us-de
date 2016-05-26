@@ -1,0 +1,73 @@
+{
+  "id": 857695283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589662,38.456029,-75.589662,38.456029",
+    "geom:latitude":38.456029,
+    "geom:longitude":-75.589662,
+    "iso:country":"US",
+    "sg:address":"29324 Waller Rd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 2931",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZIQO6xSK8hT4gAXqJoiP9_38.456029_-75.589662@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220725,
+    "wof:geomhash":"63cef832d6812b8164b06a82fa64660b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":857695283
+        }
+    ],
+    "wof:id":857695283,
+    "wof:lastmodified":1464220725,
+    "wof:name":"Little League Baseball In",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -75.589662,
+    38.456029,
+    -75.589662,
+    38.456029
+],
+  "geometry": {"coordinates":[-75.589662,38.456029],"type":"Point"}
+}

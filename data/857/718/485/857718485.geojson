@@ -1,0 +1,71 @@
+{
+  "id": 857718485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.723356,39.693097,-75.723356,39.693097",
+    "geom:latitude":39.693097,
+    "geom:longitude":-75.723356,
+    "iso:country":"US",
+    "sg:address":"605 Capitol Trl",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 1410",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "food",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Ia2VUlLV8VQKnkAMrDT1O_39.693097_-75.723356@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221212,
+    "wof:geomhash":"9f0b1099b80f76b4475dad857b40db9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857718485
+        }
+    ],
+    "wof:id":857718485,
+    "wof:lastmodified":1464221212,
+    "wof:name":"Chesapeake Secrets",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "food",
+        "product"
+    ]
+},
+  "bbox": [
+    -75.723356,
+    39.693097,
+    -75.723356,
+    39.693097
+],
+  "geometry": {"coordinates":[-75.723356,39.693097],"type":"Point"}
+}

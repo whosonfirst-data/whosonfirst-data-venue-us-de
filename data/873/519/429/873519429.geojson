@@ -1,0 +1,78 @@
+{
+  "id": 873519429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.487722,39.77429,-75.487722,39.77429",
+    "geom:latitude":39.77429,
+    "geom:longitude":-75.487722,
+    "iso:country":"US",
+    "sg:address":"719 Woodsdale Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 9269",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EB3YOSok8Bx6yJDKhtU06_39.774290_-75.487722@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223851,
+    "wof:geomhash":"ffd77954490b0fa93f9481eab16ccb30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873519429
+        }
+    ],
+    "wof:id":873519429,
+    "wof:lastmodified":1464223851,
+    "wof:name":"West Beach Builders",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.487722,
+    39.77429,
+    -75.487722,
+    39.77429
+],
+  "geometry": {"coordinates":[-75.48772200000001,39.77429],"type":"Point"}
+}

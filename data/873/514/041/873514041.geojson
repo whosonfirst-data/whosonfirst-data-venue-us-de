@@ -1,0 +1,100 @@
+{
+  "id": 873514041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605908,39.305137,-75.605908,39.305137",
+    "geom:latitude":39.305137,
+    "geom:longitude":-75.605908,
+    "iso:country":"US",
+    "sg:address":"227 N Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/smyrna/222415-donut-connection/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 6353",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KFjbKeOQltoSbNrSo8LUI_39.305166_-75.605836@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223563,
+    "wof:geomhash":"9d469b61f158509a01624e4e7346c21c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873514041
+        }
+    ],
+    "wof:id":873514041,
+    "wof:lastmodified":1464223563,
+    "wof:name":"Donut Connection",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee",
+        "bakery",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.605908,
+    39.305137,
+    -75.605908,
+    39.305137
+],
+  "geometry": {"coordinates":[-75.605908,39.305137],"type":"Point"}
+}

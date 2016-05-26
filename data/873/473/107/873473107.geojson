@@ -1,0 +1,72 @@
+{
+  "id": 873473107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.627969,39.285034,-75.627969,39.285034",
+    "geom:latitude":39.285034,
+    "geom:longitude":-75.627969,
+    "iso:country":"US",
+    "sg:address":"73 Artisan Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 3032",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.plastiscience.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RLpNoBGNgWPP6BvrE3mOC_39.285034_-75.627969@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221845,
+    "wof:geomhash":"57216e7fa10c7dadc27d1133a923d3d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873473107
+        }
+    ],
+    "wof:id":873473107,
+    "wof:lastmodified":1464221845,
+    "wof:name":"Plastiscience LLC",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.627969,
+    39.285034,
+    -75.627969,
+    39.285034
+],
+  "geometry": {"coordinates":[-75.62796899999999,39.285034],"type":"Point"}
+}

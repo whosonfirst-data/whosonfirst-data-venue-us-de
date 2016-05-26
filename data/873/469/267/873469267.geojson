@@ -1,0 +1,73 @@
+{
+  "id": 873469267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552492,38.785053,-75.552492,38.785053",
+    "geom:latitude":38.785053,
+    "geom:longitude":-75.552492,
+    "iso:country":"US",
+    "sg:address":"14453 Sawmill Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 5852",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bbPktzzRFzMEPR8EDZkr2_38.785053_-75.552492@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221696,
+    "wof:geomhash":"dde4be78ebce44b678b648654544c05d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873469267
+        }
+    ],
+    "wof:id":873469267,
+    "wof:lastmodified":1464221696,
+    "wof:name":"Delaware State Paving",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.552492,
+    38.785053,
+    -75.552492,
+    38.785053
+],
+  "geometry": {"coordinates":[-75.552492,38.785053],"type":"Point"}
+}

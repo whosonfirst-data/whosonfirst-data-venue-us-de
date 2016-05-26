@@ -1,0 +1,71 @@
+{
+  "id": 857700393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.092848,38.714392,-75.092848,38.714392",
+    "geom:latitude":38.714392,
+    "geom:longitude":-75.092848,
+    "iso:country":"US",
+    "sg:address":"626 Rehoboth Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 2168",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RI0rG3V87mEnkSY5OtsqE_38.714392_-75.092848@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220822,
+    "wof:geomhash":"64ccec7ae39724ada9f9b94d9bb271f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":857700393
+        }
+    ],
+    "wof:id":857700393,
+    "wof:lastmodified":1464220822,
+    "wof:name":"Millard Wilbanks MD",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.092848,
+    38.714392,
+    -75.092848,
+    38.714392
+],
+  "geometry": {"coordinates":[-75.092848,38.714392],"type":"Point"}
+}

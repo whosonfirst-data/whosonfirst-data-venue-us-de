@@ -1,0 +1,71 @@
+{
+  "id": 873473263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.393871,38.69085,-75.393871,38.69085",
+    "geom:latitude":38.69085,
+    "geom:longitude":-75.393871,
+    "iso:country":"US",
+    "sg:address":"404 Robinson St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7947",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_43j7YVAYzkFdkeXkaQ3WaC_38.690850_-75.393871@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221855,
+    "wof:geomhash":"de0f7955216875cb825ff0aa04d525be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873473263
+        }
+    ],
+    "wof:id":873473263,
+    "wof:lastmodified":1464221855,
+    "wof:name":"Coastal Woodcraft",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.393871,
+    38.69085,
+    -75.393871,
+    38.69085
+],
+  "geometry": {"coordinates":[-75.393871,38.69085],"type":"Point"}
+}

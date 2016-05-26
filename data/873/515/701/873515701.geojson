@@ -1,0 +1,81 @@
+{
+  "id": 873515701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.727658,39.751758,-75.727658,39.751758",
+    "geom:latitude":39.751758,
+    "geom:longitude":-75.727658,
+    "iso:country":"US",
+    "sg:address":"9 Brookridge Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 1565",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "skip",
+        "tracing",
+        "bail",
+        "bond"
+    ],
+    "sg:website":"http://www.alliancebail.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85842215,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dwq3NYojqA80xKHs9sqlC_39.751758_-75.727658@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223652,
+    "wof:geomhash":"557ee3d74289da129e87ed8395bc86a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85842215,
+            "region_id":85688611,
+            "venue_id":873515701
+        }
+    ],
+    "wof:id":873515701,
+    "wof:lastmodified":1464223652,
+    "wof:name":"Alliance Bail Bonds",
+    "wof:parent_id":85842215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skip",
+        "tracing",
+        "bail",
+        "bond"
+    ]
+},
+  "bbox": [
+    -75.727658,
+    39.751758,
+    -75.727658,
+    39.751758
+],
+  "geometry": {"coordinates":[-75.72765800000001,39.751758],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873502193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.310681,38.776644,-75.310681,38.776644",
+    "geom:latitude":38.776644,
+    "geom:longitude":-75.310681,
+    "iso:country":"US",
+    "sg:address":"200 Federal St",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 9099",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11G6yElO0rErg9iG8BGAwV_38.776644_-75.310681@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223035,
+    "wof:geomhash":"656cb0151f2a9e7064b331759fdd5cbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873502193
+        }
+    ],
+    "wof:id":873502193,
+    "wof:lastmodified":1464223035,
+    "wof:name":"Nanticoke Cardiology",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -75.310681,
+    38.776644,
+    -75.310681,
+    38.776644
+],
+  "geometry": {"coordinates":[-75.310681,38.776644],"type":"Point"}
+}

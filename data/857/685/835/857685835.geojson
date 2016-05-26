@@ -1,0 +1,69 @@
+{
+  "id": 857685835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573144,39.75915,-75.573144,39.75915",
+    "geom:latitude":39.75915,
+    "geom:longitude":-75.573144,
+    "iso:country":"US",
+    "sg:address":"2300 Pennsylvania Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 1533",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MTUyiRC77NsmeajrWgNif_39.759150_-75.573144@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220537,
+    "wof:geomhash":"e8b9f12e555ea1a3136a35a2cfff3ff5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":857685835
+        }
+    ],
+    "wof:id":857685835,
+    "wof:lastmodified":1464220537,
+    "wof:name":"Michele Broder DDS",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.573144,
+    39.75915,
+    -75.573144,
+    39.75915
+],
+  "geometry": {"coordinates":[-75.573144,39.75915],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873477399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541523,39.723612,-75.541523,39.723612",
+    "geom:latitude":39.723612,
+    "geom:longitude":-75.541523,
+    "iso:country":"US",
+    "sg:address":"1420 New York Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 4097",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "system",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MOaGQSdIHhjvt2wkgP5RJ_39.723612_-75.541523@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221998,
+    "wof:geomhash":"5380b1f4024d9faaffdaeda854748a01",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":873477399
+        }
+    ],
+    "wof:id":873477399,
+    "wof:lastmodified":1464221998,
+    "wof:name":"BFI Waste Services LLC",
+    "wof:parent_id":85833991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "system",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.541523,
+    39.723612,
+    -75.541523,
+    39.723612
+],
+  "geometry": {"coordinates":[-75.541523,39.723612],"type":"Point"}
+}

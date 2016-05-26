@@ -1,0 +1,71 @@
+{
+  "id": 873465267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.643262,39.729247,-75.643262,39.729247",
+    "geom:latitude":39.729247,
+    "geom:longitude":-75.643262,
+    "iso:country":"US",
+    "sg:address":"3 Center Cir",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 0187",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7TPdPxMNq0Op1WTqNnnM6U_39.729247_-75.643262@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221574,
+    "wof:geomhash":"a2672c525162d426b11d7e2b6903d4d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873465267
+        }
+    ],
+    "wof:id":873465267,
+    "wof:lastmodified":1464221574,
+    "wof:name":"Clear View Investment",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -75.643262,
+    39.729247,
+    -75.643262,
+    39.729247
+],
+  "geometry": {"coordinates":[-75.64326199999999,39.729247],"type":"Point"}
+}

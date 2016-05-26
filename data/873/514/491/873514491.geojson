@@ -1,0 +1,71 @@
+{
+  "id": 873514491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.759706,39.603421,-75.759706,39.603421",
+    "geom:latitude":39.603421,
+    "geom:longitude":-75.759706,
+    "iso:country":"US",
+    "sg:address":"2725 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 1241",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "style",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44ag7cKe3VPSx2VGkmIS9t_39.603421_-75.759706@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223592,
+    "wof:geomhash":"71555444cc114b8136b43312f335fbe0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514491
+        }
+    ],
+    "wof:id":873514491,
+    "wof:lastmodified":1464223592,
+    "wof:name":"Guild Days",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "style",
+        "family"
+    ]
+},
+  "bbox": [
+    -75.759706,
+    39.603421,
+    -75.759706,
+    39.603421
+],
+  "geometry": {"coordinates":[-75.75970599999999,39.603421],"type":"Point"}
+}

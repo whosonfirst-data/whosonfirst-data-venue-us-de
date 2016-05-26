@@ -1,0 +1,86 @@
+{
+  "id": 873515641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74651,39.683565,-75.74651,39.683565",
+    "geom:latitude":39.683565,
+    "geom:longitude":-75.74651,
+    "iso:country":"US",
+    "sg:address":"165 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 8775",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ],
+    "sg:website":"http://www.subway.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BJJc5TpzdVeWjxtuhduAb_39.683565_-75.746510@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223650,
+    "wof:geomhash":"c6b9a2299ad9a887b84389db69dea8f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515641
+        }
+    ],
+    "wof:id":873515641,
+    "wof:lastmodified":1464223650,
+    "wof:name":"SUBWAY",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "american",
+        "sandwich",
+        "take"
+    ]
+},
+  "bbox": [
+    -75.74651,
+    39.683565,
+    -75.74651,
+    39.683565
+],
+  "geometry": {"coordinates":[-75.74651,39.683565],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873479837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.715634,39.698874,-75.715634,39.698874",
+    "geom:latitude":39.698874,
+    "geom:longitude":-75.715634,
+    "iso:country":"US",
+    "sg:address":"14 Delrose Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 6357",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2345CA1rJCWoF5yg09pAe0_39.698874_-75.715634@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222105,
+    "wof:geomhash":"67d1a0e751e603d2cf8804019e069a46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873479837
+        }
+    ],
+    "wof:id":873479837,
+    "wof:lastmodified":1464222105,
+    "wof:name":"Dimarco Marine Svc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.715634,
+    39.698874,
+    -75.715634,
+    39.698874
+],
+  "geometry": {"coordinates":[-75.71563399999999,39.698874],"type":"Point"}
+}

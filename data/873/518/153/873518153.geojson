@@ -1,0 +1,75 @@
+{
+  "id": 873518153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548296,39.798975,-75.548296,39.798975",
+    "geom:latitude":39.798975,
+    "geom:longitude":-75.548296,
+    "iso:country":"US",
+    "sg:address":"2900 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 793 1905",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delivery"
+    ],
+    "sg:website":"www.totde.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BtbBAdkpG6G8HaFCvei6P_39.798975_-75.548296@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223801,
+    "wof:geomhash":"b05fa65ef4f4a451405144bb08bc6ac7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873518153
+        }
+    ],
+    "wof:id":873518153,
+    "wof:lastmodified":1464223801,
+    "wof:name":"Takeout Taxi Restaurant Delivery",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery"
+    ]
+},
+  "bbox": [
+    -75.548296,
+    39.798975,
+    -75.548296,
+    39.798975
+],
+  "geometry": {"coordinates":[-75.54829599999999,39.798975],"type":"Point"}
+}

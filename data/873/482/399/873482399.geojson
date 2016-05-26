@@ -1,0 +1,71 @@
+{
+  "id": 873482399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570069,38.452231,-75.570069,38.452231",
+    "geom:latitude":38.452231,
+    "geom:longitude":-75.570069,
+    "iso:country":"US",
+    "sg:address":"606 E Pine St",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 3200",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kcev0YhZTNGyuzf3hLXBP_38.452231_-75.570069@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222207,
+    "wof:geomhash":"054f32665a4ae596e869362fcef9312a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873482399
+        }
+    ],
+    "wof:id":873482399,
+    "wof:lastmodified":1464222207,
+    "wof:name":"Shoreman Construction Co",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.570069,
+    38.452231,
+    -75.570069,
+    38.452231
+],
+  "geometry": {"coordinates":[-75.570069,38.452231],"type":"Point"}
+}

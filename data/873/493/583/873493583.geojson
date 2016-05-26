@@ -1,0 +1,73 @@
+{
+  "id": 873493583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527346,39.178728,-75.527346,39.178728",
+    "geom:latitude":39.178728,
+    "geom:longitude":-75.527346,
+    "iso:country":"US",
+    "sg:address":"746 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9600",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Vu4LRcROyUPBXEPwFIvnq_39.178728_-75.527346@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222631,
+    "wof:geomhash":"f2ed2e98662e9f2c4d549dc09240e17a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873493583
+        }
+    ],
+    "wof:id":873493583,
+    "wof:lastmodified":1464222631,
+    "wof:name":"Safelite Autoglass",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -75.527346,
+    39.178728,
+    -75.527346,
+    39.178728
+],
+  "geometry": {"coordinates":[-75.52734599999999,39.178728],"type":"Point"}
+}

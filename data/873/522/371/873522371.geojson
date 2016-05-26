@@ -1,0 +1,80 @@
+{
+  "id": 873522371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.622933,39.200839,-75.622933,39.200839",
+    "geom:latitude":39.200839,
+    "geom:longitude":-75.622933,
+    "iso:country":"US",
+    "sg:address":"66 Dakota Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 1970",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V0JcM7BcLkLfBaKEkfspG_39.200839_-75.622933@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223979,
+    "wof:geomhash":"0171d5c9fac0e997aecdb6dc9d300f7a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522371
+        }
+    ],
+    "wof:id":873522371,
+    "wof:lastmodified":1464223979,
+    "wof:name":"J.M. Halfen Trucking",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.622933,
+    39.200839,
+    -75.622933,
+    39.200839
+],
+  "geometry": {"coordinates":[-75.622933,39.200839],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873471193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547004,39.74499,-75.547004,39.74499",
+    "geom:latitude":39.74499,
+    "geom:longitude":-75.547004,
+    "iso:country":"US",
+    "sg:address":"920 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 573 6184",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60ro65DgUS8nYbjphqkI9V_39.744990_-75.547004@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221776,
+    "wof:geomhash":"b65150cf53b76cc260af565da73a5c6a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873471193
+        }
+    ],
+    "wof:id":873471193,
+    "wof:lastmodified":1464221776,
+    "wof:name":"DEA",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.547004,
+    39.74499,
+    -75.547004,
+    39.74499
+],
+  "geometry": {"coordinates":[-75.547004,39.74499],"type":"Point"}
+}

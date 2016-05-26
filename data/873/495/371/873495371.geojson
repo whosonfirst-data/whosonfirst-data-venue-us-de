@@ -1,0 +1,77 @@
+{
+  "id": 873495371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.584694,39.751015,-75.584694,39.751015",
+    "geom:latitude":39.751015,
+    "geom:longitude":-75.584694,
+    "iso:country":"US",
+    "sg:address":"2915 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5577",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "a",
+        "shop",
+        "as",
+        "coffee",
+        "operates"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23GFhGlnP5J7bzpbKjWyQk_39.751015_-75.584694@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222743,
+    "wof:geomhash":"3feae1d0fefec5296429773f44591ae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873495371
+        }
+    ],
+    "wof:id":873495371,
+    "wof:lastmodified":1464222743,
+    "wof:name":"Tuxedo Express",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "a",
+        "shop",
+        "as",
+        "coffee",
+        "operates"
+    ]
+},
+  "bbox": [
+    -75.584694,
+    39.751015,
+    -75.584694,
+    39.751015
+],
+  "geometry": {"coordinates":[-75.584694,39.751015],"type":"Point"}
+}

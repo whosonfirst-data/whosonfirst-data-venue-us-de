@@ -1,0 +1,85 @@
+{
+  "id": 873511313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.501999,39.805801,-75.501999,39.805801",
+    "geom:latitude":39.805801,
+    "geom:longitude":-75.501999,
+    "iso:country":"US",
+    "sg:address":"1847 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 1469",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "facility",
+        "spa",
+        "physical",
+        "day",
+        "fitness"
+    ],
+    "sg:website":"mysanctuaryspasalon.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0PKZFp6EhVuTmO6rQc3lYj_39.805708_-75.501727@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223433,
+    "wof:geomhash":"6e6f73daf8b570ea4f37e7463d97f3e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873511313
+        }
+    ],
+    "wof:id":873511313,
+    "wof:lastmodified":1464223433,
+    "wof:name":"Sanctuary Spa and Salon",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "spa",
+        "physical",
+        "day",
+        "fitness"
+    ]
+},
+  "bbox": [
+    -75.501999,
+    39.805801,
+    -75.501999,
+    39.805801
+],
+  "geometry": {"coordinates":[-75.501999,39.805801],"type":"Point"}
+}

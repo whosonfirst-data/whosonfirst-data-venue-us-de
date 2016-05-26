@@ -1,0 +1,73 @@
+{
+  "id": 873525161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.147045,38.46381,-75.147045,38.46381",
+    "geom:latitude":38.46381,
+    "geom:longitude":-75.147045,
+    "iso:country":"US",
+    "sg:address":"3773 Lighthouse Rd",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 2712",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gNpHBO6zWU74kdmB7w0EV_38.463810_-75.147045@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224085,
+    "wof:geomhash":"98f1c6d52c7624867b110a27e2db04c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525161
+        }
+    ],
+    "wof:id":873525161,
+    "wof:lastmodified":1464224085,
+    "wof:name":"R E Gray & Associates",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.147045,
+    38.46381,
+    -75.147045,
+    38.46381
+],
+  "geometry": {"coordinates":[-75.14704500000001,38.46381],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873520673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.536445,39.18659,-75.536445,39.18659",
+    "geom:latitude":39.18659,
+    "geom:longitude":-75.536445,
+    "iso:country":"US",
+    "sg:address":"1001 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8376",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drugstore"
+    ],
+    "sg:website":"www.savon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_638nJU4HQW6IvVbIScg2Un_39.186590_-75.536445@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223913,
+    "wof:geomhash":"808fe6541892dc4c98a0a0ddfc3855be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873520673
+        }
+    ],
+    "wof:id":873520673,
+    "wof:lastmodified":1464223913,
+    "wof:name":"Sav-On Pharmacy",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drugstore"
+    ]
+},
+  "bbox": [
+    -75.536445,
+    39.18659,
+    -75.536445,
+    39.18659
+],
+  "geometry": {"coordinates":[-75.536445,39.18659],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873518053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523914,39.805545,-75.523914,39.805545",
+    "geom:latitude":39.805545,
+    "geom:longitude":-75.523914,
+    "iso:country":"US",
+    "sg:address":"29 Perth Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 2890",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "moving-self",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ssuDE2gxpCw1cfTww990z_39.805545_-75.523914@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223797,
+    "wof:geomhash":"39e37f5fb6ba776e9a50d566d31f72d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873518053
+        }
+    ],
+    "wof:id":873518053,
+    "wof:lastmodified":1464223797,
+    "wof:name":"Ryder Merna",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving-self",
+        "truck"
+    ]
+},
+  "bbox": [
+    -75.523914,
+    39.805545,
+    -75.523914,
+    39.805545
+],
+  "geometry": {"coordinates":[-75.523914,39.805545],"type":"Point"}
+}

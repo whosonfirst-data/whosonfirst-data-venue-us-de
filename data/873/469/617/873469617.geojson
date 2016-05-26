@@ -1,0 +1,83 @@
+{
+  "id": 873469617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552443,39.165399,-75.552443,39.165399",
+    "geom:latitude":39.165399,
+    "geom:longitude":-75.552443,
+    "iso:country":"US",
+    "sg:address":"50 Freedom Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4705",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TTP2AL3IHWvxPRGbQGydc_39.165399_-75.552443@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221710,
+    "wof:geomhash":"ad770bbe21aec7593473d02a6b5bcb88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873469617
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873469617
+        }
+    ],
+    "wof:id":873469617,
+    "wof:lastmodified":1464221710,
+    "wof:name":"Rosco Construction",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.552443,
+    39.165399,
+    -75.552443,
+    39.165399
+],
+  "geometry": {"coordinates":[-75.552443,39.165399],"type":"Point"}
+}

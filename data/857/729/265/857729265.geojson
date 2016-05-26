@@ -1,0 +1,73 @@
+{
+  "id": 857729265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.69901,39.685574,-75.69901,39.685574",
+    "geom:latitude":39.685574,
+    "geom:longitude":-75.69901,
+    "iso:country":"US",
+    "sg:address":"6 Mill Park Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7350",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75QhkqarMRShRoyoGTyypl_39.685574_-75.699010@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221420,
+    "wof:geomhash":"0ee9f10a30198575c12d0b1e89243dae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857729265
+        }
+    ],
+    "wof:id":857729265,
+    "wof:lastmodified":1464221420,
+    "wof:name":"Rinehimer Body Shop & Auto Wrk",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.69901,
+    39.685574,
+    -75.69901,
+    39.685574
+],
+  "geometry": {"coordinates":[-75.69901,39.685574],"type":"Point"}
+}

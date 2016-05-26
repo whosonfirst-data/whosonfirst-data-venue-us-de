@@ -1,0 +1,71 @@
+{
+  "id": 857707433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.735318,39.588731,-75.735318,39.588731",
+    "geom:latitude":39.588731,
+    "geom:longitude":-75.735318,
+    "iso:country":"US",
+    "sg:address":"44 Westbridge Rd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 9062",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4D0EUiDScPQnpkr3elyd6g_39.588731_-75.735318@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220957,
+    "wof:geomhash":"c420fa820bc58e071b104d58c0b1336d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857707433
+        }
+    ],
+    "wof:id":857707433,
+    "wof:lastmodified":1464220957,
+    "wof:name":"Wireless Matrix",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -75.735318,
+    39.588731,
+    -75.735318,
+    39.588731
+],
+  "geometry": {"coordinates":[-75.73531800000001,39.588731],"type":"Point"}
+}

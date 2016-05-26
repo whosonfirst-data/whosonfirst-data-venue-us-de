@@ -1,0 +1,75 @@
+{
+  "id": 857704307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5329,39.705505,-75.5329,39.705505",
+    "geom:latitude":39.705505,
+    "geom:longitude":-75.5329,
+    "iso:country":"US",
+    "sg:address":"1001 Lambson Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 772 0016",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "transportation",
+        "oil",
+        "gas",
+        "refining"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EHrbEou2GJSMANAmKWuzK_39.705505_-75.532900@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220900,
+    "wof:geomhash":"c45919e97ac09f34a74bb59e538171cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857704307
+        }
+    ],
+    "wof:id":857704307,
+    "wof:lastmodified":1464220900,
+    "wof:name":"Dupont",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transportation",
+        "oil",
+        "gas",
+        "refining"
+    ]
+},
+  "bbox": [
+    -75.5329,
+    39.705505,
+    -75.5329,
+    39.705505
+],
+  "geometry": {"coordinates":[-75.5329,39.705505],"type":"Point"}
+}

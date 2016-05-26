@@ -1,0 +1,75 @@
+{
+  "id": 873491983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.760482,39.696985,-75.760482,39.696985",
+    "geom:latitude":39.696985,
+    "geom:longitude":-75.760482,
+    "iso:country":"US",
+    "sg:address":"31 Wakefield Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 4553",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PIcwm5VhsDZkSQ3eqq4ix_39.696985_-75.760482@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222565,
+    "wof:geomhash":"84773f1d144545404e7e5b764311ab7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873491983
+        }
+    ],
+    "wof:id":873491983,
+    "wof:lastmodified":1464222565,
+    "wof:name":"Millers Beverage Center",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.760482,
+    39.696985,
+    -75.760482,
+    39.696985
+],
+  "geometry": {"coordinates":[-75.760482,39.696985],"type":"Point"}
+}

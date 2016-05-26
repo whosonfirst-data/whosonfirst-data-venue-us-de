@@ -1,0 +1,78 @@
+{
+  "id": 873523183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5299,39.178001,-75.5299,39.178001",
+    "geom:latitude":39.178001,
+    "geom:longitude":-75.5299,
+    "iso:country":"US",
+    "sg:address":"24 Hiawatha Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 0213",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vj4YJkDr3lRkk5le20SyE_39.178001_-75.529900@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224012,
+    "wof:geomhash":"e3f546b6fad209e1915a243b822769f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873523183
+        }
+    ],
+    "wof:id":873523183,
+    "wof:lastmodified":1464224012,
+    "wof:name":"Wilson Edw S PHD",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -75.5299,
+    39.178001,
+    -75.5299,
+    39.178001
+],
+  "geometry": {"coordinates":[-75.5299,39.178001],"type":"Point"}
+}

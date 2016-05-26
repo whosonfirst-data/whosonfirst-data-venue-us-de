@@ -1,0 +1,73 @@
+{
+  "id": 873509989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569512,39.754391,-75.569512,39.754391",
+    "geom:latitude":39.754391,
+    "geom:longitude":-75.569512,
+    "iso:country":"US",
+    "sg:address":"901 N Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 7245",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IrIj6RNnvO4sXzfuf4eYN_39.754391_-75.569512@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223377,
+    "wof:geomhash":"cf4f6df60d4226425aa3e7e5f683786f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873509989
+        }
+    ],
+    "wof:id":873509989,
+    "wof:lastmodified":1464223377,
+    "wof:name":"Union Park Service",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.569512,
+    39.754391,
+    -75.569512,
+    39.754391
+],
+  "geometry": {"coordinates":[-75.569512,39.754391],"type":"Point"}
+}

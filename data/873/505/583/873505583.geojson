@@ -1,0 +1,69 @@
+{
+  "id": 873505583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.642885,39.727108,-75.642885,39.727108",
+    "geom:latitude":39.727108,
+    "geom:longitude":-75.642885,
+    "iso:country":"US",
+    "sg:address":"3900 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 6383",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kDTdBeDOEp2II1XuRU8pK_39.727108_-75.642885@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223183,
+    "wof:geomhash":"7ec158ed5eb4eeccb479fa3904d9fa6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873505583
+        }
+    ],
+    "wof:id":873505583,
+    "wof:lastmodified":1464223183,
+    "wof:name":"Shear Chalet",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.642885,
+    39.727108,
+    -75.642885,
+    39.727108
+],
+  "geometry": {"coordinates":[-75.64288500000001,39.727108],"type":"Point"}
+}

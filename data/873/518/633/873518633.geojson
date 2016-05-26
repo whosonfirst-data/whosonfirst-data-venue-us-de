@@ -1,0 +1,71 @@
+{
+  "id": 873518633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.559205,39.762359,-75.559205,39.762359",
+    "geom:latitude":39.762359,
+    "geom:longitude":-75.559205,
+    "iso:country":"US",
+    "sg:address":"3 Mill Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 8939",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lX2nrGGJt0zZ6GWiU5OpI_39.762359_-75.559205@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223822,
+    "wof:geomhash":"3961a5c494b9f2a4c5522eeb473c500f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873518633
+        }
+    ],
+    "wof:id":873518633,
+    "wof:lastmodified":1464223822,
+    "wof:name":"Christina Silcox",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -75.559205,
+    39.762359,
+    -75.559205,
+    39.762359
+],
+  "geometry": {"coordinates":[-75.55920500000001,39.762359],"type":"Point"}
+}

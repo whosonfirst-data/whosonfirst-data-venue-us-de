@@ -1,0 +1,71 @@
+{
+  "id": 857729713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.67117,39.733285,-75.67117,39.733285",
+    "geom:latitude":39.733285,
+    "geom:longitude":-75.67117,
+    "iso:country":"US",
+    "sg:address":"3105 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 1700",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RsXw3aZPVl8TbLRbIL3eZ_39.733285_-75.671170@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221428,
+    "wof:geomhash":"5f094830497f8a2a2f837ab31e7bde52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857729713
+        }
+    ],
+    "wof:id":857729713,
+    "wof:lastmodified":1464221428,
+    "wof:name":"Internal Medicine Assoc",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.67117,
+    39.733285,
+    -75.67117,
+    39.733285
+],
+  "geometry": {"coordinates":[-75.67117,39.733285],"type":"Point"}
+}

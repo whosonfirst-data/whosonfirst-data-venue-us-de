@@ -1,0 +1,71 @@
+{
+  "id": 857716057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.512153,39.799047,-75.512153,39.799047",
+    "geom:latitude":39.799047,
+    "geom:longitude":-75.512153,
+    "iso:country":"US",
+    "sg:address":"1113 Faun Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1375",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "firm",
+        "consulting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sRyLJGtpzaiAc5IJdkNvJ_39.799047_-75.512153@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221166,
+    "wof:geomhash":"6e336269a138b899ee76ff05672f7fa5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":857716057
+        }
+    ],
+    "wof:id":857716057,
+    "wof:lastmodified":1464221166,
+    "wof:name":"Jonas Inc",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "firm",
+        "consulting"
+    ]
+},
+  "bbox": [
+    -75.512153,
+    39.799047,
+    -75.512153,
+    39.799047
+],
+  "geometry": {"coordinates":[-75.512153,39.799047],"type":"Point"}
+}

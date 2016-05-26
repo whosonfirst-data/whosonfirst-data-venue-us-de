@@ -1,0 +1,70 @@
+{
+  "id": 873517579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549436,39.814833,-75.549436,39.814833",
+    "geom:latitude":39.814833,
+    "geom:longitude":-75.549436,
+    "iso:country":"US",
+    "sg:address":"4435 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 6900",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "chinese"
+    ],
+    "sg:website":"www.yipalace.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47fx6Rc3x3fsku5e6DytPo_39.814833_-75.549436@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223768,
+    "wof:geomhash":"4cbe20ce6e28a598ba74fe67263d2b92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517579
+        }
+    ],
+    "wof:id":873517579,
+    "wof:lastmodified":1464223768,
+    "wof:name":"Yi Palace",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -75.549436,
+    39.814833,
+    -75.549436,
+    39.814833
+],
+  "geometry": {"coordinates":[-75.549436,39.814833],"type":"Point"}
+}

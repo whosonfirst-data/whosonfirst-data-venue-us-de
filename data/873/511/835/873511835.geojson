@@ -1,0 +1,69 @@
+{
+  "id": 873511835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518097,39.169998,-75.518097,39.169998",
+    "geom:latitude":39.169998,
+    "geom:longitude":-75.518097,
+    "iso:country":"US",
+    "sg:address":"271 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 9122",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:website":"www.redlobster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38s3LWVBRV298Fs14YZdQy_39.170580_-75.518422@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223467,
+    "wof:geomhash":"a233b7026ca976af1a841e7ac5b19d04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873511835
+        }
+    ],
+    "wof:id":873511835,
+    "wof:lastmodified":1464223467,
+    "wof:name":"Red Lobster Restaurants",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.518097,
+    39.169998,
+    -75.518097,
+    39.169998
+],
+  "geometry": {"coordinates":[-75.518097,39.169998],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873509729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545251,39.756814,-75.545251,39.756814",
+    "geom:latitude":39.756814,
+    "geom:longitude":-75.545251,
+    "iso:country":"US",
+    "sg:address":"2000 Baynard Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 1200",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61muny6NjBCAODNYfLrO1V_39.756814_-75.545251@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223367,
+    "wof:geomhash":"0f00b72963afe096b192beaa2311ea66",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873509729
+        }
+    ],
+    "wof:id":873509729,
+    "wof:lastmodified":1464223367,
+    "wof:name":"Harold Friedman DPM",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.545251,
+    39.756814,
+    -75.545251,
+    39.756814
+],
+  "geometry": {"coordinates":[-75.54525099999999,39.756814],"type":"Point"}
+}

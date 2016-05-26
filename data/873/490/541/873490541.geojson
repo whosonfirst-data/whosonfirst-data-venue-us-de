@@ -1,0 +1,71 @@
+{
+  "id": 873490541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62787,39.733453,-75.62787,39.733453",
+    "geom:latitude":39.733453,
+    "geom:longitude":-75.62787,
+    "iso:country":"US",
+    "sg:address":"1710 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0855",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating",
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cDnlc6FYhXIcP1toVEsci_39.733453_-75.627870@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222515,
+    "wof:geomhash":"824ea715bbaf7b706a0aa8ff71380da8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873490541
+        }
+    ],
+    "wof:id":873490541,
+    "wof:lastmodified":1464222515,
+    "wof:name":"Indian Paradise Restaurant Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "out"
+    ]
+},
+  "bbox": [
+    -75.62787,
+    39.733453,
+    -75.62787,
+    39.733453
+],
+  "geometry": {"coordinates":[-75.62787,39.733453],"type":"Point"}
+}

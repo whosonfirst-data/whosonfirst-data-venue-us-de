@@ -1,0 +1,73 @@
+{
+  "id": 857688887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550721,39.085165,-75.550721,39.085165",
+    "geom:latitude":39.085165,
+    "geom:longitude":-75.550721,
+    "iso:country":"US",
+    "sg:address":"5306 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 7864",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21JligvkwOc6scfH3fWAye_39.085165_-75.550721@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220597,
+    "wof:geomhash":"5a96a07450c374ccc11470636e3527e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857688887
+        }
+    ],
+    "wof:id":857688887,
+    "wof:lastmodified":1464220597,
+    "wof:name":"Crystal Masonry Co",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.550721,
+    39.085165,
+    -75.550721,
+    39.085165
+],
+  "geometry": {"coordinates":[-75.550721,39.085165],"type":"Point"}
+}

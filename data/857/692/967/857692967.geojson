@@ -1,0 +1,73 @@
+{
+  "id": 857692967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549863,39.741007,-75.549863,39.741007",
+    "geom:latitude":39.741007,
+    "geom:longitude":-75.549863,
+    "iso:country":"US",
+    "sg:address":"521 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 2955",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mZTzBIwdVwo1fsjIPImgc_39.741007_-75.549863@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220679,
+    "wof:geomhash":"2274cb8a75bd626f402742341c451aaa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857692967
+        }
+    ],
+    "wof:id":857692967,
+    "wof:lastmodified":1464220679,
+    "wof:name":"Saville",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.549863,
+    39.741007,
+    -75.549863,
+    39.741007
+],
+  "geometry": {"coordinates":[-75.549863,39.741007],"type":"Point"}
+}

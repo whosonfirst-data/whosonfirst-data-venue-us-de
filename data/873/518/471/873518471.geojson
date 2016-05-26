@@ -1,0 +1,85 @@
+{
+  "id": 873518471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.564551,39.752496,-75.564551,39.752496",
+    "geom:latitude":39.752496,
+    "geom:longitude":-75.564551,
+    "iso:country":"US",
+    "sg:address":"1011 N Clayton St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 4613",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "counseling",
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q9T4U0ilYJbLOyHeuz0d0_39.752496_-75.564551@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223813,
+    "wof:geomhash":"151a9ea60cc3a9b674b0c4fdbed28a13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873518471
+        }
+    ],
+    "wof:id":873518471,
+    "wof:lastmodified":1464223813,
+    "wof:name":"Christ Bridge Inc",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -75.564551,
+    39.752496,
+    -75.564551,
+    39.752496
+],
+  "geometry": {"coordinates":[-75.56455099999999,39.752496],"type":"Point"}
+}

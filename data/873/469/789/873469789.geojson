@@ -1,0 +1,69 @@
+{
+  "id": 873469789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.705016,39.673965,-75.705016,39.673965",
+    "geom:latitude":39.673965,
+    "geom:longitude":-75.705016,
+    "iso:country":"US",
+    "sg:address":"689 E Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 8133",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gny9jJTgJQIt8iOPULy4k_39.673965_-75.705016@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221722,
+    "wof:geomhash":"bd82b5c8a26b7f7088c026b50cacae27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873469789
+        }
+    ],
+    "wof:id":873469789,
+    "wof:lastmodified":1464221722,
+    "wof:name":"VIP Nails",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -75.705016,
+    39.673965,
+    -75.705016,
+    39.673965
+],
+  "geometry": {"coordinates":[-75.705016,39.673965],"type":"Point"}
+}

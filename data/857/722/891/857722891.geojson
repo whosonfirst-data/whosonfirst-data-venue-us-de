@@ -1,0 +1,73 @@
+{
+  "id": 857722891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.695914,39.743622,-75.695914,39.743622",
+    "geom:latitude":39.743622,
+    "geom:longitude":-75.695914,
+    "iso:country":"US",
+    "sg:address":"4720 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 4465",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25X7JGUZkSzSCRInfhCzQ7_39.743622_-75.695914@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221304,
+    "wof:geomhash":"ddb51a8b3a0a058427147e8292be3cb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":857722891
+        }
+    ],
+    "wof:id":857722891,
+    "wof:lastmodified":1464221304,
+    "wof:name":"Acme Markets Inc",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.695914,
+    39.743622,
+    -75.695914,
+    39.743622
+],
+  "geometry": {"coordinates":[-75.695914,39.743622],"type":"Point"}
+}

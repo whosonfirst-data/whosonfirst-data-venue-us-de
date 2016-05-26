@@ -1,0 +1,76 @@
+{
+  "id": 873484653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.690463,39.691775,-75.690463,39.691775",
+    "geom:latitude":39.691775,
+    "geom:longitude":-75.690463,
+    "iso:country":"US",
+    "sg:address":"111 Ruthar Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Drugs",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 8234",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pharmaceutical",
+        "distributes"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4v81OVPsoyAJpKmkjX7Dco_39.691775_-75.690463@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222294,
+    "wof:geomhash":"924b7bf55c896f0193574882f60886c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873484653
+        }
+    ],
+    "wof:id":873484653,
+    "wof:lastmodified":1464222294,
+    "wof:name":"Phar Merica Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "distributes"
+    ]
+},
+  "bbox": [
+    -75.690463,
+    39.691775,
+    -75.690463,
+    39.691775
+],
+  "geometry": {"coordinates":[-75.69046299999999,39.691775],"type":"Point"}
+}

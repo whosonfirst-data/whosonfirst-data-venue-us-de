@@ -1,0 +1,71 @@
+{
+  "id": 857698595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.653311,39.282475,-75.653311,39.282475",
+    "geom:latitude":39.282475,
+    "geom:longitude":-75.653311,
+    "iso:country":"US",
+    "sg:address":"26 Integro Dr",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 9186",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72HgVFPPQC1iof0enPRETU_39.282475_-75.653311@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220784,
+    "wof:geomhash":"58bb27d1ff7e34fe6913311dd16c93f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857698595
+        }
+    ],
+    "wof:id":857698595,
+    "wof:lastmodified":1464220784,
+    "wof:name":"Builders Integrity Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.653311,
+    39.282475,
+    -75.653311,
+    39.282475
+],
+  "geometry": {"coordinates":[-75.653311,39.282475],"type":"Point"}
+}

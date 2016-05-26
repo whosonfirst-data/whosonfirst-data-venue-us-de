@@ -1,0 +1,90 @@
+{
+  "id": 873522505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56449,39.159407,-75.56449,39.159407",
+    "geom:latitude":39.159407,
+    "geom:longitude":-75.56449,
+    "iso:country":"US",
+    "sg:address":"24 Marsh Creek Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 765 7110",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "flooring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qi3OlfyFhu3RZoYs1n2Xw_39.159407_-75.564490@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223989,
+    "wof:geomhash":"0fddd6063d3b33e6d7863baed226d539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873522505
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873522505
+        }
+    ],
+    "wof:id":873522505,
+    "wof:lastmodified":1464223989,
+    "wof:name":"1st State Contracting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "flooring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.56449,
+    39.159407,
+    -75.56449,
+    39.159407
+],
+  "geometry": {"coordinates":[-75.56449000000001,39.159407],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873520937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5103,39.171398,-75.5103,39.171398",
+    "geom:latitude":39.171398,
+    "geom:longitude":-75.5103,
+    "iso:country":"US",
+    "sg:address":"177 Willis Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 4515",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.morgan-properties.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15zr5gdKfRzTgcar9ynAwy_39.171398_-75.510300@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223923,
+    "wof:geomhash":"9fe041c71633ee95eb8af2ef8f5a9dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873520937
+        }
+    ],
+    "wof:id":873520937,
+    "wof:lastmodified":1464223923,
+    "wof:name":"Mapleton Square",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.5103,
+    39.171398,
+    -75.5103,
+    39.171398
+],
+  "geometry": {"coordinates":[-75.5103,39.171398],"type":"Point"}
+}

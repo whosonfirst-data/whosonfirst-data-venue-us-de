@@ -1,0 +1,74 @@
+{
+  "id": 873513655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.51344,39.160819,-75.51344,39.160819",
+    "geom:latitude":39.160819,
+    "geom:longitude":-75.51344,
+    "iso:country":"US",
+    "sg:address":"222 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/75343-tgi-fridays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 3502",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5v9MlvwUK0sTIJFGK7lvoi_39.160819_-75.513440@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223541,
+    "wof:geomhash":"ff34532e18e96ba43f7edfef6050e914",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873513655
+        }
+    ],
+    "wof:id":873513655,
+    "wof:lastmodified":1464223541,
+    "wof:name":"T.G.I. Friday's",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.51344,
+    39.160819,
+    -75.51344,
+    39.160819
+],
+  "geometry": {"coordinates":[-75.51344,39.160819],"type":"Point"}
+}

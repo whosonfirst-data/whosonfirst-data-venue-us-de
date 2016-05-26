@@ -1,0 +1,71 @@
+{
+  "id": 873471067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566214,39.679258,-75.566214,39.679258",
+    "geom:latitude":39.679258,
+    "geom:longitude":-75.566214,
+    "iso:country":"US",
+    "sg:address":"401 Carriage Way",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 3973",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0EuD5XNrr0tarf7p9cMzjx_39.679258_-75.566214@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221772,
+    "wof:geomhash":"445a3849bcfea287be626f3d6ce8d364",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873471067
+        }
+    ],
+    "wof:id":873471067,
+    "wof:lastmodified":1464221772,
+    "wof:name":"Coachman's Manor Apartments",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.566214,
+    39.679258,
+    -75.566214,
+    39.679258
+],
+  "geometry": {"coordinates":[-75.566214,39.679258],"type":"Point"}
+}

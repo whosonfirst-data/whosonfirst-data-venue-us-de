@@ -1,0 +1,68 @@
+{
+  "id": 873523267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526901,39.1539,-75.526901,39.1539",
+    "geom:latitude":39.1539,
+    "geom:longitude":-75.526901,
+    "iso:country":"US",
+    "sg:address":"550 S New St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 8589",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2M7QgEG3iaOvX0ndggofm2_39.153900_-75.526901@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224014,
+    "wof:geomhash":"379ff8c5a1017369201f87e5fd8b0789",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873523267
+        }
+    ],
+    "wof:id":873523267,
+    "wof:lastmodified":1464224014,
+    "wof:name":"Barber Shop At Spence's Bizaar",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.526901,
+    39.1539,
+    -75.526901,
+    39.1539
+],
+  "geometry": {"coordinates":[-75.526901,39.1539],"type":"Point"}
+}

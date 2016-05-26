@@ -1,0 +1,71 @@
+{
+  "id": 857699009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.336908,38.599247,-75.336908,38.599247",
+    "geom:latitude":38.599247,
+    "geom:longitude":-75.336908,
+    "iso:country":"US",
+    "sg:address":"12 Ward Way",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 7625",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7PPUOvoYWKNj0djwJrm6rQ_38.599247_-75.336908@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220791,
+    "wof:geomhash":"9c75f6116267f4000b3e455d007bfe2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857699009
+        }
+    ],
+    "wof:id":857699009,
+    "wof:lastmodified":1464220791,
+    "wof:name":"State Street Scissors",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.336908,
+    38.599247,
+    -75.336908,
+    38.599247
+],
+  "geometry": {"coordinates":[-75.33690799999999,38.599247],"type":"Point"}
+}

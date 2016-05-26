@@ -1,0 +1,81 @@
+{
+  "id": 873514639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746508,39.626782,-75.746508,39.626782",
+    "geom:latitude":39.626782,
+    "geom:longitude":-75.746508,
+    "iso:country":"US",
+    "sg:address":"680 Plaza Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 2960",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog"
+    ],
+    "sg:website":"http://www.bk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZgRNcXWnrZnFfUYMr5SEx_39.626782_-75.746508@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223601,
+    "wof:geomhash":"cb248fd94beaab92a5dcbe3f586d6950",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514639
+        }
+    ],
+    "wof:id":873514639,
+    "wof:lastmodified":1464223601,
+    "wof:name":"Burger King",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "hamburger",
+        "dog"
+    ]
+},
+  "bbox": [
+    -75.746508,
+    39.626782,
+    -75.746508,
+    39.626782
+],
+  "geometry": {"coordinates":[-75.74650800000001,39.626782],"type":"Point"}
+}

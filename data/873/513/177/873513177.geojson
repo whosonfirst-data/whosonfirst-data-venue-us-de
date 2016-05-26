@@ -1,0 +1,70 @@
+{
+  "id": 873513177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.686314,39.705882,-75.686314,39.705882",
+    "geom:latitude":39.705882,
+    "geom:longitude":-75.686314,
+    "iso:country":"US",
+    "sg:address":"110 Astro Shopping Ctr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/25141-el-jefe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 894 9000",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17vBa1GwYF3Euj6yQI2PMZ_39.705882_-75.686314@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223519,
+    "wof:geomhash":"4ea9c9e13483a48b2fc2cc66ba563b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873513177
+        }
+    ],
+    "wof:id":873513177,
+    "wof:lastmodified":1464223519,
+    "wof:name":"El Jefe",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -75.686314,
+    39.705882,
+    -75.686314,
+    39.705882
+],
+  "geometry": {"coordinates":[-75.686314,39.705882],"type":"Point"}
+}

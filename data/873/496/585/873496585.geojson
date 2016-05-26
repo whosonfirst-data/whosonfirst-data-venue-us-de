@@ -1,0 +1,71 @@
+{
+  "id": 873496585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.296489,38.586753,-75.296489,38.586753",
+    "geom:latitude":38.586753,
+    "geom:longitude":-75.296489,
+    "iso:country":"US",
+    "sg:address":"113 W Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 9967",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eDaCbRFUPSEW8ONUCU01q_38.586753_-75.296489@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222806,
+    "wof:geomhash":"c7fc08c84d9ac4af33d452f503789d5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873496585
+        }
+    ],
+    "wof:id":873496585,
+    "wof:lastmodified":1464222806,
+    "wof:name":"VFW Sussex Memorial",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -75.296489,
+    38.586753,
+    -75.296489,
+    38.586753
+],
+  "geometry": {"coordinates":[-75.29648899999999,38.586753],"type":"Point"}
+}

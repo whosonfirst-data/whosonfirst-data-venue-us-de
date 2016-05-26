@@ -1,0 +1,74 @@
+{
+  "id": 873521071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539001,39.188099,-75.539001,39.188099",
+    "geom:latitude":39.188099,
+    "geom:longitude":-75.539001,
+    "iso:country":"US",
+    "sg:address":"1057 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 3900",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "sg:website":"www.citifinancial.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SkUMkxeqbZE5Sq17FPGB8_39.188099_-75.539001@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223928,
+    "wof:geomhash":"09222e7da0b45a0852ab04885625207c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873521071
+        }
+    ],
+    "wof:id":873521071,
+    "wof:lastmodified":1464223928,
+    "wof:name":"Citifinancial",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.539001,
+    39.188099,
+    -75.539001,
+    39.188099
+],
+  "geometry": {"coordinates":[-75.539001,39.188099],"type":"Point"}
+}

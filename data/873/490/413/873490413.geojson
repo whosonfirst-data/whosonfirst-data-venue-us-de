@@ -1,0 +1,69 @@
+{
+  "id": 873490413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626674,39.73239,-75.626674,39.73239",
+    "geom:latitude":39.73239,
+    "geom:longitude":-75.626674,
+    "iso:country":"US",
+    "sg:address":"1702 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1798",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6TxH3O6FQR0lGETLyepnSv_39.732390_-75.626674@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222511,
+    "wof:geomhash":"fc0c12f4a2ff3c55574d98078bed70c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873490413
+        }
+    ],
+    "wof:id":873490413,
+    "wof:lastmodified":1464222511,
+    "wof:name":"Ace Tutoring Center",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -75.626674,
+    39.73239,
+    -75.626674,
+    39.73239
+],
+  "geometry": {"coordinates":[-75.62667399999999,39.73239],"type":"Point"}
+}

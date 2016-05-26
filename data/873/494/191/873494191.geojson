@@ -1,0 +1,73 @@
+{
+  "id": 873494191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.100375,38.515158,-75.100375,38.515158",
+    "geom:latitude":38.515158,
+    "geom:longitude":-75.100375,
+    "iso:country":"US",
+    "sg:address":"5 Gordon Dr",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 9825",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uC7rVAYU32FxDTMBAqhLd_38.515158_-75.100375@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222669,
+    "wof:geomhash":"f14b45343c75f32015c06aefb9135b08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873494191
+        }
+    ],
+    "wof:id":873494191,
+    "wof:lastmodified":1464222669,
+    "wof:name":"O M Smith General Contrac",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.100375,
+    38.515158,
+    -75.100375,
+    38.515158
+],
+  "geometry": {"coordinates":[-75.100375,38.515158],"type":"Point"}
+}

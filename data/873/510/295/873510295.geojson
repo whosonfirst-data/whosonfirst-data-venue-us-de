@@ -1,0 +1,71 @@
+{
+  "id": 873510295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.624274,39.134122,-75.624274,39.134122",
+    "geom:latitude":39.134122,
+    "geom:longitude":-75.624274,
+    "iso:country":"US",
+    "sg:address":"390 Nault Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5454",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "communications"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UzXgWlzqY04eVAIrG1P7z_39.134122_-75.624274@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223388,
+    "wof:geomhash":"79172e74647f67191a028a1f097e631b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873510295
+        }
+    ],
+    "wof:id":873510295,
+    "wof:lastmodified":1464223388,
+    "wof:name":"J Devine and Associates",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communications"
+    ]
+},
+  "bbox": [
+    -75.624274,
+    39.134122,
+    -75.624274,
+    39.134122
+],
+  "geometry": {"coordinates":[-75.624274,39.134122],"type":"Point"}
+}

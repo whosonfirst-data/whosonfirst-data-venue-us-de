@@ -1,0 +1,79 @@
+{
+  "id": 873522363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558543,39.15881,-75.558543,39.15881",
+    "geom:latitude":39.15881,
+    "geom:longitude":-75.558543,
+    "iso:country":"US",
+    "sg:address":"1450 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 4703",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:website":"www.wawa.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B3axu6Df10PVhCTAyBIiE_39.158810_-75.558543@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223978,
+    "wof:geomhash":"d94d1d2fb5075bce436882009adca5d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873522363
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873522363
+        }
+    ],
+    "wof:id":873522363,
+    "wof:lastmodified":1464223978,
+    "wof:name":"Wawa Food Markets",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.558543,
+    39.15881,
+    -75.558543,
+    39.15881
+],
+  "geometry": {"coordinates":[-75.558543,39.15881],"type":"Point"}
+}

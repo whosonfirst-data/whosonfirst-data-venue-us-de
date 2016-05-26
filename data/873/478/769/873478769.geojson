@@ -1,0 +1,71 @@
+{
+  "id": 873478769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59285,38.635565,-75.59285,38.635565",
+    "geom:latitude":38.635565,
+    "geom:longitude":-75.59285,
+    "iso:country":"US",
+    "sg:address":"630 S Dual Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 0422",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BkoIf8JSWDLPbvrHcbq1r_38.635565_-75.592850@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222052,
+    "wof:geomhash":"31a56fd27b20157a521ef579aa7e47b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873478769
+        }
+    ],
+    "wof:id":873478769,
+    "wof:lastmodified":1464222052,
+    "wof:name":"ACE Cash Express",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -75.59285,
+    38.635565,
+    -75.59285,
+    38.635565
+],
+  "geometry": {"coordinates":[-75.59285,38.635565],"type":"Point"}
+}

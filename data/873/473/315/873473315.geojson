@@ -1,0 +1,71 @@
+{
+  "id": 873473315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592679,39.72375,-75.592679,39.72375",
+    "geom:latitude":39.72375,
+    "geom:longitude":-75.592679,
+    "iso:country":"US",
+    "sg:address":"636 S Maryland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 3473",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AP0wnVn7QH3eZ7yxOAAfg_39.723750_-75.592679@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221858,
+    "wof:geomhash":"a242a60134b18ce9e7d3094f3168ddda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873473315
+        }
+    ],
+    "wof:id":873473315,
+    "wof:lastmodified":1464221858,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.592679,
+    39.72375,
+    -75.592679,
+    39.72375
+],
+  "geometry": {"coordinates":[-75.592679,39.72375],"type":"Point"}
+}

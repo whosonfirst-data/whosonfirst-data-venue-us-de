@@ -1,0 +1,73 @@
+{
+  "id": 873481195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561493,39.106438,-75.561493,39.106438",
+    "geom:latitude":39.106438,
+    "geom:longitude":-75.561493,
+    "iso:country":"US",
+    "sg:address":"173 Brenda Ln",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 3074",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sewer",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2raFjRE6B03yG4g5bPCbk9_39.106438_-75.561493@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222162,
+    "wof:geomhash":"4714004338e0fcf31f083533397f99af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873481195
+        }
+    ],
+    "wof:id":873481195,
+    "wof:lastmodified":1464222162,
+    "wof:name":"Camden Wyoming Sewer & Water",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sewer",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.561493,
+    39.106438,
+    -75.561493,
+    39.106438
+],
+  "geometry": {"coordinates":[-75.561493,39.106438],"type":"Point"}
+}

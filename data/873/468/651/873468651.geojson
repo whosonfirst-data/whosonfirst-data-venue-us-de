@@ -1,0 +1,71 @@
+{
+  "id": 873468651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601691,39.744724,-75.601691,39.744724",
+    "geom:latitude":39.744724,
+    "geom:longitude":-75.601691,
+    "iso:country":"US",
+    "sg:address":"1413 Spruce Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 2349",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "legislative",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rakn7qqpfOovP1NLg9Zxj_39.744724_-75.601691@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221675,
+    "wof:geomhash":"7e144e14249cd700428a590183282c2f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873468651
+        }
+    ],
+    "wof:id":873468651,
+    "wof:lastmodified":1464221675,
+    "wof:name":"Anthony J Cicione Senator",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legislative",
+        "body"
+    ]
+},
+  "bbox": [
+    -75.601691,
+    39.744724,
+    -75.601691,
+    39.744724
+],
+  "geometry": {"coordinates":[-75.601691,39.744724],"type":"Point"}
+}

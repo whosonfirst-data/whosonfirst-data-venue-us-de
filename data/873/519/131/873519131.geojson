@@ -1,0 +1,78 @@
+{
+  "id": 873519131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.640076,39.726624,-75.640076,39.726624",
+    "geom:latitude":39.726624,
+    "geom:longitude":-75.640076,
+    "iso:country":"US",
+    "sg:address":"3806 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 9919",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "store",
+        "furniture-wholesale",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iwYFos6bP2QWO98SNbzNv_39.726624_-75.640076@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223839,
+    "wof:geomhash":"c3bc079bca7ccf49a9682a6b3cd958f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873519131
+        }
+    ],
+    "wof:id":873519131,
+    "wof:lastmodified":1464223839,
+    "wof:name":"Wilton Flynn",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store",
+        "furniture-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.640076,
+    39.726624,
+    -75.640076,
+    39.726624
+],
+  "geometry": {"coordinates":[-75.64007599999999,39.726624],"type":"Point"}
+}

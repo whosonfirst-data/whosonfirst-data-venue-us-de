@@ -1,0 +1,75 @@
+{
+  "id": 873500327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.376778,38.724216,-75.376778,38.724216",
+    "geom:latitude":38.724216,
+    "geom:longitude":-75.376778,
+    "iso:country":"US",
+    "sg:address":"22051 Wilson Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 3300",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "child",
+        "day",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_108s0nI9y50uQCyzJraiqf_38.724216_-75.376778@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222949,
+    "wof:geomhash":"0c34fb5ad1bb442a5dc5d116d87cf48e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873500327
+        }
+    ],
+    "wof:id":873500327,
+    "wof:lastmodified":1464222949,
+    "wof:name":"Jefferson Learning Founbdation",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -75.376778,
+    38.724216,
+    -75.376778,
+    38.724216
+],
+  "geometry": {"coordinates":[-75.376778,38.724216],"type":"Point"}
+}

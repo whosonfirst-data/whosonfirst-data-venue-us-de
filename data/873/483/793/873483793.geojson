@@ -1,0 +1,71 @@
+{
+  "id": 873483793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.312575,38.77379,-75.312575,38.77379",
+    "geom:latitude":38.77379,
+    "geom:longitude":-75.312575,
+    "iso:country":"US",
+    "sg:address":"416 Federal St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8521",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3T8lTVEgBcdy6u0tJbrDKE_38.773790_-75.312575@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222263,
+    "wof:geomhash":"0d0797e3484707e7c73d9c33112c0eae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873483793
+        }
+    ],
+    "wof:id":873483793,
+    "wof:lastmodified":1464222263,
+    "wof:name":"Short Funeral Svc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -75.312575,
+    38.77379,
+    -75.312575,
+    38.77379
+],
+  "geometry": {"coordinates":[-75.312575,38.77379],"type":"Point"}
+}

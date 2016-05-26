@@ -1,0 +1,71 @@
+{
+  "id": 857730765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.633707,39.058616,-75.633707,39.058616",
+    "geom:latitude":39.058616,
+    "geom:longitude":-75.633707,
+    "iso:country":"US",
+    "sg:address":"100 Hillbilly Haven Dr",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9137",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oVJsSf87yp0nORjSNoSIs_39.058616_-75.633707@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221452,
+    "wof:geomhash":"d3080e4eb92c3ab48eae95f965024cd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857730765
+        }
+    ],
+    "wof:id":857730765,
+    "wof:lastmodified":1464221452,
+    "wof:name":"Junior's Lawn Svc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.633707,
+    39.058616,
+    -75.633707,
+    39.058616
+],
+  "geometry": {"coordinates":[-75.633707,39.058616],"type":"Point"}
+}

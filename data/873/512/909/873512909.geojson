@@ -1,0 +1,72 @@
+{
+  "id": 873512909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.649764,39.676799,-75.649764,39.676799",
+    "geom:latitude":39.676799,
+    "geom:longitude":-75.649764,
+    "iso:country":"US",
+    "sg:address":"719 Christiana Mall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/103503-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 9462",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mATzFlWsbm4pa5K7N473s_39.676799_-75.649764@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223510,
+    "wof:geomhash":"e795e8bf7ad71167781776a86ad993c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512909
+        }
+    ],
+    "wof:id":873512909,
+    "wof:lastmodified":1464223510,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.649764,
+    39.676799,
+    -75.649764,
+    39.676799
+],
+  "geometry": {"coordinates":[-75.649764,39.676799],"type":"Point"}
+}

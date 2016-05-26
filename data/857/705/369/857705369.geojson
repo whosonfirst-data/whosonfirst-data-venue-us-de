@@ -1,0 +1,69 @@
+{
+  "id": 857705369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745812,39.683685,-75.745812,39.683685",
+    "geom:latitude":39.683685,
+    "geom:longitude":-75.745812,
+    "iso:country":"US",
+    "sg:address":"170 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 8038",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pottery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hSI68bFXuiGtBdFzPP2Oj_39.683685_-75.745812@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220921,
+    "wof:geomhash":"be795328edccf35fba879944d7aeb8f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857705369
+        }
+    ],
+    "wof:id":857705369,
+    "wof:lastmodified":1464220921,
+    "wof:name":"Romanick Pottery Studio/Gllry",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pottery"
+    ]
+},
+  "bbox": [
+    -75.745812,
+    39.683685,
+    -75.745812,
+    39.683685
+],
+  "geometry": {"coordinates":[-75.745812,39.683685],"type":"Point"}
+}

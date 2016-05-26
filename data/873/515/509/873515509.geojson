@@ -1,0 +1,71 @@
+{
+  "id": 873515509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703468,39.687389,-75.703468,39.687389",
+    "geom:latitude":39.687389,
+    "geom:longitude":-75.703468,
+    "iso:country":"US",
+    "sg:address":"150 Red Mill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 6800",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72wezlay5BMwqsVdYNmRiC_39.687389_-75.703468@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223646,
+    "wof:geomhash":"89a26435fb0014dcaca31ff165977c0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873515509
+        }
+    ],
+    "wof:id":873515509,
+    "wof:lastmodified":1464223646,
+    "wof:name":"Invista's Applied Research Centre",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -75.703468,
+    39.687389,
+    -75.703468,
+    39.687389
+],
+  "geometry": {"coordinates":[-75.703468,39.687389],"type":"Point"}
+}

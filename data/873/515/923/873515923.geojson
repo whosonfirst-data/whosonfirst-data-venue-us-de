@@ -1,0 +1,95 @@
+{
+  "id": 873515923,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745213,39.68367,-75.745213,39.68367",
+    "geom:latitude":39.68367,
+    "geom:longitude":-75.745213,
+    "iso:country":"US",
+    "sg:address":"209 E Main St Unit1",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Art Gallery",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Fish & Marine Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 1403",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "picture",
+        "shop",
+        "consultant",
+        "frame",
+        "galleries",
+        "framing"
+    ],
+    "sg:website":"http://youvebeenframedde.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56jq2HTxeskHTj30YsktP7_39.683670_-75.745213@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223660,
+    "wof:geomhash":"b18246e088176a3d66bf0175ffae5abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515923
+        }
+    ],
+    "wof:id":873515923,
+    "wof:lastmodified":1464223660,
+    "wof:name":"You've Been Framed",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "picture",
+        "shop",
+        "consultant",
+        "frame",
+        "galleries",
+        "framing"
+    ]
+},
+  "bbox": [
+    -75.745213,
+    39.68367,
+    -75.745213,
+    39.68367
+],
+  "geometry": {"coordinates":[-75.74521300000001,39.68367],"type":"Point"}
+}

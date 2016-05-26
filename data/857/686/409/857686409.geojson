@@ -1,0 +1,71 @@
+{
+  "id": 857686409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.734711,39.684798,-75.734711,39.684798",
+    "geom:latitude":39.684798,
+    "geom:longitude":-75.734711,
+    "iso:country":"US",
+    "sg:address":"501 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 6830",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AXmqEX9ApHDGG5gSdA2ZT_39.684798_-75.734711@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220547,
+    "wof:geomhash":"b7494b53a67f0b0b19000b005ab7ce58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857686409
+        }
+    ],
+    "wof:id":857686409,
+    "wof:lastmodified":1464220547,
+    "wof:name":"New Cstle Cmnty Mntal Hlth Ctr",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -75.734711,
+    39.684798,
+    -75.734711,
+    39.684798
+],
+  "geometry": {"coordinates":[-75.734711,39.684798],"type":"Point"}
+}

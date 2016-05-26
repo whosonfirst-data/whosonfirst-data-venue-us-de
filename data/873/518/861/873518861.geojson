@@ -1,0 +1,76 @@
+{
+  "id": 873518861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595983,39.776185,-75.595983,39.776185",
+    "geom:latitude":39.776185,
+    "geom:longitude":-75.595983,
+    "iso:country":"US",
+    "sg:address":"3828 Kennett Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 0500",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shuttle",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834895,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OyL4yI5Vm877eENlcE9H4_39.776185_-75.595983@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223829,
+    "wof:geomhash":"6d74ee3c96b257804830395c91c2e8f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834895,
+            "region_id":85688611,
+            "venue_id":873518861
+        }
+    ],
+    "wof:id":873518861,
+    "wof:lastmodified":1464223829,
+    "wof:name":"X Press Limo & Transportation Service",
+    "wof:parent_id":85834895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shuttle",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -75.595983,
+    39.776185,
+    -75.595983,
+    39.776185
+],
+  "geometry": {"coordinates":[-75.595983,39.776185],"type":"Point"}
+}

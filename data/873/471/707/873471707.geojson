@@ -1,0 +1,71 @@
+{
+  "id": 873471707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.355561,38.678186,-75.355561,38.678186",
+    "geom:latitude":38.678186,
+    "geom:longitude":-75.355561,
+    "iso:country":"US",
+    "sg:address":"22476 Wood Branch Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6825",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GcS1wu8LjQr44bgmKmYq9_38.678186_-75.355561@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221793,
+    "wof:geomhash":"bc64579b400a8e9bb9fdf8bd223abea2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873471707
+        }
+    ],
+    "wof:id":873471707,
+    "wof:lastmodified":1464221793,
+    "wof:name":"Parker Family Day Care Center",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.355561,
+    38.678186,
+    -75.355561,
+    38.678186
+],
+  "geometry": {"coordinates":[-75.35556099999999,38.678186],"type":"Point"}
+}

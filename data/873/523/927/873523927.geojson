@@ -1,0 +1,89 @@
+{
+  "id": 873523927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.145913,38.490299,-75.145913,38.490299",
+    "geom:latitude":38.490299,
+    "geom:longitude":-75.145913,
+    "iso:country":"US",
+    "sg:address":"34499 Evans Rd",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 446 4229",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor",
+        "material",
+        "rug",
+        "flooring",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XAu9N4X6z5pPOY8j98Tm6_38.490299_-75.145913@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224037,
+    "wof:geomhash":"4ff367a99564c02c663ad732b2b348a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873523927
+        }
+    ],
+    "wof:id":873523927,
+    "wof:lastmodified":1464224037,
+    "wof:name":"Jerald Hudson Flooring",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "material",
+        "rug",
+        "flooring",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -75.145913,
+    38.490299,
+    -75.145913,
+    38.490299
+],
+  "geometry": {"coordinates":[-75.14591299999999,38.490299],"type":"Point"}
+}

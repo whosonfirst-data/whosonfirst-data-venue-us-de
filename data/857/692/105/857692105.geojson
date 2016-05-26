@@ -1,0 +1,69 @@
+{
+  "id": 857692105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.622936,39.72917,-75.622936,39.72917",
+    "geom:latitude":39.72917,
+    "geom:longitude":-75.622936,
+    "iso:country":"US",
+    "sg:address":"1315 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 0922",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GYXnUmCzbctlpI7eh0Nla_39.729170_-75.622936@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220664,
+    "wof:geomhash":"75249bb051ef8e1d3443feeab6bb11c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857692105
+        }
+    ],
+    "wof:id":857692105,
+    "wof:lastmodified":1464220664,
+    "wof:name":"Wonder Bread & Hostess Cakes",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -75.622936,
+    39.72917,
+    -75.622936,
+    39.72917
+],
+  "geometry": {"coordinates":[-75.622936,39.72917],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873502367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.315802,38.645339,-75.315802,38.645339",
+    "geom:latitude":38.645339,
+    "geom:longitude":-75.315802,
+    "iso:country":"US",
+    "sg:address":"5 Blue Heron Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 0383",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01ZAQ8vPD42A1YeaWLfNOg_38.645339_-75.315802@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223041,
+    "wof:geomhash":"ca46f94e58be29e4cd6a9bf8001c8f79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873502367
+        }
+    ],
+    "wof:id":873502367,
+    "wof:lastmodified":1464223041,
+    "wof:name":"D D Hook Dr",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.315802,
+    38.645339,
+    -75.315802,
+    38.645339
+],
+  "geometry": {"coordinates":[-75.31580200000001,38.645339],"type":"Point"}
+}

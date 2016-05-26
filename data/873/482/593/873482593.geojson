@@ -1,0 +1,69 @@
+{
+  "id": 873482593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.669051,39.729147,-75.669051,39.729147",
+    "geom:latitude":39.729147,
+    "geom:longitude":-75.669051,
+    "iso:country":"US",
+    "sg:address":"1601 Milltown Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 7600",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4NRO0pL1ycxkeZrGKaoMOT_39.729147_-75.669051@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222215,
+    "wof:geomhash":"1cce13d6721ca1270eb99da97bdba245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873482593
+        }
+    ],
+    "wof:id":873482593,
+    "wof:lastmodified":1464222215,
+    "wof:name":"Brown Family Dentistry",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.669051,
+    39.729147,
+    -75.669051,
+    39.729147
+],
+  "geometry": {"coordinates":[-75.669051,39.729147],"type":"Point"}
+}

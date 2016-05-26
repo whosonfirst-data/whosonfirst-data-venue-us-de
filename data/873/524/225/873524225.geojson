@@ -1,0 +1,71 @@
+{
+  "id": 873524225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561291,38.923793,-75.561291,38.923793",
+    "geom:latitude":38.923793,
+    "geom:longitude":-75.561291,
+    "iso:country":"US",
+    "sg:address":"6902 Milford Harrington Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 3367",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fODAPHqyYGRWiUqCA7UMt_38.923793_-75.561291@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224049,
+    "wof:geomhash":"7ee34d4eca92be606ec3938689d8fc08",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524225
+        }
+    ],
+    "wof:id":873524225,
+    "wof:lastmodified":1464224049,
+    "wof:name":"A Little Vet Clinic",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -75.561291,
+    38.923793,
+    -75.561291,
+    38.923793
+],
+  "geometry": {"coordinates":[-75.561291,38.923793],"type":"Point"}
+}

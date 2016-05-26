@@ -1,0 +1,75 @@
+{
+  "id": 857688313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.42627,38.900693,-75.42627,38.900693",
+    "geom:latitude":38.900693,
+    "geom:longitude":-75.42627,
+    "iso:country":"US",
+    "sg:address":"723 S Washington St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 9490",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "child",
+        "day",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15laDbDqmkEM6tXtje0X71_38.900693_-75.426270@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220584,
+    "wof:geomhash":"57d22a5b4bde0c9ee1c82af715592a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857688313
+        }
+    ],
+    "wof:id":857688313,
+    "wof:lastmodified":1464220584,
+    "wof:name":"Little Learners University",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -75.42627,
+    38.900693,
+    -75.42627,
+    38.900693
+],
+  "geometry": {"coordinates":[-75.42627,38.900693],"type":"Point"}
+}

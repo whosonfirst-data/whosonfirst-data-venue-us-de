@@ -1,0 +1,71 @@
+{
+  "id": 873499327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.499999,38.699993,-75.499999,38.699993",
+    "geom:latitude":38.699993,
+    "geom:longitude":-75.499999,
+    "iso:country":"US",
+    "sg:address":"12969 Seashore Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 0413",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65dHRPvAf5d2yxJZH9kdnF_38.699993_-75.499999@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222914,
+    "wof:geomhash":"49a9bac40723730b438d8302bb06e041",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873499327
+        }
+    ],
+    "wof:id":873499327,
+    "wof:lastmodified":1464222914,
+    "wof:name":"Helping Hands Svc Inc",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.499999,
+    38.699993,
+    -75.499999,
+    38.699993
+],
+  "geometry": {"coordinates":[-75.499999,38.699993],"type":"Point"}
+}

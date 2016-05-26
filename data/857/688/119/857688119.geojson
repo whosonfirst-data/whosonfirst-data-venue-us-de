@@ -1,0 +1,75 @@
+{
+  "id": 857688119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.284019,38.599485,-75.284019,38.599485",
+    "geom:latitude":38.599485,
+    "geom:longitude":-75.284019,
+    "iso:country":"US",
+    "sg:address":"175 Jersey Rd",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 5773",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ttzZ96OPjRVWdglLsnwzc_38.599485_-75.284019@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220581,
+    "wof:geomhash":"830e3cf9a0cd1b76cc9ba3b517386c46",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857688119
+        }
+    ],
+    "wof:id":857688119,
+    "wof:lastmodified":1464220581,
+    "wof:name":"Shady Nook Auto Body",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.284019,
+    38.599485,
+    -75.284019,
+    38.599485
+],
+  "geometry": {"coordinates":[-75.284019,38.599485],"type":"Point"}
+}

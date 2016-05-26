@@ -1,0 +1,73 @@
+{
+  "id": 873480991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.723148,39.684943,-75.723148,39.684943",
+    "geom:latitude":39.684943,
+    "geom:longitude":-75.723148,
+    "iso:country":"US",
+    "sg:address":"2311 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 7020",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4clDuZPi3gMZxK3ZqsmGi2_39.684943_-75.723148@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222154,
+    "wof:geomhash":"362d7cfe93e0145244d2f15e8cca7511",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873480991
+        }
+    ],
+    "wof:id":873480991,
+    "wof:lastmodified":1464222154,
+    "wof:name":"Detail Masters",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -75.723148,
+    39.684943,
+    -75.723148,
+    39.684943
+],
+  "geometry": {"coordinates":[-75.72314799999999,39.684943],"type":"Point"}
+}

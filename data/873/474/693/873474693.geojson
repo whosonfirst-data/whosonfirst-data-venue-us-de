@@ -1,0 +1,75 @@
+{
+  "id": 873474693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57249,39.749865,-75.57249,39.749865",
+    "geom:latitude":39.749865,
+    "geom:longitude":-75.57249,
+    "iso:country":"US",
+    "sg:address":"414 N Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5061",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delicatessen",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HJn8bOF2R6vZ3ZPBM6nyq_39.749865_-75.572490@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221904,
+    "wof:geomhash":"19db3995b29f7dd93c215514aebdbccf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873474693
+        }
+    ],
+    "wof:id":873474693,
+    "wof:lastmodified":1464221904,
+    "wof:name":"Borgia's Subs & Steaks",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.57249,
+    39.749865,
+    -75.57249,
+    39.749865
+],
+  "geometry": {"coordinates":[-75.57249,39.749865],"type":"Point"}
+}

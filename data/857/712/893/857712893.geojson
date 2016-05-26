@@ -1,0 +1,73 @@
+{
+  "id": 857712893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.535679,39.708268,-75.535679,39.708268",
+    "geom:latitude":39.708268,
+    "geom:longitude":-75.535679,
+    "iso:country":"US",
+    "sg:address":"170 Pigeon Point Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 1171",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZTvmhIHT9C4Vlt2pORkTa_39.708268_-75.535679@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221108,
+    "wof:geomhash":"e073c56867bdeaae2ddd44e4b7c45527",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857712893
+        }
+    ],
+    "wof:id":857712893,
+    "wof:lastmodified":1464221108,
+    "wof:name":"Trans Cargo",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -75.535679,
+    39.708268,
+    -75.535679,
+    39.708268
+],
+  "geometry": {"coordinates":[-75.535679,39.708268],"type":"Point"}
+}

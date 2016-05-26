@@ -1,0 +1,71 @@
+{
+  "id": 857727619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.227634,38.457322,-75.227634,38.457322",
+    "geom:latitude":38.457322,
+    "geom:longitude":-75.227634,
+    "iso:country":"US",
+    "sg:address":"68 Church St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 8334",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qmjIK8eqSjkixr8SFuyR6_38.457322_-75.227634@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221390,
+    "wof:geomhash":"70bbd3180742daf47caf03bc3d5147fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857727619
+        }
+    ],
+    "wof:id":857727619,
+    "wof:lastmodified":1464221390,
+    "wof:name":"Selbyville Police Dept",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -75.227634,
+    38.457322,
+    -75.227634,
+    38.457322
+],
+  "geometry": {"coordinates":[-75.22763399999999,38.457322],"type":"Point"}
+}

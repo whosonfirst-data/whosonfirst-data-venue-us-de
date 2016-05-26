@@ -1,0 +1,72 @@
+{
+  "id": 873469433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.667222,39.613864,-75.667222,39.613864",
+    "geom:latitude":39.613864,
+    "geom:longitude":-75.667222,
+    "iso:country":"US",
+    "sg:address":"552 Tolham Rd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 8170",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "sg:website":"www.cmielectric.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QXTOWntGjfMU1HNJNz0UC_39.613864_-75.667222@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221702,
+    "wof:geomhash":"47b9bffdd44103a674a98a49b3bf04fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873469433
+        }
+    ],
+    "wof:id":873469433,
+    "wof:lastmodified":1464221702,
+    "wof:name":"CMI",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.667222,
+    39.613864,
+    -75.667222,
+    39.613864
+],
+  "geometry": {"coordinates":[-75.667222,39.613864],"type":"Point"}
+}

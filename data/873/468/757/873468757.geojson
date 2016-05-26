@@ -1,0 +1,73 @@
+{
+  "id": 873468757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504548,39.761684,-75.504548,39.761684",
+    "geom:latitude":39.761684,
+    "geom:longitude":-75.504548,
+    "iso:country":"US",
+    "sg:address":"204 Brandywine Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 8387",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "refrigeration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4plObu08L3C4nOWwyzp6P1_39.761684_-75.504548@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221679,
+    "wof:geomhash":"0467f1f457c5ae0d8e7d3f55caf34eb3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873468757
+        }
+    ],
+    "wof:id":873468757,
+    "wof:lastmodified":1464221679,
+    "wof:name":"Sun Refrigeration",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration"
+    ]
+},
+  "bbox": [
+    -75.504548,
+    39.761684,
+    -75.504548,
+    39.761684
+],
+  "geometry": {"coordinates":[-75.504548,39.761684],"type":"Point"}
+}

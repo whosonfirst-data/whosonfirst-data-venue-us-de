@@ -1,0 +1,73 @@
+{
+  "id": 857733163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.459047,38.939405,-75.459047,38.939405",
+    "geom:latitude":38.939405,
+    "geom:longitude":-75.459047,
+    "iso:country":"US",
+    "sg:address":"1113 Church Hill Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 1327",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "administrative",
+        "program",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6H3GGc67xETWoWPT2CjpQb_38.939405_-75.459047@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221504,
+    "wof:geomhash":"5d745d2c64207b1b87a4a619e41f4a01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857733163
+        }
+    ],
+    "wof:id":857733163,
+    "wof:lastmodified":1464221504,
+    "wof:name":"Milford Public Health",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "administrative",
+        "program",
+        "health"
+    ]
+},
+  "bbox": [
+    -75.459047,
+    38.939405,
+    -75.459047,
+    38.939405
+],
+  "geometry": {"coordinates":[-75.459047,38.939405],"type":"Point"}
+}

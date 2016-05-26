@@ -1,0 +1,75 @@
+{
+  "id": 873480443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566067,39.742245,-75.566067,39.742245",
+    "geom:latitude":39.742245,
+    "geom:longitude":-75.566067,
+    "iso:country":"US",
+    "sg:address":"1227 Chestnut St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 1200",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EbCJDBEdesRROqn5yyn8j_39.742245_-75.566067@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222130,
+    "wof:geomhash":"8967bf208a2891c8f0065f5b9def152c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873480443
+        }
+    ],
+    "wof:id":873480443,
+    "wof:lastmodified":1464222130,
+    "wof:name":"Casey Electric Inc",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.566067,
+    39.742245,
+    -75.566067,
+    39.742245
+],
+  "geometry": {"coordinates":[-75.566067,39.742245],"type":"Point"}
+}

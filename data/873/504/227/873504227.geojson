@@ -1,0 +1,69 @@
+{
+  "id": 873504227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.580785,39.667136,-75.580785,39.667136",
+    "geom:latitude":39.667136,
+    "geom:longitude":-75.580785,
+    "iso:country":"US",
+    "sg:address":"810 E Basin Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 1939",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24RnR6xoO41OWB8RpRFZSk_39.667136_-75.580785@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223114,
+    "wof:geomhash":"48f49484000684c4d6ab10c0d630d7b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873504227
+        }
+    ],
+    "wof:id":873504227,
+    "wof:lastmodified":1464223114,
+    "wof:name":"Schoolside Apartments",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.580785,
+    39.667136,
+    -75.580785,
+    39.667136
+],
+  "geometry": {"coordinates":[-75.58078500000001,39.667136],"type":"Point"}
+}

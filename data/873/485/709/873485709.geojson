@@ -1,0 +1,73 @@
+{
+  "id": 873485709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.44265,38.742986,-75.44265,38.742986",
+    "geom:latitude":38.742986,
+    "geom:longitude":-75.44265,
+    "iso:country":"US",
+    "sg:address":"17811 Check Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2004",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UARcmpWBY5zPHs4pHAD6m_38.742986_-75.442650@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222332,
+    "wof:geomhash":"307c708f54ad557387f060bb20a0d327",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873485709
+        }
+    ],
+    "wof:id":873485709,
+    "wof:lastmodified":1464222332,
+    "wof:name":"Delaware Plumbing Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.44265,
+    38.742986,
+    -75.44265,
+    38.742986
+],
+  "geometry": {"coordinates":[-75.44265,38.742986],"type":"Point"}
+}

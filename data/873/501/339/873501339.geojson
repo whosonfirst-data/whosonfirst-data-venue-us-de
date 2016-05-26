@@ -1,0 +1,71 @@
+{
+  "id": 873501339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.166728,38.769006,-75.166728,38.769006",
+    "geom:latitude":38.769006,
+    "geom:longitude":-75.166728,
+    "iso:country":"US",
+    "sg:address":"5 Schaffer Ln",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 249 3013",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fbtTdyufmFLNEbt2GLqFq_38.769006_-75.166728@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223001,
+    "wof:geomhash":"7bb78a0841d76c105437fc5cd77a2c35",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873501339
+        }
+    ],
+    "wof:id":873501339,
+    "wof:lastmodified":1464223001,
+    "wof:name":"John Gardner Inc",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.166728,
+    38.769006,
+    -75.166728,
+    38.769006
+],
+  "geometry": {"coordinates":[-75.16672800000001,38.769006],"type":"Point"}
+}

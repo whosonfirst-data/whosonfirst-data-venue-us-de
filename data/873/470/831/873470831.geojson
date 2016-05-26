@@ -1,0 +1,75 @@
+{
+  "id": 873470831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.721621,39.653482,-75.721621,39.653482",
+    "geom:latitude":39.653482,
+    "geom:longitude":-75.721621,
+    "iso:country":"US",
+    "sg:address":"1000 Dawson Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 7177",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73Qtg7rnYht3I4szkP0lJb_39.653482_-75.721621@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221759,
+    "wof:geomhash":"5624b705fff088e9608c3a244b632734",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873470831
+        }
+    ],
+    "wof:id":873470831,
+    "wof:lastmodified":1464221759,
+    "wof:name":"James C Orga Elec Contr",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.721621,
+    39.653482,
+    -75.721621,
+    39.653482
+],
+  "geometry": {"coordinates":[-75.721621,39.653482],"type":"Point"}
+}

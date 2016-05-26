@@ -1,0 +1,71 @@
+{
+  "id": 873478355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62057,38.647509,-75.62057,38.647509",
+    "geom:latitude":38.647509,
+    "geom:longitude":-75.62057,
+    "iso:country":"US",
+    "sg:address":"152 Tulip Pl",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 7300",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xGEABssspRjHC4uRF3kTC_38.647509_-75.620570@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222034,
+    "wof:geomhash":"3e527b8296beec96d779f4d9503972e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873478355
+        }
+    ],
+    "wof:id":873478355,
+    "wof:lastmodified":1464222034,
+    "wof:name":"St Jude The Apostle Church",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.62057,
+    38.647509,
+    -75.62057,
+    38.647509
+],
+  "geometry": {"coordinates":[-75.62057,38.647509],"type":"Point"}
+}

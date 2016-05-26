@@ -1,0 +1,71 @@
+{
+  "id": 873477091,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605765,39.7132,-75.605765,39.7132",
+    "geom:latitude":39.7132,
+    "geom:longitude":-75.605765,
+    "iso:country":"US",
+    "sg:address":"213 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 1841",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2g4xr80g3D3tmqUELeVXN5_39.713200_-75.605765@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221987,
+    "wof:geomhash":"688b60ee89c4e174ae7803895cb4b8a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873477091
+        }
+    ],
+    "wof:id":873477091,
+    "wof:lastmodified":1464221987,
+    "wof:name":"Hoback HVAC Svc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.605765,
+    39.7132,
+    -75.605765,
+    39.7132
+],
+  "geometry": {"coordinates":[-75.60576500000001,39.7132],"type":"Point"}
+}

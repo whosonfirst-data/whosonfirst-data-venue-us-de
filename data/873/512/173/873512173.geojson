@@ -1,0 +1,79 @@
+{
+  "id": 873512173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.499901,39.156799,-75.499901,39.156799",
+    "geom:latitude":39.156799,
+    "geom:longitude":-75.499901,
+    "iso:country":"US",
+    "sg:address":"1018 S Little Creek Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 0673",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sASGEWVeLX8DlZ4bsyK6J_39.156837_-75.499330@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223482,
+    "wof:geomhash":"3a84e6f7d3e2d84ac9febc15c9ccd7a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873512173
+        }
+    ],
+    "wof:id":873512173,
+    "wof:lastmodified":1464223482,
+    "wof:name":"Eastside Package Store",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.499901,
+    39.156799,
+    -75.499901,
+    39.156799
+],
+  "geometry": {"coordinates":[-75.49990099999999,39.156799],"type":"Point"}
+}

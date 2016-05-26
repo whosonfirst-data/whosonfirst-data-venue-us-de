@@ -1,0 +1,77 @@
+{
+  "id": 873472159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574335,39.752737,-75.574335,39.752737",
+    "geom:latitude":39.752737,
+    "geom:longitude":-75.574335,
+    "iso:country":"US",
+    "sg:address":"2203 W 7th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 9277",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q06cekSsm9ny9Pl6zYjQy_39.752737_-75.574335@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221811,
+    "wof:geomhash":"889b031ac3239e6a510e12c291615f48",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873472159
+        }
+    ],
+    "wof:id":873472159,
+    "wof:lastmodified":1464221811,
+    "wof:name":"Brian & Jim's Automotive Svc",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.574335,
+    39.752737,
+    -75.574335,
+    39.752737
+],
+  "geometry": {"coordinates":[-75.574335,39.752737],"type":"Point"}
+}

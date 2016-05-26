@@ -1,0 +1,89 @@
+{
+  "id": 873513751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.431703,38.929671,-75.431703,38.929671",
+    "geom:latitude":38.929671,
+    "geom:longitude":-75.431703,
+    "iso:country":"US",
+    "sg:address":"939 N Dupont Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/milford-north/130281-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 6309",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RQ0rPvmHiA87Kl72YNaxI_38.929671_-75.431703@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223546,
+    "wof:geomhash":"df47ce8924790f8ebbd9ed22db5109dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873513751
+        }
+    ],
+    "wof:id":873513751,
+    "wof:lastmodified":1464223546,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.431703,
+    38.929671,
+    -75.431703,
+    38.929671
+],
+  "geometry": {"coordinates":[-75.431703,38.929671],"type":"Point"}
+}

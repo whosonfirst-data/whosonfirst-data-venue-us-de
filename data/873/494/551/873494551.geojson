@@ -1,0 +1,71 @@
+{
+  "id": 873494551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604887,39.71159,-75.604887,39.71159",
+    "geom:latitude":39.71159,
+    "geom:longitude":-75.604887,
+    "iso:country":"US",
+    "sg:address":"110 Water St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 0888",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "antique",
+        "restoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MbpwdfKX8TXic0IVMy6gH_39.711590_-75.604887@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222686,
+    "wof:geomhash":"11eeda9cea4934b143ee82f339761303",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873494551
+        }
+    ],
+    "wof:id":873494551,
+    "wof:lastmodified":1464222686,
+    "wof:name":"Solano's Restorations Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique",
+        "restoring"
+    ]
+},
+  "bbox": [
+    -75.604887,
+    39.71159,
+    -75.604887,
+    39.71159
+],
+  "geometry": {"coordinates":[-75.60488700000001,39.71159],"type":"Point"}
+}

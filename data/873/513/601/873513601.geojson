@@ -1,0 +1,76 @@
+{
+  "id": 873513601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.497364,39.125106,-75.497364,39.125106",
+    "geom:latitude":39.125106,
+    "geom:longitude":-75.497364,
+    "iso:country":"US",
+    "sg:address":"375 Gateway South Blvd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/206996-sonic/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3220",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85835163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30eB3s04xSmZK5WPggHzJ7_39.125106_-75.497364@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223538,
+    "wof:geomhash":"2d594174fd828e0a5c3bd2fb8b02c957",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85835163,
+            "region_id":85688611,
+            "venue_id":873513601
+        }
+    ],
+    "wof:id":873513601,
+    "wof:lastmodified":1464223538,
+    "wof:name":"Sonic",
+    "wof:parent_id":85835163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.497364,
+    39.125106,
+    -75.497364,
+    39.125106
+],
+  "geometry": {"coordinates":[-75.497364,39.125106],"type":"Point"}
+}

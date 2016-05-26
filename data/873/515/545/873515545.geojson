@@ -1,0 +1,71 @@
+{
+  "id": 873515545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74476,39.686131,-75.74476,39.686131",
+    "geom:latitude":39.686131,
+    "geom:longitude":-75.74476,
+    "iso:country":"US",
+    "sg:address":"614 Newark Shopping Ctr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 4005",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grill",
+        "bar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41q044SV71deKUuRlk7vjR_39.686131_-75.744760@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223647,
+    "wof:geomhash":"2e1203ad20088cddabd1a711a90633b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515545
+        }
+    ],
+    "wof:id":873515545,
+    "wof:lastmodified":1464223647,
+    "wof:name":"Mediterrenean Grille",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grill",
+        "bar"
+    ]
+},
+  "bbox": [
+    -75.74476,
+    39.686131,
+    -75.74476,
+    39.686131
+],
+  "geometry": {"coordinates":[-75.74476,39.686131],"type":"Point"}
+}

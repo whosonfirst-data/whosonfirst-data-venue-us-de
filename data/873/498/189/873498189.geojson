@@ -1,0 +1,74 @@
+{
+  "id": 873498189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57361,39.691069,-75.57361,39.691069",
+    "geom:latitude":39.691069,
+    "geom:longitude":-75.57361,
+    "iso:country":"US",
+    "sg:address":"12 McCullough Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 5464",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50WRjTQc2VoNPSPE3FbxzQ_39.691069_-75.573610@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222870,
+    "wof:geomhash":"6d357e1eb334bb5d7effca9155567855",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873498189
+        }
+    ],
+    "wof:id":873498189,
+    "wof:lastmodified":1464222870,
+    "wof:name":"Pro Source of Delaware",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rug"
+    ]
+},
+  "bbox": [
+    -75.57361,
+    39.691069,
+    -75.57361,
+    39.691069
+],
+  "geometry": {"coordinates":[-75.57361,39.691069],"type":"Point"}
+}

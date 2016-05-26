@@ -1,0 +1,73 @@
+{
+  "id": 873501325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537065,39.750747,-75.537065,39.750747",
+    "geom:latitude":39.750747,
+    "geom:longitude":-75.537065,
+    "iso:country":"US",
+    "sg:address":"218 E 22nd St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 7351",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZS2thKNpMfzlx8X9WBBAL_39.750747_-75.537065@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223001,
+    "wof:geomhash":"893612571734dae35d37aaa64b6f8a6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873501325
+        }
+    ],
+    "wof:id":873501325,
+    "wof:lastmodified":1464223001,
+    "wof:name":"Unique Performance",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.537065,
+    39.750747,
+    -75.537065,
+    39.750747
+],
+  "geometry": {"coordinates":[-75.537065,39.750747],"type":"Point"}
+}

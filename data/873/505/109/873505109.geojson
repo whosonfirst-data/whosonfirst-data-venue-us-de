@@ -1,0 +1,73 @@
+{
+  "id": 873505109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.681719,39.780871,-75.681719,39.780871",
+    "geom:latitude":39.780871,
+    "geom:longitude":-75.681719,
+    "iso:country":"US",
+    "sg:address":"107 Wyeth Way",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 8131",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e0AMCXjo1zpOK4h3lyNjz_39.780871_-75.681719@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223160,
+    "wof:geomhash":"2e855344198dbe4630f8bec8cea002c9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873505109
+        }
+    ],
+    "wof:id":873505109,
+    "wof:lastmodified":1464223160,
+    "wof:name":"Brandywine Resources",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.681719,
+    39.780871,
+    -75.681719,
+    39.780871
+],
+  "geometry": {"coordinates":[-75.681719,39.780871],"type":"Point"}
+}

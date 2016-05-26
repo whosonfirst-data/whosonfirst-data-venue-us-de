@@ -1,0 +1,73 @@
+{
+  "id": 873500663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.436131,38.603337,-75.436131,38.603337",
+    "geom:latitude":38.603337,
+    "geom:longitude":-75.436131,
+    "iso:country":"US",
+    "sg:address":"18066 Asketum Branch Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 875 0101",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RJ84qmIfUmDeswAspPqGS_38.603337_-75.436131@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222966,
+    "wof:geomhash":"d5f613a9e3f4c85b50604883b4492db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873500663
+        }
+    ],
+    "wof:id":873500663,
+    "wof:lastmodified":1464222966,
+    "wof:name":"Current Services",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.436131,
+    38.603337,
+    -75.436131,
+    38.603337
+],
+  "geometry": {"coordinates":[-75.436131,38.603337],"type":"Point"}
+}

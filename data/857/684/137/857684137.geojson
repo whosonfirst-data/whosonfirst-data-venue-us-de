@@ -1,0 +1,85 @@
+{
+  "id": 857684137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543918,39.737491,-75.543918,39.737491",
+    "geom:latitude":39.737491,
+    "geom:longitude":-75.543918,
+    "iso:country":"US",
+    "sg:address":"603 E 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 0673",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "natural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ri9c1smDMAmKYzRGpl42w_39.737491_-75.543918@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220505,
+    "wof:geomhash":"d46ee0222e8e109b7bfe3ee80ca2f6e0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857684137
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857684137
+        }
+    ],
+    "wof:id":857684137,
+    "wof:lastmodified":1464220505,
+    "wof:name":"Shahidas Halaal Products",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "natural"
+    ]
+},
+  "bbox": [
+    -75.543918,
+    39.737491,
+    -75.543918,
+    39.737491
+],
+  "geometry": {"coordinates":[-75.54391800000001,39.737491],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873490321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528165,39.765603,-75.528165,39.765603",
+    "geom:latitude":39.765603,
+    "geom:longitude":-75.528165,
+    "iso:country":"US",
+    "sg:address":"501 W 39th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 275 7377",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4l02pSdvX3aNsC10MAKTW4_39.765603_-75.528165@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222507,
+    "wof:geomhash":"7ceba1cd36b1122c1d02809574b5e604",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873490321
+        }
+    ],
+    "wof:id":873490321,
+    "wof:lastmodified":1464222507,
+    "wof:name":"Nathan S Seldomridge",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.528165,
+    39.765603,
+    -75.528165,
+    39.765603
+],
+  "geometry": {"coordinates":[-75.528165,39.765603],"type":"Point"}
+}

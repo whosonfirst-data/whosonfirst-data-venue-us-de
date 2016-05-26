@@ -1,0 +1,75 @@
+{
+  "id": 873519333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517275,39.771173,-75.517275,39.771173",
+    "geom:latitude":39.771173,
+    "geom:longitude":-75.517275,
+    "iso:country":"US",
+    "sg:address":"4704 Washington Street Ext",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 703 725 4424",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machines-parts",
+        "machines-wholesale",
+        "manufacturer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mdtHQLDNRnGkCAEgZaqHG_39.771173_-75.517275@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223848,
+    "wof:geomhash":"0fb98ff53284717d1005c75a9f1af7c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873519333
+        }
+    ],
+    "wof:id":873519333,
+    "wof:lastmodified":1464223848,
+    "wof:name":"Wholesome Foods Vending",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machines-parts",
+        "machines-wholesale",
+        "manufacturer",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.517275,
+    39.771173,
+    -75.517275,
+    39.771173
+],
+  "geometry": {"coordinates":[-75.517275,39.771173],"type":"Point"}
+}

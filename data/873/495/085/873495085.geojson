@@ -1,0 +1,71 @@
+{
+  "id": 873495085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607367,39.301629,-75.607367,39.301629",
+    "geom:latitude":39.301629,
+    "geom:longitude":-75.607367,
+    "iso:country":"US",
+    "sg:address":"6 N Main St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 5694",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Xg1JXzhcG9ZSPCtvKu1W8_39.301629_-75.607367@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222720,
+    "wof:geomhash":"bb71c17dce1908245a2b85af3313945f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873495085
+        }
+    ],
+    "wof:id":873495085,
+    "wof:lastmodified":1464222720,
+    "wof:name":"AAA Lead Paint Inspectors",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.607367,
+    39.301629,
+    -75.607367,
+    39.301629
+],
+  "geometry": {"coordinates":[-75.607367,39.301629],"type":"Point"}
+}

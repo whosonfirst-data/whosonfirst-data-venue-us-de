@@ -1,0 +1,71 @@
+{
+  "id": 857684857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.506971,39.767556,-75.506971,39.767556",
+    "geom:latitude":39.767556,
+    "geom:longitude":-75.506971,
+    "iso:country":"US",
+    "sg:address":"408 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Groceries",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 1440",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bakery",
+        "retail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kZYltQT0vPrO5ID4wVYOM_39.767556_-75.506971@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220519,
+    "wof:geomhash":"1895e319fbc38e1cacf075f69d603e91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":857684857
+        }
+    ],
+    "wof:id":857684857,
+    "wof:lastmodified":1464220519,
+    "wof:name":"M & M Bakery",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bakery",
+        "retail"
+    ]
+},
+  "bbox": [
+    -75.506971,
+    39.767556,
+    -75.506971,
+    39.767556
+],
+  "geometry": {"coordinates":[-75.50697099999999,39.767556],"type":"Point"}
+}

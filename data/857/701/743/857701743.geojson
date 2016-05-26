@@ -1,0 +1,73 @@
+{
+  "id": 857701743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.411254,38.669171,-75.411254,38.669171",
+    "geom:latitude":38.669171,
+    "geom:longitude":-75.411254,
+    "iso:country":"US",
+    "sg:address":"19291 County Seat Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 0210",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UUJ2LW9bzLAXoQHVOALam_38.669171_-75.411254@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220855,
+    "wof:geomhash":"4839a738224aa28b52e6343276823536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857701743
+        }
+    ],
+    "wof:id":857701743,
+    "wof:lastmodified":1464220855,
+    "wof:name":"Dawson Bedsworth Elec Contr",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.411254,
+    38.669171,
+    -75.411254,
+    38.669171
+],
+  "geometry": {"coordinates":[-75.411254,38.669171],"type":"Point"}
+}

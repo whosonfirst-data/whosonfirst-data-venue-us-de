@@ -1,0 +1,73 @@
+{
+  "id": 873467851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.510918,39.812763,-75.510918,39.812763",
+    "geom:latitude":39.812763,
+    "geom:longitude":-75.510918,
+    "iso:country":"US",
+    "sg:address":"2000 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 7750",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64TbGyIOhksX9dBR4mYPVM_39.812763_-75.510918@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221647,
+    "wof:geomhash":"6d831b051bf84e7e9d85ff4d921560de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873467851
+        }
+    ],
+    "wof:id":873467851,
+    "wof:lastmodified":1464221647,
+    "wof:name":"Delaware Curative",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.510918,
+    39.812763,
+    -75.510918,
+    39.812763
+],
+  "geometry": {"coordinates":[-75.510918,39.812763],"type":"Point"}
+}

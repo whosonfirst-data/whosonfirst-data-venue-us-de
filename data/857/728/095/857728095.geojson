@@ -1,0 +1,69 @@
+{
+  "id": 857728095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505019,39.802103,-75.505019,39.802103",
+    "geom:latitude":39.802103,
+    "geom:longitude":-75.505019,
+    "iso:country":"US",
+    "sg:address":"1715 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5555",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "confectionery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DTQXtDjQ8AeI3KKHWtxQ8_39.802103_-75.505019@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221398,
+    "wof:geomhash":"5d6c664109a7d12a79688a69100e617c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":857728095
+        }
+    ],
+    "wof:id":857728095,
+    "wof:lastmodified":1464221398,
+    "wof:name":"Candy Bouquet",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "confectionery"
+    ]
+},
+  "bbox": [
+    -75.505019,
+    39.802103,
+    -75.505019,
+    39.802103
+],
+  "geometry": {"coordinates":[-75.505019,39.802103],"type":"Point"}
+}

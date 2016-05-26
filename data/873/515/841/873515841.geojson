@@ -1,0 +1,72 @@
+{
+  "id": 873515841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.699329,39.701195,-75.699329,39.701195",
+    "geom:latitude":39.701195,
+    "geom:longitude":-75.699329,
+    "iso:country":"US",
+    "sg:address":"1805 Capitol Trl",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 9618",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://www.funstep.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EOXDrt8hd36qi2DtgGv6m_39.701195_-75.699329@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223657,
+    "wof:geomhash":"51a93322f67eea481267ba0c29399f95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873515841
+        }
+    ],
+    "wof:id":873515841,
+    "wof:lastmodified":1464223657,
+    "wof:name":"Funstep Inc",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.699329,
+    39.701195,
+    -75.699329,
+    39.701195
+],
+  "geometry": {"coordinates":[-75.69932900000001,39.701195],"type":"Point"}
+}

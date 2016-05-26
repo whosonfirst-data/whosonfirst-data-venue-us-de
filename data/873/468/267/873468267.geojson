@@ -1,0 +1,88 @@
+{
+  "id": 873468267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547108,39.741367,-75.547108,39.741367",
+    "geom:latitude":39.741367,
+    "geom:longitude":-75.547108,
+    "iso:country":"US",
+    "sg:address":"604 N Walnut St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 472 3002",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "information",
+        "center",
+        "testing",
+        "outreach",
+        "aids",
+        "education"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fNhfUh4SIZufiebh9aFs9_39.741367_-75.547108@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221661,
+    "wof:geomhash":"1677ee48bdeda1888cd36783c07442a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873468267
+        }
+    ],
+    "wof:id":873468267,
+    "wof:lastmodified":1464221661,
+    "wof:name":"Beautiful Gate Outreach Center",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "center",
+        "testing",
+        "outreach",
+        "aids",
+        "education"
+    ]
+},
+  "bbox": [
+    -75.547108,
+    39.741367,
+    -75.547108,
+    39.741367
+],
+  "geometry": {"coordinates":[-75.54710799999999,39.741367],"type":"Point"}
+}

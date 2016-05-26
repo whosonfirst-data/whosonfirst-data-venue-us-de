@@ -1,0 +1,69 @@
+{
+  "id": 873514669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.750086,39.625125,-75.750086,39.625125",
+    "geom:latitude":39.625125,
+    "geom:longitude":-75.750086,
+    "iso:country":"US",
+    "sg:address":"324 E Edgewater Way",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 897 8915",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DquVZFrZkyF8kRuXyG1jG_39.625125_-75.750086@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223607,
+    "wof:geomhash":"04c47f81949aab41400e34c91629adcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514669
+        }
+    ],
+    "wof:id":873514669,
+    "wof:lastmodified":1464223607,
+    "wof:name":"NONI Taxi Cab",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.750086,
+    39.625125,
+    -75.750086,
+    39.625125
+],
+  "geometry": {"coordinates":[-75.750086,39.625125],"type":"Point"}
+}

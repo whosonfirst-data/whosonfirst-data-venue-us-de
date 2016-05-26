@@ -1,0 +1,69 @@
+{
+  "id": 873469903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.519941,39.760731,-75.519941,39.760731",
+    "geom:latitude":39.760731,
+    "geom:longitude":-75.519941,
+    "iso:country":"US",
+    "sg:address":"15 E Lea Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 472 3161",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:website":"www.wilmingtontrust.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WvgDWSHtcs7jrQPzXBlEA_39.760731_-75.519941@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221726,
+    "wof:geomhash":"fb434790f26b69355c1640fb1f53a1f5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873469903
+        }
+    ],
+    "wof:id":873469903,
+    "wof:lastmodified":1464221726,
+    "wof:name":"Wilmington Trust Co",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.519941,
+    39.760731,
+    -75.519941,
+    39.760731
+],
+  "geometry": {"coordinates":[-75.519941,39.760731],"type":"Point"}
+}

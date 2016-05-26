@@ -1,0 +1,75 @@
+{
+  "id": 873506747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.631242,39.73605,-75.631242,39.73605",
+    "geom:latitude":39.73605,
+    "geom:longitude":-75.631242,
+    "iso:country":"US",
+    "sg:address":"3405 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 4303",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pVFwJ9zY1TXwPMX6GglL1_39.736050_-75.631242@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223227,
+    "wof:geomhash":"916b251e57139722e8e0f14979a72c6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873506747
+        }
+    ],
+    "wof:id":873506747,
+    "wof:lastmodified":1464223227,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.631242,
+    39.73605,
+    -75.631242,
+    39.73605
+],
+  "geometry": {"coordinates":[-75.631242,39.73605],"type":"Point"}
+}

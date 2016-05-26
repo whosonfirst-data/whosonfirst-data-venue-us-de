@@ -1,0 +1,74 @@
+{
+  "id": 873515657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.73317,39.683079,-75.73317,39.683079",
+    "geom:latitude":39.683079,
+    "geom:longitude":-75.73317,
+    "iso:country":"US",
+    "sg:address":"400 College Sq",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 867 5309",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "maintenance",
+        "repair"
+    ],
+    "sg:website":"http://www.searshomeservices.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5in3uL9FSCksLQQviCsDbV_39.683079_-75.733170@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223651,
+    "wof:geomhash":"99496683f1d02f74966db86426201dcd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515657
+        }
+    ],
+    "wof:id":873515657,
+    "wof:lastmodified":1464223651,
+    "wof:name":"Sears Home Services",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "maintenance",
+        "repair"
+    ]
+},
+  "bbox": [
+    -75.73317,
+    39.683079,
+    -75.73317,
+    39.683079
+],
+  "geometry": {"coordinates":[-75.73317,39.683079],"type":"Point"}
+}

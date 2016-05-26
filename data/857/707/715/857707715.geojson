@@ -1,0 +1,69 @@
+{
+  "id": 857707715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.469107,38.932339,-75.469107,38.932339",
+    "geom:latitude":38.932339,
+    "geom:longitude":-75.469107,
+    "iso:country":"US",
+    "sg:address":"1795 Milford Harrington Hwy",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 4450",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6sv847poULZLZFFYVgCKth_38.932339_-75.469107@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220963,
+    "wof:geomhash":"49b6af950ecb9a88a445aa69ce264b6c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857707715
+        }
+    ],
+    "wof:id":857707715,
+    "wof:lastmodified":1464220963,
+    "wof:name":"Hill's Fresh Plants & Produce",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -75.469107,
+    38.932339,
+    -75.469107,
+    38.932339
+],
+  "geometry": {"coordinates":[-75.46910699999999,38.932339],"type":"Point"}
+}

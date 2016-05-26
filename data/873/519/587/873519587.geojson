@@ -1,0 +1,71 @@
+{
+  "id": 873519587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515339,39.808184,-75.515339,39.808184",
+    "geom:latitude":39.808184,
+    "geom:longitude":-75.515339,
+    "iso:country":"US",
+    "sg:address":"2502 Silverside Rd Ste 4",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 3702",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jDsptggw5AuRIMg9NPefj_39.808184_-75.515339@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223862,
+    "wof:geomhash":"bc88b6cb48b8f2055590c4d15476a245",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873519587
+        }
+    ],
+    "wof:id":873519587,
+    "wof:lastmodified":1464223862,
+    "wof:name":"Opt Therapy Services",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.515339,
+    39.808184,
+    -75.515339,
+    39.808184
+],
+  "geometry": {"coordinates":[-75.515339,39.808184],"type":"Point"}
+}

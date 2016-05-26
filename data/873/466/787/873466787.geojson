@@ -1,0 +1,71 @@
+{
+  "id": 873466787,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.72426,39.690535,-75.72426,39.690535",
+    "geom:latitude":39.690535,
+    "geom:longitude":-75.72426,
+    "iso:country":"US",
+    "sg:address":"104 Mulberry Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 0241",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sR8vi9edZA5cMd5JjErcd_39.690535_-75.724260@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221611,
+    "wof:geomhash":"b403b550d3bb52c9a9d4baa1448c9ca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873466787
+        }
+    ],
+    "wof:id":873466787,
+    "wof:lastmodified":1464221611,
+    "wof:name":"KLF Construction",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.72426,
+    39.690535,
+    -75.72426,
+    39.690535
+],
+  "geometry": {"coordinates":[-75.72426,39.690535],"type":"Point"}
+}

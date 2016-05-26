@@ -1,0 +1,69 @@
+{
+  "id": 873496743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634426,39.728945,-75.634426,39.728945",
+    "geom:latitude":39.728945,
+    "geom:longitude":-75.634426,
+    "iso:country":"US",
+    "sg:address":"1803 Newport Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Motor Vehicles & Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 1084",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fu7QVvdznWyJ7XZBA3jq3_39.728945_-75.634426@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222814,
+    "wof:geomhash":"fb368f136abb3bd2b1f735221772e334",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873496743
+        }
+    ],
+    "wof:id":873496743,
+    "wof:lastmodified":1464222814,
+    "wof:name":"General Motors",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.634426,
+    39.728945,
+    -75.634426,
+    39.728945
+],
+  "geometry": {"coordinates":[-75.634426,39.728945],"type":"Point"}
+}

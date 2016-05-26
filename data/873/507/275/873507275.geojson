@@ -1,0 +1,73 @@
+{
+  "id": 873507275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.471172,39.819565,-75.471172,39.819565",
+    "geom:latitude":39.819565,
+    "geom:longitude":-75.471172,
+    "iso:country":"US",
+    "sg:address":"928 Rockwell Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 507 6400",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "solution",
+        "logistic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2X9eHkl6cwF5PwAjXA1HF2_39.819565_-75.471172@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223249,
+    "wof:geomhash":"3e1f3a912c83ec9b93fa2fddba458f17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873507275
+        }
+    ],
+    "wof:id":873507275,
+    "wof:lastmodified":1464223249,
+    "wof:name":"Cargo Group LLP",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "solution",
+        "logistic"
+    ]
+},
+  "bbox": [
+    -75.471172,
+    39.819565,
+    -75.471172,
+    39.819565
+],
+  "geometry": {"coordinates":[-75.471172,39.819565],"type":"Point"}
+}

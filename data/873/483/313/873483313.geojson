@@ -1,0 +1,69 @@
+{
+  "id": 873483313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.640936,39.715502,-75.640936,39.715502",
+    "geom:latitude":39.715502,
+    "geom:longitude":-75.640936,
+    "iso:country":"US",
+    "sg:address":"2302 W Newport Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tattoo Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0768",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tattooing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AV4AtiwMRQYbQE2Lk65rC_39.715502_-75.640936@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222241,
+    "wof:geomhash":"1835ddc206c333a45cf7c8a372828c23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873483313
+        }
+    ],
+    "wof:id":873483313,
+    "wof:lastmodified":1464222241,
+    "wof:name":"Highwinders Tattoo Studios",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tattooing"
+    ]
+},
+  "bbox": [
+    -75.640936,
+    39.715502,
+    -75.640936,
+    39.715502
+],
+  "geometry": {"coordinates":[-75.640936,39.715502],"type":"Point"}
+}

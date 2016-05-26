@@ -1,0 +1,73 @@
+{
+  "id": 873504781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.082908,38.716121,-75.082908,38.716121",
+    "geom:latitude":38.716121,
+    "geom:longitude":-75.082908,
+    "iso:country":"US",
+    "sg:address":"219 Rehoboth Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 8400",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931597,
+        102083887,
+        85844243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tZkblYIJfu4lOa1Ao5OtE_38.716121_-75.082908@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223145,
+    "wof:geomhash":"a3e48d8d14adbacdc161abd09d6bb0b3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931597,
+            "neighbourhood_id":85844243,
+            "region_id":85688611,
+            "venue_id":873504781
+        }
+    ],
+    "wof:id":873504781,
+    "wof:lastmodified":1464223145,
+    "wof:name":"Rehoboth Beach Fire Dept",
+    "wof:parent_id":85844243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -75.082908,
+    38.716121,
+    -75.082908,
+    38.716121
+],
+  "geometry": {"coordinates":[-75.082908,38.716121],"type":"Point"}
+}

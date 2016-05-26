@@ -1,0 +1,73 @@
+{
+  "id": 873483245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57161,39.748617,-75.57161,39.748617",
+    "geom:latitude":39.748617,
+    "geom:longitude":-75.57161,
+    "iso:country":"US",
+    "sg:address":"1822 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 3692",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lcF6rgEOvHctVzBDRRigh_39.748617_-75.571610@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222239,
+    "wof:geomhash":"3d370228c4bcdc29b57a9571ccaa3641",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873483245
+        }
+    ],
+    "wof:id":873483245,
+    "wof:lastmodified":1464222239,
+    "wof:name":"Portraits In Light",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -75.57161,
+    39.748617,
+    -75.57161,
+    39.748617
+],
+  "geometry": {"coordinates":[-75.57161000000001,39.748617],"type":"Point"}
+}

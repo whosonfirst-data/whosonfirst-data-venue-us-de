@@ -1,0 +1,75 @@
+{
+  "id": 873470333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.710029,39.77969,-75.710029,39.77969",
+    "geom:latitude":39.77969,
+    "geom:longitude":-75.710029,
+    "iso:country":"US",
+    "sg:address":"746 Valley Rd",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 0454",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85827779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sLgeZ4fyRblJbXBV9giOi_39.779690_-75.710029@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221742,
+    "wof:geomhash":"f5f857e1bb21f2c1d2b222a049d2fc38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85827779,
+            "region_id":85688611,
+            "venue_id":873470333
+        }
+    ],
+    "wof:id":873470333,
+    "wof:lastmodified":1464221742,
+    "wof:name":"Advanced Auto WERX",
+    "wof:parent_id":85827779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.710029,
+    39.77969,
+    -75.710029,
+    39.77969
+],
+  "geometry": {"coordinates":[-75.71002900000001,39.77969],"type":"Point"}
+}

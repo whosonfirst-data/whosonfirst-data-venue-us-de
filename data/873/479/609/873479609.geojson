@@ -1,0 +1,69 @@
+{
+  "id": 873479609,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.488228,39.785358,-75.488228,39.785358",
+    "geom:latitude":39.785358,
+    "geom:longitude":-75.488228,
+    "iso:country":"US",
+    "sg:address":"410 W Clearview Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 5384",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vLVTGEA9s6NoZe5llQ2bO_39.785358_-75.488228@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222092,
+    "wof:geomhash":"1a9994f1ed82597d7d44ea05371f3e48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":873479609
+        }
+    ],
+    "wof:id":873479609,
+    "wof:lastmodified":1464222092,
+    "wof:name":"Dysphagia Cnslt Services PA",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.488228,
+    39.785358,
+    -75.488228,
+    39.785358
+],
+  "geometry": {"coordinates":[-75.48822800000001,39.785358],"type":"Point"}
+}

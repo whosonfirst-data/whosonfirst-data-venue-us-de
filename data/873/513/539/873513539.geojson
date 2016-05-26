@@ -1,0 +1,72 @@
+{
+  "id": 873513539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.649785,39.728254,-75.649785,39.728254",
+    "geom:latitude":39.728254,
+    "geom:longitude":-75.649785,
+    "iso:country":"US",
+    "sg:address":"4303 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/189534-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 7061",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jY6AFNSje1GaZFOCJk4g5_39.728254_-75.649785@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223535,
+    "wof:geomhash":"c603a5e1e804338fe179d5fc3d451f8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873513539
+        }
+    ],
+    "wof:id":873513539,
+    "wof:lastmodified":1464223535,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -75.649785,
+    39.728254,
+    -75.649785,
+    39.728254
+],
+  "geometry": {"coordinates":[-75.64978499999999,39.728254],"type":"Point"}
+}

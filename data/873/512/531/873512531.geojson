@@ -1,0 +1,74 @@
+{
+  "id": 873512531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567355,38.926297,-75.567355,38.926297",
+    "geom:latitude":38.926297,
+    "geom:longitude":-75.567355,
+    "iso:country":"US",
+    "sg:address":"17010 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4206",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operation",
+        "eating",
+        "lodging"
+    ],
+    "sg:website":"http://www.super8.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dkdlZ56Y7GrFNyIKBN6XL_38.926496_-75.567433@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223494,
+    "wof:geomhash":"cbaad9559d544f451915c9a3c54f98d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873512531
+        }
+    ],
+    "wof:id":873512531,
+    "wof:lastmodified":1464223494,
+    "wof:name":"Super 8 Motel",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "eating",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -75.567355,
+    38.926297,
+    -75.567355,
+    38.926297
+],
+  "geometry": {"coordinates":[-75.56735500000001,38.926297],"type":"Point"}
+}

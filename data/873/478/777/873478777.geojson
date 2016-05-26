@@ -1,0 +1,71 @@
+{
+  "id": 873478777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.575403,38.917123,-75.575403,38.917123",
+    "geom:latitude":38.917123,
+    "geom:longitude":-75.575403,
+    "iso:country":"US",
+    "sg:address":"211 East St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 7903",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rGG1sE94NojwC6tYoEYjX_38.917123_-75.575403@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222052,
+    "wof:geomhash":"557eb0cb29fa8ca305378c4fe560dc33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873478777
+        }
+    ],
+    "wof:id":873478777,
+    "wof:lastmodified":1464222052,
+    "wof:name":"Delmarva Excavation LLC",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.575403,
+    38.917123,
+    -75.575403,
+    38.917123
+],
+  "geometry": {"coordinates":[-75.57540299999999,38.917123],"type":"Point"}
+}

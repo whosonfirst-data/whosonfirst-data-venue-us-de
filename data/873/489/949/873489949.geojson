@@ -1,0 +1,73 @@
+{
+  "id": 873489949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557541,38.972213,-75.557541,38.972213",
+    "geom:latitude":38.972213,
+    "geom:longitude":-75.557541,
+    "iso:country":"US",
+    "sg:address":"2695 Paradise Alley Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4323",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "refrigeration",
+        "s",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1r9PBxenoCxs0zBnccYI9O_38.972213_-75.557541@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222491,
+    "wof:geomhash":"16974c112176438cf7d02e2b8a0f5de2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873489949
+        }
+    ],
+    "wof:id":873489949,
+    "wof:lastmodified":1464222491,
+    "wof:name":"Ralphs Appliances",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refrigeration",
+        "s",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -75.557541,
+    38.972213,
+    -75.557541,
+    38.972213
+],
+  "geometry": {"coordinates":[-75.557541,38.972213],"type":"Point"}
+}

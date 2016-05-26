@@ -1,0 +1,75 @@
+{
+  "id": 873476917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.699907,39.77192,-75.699907,39.77192",
+    "geom:latitude":39.77192,
+    "geom:longitude":-75.699907,
+    "iso:country":"US",
+    "sg:address":"123 Peoples Way",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 8300",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4qw7I0UZxvJlTafQFSZNFP_39.771920_-75.699907@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221981,
+    "wof:geomhash":"18060f102920326abe7222d0d9006342",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873476917
+        }
+    ],
+    "wof:id":873476917,
+    "wof:lastmodified":1464221981,
+    "wof:name":"Toll Brothers Inc",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.699907,
+    39.77192,
+    -75.699907,
+    39.77192
+],
+  "geometry": {"coordinates":[-75.699907,39.77192],"type":"Point"}
+}

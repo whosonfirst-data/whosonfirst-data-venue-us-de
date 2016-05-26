@@ -1,0 +1,73 @@
+{
+  "id": 873506247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081146,38.542624,-75.081146,38.542624",
+    "geom:latitude":38.542624,
+    "geom:longitude":-75.081146,
+    "iso:country":"US",
+    "sg:address":"50 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 541 0500",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pvhLY5bQsevwbWxPZHbgd_38.542624_-75.081146@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223206,
+    "wof:geomhash":"d4a1f4ed7a1795f6c9c59262dfaa6016",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873506247
+        }
+    ],
+    "wof:id":873506247,
+    "wof:lastmodified":1464223206,
+    "wof:name":"Taylor Bank",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.081146,
+    38.542624,
+    -75.081146,
+    38.542624
+],
+  "geometry": {"coordinates":[-75.081146,38.542624],"type":"Point"}
+}

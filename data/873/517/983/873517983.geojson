@@ -1,0 +1,71 @@
+{
+  "id": 873517983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549449,39.810511,-75.549449,39.810511",
+    "geom:latitude":39.810511,
+    "geom:longitude":-75.549449,
+    "iso:country":"US",
+    "sg:address":"4113 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5294",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Pf1az6bR9TLxAo3q3CXgK_39.810511_-75.549449@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223793,
+    "wof:geomhash":"21d56e627b3699bca99cf09c065af75b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517983
+        }
+    ],
+    "wof:id":873517983,
+    "wof:lastmodified":1464223793,
+    "wof:name":"Caring Hearts",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.549449,
+    39.810511,
+    -75.549449,
+    39.810511
+],
+  "geometry": {"coordinates":[-75.549449,39.810511],"type":"Point"}
+}

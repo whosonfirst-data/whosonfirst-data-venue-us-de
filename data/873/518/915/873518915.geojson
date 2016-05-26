@@ -1,0 +1,77 @@
+{
+  "id": 873518915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.629052,39.734617,-75.629052,39.734617",
+    "geom:latitude":39.734617,
+    "geom:longitude":-75.629052,
+    "iso:country":"US",
+    "sg:address":"1905 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 638 1351",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hair",
+        "stylist"
+    ],
+    "sg:website":"http://www.debarbersinc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WPJ0AgEEwmwUYFTOVHiQa_39.734617_-75.629052@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223832,
+    "wof:geomhash":"86369a9c19bb1b9f94871c26f75f8140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518915
+        }
+    ],
+    "wof:id":873518915,
+    "wof:lastmodified":1464223832,
+    "wof:name":"Barber's Inc.",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "stylist"
+    ]
+},
+  "bbox": [
+    -75.629052,
+    39.734617,
+    -75.629052,
+    39.734617
+],
+  "geometry": {"coordinates":[-75.629052,39.734617],"type":"Point"}
+}

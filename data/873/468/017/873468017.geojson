@@ -1,0 +1,73 @@
+{
+  "id": 873468017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566616,39.188028,-75.566616,39.188028",
+    "geom:latitude":39.188028,
+    "geom:longitude":-75.566616,
+    "iso:country":"US",
+    "sg:address":"1525 McKee Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3456",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wood",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wohb9uKxXyPOUaxU6ZApp_39.188028_-75.566616@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221653,
+    "wof:geomhash":"5dec32155dfe04b2ed679b9937d6e7f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873468017
+        }
+    ],
+    "wof:id":873468017,
+    "wof:lastmodified":1464221653,
+    "wof:name":"Hirsh Industries Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wood",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.566616,
+    39.188028,
+    -75.566616,
+    39.188028
+],
+  "geometry": {"coordinates":[-75.566616,39.188028],"type":"Point"}
+}

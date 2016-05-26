@@ -1,0 +1,80 @@
+{
+  "id": 857700209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.246195,38.759765,-75.246195,38.759765",
+    "geom:latitude":38.759765,
+    "geom:longitude":-75.246195,
+    "iso:country":"US",
+    "sg:address":"117 Creek Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 0775",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg",
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lcWCFVZYM22C2QZ4INyt9_38.759765_-75.246195@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220817,
+    "wof:geomhash":"17903a166171a52e8518a9df73f877ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857700209
+        }
+    ],
+    "wof:id":857700209,
+    "wof:lastmodified":1464220817,
+    "wof:name":"Skipper's Electric",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.246195,
+    38.759765,
+    -75.246195,
+    38.759765
+],
+  "geometry": {"coordinates":[-75.246195,38.759765],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857727989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.714931,39.647261,-75.714931,39.647261",
+    "geom:latitude":39.647261,
+    "geom:longitude":-75.714931,
+    "iso:country":"US",
+    "sg:address":"19 Albe Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 4137",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4po9E7fpZvad9SeYwrAHLd_39.647261_-75.714931@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221396,
+    "wof:geomhash":"65cd4539d78ffdea11f2da29f39a1eb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857727989
+        }
+    ],
+    "wof:id":857727989,
+    "wof:lastmodified":1464221396,
+    "wof:name":"Trapp & Taylor",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.714931,
+    39.647261,
+    -75.714931,
+    39.647261
+],
+  "geometry": {"coordinates":[-75.71493100000001,39.647261],"type":"Point"}
+}

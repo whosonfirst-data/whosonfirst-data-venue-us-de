@@ -1,0 +1,91 @@
+{
+  "id": 873524265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.720933,39.1185,-75.720933,39.1185",
+    "geom:latitude":39.1185,
+    "geom:longitude":-75.720933,
+    "iso:country":"US",
+    "sg:address":"1752 Halltown Rd",
+    "sg:city":"Hartly",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 8119",
+    "sg:postcode":"19953",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company-utility",
+        "wire",
+        "contractor",
+        "pipe",
+        "underground",
+        "locating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6eYTrGArhWszGlJTrakLDh_39.118500_-75.720933@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224051,
+    "wof:geomhash":"56ac221143c4fbf46cf92e81590b5823",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873524265
+        }
+    ],
+    "wof:id":873524265,
+    "wof:lastmodified":1464224051,
+    "wof:name":"J.T. Enterprise",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company-utility",
+        "wire",
+        "contractor",
+        "pipe",
+        "underground",
+        "locating"
+    ]
+},
+  "bbox": [
+    -75.720933,
+    39.1185,
+    -75.720933,
+    39.1185
+],
+  "geometry": {"coordinates":[-75.720933,39.1185],"type":"Point"}
+}

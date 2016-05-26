@@ -1,0 +1,85 @@
+{
+  "id": 873521053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.491968,39.156543,-75.491968,39.156543",
+    "geom:latitude":39.156543,
+    "geom:longitude":-75.491968,
+    "iso:country":"US",
+    "sg:address":"1196 S Little Creek Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Printing & Photocopies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 5031",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lithographer",
+        "printers-equipment",
+        "services-commercial",
+        "supply"
+    ],
+    "sg:website":"http://www.sussexcountian.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yu6wkoPGcV0bXIWVs0elu_39.156543_-75.491968@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223927,
+    "wof:geomhash":"79d59d44157d49b82aafa4a2650f3385",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873521053
+        }
+    ],
+    "wof:id":873521053,
+    "wof:lastmodified":1464223927,
+    "wof:name":"Dover Post Web Printing",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lithographer",
+        "printers-equipment",
+        "services-commercial",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.491968,
+    39.156543,
+    -75.491968,
+    39.156543
+],
+  "geometry": {"coordinates":[-75.491968,39.156543],"type":"Point"}
+}

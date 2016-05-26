@@ -1,0 +1,83 @@
+{
+  "id": 873524755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.287287,38.574073,-75.287287,38.574073",
+    "geom:latitude":38.574073,
+    "geom:longitude":-75.287287,
+    "iso:country":"US",
+    "sg:address":"26670 Centerview Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 6534",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ],
+    "sg:website":"http://www.supercuts.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QkrzFJilbqdsOMlyKOCzf_38.574073_-75.287287@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224069,
+    "wof:geomhash":"28583e8b917164b4d5c8b31da49eaa76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524755
+        }
+    ],
+    "wof:id":873524755,
+    "wof:lastmodified":1464224069,
+    "wof:name":"Supercuts",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair",
+        "accessory",
+        "stylist",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.287287,
+    38.574073,
+    -75.287287,
+    38.574073
+],
+  "geometry": {"coordinates":[-75.28728700000001,38.574073],"type":"Point"}
+}

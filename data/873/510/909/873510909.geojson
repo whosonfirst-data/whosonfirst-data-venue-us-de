@@ -1,0 +1,85 @@
+{
+  "id": 873510909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.575135,39.220069,-75.575135,39.220069",
+    "geom:latitude":39.220069,
+    "geom:longitude":-75.575135,
+    "iso:country":"US",
+    "sg:address":"5200 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 3721",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "propane",
+        "gas"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931477,
+        102083871,
+        85825779,
+        85931481,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WJAR6ZgKBU31OG3wWAU5y_39.220069_-75.575135@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223416,
+    "wof:geomhash":"41a88b99a595a0e5b0f25f8e4d381459",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931477,
+            "neighbourhood_id":85825779,
+            "region_id":85688611,
+            "venue_id":873510909
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873510909
+        }
+    ],
+    "wof:id":873510909,
+    "wof:lastmodified":1464223416,
+    "wof:name":"Heritage Operating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "propane",
+        "gas"
+    ]
+},
+  "bbox": [
+    -75.575135,
+    39.220069,
+    -75.575135,
+    39.220069
+],
+  "geometry": {"coordinates":[-75.575135,39.220069],"type":"Point"}
+}

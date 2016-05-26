@@ -1,0 +1,78 @@
+{
+  "id": 873524089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.696444,38.784077,-75.696444,38.784077",
+    "geom:latitude":38.784077,
+    "geom:longitude":-75.696444,
+    "iso:country":"US",
+    "sg:address":"14393 Sand Hill Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 4200",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ],
+    "sg:website":"http://www.eastcoastrestorationsinc.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6md3O1KKII7aJGCmxBEfVQ_38.784077_-75.696444@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224044,
+    "wof:geomhash":"741b5654f86342ebc42e94063d22dbea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873524089
+        }
+    ],
+    "wof:id":873524089,
+    "wof:lastmodified":1464224044,
+    "wof:name":"East Coast Restorations, Inc.",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting",
+        "repairing"
+    ]
+},
+  "bbox": [
+    -75.696444,
+    38.784077,
+    -75.696444,
+    38.784077
+],
+  "geometry": {"coordinates":[-75.696444,38.784077],"type":"Point"}
+}

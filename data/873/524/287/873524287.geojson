@@ -1,0 +1,73 @@
+{
+  "id": 873524287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.502164,38.916544,-75.502164,38.916544",
+    "geom:latitude":38.916544,
+    "geom:longitude":-75.502164,
+    "iso:country":"US",
+    "sg:address":"16 Legend Ln",
+    "sg:city":"Houston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 3432",
+    "sg:postcode":"19954",
+    "sg:province":"DE",
+    "sg:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OjegIvODpG9ZQvy0meXsH_38.916544_-75.502164@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224053,
+    "wof:geomhash":"3cedf5fe7ac46e14bd9a67a0ae8feaf5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873524287
+        }
+    ],
+    "wof:id":873524287,
+    "wof:lastmodified":1464224053,
+    "wof:name":"Ha Boat & Kayak Rentals",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "yard",
+        "leasing",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.502164,
+    38.916544,
+    -75.502164,
+    38.916544
+],
+  "geometry": {"coordinates":[-75.50216399999999,38.916544],"type":"Point"}
+}

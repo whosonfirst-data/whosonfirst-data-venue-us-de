@@ -1,0 +1,76 @@
+{
+  "id": 873478709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.309582,38.783261,-75.309582,38.783261",
+    "geom:latitude":38.783261,
+    "geom:longitude":-75.309582,
+    "iso:country":"US",
+    "sg:address":"315 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 6119",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r2et52izEb2T3rPS3CPdi_38.783261_-75.309582@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222050,
+    "wof:geomhash":"0a687d681e1f8c79adff3737b010c359",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873478709
+        }
+    ],
+    "wof:id":873478709,
+    "wof:lastmodified":1464222050,
+    "wof:name":"Lord's Landscaping Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center"
+    ]
+},
+  "bbox": [
+    -75.309582,
+    38.783261,
+    -75.309582,
+    38.783261
+],
+  "geometry": {"coordinates":[-75.30958200000001,38.783261],"type":"Point"}
+}

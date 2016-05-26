@@ -1,0 +1,73 @@
+{
+  "id": 857692001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552497,39.118037,-75.552497,39.118037",
+    "geom:latitude":39.118037,
+    "geom:longitude":-75.552497,
+    "iso:country":"US",
+    "sg:address":"135 N Caesar Rodney Ave",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 2285",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3KIXLSCWePfqm931hJpdKw_39.118037_-75.552497@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220662,
+    "wof:geomhash":"d0a5b4e52cc5e145d6960faee2440e40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":857692001
+        }
+    ],
+    "wof:id":857692001,
+    "wof:lastmodified":1464220662,
+    "wof:name":"M Burris & Son",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.552497,
+    39.118037,
+    -75.552497,
+    39.118037
+],
+  "geometry": {"coordinates":[-75.552497,39.118037],"type":"Point"}
+}

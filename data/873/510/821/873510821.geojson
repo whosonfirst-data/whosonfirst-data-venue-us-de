@@ -1,0 +1,78 @@
+{
+  "id": 873510821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569452,39.751712,-75.569452,39.751712",
+    "geom:latitude":39.751712,
+    "geom:longitude":-75.569452,
+    "iso:country":"US",
+    "sg:address":"1829 W 8th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5465",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LkacHAfYELcBmFRkqchpq_39.751712_-75.569452@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223412,
+    "wof:geomhash":"5e0ee3a6ea381ec7aefa6f26f0117678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873510821
+        }
+    ],
+    "wof:id":873510821,
+    "wof:lastmodified":1464223412,
+    "wof:name":"Wallace Charles Insurance",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -75.569452,
+    39.751712,
+    -75.569452,
+    39.751712
+],
+  "geometry": {"coordinates":[-75.569452,39.751712],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873493765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572371,39.693938,-75.572371,39.693938",
+    "geom:latitude":39.693938,
+    "geom:longitude":-75.572371,
+    "iso:country":"US",
+    "sg:address":"31 Southgate Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 5511",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "upholstery",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10mCm8uQmd9xJXMNrdBaVi_39.693938_-75.572371@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222640,
+    "wof:geomhash":"6939926185730573e8d9fd7d53ec1a23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873493765
+        }
+    ],
+    "wof:id":873493765,
+    "wof:lastmodified":1464222640,
+    "wof:name":"Stanley Steamer Carpet",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholstery",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -75.572371,
+    39.693938,
+    -75.572371,
+    39.693938
+],
+  "geometry": {"coordinates":[-75.572371,39.693938],"type":"Point"}
+}

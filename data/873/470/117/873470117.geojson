@@ -1,0 +1,76 @@
+{
+  "id": 873470117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.629055,39.734493,-75.629055,39.734493",
+    "geom:latitude":39.734493,
+    "geom:longitude":-75.629055,
+    "iso:country":"US",
+    "sg:address":"1806 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 1644",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NYVzD3tyN347CnlAXwMED_39.734493_-75.629055@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221734,
+    "wof:geomhash":"77ea36ab5ab7160df9085ef2d19eb82d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873470117
+        }
+    ],
+    "wof:id":873470117,
+    "wof:lastmodified":1464221734,
+    "wof:name":"Giuseppe Verdi Lodge O S I A",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -75.629055,
+    39.734493,
+    -75.629055,
+    39.734493
+],
+  "geometry": {"coordinates":[-75.62905499999999,39.734493],"type":"Point"}
+}

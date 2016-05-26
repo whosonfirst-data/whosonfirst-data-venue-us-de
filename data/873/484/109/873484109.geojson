@@ -1,0 +1,72 @@
+{
+  "id": 873484109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.731302,39.673927,-75.731302,39.673927",
+    "geom:latitude":39.673927,
+    "geom:longitude":-75.731302,
+    "iso:country":"US",
+    "sg:address":"50 Turnbridge Rd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 8600",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment",
+        "leasing"
+    ],
+    "sg:website":"www.standrewsapts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aQK0fR215g40PUGXrqz6G_39.673927_-75.731302@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222275,
+    "wof:geomhash":"66daa0946c4602826230935506b2faa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873484109
+        }
+    ],
+    "wof:id":873484109,
+    "wof:lastmodified":1464222275,
+    "wof:name":"St Andrews Apartments",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -75.731302,
+    39.673927,
+    -75.731302,
+    39.673927
+],
+  "geometry": {"coordinates":[-75.731302,39.673927],"type":"Point"}
+}

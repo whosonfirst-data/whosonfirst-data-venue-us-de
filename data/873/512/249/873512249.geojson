@@ -1,0 +1,71 @@
+{
+  "id": 873512249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.692322,39.023121,-75.692322,39.023121",
+    "geom:latitude":39.023121,
+    "geom:longitude":-75.692322,
+    "iso:country":"US",
+    "sg:address":"1553 Sandtown Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4752",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "new",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zScnjqfWdvkVzGvlZ1A2e_39.023240_-75.692807@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223484,
+    "wof:geomhash":"4fe875b6c862b73487dafd67e036ff86",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873512249
+        }
+    ],
+    "wof:id":873512249,
+    "wof:lastmodified":1464223484,
+    "wof:name":"Stanton's Auto Sales",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.692322,
+    39.023121,
+    -75.692322,
+    39.023121
+],
+  "geometry": {"coordinates":[-75.692322,39.023121],"type":"Point"}
+}

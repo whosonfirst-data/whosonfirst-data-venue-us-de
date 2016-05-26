@@ -1,0 +1,74 @@
+{
+  "id": 873497173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.313377,38.779423,-75.313377,38.779423",
+    "geom:latitude":38.779423,
+    "geom:longitude":-75.313377,
+    "iso:country":"US",
+    "sg:address":"127 Broad St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8694",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "sg:website":"www.cdow.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Un3QlxjQCwUCn3iEKw9cE_38.779423_-75.313377@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222829,
+    "wof:geomhash":"4baa458c4a2a59ebe5224fb61c5da16c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873497173
+        }
+    ],
+    "wof:id":873497173,
+    "wof:lastmodified":1464222829,
+    "wof:name":"Casa San Francisco Ctr",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.313377,
+    38.779423,
+    -75.313377,
+    38.779423
+],
+  "geometry": {"coordinates":[-75.313377,38.779423],"type":"Point"}
+}

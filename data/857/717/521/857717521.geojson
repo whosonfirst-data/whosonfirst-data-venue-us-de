@@ -1,0 +1,73 @@
+{
+  "id": 857717521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.233294,38.516928,-75.233294,38.516928",
+    "geom:latitude":38.516928,
+    "geom:longitude":-75.233294,
+    "iso:country":"US",
+    "sg:address":"10 Main St",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 1191",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "housing",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7lU64Jm53WwLPGN2tnLBOq_38.516928_-75.233294@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221195,
+    "wof:geomhash":"f6e38eaa42aad2608de2c444926aa905",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857717521
+        }
+    ],
+    "wof:id":857717521,
+    "wof:lastmodified":1464221195,
+    "wof:name":"John Lynch Custom Homes",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing",
+        "family"
+    ]
+},
+  "bbox": [
+    -75.233294,
+    38.516928,
+    -75.233294,
+    38.516928
+],
+  "geometry": {"coordinates":[-75.233294,38.516928],"type":"Point"}
+}

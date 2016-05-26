@@ -1,0 +1,69 @@
+{
+  "id": 857716859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589059,39.672617,-75.589059,39.672617",
+    "geom:latitude":39.672617,
+    "geom:longitude":-75.589059,
+    "iso:country":"US",
+    "sg:address":"595 Tulip Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 5400",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QVN5FH0adKJ1UDVp4SqVG_39.672617_-75.589059@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221181,
+    "wof:geomhash":"f3d88babf20050208f838bb46a3ec524",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857716859
+        }
+    ],
+    "wof:id":857716859,
+    "wof:lastmodified":1464221181,
+    "wof:name":"William Penn Village Apartment",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.589059,
+    39.672617,
+    -75.589059,
+    39.672617
+],
+  "geometry": {"coordinates":[-75.58905900000001,39.672617],"type":"Point"}
+}

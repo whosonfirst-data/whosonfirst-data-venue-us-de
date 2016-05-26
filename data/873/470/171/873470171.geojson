@@ -1,0 +1,73 @@
+{
+  "id": 873470171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567218,39.100824,-75.567218,39.100824",
+    "geom:latitude":39.100824,
+    "geom:longitude":-75.567218,
+    "iso:country":"US",
+    "sg:address":"60 Cochran Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 4188",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YPmSxhQh9bvjoWMbFflcd_39.100824_-75.567218@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221736,
+    "wof:geomhash":"423db3b8ae8a8b6e4633bae6f83f76d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873470171
+        }
+    ],
+    "wof:id":873470171,
+    "wof:lastmodified":1464221736,
+    "wof:name":"Home Team Realty",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.567218,
+    39.100824,
+    -75.567218,
+    39.100824
+],
+  "geometry": {"coordinates":[-75.567218,39.100824],"type":"Point"}
+}

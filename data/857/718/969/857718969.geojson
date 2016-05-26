@@ -1,0 +1,71 @@
+{
+  "id": 857718969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566014,39.20753,-75.566014,39.20753",
+    "geom:latitude":39.20753,
+    "geom:longitude":-75.566014,
+    "iso:country":"US",
+    "sg:address":"4105 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 3041",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "out"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jjdHnruyK1fywcw8x3SmJ_39.207530_-75.566014@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221226,
+    "wof:geomhash":"cf69dd7c9311f83030d9e19e5d656ef5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857718969
+        }
+    ],
+    "wof:id":857718969,
+    "wof:lastmodified":1464221226,
+    "wof:name":"Glasgow Deli",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "out"
+    ]
+},
+  "bbox": [
+    -75.566014,
+    39.20753,
+    -75.566014,
+    39.20753
+],
+  "geometry": {"coordinates":[-75.566014,39.20753],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873513879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698632,39.789462,-75.698632,39.789462",
+    "geom:latitude":39.789462,
+    "geom:longitude":-75.698632,
+    "iso:country":"US",
+    "sg:address":"7460 Lancaster Pike",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/piedmont/241769-the-perfect-cup-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 9118",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BX7wQePieAP6nnuo5Ao23_39.789315_-75.698267@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223553,
+    "wof:geomhash":"cc18da37f9f832a8d2fadabfd0e96229",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873513879
+        }
+    ],
+    "wof:id":873513879,
+    "wof:lastmodified":1464223553,
+    "wof:name":"The Perfect Cup Cafe",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.698632,
+    39.789462,
+    -75.698632,
+    39.789462
+],
+  "geometry": {"coordinates":[-75.698632,39.789462],"type":"Point"}
+}

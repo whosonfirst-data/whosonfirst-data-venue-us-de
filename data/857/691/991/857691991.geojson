@@ -1,0 +1,71 @@
+{
+  "id": 857691991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56979,39.210334,-75.56979,39.210334",
+    "geom:latitude":39.210334,
+    "geom:longitude":-75.56979,
+    "iso:country":"US",
+    "sg:address":"4227 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 5063",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MSxeZBU5d6qTYAanNIOqB_39.210334_-75.569790@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220662,
+    "wof:geomhash":"3f4c8d844bde1ca01e5b23bc6a28a18c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857691991
+        }
+    ],
+    "wof:id":857691991,
+    "wof:lastmodified":1464220662,
+    "wof:name":"Rent-To-Own Mini Storage",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.56979,
+    39.210334,
+    -75.56979,
+    39.210334
+],
+  "geometry": {"coordinates":[-75.56979,39.210334],"type":"Point"}
+}

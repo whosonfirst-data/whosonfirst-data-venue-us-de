@@ -1,0 +1,71 @@
+{
+  "id": 873491177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.158974,38.755672,-75.158974,38.755672",
+    "geom:latitude":38.755672,
+    "geom:longitude":-75.158974,
+    "iso:country":"US",
+    "sg:address":"1535 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 4700",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yftRBrbBCtyAFPha3Vra3_38.755672_-75.158974@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222537,
+    "wof:geomhash":"8ba7c42113b3fcc8dd6633560e797a30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873491177
+        }
+    ],
+    "wof:id":873491177,
+    "wof:lastmodified":1464222537,
+    "wof:name":"Bayside Health Assn",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.158974,
+    38.755672,
+    -75.158974,
+    38.755672
+],
+  "geometry": {"coordinates":[-75.158974,38.755672],"type":"Point"}
+}

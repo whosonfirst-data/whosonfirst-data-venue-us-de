@@ -1,0 +1,71 @@
+{
+  "id": 873506815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.150334,38.564365,-75.150334,38.564365",
+    "geom:latitude":38.564365,
+    "geom:longitude":-75.150334,
+    "iso:country":"US",
+    "sg:address":"103 Wood Duck Ct",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 0791",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Kon6vhYerfknKsT1oKkT1_38.564365_-75.150334@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223230,
+    "wof:geomhash":"6c3363bddebb0c4f8969cccb6c572c4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873506815
+        }
+    ],
+    "wof:id":873506815,
+    "wof:lastmodified":1464223230,
+    "wof:name":"Morning Star Construction",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "housing"
+    ]
+},
+  "bbox": [
+    -75.150334,
+    38.564365,
+    -75.150334,
+    38.564365
+],
+  "geometry": {"coordinates":[-75.150334,38.564365],"type":"Point"}
+}

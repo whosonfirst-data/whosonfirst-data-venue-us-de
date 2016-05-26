@@ -1,0 +1,73 @@
+{
+  "id": 873492573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081204,38.542792,-75.081204,38.542792",
+    "geom:latitude":38.542792,
+    "geom:longitude":-75.081204,
+    "iso:country":"US",
+    "sg:address":"13 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 0555",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0n0AoDZhl2kgP9IJnGkqFj_38.542792_-75.081204@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222586,
+    "wof:geomhash":"bef08e5aaaffc9c2170bbd06364bc171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873492573
+        }
+    ],
+    "wof:id":873492573,
+    "wof:lastmodified":1464222586,
+    "wof:name":"Bethany Auto Parts",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -75.081204,
+    38.542792,
+    -75.081204,
+    38.542792
+],
+  "geometry": {"coordinates":[-75.081204,38.542792],"type":"Point"}
+}

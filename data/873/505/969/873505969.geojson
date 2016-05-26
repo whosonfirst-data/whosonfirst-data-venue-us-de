@@ -1,0 +1,71 @@
+{
+  "id": 873505969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.646979,39.660086,-75.646979,39.660086",
+    "geom:latitude":39.660086,
+    "geom:longitude":-75.646979,
+    "iso:country":"US",
+    "sg:address":"7 Nicole Ct",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 6100",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "legislative",
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ljDUOEyhkjzO2lJPzdYrX_39.660086_-75.646979@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223196,
+    "wof:geomhash":"63f6c96eb74867a514991d25fa9f8ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873505969
+        }
+    ],
+    "wof:id":873505969,
+    "wof:lastmodified":1464223196,
+    "wof:name":"David B McBride Senator",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "legislative",
+        "body"
+    ]
+},
+  "bbox": [
+    -75.646979,
+    39.660086,
+    -75.646979,
+    39.660086
+],
+  "geometry": {"coordinates":[-75.646979,39.660086],"type":"Point"}
+}

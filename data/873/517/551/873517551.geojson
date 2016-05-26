@@ -1,0 +1,70 @@
+{
+  "id": 873517551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5494,39.8097,-75.5494,39.8097",
+    "geom:latitude":39.8097,
+    "geom:longitude":-75.5494,
+    "iso:country":"US",
+    "sg:address":"4105 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Candy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5324",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "store"
+    ],
+    "sg:website":"www.govatoschocolates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hAy1D5Ku314Pi2Y2dnBlR_39.809700_-75.549400@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223767,
+    "wof:geomhash":"77e6c3f33ce20459e792e23d9f4ab0aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517551
+        }
+    ],
+    "wof:id":873517551,
+    "wof:lastmodified":1464223767,
+    "wof:name":"Govatos Candies",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -75.5494,
+    39.8097,
+    -75.5494,
+    39.8097
+],
+  "geometry": {"coordinates":[-75.54940000000001,39.8097],"type":"Point"}
+}

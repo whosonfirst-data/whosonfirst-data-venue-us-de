@@ -1,0 +1,69 @@
+{
+  "id": 873466387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.647661,38.962473,-75.647661,38.962473",
+    "geom:latitude":38.962473,
+    "geom:longitude":-75.647661,
+    "iso:country":"US",
+    "sg:address":"3346 Sugar Stick Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4422",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CE2J3yP3HOLoOu0EaHV70_38.962473_-75.647661@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221597,
+    "wof:geomhash":"f1e4ee229467682bfe903834ff44c1eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873466387
+        }
+    ],
+    "wof:id":873466387,
+    "wof:lastmodified":1464221597,
+    "wof:name":"Liezert Farms",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken"
+    ]
+},
+  "bbox": [
+    -75.647661,
+    38.962473,
+    -75.647661,
+    38.962473
+],
+  "geometry": {"coordinates":[-75.647661,38.962473],"type":"Point"}
+}

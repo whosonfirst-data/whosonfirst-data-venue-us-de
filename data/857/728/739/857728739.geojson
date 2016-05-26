@@ -1,0 +1,71 @@
+{
+  "id": 857728739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.564551,39.768705,-75.564551,39.768705",
+    "geom:latitude":39.768705,
+    "geom:longitude":-75.564551,
+    "iso:country":"US",
+    "sg:address":"44 Bancroft Mill Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 3434",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "manager"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dgxl1vWib0HB8LKhaKVlj_39.768705_-75.564551@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221410,
+    "wof:geomhash":"d1ef6044e7f4afb8b70aa7a0904efdea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":857728739
+        }
+    ],
+    "wof:id":857728739,
+    "wof:lastmodified":1464221410,
+    "wof:name":"Bancroft Homes Inc",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manager"
+    ]
+},
+  "bbox": [
+    -75.564551,
+    39.768705,
+    -75.564551,
+    39.768705
+],
+  "geometry": {"coordinates":[-75.56455099999999,39.768705],"type":"Point"}
+}

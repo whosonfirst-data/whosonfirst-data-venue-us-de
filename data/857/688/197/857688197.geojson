@@ -1,0 +1,73 @@
+{
+  "id": 857688197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524468,39.155924,-75.524468,39.155924",
+    "geom:latitude":39.155924,
+    "geom:longitude":-75.524468,
+    "iso:country":"US",
+    "sg:address":"8 The Green",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7400",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e1tZoJ9aWWKeStqEd8ysA_39.155924_-75.524468@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220582,
+    "wof:geomhash":"361b785fdc4541f86d441915f08e1b2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":857688197
+        }
+    ],
+    "wof:id":857688197,
+    "wof:lastmodified":1464220582,
+    "wof:name":"Baker Ingram & Associates",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.524468,
+    39.155924,
+    -75.524468,
+    39.155924
+],
+  "geometry": {"coordinates":[-75.524468,39.155924],"type":"Point"}
+}

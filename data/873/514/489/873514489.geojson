@@ -1,0 +1,81 @@
+{
+  "id": 873514489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.730297,39.64279,-75.730297,39.64279",
+    "geom:latitude":39.64279,
+    "geom:longitude":-75.730297,
+    "iso:country":"US",
+    "sg:address":"1088 S Chapel St Ste A",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 2424",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "boilers-repair",
+        "plumber",
+        "industrial",
+        "contractors-commercial",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28eBZPfstIRltsdm7mMNz8_39.642790_-75.730297@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223592,
+    "wof:geomhash":"8d52b304e1577663b9bac696de6ffa2d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873514489
+        }
+    ],
+    "wof:id":873514489,
+    "wof:lastmodified":1464223592,
+    "wof:name":"Plumbing for Pennies Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boilers-repair",
+        "plumber",
+        "industrial",
+        "contractors-commercial",
+        "clean"
+    ]
+},
+  "bbox": [
+    -75.730297,
+    39.64279,
+    -75.730297,
+    39.64279
+],
+  "geometry": {"coordinates":[-75.73029699999999,39.64279],"type":"Point"}
+}

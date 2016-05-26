@@ -1,0 +1,72 @@
+{
+  "id": 873468107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.080947,38.542722,-75.080947,38.542722",
+    "geom:latitude":38.542722,
+    "geom:longitude":-75.080947,
+    "iso:country":"US",
+    "sg:address":"123 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 9700",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.rent-equip.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LFVpkLOTSBpiqv0rq0bFo_38.542722_-75.080947@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221656,
+    "wof:geomhash":"ad2fb8ca886a648db20a1bcb4360dfc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873468107
+        }
+    ],
+    "wof:id":873468107,
+    "wof:lastmodified":1464221656,
+    "wof:name":"Rent Equipment",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.080947,
+    38.542722,
+    -75.080947,
+    38.542722
+],
+  "geometry": {"coordinates":[-75.08094699999999,38.542722],"type":"Point"}
+}

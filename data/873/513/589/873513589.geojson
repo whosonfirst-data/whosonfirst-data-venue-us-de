@@ -1,0 +1,91 @@
+{
+  "id": 873513589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.487943,39.82278,-75.487943,39.82278",
+    "geom:latitude":39.82278,
+    "geom:longitude":-75.487943,
+    "iso:country":"US",
+    "sg:address":"1720 Naamans Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/130320-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 0540",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wQ6swamMArgvfCyY9mw3n_39.822780_-75.487943@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223538,
+    "wof:geomhash":"25638d1b22ecc084203a0a8620e7615f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873513589
+        }
+    ],
+    "wof:id":873513589,
+    "wof:lastmodified":1464223538,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.487943,
+    39.82278,
+    -75.487943,
+    39.82278
+],
+  "geometry": {"coordinates":[-75.487943,39.82278],"type":"Point"}
+}

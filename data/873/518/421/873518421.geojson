@@ -1,0 +1,71 @@
+{
+  "id": 873518421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.614015,39.737991,-75.614015,39.737991",
+    "geom:latitude":39.737991,
+    "geom:longitude":-75.614015,
+    "iso:country":"US",
+    "sg:address":"14 Roselle Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9153",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plastering",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RxsGygUn15fCMpD1Tbp5n_39.737991_-75.614015@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223811,
+    "wof:geomhash":"d5844c38cac5bd62bc29a1183736fe02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518421
+        }
+    ],
+    "wof:id":873518421,
+    "wof:lastmodified":1464223811,
+    "wof:name":"First Choice Plastering",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plastering",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.614015,
+    39.737991,
+    -75.614015,
+    39.737991
+],
+  "geometry": {"coordinates":[-75.61401499999999,39.737991],"type":"Point"}
+}

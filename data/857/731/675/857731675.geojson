@@ -1,0 +1,71 @@
+{
+  "id": 857731675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529681,39.177522,-75.529681,39.177522",
+    "geom:latitude":39.177522,
+    "geom:longitude":-75.529681,
+    "iso:country":"US",
+    "sg:address":"967 N State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 0998",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25n0kpyDINReVMcGju8rw1_39.177522_-75.529681@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221476,
+    "wof:geomhash":"188ebba21ebd9ff7addb825d64eac018",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857731675
+        }
+    ],
+    "wof:id":857731675,
+    "wof:lastmodified":1464221476,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -75.529681,
+    39.177522,
+    -75.529681,
+    39.177522
+],
+  "geometry": {"coordinates":[-75.529681,39.177522],"type":"Point"}
+}

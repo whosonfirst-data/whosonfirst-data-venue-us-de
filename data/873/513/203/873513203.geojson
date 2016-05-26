@@ -1,0 +1,70 @@
+{
+  "id": 873513203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.739574,39.699476,-75.739574,39.699476",
+    "geom:latitude":39.699476,
+    "geom:longitude":-75.739574,
+    "iso:country":"US",
+    "sg:address":"431 Vanier Dr ",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/292719-desired-dishes---desserts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 354 0353",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e23yS3koVCWoutOeFCpvR_39.699476_-75.739574@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223521,
+    "wof:geomhash":"ead63e4c9a0b22a94e9ef8f2aada5774",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513203
+        }
+    ],
+    "wof:id":873513203,
+    "wof:lastmodified":1464223521,
+    "wof:name":"Desired Dishes  & Desserts",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.739574,
+    39.699476,
+    -75.739574,
+    39.699476
+],
+  "geometry": {"coordinates":[-75.739574,39.699476],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873493873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081075,38.54276,-75.081075,38.54276",
+    "geom:latitude":38.54276,
+    "geom:longitude":-75.081075,
+    "iso:country":"US",
+    "sg:address":"63 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 5395",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_437cd0yiQrVw1GtXJ7FpXV_38.542760_-75.081075@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222646,
+    "wof:geomhash":"e7c8c2f5dd281c017b94593ce2e27590",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873493873
+        }
+    ],
+    "wof:id":873493873,
+    "wof:lastmodified":1464222646,
+    "wof:name":"Bayside Health Assn",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.081075,
+    38.54276,
+    -75.081075,
+    38.54276
+],
+  "geometry": {"coordinates":[-75.081075,38.54276],"type":"Point"}
+}

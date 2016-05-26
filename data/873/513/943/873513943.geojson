@@ -1,0 +1,72 @@
+{
+  "id": 873513943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546785,39.792582,-75.546785,39.792582",
+    "geom:latitude":39.792582,
+    "geom:longitude":-75.546785,
+    "iso:country":"US",
+    "sg:address":"2311 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/231275-grotto-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 888 2222",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70Mi420n6vbZglWN9gRTTF_39.792042_-75.546655@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223558,
+    "wof:geomhash":"0f4771e1af3e3ba517aced285dc9f570",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873513943
+        }
+    ],
+    "wof:id":873513943,
+    "wof:lastmodified":1464223558,
+    "wof:name":"Grotto Pizza",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.546785,
+    39.792582,
+    -75.546785,
+    39.792582
+],
+  "geometry": {"coordinates":[-75.546785,39.792582],"type":"Point"}
+}

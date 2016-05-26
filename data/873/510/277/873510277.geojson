@@ -1,0 +1,73 @@
+{
+  "id": 873510277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675674,39.800924,-75.675674,39.800924",
+    "geom:latitude":39.800924,
+    "geom:longitude":-75.675674,
+    "iso:country":"US",
+    "sg:address":"15 Yorkridge Trl",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 2113",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lLryTuuupjleal7sOH98h_39.800924_-75.675674@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223388,
+    "wof:geomhash":"aed5cf4ad22854e9d7cbc4b1b1eb538a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873510277
+        }
+    ],
+    "wof:id":873510277,
+    "wof:lastmodified":1464223388,
+    "wof:name":"Keep It Clean",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.675674,
+    39.800924,
+    -75.675674,
+    39.800924
+],
+  "geometry": {"coordinates":[-75.675674,39.800924],"type":"Point"}
+}

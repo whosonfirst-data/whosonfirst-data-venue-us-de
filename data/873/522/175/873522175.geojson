@@ -1,0 +1,90 @@
+{
+  "id": 873522175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.576142,39.223129,-75.576142,39.223129",
+    "geom:latitude":39.223129,
+    "geom:longitude":-75.576142,
+    "iso:country":"US",
+    "sg:address":"5382 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 3561",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "transmission",
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931477,
+        102083871,
+        85825779,
+        85931481,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eh0LdRhWfyX7jwX2XSVVn_39.223129_-75.576142@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223970,
+    "wof:geomhash":"1216a82fb7a08d98a4bfa93cf7927e2c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931477,
+            "neighbourhood_id":85825779,
+            "region_id":85688611,
+            "venue_id":873522175
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522175
+        }
+    ],
+    "wof:id":873522175,
+    "wof:lastmodified":1464223970,
+    "wof:name":"Brooks Transmissions",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "brake"
+    ]
+},
+  "bbox": [
+    -75.576142,
+    39.223129,
+    -75.576142,
+    39.223129
+],
+  "geometry": {"coordinates":[-75.576142,39.223129],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873496937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.751076,39.653981,-75.751076,39.653981",
+    "geom:latitude":39.653981,
+    "geom:longitude":-75.751076,
+    "iso:country":"US",
+    "sg:address":"804 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 0891",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Ra8BfmgVYATqrNcQhNou4_39.653981_-75.751076@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222821,
+    "wof:geomhash":"fe80768fe2936dde66882e2dcc2c2776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873496937
+        }
+    ],
+    "wof:id":873496937,
+    "wof:lastmodified":1464222821,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -75.751076,
+    39.653981,
+    -75.751076,
+    39.653981
+],
+  "geometry": {"coordinates":[-75.751076,39.653981],"type":"Point"}
+}

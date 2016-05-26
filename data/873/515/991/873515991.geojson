@@ -1,0 +1,84 @@
+{
+  "id": 873515991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.753496,39.673761,-75.753496,39.673761",
+    "geom:latitude":39.673761,
+    "geom:longitude":-75.753496,
+    "iso:country":"US",
+    "sg:address":"331 College Sq",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 0327",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollartree.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uaybbr8cHVV5YBmr8BakQ_39.673761_-75.753496@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223663,
+    "wof:geomhash":"5a2b72c27d0d3c0597f270e89ad7e928",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":873515991
+        }
+    ],
+    "wof:id":873515991,
+    "wof:lastmodified":1464223663,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.753496,
+    39.673761,
+    -75.753496,
+    39.673761
+],
+  "geometry": {"coordinates":[-75.753496,39.673761],"type":"Point"}
+}

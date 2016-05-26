@@ -1,0 +1,95 @@
+{
+  "id": 873519503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.489304,39.8097,-75.489304,39.8097",
+    "geom:latitude":39.8097,
+    "geom:longitude":-75.489304,
+    "iso:country":"US",
+    "sg:address":"2126 The Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Nightclub",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Exhibition Hall",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 3126",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ballroom",
+        "facility",
+        "venue",
+        "banquet",
+        "nightlife",
+        "reception",
+        "halls",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_396PVaK7SnkHVtMdcmvlsZ_39.809700_-75.489304@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223859,
+    "wof:geomhash":"064421adaaab28f95ff2758675ca54c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519503
+        }
+    ],
+    "wof:id":873519503,
+    "wof:lastmodified":1464223859,
+    "wof:name":"Arden Gild Hall",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ballroom",
+        "facility",
+        "venue",
+        "banquet",
+        "nightlife",
+        "reception",
+        "halls",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -75.489304,
+    39.8097,
+    -75.489304,
+    39.8097
+],
+  "geometry": {"coordinates":[-75.489304,39.8097],"type":"Point"}
+}

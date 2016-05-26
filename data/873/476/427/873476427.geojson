@@ -1,0 +1,75 @@
+{
+  "id": 873476427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.562928,39.673695,-75.562928,39.673695",
+    "geom:latitude":39.673695,
+    "geom:longitude":-75.562928,
+    "iso:country":"US",
+    "sg:address":"111 Baldt Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 9080",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931555,
+        102083891,
+        85845649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L4gLgGzBov1oqQA2yPO8g_39.673695_-75.562928@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221964,
+    "wof:geomhash":"6d6c1cc385c19ff9a970570a3e66fa96",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931555,
+            "neighbourhood_id":85845649,
+            "region_id":85688611,
+            "venue_id":873476427
+        }
+    ],
+    "wof:id":873476427,
+    "wof:lastmodified":1464221964,
+    "wof:name":"Tandem Electric Inc",
+    "wof:parent_id":85845649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.562928,
+    39.673695,
+    -75.562928,
+    39.673695
+],
+  "geometry": {"coordinates":[-75.562928,39.673695],"type":"Point"}
+}

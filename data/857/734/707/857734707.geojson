@@ -1,0 +1,76 @@
+{
+  "id": 857734707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.618082,39.823615,-75.618082,39.823615",
+    "geom:latitude":39.823615,
+    "geom:longitude":-75.618082,
+    "iso:country":"US",
+    "sg:address":"5806 Kennett Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 6500",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85808577,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5U00Dt4UkEuoW50jRzuBx0_39.823615_-75.618082@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221534,
+    "wof:geomhash":"c7cd83a91ecddfb9b71cbcb7ef07fd81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85808577,
+            "region_id":85688611,
+            "venue_id":857734707
+        }
+    ],
+    "wof:id":857734707,
+    "wof:lastmodified":1464221534,
+    "wof:name":"Brandywine Fine Properties LTD",
+    "wof:parent_id":85808577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.618082,
+    39.823615,
+    -75.618082,
+    39.823615
+],
+  "geometry": {"coordinates":[-75.618082,39.823615],"type":"Point"}
+}

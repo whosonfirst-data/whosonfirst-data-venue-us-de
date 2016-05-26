@@ -1,0 +1,73 @@
+{
+  "id": 873473525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568148,38.922486,-75.568148,38.922486",
+    "geom:latitude":38.922486,
+    "geom:longitude":-75.568148,
+    "iso:country":"US",
+    "sg:address":"17378 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 6253",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CCCGju8i3VH2FJMj7jGVv_38.922486_-75.568148@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221865,
+    "wof:geomhash":"994879e5e90f87150797844a53eac275",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873473525
+        }
+    ],
+    "wof:id":873473525,
+    "wof:lastmodified":1464221865,
+    "wof:name":"U-Haul Co",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -75.568148,
+    38.922486,
+    -75.568148,
+    38.922486
+],
+  "geometry": {"coordinates":[-75.56814799999999,38.922486],"type":"Point"}
+}

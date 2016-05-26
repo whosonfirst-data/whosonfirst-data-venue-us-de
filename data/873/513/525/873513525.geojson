@@ -1,0 +1,72 @@
+{
+  "id": 873513525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.637101,39.734273,-75.637101,39.734273",
+    "geom:latitude":39.734273,
+    "geom:longitude":-75.637101,
+    "iso:country":"US",
+    "sg:address":"3615 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/25146-szechuan-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0286",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bTQPqT2modImL6At1svKz_39.734273_-75.637101@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223534,
+    "wof:geomhash":"4968354d9162a08cb45249ad652b907f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873513525
+        }
+    ],
+    "wof:id":873513525,
+    "wof:lastmodified":1464223534,
+    "wof:name":"Szechuan Restaurant",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -75.637101,
+    39.734273,
+    -75.637101,
+    39.734273
+],
+  "geometry": {"coordinates":[-75.637101,39.734273],"type":"Point"}
+}

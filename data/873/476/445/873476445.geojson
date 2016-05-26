@@ -1,0 +1,71 @@
+{
+  "id": 873476445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548071,39.801826,-75.548071,39.801826",
+    "geom:latitude":39.801826,
+    "geom:longitude":-75.548071,
+    "iso:country":"US",
+    "sg:address":"3301 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Stationery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 0877",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "packaging",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IbafIBCL0UtWgQcUdsLsW_39.801826_-75.548071@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221964,
+    "wof:geomhash":"3c82360922b89b18aa90d6fac319aca5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873476445
+        }
+    ],
+    "wof:id":873476445,
+    "wof:lastmodified":1464221964,
+    "wof:name":"Concord Packaging Co",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "material"
+    ]
+},
+  "bbox": [
+    -75.548071,
+    39.801826,
+    -75.548071,
+    39.801826
+],
+  "geometry": {"coordinates":[-75.54807099999999,39.801826],"type":"Point"}
+}

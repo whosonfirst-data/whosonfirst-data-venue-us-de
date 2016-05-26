@@ -1,0 +1,68 @@
+{
+  "id": 857709499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.50986,39.132738,-75.50986,39.132738",
+    "geom:latitude":39.132738,
+    "geom:longitude":-75.50986,
+    "iso:country":"US",
+    "sg:address":"271 Beechwood Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 8828",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931709,
+        102083871,
+        85858961
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3X14FjpTOGtj2r4EOXGm9B_39.132738_-75.509860@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221018,
+    "wof:geomhash":"f155a1667e3fa705dd539cab3a9c9fab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931709,
+            "neighbourhood_id":85858961,
+            "region_id":85688611,
+            "venue_id":857709499
+        }
+    ],
+    "wof:id":857709499,
+    "wof:lastmodified":1464221018,
+    "wof:name":"B & Ds Cleaning Unlimited",
+    "wof:parent_id":85858961,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.50986,
+    39.132738,
+    -75.50986,
+    39.132738
+],
+  "geometry": {"coordinates":[-75.50986,39.132738],"type":"Point"}
+}

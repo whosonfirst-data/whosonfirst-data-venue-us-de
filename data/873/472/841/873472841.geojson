@@ -1,0 +1,71 @@
+{
+  "id": 873472841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.712084,39.684213,-75.712084,39.684213",
+    "geom:latitude":39.684213,
+    "geom:longitude":-75.712084,
+    "iso:country":"US",
+    "sg:address":"2403 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 1300",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lv1zS8mEuzGvQfYh9Lytw_39.684213_-75.712084@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221837,
+    "wof:geomhash":"fbe0051439b5237b2766ca415471a4b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873472841
+        }
+    ],
+    "wof:id":873472841,
+    "wof:lastmodified":1464221837,
+    "wof:name":"KRAL Electronics",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -75.712084,
+    39.684213,
+    -75.712084,
+    39.684213
+],
+  "geometry": {"coordinates":[-75.712084,39.684213],"type":"Point"}
+}

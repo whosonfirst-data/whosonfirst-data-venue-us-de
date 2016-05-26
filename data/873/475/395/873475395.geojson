@@ -1,0 +1,73 @@
+{
+  "id": 873475395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573322,39.746376,-75.573322,39.746376",
+    "geom:latitude":39.746376,
+    "geom:longitude":-75.573322,
+    "iso:country":"US",
+    "sg:address":"1815 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 984 2900",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ztr91Q4r5fxp7wYEAao6V_39.746376_-75.573322@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221928,
+    "wof:geomhash":"8ec5424769e709d082c727d9b335837d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873475395
+        }
+    ],
+    "wof:id":873475395,
+    "wof:lastmodified":1464221928,
+    "wof:name":"Avil's Bakery",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.573322,
+    39.746376,
+    -75.573322,
+    39.746376
+],
+  "geometry": {"coordinates":[-75.573322,39.746376],"type":"Point"}
+}

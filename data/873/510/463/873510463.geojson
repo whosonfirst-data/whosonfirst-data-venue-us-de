@@ -1,0 +1,73 @@
+{
+  "id": 873510463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.63409,38.647614,-75.63409,38.647614",
+    "geom:latitude":38.647614,
+    "geom:longitude":-75.63409,
+    "iso:country":"US",
+    "sg:address":"1200 Tull Dr",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 0692",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hDsznK9Vulfx0BwRCqUCz_38.647614_-75.634090@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223394,
+    "wof:geomhash":"481beff964663663e97b5947bb3e61f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873510463
+        }
+    ],
+    "wof:id":873510463,
+    "wof:lastmodified":1464223394,
+    "wof:name":"Seaford Apartments Ltd Partnr",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.63409,
+    38.647614,
+    -75.63409,
+    38.647614
+],
+  "geometry": {"coordinates":[-75.63409,38.647614],"type":"Point"}
+}

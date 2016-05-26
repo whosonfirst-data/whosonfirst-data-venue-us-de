@@ -1,0 +1,74 @@
+{
+  "id": 873511395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.600418,38.743759,-75.600418,38.743759",
+    "geom:latitude":38.743759,
+    "geom:longitude":-75.600418,
+    "iso:country":"US",
+    "sg:address":"112 Market St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3246",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "discount"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_152gZO1IQfANyypFOWIztI_38.743819_-75.600453@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223437,
+    "wof:geomhash":"7826aa4d3d0253f6ac202e7f852b157e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873511395
+        }
+    ],
+    "wof:id":873511395,
+    "wof:lastmodified":1464223437,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "discount"
+    ]
+},
+  "bbox": [
+    -75.600418,
+    38.743759,
+    -75.600418,
+    38.743759
+],
+  "geometry": {"coordinates":[-75.600418,38.743759],"type":"Point"}
+}

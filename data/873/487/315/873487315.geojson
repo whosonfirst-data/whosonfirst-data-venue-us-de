@@ -1,0 +1,72 @@
+{
+  "id": 873487315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.228622,38.464219,-75.228622,38.464219",
+    "geom:latitude":38.464219,
+    "geom:longitude":-75.228622,
+    "iso:country":"US",
+    "sg:address":"3 Railroad Ave",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 5189",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "antique"
+    ],
+    "sg:website":"www.antique-junction.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NcC17sVKIGEgtjjowkNdX_38.464219_-75.228622@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222391,
+    "wof:geomhash":"08331c2f312dd08abfaa910d6abf479b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873487315
+        }
+    ],
+    "wof:id":873487315,
+    "wof:lastmodified":1464222391,
+    "wof:name":"Antique Junction",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -75.228622,
+    38.464219,
+    -75.228622,
+    38.464219
+],
+  "geometry": {"coordinates":[-75.228622,38.464219],"type":"Point"}
+}

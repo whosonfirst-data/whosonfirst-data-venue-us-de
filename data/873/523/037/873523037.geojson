@@ -1,0 +1,68 @@
+{
+  "id": 873523037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540298,39.170898,-75.540298,39.170898",
+    "geom:latitude":39.170898,
+    "geom:longitude":-75.540298,
+    "iso:country":"US",
+    "sg:address":"768 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 1199",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_200YDxno1xHKyVOiCYT6bg_39.170898_-75.540298@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224007,
+    "wof:geomhash":"ae87a212e39c41a8e7ff7dba0ff2d530",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873523037
+        }
+    ],
+    "wof:id":873523037,
+    "wof:lastmodified":1464224007,
+    "wof:name":"Romano's Restaurant",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.540298,
+    39.170898,
+    -75.540298,
+    39.170898
+],
+  "geometry": {"coordinates":[-75.54029800000001,39.170898],"type":"Point"}
+}

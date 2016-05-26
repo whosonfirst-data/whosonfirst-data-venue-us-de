@@ -1,0 +1,71 @@
+{
+  "id": 873485459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578198,39.687633,-75.578198,39.687633",
+    "geom:latitude":39.687633,
+    "geom:longitude":-75.578198,
+    "iso:country":"US",
+    "sg:address":"1526 Matassino Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 2220",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mixed",
+        "concrete"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35k98cMISZg2dOhUjk3AFk_39.687633_-75.578198@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222323,
+    "wof:geomhash":"b5c5526d02f0cc930c4a549559ec8a02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873485459
+        }
+    ],
+    "wof:id":873485459,
+    "wof:lastmodified":1464222323,
+    "wof:name":"Southgate Concrete Co",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mixed",
+        "concrete"
+    ]
+},
+  "bbox": [
+    -75.578198,
+    39.687633,
+    -75.578198,
+    39.687633
+],
+  "geometry": {"coordinates":[-75.578198,39.687633],"type":"Point"}
+}

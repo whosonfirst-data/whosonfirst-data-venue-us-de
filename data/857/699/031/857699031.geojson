@@ -1,0 +1,71 @@
+{
+  "id": 857699031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59285,38.635565,-75.59285,38.635565",
+    "geom:latitude":38.635565,
+    "geom:longitude":-75.59285,
+    "iso:country":"US",
+    "sg:address":"630 US Hwy 13",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 5245",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jr5zUjrStpPU82pvtiMt9_38.635565_-75.592850@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220792,
+    "wof:geomhash":"31a56fd27b20157a521ef579aa7e47b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857699031
+        }
+    ],
+    "wof:id":857699031,
+    "wof:lastmodified":1464220792,
+    "wof:name":"Wireless Ace",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -75.59285,
+    38.635565,
+    -75.59285,
+    38.635565
+],
+  "geometry": {"coordinates":[-75.59285,38.635565],"type":"Point"}
+}

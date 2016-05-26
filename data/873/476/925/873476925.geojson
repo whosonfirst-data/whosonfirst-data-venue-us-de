@@ -1,0 +1,73 @@
+{
+  "id": 873476925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571318,39.212649,-75.571318,39.212649",
+    "geom:latitude":39.212649,
+    "geom:longitude":-75.571318,
+    "iso:country":"US",
+    "sg:address":"5049 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 7457",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LKD35PsGmB3NdxYzDzG64_39.212649_-75.571318@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221981,
+    "wof:geomhash":"11485ef78097d3d896cf79d2b7911f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873476925
+        }
+    ],
+    "wof:id":873476925,
+    "wof:lastmodified":1464221981,
+    "wof:name":"Dess Machine & Mfg",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.571318,
+    39.212649,
+    -75.571318,
+    39.212649
+],
+  "geometry": {"coordinates":[-75.57131800000001,39.212649],"type":"Point"}
+}

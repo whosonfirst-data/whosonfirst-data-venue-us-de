@@ -1,0 +1,83 @@
+{
+  "id": 873519639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.470543,39.81451,-75.470543,39.81451",
+    "geom:latitude":39.81451,
+    "geom:longitude":-75.470543,
+    "iso:country":"US",
+    "sg:address":"900 Darley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 9819",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pools-public",
+        "pools-private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RAB5oECXLIoltgr2rbGxi_39.814510_-75.470543@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223864,
+    "wof:geomhash":"fd7790f4954df9146c2218c7ead4b6b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519639
+        }
+    ],
+    "wof:id":873519639,
+    "wof:lastmodified":1464223864,
+    "wof:name":"Ashbourne Swim Club",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pools-public",
+        "pools-private"
+    ]
+},
+  "bbox": [
+    -75.470543,
+    39.81451,
+    -75.470543,
+    39.81451
+],
+  "geometry": {"coordinates":[-75.47054300000001,39.81451],"type":"Point"}
+}

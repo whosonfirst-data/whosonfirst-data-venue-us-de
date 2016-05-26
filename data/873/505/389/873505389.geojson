@@ -1,0 +1,73 @@
+{
+  "id": 873505389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.39892,38.582342,-75.39892,38.582342",
+    "geom:latitude":38.582342,
+    "geom:longitude":-75.39892,
+    "iso:country":"US",
+    "sg:address":"29580 Jones Store Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 7348",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pU1iIn6lWXx8BGJn7WV4E_38.582342_-75.398920@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223176,
+    "wof:geomhash":"beb9dfd5bd3c6f3a3d29ce2a03f8ea4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873505389
+        }
+    ],
+    "wof:id":873505389,
+    "wof:lastmodified":1464223176,
+    "wof:name":"Dawson & Bedsworth Electrical",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.39892,
+    38.582342,
+    -75.39892,
+    38.582342
+],
+  "geometry": {"coordinates":[-75.39892,38.582342],"type":"Point"}
+}

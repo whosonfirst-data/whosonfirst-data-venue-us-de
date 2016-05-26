@@ -1,0 +1,71 @@
+{
+  "id": 873514283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.732694,39.593125,-75.732694,39.593125",
+    "geom:latitude":39.593125,
+    "geom:longitude":-75.732694,
+    "iso:country":"US",
+    "sg:address":"256 Benjamin Blvd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 838 2294",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "new",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1MO7ro2WW1yUJqrNRMoDtx_39.593125_-75.732694@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223579,
+    "wof:geomhash":"ed2e52bb416188ccb23852ecacd44e07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514283
+        }
+    ],
+    "wof:id":873514283,
+    "wof:lastmodified":1464223579,
+    "wof:name":"Sam's Auto Wholesale Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.732694,
+    39.593125,
+    -75.732694,
+    39.593125
+],
+  "geometry": {"coordinates":[-75.732694,39.593125],"type":"Point"}
+}

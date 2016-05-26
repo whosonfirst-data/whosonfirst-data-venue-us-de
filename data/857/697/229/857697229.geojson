@@ -1,0 +1,71 @@
+{
+  "id": 857697229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.690808,39.701385,-75.690808,39.701385",
+    "geom:latitude":39.701385,
+    "geom:longitude":-75.690808,
+    "iso:country":"US",
+    "sg:address":"44 Lower Valley Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 1465",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fitness",
+        "consult"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U6OGQQfVaC4WWmrEJjH3c_39.701385_-75.690808@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220759,
+    "wof:geomhash":"a5d19b634289996b506d6617377bc957",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857697229
+        }
+    ],
+    "wof:id":857697229,
+    "wof:lastmodified":1464220759,
+    "wof:name":"Wellnesstoday",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "consult"
+    ]
+},
+  "bbox": [
+    -75.690808,
+    39.701385,
+    -75.690808,
+    39.701385
+],
+  "geometry": {"coordinates":[-75.690808,39.701385],"type":"Point"}
+}

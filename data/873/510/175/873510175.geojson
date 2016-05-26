@@ -1,0 +1,68 @@
+{
+  "id": 873510175,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.501487,39.167559,-75.501487,39.167559",
+    "geom:latitude":39.167559,
+    "geom:longitude":-75.501487,
+    "iso:country":"US",
+    "sg:address":"110 Linden Ct",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4708",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Yxp00yJ2jJIXhDZ5WONgl_39.167559_-75.501487@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223385,
+    "wof:geomhash":"813a64ba227dd2e751fc8595ae63108e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873510175
+        }
+    ],
+    "wof:id":873510175,
+    "wof:lastmodified":1464223385,
+    "wof:name":"Aag &H Cleaning Service",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.501487,
+    39.167559,
+    -75.501487,
+    39.167559
+],
+  "geometry": {"coordinates":[-75.501487,39.167559],"type":"Point"}
+}

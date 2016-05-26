@@ -1,0 +1,70 @@
+{
+  "id": 873512943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.6515,39.680706,-75.6515,39.680706",
+    "geom:latitude":39.680706,
+    "geom:longitude":-75.6515,
+    "iso:country":"US",
+    "sg:address":"430 Christiana Mall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/115311-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 452 0708",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xo8q7EkBHVXT1XnFpogoC_39.680706_-75.651500@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223511,
+    "wof:geomhash":"b04ed9b75c35d472ed27f55d6a445d0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512943
+        }
+    ],
+    "wof:id":873512943,
+    "wof:lastmodified":1464223511,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.6515,
+    39.680706,
+    -75.6515,
+    39.680706
+],
+  "geometry": {"coordinates":[-75.6515,39.680706],"type":"Point"}
+}

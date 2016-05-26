@@ -1,0 +1,71 @@
+{
+  "id": 873504073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550077,39.812567,-75.550077,39.812567",
+    "geom:latitude":39.812567,
+    "geom:longitude":-75.550077,
+    "iso:country":"US",
+    "sg:address":"4211 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 5050",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ERSgr4C3vIWtzpmylyjV8_39.812567_-75.550077@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223108,
+    "wof:geomhash":"794c2e7a1c02f0717cc90f19a881444a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873504073
+        }
+    ],
+    "wof:id":873504073,
+    "wof:lastmodified":1464223108,
+    "wof:name":"Compusa",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.550077,
+    39.812567,
+    -75.550077,
+    39.812567
+],
+  "geometry": {"coordinates":[-75.550077,39.812567],"type":"Point"}
+}

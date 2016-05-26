@@ -1,0 +1,71 @@
+{
+  "id": 873483249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682883,39.674896,-75.682883,39.674896",
+    "geom:latitude":39.674896,
+    "geom:longitude":-75.682883,
+    "iso:country":"US",
+    "sg:address":"1142 Powderhorn Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 2969",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hz0g8Qip8x3OfJhXTTjyc_39.674896_-75.682883@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222239,
+    "wof:geomhash":"30f5fdf5bf7b7e24bb3cdb3b69812f67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873483249
+        }
+    ],
+    "wof:id":873483249,
+    "wof:lastmodified":1464222239,
+    "wof:name":"First Class Concrete",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.682883,
+    39.674896,
+    -75.682883,
+    39.674896
+],
+  "geometry": {"coordinates":[-75.682883,39.674896],"type":"Point"}
+}

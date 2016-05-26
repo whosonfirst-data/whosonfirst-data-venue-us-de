@@ -1,0 +1,81 @@
+{
+  "id": 873518263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.616937,39.727561,-75.616937,39.727561",
+    "geom:latitude":39.727561,
+    "geom:longitude":-75.616937,
+    "iso:country":"US",
+    "sg:address":"1026 Centerville Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0225",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "accessory"
+    ],
+    "sg:website":"http://www.napaonline.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iFopUJPFgrrvF5HFSoHpB_39.727561_-75.616937@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223805,
+    "wof:geomhash":"88fe3e7ed3f8f062089538897a68583f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518263
+        }
+    ],
+    "wof:id":873518263,
+    "wof:lastmodified":1464223805,
+    "wof:name":"Napa Auto Parts",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -75.616937,
+    39.727561,
+    -75.616937,
+    39.727561
+],
+  "geometry": {"coordinates":[-75.61693699999999,39.727561],"type":"Point"}
+}

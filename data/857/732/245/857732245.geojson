@@ -1,0 +1,68 @@
+{
+  "id": 857732245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544044,39.745822,-75.544044,39.745822",
+    "geom:latitude":39.745822,
+    "geom:longitude":-75.544044,
+    "iso:country":"US",
+    "sg:address":"1140 N Walnut St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 8754",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71UTREmOwwC8BrPzidZ2dY_39.745822_-75.544044@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221488,
+    "wof:geomhash":"2ce39a6c8b2c297f95f3cf8fc3f25a77",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857732245
+        }
+    ],
+    "wof:id":857732245,
+    "wof:lastmodified":1464221488,
+    "wof:name":"Viola's Beauty Salon",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.544044,
+    39.745822,
+    -75.544044,
+    39.745822
+],
+  "geometry": {"coordinates":[-75.544044,39.745822],"type":"Point"}
+}

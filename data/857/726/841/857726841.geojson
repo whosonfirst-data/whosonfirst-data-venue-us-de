@@ -1,0 +1,71 @@
+{
+  "id": 857726841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.516559,39.241196,-75.516559,39.241196",
+    "geom:latitude":39.241196,
+    "geom:longitude":-75.516559,
+    "iso:country":"US",
+    "sg:address":"184 Front St",
+    "sg:city":"Leipsic",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 8240",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ThRvNwrn2wKHMzM2D6VgX_39.241196_-75.516559@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221375,
+    "wof:geomhash":"688b65f4c55286e30bcb8879e2f6235d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857726841
+        }
+    ],
+    "wof:id":857726841,
+    "wof:lastmodified":1464221375,
+    "wof:name":"Sawyer's Sanitation Svc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -75.516559,
+    39.241196,
+    -75.516559,
+    39.241196
+],
+  "geometry": {"coordinates":[-75.516559,39.241196],"type":"Point"}
+}

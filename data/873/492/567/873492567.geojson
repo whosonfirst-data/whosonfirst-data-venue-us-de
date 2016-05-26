@@ -1,0 +1,71 @@
+{
+  "id": 873492567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551767,39.813629,-75.551767,39.813629",
+    "geom:latitude":39.813629,
+    "geom:longitude":-75.551767,
+    "iso:country":"US",
+    "sg:address":"1 Righter Pkwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 4954",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carrier",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34sSt5ngEKYWXyoEEwN5Rz_39.813629_-75.551767@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222585,
+    "wof:geomhash":"1640cfe1a5c0e3ded3408d5fab09e388",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873492567
+        }
+    ],
+    "wof:id":873492567,
+    "wof:lastmodified":1464222585,
+    "wof:name":"F D I C",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier",
+        "public"
+    ]
+},
+  "bbox": [
+    -75.551767,
+    39.813629,
+    -75.551767,
+    39.813629
+],
+  "geometry": {"coordinates":[-75.551767,39.813629],"type":"Point"}
+}

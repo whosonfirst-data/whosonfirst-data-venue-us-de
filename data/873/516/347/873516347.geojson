@@ -1,0 +1,75 @@
+{
+  "id": 873516347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.673474,39.689779,-75.673474,39.689779",
+    "geom:latitude":39.689779,
+    "geom:longitude":-75.673474,
+    "iso:country":"US",
+    "sg:address":"4735 Ogletown Stanton Rd # 1225",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 623 4020",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "neurology",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pA5N4kLHijtVD2bifImeM_39.689779_-75.673474@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223676,
+    "wof:geomhash":"3c8c05c3d7ad62fd6f9c147f638d26ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516347
+        }
+    ],
+    "wof:id":873516347,
+    "wof:lastmodified":1464223676,
+    "wof:name":"Joel Chodos Md",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "neurology",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -75.673474,
+    39.689779,
+    -75.673474,
+    39.689779
+],
+  "geometry": {"coordinates":[-75.673474,39.689779],"type":"Point"}
+}

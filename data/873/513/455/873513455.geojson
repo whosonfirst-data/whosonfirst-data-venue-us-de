@@ -1,0 +1,72 @@
+{
+  "id": 873513455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.596184,39.75559,-75.596184,39.75559",
+    "geom:latitude":39.75559,
+    "geom:longitude":-75.596184,
+    "iso:country":"US",
+    "sg:address":"3701 Lancaster Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/piedmont/241837-febys-fishery/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 9501",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "seafood",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jdUJrGgaX8p3WHVHcxeNk_39.755590_-75.596184@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223530,
+    "wof:geomhash":"d51496a433e6c0d8d0cbdcd47b342b80",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873513455
+        }
+    ],
+    "wof:id":873513455,
+    "wof:lastmodified":1464223530,
+    "wof:name":"Feby's Fishery",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.596184,
+    39.75559,
+    -75.596184,
+    39.75559
+],
+  "geometry": {"coordinates":[-75.59618399999999,39.75559],"type":"Point"}
+}

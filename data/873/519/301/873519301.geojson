@@ -1,0 +1,77 @@
+{
+  "id": 873519301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.66922,39.728828,-75.66922,39.728828",
+    "geom:latitude":39.728828,
+    "geom:longitude":-75.66922,
+    "iso:country":"US",
+    "sg:address":"1601 Milltown Rd Ste 13",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 2330",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "radiology",
+        "surgeons",
+        "pediatrics-radiology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JNBgvXbl7gV16Gxq5DdvA_39.728828_-75.669220@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223847,
+    "wof:geomhash":"d15a4b7909721f6c4bb705771e14e850",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873519301
+        }
+    ],
+    "wof:id":873519301,
+    "wof:lastmodified":1464223847,
+    "wof:name":"Delaware Billing Services",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "radiology",
+        "surgeons",
+        "pediatrics-radiology"
+    ]
+},
+  "bbox": [
+    -75.66922,
+    39.728828,
+    -75.66922,
+    39.728828
+],
+  "geometry": {"coordinates":[-75.66922,39.728828],"type":"Point"}
+}

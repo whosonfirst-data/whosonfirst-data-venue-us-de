@@ -1,0 +1,69 @@
+{
+  "id": 873509539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.123997,38.78002,-75.123997,38.78002",
+    "geom:latitude":38.78002,
+    "geom:longitude":-75.123997,
+    "iso:country":"US",
+    "sg:address":"42 Cape Henlopen Dr",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 2956",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814899,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25djOlRkSxjF3hC0WXJxNi_38.780020_-75.123997@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223358,
+    "wof:geomhash":"9317faf28f2ddd50e7976c51cf75906e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85814899,
+            "region_id":85688611,
+            "venue_id":873509539
+        }
+    ],
+    "wof:id":873509539,
+    "wof:lastmodified":1464223358,
+    "wof:name":"State Park Chuck Wagon",
+    "wof:parent_id":85814899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.123997,
+    38.78002,
+    -75.123997,
+    38.78002
+],
+  "geometry": {"coordinates":[-75.123997,38.78002],"type":"Point"}
+}

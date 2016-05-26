@@ -1,0 +1,71 @@
+{
+  "id": 873487839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603225,39.713312,-75.603225,39.713312",
+    "geom:latitude":39.713312,
+    "geom:longitude":-75.603225,
+    "iso:country":"US",
+    "sg:address":"422 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 9820",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Z0WnpU2XdndrY03oLJGwx_39.713312_-75.603225@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222416,
+    "wof:geomhash":"da6f3c9d6e5e2086090ae4081b9571ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873487839
+        }
+    ],
+    "wof:id":873487839,
+    "wof:lastmodified":1464222416,
+    "wof:name":"Concrete Technology Northeast",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.603225,
+    39.713312,
+    -75.603225,
+    39.713312
+],
+  "geometry": {"coordinates":[-75.60322499999999,39.713312],"type":"Point"}
+}

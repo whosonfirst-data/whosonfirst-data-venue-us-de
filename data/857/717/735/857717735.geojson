@@ -1,0 +1,73 @@
+{
+  "id": 857717735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.43122,38.911452,-75.43122,38.911452",
+    "geom:latitude":38.911452,
+    "geom:longitude":-75.43122,
+    "iso:country":"US",
+    "sg:address":"117 Causey Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 1305",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1V4BLjQvYxHvFIRQ8JK59Q_38.911452_-75.431220@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221199,
+    "wof:geomhash":"38a55039469c794878c32ee9d903e2e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857717735
+        }
+    ],
+    "wof:id":857717735,
+    "wof:lastmodified":1464221199,
+    "wof:name":"Milford Mental Health Center",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -75.43122,
+    38.911452,
+    -75.43122,
+    38.911452
+],
+  "geometry": {"coordinates":[-75.43122,38.911452],"type":"Point"}
+}

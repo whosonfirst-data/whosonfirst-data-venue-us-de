@@ -1,0 +1,75 @@
+{
+  "id": 857720431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525487,39.759194,-75.525487,39.759194",
+    "geom:latitude":39.759194,
+    "geom:longitude":-75.525487,
+    "iso:country":"US",
+    "sg:address":"3601 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 765 3882",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mQNkuf5iCCEsstrPZlPQi_39.759194_-75.525487@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221258,
+    "wof:geomhash":"c34a1439e0ec79a680f01be81c1862ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857720431
+        }
+    ],
+    "wof:id":857720431,
+    "wof:lastmodified":1464221258,
+    "wof:name":"Delaware Depository Service",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -75.525487,
+    39.759194,
+    -75.525487,
+    39.759194
+],
+  "geometry": {"coordinates":[-75.525487,39.759194],"type":"Point"}
+}

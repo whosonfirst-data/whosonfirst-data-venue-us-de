@@ -1,0 +1,71 @@
+{
+  "id": 873497019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.644034,39.729871,-75.644034,39.729871",
+    "geom:latitude":39.729871,
+    "geom:longitude":-75.644034,
+    "iso:country":"US",
+    "sg:address":"1220 Gilbert Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8865",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tqAQd8DTNLDoRzOhHEUQ3_39.729871_-75.644034@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222824,
+    "wof:geomhash":"3d914c632970ac9600e285e88ad05b84",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873497019
+        }
+    ],
+    "wof:id":873497019,
+    "wof:lastmodified":1464222824,
+    "wof:name":"Stewart's Towing",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -75.644034,
+    39.729871,
+    -75.644034,
+    39.729871
+],
+  "geometry": {"coordinates":[-75.644034,39.729871],"type":"Point"}
+}

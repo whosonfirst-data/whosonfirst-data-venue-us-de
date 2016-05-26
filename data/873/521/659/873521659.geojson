@@ -1,0 +1,65 @@
+{
+  "id": 873521659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515999,39.146301,-75.515999,39.146301",
+    "geom:latitude":39.146301,
+    "geom:longitude":-75.515999,
+    "iso:country":"US",
+    "sg:address":"915 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8080",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yDTAWF94pcYaYuLLLaylt_39.146301_-75.515999@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223950,
+    "wof:geomhash":"f8cb80752b36c40b4897df72b8190a91",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873521659
+        }
+    ],
+    "wof:id":873521659,
+    "wof:lastmodified":1464223950,
+    "wof:name":"McDonald's Family Restaurant",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.515999,
+    39.146301,
+    -75.515999,
+    39.146301
+],
+  "geometry": {"coordinates":[-75.51599899999999,39.146301],"type":"Point"}
+}

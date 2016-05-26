@@ -1,0 +1,69 @@
+{
+  "id": 873500825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.530565,39.799284,-75.530565,39.799284",
+    "geom:latitude":39.799284,
+    "geom:longitude":-75.530565,
+    "iso:country":"US",
+    "sg:address":"108 Rockingham Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 0209",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JL5Qn2kXTlE0JYlqcyNd5_39.799284_-75.530565@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222976,
+    "wof:geomhash":"5e802e2487ebb0c5fca17fe569a4f303",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873500825
+        }
+    ],
+    "wof:id":873500825,
+    "wof:lastmodified":1464222976,
+    "wof:name":"Lamanai Ltd",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape"
+    ]
+},
+  "bbox": [
+    -75.530565,
+    39.799284,
+    -75.530565,
+    39.799284
+],
+  "geometry": {"coordinates":[-75.530565,39.799284],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873513183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.723622,39.69835,-75.723622,39.69835",
+    "geom:latitude":39.69835,
+    "geom:longitude":-75.723622,
+    "iso:country":"US",
+    "sg:address":"27 Possum Park Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/25139-outback-steakhouse/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 8012",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Vfn72Es6CAvS6E0DADBb0_39.698350_-75.723622@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223520,
+    "wof:geomhash":"969e1b58d800c3fcd0c15304876202a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513183
+        }
+    ],
+    "wof:id":873513183,
+    "wof:lastmodified":1464223520,
+    "wof:name":"Outback Steakhouse",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -75.723622,
+    39.69835,
+    -75.723622,
+    39.69835
+],
+  "geometry": {"coordinates":[-75.72362200000001,39.69835],"type":"Point"}
+}

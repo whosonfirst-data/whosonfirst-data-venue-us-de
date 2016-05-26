@@ -1,0 +1,78 @@
+{
+  "id": 873513285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.65367,39.691947,-75.65367,39.691947",
+    "geom:latitude":39.691947,
+    "geom:longitude":-75.65367,
+    "iso:country":"US",
+    "sg:address":"425 Stanton Christiana Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/110001-chilis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 273 8635",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yRgYdV1RxFq9eiOoUrfyR_39.691947_-75.653670@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223523,
+    "wof:geomhash":"ff2cddb838a6914ccc29d11c0c5d7078",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873513285
+        }
+    ],
+    "wof:id":873513285,
+    "wof:lastmodified":1464223523,
+    "wof:name":"Chili's",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "tex-mex",
+        "soup"
+    ]
+},
+  "bbox": [
+    -75.65367,
+    39.691947,
+    -75.65367,
+    39.691947
+],
+  "geometry": {"coordinates":[-75.65367000000001,39.691947],"type":"Point"}
+}

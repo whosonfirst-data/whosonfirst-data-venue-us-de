@@ -1,0 +1,70 @@
+{
+  "id": 873501599,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.631824,39.73048,-75.631824,39.73048",
+    "geom:latitude":39.73048,
+    "geom:longitude":-75.631824,
+    "iso:country":"US",
+    "sg:address":"3540 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 0300",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "claim"
+    ],
+    "sg:website":"www.statefarm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28rd8FPoKdihvECilv6qvb_39.730480_-75.631824@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223014,
+    "wof:geomhash":"4a6319748a10721980f5308667416dbe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873501599
+        }
+    ],
+    "wof:id":873501599,
+    "wof:lastmodified":1464223014,
+    "wof:name":"State Farm Insurance",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "claim"
+    ]
+},
+  "bbox": [
+    -75.631824,
+    39.73048,
+    -75.631824,
+    39.73048
+],
+  "geometry": {"coordinates":[-75.63182399999999,39.73048],"type":"Point"}
+}

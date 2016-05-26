@@ -1,0 +1,69 @@
+{
+  "id": 873491725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.666173,39.732064,-75.666173,39.732064",
+    "geom:latitude":39.732064,
+    "geom:longitude":-75.666173,
+    "iso:country":"US",
+    "sg:address":"1327 McKennans Church Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 225 1315",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vQLM4JpU7P0DLG6qFDCnH_39.732064_-75.666173@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222557,
+    "wof:geomhash":"9574afd6bdb4adae7ae277b8dddc9863",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873491725
+        }
+    ],
+    "wof:id":873491725,
+    "wof:lastmodified":1464222557,
+    "wof:name":"New Castle Donuts",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -75.666173,
+    39.732064,
+    -75.666173,
+    39.732064
+],
+  "geometry": {"coordinates":[-75.666173,39.732064],"type":"Point"}
+}

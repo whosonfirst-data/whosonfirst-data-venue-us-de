@@ -1,0 +1,73 @@
+{
+  "id": 873474083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.457899,38.939717,-75.457899,38.939717",
+    "geom:latitude":38.939717,
+    "geom:longitude":-75.457899,
+    "iso:country":"US",
+    "sg:address":"1056 Church Hill Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8596",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "wrecker",
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2963PhigzGXFWVMuJM3kcL_38.939717_-75.457899@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221884,
+    "wof:geomhash":"8ea922f3126e1626e7e42b1c7f642f14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873474083
+        }
+    ],
+    "wof:id":873474083,
+    "wof:lastmodified":1464221884,
+    "wof:name":"Roger Minner Wrecker Service",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "wrecker",
+        "towing"
+    ]
+},
+  "bbox": [
+    -75.457899,
+    38.939717,
+    -75.457899,
+    38.939717
+],
+  "geometry": {"coordinates":[-75.457899,38.939717],"type":"Point"}
+}

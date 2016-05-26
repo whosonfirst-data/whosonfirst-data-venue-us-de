@@ -1,0 +1,71 @@
+{
+  "id": 873485535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.427759,38.737964,-75.427759,38.737964",
+    "geom:latitude":38.737964,
+    "geom:longitude":-75.427759,
+    "iso:country":"US",
+    "sg:address":"18026 Deer Forest Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7205",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitorial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0lnhJszPVdYW2WlINvtX0W_38.737964_-75.427759@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222326,
+    "wof:geomhash":"2dddbcc3e4a8992b5c5b0f6276fb962f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873485535
+        }
+    ],
+    "wof:id":873485535,
+    "wof:lastmodified":1464222326,
+    "wof:name":"D & A Cleaning Service",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitorial"
+    ]
+},
+  "bbox": [
+    -75.427759,
+    38.737964,
+    -75.427759,
+    38.737964
+],
+  "geometry": {"coordinates":[-75.42775899999999,38.737964],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 873522615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524968,39.149915,-75.524968,39.149915",
+    "geom:latitude":39.149915,
+    "geom:longitude":-75.524968,
+    "iso:country":"US",
+    "sg:address":"737 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9901",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://www.nationwide.com/agent/Dover-DELAWARE-insurance-agent/scott-lentz-1/office.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5esnfEdp1iM60mXm5PLgyT_39.149915_-75.524968@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223993,
+    "wof:geomhash":"e4dbabe9e780af24c2c52d75466536ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873522615
+        }
+    ],
+    "wof:id":873522615,
+    "wof:lastmodified":1464223993,
+    "wof:name":"Lentz Ins & Fncl Svcs Inc - Nationwide Insurance",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -75.524968,
+    39.149915,
+    -75.524968,
+    39.149915
+],
+  "geometry": {"coordinates":[-75.524968,39.149915],"type":"Point"}
+}

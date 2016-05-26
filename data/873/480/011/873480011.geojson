@@ -1,0 +1,73 @@
+{
+  "id": 873480011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550533,39.745605,-75.550533,39.745605",
+    "geom:latitude":39.745605,
+    "geom:longitude":-75.550533,
+    "iso:country":"US",
+    "sg:address":"217 W 9th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 2626",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_228nS8DJCb9vPICtZa2bl0_39.745605_-75.550533@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222113,
+    "wof:geomhash":"54322dbfd47f422a97e0dd8b963c4e7f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873480011
+        }
+    ],
+    "wof:id":873480011,
+    "wof:lastmodified":1464222113,
+    "wof:name":"Dental Diagnostics & Services",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.550533,
+    39.745605,
+    -75.550533,
+    39.745605
+],
+  "geometry": {"coordinates":[-75.550533,39.745605],"type":"Point"}
+}

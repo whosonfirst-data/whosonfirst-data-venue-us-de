@@ -1,0 +1,81 @@
+{
+  "id": 873514021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.429382,38.961745,-75.429382,38.961745",
+    "geom:latitude":38.961745,
+    "geom:longitude":-75.429382,
+    "iso:country":"US",
+    "sg:address":"1606 Bay Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/milford-north/164746-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 0949",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0cqC2FzeWwtFAJ4SphaI1c_38.961960_-75.429885@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223562,
+    "wof:geomhash":"3a344623ed14f860024a7d3dfa2bc05f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873514021
+        }
+    ],
+    "wof:id":873514021,
+    "wof:lastmodified":1464223562,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -75.429382,
+    38.961745,
+    -75.429382,
+    38.961745
+],
+  "geometry": {"coordinates":[-75.429382,38.961745],"type":"Point"}
+}

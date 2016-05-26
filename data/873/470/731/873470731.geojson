@@ -1,0 +1,71 @@
+{
+  "id": 873470731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.421935,38.908892,-75.421935,38.908892",
+    "geom:latitude":38.908892,
+    "geom:longitude":-75.421935,
+    "iso:country":"US",
+    "sg:address":"305 Marshall St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 6799",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JSCCMDYKM7jzB9q0POBXH_38.908892_-75.421935@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221756,
+    "wof:geomhash":"5849a5c12d0fc2cac7e9f7c18b60cf52",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873470731
+        }
+    ],
+    "wof:id":873470731,
+    "wof:lastmodified":1464221756,
+    "wof:name":"Ronald H Sharp Plumbing",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.421935,
+    38.908892,
+    -75.421935,
+    38.908892
+],
+  "geometry": {"coordinates":[-75.421935,38.908892],"type":"Point"}
+}

@@ -1,0 +1,104 @@
+{
+  "id": 873516779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540993,39.736561,-75.540993,39.736561",
+    "geom:latitude":39.736561,
+    "geom:longitude":-75.540993,
+    "iso:country":"US",
+    "sg:address":"500 Swedes Landing Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 792 3100",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.jnj.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qKsSDbiU0OjBOL0W6y1uv_39.736561_-75.540993@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223707,
+    "wof:geomhash":"34edc934dd1c42a8ca13e13f57e83773",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873516779
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873516779
+        }
+    ],
+    "wof:id":873516779,
+    "wof:lastmodified":1464223707,
+    "wof:name":"Noramco Of Delaware, Inc.",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pharmaceutical",
+        "product",
+        "proprietary",
+        "products-wholesale",
+        "medicines-patent",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.540993,
+    39.736561,
+    -75.540993,
+    39.736561
+],
+  "geometry": {"coordinates":[-75.540993,39.736561],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857710459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592477,38.683134,-75.592477,38.683134",
+    "geom:latitude":38.683134,
+    "geom:longitude":-75.592477,
+    "iso:country":"US",
+    "sg:address":"9075 Dolby Dr",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 5090",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RgouPGX2i0kJIB4MIQZHK_38.683134_-75.592477@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221040,
+    "wof:geomhash":"ac44cff5c51aa0440c45d67f397db3ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857710459
+        }
+    ],
+    "wof:id":857710459,
+    "wof:lastmodified":1464221040,
+    "wof:name":"Hab Nab Transportation Inc",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.592477,
+    38.683134,
+    -75.592477,
+    38.683134
+],
+  "geometry": {"coordinates":[-75.592477,38.683134],"type":"Point"}
+}

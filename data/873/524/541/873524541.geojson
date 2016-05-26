@@ -1,0 +1,72 @@
+{
+  "id": 873524541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522337,39.051953,-75.522337,39.051953",
+    "geom:latitude":39.051953,
+    "geom:longitude":-75.522337,
+    "iso:country":"US",
+    "sg:address":"45 Almonds Way",
+    "sg:city":"Magnolia",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 3536",
+    "sg:postcode":"19962",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.ryland.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rSIIsJE4bX1sNvtsSZY4y_39.051953_-75.522337@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224062,
+    "wof:geomhash":"705bad9e27f0f97753f1220f1c289eba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873524541
+        }
+    ],
+    "wof:id":873524541,
+    "wof:lastmodified":1464224062,
+    "wof:name":"Ryland Homes",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.522337,
+    39.051953,
+    -75.522337,
+    39.051953
+],
+  "geometry": {"coordinates":[-75.52233699999999,39.051953],"type":"Point"}
+}

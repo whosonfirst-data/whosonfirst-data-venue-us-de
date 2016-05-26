@@ -1,0 +1,72 @@
+{
+  "id": 873518033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547501,39.820202,-75.547501,39.820202",
+    "geom:latitude":39.820202,
+    "geom:longitude":-75.547501,
+    "iso:country":"US",
+    "sg:address":"4701 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 9694",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "men's",
+        "clothing"
+    ],
+    "sg:website":"www.menswearhouse.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4a95QJ4GgHO9nohKRrtzUU_39.820202_-75.547501@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223796,
+    "wof:geomhash":"2d2b068665902c084a929d7f1d0ebc54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873518033
+        }
+    ],
+    "wof:id":873518033,
+    "wof:lastmodified":1464223796,
+    "wof:name":"Men's Wearhouse",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "men's",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -75.547501,
+    39.820202,
+    -75.547501,
+    39.820202
+],
+  "geometry": {"coordinates":[-75.547501,39.820202],"type":"Point"}
+}

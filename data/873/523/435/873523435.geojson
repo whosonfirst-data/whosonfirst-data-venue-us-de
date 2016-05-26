@@ -1,0 +1,76 @@
+{
+  "id": 873523435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607613,38.741497,-75.607613,38.741497",
+    "geom:latitude":38.741497,
+    "geom:longitude":-75.607613,
+    "iso:country":"US",
+    "sg:address":"617 Market St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 9898",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZTtp28MlYXr79HiuXNYpX_38.741497_-75.607613@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224020,
+    "wof:geomhash":"7197708040c8b51fadf17257e46c7de8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873523435
+        }
+    ],
+    "wof:id":873523435,
+    "wof:lastmodified":1464224020,
+    "wof:name":"Liberty Transportation, Inc.",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.607613,
+    38.741497,
+    -75.607613,
+    38.741497
+],
+  "geometry": {"coordinates":[-75.607613,38.741497],"type":"Point"}
+}

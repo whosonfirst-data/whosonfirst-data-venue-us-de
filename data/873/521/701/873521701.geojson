@@ -1,0 +1,71 @@
+{
+  "id": 873521701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518898,39.1922,-75.518898,39.1922",
+    "geom:latitude":39.1922,
+    "geom:longitude":-75.518898,
+    "iso:country":"US",
+    "sg:address":"500 Persimmon Tree Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 0984",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3czdS1A6VhnoE04t1P19dQ_39.192200_-75.518898@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223952,
+    "wof:geomhash":"26fc39b1975c66d46c581e477a9a4a11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873521701
+        }
+    ],
+    "wof:id":873521701,
+    "wof:lastmodified":1464223952,
+    "wof:name":"Persimmon Tree Apartments",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.518898,
+    39.1922,
+    -75.518898,
+    39.1922
+],
+  "geometry": {"coordinates":[-75.51889799999999,39.1922],"type":"Point"}
+}

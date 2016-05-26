@@ -1,0 +1,73 @@
+{
+  "id": 873489597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.440283,38.906762,-75.440283,38.906762",
+    "geom:latitude":38.906762,
+    "geom:longitude":-75.440283,
+    "iso:country":"US",
+    "sg:address":"700 Marvel Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 3303",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GiNIVih5gf1F1eII3zqRF_38.906762_-75.440283@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222478,
+    "wof:geomhash":"6ed326a6b7b94654fe9128f4c41a4f9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873489597
+        }
+    ],
+    "wof:id":873489597,
+    "wof:lastmodified":1464222478,
+    "wof:name":"Milford Center",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -75.440283,
+    38.906762,
+    -75.440283,
+    38.906762
+],
+  "geometry": {"coordinates":[-75.44028299999999,38.906762],"type":"Point"}
+}

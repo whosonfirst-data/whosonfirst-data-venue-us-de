@@ -1,0 +1,75 @@
+{
+  "id": 873473045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539954,39.752648,-75.539954,39.752648",
+    "geom:latitude":39.752648,
+    "geom:longitude":-75.539954,
+    "iso:country":"US",
+    "sg:address":"2101 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 6895",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IrgkTJnjq8eUT1z8bZsES_39.752648_-75.539954@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221844,
+    "wof:geomhash":"b08aff4552de341506baaadfe0684107",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873473045
+        }
+    ],
+    "wof:id":873473045,
+    "wof:lastmodified":1464221844,
+    "wof:name":"HI Tech Gas Station",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.539954,
+    39.752648,
+    -75.539954,
+    39.752648
+],
+  "geometry": {"coordinates":[-75.53995399999999,39.752648],"type":"Point"}
+}

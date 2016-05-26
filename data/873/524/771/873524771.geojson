@@ -1,0 +1,82 @@
+{
+  "id": 873524771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.319208,38.787773,-75.319208,38.787773",
+    "geom:latitude":38.787773,
+    "geom:longitude":-75.319208,
+    "iso:country":"US",
+    "sg:address":"221 Milton Ellendale Hwy",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 3077",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IqH87f050LzrN1dmZwUbZ_38.787773_-75.319208@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224070,
+    "wof:geomhash":"31514f3f75e1ffe21aae21c957d4d710",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524771
+        }
+    ],
+    "wof:id":873524771,
+    "wof:lastmodified":1464224070,
+    "wof:name":"Napa Auto Parts",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "battery",
+        "automobile",
+        "part",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -75.319208,
+    38.787773,
+    -75.319208,
+    38.787773
+],
+  "geometry": {"coordinates":[-75.319208,38.787773],"type":"Point"}
+}

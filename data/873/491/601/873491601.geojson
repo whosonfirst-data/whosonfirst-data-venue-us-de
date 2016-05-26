@@ -1,0 +1,75 @@
+{
+  "id": 873491601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.650392,39.655343,-75.650392,39.655343",
+    "geom:latitude":39.655343,
+    "geom:longitude":-75.650392,
+    "iso:country":"US",
+    "sg:address":"147 School Bell Rd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 5199",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg",
+        "repair",
+        "stampings",
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vjoBCBRd1GNjssx6uOpEA_39.655343_-75.650392@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222552,
+    "wof:geomhash":"1546c7df1e4372a40364e823087fed8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873491601
+        }
+    ],
+    "wof:id":873491601,
+    "wof:lastmodified":1464222552,
+    "wof:name":"Stafford Precision",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "repair",
+        "stampings",
+        "welding"
+    ]
+},
+  "bbox": [
+    -75.650392,
+    39.655343,
+    -75.650392,
+    39.655343
+],
+  "geometry": {"coordinates":[-75.650392,39.655343],"type":"Point"}
+}

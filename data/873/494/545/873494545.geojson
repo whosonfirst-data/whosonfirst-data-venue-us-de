@@ -1,0 +1,69 @@
+{
+  "id": 873494545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574756,39.760068,-75.574756,39.760068",
+    "geom:latitude":39.760068,
+    "geom:longitude":-75.574756,
+    "iso:country":"US",
+    "sg:address":"2401 Pennsylvania Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 5366",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "condominium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MIpCos3w0MrxVTup6mW4E_39.760068_-75.574756@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222686,
+    "wof:geomhash":"f8dd170e8f683a3bd7e3d10baf44cd79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873494545
+        }
+    ],
+    "wof:id":873494545,
+    "wof:lastmodified":1464222686,
+    "wof:name":"Devon Condominium",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "condominium"
+    ]
+},
+  "bbox": [
+    -75.574756,
+    39.760068,
+    -75.574756,
+    39.760068
+],
+  "geometry": {"coordinates":[-75.57475599999999,39.760068],"type":"Point"}
+}

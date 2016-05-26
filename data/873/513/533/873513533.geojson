@@ -1,0 +1,72 @@
+{
+  "id": 873513533,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.632869,39.735434,-75.632869,39.735434",
+    "geom:latitude":39.735434,
+    "geom:longitude":-75.632869,
+    "iso:country":"US",
+    "sg:address":"3421 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lower-christiana/25131-palace-of-asia/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 9200",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "indian",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sHTKN6IylKqPM4n2shp3Z_39.735434_-75.632869@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223535,
+    "wof:geomhash":"73a1a804795ac4a041e4af0a17f8112a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873513533
+        }
+    ],
+    "wof:id":873513533,
+    "wof:lastmodified":1464223535,
+    "wof:name":"Palace of Asia",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indian",
+        "asian"
+    ]
+},
+  "bbox": [
+    -75.632869,
+    39.735434,
+    -75.632869,
+    39.735434
+],
+  "geometry": {"coordinates":[-75.632869,39.735434],"type":"Point"}
+}

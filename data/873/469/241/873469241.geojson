@@ -1,0 +1,69 @@
+{
+  "id": 873469241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604143,38.929666,-75.604143,38.929666",
+    "geom:latitude":38.929666,
+    "geom:longitude":-75.604143,
+    "iso:country":"US",
+    "sg:address":"1357 Pine Pitch Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8021",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64NLD5MhJV2NjGrn8OIeU9_38.929666_-75.604143@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221695,
+    "wof:geomhash":"5993e60c1f53062548775ec17cc7db1e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873469241
+        }
+    ],
+    "wof:id":873469241,
+    "wof:lastmodified":1464221695,
+    "wof:name":"Bill Vanvorst General Contr",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.604143,
+    38.929666,
+    -75.604143,
+    38.929666
+],
+  "geometry": {"coordinates":[-75.60414299999999,38.929666],"type":"Point"}
+}

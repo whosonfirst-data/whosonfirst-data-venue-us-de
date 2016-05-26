@@ -1,0 +1,71 @@
+{
+  "id": 857686857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.128168,38.479986,-75.128168,38.479986",
+    "geom:latitude":38.479986,
+    "geom:longitude":-75.128168,
+    "iso:country":"US",
+    "sg:address":"78 Seagull Rd",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 6277",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15EqTRGjucONSYSKmqDnHm_38.479986_-75.128168@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220556,
+    "wof:geomhash":"82d7ff83b3054dd0810767c6835762cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857686857
+        }
+    ],
+    "wof:id":857686857,
+    "wof:lastmodified":1464220556,
+    "wof:name":"Ed Hileman Drywall Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.128168,
+    38.479986,
+    -75.128168,
+    38.479986
+],
+  "geometry": {"coordinates":[-75.128168,38.479986],"type":"Point"}
+}

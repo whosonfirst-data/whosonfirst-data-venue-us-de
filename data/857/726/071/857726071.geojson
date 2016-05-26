@@ -1,0 +1,83 @@
+{
+  "id": 857726071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552084,39.741679,-75.552084,39.741679",
+    "geom:latitude":39.741679,
+    "geom:longitude":-75.552084,
+    "iso:country":"US",
+    "sg:address":"400 N Orange St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 1696",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11Wq3xrzY6n2TLgVPRXB7u_39.741679_-75.552084@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221362,
+    "wof:geomhash":"7add15d6b59ff0ba3d51c67d52c716c1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857726071
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857726071
+        }
+    ],
+    "wof:id":857726071,
+    "wof:lastmodified":1464221362,
+    "wof:name":"Salvation Army",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.552084,
+    39.741679,
+    -75.552084,
+    39.741679
+],
+  "geometry": {"coordinates":[-75.55208399999999,39.741679],"type":"Point"}
+}

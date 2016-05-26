@@ -1,0 +1,71 @@
+{
+  "id": 873519981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.4972,39.8139,-75.4972,39.8139",
+    "geom:latitude":39.8139,
+    "geom:longitude":-75.4972,
+    "iso:country":"US",
+    "sg:address":"2232 Grubb Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 1111",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pu0IccpUj2TnQ40T6JBcm_39.813900_-75.497200@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223879,
+    "wof:geomhash":"976481da256526ef6484927caf4a5752",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519981
+        }
+    ],
+    "wof:id":873519981,
+    "wof:lastmodified":1464223879,
+    "wof:name":"Kazmirski John Contractor",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.4972,
+    39.8139,
+    -75.4972,
+    39.8139
+],
+  "geometry": {"coordinates":[-75.49720000000001,39.8139],"type":"Point"}
+}

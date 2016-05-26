@@ -1,0 +1,72 @@
+{
+  "id": 873512957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.649573,39.677018,-75.649573,39.677018",
+    "geom:latitude":39.677018,
+    "geom:longitude":-75.649573,
+    "iso:country":"US",
+    "sg:address":"735 Christiana Mall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/165005-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 5958",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kfcFhE8b6f3UhCk7Kt0PB_39.677018_-75.649573@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223512,
+    "wof:geomhash":"13c8fc794252f584a14e230fba19960d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512957
+        }
+    ],
+    "wof:id":873512957,
+    "wof:lastmodified":1464223512,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.649573,
+    39.677018,
+    -75.649573,
+    39.677018
+],
+  "geometry": {"coordinates":[-75.649573,39.677018],"type":"Point"}
+}

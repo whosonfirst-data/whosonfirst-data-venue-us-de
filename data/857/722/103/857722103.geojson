@@ -1,0 +1,73 @@
+{
+  "id": 857722103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57872,38.923102,-75.57872,38.923102",
+    "geom:latitude":38.923102,
+    "geom:longitude":-75.57872,
+    "iso:country":"US",
+    "sg:address":"35 Commerce St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8400",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WjNukdFkH6ewSn4ReTK8R_38.923102_-75.578720@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221290,
+    "wof:geomhash":"2043dd3350b7d6e075016a8ba492046e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857722103
+        }
+    ],
+    "wof:id":857722103,
+    "wof:lastmodified":1464221290,
+    "wof:name":"Tri State Auto Brokers",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.57872,
+    38.923102,
+    -75.57872,
+    38.923102
+],
+  "geometry": {"coordinates":[-75.57872,38.923102],"type":"Point"}
+}

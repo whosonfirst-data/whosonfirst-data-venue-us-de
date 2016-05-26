@@ -1,0 +1,100 @@
+{
+  "id": 873514385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745141,39.60144,-75.745141,39.60144",
+    "geom:latitude":39.60144,
+    "geom:longitude":-75.745141,
+    "iso:country":"US",
+    "sg:address":"530 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 838 3400",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "educational",
+        "consultant",
+        "instruction",
+        "system",
+        "improvement",
+        "preparation",
+        "equipment",
+        "adult",
+        "test",
+        "reading",
+        "tutoring"
+    ],
+    "sg:website":"http://www.sylvanlearningcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pedh04dgvg390GgB7zXLO_39.601440_-75.745141@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223586,
+    "wof:geomhash":"8beb390a855a47da46519a89e4cf7faa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514385
+        }
+    ],
+    "wof:id":873514385,
+    "wof:lastmodified":1464223586,
+    "wof:name":"Sylvan Learning Center",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "consultant",
+        "instruction",
+        "system",
+        "improvement",
+        "preparation",
+        "equipment",
+        "adult",
+        "test",
+        "reading",
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -75.745141,
+    39.60144,
+    -75.745141,
+    39.60144
+],
+  "geometry": {"coordinates":[-75.745141,39.60144],"type":"Point"}
+}

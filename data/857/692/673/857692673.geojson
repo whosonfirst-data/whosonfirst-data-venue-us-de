@@ -1,0 +1,71 @@
+{
+  "id": 857692673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.751449,39.588129,-75.751449,39.588129",
+    "geom:latitude":39.588129,
+    "geom:longitude":-75.751449,
+    "iso:country":"US",
+    "sg:address":"2604 Old County Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 0282",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39xMRj3wO7lr2vKcUBZV4t_39.588129_-75.751449@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220674,
+    "wof:geomhash":"86d707f5166ed21cf8671910228d4a20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857692673
+        }
+    ],
+    "wof:id":857692673,
+    "wof:lastmodified":1464220674,
+    "wof:name":"Web Applications Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -75.751449,
+    39.588129,
+    -75.751449,
+    39.588129
+],
+  "geometry": {"coordinates":[-75.75144899999999,39.588129],"type":"Point"}
+}

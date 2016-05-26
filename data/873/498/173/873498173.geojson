@@ -1,0 +1,75 @@
+{
+  "id": 873498173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.533704,39.133295,-75.533704,39.133295",
+    "geom:latitude":39.133295,
+    "geom:longitude":-75.533704,
+    "iso:country":"US",
+    "sg:address":"384 Post Blvd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8513",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gd392BSiJ6uiOsSdMMDGV_39.133295_-75.533704@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222869,
+    "wof:geomhash":"e10d5f6174a8eb8f265149c5f02815a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":873498173
+        }
+    ],
+    "wof:id":873498173,
+    "wof:lastmodified":1464222869,
+    "wof:name":"D & D Heating & Air Cond",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.533704,
+    39.133295,
+    -75.533704,
+    39.133295
+],
+  "geometry": {"coordinates":[-75.533704,39.133295],"type":"Point"}
+}

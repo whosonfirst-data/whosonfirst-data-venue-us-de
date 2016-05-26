@@ -1,0 +1,71 @@
+{
+  "id": 857733127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598458,39.779058,-75.598458,39.779058",
+    "geom:latitude":39.779058,
+    "geom:longitude":-75.598458,
+    "iso:country":"US",
+    "sg:address":"4025 Kennett Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 5939",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jG4pyhFKyOtJdFZpge1UQ_39.779058_-75.598458@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221503,
+    "wof:geomhash":"f3cfe9144b3d906fcb3b159c6c66582b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":857733127
+        }
+    ],
+    "wof:id":857733127,
+    "wof:lastmodified":1464221503,
+    "wof:name":"Wine & Spirit Co Greenville",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic",
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.598458,
+    39.779058,
+    -75.598458,
+    39.779058
+],
+  "geometry": {"coordinates":[-75.59845799999999,39.779058],"type":"Point"}
+}

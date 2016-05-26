@@ -1,0 +1,70 @@
+{
+  "id": 873501637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604923,39.711585,-75.604923,39.711585",
+    "geom:latitude":39.711585,
+    "geom:longitude":-75.604923,
+    "iso:country":"US",
+    "sg:address":"112 Water St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9911",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "investigator"
+    ],
+    "sg:website":"www.snh.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oU8IPc0AlwgPylbLgEoIJ_39.711585_-75.604923@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223015,
+    "wof:geomhash":"d6af5561ffcce70d31de0b070468ff65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873501637
+        }
+    ],
+    "wof:id":873501637,
+    "wof:lastmodified":1464223015,
+    "wof:name":"S & H Investigative Svc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -75.604923,
+    39.711585,
+    -75.604923,
+    39.711585
+],
+  "geometry": {"coordinates":[-75.604923,39.711585],"type":"Point"}
+}

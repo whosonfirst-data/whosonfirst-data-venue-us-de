@@ -1,0 +1,76 @@
+{
+  "id": 873524725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.350681,38.574866,-75.350681,38.574866",
+    "geom:latitude":38.574866,
+    "geom:longitude":-75.350681,
+    "iso:country":"US",
+    "sg:address":"23112 Pine Run",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 933 0476",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jx2gO4uxbPmK37ZpCKmSl_38.574866_-75.350681@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224068,
+    "wof:geomhash":"4f698569047a292c2db81c8d9ce6fec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873524725
+        }
+    ],
+    "wof:id":873524725,
+    "wof:lastmodified":1464224068,
+    "wof:name":"Coney Island Beach Grill Deli",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -75.350681,
+    38.574866,
+    -75.350681,
+    38.574866
+],
+  "geometry": {"coordinates":[-75.35068099999999,38.574866],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873474555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548341,39.711393,-75.548341,39.711393",
+    "geom:latitude":39.711393,
+    "geom:longitude":-75.548341,
+    "iso:country":"US",
+    "sg:address":"4030 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 2422",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "barrels",
+        "new",
+        "reconditioned",
+        "drum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4U2A4zxEGn8d5mv3WrBOLW_39.711393_-75.548341@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221899,
+    "wof:geomhash":"860a728c8472cecb89f090b78264322a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873474555
+        }
+    ],
+    "wof:id":873474555,
+    "wof:lastmodified":1464221899,
+    "wof:name":"First State Steel Drum Co",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "barrels",
+        "new",
+        "reconditioned",
+        "drum"
+    ]
+},
+  "bbox": [
+    -75.548341,
+    39.711393,
+    -75.548341,
+    39.711393
+],
+  "geometry": {"coordinates":[-75.54834099999999,39.711393],"type":"Point"}
+}

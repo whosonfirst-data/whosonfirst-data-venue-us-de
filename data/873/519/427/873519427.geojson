@@ -1,0 +1,89 @@
+{
+  "id": 873519427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.477741,39.779358,-75.477741,39.779358",
+    "geom:latitude":39.779358,
+    "geom:longitude":-75.477741,
+    "iso:country":"US",
+    "sg:address":"6705 Governor Printz Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 792 1225",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buses-charter",
+        "limousine",
+        "wedding"
+    ],
+    "sg:website":"http://www.cwlimo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RM9sjha7wVvcmWm1TLpxE_39.779358_-75.477741@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223851,
+    "wof:geomhash":"d78a3dc4eb0d332cdfe348c0138ee256",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873519427
+        }
+    ],
+    "wof:id":873519427,
+    "wof:lastmodified":1464223851,
+    "wof:name":"City Wide Limousine Service",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buses-charter",
+        "limousine",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -75.477741,
+    39.779358,
+    -75.477741,
+    39.779358
+],
+  "geometry": {"coordinates":[-75.47774099999999,39.779358],"type":"Point"}
+}

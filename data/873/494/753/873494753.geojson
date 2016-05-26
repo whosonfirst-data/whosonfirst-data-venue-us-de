@@ -1,0 +1,71 @@
+{
+  "id": 873494753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.491736,38.696301,-75.491736,38.696301",
+    "geom:latitude":38.696301,
+    "geom:longitude":-75.491736,
+    "iso:country":"US",
+    "sg:address":"14150 Seashore Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2680",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2q1QZiQHM1CQhwJZOOsaDa_38.696301_-75.491736@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222699,
+    "wof:geomhash":"3e9d6c6892c3bd696d234fa798f16dff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873494753
+        }
+    ],
+    "wof:id":873494753,
+    "wof:lastmodified":1464222699,
+    "wof:name":"Isaacs Farm",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.491736,
+    38.696301,
+    -75.491736,
+    38.696301
+],
+  "geometry": {"coordinates":[-75.491736,38.696301],"type":"Point"}
+}

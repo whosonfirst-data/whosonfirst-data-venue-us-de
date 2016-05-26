@@ -1,0 +1,71 @@
+{
+  "id": 873468235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55864,39.091797,-75.55864,39.091797",
+    "geom:latitude":39.091797,
+    "geom:longitude":-75.55864,
+    "iso:country":"US",
+    "sg:address":"3036 Upper King Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 2104",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QxJZHffQqfTm2CwY9udlT_39.091797_-75.558640@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221660,
+    "wof:geomhash":"9ae962bb234101c7d9ef850e53f9ec79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873468235
+        }
+    ],
+    "wof:id":873468235,
+    "wof:lastmodified":1464221660,
+    "wof:name":"State Police",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -75.55864,
+    39.091797,
+    -75.55864,
+    39.091797
+],
+  "geometry": {"coordinates":[-75.55864,39.091797],"type":"Point"}
+}

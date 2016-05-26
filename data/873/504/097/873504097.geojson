@@ -1,0 +1,71 @@
+{
+  "id": 873504097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601346,39.717777,-75.601346,39.717777",
+    "geom:latitude":39.717777,
+    "geom:longitude":-75.601346,
+    "iso:country":"US",
+    "sg:address":"1401 E Newport Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 7565",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CmXHX6vtvcFLmnAAqLxd8_39.717777_-75.601346@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223109,
+    "wof:geomhash":"3caeb4df9422bd810bd5748e9f1c51fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873504097
+        }
+    ],
+    "wof:id":873504097,
+    "wof:lastmodified":1464223109,
+    "wof:name":"Casella Contracting Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.601346,
+    39.717777,
+    -75.601346,
+    39.717777
+],
+  "geometry": {"coordinates":[-75.60134600000001,39.717777],"type":"Point"}
+}

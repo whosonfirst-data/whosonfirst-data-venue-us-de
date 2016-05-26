@@ -1,0 +1,73 @@
+{
+  "id": 857687645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.196775,38.762156,-75.196775,38.762156",
+    "geom:latitude":38.762156,
+    "geom:longitude":-75.196775,
+    "iso:country":"US",
+    "sg:address":"25 Greystone Dr",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 6289",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instrument",
+        "marine",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q2X3T4BnHljaWDLkiQbAi_38.762156_-75.196775@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220572,
+    "wof:geomhash":"23bd66b66585878b34dcf458286eb9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857687645
+        }
+    ],
+    "wof:id":857687645,
+    "wof:lastmodified":1464220572,
+    "wof:name":"Navistar Marine Instrument Co",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "marine",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.196775,
+    38.762156,
+    -75.196775,
+    38.762156
+],
+  "geometry": {"coordinates":[-75.196775,38.762156],"type":"Point"}
+}

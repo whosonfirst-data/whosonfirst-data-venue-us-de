@@ -1,0 +1,73 @@
+{
+  "id": 873481663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.430692,38.788841,-75.430692,38.788841",
+    "geom:latitude":38.788841,
+    "geom:longitude":-75.430692,
+    "iso:country":"US",
+    "sg:address":"13870 S Old State Rd",
+    "sg:city":"Ellendale",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8632",
+    "sg:postcode":"19941",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "program"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07ofJdRqi1ioAr5GQzDbKh_38.788841_-75.430692@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222180,
+    "wof:geomhash":"046acbd5e1b133c75488ae448ff828ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873481663
+        }
+    ],
+    "wof:id":873481663,
+    "wof:lastmodified":1464222180,
+    "wof:name":"Solid Waste Collection Station",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "program"
+    ]
+},
+  "bbox": [
+    -75.430692,
+    38.788841,
+    -75.430692,
+    38.788841
+],
+  "geometry": {"coordinates":[-75.43069199999999,38.788841],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873474703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675672,39.6912,-75.675672,39.6912",
+    "geom:latitude":39.6912,
+    "geom:longitude":-75.675672,
+    "iso:country":"US",
+    "sg:address":"89 Omega Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 5500",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZC71kA1Y8V4RaUGeNvDLM_39.691200_-75.675672@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221904,
+    "wof:geomhash":"68b0d3e9cb88dac53b50a84561187582",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873474703
+        }
+    ],
+    "wof:id":873474703,
+    "wof:lastmodified":1464221904,
+    "wof:name":"Papastavros' Associates",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.675672,
+    39.6912,
+    -75.675672,
+    39.6912
+],
+  "geometry": {"coordinates":[-75.67567200000001,39.6912],"type":"Point"}
+}

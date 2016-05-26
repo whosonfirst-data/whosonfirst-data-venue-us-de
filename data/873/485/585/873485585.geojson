@@ -1,0 +1,79 @@
+{
+  "id": 873485585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.497558,38.699062,-75.497558,38.699062",
+    "geom:latitude":38.699062,
+    "geom:longitude":-75.497558,
+    "iso:country":"US",
+    "sg:address":"13257 Seashore Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8110",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "nursery",
+        "produce",
+        "christmas",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0l76Eriztd4EsPM10kT4Hw_38.699062_-75.497558@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222327,
+    "wof:geomhash":"eba1f3aa1c176881af02a06fe67ff0e3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873485585
+        }
+    ],
+    "wof:id":873485585,
+    "wof:lastmodified":1464222327,
+    "wof:name":"Elmer's Market",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "nursery",
+        "produce",
+        "christmas",
+        "market"
+    ]
+},
+  "bbox": [
+    -75.497558,
+    38.699062,
+    -75.497558,
+    38.699062
+],
+  "geometry": {"coordinates":[-75.497558,38.699062],"type":"Point"}
+}

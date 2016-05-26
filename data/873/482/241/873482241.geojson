@@ -1,0 +1,71 @@
+{
+  "id": 873482241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586958,39.724973,-75.586958,39.724973",
+    "geom:latitude":39.724973,
+    "geom:longitude":-75.586958,
+    "iso:country":"US",
+    "sg:address":"37 E Champlain Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 5821",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41TosFZzABQ8OiVD3cj8V2_39.724973_-75.586958@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222202,
+    "wof:geomhash":"bac9828cc301097282c48b98d885aaae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873482241
+        }
+    ],
+    "wof:id":873482241,
+    "wof:lastmodified":1464222202,
+    "wof:name":"Crest Realty",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.586958,
+    39.724973,
+    -75.586958,
+    39.724973
+],
+  "geometry": {"coordinates":[-75.586958,39.724973],"type":"Point"}
+}

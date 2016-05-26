@@ -1,0 +1,75 @@
+{
+  "id": 873521031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.531097,39.1824,-75.531097,39.1824",
+    "geom:latitude":39.1824,
+    "geom:longitude":-75.531097,
+    "iso:country":"US",
+    "sg:address":"652 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 3938",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6x9mgJcOKLEewX4OXuZcqo_39.182400_-75.531097@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223926,
+    "wof:geomhash":"5b8f9a9ed8e26172fc369dfeac0fbb25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873521031
+        }
+    ],
+    "wof:id":873521031,
+    "wof:lastmodified":1464223926,
+    "wof:name":"Lepore's Liquor Mart",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.531097,
+    39.1824,
+    -75.531097,
+    39.1824
+],
+  "geometry": {"coordinates":[-75.531097,39.1824],"type":"Point"}
+}

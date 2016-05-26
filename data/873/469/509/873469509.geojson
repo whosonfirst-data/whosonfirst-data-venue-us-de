@@ -1,0 +1,73 @@
+{
+  "id": 873469509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.511305,39.156983,-75.511305,39.156983",
+    "geom:latitude":39.156983,
+    "geom:longitude":-75.511305,
+    "iso:country":"US",
+    "sg:address":"327 Martin St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8036",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55jdJTczlvHZ7qYdwCC7d0_39.156983_-75.511305@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221705,
+    "wof:geomhash":"48630a55e95d3d20fc969dd3ff43f0c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873469509
+        }
+    ],
+    "wof:id":873469509,
+    "wof:lastmodified":1464221705,
+    "wof:name":"Serenity Place",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -75.511305,
+    39.156983,
+    -75.511305,
+    39.156983
+],
+  "geometry": {"coordinates":[-75.51130499999999,39.156983],"type":"Point"}
+}

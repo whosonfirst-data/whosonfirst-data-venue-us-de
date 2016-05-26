@@ -1,0 +1,71 @@
+{
+  "id": 873476681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.576027,38.451359,-75.576027,38.451359",
+    "geom:latitude":38.451359,
+    "geom:longitude":-75.576027,
+    "iso:country":"US",
+    "sg:address":"504 S 2nd St",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 3276",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bulldozing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nIj7FJEz1UvQJIHQpQV9X_38.451359_-75.576027@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221973,
+    "wof:geomhash":"38fd9e68906206ab4c4b6cf8c9ffc820",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873476681
+        }
+    ],
+    "wof:id":873476681,
+    "wof:lastmodified":1464221973,
+    "wof:name":"D & K Bulldozing Inc",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulldozing"
+    ]
+},
+  "bbox": [
+    -75.576027,
+    38.451359,
+    -75.576027,
+    38.451359
+],
+  "geometry": {"coordinates":[-75.576027,38.451359],"type":"Point"}
+}

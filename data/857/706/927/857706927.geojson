@@ -1,0 +1,71 @@
+{
+  "id": 857706927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.261351,38.65309,-75.261351,38.65309",
+    "geom:latitude":38.65309,
+    "geom:longitude":-75.261351,
+    "iso:country":"US",
+    "sg:address":"27942 Wagner Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 947 1889",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PO0v5PCDeZfnzYbKUswLc_38.653090_-75.261351@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220948,
+    "wof:geomhash":"2ae8309d320c08781450e4b54461ce99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857706927
+        }
+    ],
+    "wof:id":857706927,
+    "wof:lastmodified":1464220948,
+    "wof:name":"Pechart S Siding",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.261351,
+    38.65309,
+    -75.261351,
+    38.65309
+],
+  "geometry": {"coordinates":[-75.261351,38.65309],"type":"Point"}
+}

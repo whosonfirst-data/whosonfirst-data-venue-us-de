@@ -1,0 +1,76 @@
+{
+  "id": 873522795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.530481,39.129529,-75.530481,39.129529",
+    "geom:latitude":39.129529,
+    "geom:longitude":-75.530481,
+    "iso:country":"US",
+    "sg:address":"1537 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1754",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0eZT4zeqIPCkbrEVcgUlUT_39.129529_-75.530481@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223999,
+    "wof:geomhash":"65dde9f7b1dfdb46c667563bacaa1835",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873522795
+        }
+    ],
+    "wof:id":873522795,
+    "wof:lastmodified":1464223999,
+    "wof:name":"Artisans' Bank",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.530481,
+    39.129529,
+    -75.530481,
+    39.129529
+],
+  "geometry": {"coordinates":[-75.53048099999999,39.129529],"type":"Point"}
+}

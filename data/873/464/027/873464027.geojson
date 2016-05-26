@@ -1,0 +1,73 @@
+{
+  "id": 873464027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569288,39.752286,-75.569288,39.752286",
+    "geom:latitude":39.752286,
+    "geom:longitude":-75.569288,
+    "iso:country":"US",
+    "sg:address":"1812 Howland St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 661 0101",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PYy3HFmhB9KjUWYwJ4r0b_39.752286_-75.569288@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221547,
+    "wof:geomhash":"c8f3b91eb3d6ebd00b5a4ec4f7ddd10c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873464027
+        }
+    ],
+    "wof:id":873464027,
+    "wof:lastmodified":1464221547,
+    "wof:name":"St Anthony's Club",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -75.569288,
+    39.752286,
+    -75.569288,
+    39.752286
+],
+  "geometry": {"coordinates":[-75.569288,39.752286],"type":"Point"}
+}

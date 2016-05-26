@@ -1,0 +1,72 @@
+{
+  "id": 857717331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542006,39.714672,-75.542006,39.714672",
+    "geom:latitude":39.714672,
+    "geom:longitude":-75.542006,
+    "iso:country":"US",
+    "sg:address":"58 Pyles Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 5930",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "sg:website":"www.svctransport.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2R5OC0S4k85UWvokI5JUJN_39.714672_-75.542006@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221190,
+    "wof:geomhash":"99b8858051413ee6ac872f86c66bbbc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857717331
+        }
+    ],
+    "wof:id":857717331,
+    "wof:lastmodified":1464221190,
+    "wof:name":"Service Transport Group Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -75.542006,
+    39.714672,
+    -75.542006,
+    39.714672
+],
+  "geometry": {"coordinates":[-75.542006,39.714672],"type":"Point"}
+}

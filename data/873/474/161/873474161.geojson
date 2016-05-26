@@ -1,0 +1,73 @@
+{
+  "id": 873474161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.620511,38.647521,-75.620511,38.647521",
+    "geom:latitude":38.647521,
+    "geom:longitude":-75.620511,
+    "iso:country":"US",
+    "sg:address":"135 Tulip Pl",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 7086",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2DcYR2hlaMhvKQwIhnv2nZ_38.647521_-75.620511@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221886,
+    "wof:geomhash":"c583d85d63be802b86a171ae32b73ad7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873474161
+        }
+    ],
+    "wof:id":873474161,
+    "wof:lastmodified":1464221886,
+    "wof:name":"Sharkeys Video Inc",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.620511,
+    38.647521,
+    -75.620511,
+    38.647521
+],
+  "geometry": {"coordinates":[-75.62051099999999,38.647521],"type":"Point"}
+}

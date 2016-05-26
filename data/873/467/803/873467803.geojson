@@ -1,0 +1,73 @@
+{
+  "id": 873467803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.430259,38.900142,-75.430259,38.900142",
+    "geom:latitude":38.900142,
+    "geom:longitude":-75.430259,
+    "iso:country":"US",
+    "sg:address":"204 S Walnut St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 9768",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Bns9P7GXuSt61dgNXK0MV_38.900142_-75.430259@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221645,
+    "wof:geomhash":"da001e0821aa5a61dabe55f77507793b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873467803
+        }
+    ],
+    "wof:id":873467803,
+    "wof:lastmodified":1464221645,
+    "wof:name":"Luis L David Inc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.430259,
+    38.900142,
+    -75.430259,
+    38.900142
+],
+  "geometry": {"coordinates":[-75.43025900000001,38.900142],"type":"Point"}
+}

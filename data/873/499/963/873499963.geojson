@@ -1,0 +1,75 @@
+{
+  "id": 873499963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.562873,39.754983,-75.562873,39.754983",
+    "geom:latitude":39.754983,
+    "geom:longitude":-75.562873,
+    "iso:country":"US",
+    "sg:address":"1502 W 13th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5214",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "presbyterian",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kdkrfMX7D9dIhQhfWag5U_39.754983_-75.562873@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222936,
+    "wof:geomhash":"f3ceb1f674fc7a805c1987bae2cb3086",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873499963
+        }
+    ],
+    "wof:id":873499963,
+    "wof:lastmodified":1464222936,
+    "wof:name":"Westminster Presbt Church",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "presbyterian",
+        "church"
+    ]
+},
+  "bbox": [
+    -75.562873,
+    39.754983,
+    -75.562873,
+    39.754983
+],
+  "geometry": {"coordinates":[-75.562873,39.754983],"type":"Point"}
+}

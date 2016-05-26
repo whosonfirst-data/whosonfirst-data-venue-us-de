@@ -1,0 +1,69 @@
+{
+  "id": 873501377,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746109,39.602934,-75.746109,39.602934",
+    "geom:latitude":39.602934,
+    "geom:longitude":-75.746109,
+    "iso:country":"US",
+    "sg:address":"560 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 222 4445",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5E7CaYyh3ThfO6eEiAU3X7_39.602934_-75.746109@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223004,
+    "wof:geomhash":"833b6553b0a419a9e1c5f6ed9ad5956e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873501377
+        }
+    ],
+    "wof:id":873501377,
+    "wof:lastmodified":1464223004,
+    "wof:name":"AAA Auto Warrantycom",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contract"
+    ]
+},
+  "bbox": [
+    -75.746109,
+    39.602934,
+    -75.746109,
+    39.602934
+],
+  "geometry": {"coordinates":[-75.746109,39.602934],"type":"Point"}
+}

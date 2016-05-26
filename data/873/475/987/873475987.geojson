@@ -1,0 +1,71 @@
+{
+  "id": 873475987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.131563,38.729734,-75.131563,38.729734",
+    "geom:latitude":38.729734,
+    "geom:longitude":-75.131563,
+    "iso:country":"US",
+    "sg:address":"1540 State Hwy 1",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 3950",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "construct"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64SXf4lx42eb7QfTN3LAmL_38.729734_-75.131563@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221948,
+    "wof:geomhash":"eaf4ed9d055b3f051ec84e27131301aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873475987
+        }
+    ],
+    "wof:id":873475987,
+    "wof:lastmodified":1464221948,
+    "wof:name":"Century 21",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "construct"
+    ]
+},
+  "bbox": [
+    -75.131563,
+    38.729734,
+    -75.131563,
+    38.729734
+],
+  "geometry": {"coordinates":[-75.131563,38.729734],"type":"Point"}
+}

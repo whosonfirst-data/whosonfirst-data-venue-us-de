@@ -1,0 +1,69 @@
+{
+  "id": 873491585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.116861,38.630262,-75.116861,38.630262",
+    "geom:latitude":38.630262,
+    "geom:longitude":-75.116861,
+    "iso:country":"US",
+    "sg:address":"162 Holly Berry Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 947 2356",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LJdyOno3jYRdY39VDyvbi_38.630262_-75.116861@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222552,
+    "wof:geomhash":"4df3d3d3de03b0fc512bab8133a381eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873491585
+        }
+    ],
+    "wof:id":873491585,
+    "wof:lastmodified":1464222552,
+    "wof:name":"Coastal Roofing & Siding",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.116861,
+    38.630262,
+    -75.116861,
+    38.630262
+],
+  "geometry": {"coordinates":[-75.116861,38.630262],"type":"Point"}
+}

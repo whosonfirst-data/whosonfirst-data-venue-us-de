@@ -1,0 +1,71 @@
+{
+  "id": 857688997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.71033,39.695979,-75.71033,39.695979",
+    "geom:latitude":39.695979,
+    "geom:longitude":-75.71033,
+    "iso:country":"US",
+    "sg:address":"2 Andries Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 1255",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4k3w8cI25KcEgm0LnMW8d0_39.695979_-75.710330@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220599,
+    "wof:geomhash":"7905fe367ecae1459567700606db76a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857688997
+        }
+    ],
+    "wof:id":857688997,
+    "wof:lastmodified":1464220599,
+    "wof:name":"United Pro Systems Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "business"
+    ]
+},
+  "bbox": [
+    -75.71033,
+    39.695979,
+    -75.71033,
+    39.695979
+],
+  "geometry": {"coordinates":[-75.71033,39.695979],"type":"Point"}
+}

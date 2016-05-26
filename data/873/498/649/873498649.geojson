@@ -1,0 +1,71 @@
+{
+  "id": 873498649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.590845,39.757038,-75.590845,39.757038",
+    "geom:latitude":39.757038,
+    "geom:longitude":-75.590845,
+    "iso:country":"US",
+    "sg:address":"11 Vining Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Lumber",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 8471",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "logging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XYAgVvBpjepjLhmLu7O0O_39.757038_-75.590845@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222887,
+    "wof:geomhash":"06b837fdd0160da7ca584c7b8d4b97b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873498649
+        }
+    ],
+    "wof:id":873498649,
+    "wof:lastmodified":1464222887,
+    "wof:name":"American Timber Brokerage",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "logging"
+    ]
+},
+  "bbox": [
+    -75.590845,
+    39.757038,
+    -75.590845,
+    39.757038
+],
+  "geometry": {"coordinates":[-75.590845,39.757038],"type":"Point"}
+}

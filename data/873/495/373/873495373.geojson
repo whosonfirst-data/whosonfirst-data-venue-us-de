@@ -1,0 +1,71 @@
+{
+  "id": 873495373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60423,39.758694,-75.60423,39.758694",
+    "geom:latitude":39.758694,
+    "geom:longitude":-75.60423,
+    "iso:country":"US",
+    "sg:address":"4417 Lancaster Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 774 1000",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wQNdjG8oZPi3LI7sZaKQe_39.758694_-75.604230@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222744,
+    "wof:geomhash":"3d7cec46b93e9cc10f38332ab574fe20",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873495373
+        }
+    ],
+    "wof:id":873495373,
+    "wof:lastmodified":1464222744,
+    "wof:name":"Dupont",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.60423,
+    39.758694,
+    -75.60423,
+    39.758694
+],
+  "geometry": {"coordinates":[-75.60423,39.758694],"type":"Point"}
+}

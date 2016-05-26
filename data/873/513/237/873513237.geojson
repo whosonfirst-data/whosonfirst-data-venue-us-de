@@ -1,0 +1,72 @@
+{
+  "id": 873513237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682546,39.67557,-75.682546,39.67557",
+    "geom:latitude":39.67557,
+    "geom:longitude":-75.682546,
+    "iso:country":"US",
+    "sg:address":"80 Mcintosh Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/11213-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 4671",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jG2SEhu9XpFuprHGJMWsZ_39.675570_-75.682546@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223522,
+    "wof:geomhash":"2816fa4c17874ef563ca682148d000ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513237
+        }
+    ],
+    "wof:id":873513237,
+    "wof:lastmodified":1464223522,
+    "wof:name":"Denny's",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -75.682546,
+    39.67557,
+    -75.682546,
+    39.67557
+],
+  "geometry": {"coordinates":[-75.682546,39.67557],"type":"Point"}
+}

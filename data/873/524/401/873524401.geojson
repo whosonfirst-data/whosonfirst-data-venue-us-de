@@ -1,0 +1,78 @@
+{
+  "id": 873524401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.482921,38.610446,-75.482921,38.610446",
+    "geom:latitude":38.610446,
+    "geom:longitude":-75.482921,
+    "iso:country":"US",
+    "sg:address":"27431 Beaver Dam Branch Rd",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 875 5444",
+    "sg:postcode":"19956",
+    "sg:province":"DE",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uBCq7RSPpYwSspIzAfqPc_38.610446_-75.482921@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224057,
+    "wof:geomhash":"9080694c9f6b83e1cdddf9690a6456d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873524401
+        }
+    ],
+    "wof:id":873524401,
+    "wof:lastmodified":1464224057,
+    "wof:name":"Roland Whaley",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [
+    -75.482921,
+    38.610446,
+    -75.482921,
+    38.610446
+],
+  "geometry": {"coordinates":[-75.482921,38.610446],"type":"Point"}
+}

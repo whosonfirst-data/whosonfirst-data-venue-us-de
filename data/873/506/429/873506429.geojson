@@ -1,0 +1,71 @@
+{
+  "id": 873506429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.161014,38.737189,-75.161014,38.737189",
+    "geom:latitude":38.737189,
+    "geom:longitude":-75.161014,
+    "iso:country":"US",
+    "sg:address":"344 Lakeside Dr",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2727",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DH7sKZNteUJwgPJAfKVcQ_38.737189_-75.161014@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223213,
+    "wof:geomhash":"0f07a294b08bc146f57bf14f307bd3e8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873506429
+        }
+    ],
+    "wof:id":873506429,
+    "wof:lastmodified":1464223213,
+    "wof:name":"Country Life Homes",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.161014,
+    38.737189,
+    -75.161014,
+    38.737189
+],
+  "geometry": {"coordinates":[-75.16101399999999,38.737189],"type":"Point"}
+}

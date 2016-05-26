@@ -1,0 +1,77 @@
+{
+  "id": 873522015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553869,39.176208,-75.553869,39.176208",
+    "geom:latitude":39.176208,
+    "geom:longitude":-75.553869,
+    "iso:country":"US",
+    "sg:address":"1005 College Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 1525",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85852037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33A12xTrwiEvdeLITdk2hW_39.176208_-75.553869@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223963,
+    "wof:geomhash":"afdf87018ddfe94b8e82bff0b5e8e551",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85852037,
+            "region_id":85688611,
+            "venue_id":873522015
+        }
+    ],
+    "wof:id":873522015,
+    "wof:lastmodified":1464223963,
+    "wof:name":"McKee Crossing Liquors",
+    "wof:parent_id":85852037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.553869,
+    39.176208,
+    -75.553869,
+    39.176208
+],
+  "geometry": {"coordinates":[-75.55386900000001,39.176208],"type":"Point"}
+}

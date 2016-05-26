@@ -1,0 +1,68 @@
+{
+  "id": 873482551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557425,39.75335,-75.557425,39.75335",
+    "geom:latitude":39.75335,
+    "geom:longitude":-75.557425,
+    "iso:country":"US",
+    "sg:address":"1201 N Harrison St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 3150",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24Vty4BquQmn0bqzz5ynH0_39.753350_-75.557425@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222214,
+    "wof:geomhash":"125c4a8d06c300a76300ecc14a7d1992",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888517,
+            "region_id":85688611,
+            "venue_id":873482551
+        }
+    ],
+    "wof:id":873482551,
+    "wof:lastmodified":1464222214,
+    "wof:name":"Towers Beauty Salon",
+    "wof:parent_id":85888517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.557425,
+    39.75335,
+    -75.557425,
+    39.75335
+],
+  "geometry": {"coordinates":[-75.55742499999999,39.75335],"type":"Point"}
+}

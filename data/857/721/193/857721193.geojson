@@ -1,0 +1,76 @@
+{
+  "id": 857721193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.742055,39.649301,-75.742055,39.649301",
+    "geom:latitude":39.649301,
+    "geom:longitude":-75.742055,
+    "iso:country":"US",
+    "sg:address":"361 Bellevue Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 283 2100",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "sg:website":"www.rodel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fYdl4sC88tWvaBxMkbCYc_39.649301_-75.742055@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221274,
+    "wof:geomhash":"d854ec3956a3cc3b9eb47df619b9afed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857721193
+        }
+    ],
+    "wof:id":857721193,
+    "wof:lastmodified":1464221274,
+    "wof:name":"Rohm & Haas Electronic",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.742055,
+    39.649301,
+    -75.742055,
+    39.649301
+],
+  "geometry": {"coordinates":[-75.74205499999999,39.649301],"type":"Point"}
+}

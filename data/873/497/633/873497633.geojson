@@ -1,0 +1,73 @@
+{
+  "id": 873497633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.431839,38.906933,-75.431839,38.906933",
+    "geom:latitude":38.906933,
+    "geom:longitude":-75.431839,
+    "iso:country":"US",
+    "sg:address":"3 Sussex Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 9694",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LJYbNbndAjbM3eyuFWJDE_38.906933_-75.431839@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222846,
+    "wof:geomhash":"5642a289b08bec4790e59d5620a93871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873497633
+        }
+    ],
+    "wof:id":873497633,
+    "wof:lastmodified":1464222846,
+    "wof:name":"Thomas E Dyer MD",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.431839,
+    38.906933,
+    -75.431839,
+    38.906933
+],
+  "geometry": {"coordinates":[-75.431839,38.906933],"type":"Point"}
+}

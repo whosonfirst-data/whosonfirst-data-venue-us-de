@@ -1,0 +1,80 @@
+{
+  "id": 873515023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.697372,39.788078,-75.697372,39.788078",
+    "geom:latitude":39.788078,
+    "geom:longitude":-75.697372,
+    "iso:country":"US",
+    "sg:address":"1250 Old Lancaster Pike",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 489 2501",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6L08P7AMWpo4GOnErqEmop_39.788078_-75.697372@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223621,
+    "wof:geomhash":"dc206087002ea34aa4a3884fd30f8883",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873515023
+        }
+    ],
+    "wof:id":873515023,
+    "wof:lastmodified":1464223621,
+    "wof:name":"Grassroots Handcraft",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.697372,
+    39.788078,
+    -75.697372,
+    39.788078
+],
+  "geometry": {"coordinates":[-75.697372,39.788078],"type":"Point"}
+}

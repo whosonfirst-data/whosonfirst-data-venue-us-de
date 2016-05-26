@@ -1,0 +1,73 @@
+{
+  "id": 873509565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662875,39.694375,-75.662875,39.694375",
+    "geom:latitude":39.694375,
+    "geom:longitude":-75.662875,
+    "iso:country":"US",
+    "sg:address":"1090 Old Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 2710",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ambulatory",
+        "surgery",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WE6KiVcj3RgwcLnQJUpHP_39.694375_-75.662875@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223360,
+    "wof:geomhash":"cff02cef29b32cef552853a278dc94a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873509565
+        }
+    ],
+    "wof:id":873509565,
+    "wof:lastmodified":1464223360,
+    "wof:name":"Endoscopy Center of Delaware",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulatory",
+        "surgery",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.662875,
+    39.694375,
+    -75.662875,
+    39.694375
+],
+  "geometry": {"coordinates":[-75.662875,39.694375],"type":"Point"}
+}

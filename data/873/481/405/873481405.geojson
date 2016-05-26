@@ -1,0 +1,71 @@
+{
+  "id": 873481405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.135044,38.730651,-75.135044,38.730651",
+    "geom:latitude":38.730651,
+    "geom:longitude":-75.135044,
+    "iso:country":"US",
+    "sg:address":"18791 John J Williams Hwy",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2300",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5REVGxfdJWkVoWe1pJvUxb_38.730651_-75.135044@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222170,
+    "wof:geomhash":"eb9fd55550943965835273bb4874004e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873481405
+        }
+    ],
+    "wof:id":873481405,
+    "wof:lastmodified":1464222170,
+    "wof:name":"Delaware Eye Institute",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.135044,
+    38.730651,
+    -75.135044,
+    38.730651
+],
+  "geometry": {"coordinates":[-75.13504399999999,38.730651],"type":"Point"}
+}

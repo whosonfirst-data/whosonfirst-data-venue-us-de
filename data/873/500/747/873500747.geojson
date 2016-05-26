@@ -1,0 +1,71 @@
+{
+  "id": 873500747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.431183,38.910168,-75.431183,38.910168",
+    "geom:latitude":38.910168,
+    "geom:longitude":-75.431183,
+    "iso:country":"US",
+    "sg:address":"101 S Maple Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 4888",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g0GNiwmtQT0MuuLxI0UIq_38.910168_-75.431183@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222971,
+    "wof:geomhash":"7d43d465a3dd78a2223f7e0ace249ff9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873500747
+        }
+    ],
+    "wof:id":873500747,
+    "wof:lastmodified":1464222971,
+    "wof:name":"West Side Restaurant",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.431183,
+    38.910168,
+    -75.431183,
+    38.910168
+],
+  "geometry": {"coordinates":[-75.431183,38.910168],"type":"Point"}
+}

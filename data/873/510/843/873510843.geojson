@@ -1,0 +1,71 @@
+{
+  "id": 873510843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.575341,38.928315,-75.575341,38.928315",
+    "geom:latitude":38.928315,
+    "geom:longitude":-75.575341,
+    "iso:country":"US",
+    "sg:address":"105 E Center St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8101",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xXVboz9K5r91idrtiNZ0Z_38.928315_-75.575341@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223413,
+    "wof:geomhash":"d0bdf5a84c13ed60b821ed75c1dc53c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873510843
+        }
+    ],
+    "wof:id":873510843,
+    "wof:lastmodified":1464223413,
+    "wof:name":"Joseph T Richardson Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.575341,
+    38.928315,
+    -75.575341,
+    38.928315
+],
+  "geometry": {"coordinates":[-75.57534099999999,38.928315],"type":"Point"}
+}

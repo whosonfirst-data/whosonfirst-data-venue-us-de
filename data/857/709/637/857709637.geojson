@@ -1,0 +1,85 @@
+{
+  "id": 857709637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.590359,39.217515,-75.590359,39.217515",
+    "geom:latitude":39.217515,
+    "geom:longitude":-75.590359,
+    "iso:country":"US",
+    "sg:address":"4117 Seven Hickories Rd",
+    "sg:city":"Cheswold",
+    "sg:classifiers":[
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4242",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "aircraft",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931477,
+        102083871,
+        85825779,
+        85931481,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LSpxays9DPpPCE2lC0QwF_39.217515_-75.590359@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221021,
+    "wof:geomhash":"833d8940686a19ffcc0a2d7d87ca9ce0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931477,
+            "neighbourhood_id":85825779,
+            "region_id":85688611,
+            "venue_id":857709637
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857709637
+        }
+    ],
+    "wof:id":857709637,
+    "wof:lastmodified":1464221021,
+    "wof:name":"Towery Aircraft Svc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "aircraft",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.590359,
+    39.217515,
+    -75.590359,
+    39.217515
+],
+  "geometry": {"coordinates":[-75.59035900000001,39.217515],"type":"Point"}
+}

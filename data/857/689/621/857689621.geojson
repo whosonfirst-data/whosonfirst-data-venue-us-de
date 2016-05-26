@@ -1,0 +1,71 @@
+{
+  "id": 857689621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675723,39.69089,-75.675723,39.69089",
+    "geom:latitude":39.69089,
+    "geom:longitude":-75.675723,
+    "iso:country":"US",
+    "sg:address":"6 Omega Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 425 4342",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7FVvMBMENH5NCRDVo6ZGhT_39.690890_-75.675723@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220610,
+    "wof:geomhash":"38428de4140f5a5727c60dc5b03c31a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857689621
+        }
+    ],
+    "wof:id":857689621,
+    "wof:lastmodified":1464220610,
+    "wof:name":"Mithilesh Singh MD",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.675723,
+    39.69089,
+    -75.675723,
+    39.69089
+],
+  "geometry": {"coordinates":[-75.675723,39.69089],"type":"Point"}
+}

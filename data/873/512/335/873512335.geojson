@@ -1,0 +1,78 @@
+{
+  "id": 873512335,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567636,39.750899,-75.567636,39.750899",
+    "geom:latitude":39.750899,
+    "geom:longitude":-75.567636,
+    "iso:country":"US",
+    "sg:address":"1723 W 8th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 0496",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "services-commercial",
+        "letterpress",
+        "offset"
+    ],
+    "sg:website":"http://www.unionpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5iAtj748Hh9g8KckTSCRbf_39.751010_-75.567735@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223487,
+    "wof:geomhash":"f79701655dd3a4751ecbac1e87154c80",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873512335
+        }
+    ],
+    "wof:id":873512335,
+    "wof:lastmodified":1464223487,
+    "wof:name":"Union Press",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "services-commercial",
+        "letterpress",
+        "offset"
+    ]
+},
+  "bbox": [
+    -75.567636,
+    39.750899,
+    -75.567636,
+    39.750899
+],
+  "geometry": {"coordinates":[-75.56763599999999,39.750899],"type":"Point"}
+}

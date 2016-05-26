@@ -1,0 +1,73 @@
+{
+  "id": 857700601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568922,39.755088,-75.568922,39.755088",
+    "geom:latitude":39.755088,
+    "geom:longitude":-75.568922,
+    "iso:country":"US",
+    "sg:address":"1020 N Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 9855",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NW3R3beL1eLpDhlFIl23C_39.755088_-75.568922@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220827,
+    "wof:geomhash":"50f2a975ecbb8f371e6c55582e67954b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857700601
+        }
+    ],
+    "wof:id":857700601,
+    "wof:lastmodified":1464220827,
+    "wof:name":"Wilmington Mri Center",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.568922,
+    39.755088,
+    -75.568922,
+    39.755088
+],
+  "geometry": {"coordinates":[-75.568922,39.755088],"type":"Point"}
+}

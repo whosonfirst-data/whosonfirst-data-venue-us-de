@@ -1,0 +1,78 @@
+{
+  "id": 873510747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549,39.738707,-75.549,39.738707",
+    "geom:latitude":39.738707,
+    "geom:longitude":-75.549,
+    "iso:country":"US",
+    "sg:address":"226 N Walnut St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 254 3553",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YaXGGRcouv0nDV9zrO15i_39.738707_-75.549000@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223410,
+    "wof:geomhash":"16fa736b1b155fb253f2515b573951d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873510747
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873510747
+        }
+    ],
+    "wof:id":873510747,
+    "wof:lastmodified":1464223410,
+    "wof:name":"Faith Center Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.549,
+    39.738707,
+    -75.549,
+    39.738707
+],
+  "geometry": {"coordinates":[-75.54900000000001,39.738707],"type":"Point"}
+}

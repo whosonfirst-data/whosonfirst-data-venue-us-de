@@ -1,0 +1,73 @@
+{
+  "id": 873520277,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505159,39.801245,-75.505159,39.801245",
+    "geom:latitude":39.801245,
+    "geom:longitude":-75.505159,
+    "iso:country":"US",
+    "sg:address":"1725 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1466",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "seafood",
+        "steak"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NRUch3FTArTNQmkRu8Gzo_39.801245_-75.505159@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223893,
+    "wof:geomhash":"f49533ccaf228c0bb4ac3742c7add9c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873520277
+        }
+    ],
+    "wof:id":873520277,
+    "wof:lastmodified":1464223893,
+    "wof:name":"Stanley's Restaurant & Tavern",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "seafood",
+        "steak"
+    ]
+},
+  "bbox": [
+    -75.505159,
+    39.801245,
+    -75.505159,
+    39.801245
+],
+  "geometry": {"coordinates":[-75.50515900000001,39.801245],"type":"Point"}
+}

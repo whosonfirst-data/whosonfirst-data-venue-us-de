@@ -1,0 +1,74 @@
+{
+  "id": 873504685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.301441,38.588835,-75.301441,38.588835",
+    "geom:latitude":38.588835,
+    "geom:longitude":-75.301441,
+    "iso:country":"US",
+    "sg:address":"338 W Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 8100",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.fordmillsboro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JS0xUVgxDwF7CWoAi1dnA_38.588835_-75.301441@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223138,
+    "wof:geomhash":"11ee534eb217c30d0557fcb25316cdc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873504685
+        }
+    ],
+    "wof:id":873504685,
+    "wof:lastmodified":1464223138,
+    "wof:name":"Millsboro Ford",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.301441,
+    38.588835,
+    -75.301441,
+    38.588835
+],
+  "geometry": {"coordinates":[-75.301441,38.588835],"type":"Point"}
+}

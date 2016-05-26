@@ -1,0 +1,73 @@
+{
+  "id": 857698109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595268,39.775269,-75.595268,39.775269",
+    "geom:latitude":39.775269,
+    "geom:longitude":-75.595268,
+    "iso:country":"US",
+    "sg:address":"3844 Kennett Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 575 0100",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931745,
+        102083891,
+        85823113
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63oq4DSNXYwHb6zoXN4yYj_39.775269_-75.595268@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220775,
+    "wof:geomhash":"91ca6d94eda7cc4eb102a6154776828a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931745,
+            "neighbourhood_id":85823113,
+            "region_id":85688611,
+            "venue_id":857698109
+        }
+    ],
+    "wof:id":857698109,
+    "wof:lastmodified":1464220775,
+    "wof:name":"Your Dentistry Today",
+    "wof:parent_id":85823113,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.595268,
+    39.775269,
+    -75.595268,
+    39.775269
+],
+  "geometry": {"coordinates":[-75.595268,39.775269],"type":"Point"}
+}

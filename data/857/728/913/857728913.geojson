@@ -1,0 +1,71 @@
+{
+  "id": 857728913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601282,38.739606,-75.601282,38.739606",
+    "geom:latitude":38.739606,
+    "geom:longitude":-75.601282,
+    "iso:country":"US",
+    "sg:address":"307 S Laws St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8289",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "high"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0SP0zHc6txnFFtiIhDiwt2_38.739606_-75.601282@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221413,
+    "wof:geomhash":"4d2927c0a8993b517513ae4694dc71d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857728913
+        }
+    ],
+    "wof:id":857728913,
+    "wof:lastmodified":1464221413,
+    "wof:name":"Woodbridge High School",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -75.601282,
+    38.739606,
+    -75.601282,
+    38.739606
+],
+  "geometry": {"coordinates":[-75.601282,38.739606],"type":"Point"}
+}

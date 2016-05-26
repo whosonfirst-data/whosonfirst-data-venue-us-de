@@ -1,0 +1,91 @@
+{
+  "id": 873518195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.593932,39.712266,-75.593932,39.712266",
+    "geom:latitude":39.712266,
+    "geom:longitude":-75.593932,
+    "iso:country":"US",
+    "sg:address":"310 Falco Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Locksmith",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 353 4393",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lock",
+        "brake",
+        "towing",
+        "tire"
+    ],
+    "sg:website":"http://www.absolutetowingllc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SZAWmySXLFk0p5Za6UQx1_39.712266_-75.593932@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223802,
+    "wof:geomhash":"438d6f9e37e614d4bcdee2c3ce65188b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873518195
+        }
+    ],
+    "wof:id":873518195,
+    "wof:lastmodified":1464223802,
+    "wof:name":"Absolute Towing LLC",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lock",
+        "brake",
+        "towing",
+        "tire"
+    ]
+},
+  "bbox": [
+    -75.593932,
+    39.712266,
+    -75.593932,
+    39.712266
+],
+  "geometry": {"coordinates":[-75.593932,39.712266],"type":"Point"}
+}

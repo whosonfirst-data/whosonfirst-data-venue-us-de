@@ -1,0 +1,76 @@
+{
+  "id": 857710933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.508346,39.155579,-75.508346,39.155579",
+    "geom:latitude":39.155579,
+    "geom:longitude":-75.508346,
+    "iso:country":"US",
+    "sg:address":"600 S Bay Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 3768",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.enterprise.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6akJ8N8uOMdPpriAwQhn7b_39.155579_-75.508346@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221050,
+    "wof:geomhash":"97408203b53c5e1637ee43ce90cb528f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":857710933
+        }
+    ],
+    "wof:id":857710933,
+    "wof:lastmodified":1464221050,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.508346,
+    39.155579,
+    -75.508346,
+    39.155579
+],
+  "geometry": {"coordinates":[-75.508346,39.155579],"type":"Point"}
+}

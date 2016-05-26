@@ -1,0 +1,69 @@
+{
+  "id": 873511225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.740252,39.684087,-75.740252,39.684087",
+    "geom:latitude":39.684087,
+    "geom:longitude":-75.740252,
+    "iso:country":"US",
+    "sg:address":"334 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 1254",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0giivcPIaSjaaiM6zLyH7G_39.684169_-75.739875@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223430,
+    "wof:geomhash":"fd2208b9011e4e1b7b7da2a2bb3ef60a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873511225
+        }
+    ],
+    "wof:id":873511225,
+    "wof:lastmodified":1464223430,
+    "wof:name":"Colonial Garden Apartments",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.740252,
+    39.684087,
+    -75.740252,
+    39.684087
+],
+  "geometry": {"coordinates":[-75.740252,39.684087],"type":"Point"}
+}

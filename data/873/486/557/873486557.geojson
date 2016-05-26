@@ -1,0 +1,75 @@
+{
+  "id": 873486557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.495548,39.756597,-75.495548,39.756597",
+    "geom:latitude":39.756597,
+    "geom:longitude":-75.495548,
+    "iso:country":"US",
+    "sg:address":"1405 Haines Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 6251",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85828879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66J0vbSKmPY5rBf4QnhZSy_39.756597_-75.495548@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222361,
+    "wof:geomhash":"d8fc22c88bc9f2103e81aeb053bff8f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85828879,
+            "region_id":85688611,
+            "venue_id":873486557
+        }
+    ],
+    "wof:id":873486557,
+    "wof:lastmodified":1464222361,
+    "wof:name":"Sam's Construction",
+    "wof:parent_id":85828879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.495548,
+    39.756597,
+    -75.495548,
+    39.756597
+],
+  "geometry": {"coordinates":[-75.495548,39.756597],"type":"Point"}
+}

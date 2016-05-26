@@ -1,0 +1,68 @@
+{
+  "id": 873523393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552923,39.156143,-75.552923,39.156143",
+    "geom:latitude":39.156143,
+    "geom:longitude":-75.552923,
+    "iso:country":"US",
+    "sg:address":"1300 S Farmview Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 610 272 8100",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mSJfrMOLRLYxDYG11AsMB_39.156143_-75.552923@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224019,
+    "wof:geomhash":"4ef090b455781fe29b62d6128c2b8f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873523393
+        }
+    ],
+    "wof:id":873523393,
+    "wof:lastmodified":1464224019,
+    "wof:name":"Steve's Auto Care Center",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.552923,
+    39.156143,
+    -75.552923,
+    39.156143
+],
+  "geometry": {"coordinates":[-75.55292300000001,39.156143],"type":"Point"}
+}

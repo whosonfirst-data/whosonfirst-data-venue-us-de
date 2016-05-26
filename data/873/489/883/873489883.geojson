@@ -1,0 +1,71 @@
+{
+  "id": 873489883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.179389,38.735871,-75.179389,38.735871",
+    "geom:latitude":38.735871,
+    "geom:longitude":-75.179389,
+    "iso:country":"US",
+    "sg:address":"125 Harbinger Dr",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 3800",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53mFY3merdigbDyTWNfQMx_38.735871_-75.179389@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222489,
+    "wof:geomhash":"ed37e1d7270d0ae6edc7f147b6c5ec67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873489883
+        }
+    ],
+    "wof:id":873489883,
+    "wof:lastmodified":1464222489,
+    "wof:name":"A To Z Builders & Contr Inc",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.179389,
+    38.735871,
+    -75.179389,
+    38.735871
+],
+  "geometry": {"coordinates":[-75.179389,38.735871],"type":"Point"}
+}

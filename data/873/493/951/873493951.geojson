@@ -1,0 +1,71 @@
+{
+  "id": 873493951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.680891,39.67436,-75.680891,39.67436",
+    "geom:latitude":39.67436,
+    "geom:longitude":-75.680891,
+    "iso:country":"US",
+    "sg:address":"102 S Gerald Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 753 4598",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DMAt7fV6M0ZnOCChvYCnE_39.674360_-75.680891@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222649,
+    "wof:geomhash":"122b641059bb2c49d3901ebe6cc0465f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873493951
+        }
+    ],
+    "wof:id":873493951,
+    "wof:lastmodified":1464222649,
+    "wof:name":"Lester Lawn & Tree Co",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.680891,
+    39.67436,
+    -75.680891,
+    39.67436
+],
+  "geometry": {"coordinates":[-75.680891,39.67436],"type":"Point"}
+}

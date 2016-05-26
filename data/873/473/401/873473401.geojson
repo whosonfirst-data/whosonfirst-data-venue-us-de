@@ -1,0 +1,69 @@
+{
+  "id": 873473401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589572,39.747794,-75.589572,39.747794",
+    "geom:latitude":39.747794,
+    "geom:longitude":-75.589572,
+    "iso:country":"US",
+    "sg:address":"210 S Dupont Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 9080",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3NEpXg8WfY92fjPZ60rzQX_39.747794_-75.589572@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221860,
+    "wof:geomhash":"abacc32d093d3d57923c7fe9d7b1e5c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873473401
+        }
+    ],
+    "wof:id":873473401,
+    "wof:lastmodified":1464221860,
+    "wof:name":"Abbey Vending",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -75.589572,
+    39.747794,
+    -75.589572,
+    39.747794
+],
+  "geometry": {"coordinates":[-75.589572,39.747794],"type":"Point"}
+}

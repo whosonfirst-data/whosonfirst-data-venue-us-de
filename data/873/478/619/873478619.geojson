@@ -1,0 +1,69 @@
+{
+  "id": 873478619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.66452,39.63821,-75.66452,39.63821",
+    "geom:latitude":39.63821,
+    "geom:longitude":-75.66452,
+    "iso:country":"US",
+    "sg:address":"130 Songsmith Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 9601",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4gykXuLUyBqNQS1ZQ8qMrd_39.638210_-75.664520@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222046,
+    "wof:geomhash":"fa6ae4632e505451b33333944b488813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873478619
+        }
+    ],
+    "wof:id":873478619,
+    "wof:lastmodified":1464222046,
+    "wof:name":"M C's Barber Salon",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.66452,
+    39.63821,
+    -75.66452,
+    39.63821
+],
+  "geometry": {"coordinates":[-75.66452,39.63821],"type":"Point"}
+}

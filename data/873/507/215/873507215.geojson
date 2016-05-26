@@ -1,0 +1,73 @@
+{
+  "id": 873507215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539978,39.741859,-75.539978,39.741859",
+    "geom:latitude":39.741859,
+    "geom:longitude":-75.539978,
+    "iso:country":"US",
+    "sg:address":"942 Bennett St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 0201",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hQdnnYoi5adL05qS9cu3v_39.741859_-75.539978@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223246,
+    "wof:geomhash":"21a243fbbe55a0a585773200abf24ca7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873507215
+        }
+    ],
+    "wof:id":873507215,
+    "wof:lastmodified":1464223246,
+    "wof:name":"Matthew's Variety Store",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.539978,
+    39.741859,
+    -75.539978,
+    39.741859
+],
+  "geometry": {"coordinates":[-75.539978,39.741859],"type":"Point"}
+}

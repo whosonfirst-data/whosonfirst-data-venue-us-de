@@ -1,0 +1,69 @@
+{
+  "id": 873505059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626803,39.732745,-75.626803,39.732745",
+    "geom:latitude":39.732745,
+    "geom:longitude":-75.626803,
+    "iso:country":"US",
+    "sg:address":"3313 Elizabeth Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1454",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DgP1ZGnde0N6ZUjqeyICd_39.732745_-75.626803@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223159,
+    "wof:geomhash":"d6cb6be6a1403aab58604b9201c878b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873505059
+        }
+    ],
+    "wof:id":873505059,
+    "wof:lastmodified":1464223159,
+    "wof:name":"A J Dauphin & Son Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.626803,
+    39.732745,
+    -75.626803,
+    39.732745
+],
+  "geometry": {"coordinates":[-75.626803,39.732745],"type":"Point"}
+}

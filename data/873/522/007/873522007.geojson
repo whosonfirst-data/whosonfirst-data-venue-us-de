@@ -1,0 +1,83 @@
+{
+  "id": 873522007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57567,39.221569,-75.57567,39.221569",
+    "geom:latitude":39.221569,
+    "geom:longitude":-75.57567,
+    "iso:country":"US",
+    "sg:address":"5321 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2411",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931477,
+        102083871,
+        85825779,
+        85931481,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WoFpHgUQWJMq7R3bxYsoR_39.221569_-75.575670@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223963,
+    "wof:geomhash":"39c1e812af1f0611f965303539a9cabb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931477,
+            "neighbourhood_id":85825779,
+            "region_id":85688611,
+            "venue_id":873522007
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522007
+        }
+    ],
+    "wof:id":873522007,
+    "wof:lastmodified":1464223963,
+    "wof:name":"American Heirlooms by Kenton Chair Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -75.57567,
+    39.221569,
+    -75.57567,
+    39.221569
+],
+  "geometry": {"coordinates":[-75.57567,39.221569],"type":"Point"}
+}

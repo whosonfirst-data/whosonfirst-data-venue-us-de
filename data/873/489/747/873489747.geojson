@@ -1,0 +1,71 @@
+{
+  "id": 873489747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5614,39.204086,-75.5614,39.204086",
+    "geom:latitude":39.204086,
+    "geom:longitude":-75.5614,
+    "iso:country":"US",
+    "sg:address":"3847 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9450",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59H1SdR8gTVKn1k6RUGb61_39.204086_-75.561400@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222484,
+    "wof:geomhash":"7f9d22eec68ca62bd9663ce188c492ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873489747
+        }
+    ],
+    "wof:id":873489747,
+    "wof:lastmodified":1464222484,
+    "wof:name":"Tia's Grocery Store",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.5614,
+    39.204086,
+    -75.5614,
+    39.204086
+],
+  "geometry": {"coordinates":[-75.56140000000001,39.204086],"type":"Point"}
+}

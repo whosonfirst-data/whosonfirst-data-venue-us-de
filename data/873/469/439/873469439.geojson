@@ -1,0 +1,73 @@
+{
+  "id": 873469439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545254,39.747562,-75.545254,39.747562",
+    "geom:latitude":39.747562,
+    "geom:longitude":-75.545254,
+    "iso:country":"US",
+    "sg:address":"1224 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 4100",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0FIV99iqyuzHEGwQehWCbg_39.747562_-75.545254@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221702,
+    "wof:geomhash":"fdd64d573205957945e041465aa94bbf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873469439
+        }
+    ],
+    "wof:id":873469439,
+    "wof:lastmodified":1464221702,
+    "wof:name":"Charles E Butler",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -75.545254,
+    39.747562,
+    -75.545254,
+    39.747562
+],
+  "geometry": {"coordinates":[-75.545254,39.747562],"type":"Point"}
+}

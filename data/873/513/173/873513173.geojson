@@ -1,0 +1,72 @@
+{
+  "id": 873513173,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74434,39.686155,-75.74434,39.686155",
+    "geom:latitude":39.686155,
+    "geom:longitude":-75.74434,
+    "iso:country":"US",
+    "sg:address":"612 Newark Shopping Ctr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/272109-cr-wings/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 9464",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ccQTipgsmzraKOQndGgws_39.686155_-75.744340@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223519,
+    "wof:geomhash":"f2bd52e4569dc04a5dd00ba9cf24316f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513173
+        }
+    ],
+    "wof:id":873513173,
+    "wof:lastmodified":1464223519,
+    "wof:name":"Cr Wings",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -75.74434,
+    39.686155,
+    -75.74434,
+    39.686155
+],
+  "geometry": {"coordinates":[-75.74433999999999,39.686155],"type":"Point"}
+}

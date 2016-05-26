@@ -1,0 +1,71 @@
+{
+  "id": 873504249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567222,38.680479,-75.567222,38.680479",
+    "geom:latitude":38.680479,
+    "geom:longitude":-75.567222,
+    "iso:country":"US",
+    "sg:address":"22010 Eskridge Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 3706",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kb45wkdBg6pOrZ1qnqO1I_38.680479_-75.567222@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223114,
+    "wof:geomhash":"cc6e56e4a46b1ffea0e2ba38f937adfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873504249
+        }
+    ],
+    "wof:id":873504249,
+    "wof:lastmodified":1464223114,
+    "wof:name":"K&B Construction",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.567222,
+    38.680479,
+    -75.567222,
+    38.680479
+],
+  "geometry": {"coordinates":[-75.567222,38.680479],"type":"Point"}
+}

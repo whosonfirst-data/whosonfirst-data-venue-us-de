@@ -1,0 +1,87 @@
+{
+  "id": 873515919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.747722,39.683463,-75.747722,39.683463",
+    "geom:latitude":39.683463,
+    "geom:longitude":-75.747722,
+    "iso:country":"US",
+    "sg:address":"132 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 877 634 8471",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "seafood",
+        "sushi",
+        "bar",
+        "japanese",
+        "caterer"
+    ],
+    "sg:website":"http://www.mizusushibar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LeUPBMuQbwPTWfc9D6PmF_39.683463_-75.747722@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223660,
+    "wof:geomhash":"fbd38234cf3077a9a39412b6bc4b4a10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873515919
+        }
+    ],
+    "wof:id":873515919,
+    "wof:lastmodified":1464223660,
+    "wof:name":"Mizu Sushi Bar",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood",
+        "sushi",
+        "bar",
+        "japanese",
+        "caterer"
+    ]
+},
+  "bbox": [
+    -75.747722,
+    39.683463,
+    -75.747722,
+    39.683463
+],
+  "geometry": {"coordinates":[-75.747722,39.683463],"type":"Point"}
+}

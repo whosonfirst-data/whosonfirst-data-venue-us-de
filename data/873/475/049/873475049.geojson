@@ -1,0 +1,80 @@
+{
+  "id": 873475049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.644209,39.643761,-75.644209,39.643761",
+    "geom:latitude":39.643761,
+    "geom:longitude":-75.644209,
+    "iso:country":"US",
+    "sg:address":"821 Seymour Rd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 6863",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "current",
+        "wiring",
+        "devices",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZxcqmZe34KDFoxgbbksSE_39.643761_-75.644209@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221916,
+    "wof:geomhash":"0716f57bf19d6b77d7e3fe559b5285cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873475049
+        }
+    ],
+    "wof:id":873475049,
+    "wof:lastmodified":1464221916,
+    "wof:name":"William B Evans Contracting",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "current",
+        "wiring",
+        "devices",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.644209,
+    39.643761,
+    -75.644209,
+    39.643761
+],
+  "geometry": {"coordinates":[-75.644209,39.643761],"type":"Point"}
+}

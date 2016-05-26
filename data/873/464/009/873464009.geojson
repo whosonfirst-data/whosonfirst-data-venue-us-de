@@ -1,0 +1,71 @@
+{
+  "id": 873464009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.384107,38.686789,-75.384107,38.686789",
+    "geom:latitude":38.686789,
+    "geom:longitude":-75.384107,
+    "iso:country":"US",
+    "sg:address":"107 W Adams St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2910",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hPsKW8r0UnHdwcCnz9xT9_38.686789_-75.384107@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221547,
+    "wof:geomhash":"78ecf3b3bb7fbd85bc1c95b6aacb4e34",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873464009
+        }
+    ],
+    "wof:id":873464009,
+    "wof:lastmodified":1464221547,
+    "wof:name":"Starting Gate The",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -75.384107,
+    38.686789,
+    -75.384107,
+    38.686789
+],
+  "geometry": {"coordinates":[-75.384107,38.686789],"type":"Point"}
+}

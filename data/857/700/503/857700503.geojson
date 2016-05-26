@@ -1,0 +1,71 @@
+{
+  "id": 857700503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.221379,38.463009,-75.221379,38.463009",
+    "geom:latitude":38.463009,
+    "geom:longitude":-75.221379,
+    "iso:country":"US",
+    "sg:address":"7 N William St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 0200",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Oy0sOI3aeJqO6kaaQm7F3_38.463009_-75.221379@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220825,
+    "wof:geomhash":"a3525a7a270817aeb752138ef19d7063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857700503
+        }
+    ],
+    "wof:id":857700503,
+    "wof:lastmodified":1464220825,
+    "wof:name":"Peter Stone Co USA Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -75.221379,
+    38.463009,
+    -75.221379,
+    38.463009
+],
+  "geometry": {"coordinates":[-75.221379,38.463009],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 873524735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.290936,38.592506,-75.290936,38.592506",
+    "geom:latitude":38.592506,
+    "geom:longitude":-75.290936,
+    "iso:country":"US",
+    "sg:address":"327 Main St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 1601",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "transmission",
+        "automobile",
+        "accessory",
+        "parts",
+        "accessories-wholesale",
+        "part",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Millsboro-DE-19966/056243",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FAdgnSUl8BsUN7Zw0Ihiu_38.592506_-75.290936@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224069,
+    "wof:geomhash":"0116f67b9e5a7c789c2ddf3bc4ef95a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524735
+        }
+    ],
+    "wof:id":873524735,
+    "wof:lastmodified":1464224069,
+    "wof:name":"U-Haul Neighborhood Dealer - Millsboro Auto Supply",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "automobile",
+        "accessory",
+        "parts",
+        "accessories-wholesale",
+        "part",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.290936,
+    38.592506,
+    -75.290936,
+    38.592506
+],
+  "geometry": {"coordinates":[-75.290936,38.592506],"type":"Point"}
+}

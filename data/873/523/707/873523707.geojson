@@ -1,0 +1,75 @@
+{
+  "id": 873523707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.689237,39.292829,-75.689237,39.292829",
+    "geom:latitude":39.292829,
+    "geom:longitude":-75.689237,
+    "iso:country":"US",
+    "sg:address":"201 Ella Ln",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 1538",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5snAGlw1GQbhYHzn3LM3nM_39.292829_-75.689237@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224029,
+    "wof:geomhash":"fab9f00e79273f809fd91a51285122e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873523707
+        }
+    ],
+    "wof:id":873523707,
+    "wof:lastmodified":1464224029,
+    "wof:name":"Kocher Plumbing Services",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "industrial",
+        "contractors-commercial"
+    ]
+},
+  "bbox": [
+    -75.689237,
+    39.292829,
+    -75.689237,
+    39.292829
+],
+  "geometry": {"coordinates":[-75.68923700000001,39.292829],"type":"Point"}
+}

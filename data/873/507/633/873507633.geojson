@@ -1,0 +1,75 @@
+{
+  "id": 873507633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.636172,39.289017,-75.636172,39.289017",
+    "geom:latitude":39.289017,
+    "geom:longitude":-75.636172,
+    "iso:country":"US",
+    "sg:address":"410 Main St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 6119",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WWhfZxB9na01qQUJtGY0r_39.289017_-75.636172@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223266,
+    "wof:geomhash":"04da2294dba76ea1b8b034dc230a4348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873507633
+        }
+    ],
+    "wof:id":873507633,
+    "wof:lastmodified":1464223266,
+    "wof:name":"Lillian Smith Senior Ctr",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -75.636172,
+    39.289017,
+    -75.636172,
+    39.289017
+],
+  "geometry": {"coordinates":[-75.636172,39.289017],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873524213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57042,38.947322,-75.57042,38.947322",
+    "geom:latitude":38.947322,
+    "geom:longitude":-75.57042,
+    "iso:country":"US",
+    "sg:address":"168 Deer Haven Dr",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8499",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "grooming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75JVDAIhMNJcSZovWGehns_38.947322_-75.570420@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224049,
+    "wof:geomhash":"6f2edca6808942382fce8105b09d0888",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524213
+        }
+    ],
+    "wof:id":873524213,
+    "wof:lastmodified":1464224049,
+    "wof:name":"Posh Pooch",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming"
+    ]
+},
+  "bbox": [
+    -75.57042,
+    38.947322,
+    -75.57042,
+    38.947322
+],
+  "geometry": {"coordinates":[-75.57042,38.947322],"type":"Point"}
+}

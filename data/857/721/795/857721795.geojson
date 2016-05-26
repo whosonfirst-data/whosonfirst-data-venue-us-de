@@ -1,0 +1,69 @@
+{
+  "id": 857721795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682039,39.652814,-75.682039,39.652814",
+    "geom:latitude":39.652814,
+    "geom:longitude":-75.682039,
+    "iso:country":"US",
+    "sg:address":"14 Buchanan Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 5986",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PqDkRs2wz5zySoSigkS31_39.652814_-75.682039@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221285,
+    "wof:geomhash":"f259a4f59724a8f7cf44fd2fe5b87dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857721795
+        }
+    ],
+    "wof:id":857721795,
+    "wof:lastmodified":1464221285,
+    "wof:name":"Calvarese Jl Contractors",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.682039,
+    39.652814,
+    -75.682039,
+    39.652814
+],
+  "geometry": {"coordinates":[-75.682039,39.652814],"type":"Point"}
+}

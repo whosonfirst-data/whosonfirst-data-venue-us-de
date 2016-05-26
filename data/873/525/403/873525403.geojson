@@ -1,0 +1,73 @@
+{
+  "id": 873525403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572701,39.040849,-75.572701,39.040849",
+    "geom:latitude":39.040849,
+    "geom:longitude":-75.572701,
+    "iso:country":"US",
+    "sg:address":"111 W Evens Rd",
+    "sg:city":"Viola",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 1431",
+    "sg:postcode":"19979",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "accessory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G85fnFEmicg06JG1tDHTN_39.040849_-75.572701@1303262473"
+    },
+    "wof:country":"US",
+    "wof:created":1464224095,
+    "wof:geomhash":"80c918cbb0e6b972799b33d1cdbfe805",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873525403
+        }
+    ],
+    "wof:id":873525403,
+    "wof:lastmodified":1464224095,
+    "wof:name":"Racers Edge",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "accessory"
+    ]
+},
+  "bbox": [
+    -75.572701,
+    39.040849,
+    -75.572701,
+    39.040849
+],
+  "geometry": {"coordinates":[-75.572701,39.040849],"type":"Point"}
+}

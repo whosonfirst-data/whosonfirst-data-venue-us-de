@@ -1,0 +1,73 @@
+{
+  "id": 873502871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574144,39.745557,-75.574144,39.745557",
+    "geom:latitude":39.745557,
+    "geom:longitude":-75.574144,
+    "iso:country":"US",
+    "sg:address":"117 S Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5699",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77VvaIn0YDKnHFlf98IiBb_39.745557_-75.574144@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223060,
+    "wof:geomhash":"43fa8e5bf523801b735216e00cc0495d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873502871
+        }
+    ],
+    "wof:id":873502871,
+    "wof:lastmodified":1464223060,
+    "wof:name":"Latapatia Mexican Food Store",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.574144,
+    39.745557,
+    -75.574144,
+    39.745557
+],
+  "geometry": {"coordinates":[-75.574144,39.745557],"type":"Point"}
+}

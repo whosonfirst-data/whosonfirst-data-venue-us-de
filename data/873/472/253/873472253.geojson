@@ -1,0 +1,73 @@
+{
+  "id": 873472253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.310999,38.790863,-75.310999,38.790863",
+    "geom:latitude":38.790863,
+    "geom:longitude":-75.310999,
+    "iso:country":"US",
+    "sg:address":"1000 Palmer St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 4113",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vxk4y4JiKxYNUzuGdrLpg_38.790863_-75.310999@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221814,
+    "wof:geomhash":"d2a75f6773d3647c19da4ee3e3b69328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873472253
+        }
+    ],
+    "wof:id":873472253,
+    "wof:lastmodified":1464221814,
+    "wof:name":"Milton Landing Apartments",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.310999,
+    38.790863,
+    -75.310999,
+    38.790863
+],
+  "geometry": {"coordinates":[-75.310999,38.790863],"type":"Point"}
+}

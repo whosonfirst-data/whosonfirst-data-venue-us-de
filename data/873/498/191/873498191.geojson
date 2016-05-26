@@ -1,0 +1,71 @@
+{
+  "id": 873498191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.731626,39.67176,-75.731626,39.67176",
+    "geom:latitude":39.67176,
+    "geom:longitude":-75.731626,
+    "iso:country":"US",
+    "sg:address":"75 Chaucer Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7035",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3666DYYGbR0AmFKn7RzKLL_39.671760_-75.731626@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222870,
+    "wof:geomhash":"b5fac10a9abbd6504e337e883c920f9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873498191
+        }
+    ],
+    "wof:id":873498191,
+    "wof:lastmodified":1464222870,
+    "wof:name":"S & H Painting",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.731626,
+    39.67176,
+    -75.731626,
+    39.67176
+],
+  "geometry": {"coordinates":[-75.73162600000001,39.67176],"type":"Point"}
+}

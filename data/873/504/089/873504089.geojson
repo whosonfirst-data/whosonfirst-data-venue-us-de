@@ -1,0 +1,71 @@
+{
+  "id": 873504089,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.143417,38.765551,-75.143417,38.765551",
+    "geom:latitude":38.765551,
+    "geom:longitude":-75.143417,
+    "iso:country":"US",
+    "sg:address":"516 Kings Hwy",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 7220",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "motion",
+        "picture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56pL7L2lzHBTWxh53Wue3T_38.765551_-75.143417@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223108,
+    "wof:geomhash":"02966a4cc45eff6649b44f584f315cef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873504089
+        }
+    ],
+    "wof:id":873504089,
+    "wof:lastmodified":1464223108,
+    "wof:name":"Foot Light Production Inc",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "motion",
+        "picture"
+    ]
+},
+  "bbox": [
+    -75.143417,
+    38.765551,
+    -75.143417,
+    38.765551
+],
+  "geometry": {"coordinates":[-75.143417,38.765551],"type":"Point"}
+}

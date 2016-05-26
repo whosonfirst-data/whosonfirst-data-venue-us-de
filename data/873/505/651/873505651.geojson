@@ -1,0 +1,75 @@
+{
+  "id": 873505651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599755,39.734377,-75.599755,39.734377",
+    "geom:latitude":39.734377,
+    "geom:longitude":-75.599755,
+    "iso:country":"US",
+    "sg:address":"238 Tamarack Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 9396",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MkPzeR2qv0jlKKYLZxdVb_39.734377_-75.599755@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223185,
+    "wof:geomhash":"a739c2d8ff16ad63cdcde894df76aab1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873505651
+        }
+    ],
+    "wof:id":873505651,
+    "wof:lastmodified":1464223185,
+    "wof:name":"Adamson Electric",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.599755,
+    39.734377,
+    -75.599755,
+    39.734377
+],
+  "geometry": {"coordinates":[-75.599755,39.734377],"type":"Point"}
+}

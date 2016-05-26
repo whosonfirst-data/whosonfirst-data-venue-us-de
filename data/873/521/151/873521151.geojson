@@ -1,0 +1,74 @@
+{
+  "id": 873521151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.519501,39.144299,-75.519501,39.144299",
+    "geom:latitude":39.144299,
+    "geom:longitude":-75.519501,
+    "iso:country":"US",
+    "sg:address":"125 Orchard Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4398",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wf0Lp0ZpdIKyBf7c4U8Qw_39.144299_-75.519501@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223930,
+    "wof:geomhash":"1ed0047405eb4b60d9095a70e130fbc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873521151
+        }
+    ],
+    "wof:id":873521151,
+    "wof:lastmodified":1464223930,
+    "wof:name":"Maple Academy Montessori Preschool & Kindergarten",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.519501,
+    39.144299,
+    -75.519501,
+    39.144299
+],
+  "geometry": {"coordinates":[-75.51950100000001,39.144299],"type":"Point"}
+}

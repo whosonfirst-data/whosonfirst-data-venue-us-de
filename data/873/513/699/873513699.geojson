@@ -1,0 +1,72 @@
+{
+  "id": 873513699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56722,38.9237,-75.56722,38.9237",
+    "geom:latitude":38.9237,
+    "geom:longitude":-75.56722,
+    "iso:country":"US",
+    "sg:address":"7237 Milford Harrington Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/harrington/154295-hardees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8343",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W1aTz1qwOcLoNUDmWvGFC_38.923700_-75.567220@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223543,
+    "wof:geomhash":"f0d0317b1abc0c4b002a1c4096d8c6d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873513699
+        }
+    ],
+    "wof:id":873513699,
+    "wof:lastmodified":1464223543,
+    "wof:name":"Hardee's",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.56722,
+    38.9237,
+    -75.56722,
+    38.9237
+],
+  "geometry": {"coordinates":[-75.56722000000001,38.9237],"type":"Point"}
+}

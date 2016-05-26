@@ -1,0 +1,71 @@
+{
+  "id": 873499885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.503004,39.768068,-75.503004,39.768068",
+    "geom:latitude":39.768068,
+    "geom:longitude":-75.503004,
+    "iso:country":"US",
+    "sg:address":"709 Woodside Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 765 3495",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42vzjuQlRFqFR5DAYfQHoa_39.768068_-75.503004@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222933,
+    "wof:geomhash":"3c587c0751f9212ac02b0aefb8373bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873499885
+        }
+    ],
+    "wof:id":873499885,
+    "wof:lastmodified":1464222933,
+    "wof:name":"Neptune Global Holdings LLC",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -75.503004,
+    39.768068,
+    -75.503004,
+    39.768068
+],
+  "geometry": {"coordinates":[-75.503004,39.768068],"type":"Point"}
+}

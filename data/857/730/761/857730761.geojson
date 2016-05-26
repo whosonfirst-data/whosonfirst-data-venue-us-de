@@ -1,0 +1,71 @@
+{
+  "id": 857730761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.427005,38.911266,-75.427005,38.911266",
+    "geom:latitude":38.911266,
+    "geom:longitude":-75.427005,
+    "iso:country":"US",
+    "sg:address":"114 SE 2nd St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 7363",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GVNFFeGmqFc45hr1lfaZ2_38.911266_-75.427005@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221452,
+    "wof:geomhash":"d25fe64487b80720095a4b0a50fb64d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857730761
+        }
+    ],
+    "wof:id":857730761,
+    "wof:lastmodified":1464221452,
+    "wof:name":"First State Chimney Sweep",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.427005,
+    38.911266,
+    -75.427005,
+    38.911266
+],
+  "geometry": {"coordinates":[-75.42700499999999,38.911266],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873497017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515935,39.241371,-75.515935,39.241371",
+    "geom:latitude":39.241371,
+    "geom:longitude":-75.515935,
+    "iso:country":"US",
+    "sg:address":"283 Front St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 9724",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Ilq23xkV1CJUBEcaIIE9s_39.241371_-75.515935@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222824,
+    "wof:geomhash":"c79a7581a85aa7ef520a6eeabcb78c0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873497017
+        }
+    ],
+    "wof:id":873497017,
+    "wof:lastmodified":1464222824,
+    "wof:name":"Sambros Tavern",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -75.515935,
+    39.241371,
+    -75.515935,
+    39.241371
+],
+  "geometry": {"coordinates":[-75.515935,39.241371],"type":"Point"}
+}

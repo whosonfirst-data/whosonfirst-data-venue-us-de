@@ -1,0 +1,73 @@
+{
+  "id": 857717007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.288823,38.582469,-75.288823,38.582469",
+    "geom:latitude":38.582469,
+    "geom:longitude":-75.288823,
+    "iso:country":"US",
+    "sg:address":"232 Mitchell St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 6530",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1np8AHzHaJwNb3bvQhUaaP_38.582469_-75.288823@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221184,
+    "wof:geomhash":"a94060eec6ac11a71afcea0b4c0737aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857717007
+        }
+    ],
+    "wof:id":857717007,
+    "wof:lastmodified":1464221184,
+    "wof:name":"Robinson & Cook Eye Surgical",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.288823,
+    38.582469,
+    -75.288823,
+    38.582469
+],
+  "geometry": {"coordinates":[-75.28882299999999,38.582469],"type":"Point"}
+}

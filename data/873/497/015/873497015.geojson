@@ -1,0 +1,67 @@
+{
+  "id": 873497015,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.37919,38.664208,-75.37919,38.664208",
+    "geom:latitude":38.664208,
+    "geom:longitude":-75.37919,
+    "iso:country":"US",
+    "sg:address":"312 S Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6101",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:website":"www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OGRrdWUBJmFtYwI3z2Eqc_38.664208_-75.379190@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222824,
+    "wof:geomhash":"2cf3924faa7e3a630714b31af5b2ec88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873497015
+        }
+    ],
+    "wof:id":873497015,
+    "wof:lastmodified":1464222824,
+    "wof:name":"Mc Donald's",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.37919,
+    38.664208,
+    -75.37919,
+    38.664208
+],
+  "geometry": {"coordinates":[-75.37918999999999,38.664208],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873487507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578701,39.187158,-75.578701,39.187158",
+    "geom:latitude":39.187158,
+    "geom:longitude":-75.578701,
+    "iso:country":"US",
+    "sg:address":"23 Carlisle Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 6306",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AKwZ1RJmcnSS6YJCp6EOw_39.187158_-75.578701@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222397,
+    "wof:geomhash":"79f9c91cfe28d604a9a417eab28b9dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873487507
+        }
+    ],
+    "wof:id":873487507,
+    "wof:lastmodified":1464222397,
+    "wof:name":"Proctor Vacuum Doctor",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -75.578701,
+    39.187158,
+    -75.578701,
+    39.187158
+],
+  "geometry": {"coordinates":[-75.578701,39.187158],"type":"Point"}
+}

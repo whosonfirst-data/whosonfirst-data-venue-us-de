@@ -1,0 +1,90 @@
+{
+  "id": 873518539,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589417,39.740131,-75.589417,39.740131",
+    "geom:latitude":39.740131,
+    "geom:longitude":-75.589417,
+    "iso:country":"US",
+    "sg:address":"400 New Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 353 1675",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "major",
+        "part",
+        "refinishing",
+        "appliances-major-used"
+    ],
+    "sg:website":"http://www.hawkinsandsons.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HXPHEdfL003WcpoEJT4Sv_39.740131_-75.589417@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223815,
+    "wof:geomhash":"754dcfceb04a05ade5beaeb3d26a24e5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873518539
+        }
+    ],
+    "wof:id":873518539,
+    "wof:lastmodified":1464223815,
+    "wof:name":"Hawkins & Sons Incorporated",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "part",
+        "refinishing",
+        "appliances-major-used"
+    ]
+},
+  "bbox": [
+    -75.589417,
+    39.740131,
+    -75.589417,
+    39.740131
+],
+  "geometry": {"coordinates":[-75.589417,39.740131],"type":"Point"}
+}

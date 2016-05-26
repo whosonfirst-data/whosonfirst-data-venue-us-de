@@ -1,0 +1,71 @@
+{
+  "id": 873508033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.636572,39.732286,-75.636572,39.732286",
+    "geom:latitude":39.732286,
+    "geom:longitude":-75.636572,
+    "iso:country":"US",
+    "sg:address":"2150 Melson Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 2378",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gV6qp8pznvf3nCI79JXNu_39.732286_-75.636572@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223286,
+    "wof:geomhash":"8a17076e06c3ae6829ceb41e3de7dd09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873508033
+        }
+    ],
+    "wof:id":873508033,
+    "wof:lastmodified":1464223286,
+    "wof:name":"Red Clay Creek Apts",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.636572,
+    39.732286,
+    -75.636572,
+    39.732286
+],
+  "geometry": {"coordinates":[-75.636572,39.732286],"type":"Point"}
+}

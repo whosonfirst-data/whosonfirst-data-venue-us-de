@@ -1,0 +1,66 @@
+{
+  "id": 857700159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.310705,38.778236,-75.310705,38.778236",
+    "geom:latitude":38.778236,
+    "geom:longitude":-75.310705,
+    "iso:country":"US",
+    "sg:address":"121 Union St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8856",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YqXrh8HPEKHktmGbubrge_38.778236_-75.310705@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220816,
+    "wof:geomhash":"2680eac82b180bc404534d229b0ae30a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857700159
+        }
+    ],
+    "wof:id":857700159,
+    "wof:lastmodified":1464220816,
+    "wof:name":"Milton Public Library",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.310705,
+    38.778236,
+    -75.310705,
+    38.778236
+],
+  "geometry": {"coordinates":[-75.310705,38.778236],"type":"Point"}
+}

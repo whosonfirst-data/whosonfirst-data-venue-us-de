@@ -1,0 +1,80 @@
+{
+  "id": 873525263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594017,39.283791,-75.594017,39.283791",
+    "geom:latitude":39.283791,
+    "geom:longitude":-75.594017,
+    "iso:country":"US",
+    "sg:address":"1446 S Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2927",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YV9mDLzdGEFVcbHklBSIi_39.283791_-75.594017@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224089,
+    "wof:geomhash":"0e65e6a834e0447b281ba8701add7efb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525263
+        }
+    ],
+    "wof:id":873525263,
+    "wof:lastmodified":1464224089,
+    "wof:name":"Ridgewood Home Sales",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities",
+        "home"
+    ]
+},
+  "bbox": [
+    -75.594017,
+    39.283791,
+    -75.594017,
+    39.283791
+],
+  "geometry": {"coordinates":[-75.59401699999999,39.283791],"type":"Point"}
+}

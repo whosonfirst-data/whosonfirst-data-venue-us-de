@@ -1,0 +1,71 @@
+{
+  "id": 857695817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57175,39.680522,-75.57175,39.680522",
+    "geom:latitude":39.680522,
+    "geom:longitude":-75.57175,
+    "iso:country":"US",
+    "sg:address":"4 Dandridge Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 383 3797",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23B5orxu5kh49U9ppr1iAu_39.680522_-75.571750@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220733,
+    "wof:geomhash":"3f3b2b4326fbe76f3c1fee2693d1086c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857695817
+        }
+    ],
+    "wof:id":857695817,
+    "wof:lastmodified":1464220733,
+    "wof:name":"Hucks Brothers",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.57175,
+    39.680522,
+    -75.57175,
+    39.680522
+],
+  "geometry": {"coordinates":[-75.57174999999999,39.680522],"type":"Point"}
+}

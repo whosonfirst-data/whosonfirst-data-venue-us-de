@@ -1,0 +1,73 @@
+{
+  "id": 873468449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.657146,39.753937,-75.657146,39.753937",
+    "geom:latitude":39.753937,
+    "geom:longitude":-75.657146,
+    "iso:country":"US",
+    "sg:address":"147 Bromley Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 0289",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "tour",
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Sg0V45waOlR3DXVu98srv_39.753937_-75.657146@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221668,
+    "wof:geomhash":"f71ab97c4b903cd16890888cfbe1a122",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873468449
+        }
+    ],
+    "wof:id":873468449,
+    "wof:lastmodified":1464221668,
+    "wof:name":"Paradise Travel Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "tour",
+        "agency"
+    ]
+},
+  "bbox": [
+    -75.657146,
+    39.753937,
+    -75.657146,
+    39.753937
+],
+  "geometry": {"coordinates":[-75.657146,39.753937],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857685103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532091,39.80291,-75.532091,39.80291",
+    "geom:latitude":39.80291,
+    "geom:longitude":-75.532091,
+    "iso:country":"US",
+    "sg:address":"3315 Coachman Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5353",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7gH4utVsSKvn8Sf8zjpmZ8_39.802910_-75.532091@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220524,
+    "wof:geomhash":"1e753083ea58ae0e09ae4f6a447c9119",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":857685103
+        }
+    ],
+    "wof:id":857685103,
+    "wof:lastmodified":1464220524,
+    "wof:name":"Concrete Service Co",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.532091,
+    39.80291,
+    -75.532091,
+    39.80291
+],
+  "geometry": {"coordinates":[-75.53209099999999,39.80291],"type":"Point"}
+}

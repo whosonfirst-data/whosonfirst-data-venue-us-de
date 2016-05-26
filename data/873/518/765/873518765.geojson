@@ -1,0 +1,71 @@
+{
+  "id": 873518765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598358,39.778938,-75.598358,39.778938",
+    "geom:latitude":39.778938,
+    "geom:longitude":-75.598358,
+    "iso:country":"US",
+    "sg:address":"4001 Kennett Pike Ste 647",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 464 9191",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "telecommunication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834895,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KssJu0Lr1FencvmgIP6GS_39.778938_-75.598358@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223826,
+    "wof:geomhash":"040fc8d943393021611acc19ff09cf1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834895,
+            "region_id":85688611,
+            "venue_id":873518765
+        }
+    ],
+    "wof:id":873518765,
+    "wof:lastmodified":1464223826,
+    "wof:name":"Statewide Telecom",
+    "wof:parent_id":85834895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "telecommunication"
+    ]
+},
+  "bbox": [
+    -75.598358,
+    39.778938,
+    -75.598358,
+    39.778938
+],
+  "geometry": {"coordinates":[-75.598358,39.778938],"type":"Point"}
+}

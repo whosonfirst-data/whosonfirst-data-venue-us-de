@@ -1,0 +1,89 @@
+{
+  "id": 873523889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5382,39.031,-75.5382,39.031",
+    "geom:latitude":39.031,
+    "geom:longitude":-75.5382,
+    "iso:country":"US",
+    "sg:address":"37 Marions Way",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9674",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "fence",
+        "contractor",
+        "fence-wholesale",
+        "fence-sales",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fgQwPiaRq8PRMeDfYvoev_39.031000_-75.538200@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224035,
+    "wof:geomhash":"182d33ba6cb537dbbea33e81c3f823b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873523889
+        }
+    ],
+    "wof:id":873523889,
+    "wof:lastmodified":1464224035,
+    "wof:name":"J & M Fencing Inc.",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence",
+        "contractor",
+        "fence-wholesale",
+        "fence-sales",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.5382,
+    39.031,
+    -75.5382,
+    39.031
+],
+  "geometry": {"coordinates":[-75.5382,39.031],"type":"Point"}
+}

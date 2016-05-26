@@ -1,0 +1,78 @@
+{
+  "id": 857713227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555953,39.16068,-75.555953,39.16068",
+    "geom:latitude":39.16068,
+    "geom:longitude":-75.555953,
+    "iso:country":"US",
+    "sg:address":"59 Greentree Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9616",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kEIWOfX4Csfi5EwNiSpx3_39.160680_-75.555953@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221114,
+    "wof:geomhash":"f1974323fd7779f47627612d81e280ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":857713227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":857713227
+        }
+    ],
+    "wof:id":857713227,
+    "wof:lastmodified":1464221114,
+    "wof:name":"Floral Connection LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.555953,
+    39.16068,
+    -75.555953,
+    39.16068
+],
+  "geometry": {"coordinates":[-75.555953,39.16068],"type":"Point"}
+}

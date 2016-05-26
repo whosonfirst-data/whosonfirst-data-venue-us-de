@@ -1,0 +1,73 @@
+{
+  "id": 873493217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74715,39.616067,-75.74715,39.616067",
+    "geom:latitude":39.616067,
+    "geom:longitude":-75.74715,
+    "iso:country":"US",
+    "sg:address":"250 Corporate Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 0455",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bathroom",
+        "remodeling",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ri3sTYdMNRoWpUToX3CaG_39.616067_-75.747150@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222614,
+    "wof:geomhash":"9e3633ccedcff03f2657a37184781c74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873493217
+        }
+    ],
+    "wof:id":873493217,
+    "wof:lastmodified":1464222614,
+    "wof:name":"Bath Fitter",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bathroom",
+        "remodeling",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.74715,
+    39.616067,
+    -75.74715,
+    39.616067
+],
+  "geometry": {"coordinates":[-75.74715,39.616067],"type":"Point"}
+}

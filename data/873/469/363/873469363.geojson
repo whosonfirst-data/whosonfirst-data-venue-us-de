@@ -1,0 +1,71 @@
+{
+  "id": 873469363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.535407,39.778996,-75.535407,39.778996",
+    "geom:latitude":39.778996,
+    "geom:longitude":-75.535407,
+    "iso:country":"US",
+    "sg:address":"1509 Delwood Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 888 1388",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14SmB2sWgenX83XNsDp3Nj_39.778996_-75.535407@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221699,
+    "wof:geomhash":"c870e1c3a31ee6e8b1d2e69b54a1786b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873469363
+        }
+    ],
+    "wof:id":873469363,
+    "wof:lastmodified":1464221699,
+    "wof:name":"Steven's Seal Coating",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -75.535407,
+    39.778996,
+    -75.535407,
+    39.778996
+],
+  "geometry": {"coordinates":[-75.53540700000001,39.778996],"type":"Point"}
+}

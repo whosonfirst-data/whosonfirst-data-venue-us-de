@@ -1,0 +1,70 @@
+{
+  "id": 873512925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.748077,39.603987,-75.748077,39.603987",
+    "geom:latitude":39.603987,
+    "geom:longitude":-75.748077,
+    "iso:country":"US",
+    "sg:address":"2470 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/central-pencader/115235-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 9295",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vtqCQ2uIulTclpzU0Kh4H_39.603987_-75.748077@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223511,
+    "wof:geomhash":"3fab4b737241f808d3cb7ed40ed44342",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873512925
+        }
+    ],
+    "wof:id":873512925,
+    "wof:lastmodified":1464223511,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.748077,
+    39.603987,
+    -75.748077,
+    39.603987
+],
+  "geometry": {"coordinates":[-75.74807699999999,39.603987],"type":"Point"}
+}

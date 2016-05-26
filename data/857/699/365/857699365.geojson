@@ -1,0 +1,71 @@
+{
+  "id": 857699365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.392803,38.696143,-75.392803,38.696143",
+    "geom:latitude":38.696143,
+    "geom:longitude":-75.392803,
+    "iso:country":"US",
+    "sg:address":"511 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9449",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6k3kvSp82JRFx9HmITDn0s_38.696143_-75.392803@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220798,
+    "wof:geomhash":"48e8af95fbcd139d50a823abc715a079",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857699365
+        }
+    ],
+    "wof:id":857699365,
+    "wof:lastmodified":1464220798,
+    "wof:name":"Three Bears Nursery",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.392803,
+    38.696143,
+    -75.392803,
+    38.696143
+],
+  "geometry": {"coordinates":[-75.392803,38.696143],"type":"Point"}
+}

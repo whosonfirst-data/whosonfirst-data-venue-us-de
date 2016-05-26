@@ -1,0 +1,71 @@
+{
+  "id": 873496357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746209,39.605549,-75.746209,39.605549",
+    "geom:latitude":39.605549,
+    "geom:longitude":-75.746209,
+    "iso:country":"US",
+    "sg:address":"2439 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 1787",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "lubrication"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IzAMWnwB2TbwfYRg6kHsb_39.605549_-75.746209@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222792,
+    "wof:geomhash":"90cd1dcf0eccae97338416ebb7636298",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873496357
+        }
+    ],
+    "wof:id":873496357,
+    "wof:lastmodified":1464222792,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication"
+    ]
+},
+  "bbox": [
+    -75.746209,
+    39.605549,
+    -75.746209,
+    39.605549
+],
+  "geometry": {"coordinates":[-75.74620899999999,39.605549],"type":"Point"}
+}

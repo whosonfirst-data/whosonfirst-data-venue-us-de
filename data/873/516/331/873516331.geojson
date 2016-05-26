@@ -1,0 +1,77 @@
+{
+  "id": 873516331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.663714,39.696537,-75.663714,39.696537",
+    "geom:latitude":39.696537,
+    "geom:longitude":-75.663714,
+    "iso:country":"US",
+    "sg:address":"4923 Ogletown Stanton Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 225 0451",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "kidneys",
+        "surgeons",
+        "nephrology"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36eqcwm5QG1CdZWtINMCAQ_39.696537_-75.663714@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223674,
+    "wof:geomhash":"ca794bf498c0adaa1d906d2fe85f3389",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873516331
+        }
+    ],
+    "wof:id":873516331,
+    "wof:lastmodified":1464223674,
+    "wof:name":"Nephrology Associates PA",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "kidneys",
+        "surgeons",
+        "nephrology"
+    ]
+},
+  "bbox": [
+    -75.663714,
+    39.696537,
+    -75.663714,
+    39.696537
+],
+  "geometry": {"coordinates":[-75.663714,39.696537],"type":"Point"}
+}

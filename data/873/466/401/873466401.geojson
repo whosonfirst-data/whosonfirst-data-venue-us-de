@@ -1,0 +1,71 @@
+{
+  "id": 873466401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.088512,38.715416,-75.088512,38.715416",
+    "geom:latitude":38.715416,
+    "geom:longitude":-75.088512,
+    "iso:country":"US",
+    "sg:address":"403 Rehoboth Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 7800",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DztiuvTQGvyfLn4EV1ECE_38.715416_-75.088512@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221598,
+    "wof:geomhash":"2abaeaf982cc92a4a4026dd269e11c2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":873466401
+        }
+    ],
+    "wof:id":873466401,
+    "wof:lastmodified":1464221598,
+    "wof:name":"State Street Realty LLC",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.088512,
+    38.715416,
+    -75.088512,
+    38.715416
+],
+  "geometry": {"coordinates":[-75.08851199999999,38.715416],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873499677,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.512021,39.811494,-75.512021,39.811494",
+    "geom:latitude":39.811494,
+    "geom:longitude":-75.512021,
+    "iso:country":"US",
+    "sg:address":"1820 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 3595",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pool",
+        "swimming"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GveUU59tUNwqlHd6mCz59_39.811494_-75.512021@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222925,
+    "wof:geomhash":"505fcf0c577134072ae0f65716f58af5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873499677
+        }
+    ],
+    "wof:id":873499677,
+    "wof:lastmodified":1464222925,
+    "wof:name":"High Point Swim Club Inc",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pool",
+        "swimming"
+    ]
+},
+  "bbox": [
+    -75.512021,
+    39.811494,
+    -75.512021,
+    39.811494
+],
+  "geometry": {"coordinates":[-75.512021,39.811494],"type":"Point"}
+}

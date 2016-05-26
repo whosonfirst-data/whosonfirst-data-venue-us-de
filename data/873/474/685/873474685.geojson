@@ -1,0 +1,73 @@
+{
+  "id": 873474685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.093819,38.481437,-75.093819,38.481437",
+    "geom:latitude":38.481437,
+    "geom:longitude":-75.093819,
+    "iso:country":"US",
+    "sg:address":"25 Mallard Dr",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 5852",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mcJqLIw5hFWJOzgbwQsUJ_38.481437_-75.093819@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221904,
+    "wof:geomhash":"4ce93732a1c1c763100f482c4dd2ce47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873474685
+        }
+    ],
+    "wof:id":873474685,
+    "wof:lastmodified":1464221904,
+    "wof:name":"Dockside Marine Repair",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -75.093819,
+    38.481437,
+    -75.093819,
+    38.481437
+],
+  "geometry": {"coordinates":[-75.093819,38.481437],"type":"Point"}
+}

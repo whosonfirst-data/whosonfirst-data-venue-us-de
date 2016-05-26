@@ -1,0 +1,78 @@
+{
+  "id": 873513055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.747907,39.684009,-75.747907,39.684009",
+    "geom:latitude":39.684009,
+    "geom:longitude":-75.747907,
+    "iso:country":"US",
+    "sg:address":"132 East Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/285871-mizu-sushi/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 3104",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sushi",
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zk6YXzeEjE69D7MZ5m8MO_39.684009_-75.747907@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223515,
+    "wof:geomhash":"f8e3c39eebeb2f7f52ba4a8511d03750",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873513055
+        }
+    ],
+    "wof:id":873513055,
+    "wof:lastmodified":1464223515,
+    "wof:name":"Mizu Sushi",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -75.747907,
+    39.684009,
+    -75.747907,
+    39.684009
+],
+  "geometry": {"coordinates":[-75.747907,39.684009],"type":"Point"}
+}

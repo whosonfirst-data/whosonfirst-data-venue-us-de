@@ -1,0 +1,69 @@
+{
+  "id": 873500867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.564883,39.660371,-75.564883,39.660371",
+    "geom:latitude":39.660371,
+    "geom:longitude":-75.564883,
+    "iso:country":"US",
+    "sg:address":"308 Delaware St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 4272",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kUEOH2kZJcwiK0gtWLosQ_39.660371_-75.564883@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222978,
+    "wof:geomhash":"a795f053ac3919e72fff6bc38e620bb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873500867
+        }
+    ],
+    "wof:id":873500867,
+    "wof:lastmodified":1464222978,
+    "wof:name":"O'Donald's Variety",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.564883,
+    39.660371,
+    -75.564883,
+    39.660371
+],
+  "geometry": {"coordinates":[-75.56488299999999,39.660371],"type":"Point"}
+}

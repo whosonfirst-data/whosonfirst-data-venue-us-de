@@ -1,0 +1,72 @@
+{
+  "id": 873513749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.440982,38.917963,-75.440982,38.917963",
+    "geom:latitude":38.917963,
+    "geom:longitude":-75.440982,
+    "iso:country":"US",
+    "sg:address":"649 N Dupont Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/milford-north/189525-kfc---kentucky-fried-chicken/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 7522",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GCefknZYMgvyEmDH4lo4U_38.917963_-75.440982@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223546,
+    "wof:geomhash":"d303eddd9e2bb58304e7215bbbaa7886",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873513749
+        }
+    ],
+    "wof:id":873513749,
+    "wof:lastmodified":1464223546,
+    "wof:name":"KFC - Kentucky Fried Chicken",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -75.440982,
+    38.917963,
+    -75.440982,
+    38.917963
+],
+  "geometry": {"coordinates":[-75.44098200000001,38.917963],"type":"Point"}
+}

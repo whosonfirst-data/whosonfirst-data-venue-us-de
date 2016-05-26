@@ -1,0 +1,71 @@
+{
+  "id": 873512791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.657066,39.722588,-75.657066,39.722588",
+    "geom:latitude":39.722588,
+    "geom:longitude":-75.657066,
+    "iso:country":"US",
+    "sg:address":"2076 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 0096",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7MSSod1SRLOGyDz6gqk05I_39.722072_-75.656848@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223505,
+    "wof:geomhash":"b2ff832ba03ec86500cd5abba1471a0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873512791
+        }
+    ],
+    "wof:id":873512791,
+    "wof:lastmodified":1464223505,
+    "wof:name":"Capriotti's Sandwich Shop",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.657066,
+    39.722588,
+    -75.657066,
+    39.722588
+],
+  "geometry": {"coordinates":[-75.657066,39.722588],"type":"Point"}
+}

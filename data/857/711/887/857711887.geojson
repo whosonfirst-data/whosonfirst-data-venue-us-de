@@ -1,0 +1,73 @@
+{
+  "id": 857711887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.712637,39.776048,-75.712637,39.776048",
+    "geom:latitude":39.776048,
+    "geom:longitude":-75.712637,
+    "iso:country":"US",
+    "sg:address":"324 Lantana Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 4777",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85827779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4BZJxH2A2Yj31KVwdWbOhM_39.776048_-75.712637@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221076,
+    "wof:geomhash":"d7be9fadc0eb8668bed7df2a2c9973fb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85827779,
+            "region_id":85688611,
+            "venue_id":857711887
+        }
+    ],
+    "wof:id":857711887,
+    "wof:lastmodified":1464221076,
+    "wof:name":"True Value",
+    "wof:parent_id":85827779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -75.712637,
+    39.776048,
+    -75.712637,
+    39.776048
+],
+  "geometry": {"coordinates":[-75.712637,39.776048],"type":"Point"}
+}

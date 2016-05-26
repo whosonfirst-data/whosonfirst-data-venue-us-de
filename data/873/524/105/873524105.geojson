@@ -1,0 +1,80 @@
+{
+  "id": 873524105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595921,38.808141,-75.595921,38.808141",
+    "geom:latitude":38.808141,
+    "geom:longitude":-75.595921,
+    "iso:country":"US",
+    "sg:address":"301 W Market St",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 9000",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GDgi9Xg267jeJNPaJKe08_38.808141_-75.595921@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224044,
+    "wof:geomhash":"b6e730d61b4cb02abe935c0997b2c505",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873524105
+        }
+    ],
+    "wof:id":873524105,
+    "wof:lastmodified":1464224044,
+    "wof:name":"Greenwood Realty",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "management",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.595921,
+    38.808141,
+    -75.595921,
+    38.808141
+],
+  "geometry": {"coordinates":[-75.595921,38.808141],"type":"Point"}
+}

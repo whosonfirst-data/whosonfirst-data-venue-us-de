@@ -1,0 +1,71 @@
+{
+  "id": 873484739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.608781,39.742746,-75.608781,39.742746",
+    "geom:latitude":39.742746,
+    "geom:longitude":-75.608781,
+    "iso:country":"US",
+    "sg:address":"1401 Montgomery Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 5498",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "truck",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00tUasqdUDu095wk42gjwV_39.742746_-75.608781@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222296,
+    "wof:geomhash":"ef959debb36e84e044d0343cded5bbb1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873484739
+        }
+    ],
+    "wof:id":873484739,
+    "wof:lastmodified":1464222296,
+    "wof:name":"Beamers and Son Truck Repair",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.608781,
+    39.742746,
+    -75.608781,
+    39.742746
+],
+  "geometry": {"coordinates":[-75.60878099999999,39.742746],"type":"Point"}
+}

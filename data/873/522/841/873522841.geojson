@@ -1,0 +1,80 @@
+{
+  "id": 873522841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5457,39.169399,-75.5457,39.169399",
+    "geom:latitude":39.169399,
+    "geom:longitude":-75.5457,
+    "iso:country":"US",
+    "sg:address":"1015 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 0406",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "frozen",
+        "yogurt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xQzmGJQ5tZZvHqpECZJwh_39.169399_-75.545700@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224000,
+    "wof:geomhash":"facbbd5c2aedac870ed4b879842db15f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873522841
+        }
+    ],
+    "wof:id":873522841,
+    "wof:lastmodified":1464224000,
+    "wof:name":"Tcby Treats",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "yogurt"
+    ]
+},
+  "bbox": [
+    -75.5457,
+    39.169399,
+    -75.5457,
+    39.169399
+],
+  "geometry": {"coordinates":[-75.5457,39.169399],"type":"Point"}
+}

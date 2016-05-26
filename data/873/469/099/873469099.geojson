@@ -1,0 +1,71 @@
+{
+  "id": 873469099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.086187,38.462437,-75.086187,38.462437",
+    "geom:latitude":38.462437,
+    "geom:longitude":-75.086187,
+    "iso:country":"US",
+    "sg:address":"21 Bayberry Ln",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 2092",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_095YYjSOAazp9OTcak8m5a_38.462437_-75.086187@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221690,
+    "wof:geomhash":"9e198bcbc7478b9cf5e54822775fc5de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873469099
+        }
+    ],
+    "wof:id":873469099,
+    "wof:lastmodified":1464221690,
+    "wof:name":"Douglas Warrington",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.086187,
+    38.462437,
+    -75.086187,
+    38.462437
+],
+  "geometry": {"coordinates":[-75.086187,38.462437],"type":"Point"}
+}

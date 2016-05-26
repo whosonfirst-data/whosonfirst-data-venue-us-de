@@ -1,0 +1,84 @@
+{
+  "id": 857735039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574609,39.218997,-75.574609,39.218997",
+    "geom:latitude":39.218997,
+    "geom:longitude":-75.574609,
+    "iso:country":"US",
+    "sg:address":"4805 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4064",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair"
+    ],
+    "sg:website":"www.diamondcomputer.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931477,
+        102083871,
+        85825779,
+        85931481,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6spO1b86OUgZ7r8jhT8PB7_39.218997_-75.574609@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221541,
+    "wof:geomhash":"9364d1773c396917a0c1da9ab1dc2ac3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931477,
+            "neighbourhood_id":85825779,
+            "region_id":85688611,
+            "venue_id":857735039
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857735039
+        }
+    ],
+    "wof:id":857735039,
+    "wof:lastmodified":1464221541,
+    "wof:name":"Diamond Computer Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair"
+    ]
+},
+  "bbox": [
+    -75.574609,
+    39.218997,
+    -75.574609,
+    39.218997
+],
+  "geometry": {"coordinates":[-75.574609,39.218997],"type":"Point"}
+}

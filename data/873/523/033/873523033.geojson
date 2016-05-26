@@ -1,0 +1,68 @@
+{
+  "id": 873523033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.533897,39.159901,-75.533897,39.159901",
+    "geom:latitude":39.159901,
+    "geom:longitude":-75.533897,
+    "iso:country":"US",
+    "sg:address":"717 W Division St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 9904",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QRQ2nZyKtat6KVZZkW7dt_39.159901_-75.533897@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224007,
+    "wof:geomhash":"52447d420c622cc8c956f6f1e50137bd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873523033
+        }
+    ],
+    "wof:id":873523033,
+    "wof:lastmodified":1464224007,
+    "wof:name":"Flower Shop",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.533897,
+    39.159901,
+    -75.533897,
+    39.159901
+],
+  "geometry": {"coordinates":[-75.533897,39.159901],"type":"Point"}
+}

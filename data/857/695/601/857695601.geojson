@@ -1,0 +1,71 @@
+{
+  "id": 857695601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610299,39.303437,-75.610299,39.303437",
+    "geom:latitude":39.303437,
+    "geom:longitude":-75.610299,
+    "iso:country":"US",
+    "sg:address":"203 N Main St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 1669",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BM5SacQpTRmtE4ezCvA9J_39.303437_-75.610299@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220730,
+    "wof:geomhash":"5f0df9bbdfe926f092dc072ace7b2ce2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857695601
+        }
+    ],
+    "wof:id":857695601,
+    "wof:lastmodified":1464220730,
+    "wof:name":"Blanca O Lim MD",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.610299,
+    39.303437,
+    -75.610299,
+    39.303437
+],
+  "geometry": {"coordinates":[-75.610299,39.303437],"type":"Point"}
+}

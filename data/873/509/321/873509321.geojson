@@ -1,0 +1,68 @@
+{
+  "id": 873509321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529598,39.74489,-75.529598,39.74489",
+    "geom:latitude":39.74489,
+    "geom:longitude":-75.529598,
+    "iso:country":"US",
+    "sg:address":"4001 Vandever Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 6203",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vLYVxAp8FkuQDYN7YyGnp_39.744890_-75.529598@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223345,
+    "wof:geomhash":"b4b8dde0b178d266060802319daed96e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873509321
+        }
+    ],
+    "wof:id":873509321,
+    "wof:lastmodified":1464223345,
+    "wof:name":"Amtrak Maintenance",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.529598,
+    39.74489,
+    -75.529598,
+    39.74489
+],
+  "geometry": {"coordinates":[-75.52959799999999,39.74489],"type":"Point"}
+}

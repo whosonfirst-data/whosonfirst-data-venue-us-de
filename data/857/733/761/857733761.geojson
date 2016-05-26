@@ -1,0 +1,71 @@
+{
+  "id": 857733761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.6118,39.302158,-75.6118,39.302158",
+    "geom:latitude":39.302158,
+    "geom:longitude":-75.6118,
+    "iso:country":"US",
+    "sg:address":"107 W Glenwood Ave",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 9352",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "military"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VTAanapqteBjIWFk9taVc_39.302158_-75.611800@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221514,
+    "wof:geomhash":"bf30695df2b94e3b4a1136b4f7b9ab58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857733761
+        }
+    ],
+    "wof:id":857733761,
+    "wof:lastmodified":1464221514,
+    "wof:name":"American Legion",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "military"
+    ]
+},
+  "bbox": [
+    -75.6118,
+    39.302158,
+    -75.6118,
+    39.302158
+],
+  "geometry": {"coordinates":[-75.6118,39.302158],"type":"Point"}
+}

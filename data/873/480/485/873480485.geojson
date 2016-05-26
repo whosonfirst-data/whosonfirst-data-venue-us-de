@@ -1,0 +1,73 @@
+{
+  "id": 873480485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.405053,38.711169,-75.405053,38.711169",
+    "geom:latitude":38.711169,
+    "geom:longitude":-75.405053,
+    "iso:country":"US",
+    "sg:address":"701 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 853 0140",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dszbs61h991pIxwkTL2cc_38.711169_-75.405053@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222132,
+    "wof:geomhash":"017c9978f4bb780947593f598ccee357",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873480485
+        }
+    ],
+    "wof:id":873480485,
+    "wof:lastmodified":1464222132,
+    "wof:name":"WOCQ",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -75.405053,
+    38.711169,
+    -75.405053,
+    38.711169
+],
+  "geometry": {"coordinates":[-75.405053,38.711169],"type":"Point"}
+}

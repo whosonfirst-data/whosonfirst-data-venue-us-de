@@ -1,0 +1,81 @@
+{
+  "id": 873518953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.646347,39.730019,-75.646347,39.730019",
+    "geom:latitude":39.730019,
+    "geom:longitude":-75.646347,
+    "iso:country":"US",
+    "sg:address":"3927 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8887",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "oil",
+        "refiner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4d4fhSna8xC5n0rd8lwMVM_39.730019_-75.646347@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223833,
+    "wof:geomhash":"93d63a806a89a5de83b75069a5ad0c6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873518953
+        }
+    ],
+    "wof:id":873518953,
+    "wof:lastmodified":1464223833,
+    "wof:name":"Dumlindem Citgo",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil",
+        "refiner"
+    ]
+},
+  "bbox": [
+    -75.646347,
+    39.730019,
+    -75.646347,
+    39.730019
+],
+  "geometry": {"coordinates":[-75.64634700000001,39.730019],"type":"Point"}
+}

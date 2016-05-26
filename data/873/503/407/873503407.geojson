@@ -1,0 +1,73 @@
+{
+  "id": 873503407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551986,39.74362,-75.551986,39.74362",
+    "geom:latitude":39.74362,
+    "geom:longitude":-75.551986,
+    "iso:country":"US",
+    "sg:address":"205 W 7th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 0700",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rSJGVO4GbrUhTY1pXniEP_39.743620_-75.551986@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223079,
+    "wof:geomhash":"3bc108ad3064c26b3752d5a188032fb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873503407
+        }
+    ],
+    "wof:id":873503407,
+    "wof:lastmodified":1464223079,
+    "wof:name":"Queen Bean Down Town",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.551986,
+    39.74362,
+    -75.551986,
+    39.74362
+],
+  "geometry": {"coordinates":[-75.551986,39.74362],"type":"Point"}
+}

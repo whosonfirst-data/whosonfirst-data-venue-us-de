@@ -1,0 +1,72 @@
+{
+  "id": 873523491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547278,39.104521,-75.547278,39.104521",
+    "geom:latitude":39.104521,
+    "geom:longitude":-75.547278,
+    "iso:country":"US",
+    "sg:address":"202 Jacks Way",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 5015",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "sg:website":"www.ryland.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QtdBnI65sLakuXFrsnbyn_39.104521_-75.547278@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224022,
+    "wof:geomhash":"06ed952fc3af6727ed8d8dbcdb3bac40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523491
+        }
+    ],
+    "wof:id":873523491,
+    "wof:lastmodified":1464224022,
+    "wof:name":"Ryland Homes Camden",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.547278,
+    39.104521,
+    -75.547278,
+    39.104521
+],
+  "geometry": {"coordinates":[-75.54727800000001,39.104521],"type":"Point"}
+}

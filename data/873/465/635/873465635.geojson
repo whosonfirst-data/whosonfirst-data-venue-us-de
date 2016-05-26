@@ -1,0 +1,71 @@
+{
+  "id": 873465635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.652585,39.76655,-75.652585,39.76655",
+    "geom:latitude":39.76655,
+    "geom:longitude":-75.652585,
+    "iso:country":"US",
+    "sg:address":"501 Old Wilmington Rd",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 8200",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35CwQKLEt10JBZ9mE4tHPb_39.766550_-75.652585@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221581,
+    "wof:geomhash":"8e8c2464b114811cd036c9d5a6cf167d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873465635
+        }
+    ],
+    "wof:id":873465635,
+    "wof:lastmodified":1464221581,
+    "wof:name":"C & H Auto Repair",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.652585,
+    39.76655,
+    -75.652585,
+    39.76655
+],
+  "geometry": {"coordinates":[-75.652585,39.76655],"type":"Point"}
+}

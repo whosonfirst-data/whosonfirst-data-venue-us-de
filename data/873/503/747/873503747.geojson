@@ -1,0 +1,69 @@
+{
+  "id": 873503747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.639755,39.730961,-75.639755,39.730961",
+    "geom:latitude":39.730961,
+    "geom:longitude":-75.639755,
+    "iso:country":"US",
+    "sg:address":"2113 Jackson Ave",
+    "sg:city":"Marshallton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9570",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "appliance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CuN9AZcZqHBex42pVfalx_39.730961_-75.639755@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223090,
+    "wof:geomhash":"6a94d5e0e704c13bd6f0a21325b6f3dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873503747
+        }
+    ],
+    "wof:id":873503747,
+    "wof:lastmodified":1464223090,
+    "wof:name":"County Appliance Svc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance"
+    ]
+},
+  "bbox": [
+    -75.639755,
+    39.730961,
+    -75.639755,
+    39.730961
+],
+  "geometry": {"coordinates":[-75.63975499999999,39.730961],"type":"Point"}
+}

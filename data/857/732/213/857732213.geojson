@@ -1,0 +1,71 @@
+{
+  "id": 857732213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555332,39.688418,-75.555332,39.688418",
+    "geom:latitude":39.688418,
+    "geom:longitude":-75.555332,
+    "iso:country":"US",
+    "sg:address":"123 Bellanca Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 8463",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oTIYvExWdhBfDEUgh7iGE_39.688418_-75.555332@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221487,
+    "wof:geomhash":"7a9836d6e7228784bd908ef0efdfcda8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857732213
+        }
+    ],
+    "wof:id":857732213,
+    "wof:lastmodified":1464221487,
+    "wof:name":"R&R Affordable Painting",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.555332,
+    39.688418,
+    -75.555332,
+    39.688418
+],
+  "geometry": {"coordinates":[-75.55533200000001,39.688418],"type":"Point"}
+}

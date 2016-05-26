@@ -1,0 +1,71 @@
+{
+  "id": 857693657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.726632,39.032394,-75.726632,39.032394",
+    "geom:latitude":39.032394,
+    "geom:longitude":-75.726632,
+    "iso:country":"US",
+    "sg:address":"1200 Willow Grove Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 3866",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zEa1P9gefTKLoWptvWcrj_39.032394_-75.726632@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220693,
+    "wof:geomhash":"089f9e1cef243a60ab612c20aacad55d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857693657
+        }
+    ],
+    "wof:id":857693657,
+    "wof:lastmodified":1464220693,
+    "wof:name":"Country Cupboard The",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.726632,
+    39.032394,
+    -75.726632,
+    39.032394
+],
+  "geometry": {"coordinates":[-75.726632,39.032394],"type":"Point"}
+}

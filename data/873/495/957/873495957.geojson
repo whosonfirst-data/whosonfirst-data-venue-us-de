@@ -1,0 +1,71 @@
+{
+  "id": 873495957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.508988,39.789205,-75.508988,39.789205",
+    "geom:latitude":39.789205,
+    "geom:longitude":-75.508988,
+    "iso:country":"US",
+    "sg:address":"1209 Redleaf Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 4475",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821991,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s7QHvCwwV3EifLr1tzfA7_39.789205_-75.508988@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222777,
+    "wof:geomhash":"b2379919ba5484ac9b658e1bbba4d78f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821991,
+            "region_id":85688611,
+            "venue_id":873495957
+        }
+    ],
+    "wof:id":873495957,
+    "wof:lastmodified":1464222777,
+    "wof:name":"First State Contracting",
+    "wof:parent_id":85821991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.508988,
+    39.789205,
+    -75.508988,
+    39.789205
+],
+  "geometry": {"coordinates":[-75.508988,39.789205],"type":"Point"}
+}

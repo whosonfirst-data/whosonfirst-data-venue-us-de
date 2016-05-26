@@ -1,0 +1,71 @@
+{
+  "id": 873507017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.600752,39.649354,-75.600752,39.649354",
+    "geom:latitude":39.649354,
+    "geom:longitude":-75.600752,
+    "iso:country":"US",
+    "sg:address":"600 Grantham Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Paper Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 0900",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "packaging",
+        "material"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Qr2vpDPsOagtGHSHbZj3C_39.649354_-75.600752@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223237,
+    "wof:geomhash":"dc8a16c8bc99d284e0ba15fafac9cb7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873507017
+        }
+    ],
+    "wof:id":873507017,
+    "wof:lastmodified":1464223237,
+    "wof:name":"Printpack Inc",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "packaging",
+        "material"
+    ]
+},
+  "bbox": [
+    -75.600752,
+    39.649354,
+    -75.600752,
+    39.649354
+],
+  "geometry": {"coordinates":[-75.600752,39.649354],"type":"Point"}
+}

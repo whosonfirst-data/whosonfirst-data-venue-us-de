@@ -1,0 +1,67 @@
+{
+  "id": 873520795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523761,39.17525,-75.523761,39.17525",
+    "geom:latitude":39.17525,
+    "geom:longitude":-75.523761,
+    "iso:country":"US",
+    "sg:address":"530 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 9820",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:website":"www.stopandshop.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HVMiF6C5C8eOPqjR2tYMb_39.175250_-75.523761@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223918,
+    "wof:geomhash":"1a3db52541ec9e5ff90b94e1ccd84b8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873520795
+        }
+    ],
+    "wof:id":873520795,
+    "wof:lastmodified":1464223918,
+    "wof:name":"Stop & Shop #4",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.523761,
+    39.17525,
+    -75.523761,
+    39.17525
+],
+  "geometry": {"coordinates":[-75.52376099999999,39.17525],"type":"Point"}
+}

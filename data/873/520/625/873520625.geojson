@@ -1,0 +1,83 @@
+{
+  "id": 873520625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.499199,39.824501,-75.499199,39.824501",
+    "geom:latitude":39.824501,
+    "geom:longitude":-75.499199,
+    "iso:country":"US",
+    "sg:address":"2018 Naamans Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 2212",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Nfa4yd8qBbhIPjhRQyqvh_39.824501_-75.499199@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223910,
+    "wof:geomhash":"04083eaef78cc486fc8faf10a2bcafa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873520625
+        }
+    ],
+    "wof:id":873520625,
+    "wof:lastmodified":1464223910,
+    "wof:name":"Kindercare Learning Centers",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.499199,
+    39.824501,
+    -75.499199,
+    39.824501
+],
+  "geometry": {"coordinates":[-75.499199,39.824501],"type":"Point"}
+}

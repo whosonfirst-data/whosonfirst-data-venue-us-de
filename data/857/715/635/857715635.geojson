@@ -1,0 +1,71 @@
+{
+  "id": 857715635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746217,39.616124,-75.746217,39.616124",
+    "geom:latitude":39.616124,
+    "geom:longitude":-75.746217,
+    "iso:country":"US",
+    "sg:address":"225 Corporate Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 6602",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "resource"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qw5FXwLsqqYfMoreKwsa0_39.616124_-75.746217@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221159,
+    "wof:geomhash":"03cc07fa6a53327cff5bc401a32ca7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857715635
+        }
+    ],
+    "wof:id":857715635,
+    "wof:lastmodified":1464221159,
+    "wof:name":"Unemployment Insurance Div",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "resource"
+    ]
+},
+  "bbox": [
+    -75.746217,
+    39.616124,
+    -75.746217,
+    39.616124
+],
+  "geometry": {"coordinates":[-75.746217,39.616124],"type":"Point"}
+}

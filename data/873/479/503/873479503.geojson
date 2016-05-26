@@ -1,0 +1,71 @@
+{
+  "id": 873479503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.667486,39.737496,-75.667486,39.737496",
+    "geom:latitude":39.737496,
+    "geom:longitude":-75.667486,
+    "iso:country":"US",
+    "sg:address":"1 Carsdale Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 9100",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ruAxBkUnY8zwQYJjnRe7i_39.737496_-75.667486@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222086,
+    "wof:geomhash":"77fe71239f036dbc18e58122492d1eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873479503
+        }
+    ],
+    "wof:id":873479503,
+    "wof:lastmodified":1464222086,
+    "wof:name":"Coastal Mechanical Inc",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.667486,
+    39.737496,
+    -75.667486,
+    39.737496
+],
+  "geometry": {"coordinates":[-75.667486,39.737496],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873509753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.65464,39.65644,-75.65464,39.65644",
+    "geom:latitude":39.65644,
+    "geom:longitude":-75.65464,
+    "iso:country":"US",
+    "sg:address":"250 Bear Christiana Rd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 4488",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintain",
+        "traffic",
+        "install",
+        "sign"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4319gH8IGdLNRKXNMXSs4q_39.656440_-75.654640@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223368,
+    "wof:geomhash":"9b68a152484c7f14b78b27ca6ab203bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873509753
+        }
+    ],
+    "wof:id":873509753,
+    "wof:lastmodified":1464223368,
+    "wof:name":"Transportation Delaware Dept",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintain",
+        "traffic",
+        "install",
+        "sign"
+    ]
+},
+  "bbox": [
+    -75.65464,
+    39.65644,
+    -75.65464,
+    39.65644
+],
+  "geometry": {"coordinates":[-75.65464,39.65644],"type":"Point"}
+}

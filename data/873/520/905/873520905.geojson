@@ -1,0 +1,67 @@
+{
+  "id": 873520905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537697,39.187199,-75.537697,39.187199",
+    "geom:latitude":39.187199,
+    "geom:longitude":-75.537697,
+    "iso:country":"US",
+    "sg:address":"1005 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 8081",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:website":"www.haircuttery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7i16jM7cuvNgWVGXXHbMO0_39.187199_-75.537697@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223922,
+    "wof:geomhash":"aab868f702383d48dfb432a2748a98c5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873520905
+        }
+    ],
+    "wof:id":873520905,
+    "wof:lastmodified":1464223922,
+    "wof:name":"Hair Cuttery",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.537697,
+    39.187199,
+    -75.537697,
+    39.187199
+],
+  "geometry": {"coordinates":[-75.53769699999999,39.187199],"type":"Point"}
+}

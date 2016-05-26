@@ -1,0 +1,73 @@
+{
+  "id": 857685133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523622,39.175374,-75.523622,39.175374",
+    "geom:latitude":39.175374,
+    "geom:longitude":-75.523622,
+    "iso:country":"US",
+    "sg:address":"500 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 3077",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pawnbroker",
+        "pawnshop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_18pziN7idHHRpCqwDtMkZj_39.175374_-75.523622@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220524,
+    "wof:geomhash":"637bc8577dcf1178c1e92d4a66232acb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857685133
+        }
+    ],
+    "wof:id":857685133,
+    "wof:lastmodified":1464220524,
+    "wof:name":"Dover Jewelry & Pawn Exchange",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pawnbroker",
+        "pawnshop"
+    ]
+},
+  "bbox": [
+    -75.523622,
+    39.175374,
+    -75.523622,
+    39.175374
+],
+  "geometry": {"coordinates":[-75.523622,39.175374],"type":"Point"}
+}

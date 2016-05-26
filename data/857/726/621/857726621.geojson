@@ -1,0 +1,73 @@
+{
+  "id": 857726621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.749605,39.69549,-75.749605,39.69549",
+    "geom:latitude":39.69549,
+    "geom:longitude":-75.749605,
+    "iso:country":"US",
+    "sg:address":"206 Wharton Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 2214",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7mVnJMtnIRiijp1MgiDZpC_39.695490_-75.749605@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221372,
+    "wof:geomhash":"1a52004589b5c79d21f052d4292de0a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":857726621
+        }
+    ],
+    "wof:id":857726621,
+    "wof:lastmodified":1464221372,
+    "wof:name":"Breeze Cleaning Services",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.749605,
+    39.69549,
+    -75.749605,
+    39.69549
+],
+  "geometry": {"coordinates":[-75.749605,39.69549],"type":"Point"}
+}

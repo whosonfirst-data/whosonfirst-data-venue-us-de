@@ -1,0 +1,82 @@
+{
+  "id": 857726025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.513339,39.160813,-75.513339,39.160813",
+    "geom:latitude":39.160813,
+    "geom:longitude":-75.513339,
+    "iso:country":"US",
+    "sg:address":"236 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8282",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specializing",
+        "oil",
+        "maintenance",
+        "change",
+        "vehicle"
+    ],
+    "sg:website":"www.jiffylube.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2bwtDA4oUIzoTBivK4FmAx_39.160813_-75.513339@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221362,
+    "wof:geomhash":"1dfd40ad0716ed22c8d792699eb04e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":857726025
+        }
+    ],
+    "wof:id":857726025,
+    "wof:lastmodified":1464221362,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specializing",
+        "oil",
+        "maintenance",
+        "change",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -75.513339,
+    39.160813,
+    -75.513339,
+    39.160813
+],
+  "geometry": {"coordinates":[-75.513339,39.160813],"type":"Point"}
+}

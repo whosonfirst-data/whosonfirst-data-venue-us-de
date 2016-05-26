@@ -1,0 +1,71 @@
+{
+  "id": 873497343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.393387,38.696871,-75.393387,38.696871",
+    "geom:latitude":38.696871,
+    "geom:longitude":-75.393387,
+    "iso:country":"US",
+    "sg:address":"654 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7441",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06IGi1nxOwzOYbn56XhawF_38.696871_-75.393387@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222835,
+    "wof:geomhash":"9f8ccabefea73d3481f813d4ed2fef25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873497343
+        }
+    ],
+    "wof:id":873497343,
+    "wof:lastmodified":1464222835,
+    "wof:name":"Lankford Sr Richard Contr Bldr",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.393387,
+    38.696871,
+    -75.393387,
+    38.696871
+],
+  "geometry": {"coordinates":[-75.393387,38.696871],"type":"Point"}
+}

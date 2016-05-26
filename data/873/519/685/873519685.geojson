@@ -1,0 +1,66 @@
+{
+  "id": 873519685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.500298,39.824799,-75.500298,39.824799",
+    "geom:latitude":39.824799,
+    "geom:longitude":-75.500298,
+    "iso:country":"US",
+    "sg:address":"2078 Naamans Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 1223",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h44jHvpoJqFIYJuzdwfoe_39.824799_-75.500298@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223865,
+    "wof:geomhash":"4d6cc16993a2f263b117064dcc12f8d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519685
+        }
+    ],
+    "wof:id":873519685,
+    "wof:lastmodified":1464223865,
+    "wof:name":"F & N Cleaners",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.500298,
+    39.824799,
+    -75.500298,
+    39.824799
+],
+  "geometry": {"coordinates":[-75.500298,39.824799],"type":"Point"}
+}

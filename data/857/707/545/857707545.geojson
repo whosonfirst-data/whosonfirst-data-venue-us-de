@@ -1,0 +1,78 @@
+{
+  "id": 857707545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550635,39.158799,-75.550635,39.158799",
+    "geom:latitude":39.158799,
+    "geom:longitude":-75.550635,
+    "iso:country":"US",
+    "sg:address":"1192 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9345",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_373F8cFsiWhB2mzF010ulf_39.158799_-75.550635@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220959,
+    "wof:geomhash":"ddadaa91dff810b7b0a8b28499dda160",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":857707545
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":857707545
+        }
+    ],
+    "wof:id":857707545,
+    "wof:lastmodified":1464220959,
+    "wof:name":"Pompeii Beauty Shop",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.550635,
+    39.158799,
+    -75.550635,
+    39.158799
+],
+  "geometry": {"coordinates":[-75.550635,39.158799],"type":"Point"}
+}

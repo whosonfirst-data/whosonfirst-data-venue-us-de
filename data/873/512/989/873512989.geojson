@@ -1,0 +1,76 @@
+{
+  "id": 873512989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698426,39.789381,-75.698426,39.789381",
+    "geom:latitude":39.789381,
+    "geom:longitude":-75.698426,
+    "iso:country":"US",
+    "sg:address":"7465 Lancaster Pike",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/piedmont/23224-six-paupers-tavern/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 489 7287",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6I27EUWhrLmJpS0wqcyWCr_39.789381_-75.698426@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223513,
+    "wof:geomhash":"45fb55d2e526a34f3a904f0c5c457283",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873512989
+        }
+    ],
+    "wof:id":873512989,
+    "wof:lastmodified":1464223513,
+    "wof:name":"Six Paupers Tavern",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -75.698426,
+    39.789381,
+    -75.698426,
+    39.789381
+],
+  "geometry": {"coordinates":[-75.698426,39.789381],"type":"Point"}
+}

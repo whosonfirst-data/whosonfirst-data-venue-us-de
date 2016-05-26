@@ -1,0 +1,73 @@
+{
+  "id": 873496375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537681,39.17144,-75.537681,39.17144",
+    "geom:latitude":39.17144,
+    "geom:longitude":-75.537681,
+    "iso:country":"US",
+    "sg:address":"625 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 1525",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "high"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85852037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CBTLHSI5YDEalyoxiWg8z_39.171440_-75.537681@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222793,
+    "wof:geomhash":"e34912119d6a0123d5f62bfcc8241a11",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85852037,
+            "region_id":85688611,
+            "venue_id":873496375
+        }
+    ],
+    "wof:id":873496375,
+    "wof:lastmodified":1464222793,
+    "wof:name":"Dover High School",
+    "wof:parent_id":85852037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high"
+    ]
+},
+  "bbox": [
+    -75.537681,
+    39.17144,
+    -75.537681,
+    39.17144
+],
+  "geometry": {"coordinates":[-75.53768100000001,39.17144],"type":"Point"}
+}

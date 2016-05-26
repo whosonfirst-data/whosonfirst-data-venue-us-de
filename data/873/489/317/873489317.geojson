@@ -1,0 +1,73 @@
+{
+  "id": 873489317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.189089,38.67608,-75.189089,38.67608",
+    "geom:latitude":38.67608,
+    "geom:longitude":-75.189089,
+    "iso:country":"US",
+    "sg:address":"22399 Dorman Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 9069",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48SKOa2ht2byFg4ncEUVeT_38.676080_-75.189089@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222468,
+    "wof:geomhash":"cfc9d0769e93419f37c644a15fcdb652",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873489317
+        }
+    ],
+    "wof:id":873489317,
+    "wof:lastmodified":1464222468,
+    "wof:name":"Heavy Duty Hauling",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.189089,
+    38.67608,
+    -75.189089,
+    38.67608
+],
+  "geometry": {"coordinates":[-75.189089,38.67608],"type":"Point"}
+}

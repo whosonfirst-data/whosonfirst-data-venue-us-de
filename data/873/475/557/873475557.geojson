@@ -1,0 +1,78 @@
+{
+  "id": 873475557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.674992,39.667897,-75.674992,39.667897",
+    "geom:latitude":39.667897,
+    "geom:longitude":-75.674992,
+    "iso:country":"US",
+    "sg:address":"260 Chapman Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 9756",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "provider",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fySOXX2KON5tdGB2gGfzh_39.667897_-75.674992@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221934,
+    "wof:geomhash":"8abe21ab5dc1c42900f4bcf36d51d050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873475557
+        }
+    ],
+    "wof:id":873475557,
+    "wof:lastmodified":1464221934,
+    "wof:name":"Home Health Corp of America",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "provider",
+        "care"
+    ]
+},
+  "bbox": [
+    -75.674992,
+    39.667897,
+    -75.674992,
+    39.667897
+],
+  "geometry": {"coordinates":[-75.674992,39.667897],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 873525241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606324,39.3009,-75.606324,39.3009",
+    "geom:latitude":39.3009,
+    "geom:longitude":-75.606324,
+    "iso:country":"US",
+    "sg:address":"6 E Commerce St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 1985",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "roofing",
+        "industrial",
+        "builder",
+        "contractor",
+        "siding",
+        "contractors-commercial",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KKLJfrvBNwtHnb5Ut0WP9_39.300900_-75.606324@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224089,
+    "wof:geomhash":"50004e4d68bbd7a59269b625eaf65f27",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525241
+        }
+    ],
+    "wof:id":873525241,
+    "wof:lastmodified":1464224089,
+    "wof:name":"Delaware Roofing & Siding",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "industrial",
+        "builder",
+        "contractor",
+        "siding",
+        "contractors-commercial",
+        "home"
+    ]
+},
+  "bbox": [
+    -75.606324,
+    39.3009,
+    -75.606324,
+    39.3009
+],
+  "geometry": {"coordinates":[-75.606324,39.3009],"type":"Point"}
+}

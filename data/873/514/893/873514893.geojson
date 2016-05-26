@@ -1,0 +1,78 @@
+{
+  "id": 873514893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.691283,39.799937,-75.691283,39.799937",
+    "geom:latitude":39.799937,
+    "geom:longitude":-75.691283,
+    "iso:country":"US",
+    "sg:address":"735 Meeting House Rd",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 2223",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_024A8y26ZUIaX2PRwNHNNN_39.799937_-75.691283@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223616,
+    "wof:geomhash":"70f235dd1df314bbc78b75c46fc316bb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873514893
+        }
+    ],
+    "wof:id":873514893,
+    "wof:lastmodified":1464223616,
+    "wof:name":"Hockessin Friends Pre-School",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.691283,
+    39.799937,
+    -75.691283,
+    39.799937
+],
+  "geometry": {"coordinates":[-75.691283,39.799937],"type":"Point"}
+}

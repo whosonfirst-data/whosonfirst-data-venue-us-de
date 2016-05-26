@@ -1,0 +1,69 @@
+{
+  "id": 873504735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.70795,39.713475,-75.70795,39.713475",
+    "geom:latitude":39.713475,
+    "geom:longitude":-75.70795,
+    "iso:country":"US",
+    "sg:address":"13 Edgemont Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 9238",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Hj1rzLlyARsW3vY5wF1Hg_39.713475_-75.707950@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223141,
+    "wof:geomhash":"28a994c8deddfd443d0228e3b760b7d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873504735
+        }
+    ],
+    "wof:id":873504735,
+    "wof:lastmodified":1464223141,
+    "wof:name":"Champion Window Cleaners",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    -75.70795,
+    39.713475,
+    -75.70795,
+    39.713475
+],
+  "geometry": {"coordinates":[-75.70795,39.713475],"type":"Point"}
+}

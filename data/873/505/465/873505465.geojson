@@ -1,0 +1,73 @@
+{
+  "id": 873505465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524427,39.15798,-75.524427,39.15798",
+    "geom:latitude":39.15798,
+    "geom:longitude":-75.524427,
+    "iso:country":"US",
+    "sg:address":"8 W Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 0206",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iSdDivLFP7lxQQdZClOC6_39.157980_-75.524427@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223179,
+    "wof:geomhash":"c8d16a8b541554b0cb452ef85e5a1ca2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873505465
+        }
+    ],
+    "wof:id":873505465,
+    "wof:lastmodified":1464223179,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -75.524427,
+    39.15798,
+    -75.524427,
+    39.15798
+],
+  "geometry": {"coordinates":[-75.524427,39.15798],"type":"Point"}
+}

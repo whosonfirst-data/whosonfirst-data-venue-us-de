@@ -1,0 +1,79 @@
+{
+  "id": 873525445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553679,39.160071,-75.553679,39.160071",
+    "geom:latitude":39.160071,
+    "geom:longitude":-75.553679,
+    "iso:country":"US",
+    "sg:address":"160 Greentree Drive Suite 101",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 619 550 4668",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:website":"http://www.metatroninc.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32BOiLVYSJaqFjH3BcP1tw_39.160071_-75.553679@1308186498"
+    },
+    "wof:country":"US",
+    "wof:created":1464224097,
+    "wof:geomhash":"b32fe89cda0d8e2625c44eb2cad49097",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873525445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873525445
+        }
+    ],
+    "wof:id":873525445,
+    "wof:lastmodified":1464224097,
+    "wof:name":"Metatron",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.553679,
+    39.160071,
+    -75.553679,
+    39.160071
+],
+  "geometry": {"coordinates":[-75.553679,39.160071],"type":"Point"}
+}

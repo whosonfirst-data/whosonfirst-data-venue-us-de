@@ -1,0 +1,75 @@
+{
+  "id": 873465671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.392998,38.684385,-75.392998,38.684385",
+    "geom:latitude":38.684385,
+    "geom:longitude":-75.392998,
+    "iso:country":"US",
+    "sg:address":"504 W Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 9815",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "care",
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26rGNRSlpX1wP90bOlgviH_38.684385_-75.392998@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221582,
+    "wof:geomhash":"096258f75b3216c1079d2530a2c8a692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873465671
+        }
+    ],
+    "wof:id":873465671,
+    "wof:lastmodified":1464221582,
+    "wof:name":"Easter Seals",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "care",
+        "center",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.392998,
+    38.684385,
+    -75.392998,
+    38.684385
+],
+  "geometry": {"coordinates":[-75.39299800000001,38.684385],"type":"Point"}
+}

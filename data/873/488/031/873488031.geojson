@@ -1,0 +1,73 @@
+{
+  "id": 873488031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.448125,38.471194,-75.448125,38.471194",
+    "geom:latitude":38.471194,
+    "geom:longitude":-75.448125,
+    "iso:country":"US",
+    "sg:address":"16937 Whitesville Rd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 846 9915",
+    "sg:postcode":"19940",
+    "sg:province":"DE",
+    "sg:tags":[
+        "special",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XAGMN4WwAJwwQAyjxyx3x_38.471194_-75.448125@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222424,
+    "wof:geomhash":"db285661e9fc6278175cdb91edaf32aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873488031
+        }
+    ],
+    "wof:id":873488031,
+    "wof:lastmodified":1464222424,
+    "wof:name":"J & A Overhead Door Inc",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.448125,
+    38.471194,
+    -75.448125,
+    38.471194
+],
+  "geometry": {"coordinates":[-75.448125,38.471194],"type":"Point"}
+}

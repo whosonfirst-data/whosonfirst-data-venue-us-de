@@ -1,0 +1,80 @@
+{
+  "id": 857689157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.511975,39.765466,-75.511975,39.765466",
+    "geom:latitude":39.765466,
+    "geom:longitude":-75.511975,
+    "iso:country":"US",
+    "sg:address":"203 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Office Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 5500",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "business",
+        "copying",
+        "duplicating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3duPFMCMb0FWP3Qc8pbkgX_39.765466_-75.511975@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220602,
+    "wof:geomhash":"b66db632134f1a3c4a98af2f9ad993de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":857689157
+        }
+    ],
+    "wof:id":857689157,
+    "wof:lastmodified":1464220602,
+    "wof:name":"Tri State Business Machines",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "business",
+        "copying",
+        "duplicating"
+    ]
+},
+  "bbox": [
+    -75.511975,
+    39.765466,
+    -75.511975,
+    39.765466
+],
+  "geometry": {"coordinates":[-75.51197500000001,39.765466],"type":"Point"}
+}

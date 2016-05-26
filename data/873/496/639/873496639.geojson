@@ -1,0 +1,73 @@
+{
+  "id": 873496639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.747219,39.683572,-75.747219,39.683572",
+    "geom:latitude":39.683572,
+    "geom:longitude":-75.747219,
+    "iso:country":"US",
+    "sg:address":"154 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 9628",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6HDA8XCielTVKjS9H6vvQb_39.683572_-75.747219@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222809,
+    "wof:geomhash":"732a46940839f5921c924c97d54a9b3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873496639
+        }
+    ],
+    "wof:id":873496639,
+    "wof:lastmodified":1464222809,
+    "wof:name":"Main Street Barber Shop",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.747219,
+    39.683572,
+    -75.747219,
+    39.683572
+],
+  "geometry": {"coordinates":[-75.747219,39.683572],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873492215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.7792,39.648086,-75.7792,39.648086",
+    "geom:latitude":39.648086,
+    "geom:longitude":-75.7792,
+    "iso:country":"US",
+    "sg:address":"27 Arizona State Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 8160",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AgnAx3Ckdi4glETkxa9w0_39.648086_-75.779200@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222573,
+    "wof:geomhash":"4037207ee7c997fd3c6af93bc6e50650",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873492215
+        }
+    ],
+    "wof:id":873492215,
+    "wof:lastmodified":1464222573,
+    "wof:name":"Thompson Backhoe Service",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.7792,
+    39.648086,
+    -75.7792,
+    39.648086
+],
+  "geometry": {"coordinates":[-75.7792,39.648086],"type":"Point"}
+}

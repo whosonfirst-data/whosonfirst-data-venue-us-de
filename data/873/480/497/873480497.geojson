@@ -1,0 +1,69 @@
+{
+  "id": 873480497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.449039,38.919615,-75.449039,38.919615",
+    "geom:latitude":38.919615,
+    "geom:longitude":-75.449039,
+    "iso:country":"US",
+    "sg:address":"568 Milford Harrington Hwy",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 0900",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ambulance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4wmnGQ0hCxVaeVBaoHC1EF_38.919615_-75.449039@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222132,
+    "wof:geomhash":"c9c949393fe0700180d17f870a6a067f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873480497
+        }
+    ],
+    "wof:id":873480497,
+    "wof:lastmodified":1464222132,
+    "wof:name":"Primecare Medical Transport",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulance"
+    ]
+},
+  "bbox": [
+    -75.449039,
+    38.919615,
+    -75.449039,
+    38.919615
+],
+  "geometry": {"coordinates":[-75.449039,38.919615],"type":"Point"}
+}

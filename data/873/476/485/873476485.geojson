@@ -1,0 +1,73 @@
+{
+  "id": 873476485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.521025,39.175255,-75.521025,39.175255",
+    "geom:latitude":39.175255,
+    "geom:longitude":-75.521025,
+    "iso:country":"US",
+    "sg:address":"766 Townsend Blvd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4308",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qmzr3c1GeL7lVQwbDi0cY_39.175255_-75.521025@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221965,
+    "wof:geomhash":"310da9c354ce2515bc34b51dfa01563c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873476485
+        }
+    ],
+    "wof:id":873476485,
+    "wof:lastmodified":1464221965,
+    "wof:name":"Jefferson's Beauty Salon",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.521025,
+    39.175255,
+    -75.521025,
+    39.175255
+],
+  "geometry": {"coordinates":[-75.52102499999999,39.175255],"type":"Point"}
+}

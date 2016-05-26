@@ -1,0 +1,69 @@
+{
+  "id": 873520303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547549,39.809124,-75.547549,39.809124",
+    "geom:latitude":39.809124,
+    "geom:longitude":-75.547549,
+    "iso:country":"US",
+    "sg:address":"3605 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 4942",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1t5eJnns7lzarY8zqKB6v5_39.809124_-75.547549@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223894,
+    "wof:geomhash":"d1b04c4cbeacef2f753e3bef8f1a279a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520303
+        }
+    ],
+    "wof:id":873520303,
+    "wof:lastmodified":1464223894,
+    "wof:name":"Talleyville Shopping Center",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall"
+    ]
+},
+  "bbox": [
+    -75.547549,
+    39.809124,
+    -75.547549,
+    39.809124
+],
+  "geometry": {"coordinates":[-75.547549,39.809124],"type":"Point"}
+}

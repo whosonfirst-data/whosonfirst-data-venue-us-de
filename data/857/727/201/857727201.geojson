@@ -1,0 +1,71 @@
+{
+  "id": 857727201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.664892,39.284949,-75.664892,39.284949",
+    "geom:latitude":39.284949,
+    "geom:longitude":-75.664892,
+    "iso:country":"US",
+    "sg:address":"5500 Millington Rd",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2260",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_052WKv6xCyqGgqzyhFqVrJ_39.284949_-75.664892@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221382,
+    "wof:geomhash":"9c941e8261b001fb33f23a190b086da4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857727201
+        }
+    ],
+    "wof:id":857727201,
+    "wof:lastmodified":1464221382,
+    "wof:name":"Sartin Builders",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.664892,
+    39.284949,
+    -75.664892,
+    39.284949
+],
+  "geometry": {"coordinates":[-75.66489199999999,39.284949],"type":"Point"}
+}

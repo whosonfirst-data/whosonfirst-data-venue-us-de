@@ -1,0 +1,71 @@
+{
+  "id": 873493251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592604,39.727175,-75.592604,39.727175",
+    "geom:latitude":39.727175,
+    "geom:longitude":-75.592604,
+    "iso:country":"US",
+    "sg:address":"7 Reamer Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 3130",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12HvzFmUt0ZHxCJtCBwIsT_39.727175_-75.592604@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222616,
+    "wof:geomhash":"99327ecdc9b1e39df4762ccb182ae42d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873493251
+        }
+    ],
+    "wof:id":873493251,
+    "wof:lastmodified":1464222616,
+    "wof:name":"Pet Village",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.592604,
+    39.727175,
+    -75.592604,
+    39.727175
+],
+  "geometry": {"coordinates":[-75.59260399999999,39.727175],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873513517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.645532,39.73026,-75.645532,39.73026",
+    "geom:latitude":39.73026,
+    "geom:longitude":-75.645532,
+    "iso:country":"US",
+    "sg:address":"3926 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/115296-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9220",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JPyRh4o74ShkPn8T7vQBk_39.730260_-75.645532@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223533,
+    "wof:geomhash":"c598f3687e36d5c855e709d0751f8e30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873513517
+        }
+    ],
+    "wof:id":873513517,
+    "wof:lastmodified":1464223533,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.645532,
+    39.73026,
+    -75.645532,
+    39.73026
+],
+  "geometry": {"coordinates":[-75.645532,39.73026],"type":"Point"}
+}

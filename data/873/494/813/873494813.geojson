@@ -1,0 +1,72 @@
+{
+  "id": 873494813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529567,39.135296,-75.529567,39.135296",
+    "geom:latitude":39.135296,
+    "geom:longitude":-75.529567,
+    "iso:country":"US",
+    "sg:address":"1288 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 0100",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "sg:website":"www.brownpt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5tqsUFCHBXhiZfcocHlGNs_39.135296_-75.529567@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222702,
+    "wof:geomhash":"cde120ea0ee49e40b89c91d3ebd49b29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873494813
+        }
+    ],
+    "wof:id":873494813,
+    "wof:lastmodified":1464222702,
+    "wof:name":"Brown & Assoc Physical Therapy",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.529567,
+    39.135296,
+    -75.529567,
+    39.135296
+],
+  "geometry": {"coordinates":[-75.529567,39.135296],"type":"Point"}
+}

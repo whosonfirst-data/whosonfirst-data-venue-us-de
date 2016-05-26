@@ -1,0 +1,82 @@
+{
+  "id": 857725399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.421557,38.910433,-75.421557,38.910433",
+    "geom:latitude":38.910433,
+    "geom:longitude":-75.421557,
+    "iso:country":"US",
+    "sg:address":"201 Marshall St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8383",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kwQ4xUexnnmweOB8QEB3Q_38.910433_-75.421557@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221351,
+    "wof:geomhash":"d6a214d7b2ad6d3c4e9dad1a4881a328",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857725399
+        }
+    ],
+    "wof:id":857725399,
+    "wof:lastmodified":1464221351,
+    "wof:name":"Southard's Service Station",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.421557,
+    38.910433,
+    -75.421557,
+    38.910433
+],
+  "geometry": {"coordinates":[-75.42155700000001,38.910433],"type":"Point"}
+}

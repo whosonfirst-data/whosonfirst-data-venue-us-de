@@ -1,0 +1,71 @@
+{
+  "id": 873522489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563599,39.085098,-75.563599,39.085098",
+    "geom:latitude":39.085098,
+    "geom:longitude":-75.563599,
+    "iso:country":"US",
+    "sg:address":"108 Lake Front Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 2264",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hCdUycXFxhu1DW2Z9ic02_39.085098_-75.563599@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223988,
+    "wof:geomhash":"c88da3a3ba5e686000112ab96c034a37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873522489
+        }
+    ],
+    "wof:id":873522489,
+    "wof:lastmodified":1464223988,
+    "wof:name":"Johnson N W Genl Contrctr",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.563599,
+    39.085098,
+    -75.563599,
+    39.085098
+],
+  "geometry": {"coordinates":[-75.563599,39.085098],"type":"Point"}
+}

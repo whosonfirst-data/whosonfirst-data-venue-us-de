@@ -1,0 +1,78 @@
+{
+  "id": 873523263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5812,39.1418,-75.5812,39.1418",
+    "geom:latitude":39.1418,
+    "geom:longitude":-75.5812,
+    "iso:country":"US",
+    "sg:address":"3997 Hazlettville Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5447",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yzexmal32g12njNzGSoAQ_39.141800_-75.581200@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224014,
+    "wof:geomhash":"e0ecb86d94b98ccf5898d7b615d26e32",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873523263
+        }
+    ],
+    "wof:id":873523263,
+    "wof:lastmodified":1464224014,
+    "wof:name":"Haass'family Butcher Shop",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.5812,
+    39.1418,
+    -75.5812,
+    39.1418
+],
+  "geometry": {"coordinates":[-75.5812,39.1418],"type":"Point"}
+}

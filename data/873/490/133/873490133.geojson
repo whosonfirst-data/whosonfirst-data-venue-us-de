@@ -1,0 +1,71 @@
+{
+  "id": 873490133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.197426,38.612989,-75.197426,38.612989",
+    "geom:latitude":38.612989,
+    "geom:longitude":-75.197426,
+    "iso:country":"US",
+    "sg:address":"60 Clipper Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 7824",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hphggebznxTcUR6fjyA9S_38.612989_-75.197426@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222500,
+    "wof:geomhash":"09c9d3dbb94bb9404d99926c7f41598f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873490133
+        }
+    ],
+    "wof:id":873490133,
+    "wof:lastmodified":1464222500,
+    "wof:name":"Moore Disposal Svc",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -75.197426,
+    38.612989,
+    -75.197426,
+    38.612989
+],
+  "geometry": {"coordinates":[-75.19742599999999,38.612989],"type":"Point"}
+}

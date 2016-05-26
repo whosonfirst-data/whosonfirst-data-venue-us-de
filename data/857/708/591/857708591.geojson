@@ -1,0 +1,69 @@
+{
+  "id": 857708591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703056,39.675137,-75.703056,39.675137",
+    "geom:latitude":39.675137,
+    "geom:longitude":-75.703056,
+    "iso:country":"US",
+    "sg:address":"756 E Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 0102",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "news"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0krl6YDnoTdiRlCk8yme7T_39.675137_-75.703056@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220989,
+    "wof:geomhash":"82f2ed0a69f8e5dfd37bf3585587c728",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857708591
+        }
+    ],
+    "wof:id":857708591,
+    "wof:lastmodified":1464220989,
+    "wof:name":"Books & News Plus",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "news"
+    ]
+},
+  "bbox": [
+    -75.703056,
+    39.675137,
+    -75.703056,
+    39.675137
+],
+  "geometry": {"coordinates":[-75.703056,39.675137],"type":"Point"}
+}

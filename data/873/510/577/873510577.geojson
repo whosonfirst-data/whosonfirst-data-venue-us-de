@@ -1,0 +1,73 @@
+{
+  "id": 873510577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543071,39.739975,-75.543071,39.739975",
+    "geom:latitude":39.739975,
+    "geom:longitude":-75.543071,
+    "iso:country":"US",
+    "sg:address":"603 E 7th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 6965",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2zdlpLcOcRDWhqaJlCoUtf_39.739975_-75.543071@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223404,
+    "wof:geomhash":"e331e086eb6f7502128e423ee8258f4b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873510577
+        }
+    ],
+    "wof:id":873510577,
+    "wof:lastmodified":1464223404,
+    "wof:name":"Rashad Barber Shop",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.543071,
+    39.739975,
+    -75.543071,
+    39.739975
+],
+  "geometry": {"coordinates":[-75.543071,39.739975],"type":"Point"}
+}

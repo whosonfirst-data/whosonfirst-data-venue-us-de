@@ -1,0 +1,71 @@
+{
+  "id": 857714945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602762,39.713453,-75.602762,39.713453",
+    "geom:latitude":39.713453,
+    "geom:longitude":-75.602762,
+    "iso:country":"US",
+    "sg:address":"400 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 6970",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "business",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ctKXYJyli6JdihnU7BwUh_39.713453_-75.602762@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221146,
+    "wof:geomhash":"b2603fdbd424f1eeea603960116f4175",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857714945
+        }
+    ],
+    "wof:id":857714945,
+    "wof:lastmodified":1464221146,
+    "wof:name":"McConnell Bros Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.602762,
+    39.713453,
+    -75.602762,
+    39.713453
+],
+  "geometry": {"coordinates":[-75.602762,39.713453],"type":"Point"}
+}

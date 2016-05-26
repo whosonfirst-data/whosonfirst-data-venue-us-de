@@ -1,0 +1,68 @@
+{
+  "id": 857733145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566048,39.755317,-75.566048,39.755317",
+    "geom:latitude":39.755317,
+    "geom:longitude":-75.566048,
+    "iso:country":"US",
+    "sg:address":"1801 Pennsylvania Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 4864",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67plDbj3G2RzpWYj3LZDDR_39.755317_-75.566048@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221504,
+    "wof:geomhash":"06a90bb110f6ac7304938bf5b1bc4e05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857733145
+        }
+    ],
+    "wof:id":857733145,
+    "wof:lastmodified":1464221504,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.566048,
+    39.755317,
+    -75.566048,
+    39.755317
+],
+  "geometry": {"coordinates":[-75.56604799999999,39.755317],"type":"Point"}
+}

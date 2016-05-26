@@ -1,0 +1,71 @@
+{
+  "id": 873475121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.390219,38.693886,-75.390219,38.693886",
+    "geom:latitude":38.693886,
+    "geom:longitude":-75.390219,
+    "iso:country":"US",
+    "sg:address":"546 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 5450",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uEVYMya82aACKuMJq8xwG_38.693886_-75.390219@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221919,
+    "wof:geomhash":"1ada4f9530937282d94494b570ee7267",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873475121
+        }
+    ],
+    "wof:id":873475121,
+    "wof:lastmodified":1464221919,
+    "wof:name":"Family Services Dept",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government"
+    ]
+},
+  "bbox": [
+    -75.390219,
+    38.693886,
+    -75.390219,
+    38.693886
+],
+  "geometry": {"coordinates":[-75.390219,38.693886],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857732095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.363972,38.715539,-75.363972,38.715539",
+    "geom:latitude":38.715539,
+    "geom:longitude":-75.363972,
+    "iso:country":"US",
+    "sg:address":"19118 Sandhill Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2305",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wsVGCTLLZwtAOO7saPsYQ_38.715539_-75.363972@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221485,
+    "wof:geomhash":"033634e4555da7682ca4c544485cfc23",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857732095
+        }
+    ],
+    "wof:id":857732095,
+    "wof:lastmodified":1464221485,
+    "wof:name":"Berner Masonry",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.363972,
+    38.715539,
+    -75.363972,
+    38.715539
+],
+  "geometry": {"coordinates":[-75.363972,38.715539],"type":"Point"}
+}

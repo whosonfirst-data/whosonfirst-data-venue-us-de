@@ -1,0 +1,69 @@
+{
+  "id": 873512299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546395,39.807745,-75.546395,39.807745",
+    "geom:latitude":39.807745,
+    "geom:longitude":-75.546395,
+    "iso:country":"US",
+    "sg:address":"205 Brandywine Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8562",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ciuw0q0xZXH8goWBIJ726_39.807697_-75.546667@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223486,
+    "wof:geomhash":"861d3bede20ff2373aafa772ef3202b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873512299
+        }
+    ],
+    "wof:id":873512299,
+    "wof:lastmodified":1464223486,
+    "wof:name":"Vandenbraak Plumbing Inc",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.546395,
+    39.807745,
+    -75.546395,
+    39.807745
+],
+  "geometry": {"coordinates":[-75.546395,39.807745],"type":"Point"}
+}

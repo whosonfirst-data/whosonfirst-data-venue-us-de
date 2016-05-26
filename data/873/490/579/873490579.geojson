@@ -1,0 +1,71 @@
+{
+  "id": 873490579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.310352,38.77771,-75.310352,38.77771",
+    "geom:latitude":38.77771,
+    "geom:longitude":-75.310352,
+    "iso:country":"US",
+    "sg:address":"101 Federal St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8547",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1z3KquaqV9ctkNHeJqJ5aK_38.777710_-75.310352@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222517,
+    "wof:geomhash":"cf666b7e421b6439a48d482f31aea3be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873490579
+        }
+    ],
+    "wof:id":873490579,
+    "wof:lastmodified":1464222517,
+    "wof:name":"Milton Police Dept",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -75.310352,
+    38.77771,
+    -75.310352,
+    38.77771
+],
+  "geometry": {"coordinates":[-75.31035199999999,38.77771],"type":"Point"}
+}

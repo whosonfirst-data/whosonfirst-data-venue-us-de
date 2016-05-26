@@ -1,0 +1,84 @@
+{
+  "id": 873525425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.69172,39.728139,-75.69172,39.728139",
+    "geom:latitude":39.728139,
+    "geom:longitude":-75.69172,
+    "iso:country":"US",
+    "sg:address":"4550 New Linden Hill Rd Suite 300",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 319 5400",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "network-monitoring",
+        "network-performance-management",
+        "snmp",
+        "ip-sla",
+        "wmi",
+        "netflow",
+        "sflow",
+        "flexible-netflow"
+    ],
+    "sg:website":"http://www.sevone.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fUyXDyDNs1qEDPgoNyB6S_39.728139_-75.691720@1308186497"
+    },
+    "wof:country":"US",
+    "wof:created":1464224096,
+    "wof:geomhash":"f72e8901a244ed414920c0784077694c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873525425
+        }
+    ],
+    "wof:id":873525425,
+    "wof:lastmodified":1464224096,
+    "wof:name":"SevOne, Inc.",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "network-monitoring",
+        "network-performance-management",
+        "snmp",
+        "ip-sla",
+        "wmi",
+        "netflow",
+        "sflow",
+        "flexible-netflow"
+    ]
+},
+  "bbox": [
+    -75.69172,
+    39.728139,
+    -75.69172,
+    39.728139
+],
+  "geometry": {"coordinates":[-75.69172,39.728139],"type":"Point"}
+}

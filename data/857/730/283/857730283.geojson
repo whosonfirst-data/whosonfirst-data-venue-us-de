@@ -1,0 +1,73 @@
+{
+  "id": 857730283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.593481,39.28311,-75.593481,39.28311",
+    "geom:latitude":39.28311,
+    "geom:longitude":-75.593481,
+    "iso:country":"US",
+    "sg:address":"1215 S Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 1838",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Lq40Czw7C6lMbFjqomdJX_39.283110_-75.593481@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221443,
+    "wof:geomhash":"17d8d0cbfcfedebf0af081bf81c1b075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857730283
+        }
+    ],
+    "wof:id":857730283,
+    "wof:lastmodified":1464221443,
+    "wof:name":"New Tech Autobody",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.593481,
+    39.28311,
+    -75.593481,
+    39.28311
+],
+  "geometry": {"coordinates":[-75.593481,39.28311],"type":"Point"}
+}

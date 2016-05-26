@@ -1,0 +1,75 @@
+{
+  "id": 873468749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527272,39.122534,-75.527272,39.122534",
+    "geom:latitude":39.122534,
+    "geom:longitude":-75.527272,
+    "iso:country":"US",
+    "sg:address":"10 Janis Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 8464",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hDfPy0LPwKb9EqqSoHQsO_39.122534_-75.527272@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221679,
+    "wof:geomhash":"007b3c7ecbb7091e8e11b65c095f87a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":873468749
+        }
+    ],
+    "wof:id":873468749,
+    "wof:lastmodified":1464221679,
+    "wof:name":"Power Plus Electrical Contg",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.527272,
+    39.122534,
+    -75.527272,
+    39.122534
+],
+  "geometry": {"coordinates":[-75.527272,39.122534],"type":"Point"}
+}

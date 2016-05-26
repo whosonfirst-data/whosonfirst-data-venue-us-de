@@ -1,0 +1,77 @@
+{
+  "id": 873523237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.618981,39.155725,-75.618981,39.155725",
+    "geom:latitude":39.155725,
+    "geom:longitude":-75.618981,
+    "iso:country":"US",
+    "sg:address":"4128 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 9969",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L4jy6PkgBGiIM67bdef99_39.155725_-75.618981@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224013,
+    "wof:geomhash":"64d8b3c25fb6de870bafc3eab7a5b321",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523237
+        }
+    ],
+    "wof:id":873523237,
+    "wof:lastmodified":1464224013,
+    "wof:name":"Mayhorn's Body Shop",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.618981,
+    39.155725,
+    -75.618981,
+    39.155725
+],
+  "geometry": {"coordinates":[-75.61898100000001,39.155725],"type":"Point"}
+}

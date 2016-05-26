@@ -1,0 +1,75 @@
+{
+  "id": 873523713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634991,39.29117,-75.634991,39.29117",
+    "geom:latitude":39.29117,
+    "geom:longitude":-75.634991,
+    "iso:country":"US",
+    "sg:address":"102 Clayton Ave",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 7895",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "system",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XbroDC4zrdiPCcbxKsFFk_39.291170_-75.634991@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224029,
+    "wof:geomhash":"955be42a82b816ebdca855f2ee612f15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873523713
+        }
+    ],
+    "wof:id":873523713,
+    "wof:lastmodified":1464224029,
+    "wof:name":"Thompson's Heating & Cooling",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -75.634991,
+    39.29117,
+    -75.634991,
+    39.29117
+],
+  "geometry": {"coordinates":[-75.634991,39.29117],"type":"Point"}
+}

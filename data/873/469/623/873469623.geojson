@@ -1,0 +1,71 @@
+{
+  "id": 873469623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.380526,38.694281,-75.380526,38.694281",
+    "geom:latitude":38.694281,
+    "geom:longitude":-75.380526,
+    "iso:country":"US",
+    "sg:address":"601 E Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 4086",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IWjrC1lVHnyHTweBMa7CB_38.694281_-75.380526@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221710,
+    "wof:geomhash":"67f2c04c541ea6fcd3d875fb415fd087",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873469623
+        }
+    ],
+    "wof:id":873469623,
+    "wof:lastmodified":1464221710,
+    "wof:name":"Rosa Villa Restaurant",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.380526,
+    38.694281,
+    -75.380526,
+    38.694281
+],
+  "geometry": {"coordinates":[-75.380526,38.694281],"type":"Point"}
+}

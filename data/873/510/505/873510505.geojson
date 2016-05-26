@@ -1,0 +1,85 @@
+{
+  "id": 873510505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.583246,39.215552,-75.583246,39.215552",
+    "geom:latitude":39.215552,
+    "geom:longitude":-75.583246,
+    "iso:country":"US",
+    "sg:address":"3915 McKee Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 8807",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931477,
+        102083871,
+        85825779,
+        85931481,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YSqxTthhA2efBt6tVZHgK_39.215552_-75.583246@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223396,
+    "wof:geomhash":"3546b6b66a26acd61f3a934c8968e8a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931477,
+            "neighbourhood_id":85825779,
+            "region_id":85688611,
+            "venue_id":873510505
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873510505
+        }
+    ],
+    "wof:id":873510505,
+    "wof:lastmodified":1464223396,
+    "wof:name":"Nurse's On The Go",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -75.583246,
+    39.215552,
+    -75.583246,
+    39.215552
+],
+  "geometry": {"coordinates":[-75.583246,39.215552],"type":"Point"}
+}

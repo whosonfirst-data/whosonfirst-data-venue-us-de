@@ -1,0 +1,69 @@
+{
+  "id": 873479669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607425,39.743459,-75.607425,39.743459",
+    "geom:latitude":39.743459,
+    "geom:longitude":-75.607425,
+    "iso:country":"US",
+    "sg:address":"1519 Hickory Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 8285",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2QKZhBxyo7yUUH7PutbAP7_39.743459_-75.607425@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222095,
+    "wof:geomhash":"5ff947aa0ba7de91e92d4b8b7f83de01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873479669
+        }
+    ],
+    "wof:id":873479669,
+    "wof:lastmodified":1464222095,
+    "wof:name":"Joann M Lueck Transportation",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.607425,
+    39.743459,
+    -75.607425,
+    39.743459
+],
+  "geometry": {"coordinates":[-75.60742500000001,39.743459],"type":"Point"}
+}

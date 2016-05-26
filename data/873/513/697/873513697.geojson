@@ -1,0 +1,89 @@
+{
+  "id": 873513697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567545,38.925368,-75.567545,38.925368",
+    "geom:latitude":38.925368,
+    "geom:longitude":-75.567545,
+    "iso:country":"US",
+    "sg:address":"17065 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/harrington/130271-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4930",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vdmw05tpuVPTfz8Cdeo6E_38.925368_-75.567545@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223543,
+    "wof:geomhash":"0de4a0ab11da9258747e61960bf23d10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873513697
+        }
+    ],
+    "wof:id":873513697,
+    "wof:lastmodified":1464223543,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.567545,
+    38.925368,
+    -75.567545,
+    38.925368
+],
+  "geometry": {"coordinates":[-75.567545,38.925368],"type":"Point"}
+}

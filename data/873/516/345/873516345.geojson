@@ -1,0 +1,91 @@
+{
+  "id": 873516345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.776683,39.646997,-75.776683,39.646997",
+    "geom:latitude":39.646997,
+    "geom:longitude":-75.776683,
+    "iso:country":"US",
+    "sg:address":"500 W Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 3782",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "family",
+        "counselors-licensed",
+        "adoption",
+        "individual",
+        "marriage",
+        "professional",
+        "counselor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MN6n5KbYvaH6g7O3djjm4_39.646997_-75.776683@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223676,
+    "wof:geomhash":"68a529e2f6bd5ff9486b2b90afbeec95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873516345
+        }
+    ],
+    "wof:id":873516345,
+    "wof:lastmodified":1464223676,
+    "wof:name":"L D S Family Services Del Agcy",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family",
+        "counselors-licensed",
+        "adoption",
+        "individual",
+        "marriage",
+        "professional",
+        "counselor"
+    ]
+},
+  "bbox": [
+    -75.776683,
+    39.646997,
+    -75.776683,
+    39.646997
+],
+  "geometry": {"coordinates":[-75.77668300000001,39.646997],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873496535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.180416,38.654438,-75.180416,38.654438",
+    "geom:latitude":38.654438,
+    "geom:longitude":-75.180416,
+    "iso:country":"US",
+    "sg:address":"41 Canal Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 7559",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uF7V5WG0VglPhCQfWCBwH_38.654438_-75.180416@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222803,
+    "wof:geomhash":"c1a3305c118372d99c4b772de22e08bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873496535
+        }
+    ],
+    "wof:id":873496535,
+    "wof:lastmodified":1464222803,
+    "wof:name":"C & A Electric",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.180416,
+    38.654438,
+    -75.180416,
+    38.654438
+],
+  "geometry": {"coordinates":[-75.18041599999999,38.654438],"type":"Point"}
+}

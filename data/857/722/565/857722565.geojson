@@ -1,0 +1,71 @@
+{
+  "id": 857722565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5869,39.761383,-75.5869,39.761383",
+    "geom:latitude":39.761383,
+    "geom:longitude":-75.5869,
+    "iso:country":"US",
+    "sg:address":"800 N Dupont Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 9041",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "course",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jqp4YvMU8HhQEVVt59sCj_39.761383_-75.586900@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221298,
+    "wof:geomhash":"aa83ebe4bb2bde04912c3d279e34b2ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":857722565
+        }
+    ],
+    "wof:id":857722565,
+    "wof:lastmodified":1464221298,
+    "wof:name":"Meadowbrook Golf Group",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "course",
+        "public"
+    ]
+},
+  "bbox": [
+    -75.5869,
+    39.761383,
+    -75.5869,
+    39.761383
+],
+  "geometry": {"coordinates":[-75.5869,39.761383],"type":"Point"}
+}

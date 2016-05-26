@@ -1,0 +1,93 @@
+{
+  "id": 873516153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.701111,39.684789,-75.701111,39.684789",
+    "geom:latitude":39.684789,
+    "geom:longitude":-75.701111,
+    "iso:country":"US",
+    "sg:address":"9 Mill Park Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 7630",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surplus",
+        "garbage",
+        "collection",
+        "salvage",
+        "merchandise"
+    ],
+    "sg:website":"http://www.econohaul.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QWHWpzqunYkaCrETPa1G7_39.684789_-75.701111@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223668,
+    "wof:geomhash":"14bccbf87d01b43425c66e1a61d633fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516153
+        }
+    ],
+    "wof:id":873516153,
+    "wof:lastmodified":1464223668,
+    "wof:name":"Econo-Haul",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surplus",
+        "garbage",
+        "collection",
+        "salvage",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.701111,
+    39.684789,
+    -75.701111,
+    39.684789
+],
+  "geometry": {"coordinates":[-75.701111,39.684789],"type":"Point"}
+}

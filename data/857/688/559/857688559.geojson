@@ -1,0 +1,71 @@
+{
+  "id": 857688559,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.47977,39.806314,-75.47977,39.806314",
+    "geom:latitude":39.806314,
+    "geom:longitude":-75.47977,
+    "iso:country":"US",
+    "sg:address":"2208 Sconset Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 2116",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37il8ca7l3ppeoMk5f2RcV_39.806314_-75.479770@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220590,
+    "wof:geomhash":"9364d8cb3f3d4ef216f5a4eaf08c313c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857688559
+        }
+    ],
+    "wof:id":857688559,
+    "wof:lastmodified":1464220590,
+    "wof:name":"Mike Faella Inc",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.47977,
+    39.806314,
+    -75.47977,
+    39.806314
+],
+  "geometry": {"coordinates":[-75.47977,39.806314],"type":"Point"}
+}

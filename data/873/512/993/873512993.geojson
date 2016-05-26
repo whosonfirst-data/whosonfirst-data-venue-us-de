@@ -1,0 +1,74 @@
+{
+  "id": 873512993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.71136,39.77365,-75.71136,39.77365",
+    "geom:latitude":39.77365,
+    "geom:longitude":-75.71136,
+    "iso:country":"US",
+    "sg:address":"128 Lantana Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/piedmont/115153-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 9000",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pFOm7h5dk77HZMYSEvv5q_39.773650_-75.711360@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223513,
+    "wof:geomhash":"2dcdce5e191ba9468c05d46feb87a2e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873512993
+        }
+    ],
+    "wof:id":873512993,
+    "wof:lastmodified":1464223513,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.71136,
+    39.77365,
+    -75.71136,
+    39.77365
+],
+  "geometry": {"coordinates":[-75.71136,39.77365],"type":"Point"}
+}

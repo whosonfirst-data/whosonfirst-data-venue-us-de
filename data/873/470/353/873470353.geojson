@@ -1,0 +1,75 @@
+{
+  "id": 873470353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526765,39.750692,-75.526765,39.750692",
+    "geom:latitude":39.750692,
+    "geom:longitude":-75.526765,
+    "iso:country":"US",
+    "sg:address":"2703 Governor Printz Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 6079",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zCvTXaV1yp90VkX88az6C_39.750692_-75.526765@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221743,
+    "wof:geomhash":"1b154c248e1fe87707179454fb0ee955",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873470353
+        }
+    ],
+    "wof:id":873470353,
+    "wof:lastmodified":1464221743,
+    "wof:name":"Three ES Auto Repair",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.526765,
+    39.750692,
+    -75.526765,
+    39.750692
+],
+  "geometry": {"coordinates":[-75.526765,39.750692],"type":"Point"}
+}

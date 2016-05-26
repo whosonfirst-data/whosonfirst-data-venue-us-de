@@ -1,0 +1,71 @@
+{
+  "id": 857706653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566814,39.662053,-75.566814,39.662053",
+    "geom:latitude":39.662053,
+    "geom:longitude":-75.566814,
+    "iso:country":"US",
+    "sg:address":"501 Delaware St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 6472",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZA84GblFskiqZhypkLf8Y_39.662053_-75.566814@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220943,
+    "wof:geomhash":"13cc75459e1834a9e4bc19a1357b6d4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857706653
+        }
+    ],
+    "wof:id":857706653,
+    "wof:lastmodified":1464220943,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -75.566814,
+    39.662053,
+    -75.566814,
+    39.662053
+],
+  "geometry": {"coordinates":[-75.56681399999999,39.662053],"type":"Point"}
+}

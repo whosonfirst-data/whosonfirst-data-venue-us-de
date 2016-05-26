@@ -1,0 +1,71 @@
+{
+  "id": 857696145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56762,38.925397,-75.56762,38.925397",
+    "geom:latitude":38.925397,
+    "geom:longitude":-75.56762,
+    "iso:country":"US",
+    "sg:address":"17086 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 0948",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d5XIMKNHtHyC6I7ryee8t_38.925397_-75.567620@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220739,
+    "wof:geomhash":"a70f78e28a2788212ac369ddb994af6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857696145
+        }
+    ],
+    "wof:id":857696145,
+    "wof:lastmodified":1464220739,
+    "wof:name":"Kim's Nail Salon",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -75.56762,
+    38.925397,
+    -75.56762,
+    38.925397
+],
+  "geometry": {"coordinates":[-75.56762000000001,38.925397],"type":"Point"}
+}

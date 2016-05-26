@@ -1,0 +1,71 @@
+{
+  "id": 873471027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.432707,38.911417,-75.432707,38.911417",
+    "geom:latitude":38.911417,
+    "geom:longitude":-75.432707,
+    "iso:country":"US",
+    "sg:address":"14 S Maple Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Surveying",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 7327",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surveyor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51bN21cSAAywgf7xF6oobv_38.911417_-75.432707@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221769,
+    "wof:geomhash":"91a459ecfccf2e10ec025246741e6e7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873471027
+        }
+    ],
+    "wof:id":873471027,
+    "wof:lastmodified":1464221769,
+    "wof:name":"Charles D Murphy Associates",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surveyor"
+    ]
+},
+  "bbox": [
+    -75.432707,
+    38.911417,
+    -75.432707,
+    38.911417
+],
+  "geometry": {"coordinates":[-75.43270699999999,38.911417],"type":"Point"}
+}

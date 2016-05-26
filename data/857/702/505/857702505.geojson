@@ -1,0 +1,73 @@
+{
+  "id": 857702505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.053624,38.455614,-75.053624,38.455614",
+    "geom:latitude":38.455614,
+    "geom:longitude":-75.053624,
+    "iso:country":"US",
+    "sg:address":"13 Bayside Dr",
+    "sg:city":"Fenwick Island",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 2271",
+    "sg:postcode":"19944",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IBdHAHHhlk2PD7rQgpWru_38.455614_-75.053624@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220869,
+    "wof:geomhash":"3947ad1c2fd29028c6ee310e54a48fc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857702505
+        }
+    ],
+    "wof:id":857702505,
+    "wof:lastmodified":1464220869,
+    "wof:name":"Ronald Wood MD",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.053624,
+    38.455614,
+    -75.053624,
+    38.455614
+],
+  "geometry": {"coordinates":[-75.053624,38.455614],"type":"Point"}
+}

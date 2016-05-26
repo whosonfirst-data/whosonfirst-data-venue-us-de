@@ -1,0 +1,69 @@
+{
+  "id": 873518847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.597141,39.815816,-75.597141,39.815816",
+    "geom:latitude":39.815816,
+    "geom:longitude":-75.597141,
+    "iso:country":"US",
+    "sg:address":"4 Vics Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 4338",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30pqlHsQOcavRZDHFHG6mv_39.815816_-75.597141@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223829,
+    "wof:geomhash":"cbee282a4682a5c74e0c1c689bbf48da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873518847
+        }
+    ],
+    "wof:id":873518847,
+    "wof:lastmodified":1464223829,
+    "wof:name":"Bancroft Homes",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.597141,
+    39.815816,
+    -75.597141,
+    39.815816
+],
+  "geometry": {"coordinates":[-75.59714099999999,39.815816],"type":"Point"}
+}

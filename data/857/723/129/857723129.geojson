@@ -1,0 +1,73 @@
+{
+  "id": 857723129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.652471,39.723297,-75.652471,39.723297",
+    "geom:latitude":39.723297,
+    "geom:longitude":-75.652471,
+    "iso:country":"US",
+    "sg:address":"25 Whitehall Cir",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 4381",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qUhUvTlNbRMIY3EIpcqlR_39.723297_-75.652471@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221308,
+    "wof:geomhash":"3cc0f55f7b9b72b05bb71f9c4fb9aca9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857723129
+        }
+    ],
+    "wof:id":857723129,
+    "wof:lastmodified":1464221308,
+    "wof:name":"Action Insulation",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.652471,
+    39.723297,
+    -75.652471,
+    39.723297
+],
+  "geometry": {"coordinates":[-75.65247100000001,39.723297],"type":"Point"}
+}

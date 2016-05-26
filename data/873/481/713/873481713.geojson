@@ -1,0 +1,69 @@
+{
+  "id": 873481713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.693343,39.648722,-75.693343,39.648722",
+    "geom:latitude":39.648722,
+    "geom:longitude":-75.693343,
+    "iso:country":"US",
+    "sg:address":"35 Cardenti Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 2050",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sS08pGy3tW4PwE192G8O6_39.648722_-75.693343@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222184,
+    "wof:geomhash":"1e98971cbf6e7983a613db2fac11c335",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873481713
+        }
+    ],
+    "wof:id":873481713,
+    "wof:lastmodified":1464222184,
+    "wof:name":"Rick McKinney Dr",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.693343,
+    39.648722,
+    -75.693343,
+    39.648722
+],
+  "geometry": {"coordinates":[-75.693343,39.648722],"type":"Point"}
+}

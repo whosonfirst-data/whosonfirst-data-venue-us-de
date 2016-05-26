@@ -1,0 +1,76 @@
+{
+  "id": 873513857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60393,39.302681,-75.60393,39.302681",
+    "geom:latitude":39.302681,
+    "geom:longitude":-75.60393,
+    "iso:country":"US",
+    "sg:address":"10 N Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/smyrna/169465-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2978",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dg467RKeBlHtZwbuRKNZC_39.302681_-75.603930@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223552,
+    "wof:geomhash":"1f73994a74470250735565966f8a3004",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873513857
+        }
+    ],
+    "wof:id":873513857,
+    "wof:lastmodified":1464223552,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -75.60393,
+    39.302681,
+    -75.60393,
+    39.302681
+],
+  "geometry": {"coordinates":[-75.60393000000001,39.302681],"type":"Point"}
+}

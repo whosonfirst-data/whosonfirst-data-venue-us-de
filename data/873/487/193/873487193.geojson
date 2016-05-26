@@ -1,0 +1,69 @@
+{
+  "id": 873487193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568216,39.659344,-75.568216,39.659344",
+    "geom:latitude":39.659344,
+    "geom:longitude":-75.568216,
+    "iso:country":"US",
+    "sg:address":"401 South St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 2211",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72JFXY4bq2bKtJiOLVigLz_39.659344_-75.568216@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222387,
+    "wof:geomhash":"ffd0ba83ca591fa436a239f0d54e0aca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873487193
+        }
+    ],
+    "wof:id":873487193,
+    "wof:lastmodified":1464222387,
+    "wof:name":"Goodwill Fire Co",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -75.568216,
+    39.659344,
+    -75.568216,
+    39.659344
+],
+  "geometry": {"coordinates":[-75.56821600000001,39.659344],"type":"Point"}
+}

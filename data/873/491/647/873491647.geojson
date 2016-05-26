@@ -1,0 +1,71 @@
+{
+  "id": 873491647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56099,39.69539,-75.56099,39.69539",
+    "geom:latitude":39.69539,
+    "geom:longitude":-75.56099,
+    "iso:country":"US",
+    "sg:address":"106 Edge Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 3043",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UcPMlCmZLE893S8ckpxO7_39.695390_-75.560990@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222554,
+    "wof:geomhash":"4b178278ea23d3a3045d3f1e2c773f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873491647
+        }
+    ],
+    "wof:id":873491647,
+    "wof:lastmodified":1464222554,
+    "wof:name":"August J Zickgraf",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.56099,
+    39.69539,
+    -75.56099,
+    39.69539
+],
+  "geometry": {"coordinates":[-75.56099,39.69539],"type":"Point"}
+}

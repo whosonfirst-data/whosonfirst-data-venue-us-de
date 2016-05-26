@@ -1,0 +1,75 @@
+{
+  "id": 873466469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540966,39.729569,-75.540966,39.729569",
+    "geom:latitude":39.729569,
+    "geom:longitude":-75.540966,
+    "iso:country":"US",
+    "sg:address":"315 Bradford St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 8268",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5vLNmWfC2YwufkQ0Yyidk4_39.729569_-75.540966@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221600,
+    "wof:geomhash":"04c6776c887bf7319819940939d8aa0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873466469
+        }
+    ],
+    "wof:id":873466469,
+    "wof:lastmodified":1464221600,
+    "wof:name":"Pollinger Roofing Company",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.540966,
+    39.729569,
+    -75.540966,
+    39.729569
+],
+  "geometry": {"coordinates":[-75.540966,39.729569],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857721363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.63794,39.729104,-75.63794,39.729104",
+    "geom:latitude":39.729104,
+    "geom:longitude":-75.63794,
+    "iso:country":"US",
+    "sg:address":"1111 Greenbank Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 8081",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gW1lnaVuxnLgMtyFBDWpt_39.729104_-75.637940@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221277,
+    "wof:geomhash":"171bd2841e8051b6201b55706fc17566",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857721363
+        }
+    ],
+    "wof:id":857721363,
+    "wof:lastmodified":1464221277,
+    "wof:name":"Charles C Connell Co",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.63794,
+    39.729104,
+    -75.63794,
+    39.729104
+],
+  "geometry": {"coordinates":[-75.63794,39.729104],"type":"Point"}
+}

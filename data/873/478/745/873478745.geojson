@@ -1,0 +1,71 @@
+{
+  "id": 873478745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.434401,38.603249,-75.434401,38.603249",
+    "geom:latitude":38.603249,
+    "geom:longitude":-75.434401,
+    "iso:country":"US",
+    "sg:address":"22 Woodcrest Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 947 1161",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dmxyuaIyntOS5pRxRl2LM_38.603249_-75.434401@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222051,
+    "wof:geomhash":"05532c9fefa673e8fe97432b5173be54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873478745
+        }
+    ],
+    "wof:id":873478745,
+    "wof:lastmodified":1464222051,
+    "wof:name":"Rons Home Improvement",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.434401,
+    38.603249,
+    -75.434401,
+    38.603249
+],
+  "geometry": {"coordinates":[-75.43440099999999,38.603249],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 873514543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.748062,39.602669,-75.748062,39.602669",
+    "geom:latitude":39.602669,
+    "geom:longitude":-75.748062,
+    "iso:country":"US",
+    "sg:address":"1100 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 8515",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:website":"http://www.regmovies.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nb39Fz49vzdja2hvxxCHe_39.602669_-75.748062@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223596,
+    "wof:geomhash":"12079a113655ea4075a0f7f553967d78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514543
+        }
+    ],
+    "wof:id":873514543,
+    "wof:lastmodified":1464223596,
+    "wof:name":"Regal Cinema",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.748062,
+    39.602669,
+    -75.748062,
+    39.602669
+],
+  "geometry": {"coordinates":[-75.748062,39.602669],"type":"Point"}
+}

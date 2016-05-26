@@ -1,0 +1,71 @@
+{
+  "id": 873469765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.428613,38.910643,-75.428613,38.910643",
+    "geom:latitude":38.910643,
+    "geom:longitude":-75.428613,
+    "iso:country":"US",
+    "sg:address":"20 S Walnut St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 2514",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79TTRJuJaBjKGGfxEIv8fN_38.910643_-75.428613@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221722,
+    "wof:geomhash":"1db0b2123db7d50361bdb666eaa39373",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873469765
+        }
+    ],
+    "wof:id":873469765,
+    "wof:lastmodified":1464221722,
+    "wof:name":"G & F Barber Stylist Shop",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.428613,
+    38.910643,
+    -75.428613,
+    38.910643
+],
+  "geometry": {"coordinates":[-75.428613,38.910643],"type":"Point"}
+}

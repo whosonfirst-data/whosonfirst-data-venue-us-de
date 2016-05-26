@@ -1,0 +1,73 @@
+{
+  "id": 857715493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.385668,38.695095,-75.385668,38.695095",
+    "geom:latitude":38.695095,
+    "geom:longitude":-75.385668,
+    "iso:country":"US",
+    "sg:address":"204 E North St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7524",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0K3lu8WVioiJXFUgqVCr1I_38.695095_-75.385668@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221156,
+    "wof:geomhash":"eb36878db748e3618b3e9241dbc3914c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857715493
+        }
+    ],
+    "wof:id":857715493,
+    "wof:lastmodified":1464221156,
+    "wof:name":"Sussex Community Crisis Hsng",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.385668,
+    38.695095,
+    -75.385668,
+    38.695095
+],
+  "geometry": {"coordinates":[-75.385668,38.695095],"type":"Point"}
+}

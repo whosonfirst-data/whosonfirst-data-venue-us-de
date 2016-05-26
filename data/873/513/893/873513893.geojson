@@ -1,0 +1,76 @@
+{
+  "id": 873513893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.759379,39.680122,-75.759379,39.680122",
+    "geom:latitude":39.680122,
+    "geom:longitude":-75.759379,
+    "iso:country":"US",
+    "sg:address":"121 Elkton Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/71581-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 0852",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85838955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4rustJSHKZitIuupwHS1aW_39.680443_-75.758931@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223554,
+    "wof:geomhash":"addd039f8af52cf0ed6185f2d4a10695",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85838955,
+            "region_id":85688611,
+            "venue_id":873513893
+        }
+    ],
+    "wof:id":873513893,
+    "wof:lastmodified":1464223554,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85838955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.759379,
+    39.680122,
+    -75.759379,
+    39.680122
+],
+  "geometry": {"coordinates":[-75.759379,39.680122],"type":"Point"}
+}

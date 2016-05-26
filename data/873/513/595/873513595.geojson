@@ -1,0 +1,72 @@
+{
+  "id": 873513595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505162,39.800031,-75.505162,39.800031",
+    "geom:latitude":39.800031,
+    "geom:longitude":-75.505162,
+    "iso:country":"US",
+    "sg:address":"1300 Veale Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/71584-pizza-hut/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8442",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TwV9SejCsNhft4Mj0a0f2_39.800031_-75.505162@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223538,
+    "wof:geomhash":"bd1c1c09f9676108e6990b1877664039",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873513595
+        }
+    ],
+    "wof:id":873513595,
+    "wof:lastmodified":1464223538,
+    "wof:name":"Pizza Hut",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.505162,
+    39.800031,
+    -75.505162,
+    39.800031
+],
+  "geometry": {"coordinates":[-75.505162,39.800031],"type":"Point"}
+}

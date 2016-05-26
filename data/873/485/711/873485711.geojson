@@ -1,0 +1,73 @@
+{
+  "id": 873485711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.109109,38.557419,-75.109109,38.557419",
+    "geom:latitude":38.557419,
+    "geom:longitude":-75.109109,
+    "iso:country":"US",
+    "sg:address":"19 Pine St",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 5808",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0oexrN22w1NS06gApa8HEt_38.557419_-75.109109@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222332,
+    "wof:geomhash":"a6d38938738a7c7fcb29310c0c1f505d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873485711
+        }
+    ],
+    "wof:id":873485711,
+    "wof:lastmodified":1464222332,
+    "wof:name":"Resort Investigations & Patrol",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -75.109109,
+    38.557419,
+    -75.109109,
+    38.557419
+],
+  "geometry": {"coordinates":[-75.109109,38.557419],"type":"Point"}
+}

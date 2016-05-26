@@ -1,0 +1,68 @@
+{
+  "id": 857708339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549623,39.745245,-75.549623,39.745245",
+    "geom:latitude":39.745245,
+    "geom:longitude":-75.549623,
+    "iso:country":"US",
+    "sg:address":"107 W 9th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 9198",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0yDbEHZklbLE3uoWoe4bXf_39.745245_-75.549623@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220983,
+    "wof:geomhash":"9becb214020c8a1eca76786038586e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857708339
+        }
+    ],
+    "wof:id":857708339,
+    "wof:lastmodified":1464220983,
+    "wof:name":"Convenient Store",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.549623,
+    39.745245,
+    -75.549623,
+    39.745245
+],
+  "geometry": {"coordinates":[-75.549623,39.745245],"type":"Point"}
+}

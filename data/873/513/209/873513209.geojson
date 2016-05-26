@@ -1,0 +1,74 @@
+{
+  "id": 873513209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.757251,39.684123,-75.757251,39.684123",
+    "geom:latitude":39.684123,
+    "geom:longitude":-75.757251,
+    "iso:country":"US",
+    "sg:address":"15 New London Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/282336-midnight-munchies/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 438 2020",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6v3wYJHuFaf8WfUsxpYXtJ_39.684123_-75.757251@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223521,
+    "wof:geomhash":"da73d02f87fc76830718fc9deff9d384",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873513209
+        }
+    ],
+    "wof:id":873513209,
+    "wof:lastmodified":1464223521,
+    "wof:name":"Midnight Munchies",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.757251,
+    39.684123,
+    -75.757251,
+    39.684123
+],
+  "geometry": {"coordinates":[-75.757251,39.684123],"type":"Point"}
+}

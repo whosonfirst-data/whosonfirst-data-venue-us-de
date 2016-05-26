@@ -1,0 +1,71 @@
+{
+  "id": 857720585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.182695,38.565266,-75.182695,38.565266",
+    "geom:latitude":38.565266,
+    "geom:longitude":-75.182695,
+    "iso:country":"US",
+    "sg:address":"316 Baywinds Ct",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 245 9986",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ynIqAcQ77bVKGPD51vv4B_38.565266_-75.182695@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221261,
+    "wof:geomhash":"4495b5d3bfc0d507beadf999b4151f13",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857720585
+        }
+    ],
+    "wof:id":857720585,
+    "wof:lastmodified":1464221261,
+    "wof:name":"Ocean Pro Maintenance Company",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.182695,
+    38.565266,
+    -75.182695,
+    38.565266
+],
+  "geometry": {"coordinates":[-75.182695,38.565266],"type":"Point"}
+}

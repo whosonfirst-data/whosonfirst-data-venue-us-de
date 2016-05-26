@@ -1,0 +1,71 @@
+{
+  "id": 873509263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.376146,38.690363,-75.376146,38.690363",
+    "geom:latitude":38.690363,
+    "geom:longitude":-75.376146,
+    "iso:country":"US",
+    "sg:address":"226 S Railroad Ave",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 4577",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72UuUtYacZlbhG7VNjiq4p_38.690363_-75.376146@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223342,
+    "wof:geomhash":"17314eac43bbf3badddb522a9cfcf2d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873509263
+        }
+    ],
+    "wof:id":873509263,
+    "wof:lastmodified":1464223342,
+    "wof:name":"Waste Management",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collection"
+    ]
+},
+  "bbox": [
+    -75.376146,
+    38.690363,
+    -75.376146,
+    38.690363
+],
+  "geometry": {"coordinates":[-75.37614600000001,38.690363],"type":"Point"}
+}

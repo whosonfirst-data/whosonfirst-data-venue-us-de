@@ -1,0 +1,71 @@
+{
+  "id": 857691293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.614666,38.646929,-75.614666,38.646929",
+    "geom:latitude":38.646929,
+    "geom:longitude":-75.614666,
+    "iso:country":"US",
+    "sg:address":"306 E Stein Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 3033",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XeUpSsi8JuFjV7XYEtR3J_38.646929_-75.614666@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220647,
+    "wof:geomhash":"13eff11878735537cd6d85fc93ab26cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":857691293
+        }
+    ],
+    "wof:id":857691293,
+    "wof:lastmodified":1464220647,
+    "wof:name":"Mental Health Access",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.614666,
+    38.646929,
+    -75.614666,
+    38.646929
+],
+  "geometry": {"coordinates":[-75.614666,38.646929],"type":"Point"}
+}

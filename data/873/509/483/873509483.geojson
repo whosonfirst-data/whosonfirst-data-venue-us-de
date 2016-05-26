@@ -1,0 +1,82 @@
+{
+  "id": 873509483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.727767,39.648448,-75.727767,39.648448",
+    "geom:latitude":39.648448,
+    "geom:longitude":-75.727767,
+    "iso:country":"US",
+    "sg:address":"40 Brookhill Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 4144",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "heating",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ltQnVBIgzoKr7WOvaiIlM_39.648448_-75.727767@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223351,
+    "wof:geomhash":"5313ab1d1e849de882dd13878ff30828",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873509483
+        }
+    ],
+    "wof:id":873509483,
+    "wof:lastmodified":1464223351,
+    "wof:name":"Newark Supply Co",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "heating",
+        "system"
+    ]
+},
+  "bbox": [
+    -75.727767,
+    39.648448,
+    -75.727767,
+    39.648448
+],
+  "geometry": {"coordinates":[-75.727767,39.648448],"type":"Point"}
+}

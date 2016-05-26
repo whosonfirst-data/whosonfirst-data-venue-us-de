@@ -1,0 +1,71 @@
+{
+  "id": 857686915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.44056,38.744185,-75.44056,38.744185",
+    "geom:latitude":38.744185,
+    "geom:longitude":-75.44056,
+    "iso:country":"US",
+    "sg:address":"16857 Redden Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 6737",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AG9XXH9vSTZwtsMNM0lqx_38.744185_-75.440560@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220557,
+    "wof:geomhash":"df2c76082448bbd41529e9a2370751d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857686915
+        }
+    ],
+    "wof:id":857686915,
+    "wof:lastmodified":1464220557,
+    "wof:name":"DNA",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.44056,
+    38.744185,
+    -75.44056,
+    38.744185
+],
+  "geometry": {"coordinates":[-75.44056,38.744185],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857715077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.643751,39.750083,-75.643751,39.750083",
+    "geom:latitude":39.750083,
+    "geom:longitude":-75.643751,
+    "iso:country":"US",
+    "sg:address":"2828 W Oakland Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 636 9007",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s9TfV8VyojjEBRtvfatdh_39.750083_-75.643751@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221149,
+    "wof:geomhash":"1b7d5bfbc0e3c7e5c0f4f99a73843c94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857715077
+        }
+    ],
+    "wof:id":857715077,
+    "wof:lastmodified":1464221149,
+    "wof:name":"N Just Time Electric Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.643751,
+    39.750083,
+    -75.643751,
+    39.750083
+],
+  "geometry": {"coordinates":[-75.64375099999999,39.750083],"type":"Point"}
+}

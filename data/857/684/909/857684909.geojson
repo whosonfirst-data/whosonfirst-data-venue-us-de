@@ -1,0 +1,71 @@
+{
+  "id": 857684909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.427579,38.925917,-75.427579,38.925917",
+    "geom:latitude":38.925917,
+    "geom:longitude":-75.427579,
+    "iso:country":"US",
+    "sg:address":"411 N Rehoboth Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 4034",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ERK4jbGHrzp84vfd2il2v_38.925917_-75.427579@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220520,
+    "wof:geomhash":"eaee65d2fca3f4b704209a41b61cef5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857684909
+        }
+    ],
+    "wof:id":857684909,
+    "wof:lastmodified":1464220520,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.427579,
+    38.925917,
+    -75.427579,
+    38.925917
+],
+  "geometry": {"coordinates":[-75.42757899999999,38.925917],"type":"Point"}
+}

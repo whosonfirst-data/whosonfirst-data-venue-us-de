@@ -1,0 +1,71 @@
+{
+  "id": 873501305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.428655,38.909541,-75.428655,38.909541",
+    "geom:latitude":38.909541,
+    "geom:longitude":-75.428655,
+    "iso:country":"US",
+    "sg:address":"121 S Walnut St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 1080",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jlbnzFgrCos1hg8b8TV4A_38.909541_-75.428655@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223000,
+    "wof:geomhash":"24319399b38d6d90fd8ff1fcadfb5846",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873501305
+        }
+    ],
+    "wof:id":873501305,
+    "wof:lastmodified":1464223000,
+    "wof:name":"Milford Museum",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -75.428655,
+    38.909541,
+    -75.428655,
+    38.909541
+],
+  "geometry": {"coordinates":[-75.42865500000001,38.909541],"type":"Point"}
+}

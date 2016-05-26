@@ -1,0 +1,73 @@
+{
+  "id": 873487799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565183,39.676909,-75.565183,39.676909",
+    "geom:latitude":39.676909,
+    "geom:longitude":-75.565183,
+    "iso:country":"US",
+    "sg:address":"444 Moores Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 8597",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931555,
+        102083891,
+        85845649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2nKpHoDOa3L2ITwkNqNO5d_39.676909_-75.565183@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222414,
+    "wof:geomhash":"60a291607a85407b22907e91364c758a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931555,
+            "neighbourhood_id":85845649,
+            "region_id":85688611,
+            "venue_id":873487799
+        }
+    ],
+    "wof:id":873487799,
+    "wof:lastmodified":1464222414,
+    "wof:name":"Headliners Barber Shop",
+    "wof:parent_id":85845649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.565183,
+    39.676909,
+    -75.565183,
+    39.676909
+],
+  "geometry": {"coordinates":[-75.565183,39.676909],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 857697085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.398441,38.691335,-75.398441,38.691335",
+    "geom:latitude":38.691335,
+    "geom:longitude":-75.398441,
+    "iso:country":"US",
+    "sg:address":"512 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 0385",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UpYkTw198RoppOiqFxcnD_38.691335_-75.398441@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220755,
+    "wof:geomhash":"e92c650a766ac5d5b15f4b11bc6afcc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857697085
+        }
+    ],
+    "wof:id":857697085,
+    "wof:lastmodified":1464220755,
+    "wof:name":"Brown's Auto Clinic",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.398441,
+    38.691335,
+    -75.398441,
+    38.691335
+],
+  "geometry": {"coordinates":[-75.39844100000001,38.691335],"type":"Point"}
+}

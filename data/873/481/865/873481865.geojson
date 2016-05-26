@@ -1,0 +1,68 @@
+{
+  "id": 873481865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595975,39.744465,-75.595975,39.744465",
+    "geom:latitude":39.744465,
+    "geom:longitude":-75.595975,
+    "iso:country":"US",
+    "sg:address":"1315 Biggs Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 3549",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55dy6CfU9hmACZ91FLGjkD_39.744465_-75.595975@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222189,
+    "wof:geomhash":"0f28a83001b06f7852386acdf54a620d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873481865
+        }
+    ],
+    "wof:id":873481865,
+    "wof:lastmodified":1464222189,
+    "wof:name":"Loyal Orange Institution",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.595975,
+    39.744465,
+    -75.595975,
+    39.744465
+],
+  "geometry": {"coordinates":[-75.595975,39.744465],"type":"Point"}
+}

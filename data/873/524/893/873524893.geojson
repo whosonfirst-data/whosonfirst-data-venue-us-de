@@ -1,0 +1,71 @@
+{
+  "id": 873524893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.614156,38.652866,-75.614156,38.652866",
+    "geom:latitude":38.652866,
+    "geom:longitude":-75.614156,
+    "iso:country":"US",
+    "sg:address":"350 Virginia Ave",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 2000",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "government-state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QQdcIqSX10RTl2Z6JQQ93_38.652866_-75.614156@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224075,
+    "wof:geomhash":"3263765bad2de4fa4a1647b259477057",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873524893
+        }
+    ],
+    "wof:id":873524893,
+    "wof:lastmodified":1464224075,
+    "wof:name":"Shipley State Service Center",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state"
+    ]
+},
+  "bbox": [
+    -75.614156,
+    38.652866,
+    -75.614156,
+    38.652866
+],
+  "geometry": {"coordinates":[-75.61415599999999,38.652866],"type":"Point"}
+}

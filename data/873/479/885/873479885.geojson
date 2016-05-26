@@ -1,0 +1,78 @@
+{
+  "id": 873479885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604858,39.713294,-75.604858,39.713294",
+    "geom:latitude":39.713294,
+    "geom:longitude":-75.604858,
+    "iso:country":"US",
+    "sg:address":"303 E Ayre St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 1131",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "welding",
+        "cleaning",
+        "boiler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wLEhm5dYE7N8v9a380lPP_39.713294_-75.604858@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222107,
+    "wof:geomhash":"85199880d123edfbe3ac92c0c6e111b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873479885
+        }
+    ],
+    "wof:id":873479885,
+    "wof:lastmodified":1464222107,
+    "wof:name":"Delaware Boiler & Welding Repr",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding",
+        "cleaning",
+        "boiler"
+    ]
+},
+  "bbox": [
+    -75.604858,
+    39.713294,
+    -75.604858,
+    39.713294
+],
+  "geometry": {"coordinates":[-75.60485799999999,39.713294],"type":"Point"}
+}

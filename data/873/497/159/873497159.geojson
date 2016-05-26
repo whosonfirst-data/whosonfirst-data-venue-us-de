@@ -1,0 +1,71 @@
+{
+  "id": 873497159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703784,39.664175,-75.703784,39.664175",
+    "geom:latitude":39.664175,
+    "geom:longitude":-75.703784,
+    "iso:country":"US",
+    "sg:address":"117 Cypress Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 894 1492",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TJyHLR87gRnnGPB2bb6Wa_39.664175_-75.703784@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222829,
+    "wof:geomhash":"bcd331db15c29969337c6ba3fd08d5df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873497159
+        }
+    ],
+    "wof:id":873497159,
+    "wof:lastmodified":1464222829,
+    "wof:name":"Data Automation Systems",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -75.703784,
+    39.664175,
+    -75.703784,
+    39.664175
+],
+  "geometry": {"coordinates":[-75.703784,39.664175],"type":"Point"}
+}

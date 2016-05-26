@@ -1,0 +1,73 @@
+{
+  "id": 857732375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57886,39.749468,-75.57886,39.749468",
+    "geom:latitude":39.749468,
+    "geom:longitude":-75.57886,
+    "iso:country":"US",
+    "sg:address":"111 Rodman St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 2339",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ppif9iNHaeobyYfsu6xhd_39.749468_-75.578860@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221491,
+    "wof:geomhash":"2893148f99d95662de5a90d03c68e649",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":857732375
+        }
+    ],
+    "wof:id":857732375,
+    "wof:lastmodified":1464221491,
+    "wof:name":"AM Rapuano Plumbing & Heating",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.57886,
+    39.749468,
+    -75.57886,
+    39.749468
+],
+  "geometry": {"coordinates":[-75.57886000000001,39.749468],"type":"Point"}
+}

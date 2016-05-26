@@ -1,0 +1,71 @@
+{
+  "id": 857729399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517765,39.143269,-75.517765,39.143269",
+    "geom:latitude":39.143269,
+    "geom:longitude":-75.517765,
+    "iso:country":"US",
+    "sg:address":"1117 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 5540",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZdNk6XJHKKW5RBWT2h5Lb_39.143269_-75.517765@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221422,
+    "wof:geomhash":"69a2b3297b44fd39a2275928b533dbd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":857729399
+        }
+    ],
+    "wof:id":857729399,
+    "wof:lastmodified":1464221422,
+    "wof:name":"Shorewash Full Svc Car Wash",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.517765,
+    39.143269,
+    -75.517765,
+    39.143269
+],
+  "geometry": {"coordinates":[-75.517765,39.143269],"type":"Point"}
+}

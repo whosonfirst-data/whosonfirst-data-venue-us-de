@@ -1,0 +1,73 @@
+{
+  "id": 857687399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.600936,39.739416,-75.600936,39.739416",
+    "geom:latitude":39.739416,
+    "geom:longitude":-75.600936,
+    "iso:country":"US",
+    "sg:address":"1211 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 1205",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dq6x8qHlZNFiGKn5z7D9c_39.739416_-75.600936@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220567,
+    "wof:geomhash":"6e7633425f532d135562f36def02aa3a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":857687399
+        }
+    ],
+    "wof:id":857687399,
+    "wof:lastmodified":1464220567,
+    "wof:name":"Chow's Farms",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.600936,
+    39.739416,
+    -75.600936,
+    39.739416
+],
+  "geometry": {"coordinates":[-75.600936,39.739416],"type":"Point"}
+}

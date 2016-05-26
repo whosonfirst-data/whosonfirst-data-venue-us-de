@@ -1,0 +1,73 @@
+{
+  "id": 857707187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532484,39.748998,-75.532484,39.748998",
+    "geom:latitude":39.748998,
+    "geom:longitude":-75.532484,
+    "iso:country":"US",
+    "sg:address":"2200 N Locust St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 1101",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04QUz98ZpfOKbQByETowRs_39.748998_-75.532484@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220953,
+    "wof:geomhash":"3e98dc6d191146b3c1bb9a400a98f5c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":857707187
+        }
+    ],
+    "wof:id":857707187,
+    "wof:lastmodified":1464220953,
+    "wof:name":"Thomas A Edison Charter School",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.532484,
+    39.748998,
+    -75.532484,
+    39.748998
+],
+  "geometry": {"coordinates":[-75.532484,39.748998],"type":"Point"}
+}

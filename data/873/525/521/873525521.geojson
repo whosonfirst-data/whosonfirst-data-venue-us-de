@@ -1,0 +1,86 @@
+{
+  "id": 873525521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595859,39.775992,-75.595859,39.775992",
+    "geom:latitude":39.775992,
+    "geom:longitude":-75.595859,
+    "iso:country":"US",
+    "sg:address":"4001 Kennett Pike Suite 134-113",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 504 4587",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cash-registry",
+        "wedding-registry",
+        "registry",
+        "baby-registry",
+        "honeymoon-registry",
+        "life-event-registry",
+        "fundraising-registry",
+        "registry-scanner",
+        "mobile-scanner"
+    ],
+    "sg:website":"http://www.SimpleRegistry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834895,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_66Qz3H7l1yyp08UNcDFd8J_39.775992_-75.595859@1308186500"
+    },
+    "wof:country":"US",
+    "wof:created":1464224099,
+    "wof:geomhash":"214de67650f8288a22b8b7fa90ab01dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834895,
+            "region_id":85688611,
+            "venue_id":873525521
+        }
+    ],
+    "wof:id":873525521,
+    "wof:lastmodified":1464224099,
+    "wof:name":"SimpleRegistry",
+    "wof:parent_id":85834895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cash-registry",
+        "wedding-registry",
+        "registry",
+        "baby-registry",
+        "honeymoon-registry",
+        "life-event-registry",
+        "fundraising-registry",
+        "registry-scanner",
+        "mobile-scanner"
+    ]
+},
+  "bbox": [
+    -75.595859,
+    39.775992,
+    -75.595859,
+    39.775992
+],
+  "geometry": {"coordinates":[-75.595859,39.775992],"type":"Point"}
+}

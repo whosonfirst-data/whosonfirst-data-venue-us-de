@@ -1,0 +1,78 @@
+{
+  "id": 857723249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610305,38.767872,-75.610305,38.767872",
+    "geom:latitude":38.767872,
+    "geom:longitude":-75.610305,
+    "iso:country":"US",
+    "sg:address":"16440 Adams Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3007",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "pickle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t3edpwUDfIEzwPAeWAADa_38.767872_-75.610305@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221311,
+    "wof:geomhash":"5cdeb239ad78d308f4fbd53b0a066cfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857723249
+        }
+    ],
+    "wof:id":857723249,
+    "wof:lastmodified":1464221311,
+    "wof:name":"Kenny Bros Produce LLC",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "pickle"
+    ]
+},
+  "bbox": [
+    -75.610305,
+    38.767872,
+    -75.610305,
+    38.767872
+],
+  "geometry": {"coordinates":[-75.610305,38.767872],"type":"Point"}
+}

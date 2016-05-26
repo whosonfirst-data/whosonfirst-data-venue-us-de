@@ -1,0 +1,72 @@
+{
+  "id": 873521687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.538555,39.188081,-75.538555,39.188081",
+    "geom:latitude":39.188081,
+    "geom:longitude":-75.538555,
+    "iso:country":"US",
+    "sg:address":"1165 N Dupont Hwy Ste 1",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 0200",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:website":"www.bestbuy.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0klCUvaSek5i3DW2AiagHA_39.188081_-75.538555@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223951,
+    "wof:geomhash":"3178cf647a7e1e6a13ac0eec17e18d54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873521687
+        }
+    ],
+    "wof:id":873521687,
+    "wof:lastmodified":1464223951,
+    "wof:name":"Best Buy",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.538555,
+    39.188081,
+    -75.538555,
+    39.188081
+],
+  "geometry": {"coordinates":[-75.538555,39.188081],"type":"Point"}
+}

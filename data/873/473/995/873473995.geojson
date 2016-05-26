@@ -1,0 +1,68 @@
+{
+  "id": 873473995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546595,39.737691,-75.546595,39.737691",
+    "geom:latitude":39.737691,
+    "geom:longitude":-75.546595,
+    "iso:country":"US",
+    "sg:address":"242 N Lombard St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 0996",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QpuvLIPAF4wITSTwqTLhP_39.737691_-75.546595@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221881,
+    "wof:geomhash":"fc1bca2314d2b4b7420929fef30fa4d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873473995
+        }
+    ],
+    "wof:id":873473995,
+    "wof:lastmodified":1464221881,
+    "wof:name":"S & R Market",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.546595,
+    39.737691,
+    -75.546595,
+    39.737691
+],
+  "geometry": {"coordinates":[-75.546595,39.737691],"type":"Point"}
+}

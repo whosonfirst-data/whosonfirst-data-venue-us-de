@@ -1,0 +1,75 @@
+{
+  "id": 857727975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.733402,39.702551,-75.733402,39.702551",
+    "geom:latitude":39.702551,
+    "geom:longitude":-75.733402,
+    "iso:country":"US",
+    "sg:address":"105 Aronimink Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 9318",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uR54Z7sNiD00cN34tLRRM_39.702551_-75.733402@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221396,
+    "wof:geomhash":"3b81fc8425aad95fe764362f95d3215e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":857727975
+        }
+    ],
+    "wof:id":857727975,
+    "wof:lastmodified":1464221396,
+    "wof:name":"Judd Wire Inc",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.733402,
+    39.702551,
+    -75.733402,
+    39.702551
+],
+  "geometry": {"coordinates":[-75.733402,39.702551],"type":"Point"}
+}

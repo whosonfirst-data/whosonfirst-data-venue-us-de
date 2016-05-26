@@ -1,0 +1,73 @@
+{
+  "id": 857709833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.224588,38.464885,-75.224588,38.464885",
+    "geom:latitude":38.464885,
+    "geom:longitude":-75.224588,
+    "iso:country":"US",
+    "sg:address":"19 S Main St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 8013",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GhMf60giDt09TRm6Hw6WZ_38.464885_-75.224588@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221026,
+    "wof:geomhash":"363ee8ae40c32c02a0e9741354734830",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857709833
+        }
+    ],
+    "wof:id":857709833,
+    "wof:lastmodified":1464221026,
+    "wof:name":"Hoban Service Ctr",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.224588,
+    38.464885,
+    -75.224588,
+    38.464885
+],
+  "geometry": {"coordinates":[-75.224588,38.464885],"type":"Point"}
+}

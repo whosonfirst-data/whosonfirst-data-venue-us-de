@@ -1,0 +1,78 @@
+{
+  "id": 873523731,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62799,39.274213,-75.62799,39.274213",
+    "geom:latitude":39.274213,
+    "geom:longitude":-75.62799,
+    "iso:country":"US",
+    "sg:address":"205 Chesapeake Ln",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 389 8237",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oJJNPTM093DdYYJHsZymf_39.274213_-75.627990@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224030,
+    "wof:geomhash":"47e13c3d4a3a9b5b7767bf70e27edd17",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873523731
+        }
+    ],
+    "wof:id":873523731,
+    "wof:lastmodified":1464224030,
+    "wof:name":"P And J Trucking",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.62799,
+    39.274213,
+    -75.62799,
+    39.274213
+],
+  "geometry": {"coordinates":[-75.62799,39.274213],"type":"Point"}
+}

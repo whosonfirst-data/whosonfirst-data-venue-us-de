@@ -1,0 +1,75 @@
+{
+  "id": 873509893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.403113,38.706884,-75.403113,38.706884",
+    "geom:latitude":38.706884,
+    "geom:longitude":-75.403113,
+    "iso:country":"US",
+    "sg:address":"20261 Dupont Blvd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9140",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03tm3zs0m7vwoxkkOeomNU_38.706884_-75.403113@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223373,
+    "wof:geomhash":"5b85d39efba58d4128594df22b620c8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873509893
+        }
+    ],
+    "wof:id":873509893,
+    "wof:lastmodified":1464223373,
+    "wof:name":"Budget Truck Rental",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "truck",
+        "leasing"
+    ]
+},
+  "bbox": [
+    -75.403113,
+    38.706884,
+    -75.403113,
+    38.706884
+],
+  "geometry": {"coordinates":[-75.403113,38.706884],"type":"Point"}
+}

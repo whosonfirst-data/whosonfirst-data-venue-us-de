@@ -1,0 +1,71 @@
+{
+  "id": 873505635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.382018,38.693013,-75.382018,38.693013",
+    "geom:latitude":38.693013,
+    "geom:longitude":-75.382018,
+    "iso:country":"US",
+    "sg:address":"413 E Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 9062",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6XWrTrFiklrA9Ih3fPzIDS_38.693013_-75.382018@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223185,
+    "wof:geomhash":"8759f250739f2ce6707a65fafb015690",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873505635
+        }
+    ],
+    "wof:id":873505635,
+    "wof:lastmodified":1464223185,
+    "wof:name":"Kercher Engineering",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.382018,
+    38.693013,
+    -75.382018,
+    38.693013
+],
+  "geometry": {"coordinates":[-75.382018,38.693013],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873468967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.384471,38.828594,-75.384471,38.828594",
+    "geom:latitude":38.828594,
+    "geom:longitude":-75.384471,
+    "iso:country":"US",
+    "sg:address":"10733 Benson Rd",
+    "sg:city":"Ellendale",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 0191",
+    "sg:postcode":"19941",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HmSgQTELDVQfqEQRd3P2j_38.828594_-75.384471@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221686,
+    "wof:geomhash":"f564363d5a8ee3fe47fa87973e8134ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873468967
+        }
+    ],
+    "wof:id":873468967,
+    "wof:lastmodified":1464221686,
+    "wof:name":"David K Brower Electric",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.384471,
+    38.828594,
+    -75.384471,
+    38.828594
+],
+  "geometry": {"coordinates":[-75.384471,38.828594],"type":"Point"}
+}

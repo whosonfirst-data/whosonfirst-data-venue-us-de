@@ -1,0 +1,71 @@
+{
+  "id": 873508485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.316862,38.683679,-75.316862,38.683679",
+    "geom:latitude":38.683679,
+    "geom:longitude":-75.316862,
+    "iso:country":"US",
+    "sg:address":"24456 Springfield Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9227",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carpentry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wRG93kP1TInUkPV3Hj5gN_38.683679_-75.316862@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223308,
+    "wof:geomhash":"7868703d5666e875bea95ab96b52b2a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873508485
+        }
+    ],
+    "wof:id":873508485,
+    "wof:lastmodified":1464223308,
+    "wof:name":"Carpentry Unlimited Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry"
+    ]
+},
+  "bbox": [
+    -75.316862,
+    38.683679,
+    -75.316862,
+    38.683679
+],
+  "geometry": {"coordinates":[-75.316862,38.683679],"type":"Point"}
+}

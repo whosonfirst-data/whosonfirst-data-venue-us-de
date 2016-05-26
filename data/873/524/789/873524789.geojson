@@ -1,0 +1,67 @@
+{
+  "id": 873524789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.591549,38.684549,-75.591549,38.684549",
+    "geom:latitude":38.684549,
+    "geom:longitude":-75.591549,
+    "iso:country":"US",
+    "sg:address":"2001 Bridgeville Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OGWap4uaXWd5MlLg1xtqU_38.684549_-75.591549@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224070,
+    "wof:geomhash":"8f91b3df2437d974997ba2c958bc95c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873524789
+        }
+    ],
+    "wof:id":873524789,
+    "wof:lastmodified":1464224070,
+    "wof:name":"USPS - United States Post Office - Seaford Main Office",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.591549,
+    38.684549,
+    -75.591549,
+    38.684549
+],
+  "geometry": {"coordinates":[-75.591549,38.684549],"type":"Point"}
+}

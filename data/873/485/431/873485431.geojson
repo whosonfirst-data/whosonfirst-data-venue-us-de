@@ -1,0 +1,80 @@
+{
+  "id": 873485431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.437015,38.869739,-75.437015,38.869739",
+    "geom:latitude":38.869739,
+    "geom:longitude":-75.437015,
+    "iso:country":"US",
+    "sg:address":"18021 Johnson Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 2838",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "party",
+        "supply",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4taepKWcyfZtaC94t1qUue_38.869739_-75.437015@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222322,
+    "wof:geomhash":"7ed54584f45dec79f9ff2811b4a6e9ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873485431
+        }
+    ],
+    "wof:id":873485431,
+    "wof:lastmodified":1464222322,
+    "wof:name":"Doris & Co",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "party",
+        "supply",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -75.437015,
+    38.869739,
+    -75.437015,
+    38.869739
+],
+  "geometry": {"coordinates":[-75.437015,38.869739],"type":"Point"}
+}

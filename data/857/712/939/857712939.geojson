@@ -1,0 +1,71 @@
+{
+  "id": 857712939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563069,39.199971,-75.563069,39.199971",
+    "geom:latitude":39.199971,
+    "geom:longitude":-75.563069,
+    "iso:country":"US",
+    "sg:address":"5729 W Denneys Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2494",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hYyBi72ecA2FGVZYLVIyQ_39.199971_-75.563069@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221109,
+    "wof:geomhash":"1afbe522c2af84a87d8e480d98c53048",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857712939
+        }
+    ],
+    "wof:id":857712939,
+    "wof:lastmodified":1464221109,
+    "wof:name":"Comcast",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -75.563069,
+    39.199971,
+    -75.563069,
+    39.199971
+],
+  "geometry": {"coordinates":[-75.563069,39.199971],"type":"Point"}
+}

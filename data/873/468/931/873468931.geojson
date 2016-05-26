@@ -1,0 +1,76 @@
+{
+  "id": 873468931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565913,39.206047,-75.565913,39.206047",
+    "geom:latitude":39.206047,
+    "geom:longitude":-75.565913,
+    "iso:country":"US",
+    "sg:address":"249 Fork Branch Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 6471",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nXL9Ra6Du3zF6pwdoCLcV_39.206047_-75.565913@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221684,
+    "wof:geomhash":"6f2fa70bc1feda8ef46ec7025cc08116",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873468931
+        }
+    ],
+    "wof:id":873468931,
+    "wof:lastmodified":1464221684,
+    "wof:name":"Tightlines Transportation Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -75.565913,
+    39.206047,
+    -75.565913,
+    39.206047
+],
+  "geometry": {"coordinates":[-75.56591299999999,39.206047],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873511223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.720048,39.676431,-75.720048,39.676431",
+    "geom:latitude":39.676431,
+    "geom:longitude":-75.720048,
+    "iso:country":"US",
+    "sg:address":"393 Hobart Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Theater",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 9754",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "magician",
+        "group"
+    ],
+    "sg:website":"http://www.magicjohn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GfTODuhbljTQsw40rOF4c_39.676078_-75.719879@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223430,
+    "wof:geomhash":"7a61863b399e501fe77697e0bc2f2d1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873511223
+        }
+    ],
+    "wof:id":873511223,
+    "wof:lastmodified":1464223430,
+    "wof:name":"Magic John",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "magician",
+        "group"
+    ]
+},
+  "bbox": [
+    -75.720048,
+    39.676431,
+    -75.720048,
+    39.676431
+],
+  "geometry": {"coordinates":[-75.72004800000001,39.676431],"type":"Point"}
+}

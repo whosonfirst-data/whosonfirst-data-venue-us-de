@@ -1,0 +1,73 @@
+{
+  "id": 873487969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.770035,39.61109,-75.770035,39.61109",
+    "geom:latitude":39.61109,
+    "geom:longitude":-75.770035,
+    "iso:country":"US",
+    "sg:address":"350 Pencader Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 9405",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IzOUX9uxuf2ORRDs4Pyib_39.611090_-75.770035@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222421,
+    "wof:geomhash":"ee02bd4715252bc44c71d9335e0a292b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873487969
+        }
+    ],
+    "wof:id":873487969,
+    "wof:lastmodified":1464222421,
+    "wof:name":"Vassallo Michael Elec Contr",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.770035,
+    39.61109,
+    -75.770035,
+    39.61109
+],
+  "geometry": {"coordinates":[-75.77003499999999,39.61109],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873516329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.752185,39.661183,-75.752185,39.661183",
+    "geom:latitude":39.661183,
+    "geom:longitude":-75.752185,
+    "iso:country":"US",
+    "sg:address":"630 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 1700",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lodging"
+    ],
+    "sg:website":"http://www.sleepinn.com/hotel-newark-delaware-DE015",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SehUPFfbhYulQSS05vNFS_39.661183_-75.752185@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223674,
+    "wof:geomhash":"7e3f923fc439734a9384642638b06e62",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873516329
+        }
+    ],
+    "wof:id":873516329,
+    "wof:lastmodified":1464223674,
+    "wof:name":"Sleep Inn Newark",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -75.752185,
+    39.661183,
+    -75.752185,
+    39.661183
+],
+  "geometry": {"coordinates":[-75.752185,39.661183],"type":"Point"}
+}

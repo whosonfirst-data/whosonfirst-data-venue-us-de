@@ -1,0 +1,71 @@
+{
+  "id": 873471179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.29674,38.58837,-75.29674,38.58837",
+    "geom:latitude":38.58837,
+    "geom:longitude":-75.29674,
+    "iso:country":"US",
+    "sg:address":"201 Houston Acres",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 1822",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0roti4dp5m5uMxbYOqmphE_38.588370_-75.296740@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221775,
+    "wof:geomhash":"cb66556a10a64684e82e9ade65ce23a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873471179
+        }
+    ],
+    "wof:id":873471179,
+    "wof:lastmodified":1464221775,
+    "wof:name":"West Property Maintenance Svc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.29674,
+    38.58837,
+    -75.29674,
+    38.58837
+],
+  "geometry": {"coordinates":[-75.29674,38.58837],"type":"Point"}
+}

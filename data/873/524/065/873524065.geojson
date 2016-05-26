@@ -1,0 +1,77 @@
+{
+  "id": 873524065,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.359681,38.666779,-75.359681,38.666779",
+    "geom:latitude":38.666779,
+    "geom:longitude":-75.359681,
+    "iso:country":"US",
+    "sg:address":"21777 Sussex Pines Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 3636",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "school",
+        "instruction",
+        "art",
+        "educational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xy4Egfs01p7ACaquf2gxd_38.666779_-75.359681@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224043,
+    "wof:geomhash":"2d36cf7744e00fc3ad55edf0d239fb45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524065
+        }
+    ],
+    "wof:id":873524065,
+    "wof:lastmodified":1464224043,
+    "wof:name":"Sussex Academy",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "instruction",
+        "art",
+        "educational"
+    ]
+},
+  "bbox": [
+    -75.359681,
+    38.666779,
+    -75.359681,
+    38.666779
+],
+  "geometry": {"coordinates":[-75.35968099999999,38.666779],"type":"Point"}
+}

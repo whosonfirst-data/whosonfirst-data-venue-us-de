@@ -1,0 +1,76 @@
+{
+  "id": 873465771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.068107,38.53961,-75.068107,38.53961",
+    "geom:latitude":38.53961,
+    "geom:longitude":-75.068107,
+    "iso:country":"US",
+    "sg:address":"789 Garfield Pkwy",
+    "sg:city":"Bethany Beach",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 4550",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cafe"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YsWT3Qvyb4VCWlpW13wZU_38.539610_-75.068107@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221583,
+    "wof:geomhash":"9217785066aa82930627727adc571025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873465771
+        }
+    ],
+    "wof:id":873465771,
+    "wof:lastmodified":1464221583,
+    "wof:name":"Di Febo's Deli & Carryout",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cafe"
+    ]
+},
+  "bbox": [
+    -75.068107,
+    38.53961,
+    -75.068107,
+    38.53961
+],
+  "geometry": {"coordinates":[-75.068107,38.53961],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857709193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.575387,39.659258,-75.575387,39.659258",
+    "geom:latitude":39.659258,
+    "geom:longitude":-75.575387,
+    "iso:country":"US",
+    "sg:address":"701 Washington St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 8541",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wjfKbk67HyNyjO55gDN54_39.659258_-75.575387@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221008,
+    "wof:geomhash":"50b8896214062acfe66631dad7f66dde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857709193
+        }
+    ],
+    "wof:id":857709193,
+    "wof:lastmodified":1464221008,
+    "wof:name":"Almars Outboard",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -75.575387,
+    39.659258,
+    -75.575387,
+    39.659258
+],
+  "geometry": {"coordinates":[-75.57538700000001,39.659258],"type":"Point"}
+}

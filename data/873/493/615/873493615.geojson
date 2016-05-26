@@ -1,0 +1,71 @@
+{
+  "id": 873493615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.387406,38.688899,-75.387406,38.688899",
+    "geom:latitude":38.688899,
+    "geom:longitude":-75.387406,
+    "iso:country":"US",
+    "sg:address":"116 W Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9066",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lVGJxeL9V3J7YAljIaoaR_38.688899_-75.387406@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222632,
+    "wof:geomhash":"fe85a3e1b8a180bf9292c451a3591d10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873493615
+        }
+    ],
+    "wof:id":873493615,
+    "wof:lastmodified":1464222632,
+    "wof:name":"Griffin & Hackett",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -75.387406,
+    38.688899,
+    -75.387406,
+    38.688899
+],
+  "geometry": {"coordinates":[-75.387406,38.688899],"type":"Point"}
+}

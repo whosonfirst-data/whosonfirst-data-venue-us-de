@@ -1,0 +1,86 @@
+{
+  "id": 873509417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.397714,38.688775,-75.397714,38.688775",
+    "geom:latitude":38.688775,
+    "geom:longitude":-75.397714,
+    "iso:country":"US",
+    "sg:address":"315 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 0172",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "info",
+        "specialty",
+        "drug",
+        "abuse",
+        "treatment",
+        "addiction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1qfLWuv0Kd9us0T9vvC8gM_38.688775_-75.397714@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223348,
+    "wof:geomhash":"3cd869cc8c7b24b1845b0fad4cd5208d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873509417
+        }
+    ],
+    "wof:id":873509417,
+    "wof:lastmodified":1464223348,
+    "wof:name":"Sussex County Counseling Svcs",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "info",
+        "specialty",
+        "drug",
+        "abuse",
+        "treatment",
+        "addiction"
+    ]
+},
+  "bbox": [
+    -75.397714,
+    38.688775,
+    -75.397714,
+    38.688775
+],
+  "geometry": {"coordinates":[-75.39771399999999,38.688775],"type":"Point"}
+}

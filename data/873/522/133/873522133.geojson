@@ -1,0 +1,75 @@
+{
+  "id": 873522133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.507004,39.140099,-75.507004,39.140099",
+    "geom:latitude":39.140099,
+    "geom:longitude":-75.507004,
+    "iso:country":"US",
+    "sg:address":"3 President Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 1041",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YK24gSJrywjpu5uh6o09f_39.140099_-75.507004@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223968,
+    "wof:geomhash":"673e432456d203731459bdfda8fc4ca5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873522133
+        }
+    ],
+    "wof:id":873522133,
+    "wof:lastmodified":1464223968,
+    "wof:name":"Roma Italian Restaurant",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.507004,
+    39.140099,
+    -75.507004,
+    39.140099
+],
+  "geometry": {"coordinates":[-75.50700399999999,39.140099],"type":"Point"}
+}

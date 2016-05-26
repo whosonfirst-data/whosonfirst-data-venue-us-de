@@ -1,0 +1,80 @@
+{
+  "id": 873513301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703718,39.674078,-75.703718,39.674078",
+    "geom:latitude":39.674078,
+    "geom:longitude":-75.703718,
+    "iso:country":"US",
+    "sg:address":"681 E Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/21834-philly-style-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 0553",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "pasta",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hiT0313jN6IQtbpTgVYSY_39.674078_-75.703718@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223524,
+    "wof:geomhash":"2720222960c93296fd8f1ca6737cd61a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513301
+        }
+    ],
+    "wof:id":873513301,
+    "wof:lastmodified":1464223524,
+    "wof:name":"Philly Style Express",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "calzones",
+        "american",
+        "pasta",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.703718,
+    39.674078,
+    -75.703718,
+    39.674078
+],
+  "geometry": {"coordinates":[-75.70371799999999,39.674078],"type":"Point"}
+}

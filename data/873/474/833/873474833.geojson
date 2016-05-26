@@ -1,0 +1,72 @@
+{
+  "id": 873474833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.705242,39.712306,-75.705242,39.712306",
+    "geom:latitude":39.712306,
+    "geom:longitude":-75.705242,
+    "iso:country":"US",
+    "sg:address":"37 Coach Hill Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 1904",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "development",
+        "software"
+    ],
+    "sg:website":"www.webosk.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3m6xDKBTd0pUoXZyTjZ2vg_39.712306_-75.705242@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221909,
+    "wof:geomhash":"62393d79d9349d0a58bba7bd19dc2dc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873474833
+        }
+    ],
+    "wof:id":873474833,
+    "wof:lastmodified":1464221909,
+    "wof:name":"Interapp Inc",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "software"
+    ]
+},
+  "bbox": [
+    -75.705242,
+    39.712306,
+    -75.705242,
+    39.712306
+],
+  "geometry": {"coordinates":[-75.705242,39.712306],"type":"Point"}
+}

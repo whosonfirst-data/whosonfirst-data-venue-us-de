@@ -1,0 +1,71 @@
+{
+  "id": 857710703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.697212,39.655339,-75.697212,39.655339",
+    "geom:latitude":39.655339,
+    "geom:longitude":-75.697212,
+    "iso:country":"US",
+    "sg:address":"350 Salem Church Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 2793",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PcZ4kmlMdVnqR48AQ3KQ7_39.655339_-75.697212@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221046,
+    "wof:geomhash":"423b6e8a356d77990318c59c857642a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857710703
+        }
+    ],
+    "wof:id":857710703,
+    "wof:lastmodified":1464221046,
+    "wof:name":"Harmony Construction",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.697212,
+    39.655339,
+    -75.697212,
+    39.655339
+],
+  "geometry": {"coordinates":[-75.69721199999999,39.655339],"type":"Point"}
+}

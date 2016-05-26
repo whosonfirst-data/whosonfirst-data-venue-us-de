@@ -1,0 +1,71 @@
+{
+  "id": 857728889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.590825,39.730323,-75.590825,39.730323",
+    "geom:latitude":39.730323,
+    "geom:longitude":-75.590825,
+    "iso:country":"US",
+    "sg:address":"111 Matthes Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 1250",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uVWEDxhKtSGzJS4kpq223_39.730323_-75.590825@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221413,
+    "wof:geomhash":"85a6138c248c822f712545b7c7c05bb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":857728889
+        }
+    ],
+    "wof:id":857728889,
+    "wof:lastmodified":1464221413,
+    "wof:name":"Good Deal Contractors",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.590825,
+    39.730323,
+    -75.590825,
+    39.730323
+],
+  "geometry": {"coordinates":[-75.590825,39.730323],"type":"Point"}
+}

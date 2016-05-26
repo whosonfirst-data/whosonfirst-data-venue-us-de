@@ -1,0 +1,71 @@
+{
+  "id": 873500071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550136,39.809318,-75.550136,39.809318",
+    "geom:latitude":39.809318,
+    "geom:longitude":-75.550136,
+    "iso:country":"US",
+    "sg:address":"4001 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0299",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2awA2iC5komOwNxQXy8B0Z_39.809318_-75.550136@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222940,
+    "wof:geomhash":"86152428a540036ce4c9d5ad68353279",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873500071
+        }
+    ],
+    "wof:id":873500071,
+    "wof:lastmodified":1464222940,
+    "wof:name":"American Properties Mgmt",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.550136,
+    39.809318,
+    -75.550136,
+    39.809318
+],
+  "geometry": {"coordinates":[-75.55013599999999,39.809318],"type":"Point"}
+}

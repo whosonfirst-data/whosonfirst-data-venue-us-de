@@ -1,0 +1,71 @@
+{
+  "id": 857707483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.583959,39.68526,-75.583959,39.68526",
+    "geom:latitude":39.68526,
+    "geom:longitude":-75.583959,
+    "iso:country":"US",
+    "sg:address":"109 E Grant Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 324 1202",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VQ6GzJsqeAJFvgJBimmnE_39.685260_-75.583959@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220958,
+    "wof:geomhash":"0002aa6084c333e5ef7a500138f30518",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857707483
+        }
+    ],
+    "wof:id":857707483,
+    "wof:lastmodified":1464220958,
+    "wof:name":"James Mechanical Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.583959,
+    39.68526,
+    -75.583959,
+    39.68526
+],
+  "geometry": {"coordinates":[-75.58395899999999,39.68526],"type":"Point"}
+}

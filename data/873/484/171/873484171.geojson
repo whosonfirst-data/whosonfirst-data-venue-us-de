@@ -1,0 +1,69 @@
+{
+  "id": 873484171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.674545,39.723625,-75.674545,39.723625",
+    "geom:latitude":39.723625,
+    "geom:longitude":-75.674545,
+    "iso:country":"US",
+    "sg:address":"2602 Belaire Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 3305",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "billing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CUZlFqRhm28fTcIx9eRo4_39.723625_-75.674545@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222277,
+    "wof:geomhash":"001a50ceb7305e2cce43c6627c3edfc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873484171
+        }
+    ],
+    "wof:id":873484171,
+    "wof:lastmodified":1464222277,
+    "wof:name":"Behavioral Health Billing Svc",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "billing"
+    ]
+},
+  "bbox": [
+    -75.674545,
+    39.723625,
+    -75.674545,
+    39.723625
+],
+  "geometry": {"coordinates":[-75.67454499999999,39.723625],"type":"Point"}
+}

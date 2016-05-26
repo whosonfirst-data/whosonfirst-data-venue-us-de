@@ -1,0 +1,73 @@
+{
+  "id": 873503313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601489,39.734101,-75.601489,39.734101",
+    "geom:latitude":39.734101,
+    "geom:longitude":-75.601489,
+    "iso:country":"US",
+    "sg:address":"1203 Maple Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 8550",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70DIxKcdZXX6ru2OjWpkWO_39.734101_-75.601489@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223075,
+    "wof:geomhash":"61f457a1c04aedfcdf72c2e6834f3700",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873503313
+        }
+    ],
+    "wof:id":873503313,
+    "wof:lastmodified":1464223075,
+    "wof:name":"Skip Walls Contracting",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.601489,
+    39.734101,
+    -75.601489,
+    39.734101
+],
+  "geometry": {"coordinates":[-75.601489,39.734101],"type":"Point"}
+}

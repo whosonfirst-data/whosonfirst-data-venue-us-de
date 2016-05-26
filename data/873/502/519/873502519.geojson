@@ -1,0 +1,71 @@
+{
+  "id": 873502519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.298944,38.587548,-75.298944,38.587548",
+    "geom:latitude":38.587548,
+    "geom:longitude":-75.298944,
+    "iso:country":"US",
+    "sg:address":"210 W Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 6711",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ACqc4lXKBegAJeRuSPepX_38.587548_-75.298944@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223047,
+    "wof:geomhash":"2f39cfa465c78e6f8cd7a745b979b017",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873502519
+        }
+    ],
+    "wof:id":873502519,
+    "wof:lastmodified":1464223047,
+    "wof:name":"Atlantic Budget Inn Millsboro",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -75.298944,
+    38.587548,
+    -75.298944,
+    38.587548
+],
+  "geometry": {"coordinates":[-75.29894400000001,38.587548],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873474019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.163969,38.751741,-75.163969,38.751741",
+    "geom:latitude":38.751741,
+    "geom:longitude":-75.163969,
+    "iso:country":"US",
+    "sg:address":"1606 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 3822",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CYBfznRuCNP803EwwGtkw_38.751741_-75.163969@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221881,
+    "wof:geomhash":"8fd863797812459d372707ddf5833812",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873474019
+        }
+    ],
+    "wof:id":873474019,
+    "wof:lastmodified":1464221881,
+    "wof:name":"Cardiac Diagnostic Ctr",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.163969,
+    38.751741,
+    -75.163969,
+    38.751741
+],
+  "geometry": {"coordinates":[-75.16396899999999,38.751741],"type":"Point"}
+}

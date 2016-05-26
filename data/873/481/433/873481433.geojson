@@ -1,0 +1,73 @@
+{
+  "id": 873481433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54746,39.761145,-75.54746,39.761145",
+    "geom:latitude":39.761145,
+    "geom:longitude":-75.54746,
+    "iso:country":"US",
+    "sg:address":"900 W 21st St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 9345",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3LaiENTR01653N4yGGA0dP_39.761145_-75.547460@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222170,
+    "wof:geomhash":"9160e86cf4d69f0adc629dcec8ae773c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873481433
+        }
+    ],
+    "wof:id":873481433,
+    "wof:lastmodified":1464222170,
+    "wof:name":"B Proud",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo"
+    ]
+},
+  "bbox": [
+    -75.54746,
+    39.761145,
+    -75.54746,
+    39.761145
+],
+  "geometry": {"coordinates":[-75.54746,39.761145],"type":"Point"}
+}

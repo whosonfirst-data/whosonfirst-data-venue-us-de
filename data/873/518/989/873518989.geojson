@@ -1,0 +1,75 @@
+{
+  "id": 873518989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.629784,39.735279,-75.629784,39.735279",
+    "geom:latitude":39.735279,
+    "geom:longitude":-75.629784,
+    "iso:country":"US",
+    "sg:address":"2000 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 6700",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HDOSDuEVfrk09basEjxZi_39.735279_-75.629784@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223834,
+    "wof:geomhash":"ab6c4b836bb76692e0a46b709a455a29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518989
+        }
+    ],
+    "wof:id":873518989,
+    "wof:lastmodified":1464223834,
+    "wof:name":"C & H Auto Sales",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale"
+    ]
+},
+  "bbox": [
+    -75.629784,
+    39.735279,
+    -75.629784,
+    39.735279
+],
+  "geometry": {"coordinates":[-75.629784,39.735279],"type":"Point"}
+}

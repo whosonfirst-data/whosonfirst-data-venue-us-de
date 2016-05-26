@@ -1,0 +1,73 @@
+{
+  "id": 873509629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544892,39.107902,-75.544892,39.107902",
+    "geom:latitude":39.107902,
+    "geom:longitude":-75.544892,
+    "iso:country":"US",
+    "sg:address":"14 Voshell Mill Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 399 3441",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1hrFE7bbXiBv13nQBruXRm_39.107902_-75.544892@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223362,
+    "wof:geomhash":"c463531bc7da65b98537497be8e68135",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873509629
+        }
+    ],
+    "wof:id":873509629,
+    "wof:lastmodified":1464223362,
+    "wof:name":"Aidas Painting & Etc",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.544892,
+    39.107902,
+    -75.544892,
+    39.107902
+],
+  "geometry": {"coordinates":[-75.544892,39.107902],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873522571,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565598,39.0914,-75.565598,39.0914",
+    "geom:latitude":39.0914,
+    "geom:longitude":-75.565598,
+    "iso:country":"US",
+    "sg:address":"682 Bison Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Pet Boarding",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 2002",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "boarding/pet",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sKY72Inm4y4Vu1ZGNR4GK_39.091400_-75.565598@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223991,
+    "wof:geomhash":"d5ef9425590ccba11a5ceb91cd566042",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873522571
+        }
+    ],
+    "wof:id":873522571,
+    "wof:lastmodified":1464223991,
+    "wof:name":"Best Boarding Kennel",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "boarding/pet",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -75.565598,
+    39.0914,
+    -75.565598,
+    39.0914
+],
+  "geometry": {"coordinates":[-75.56559799999999,39.0914],"type":"Point"}
+}

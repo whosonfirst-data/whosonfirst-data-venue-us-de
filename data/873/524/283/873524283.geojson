@@ -1,0 +1,78 @@
+{
+  "id": 873524283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.709774,39.13007,-75.709774,39.13007",
+    "geom:latitude":39.13007,
+    "geom:longitude":-75.709774,
+    "iso:country":"US",
+    "sg:address":"106 Downes Dr",
+    "sg:city":"Hartly",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Water",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 8381",
+    "sg:postcode":"19953",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bulk",
+        "companies-bottled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sXt2BAXbNcxuDxswBnZCm_39.130070_-75.709774@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224053,
+    "wof:geomhash":"c54b0380b06c73210e08462eb028b22e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873524283
+        }
+    ],
+    "wof:id":873524283,
+    "wof:lastmodified":1464224053,
+    "wof:name":"Middlesex Water Co",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "companies-bottled"
+    ]
+},
+  "bbox": [
+    -75.709774,
+    39.13007,
+    -75.709774,
+    39.13007
+],
+  "geometry": {"coordinates":[-75.709774,39.13007],"type":"Point"}
+}

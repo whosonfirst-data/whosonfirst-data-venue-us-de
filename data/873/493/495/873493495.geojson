@@ -1,0 +1,71 @@
+{
+  "id": 873493495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.153837,38.760522,-75.153837,38.760522",
+    "geom:latitude":38.760522,
+    "geom:longitude":-75.153837,
+    "iso:country":"US",
+    "sg:address":"1305 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2281",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uqku8ODAonVHWhkSdDD9w_38.760522_-75.153837@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222626,
+    "wof:geomhash":"1c51d599b8da81651a0277b85911fcb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873493495
+        }
+    ],
+    "wof:id":873493495,
+    "wof:lastmodified":1464222626,
+    "wof:name":"Lewes Family Practice",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.153837,
+    38.760522,
+    -75.153837,
+    38.760522
+],
+  "geometry": {"coordinates":[-75.153837,38.760522],"type":"Point"}
+}

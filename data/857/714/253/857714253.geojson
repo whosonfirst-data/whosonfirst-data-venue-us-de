@@ -1,0 +1,71 @@
+{
+  "id": 857714253,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.397771,38.688971,-75.397771,38.688971",
+    "geom:latitude":38.688971,
+    "geom:longitude":-75.397771,
+    "iso:country":"US",
+    "sg:address":"303 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9081",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0U4r09EEuH5q2d4fyVq0fN_38.688971_-75.397771@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221134,
+    "wof:geomhash":"b4ee0022d2f5420c58a61ec75e143990",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857714253
+        }
+    ],
+    "wof:id":857714253,
+    "wof:lastmodified":1464221134,
+    "wof:name":"Mid Atlantic Farm Credit Svc",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -75.397771,
+    38.688971,
+    -75.397771,
+    38.688971
+],
+  "geometry": {"coordinates":[-75.39777100000001,38.688971],"type":"Point"}
+}

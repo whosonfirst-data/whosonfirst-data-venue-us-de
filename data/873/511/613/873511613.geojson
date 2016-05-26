@@ -1,0 +1,80 @@
+{
+  "id": 873511613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548165,39.743382,-75.548165,39.743382",
+    "geom:latitude":39.743382,
+    "geom:longitude":-75.548165,
+    "iso:country":"US",
+    "sg:address":"827 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 577 2667",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mail",
+        "shipping",
+        "courier",
+        "air"
+    ],
+    "sg:website":"http://www.federalexpress.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ab8bc2o24r0wYjxyCCnYx_39.744015_-75.547824@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223453,
+    "wof:geomhash":"d2ee2c65fc8934a29e94448994877ef6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873511613
+        }
+    ],
+    "wof:id":873511613,
+    "wof:lastmodified":1464223453,
+    "wof:name":"Fedex",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping",
+        "courier",
+        "air"
+    ]
+},
+  "bbox": [
+    -75.548165,
+    39.743382,
+    -75.548165,
+    39.743382
+],
+  "geometry": {"coordinates":[-75.548165,39.743382],"type":"Point"}
+}

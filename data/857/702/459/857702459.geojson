@@ -1,0 +1,73 @@
+{
+  "id": 857702459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542956,39.749459,-75.542956,39.749459",
+    "geom:latitude":39.749459,
+    "geom:longitude":-75.542956,
+    "iso:country":"US",
+    "sg:address":"103 E 16th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 4150",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wkU0E8gU5gbJCvugE1isx_39.749459_-75.542956@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220868,
+    "wof:geomhash":"277ec0c5d24dd5c535de959beb8132e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888517,
+            "region_id":85688611,
+            "venue_id":857702459
+        }
+    ],
+    "wof:id":857702459,
+    "wof:lastmodified":1464220868,
+    "wof:name":"Brandywine Pumping Station",
+    "wof:parent_id":85888517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -75.542956,
+    39.749459,
+    -75.542956,
+    39.749459
+],
+  "geometry": {"coordinates":[-75.542956,39.749459],"type":"Point"}
+}

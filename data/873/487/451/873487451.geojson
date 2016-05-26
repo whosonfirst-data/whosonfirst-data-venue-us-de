@@ -1,0 +1,73 @@
+{
+  "id": 873487451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.309664,38.783245,-75.309664,38.783245",
+    "geom:latitude":38.783245,
+    "geom:longitude":-75.309664,
+    "iso:country":"US",
+    "sg:address":"323 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 8400",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "gun",
+        "gunsmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BI1mXHrCbxaGGR7Qgg3AQ_38.783245_-75.309664@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222395,
+    "wof:geomhash":"1e9af0c824dfef8dba9ec83357d91be8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873487451
+        }
+    ],
+    "wof:id":873487451,
+    "wof:lastmodified":1464222395,
+    "wof:name":"Tri-State Coins & Fire Alarms",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gun",
+        "gunsmith"
+    ]
+},
+  "bbox": [
+    -75.309664,
+    38.783245,
+    -75.309664,
+    38.783245
+],
+  "geometry": {"coordinates":[-75.309664,38.783245],"type":"Point"}
+}

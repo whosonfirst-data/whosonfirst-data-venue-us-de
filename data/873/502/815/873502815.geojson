@@ -1,0 +1,73 @@
+{
+  "id": 873502815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548652,39.759306,-75.548652,39.759306",
+    "geom:latitude":39.759306,
+    "geom:longitude":-75.548652,
+    "iso:country":"US",
+    "sg:address":"820 W 19th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 2735",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "kindergarten"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6smIjTvPTQQsuX55WMCavS_39.759306_-75.548652@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223059,
+    "wof:geomhash":"3fbc537c078850a30f19efc0fa584d2b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888517,
+            "region_id":85688611,
+            "venue_id":873502815
+        }
+    ],
+    "wof:id":873502815,
+    "wof:lastmodified":1464223059,
+    "wof:name":"Warner Kindergarten Center",
+    "wof:parent_id":85888517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten"
+    ]
+},
+  "bbox": [
+    -75.548652,
+    39.759306,
+    -75.548652,
+    39.759306
+],
+  "geometry": {"coordinates":[-75.548652,39.759306],"type":"Point"}
+}

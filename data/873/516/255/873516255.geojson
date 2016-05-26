@@ -1,0 +1,69 @@
+{
+  "id": 873516255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.655891,39.688801,-75.655891,39.688801",
+    "geom:latitude":39.688801,
+    "geom:longitude":-75.655891,
+    "iso:country":"US",
+    "sg:address":"900 Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 2400",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0g5LTzlbxR6BjWBP8sauuT_39.688801_-75.655891@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223672,
+    "wof:geomhash":"ac126a3f1ca24cff06160d9ff896994e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516255
+        }
+    ],
+    "wof:id":873516255,
+    "wof:lastmodified":1464223672,
+    "wof:name":"Days Inn Newark/Wilmington",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lodging"
+    ]
+},
+  "bbox": [
+    -75.655891,
+    39.688801,
+    -75.655891,
+    39.688801
+],
+  "geometry": {"coordinates":[-75.655891,39.688801],"type":"Point"}
+}

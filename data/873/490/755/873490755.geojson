@@ -1,0 +1,69 @@
+{
+  "id": 873490755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.587826,39.032342,-75.587826,39.032342",
+    "geom:latitude":39.032342,
+    "geom:longitude":-75.587826,
+    "iso:country":"US",
+    "sg:address":"935 Tomahawk Ln",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 8884",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pHPuVfINJQFo5EvrqCbFE_39.032342_-75.587826@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222522,
+    "wof:geomhash":"555dfa24e2c543dbe5ce13c283bef811",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873490755
+        }
+    ],
+    "wof:id":873490755,
+    "wof:lastmodified":1464222522,
+    "wof:name":"A & B Constrution",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.587826,
+    39.032342,
+    -75.587826,
+    39.032342
+],
+  "geometry": {"coordinates":[-75.58782600000001,39.032342],"type":"Point"}
+}

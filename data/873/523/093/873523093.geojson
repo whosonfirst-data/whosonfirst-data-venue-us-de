@@ -1,0 +1,69 @@
+{
+  "id": 873523093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525803,39.139301,-75.525803,39.139301",
+    "geom:latitude":39.139301,
+    "geom:longitude":-75.525803,
+    "iso:country":"US",
+    "sg:address":"1151 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1515",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jQ1uVvwaT4ICn59CaeRRO_39.139301_-75.525803@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224009,
+    "wof:geomhash":"db96c569db551987ce9a46fb20677cb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873523093
+        }
+    ],
+    "wof:id":873523093,
+    "wof:lastmodified":1464224009,
+    "wof:name":"Coon Chris E DVM",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -75.525803,
+    39.139301,
+    -75.525803,
+    39.139301
+],
+  "geometry": {"coordinates":[-75.525803,39.139301],"type":"Point"}
+}

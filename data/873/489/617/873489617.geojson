@@ -1,0 +1,71 @@
+{
+  "id": 873489617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744588,39.683773,-75.744588,39.683773",
+    "geom:latitude":39.683773,
+    "geom:longitude":-75.744588,
+    "iso:country":"US",
+    "sg:address":"208 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7502",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LM5WeobaisqSwpaRG6Sbw_39.683773_-75.744588@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222479,
+    "wof:geomhash":"d6c45e66b26de500656e0a0a24c28b5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873489617
+        }
+    ],
+    "wof:id":873489617,
+    "wof:lastmodified":1464222479,
+    "wof:name":"Auto Buff's",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.744588,
+    39.683773,
+    -75.744588,
+    39.683773
+],
+  "geometry": {"coordinates":[-75.74458799999999,39.683773],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873512193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518898,39.1665,-75.518898,39.1665",
+    "geom:latitude":39.1665,
+    "geom:longitude":-75.518898,
+    "iso:country":"US",
+    "sg:address":"430 Kings Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1408",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4UdThavO86dDehey6GKGEP_39.166602_-75.518999@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223482,
+    "wof:geomhash":"c620e09a47a064503e596615062f7add",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873512193
+        }
+    ],
+    "wof:id":873512193,
+    "wof:lastmodified":1464223482,
+    "wof:name":"Luther Towers of Dover",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.518898,
+    39.1665,
+    -75.518898,
+    39.1665
+],
+  "geometry": {"coordinates":[-75.51889799999999,39.1665],"type":"Point"}
+}

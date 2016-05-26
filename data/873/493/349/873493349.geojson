@@ -1,0 +1,74 @@
+{
+  "id": 873493349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547212,39.820375,-75.547212,39.820375",
+    "geom:latitude":39.820375,
+    "geom:longitude":-75.547212,
+    "iso:country":"US",
+    "sg:address":"4801 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 9917",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ywWJSd1jbHVKAfYdjpkdg_39.820375_-75.547212@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222619,
+    "wof:geomhash":"581a67bb3fa4d782270a4a0f35c2ec95",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873493349
+        }
+    ],
+    "wof:id":873493349,
+    "wof:lastmodified":1464222619,
+    "wof:name":"Ulta",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.547212,
+    39.820375,
+    -75.547212,
+    39.820375
+],
+  "geometry": {"coordinates":[-75.547212,39.820375],"type":"Point"}
+}

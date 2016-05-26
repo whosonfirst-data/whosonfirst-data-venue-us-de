@@ -1,0 +1,71 @@
+{
+  "id": 873473541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570363,38.907285,-75.570363,38.907285",
+    "geom:latitude":38.907285,
+    "geom:longitude":-75.570363,
+    "iso:country":"US",
+    "sg:address":"19130 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8100",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "mate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Jpl1Luyr7rB8VOoJVJdvC_38.907285_-75.570363@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221865,
+    "wof:geomhash":"97771ca08041855d249f27da7baef88a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873473541
+        }
+    ],
+    "wof:id":873473541,
+    "wof:lastmodified":1464221865,
+    "wof:name":"Morton Buildings Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mate"
+    ]
+},
+  "bbox": [
+    -75.570363,
+    38.907285,
+    -75.570363,
+    38.907285
+],
+  "geometry": {"coordinates":[-75.570363,38.907285],"type":"Point"}
+}

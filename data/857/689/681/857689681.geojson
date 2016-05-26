@@ -1,0 +1,69 @@
+{
+  "id": 857689681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.477699,38.972399,-75.477699,38.972399",
+    "geom:latitude":38.972399,
+    "geom:longitude":-75.477699,
+    "iso:country":"US",
+    "sg:address":"919 Rothermel Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 5021",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DmzLIIiQmbNl7vtkUybi3_38.972399_-75.477699@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220612,
+    "wof:geomhash":"7053ece52eee35aba3a805dee693d115",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857689681
+        }
+    ],
+    "wof:id":857689681,
+    "wof:lastmodified":1464220612,
+    "wof:name":"D K Auto Repair",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.477699,
+    38.972399,
+    -75.477699,
+    38.972399
+],
+  "geometry": {"coordinates":[-75.477699,38.972399],"type":"Point"}
+}

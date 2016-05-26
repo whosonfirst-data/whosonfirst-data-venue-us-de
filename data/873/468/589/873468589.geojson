@@ -1,0 +1,71 @@
+{
+  "id": 873468589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552369,39.789103,-75.552369,39.789103",
+    "geom:latitude":39.789103,
+    "geom:longitude":-75.552369,
+    "iso:country":"US",
+    "sg:address":"306 Country Club Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 8470",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineering",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3i1f0cwZNWiZDxZCDkTiQ7_39.789103_-75.552369@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221673,
+    "wof:geomhash":"39dbcec0c0660398748bb921cf1e692e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873468589
+        }
+    ],
+    "wof:id":873468589,
+    "wof:lastmodified":1464221673,
+    "wof:name":"Dynamic Scientific Controls",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "safety"
+    ]
+},
+  "bbox": [
+    -75.552369,
+    39.789103,
+    -75.552369,
+    39.789103
+],
+  "geometry": {"coordinates":[-75.552369,39.789103],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873498399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626398,39.738693,-75.626398,39.738693",
+    "geom:latitude":39.738693,
+    "geom:longitude":-75.626398,
+    "iso:country":"US",
+    "sg:address":"119 Greenbank Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 4474",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iyeFJM1hHioHZo3GGixpm_39.738693_-75.626398@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222878,
+    "wof:geomhash":"7d55dd520f5e9c975f3ebefeb8d93a2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873498399
+        }
+    ],
+    "wof:id":873498399,
+    "wof:lastmodified":1464222878,
+    "wof:name":"Pizza Pro",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.626398,
+    39.738693,
+    -75.626398,
+    39.738693
+],
+  "geometry": {"coordinates":[-75.62639799999999,39.738693],"type":"Point"}
+}

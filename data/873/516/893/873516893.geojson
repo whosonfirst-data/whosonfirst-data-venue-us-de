@@ -1,0 +1,71 @@
+{
+  "id": 873516893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.493512,39.812611,-75.493512,39.812611",
+    "geom:latitude":39.812611,
+    "geom:longitude":-75.493512,
+    "iso:country":"US",
+    "sg:address":"Marsh & Grubb",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 3054",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7iPIKVEJif6VXEKO2gF8QK_39.812611_-75.493512@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223713,
+    "wof:geomhash":"7ec5cc6b66f9d5b7d75919585140fbe8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873516893
+        }
+    ],
+    "wof:id":873516893,
+    "wof:lastmodified":1464223713,
+    "wof:name":"Marias Hair Crafters",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -75.493512,
+    39.812611,
+    -75.493512,
+    39.812611
+],
+  "geometry": {"coordinates":[-75.493512,39.812611],"type":"Point"}
+}

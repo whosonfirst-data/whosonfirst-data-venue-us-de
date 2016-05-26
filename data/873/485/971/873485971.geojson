@@ -1,0 +1,71 @@
+{
+  "id": 873485971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565538,39.206755,-75.565538,39.206755",
+    "geom:latitude":39.206755,
+    "geom:longitude":-75.565538,
+    "iso:country":"US",
+    "sg:address":"4164 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Credit Reporting & Collection",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 1401",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "agency"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dqf0oClo7wSKAn4NjRjoy_39.206755_-75.565538@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222341,
+    "wof:geomhash":"8118edbdd6811399994f2eec0cc2b4c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873485971
+        }
+    ],
+    "wof:id":873485971,
+    "wof:lastmodified":1464222341,
+    "wof:name":"McKenny & Richardson",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency"
+    ]
+},
+  "bbox": [
+    -75.565538,
+    39.206755,
+    -75.565538,
+    39.206755
+],
+  "geometry": {"coordinates":[-75.565538,39.206755],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873481819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529547,39.157153,-75.529547,39.157153",
+    "geom:latitude":39.157153,
+    "geom:longitude":-75.529547,
+    "iso:country":"US",
+    "sg:address":"412 W Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5374",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_305QSgBt4y9Do2kwIBLu63_39.157153_-75.529547@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222187,
+    "wof:geomhash":"2080a420325d9effc993794b14b988c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873481819
+        }
+    ],
+    "wof:id":873481819,
+    "wof:lastmodified":1464222187,
+    "wof:name":"Eva's Hair Studio",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.529547,
+    39.157153,
+    -75.529547,
+    39.157153
+],
+  "geometry": {"coordinates":[-75.52954699999999,39.157153],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873501031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.202693,38.759925,-75.202693,38.759925",
+    "geom:latitude":38.759925,
+    "geom:longitude":-75.202693,
+    "iso:country":"US",
+    "sg:address":"635 State Hwy 1",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Marina",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 7066",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4unleD54vc8LL1MDgb5mst_38.759925_-75.202693@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222989,
+    "wof:geomhash":"1020c730e036fce61676871ef1523e24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873501031
+        }
+    ],
+    "wof:id":873501031,
+    "wof:lastmodified":1464222989,
+    "wof:name":"Beach Marine",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boat"
+    ]
+},
+  "bbox": [
+    -75.202693,
+    38.759925,
+    -75.202693,
+    38.759925
+],
+  "geometry": {"coordinates":[-75.202693,38.759925],"type":"Point"}
+}

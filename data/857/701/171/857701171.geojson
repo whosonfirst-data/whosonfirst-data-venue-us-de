@@ -1,0 +1,71 @@
+{
+  "id": 857701171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.093334,38.482165,-75.093334,38.482165",
+    "geom:latitude":38.482165,
+    "geom:longitude":-75.093334,
+    "iso:country":"US",
+    "sg:address":"14 Mallard Dr",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 5566",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dce9lv7yfLFuGcN3zSsyJ_38.482165_-75.093334@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220838,
+    "wof:geomhash":"4c5d3a2221a0f694d25198ed968a20db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857701171
+        }
+    ],
+    "wof:id":857701171,
+    "wof:lastmodified":1464220838,
+    "wof:name":"Michael V Doran Dr Jr",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.093334,
+    38.482165,
+    -75.093334,
+    38.482165
+],
+  "geometry": {"coordinates":[-75.093334,38.482165],"type":"Point"}
+}

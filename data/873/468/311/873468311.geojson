@@ -1,0 +1,71 @@
+{
+  "id": 873468311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.320267,38.825558,-75.320267,38.825558",
+    "geom:latitude":38.825558,
+    "geom:longitude":-75.320267,
+    "iso:country":"US",
+    "sg:address":"114 S White Cedar Dr",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 0104",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hatchery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VWOgEnyfEniQ3iCVjjxrx_38.825558_-75.320267@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221663,
+    "wof:geomhash":"97233c8e53ce62717f074b1d3e4a5ee8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873468311
+        }
+    ],
+    "wof:id":873468311,
+    "wof:lastmodified":1464221663,
+    "wof:name":"Dei Farms Inc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hatchery"
+    ]
+},
+  "bbox": [
+    -75.320267,
+    38.825558,
+    -75.320267,
+    38.825558
+],
+  "geometry": {"coordinates":[-75.320267,38.825558],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857716133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.390258,38.695341,-75.390258,38.695341",
+    "geom:latitude":38.695341,
+    "geom:longitude":-75.390258,
+    "iso:country":"US",
+    "sg:address":"335 N Race St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6613",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZRTewcDqxgyk0vjWIhVsA_38.695341_-75.390258@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221167,
+    "wof:geomhash":"bfd6dd1dc4949a3a1409d35ddc4bb498",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857716133
+        }
+    ],
+    "wof:id":857716133,
+    "wof:lastmodified":1464221167,
+    "wof:name":"Georgetown Police Dept",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -75.390258,
+    38.695341,
+    -75.390258,
+    38.695341
+],
+  "geometry": {"coordinates":[-75.390258,38.695341],"type":"Point"}
+}

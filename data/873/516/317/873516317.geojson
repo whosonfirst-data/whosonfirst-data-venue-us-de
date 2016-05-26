@@ -1,0 +1,84 @@
+{
+  "id": 873516317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.68473,39.684393,-75.68473,39.684393",
+    "geom:latitude":39.684393,
+    "geom:longitude":-75.68473,
+    "iso:country":"US",
+    "sg:address":"4142 Ogletown-Stanton Rd #217",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 1560",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "inspection",
+        "consulting",
+        "mold"
+    ],
+    "sg:website":"http://www.a-pro.net/toddtuvell",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IPfrLLyRozOxyNPlQ9L8y_39.684393_-75.684730@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223674,
+    "wof:geomhash":"fb0eb5dbb28fe23253fa68df2f57d864",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516317
+        }
+    ],
+    "wof:id":873516317,
+    "wof:lastmodified":1464223674,
+    "wof:name":"A-Pro Home Inspection Services",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection",
+        "consulting",
+        "mold"
+    ]
+},
+  "bbox": [
+    -75.68473,
+    39.684393,
+    -75.68473,
+    39.684393
+],
+  "geometry": {"coordinates":[-75.68473,39.684393],"type":"Point"}
+}

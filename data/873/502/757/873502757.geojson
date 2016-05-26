@@ -1,0 +1,75 @@
+{
+  "id": 873502757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.671107,39.626967,-75.671107,39.626967",
+    "geom:latitude":39.626967,
+    "geom:longitude":-75.671107,
+    "iso:country":"US",
+    "sg:address":"95 Edward Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 1346",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cookie",
+        "hot",
+        "baked",
+        "pretzel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cDeqXlXcCYv6WfD2jpjsw_39.626967_-75.671107@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223056,
+    "wof:geomhash":"e1809b5eba3c4c2369a38756b22e72b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873502757
+        }
+    ],
+    "wof:id":873502757,
+    "wof:lastmodified":1464223056,
+    "wof:name":"Mrs Fields Original Cookies",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cookie",
+        "hot",
+        "baked",
+        "pretzel"
+    ]
+},
+  "bbox": [
+    -75.671107,
+    39.626967,
+    -75.671107,
+    39.626967
+],
+  "geometry": {"coordinates":[-75.67110700000001,39.626967],"type":"Point"}
+}

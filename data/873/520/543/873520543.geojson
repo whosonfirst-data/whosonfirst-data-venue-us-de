@@ -1,0 +1,76 @@
+{
+  "id": 873520543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545097,39.808998,-75.545097,39.808998",
+    "geom:latitude":39.808998,
+    "geom:longitude":-75.545097,
+    "iso:country":"US",
+    "sg:address":"3526 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5060",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CZ7UfapEQvYoaWqlDEf6U_39.808998_-75.545097@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223908,
+    "wof:geomhash":"3fad263574069e7245fea6f5a40c6272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520543
+        }
+    ],
+    "wof:id":873520543,
+    "wof:lastmodified":1464223908,
+    "wof:name":"Lewis Jonathan PHD",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -75.545097,
+    39.808998,
+    -75.545097,
+    39.808998
+],
+  "geometry": {"coordinates":[-75.545097,39.808998],"type":"Point"}
+}

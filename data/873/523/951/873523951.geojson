@@ -1,0 +1,71 @@
+{
+  "id": 873523951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.17174,38.497515,-75.17174,38.497515",
+    "geom:latitude":38.497515,
+    "geom:longitude":-75.17174,
+    "iso:country":"US",
+    "sg:address":"35071 Pyle Center Rd",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Tanning Parlor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 4700",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "salon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IUwkOWt34o5ZPd7pGLc02_38.497515_-75.171740@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224038,
+    "wof:geomhash":"7a2897bd16af84fcae6c2c7ff0c5eaa8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873523951
+        }
+    ],
+    "wof:id":873523951,
+    "wof:lastmodified":1464224038,
+    "wof:name":"Suncathers Tanning",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "salon"
+    ]
+},
+  "bbox": [
+    -75.17174,
+    38.497515,
+    -75.17174,
+    38.497515
+],
+  "geometry": {"coordinates":[-75.17174,38.497515],"type":"Point"}
+}

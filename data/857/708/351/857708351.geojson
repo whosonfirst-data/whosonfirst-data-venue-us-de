@@ -1,0 +1,71 @@
+{
+  "id": 857708351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.395904,38.692819,-75.395904,38.692819",
+    "geom:latitude":38.692819,
+    "geom:longitude":-75.395904,
+    "iso:country":"US",
+    "sg:address":"117 W North St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 0110",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3tfyUIc5UaWv7uaZFYrINZ_38.692819_-75.395904@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220983,
+    "wof:geomhash":"3acd381f2620b1a48ff0decf868e31ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857708351
+        }
+    ],
+    "wof:id":857708351,
+    "wof:lastmodified":1464220983,
+    "wof:name":"Z Ato Insurance Inc",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carrier"
+    ]
+},
+  "bbox": [
+    -75.395904,
+    38.692819,
+    -75.395904,
+    38.692819
+],
+  "geometry": {"coordinates":[-75.395904,38.692819],"type":"Point"}
+}

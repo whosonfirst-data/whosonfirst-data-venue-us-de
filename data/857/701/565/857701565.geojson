@@ -1,0 +1,71 @@
+{
+  "id": 857701565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.160399,38.73894,-75.160399,38.73894",
+    "geom:latitude":38.73894,
+    "geom:longitude":-75.160399,
+    "iso:country":"US",
+    "sg:address":"259 Lakeside Dr",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 1445",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DpUQeFEyyIRuyLQP7L7HD_38.738940_-75.160399@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220851,
+    "wof:geomhash":"189c360b450abdbcefb13b028d9a6c1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857701565
+        }
+    ],
+    "wof:id":857701565,
+    "wof:lastmodified":1464220851,
+    "wof:name":"Home Run",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.160399,
+    38.73894,
+    -75.160399,
+    38.73894
+],
+  "geometry": {"coordinates":[-75.160399,38.73894],"type":"Point"}
+}

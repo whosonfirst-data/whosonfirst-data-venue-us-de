@@ -1,0 +1,73 @@
+{
+  "id": 857719945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.30772,38.783608,-75.30772,38.783608",
+    "geom:latitude":38.783608,
+    "geom:longitude":-75.30772,
+    "iso:country":"US",
+    "sg:address":"616 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 0588",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trailer",
+        "utility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09AdbldhdX15HcpgQDQiBS_38.783608_-75.307720@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221249,
+    "wof:geomhash":"014460f7a84d0c61241380758544278f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857719945
+        }
+    ],
+    "wof:id":857719945,
+    "wof:lastmodified":1464221249,
+    "wof:name":"Millville U Haul",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer",
+        "utility"
+    ]
+},
+  "bbox": [
+    -75.30772,
+    38.783608,
+    -75.30772,
+    38.783608
+],
+  "geometry": {"coordinates":[-75.30772,38.783608],"type":"Point"}
+}

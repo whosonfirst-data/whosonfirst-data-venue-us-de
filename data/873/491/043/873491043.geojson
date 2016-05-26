@@ -1,0 +1,68 @@
+{
+  "id": 873491043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574117,39.745447,-75.574117,39.745447",
+    "geom:latitude":39.745447,
+    "geom:longitude":-75.574117,
+    "iso:country":"US",
+    "sg:address":"100 S Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 3399",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4mGEFig81A5JsffAezeCu4_39.745447_-75.574117@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222532,
+    "wof:geomhash":"bb320e63de74dd60f12ecb57c2ada70e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873491043
+        }
+    ],
+    "wof:id":873491043,
+    "wof:lastmodified":1464222532,
+    "wof:name":"Eurocar 2000 Inc",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.574117,
+    39.745447,
+    -75.574117,
+    39.745447
+],
+  "geometry": {"coordinates":[-75.574117,39.745447],"type":"Point"}
+}

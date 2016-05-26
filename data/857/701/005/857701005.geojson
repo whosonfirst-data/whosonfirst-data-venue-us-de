@@ -1,0 +1,71 @@
+{
+  "id": 857701005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604126,39.713213,-75.604126,39.713213",
+    "geom:latitude":39.713213,
+    "geom:longitude":-75.604126,
+    "iso:country":"US",
+    "sg:address":"462 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 636 0323",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yJY7Yh4DBxEW2uMf0Wk6X_39.713213_-75.604126@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220835,
+    "wof:geomhash":"8e05435ec371fefc48218b4748ece1f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857701005
+        }
+    ],
+    "wof:id":857701005,
+    "wof:lastmodified":1464220835,
+    "wof:name":"Blue Hen Mechanical Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.604126,
+    39.713213,
+    -75.604126,
+    39.713213
+],
+  "geometry": {"coordinates":[-75.60412599999999,39.713213],"type":"Point"}
+}

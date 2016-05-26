@@ -1,0 +1,71 @@
+{
+  "id": 873493593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565721,38.935243,-75.565721,38.935243",
+    "geom:latitude":38.935243,
+    "geom:longitude":-75.565721,
+    "iso:country":"US",
+    "sg:address":"16054 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8014",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beef",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bdgocBzgqkEieBYzAWIqd_38.935243_-75.565721@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222631,
+    "wof:geomhash":"9439f456943efad75305ce80b9f42617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873493593
+        }
+    ],
+    "wof:id":873493593,
+    "wof:lastmodified":1464222631,
+    "wof:name":"Schiff Farms Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -75.565721,
+    38.935243,
+    -75.565721,
+    38.935243
+],
+  "geometry": {"coordinates":[-75.565721,38.935243],"type":"Point"}
+}

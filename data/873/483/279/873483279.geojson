@@ -1,0 +1,71 @@
+{
+  "id": 873483279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.149296,38.765839,-75.149296,38.765839",
+    "geom:latitude":38.765839,
+    "geom:longitude":-75.149296,
+    "iso:country":"US",
+    "sg:address":"18 Nassau Cmns",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2419",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jCtrzBvcSL3bO2YzvC5sa_38.765839_-75.149296@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222240,
+    "wof:geomhash":"acddc0db1c98413632e1d6a2042eb3f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873483279
+        }
+    ],
+    "wof:id":873483279,
+    "wof:lastmodified":1464222240,
+    "wof:name":"Bennett Security",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -75.149296,
+    38.765839,
+    -75.149296,
+    38.765839
+],
+  "geometry": {"coordinates":[-75.14929600000001,38.765839],"type":"Point"}
+}

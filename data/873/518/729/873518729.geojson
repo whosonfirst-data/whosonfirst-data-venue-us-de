@@ -1,0 +1,76 @@
+{
+  "id": 873518729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.615402,39.816898,-75.615402,39.816898",
+    "geom:latitude":39.816898,
+    "geom:longitude":-75.615402,
+    "iso:country":"US",
+    "sg:address":"5811 Kennett Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 1115",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgeon",
+        "cosmetic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6DyJ8BXjmb3kVLdXiozt9j_39.816898_-75.615402@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223825,
+    "wof:geomhash":"a31cab06e2b4d6b457cd32fa948ce922",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":873518729
+        }
+    ],
+    "wof:id":873518729,
+    "wof:lastmodified":1464223825,
+    "wof:name":"Coggins Peter R MD",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "cosmetic"
+    ]
+},
+  "bbox": [
+    -75.615402,
+    39.816898,
+    -75.615402,
+    39.816898
+],
+  "geometry": {"coordinates":[-75.615402,39.816898],"type":"Point"}
+}

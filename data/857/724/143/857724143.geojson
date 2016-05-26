@@ -1,0 +1,71 @@
+{
+  "id": 857724143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.782044,39.602633,-75.782044,39.602633",
+    "geom:latitude":39.602633,
+    "geom:longitude":-75.782044,
+    "iso:country":"US",
+    "sg:address":"8 Verdun Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 2489",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69Vts0eXYz1QexDwQOFJhF_39.602633_-75.782044@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221327,
+    "wof:geomhash":"39bf73776f4c2a0b26eaa974bb7abcbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857724143
+        }
+    ],
+    "wof:id":857724143,
+    "wof:lastmodified":1464221327,
+    "wof:name":"Tri Con Corp",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.782044,
+    39.602633,
+    -75.782044,
+    39.602633
+],
+  "geometry": {"coordinates":[-75.782044,39.602633],"type":"Point"}
+}

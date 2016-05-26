@@ -1,0 +1,70 @@
+{
+  "id": 873517847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550665,39.807864,-75.550665,39.807864",
+    "geom:latitude":39.807864,
+    "geom:longitude":-75.550665,
+    "iso:country":"US",
+    "sg:address":"3924 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 2204",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "sg:website":"www.mccreryfuneralhome.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X6kzKMre3ExmppJNqsZbb_39.807864_-75.550665@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223784,
+    "wof:geomhash":"cdf9da2834200a6cbb3b568963e1af37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517847
+        }
+    ],
+    "wof:id":873517847,
+    "wof:lastmodified":1464223784,
+    "wof:name":"Mc Crery Funeral Homes Inc",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -75.550665,
+    39.807864,
+    -75.550665,
+    39.807864
+],
+  "geometry": {"coordinates":[-75.550665,39.807864],"type":"Point"}
+}

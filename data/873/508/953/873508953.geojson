@@ -1,0 +1,69 @@
+{
+  "id": 873508953,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.680922,39.676488,-75.680922,39.676488",
+    "geom:latitude":39.676488,
+    "geom:longitude":-75.680922,
+    "iso:country":"US",
+    "sg:address":"1209 Stinsford Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 0735",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lC7L3XcXw2UYaoGHlFV3d_39.676488_-75.680922@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223328,
+    "wof:geomhash":"c215598a9bc0c6c289356bf60f254907",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873508953
+        }
+    ],
+    "wof:id":873508953,
+    "wof:lastmodified":1464223328,
+    "wof:name":"Hillmans Family Day Care Ctr",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.680922,
+    39.676488,
+    -75.680922,
+    39.676488
+],
+  "geometry": {"coordinates":[-75.680922,39.676488],"type":"Point"}
+}

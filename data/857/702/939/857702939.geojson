@@ -1,0 +1,73 @@
+{
+  "id": 857702939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736274,39.680226,-75.736274,39.680226",
+    "geom:latitude":39.680226,
+    "geom:longitude":-75.736274,
+    "iso:country":"US",
+    "sg:address":"750 Library Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 7550",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35nm6c61rchRzF4MhR6ytE_39.680226_-75.736274@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220876,
+    "wof:geomhash":"99a5f4fa4f39e2b233f54b7e0b2695a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":857702939
+        }
+    ],
+    "wof:id":857702939,
+    "wof:lastmodified":1464220876,
+    "wof:name":"Newark Free Library",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -75.736274,
+    39.680226,
+    -75.736274,
+    39.680226
+],
+  "geometry": {"coordinates":[-75.73627399999999,39.680226],"type":"Point"}
+}

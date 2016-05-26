@@ -1,0 +1,73 @@
+{
+  "id": 857710479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.296178,38.635832,-75.296178,38.635832",
+    "geom:latitude":38.635832,
+    "geom:longitude":-75.296178,
+    "iso:country":"US",
+    "sg:address":"603 Granville Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 9294",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37QAcV8DWBa41bw7VBLdI0_38.635832_-75.296178@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221041,
+    "wof:geomhash":"100a6c0ccfc8a4f1acd60c09dceed5f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857710479
+        }
+    ],
+    "wof:id":857710479,
+    "wof:lastmodified":1464221041,
+    "wof:name":"Damron Electric Co",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.296178,
+    38.635832,
+    -75.296178,
+    38.635832
+],
+  "geometry": {"coordinates":[-75.296178,38.635832],"type":"Point"}
+}

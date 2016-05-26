@@ -1,0 +1,76 @@
+{
+  "id": 873524183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573331,38.925162,-75.573331,38.925162",
+    "geom:latitude":38.925162,
+    "geom:longitude":-75.573331,
+    "iso:country":"US",
+    "sg:address":"113 E Liberty St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 883 2489",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WQ8h02nEb8QqwyLVo90xq_38.925162_-75.573331@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224047,
+    "wof:geomhash":"c5c47f9c0078410004b3495c7a3f43fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524183
+        }
+    ],
+    "wof:id":873524183,
+    "wof:lastmodified":1464224047,
+    "wof:name":"Young Realtor",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.573331,
+    38.925162,
+    -75.573331,
+    38.925162
+],
+  "geometry": {"coordinates":[-75.573331,38.925162],"type":"Point"}
+}

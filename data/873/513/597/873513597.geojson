@@ -1,0 +1,74 @@
+{
+  "id": 873513597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529043,39.132532,-75.529043,39.132532",
+    "geom:latitude":39.132532,
+    "geom:longitude":-75.529043,
+    "iso:country":"US",
+    "sg:address":"1596 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/169459-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5220",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H1GCnaa3jVtIurlhElUVx_39.132532_-75.529043@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223538,
+    "wof:geomhash":"b4a27d3f1f63ce0b25c929b89ed8f6b8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873513597
+        }
+    ],
+    "wof:id":873513597,
+    "wof:lastmodified":1464223538,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -75.529043,
+    39.132532,
+    -75.529043,
+    39.132532
+],
+  "geometry": {"coordinates":[-75.529043,39.132532],"type":"Point"}
+}

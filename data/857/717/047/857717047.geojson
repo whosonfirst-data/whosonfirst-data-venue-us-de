@@ -1,0 +1,69 @@
+{
+  "id": 857717047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.48703,39.785637,-75.48703,39.785637",
+    "geom:latitude":39.785637,
+    "geom:longitude":-75.48703,
+    "iso:country":"US",
+    "sg:address":"1303 Hillside Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 792 1212",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XRpuexgscjEgeNSrzRBqU_39.785637_-75.487030@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221185,
+    "wof:geomhash":"01d024aaf8ba1f9c490e1a901842b38f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":857717047
+        }
+    ],
+    "wof:id":857717047,
+    "wof:lastmodified":1464221185,
+    "wof:name":"Hoffheiser Inc",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.48703,
+    39.785637,
+    -75.48703,
+    39.785637
+],
+  "geometry": {"coordinates":[-75.48703,39.785637],"type":"Point"}
+}

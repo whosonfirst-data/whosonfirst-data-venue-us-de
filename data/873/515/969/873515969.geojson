@@ -1,0 +1,71 @@
+{
+  "id": 873515969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.686806,39.702176,-75.686806,39.702176",
+    "geom:latitude":39.702176,
+    "geom:longitude":-75.686806,
+    "iso:country":"US",
+    "sg:address":"151 E Green Valley Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 521 2595",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IgQEC0bMNCDt4gFD2zF40_39.702176_-75.686806@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223662,
+    "wof:geomhash":"ecf1fee566128309ba64e376cd215748",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873515969
+        }
+    ],
+    "wof:id":873515969,
+    "wof:lastmodified":1464223662,
+    "wof:name":"American Agencies",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "business"
+    ]
+},
+  "bbox": [
+    -75.686806,
+    39.702176,
+    -75.686806,
+    39.702176
+],
+  "geometry": {"coordinates":[-75.686806,39.702176],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873507511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.292229,38.589778,-75.292229,38.589778",
+    "geom:latitude":38.589778,
+    "geom:longitude":-75.292229,
+    "iso:country":"US",
+    "sg:address":"225 Main St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 9841",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "antique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UAtfjx2AeL0wOJ5942XvG_38.589778_-75.292229@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223259,
+    "wof:geomhash":"5ee2b3551bd6ab52040a9611e18e3f43",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873507511
+        }
+    ],
+    "wof:id":873507511,
+    "wof:lastmodified":1464223259,
+    "wof:name":"Antique Alley",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "antique"
+    ]
+},
+  "bbox": [
+    -75.292229,
+    38.589778,
+    -75.292229,
+    38.589778
+],
+  "geometry": {"coordinates":[-75.29222900000001,38.589778],"type":"Point"}
+}

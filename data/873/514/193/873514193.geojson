@@ -1,0 +1,82 @@
+{
+  "id": 873514193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.645169,39.649289,-75.645169,39.649289",
+    "geom:latitude":39.649289,
+    "geom:longitude":-75.645169,
+    "iso:country":"US",
+    "sg:address":"115 Dasher Ave",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 325 9434",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "physician",
+        "nurse",
+        "eldercare-home",
+        "assistant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ScV5kI2GTJIAfHrVGYqE0_39.649289_-75.645169@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223574,
+    "wof:geomhash":"c20ed1caa86318e07ae7077de716f7d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514193
+        }
+    ],
+    "wof:id":873514193,
+    "wof:lastmodified":1464223574,
+    "wof:name":"Eric M Summiel R N",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "physician",
+        "nurse",
+        "eldercare-home",
+        "assistant"
+    ]
+},
+  "bbox": [
+    -75.645169,
+    39.649289,
+    -75.645169,
+    39.649289
+],
+  "geometry": {"coordinates":[-75.645169,39.649289],"type":"Point"}
+}

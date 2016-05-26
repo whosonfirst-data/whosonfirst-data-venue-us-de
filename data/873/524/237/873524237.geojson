@@ -1,0 +1,94 @@
+{
+  "id": 873524237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.564144,38.949332,-75.564144,38.949332",
+    "geom:latitude":38.949332,
+    "geom:longitude":-75.564144,
+    "iso:country":"US",
+    "sg:address":"15294 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8877",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "system",
+        "plumber",
+        "industrial",
+        "radiators-heating",
+        "supply",
+        "specialty",
+        "sales",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D6vggLFmeGixJfd6kLq2m_38.949332_-75.564144@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224050,
+    "wof:geomhash":"e19c031df8d14299f2cf47b271fce95b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524237
+        }
+    ],
+    "wof:id":873524237,
+    "wof:lastmodified":1464224050,
+    "wof:name":"Collins Mechanical, Inc.",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "system",
+        "plumber",
+        "industrial",
+        "radiators-heating",
+        "supply",
+        "specialty",
+        "sales",
+        "heating",
+        "contractors-commercial",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -75.564144,
+    38.949332,
+    -75.564144,
+    38.949332
+],
+  "geometry": {"coordinates":[-75.564144,38.949332],"type":"Point"}
+}

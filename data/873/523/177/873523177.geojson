@@ -1,0 +1,73 @@
+{
+  "id": 873523177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527298,39.1549,-75.527298,39.1549",
+    "geom:latitude":39.1549,
+    "geom:longitude":-75.527298,
+    "iso:country":"US",
+    "sg:address":"426 S New St Apt 210",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 1065",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_52mjysyPlGV2Rrx50QTbIo_39.154900_-75.527298@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224012,
+    "wof:geomhash":"8ddc5bf1f979410d982c53908689a678",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873523177
+        }
+    ],
+    "wof:id":873523177,
+    "wof:lastmodified":1464224012,
+    "wof:name":"Owens Manor",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.527298,
+    39.1549,
+    -75.527298,
+    39.1549
+],
+  "geometry": {"coordinates":[-75.527298,39.1549],"type":"Point"}
+}

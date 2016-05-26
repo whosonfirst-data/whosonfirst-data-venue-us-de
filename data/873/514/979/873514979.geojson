@@ -1,0 +1,81 @@
+{
+  "id": 873514979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.711015,39.774138,-75.711015,39.774138",
+    "geom:latitude":39.774138,
+    "geom:longitude":-75.711015,
+    "iso:country":"US",
+    "sg:address":"310 Lantana Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 888 883 5053",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "homeopathic",
+        "chiropractic"
+    ],
+    "sg:website":"http://local.ingenio.com/Listings/Details.aspx?NUM=a%3a9245089%3a13%3a4859924%3a14%3a0%3a7",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4J6UF0MuXcTlq6fMgEGjFf_39.774138_-75.711015@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223619,
+    "wof:geomhash":"bc55412c275995e453033bdf6ad0b456",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873514979
+        }
+    ],
+    "wof:id":873514979,
+    "wof:lastmodified":1464223619,
+    "wof:name":"Lantana Chiropractic",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "homeopathic",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -75.711015,
+    39.774138,
+    -75.711015,
+    39.774138
+],
+  "geometry": {"coordinates":[-75.711015,39.774138],"type":"Point"}
+}

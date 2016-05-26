@@ -1,0 +1,71 @@
+{
+  "id": 873481393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.64369,39.757049,-75.64369,39.757049",
+    "geom:latitude":39.757049,
+    "geom:longitude":-75.64369,
+    "iso:country":"US",
+    "sg:address":"500 Hercules Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 4389",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "special",
+        "interest"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jsQZ7TIzaDOJAe63n11Dg_39.757049_-75.643690@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222169,
+    "wof:geomhash":"175c571def1bdce873c753bf3684257d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873481393
+        }
+    ],
+    "wof:id":873481393,
+    "wof:lastmodified":1464222169,
+    "wof:name":"Hercules Inc Research Library",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "special",
+        "interest"
+    ]
+},
+  "bbox": [
+    -75.64369,
+    39.757049,
+    -75.64369,
+    39.757049
+],
+  "geometry": {"coordinates":[-75.64369000000001,39.757049],"type":"Point"}
+}

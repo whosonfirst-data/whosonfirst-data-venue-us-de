@@ -1,0 +1,82 @@
+{
+  "id": 873523373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52466,39.158049,-75.52466,39.158049",
+    "geom:latitude":39.158049,
+    "geom:longitude":-75.52466,
+    "iso:country":"US",
+    "sg:address":"8 W Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 0236",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30g5kX4nNxl1eMmWNuUark_39.158049_-75.524660@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224018,
+    "wof:geomhash":"edf1be940b8c98d01633f2eebd6ab313",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873523373
+        }
+    ],
+    "wof:id":873523373,
+    "wof:lastmodified":1464224018,
+    "wof:name":"Mellon Mortgage",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving"
+    ]
+},
+  "bbox": [
+    -75.52466,
+    39.158049,
+    -75.52466,
+    39.158049
+],
+  "geometry": {"coordinates":[-75.52466,39.158049],"type":"Point"}
+}

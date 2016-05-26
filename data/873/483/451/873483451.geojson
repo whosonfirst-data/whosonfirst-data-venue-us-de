@@ -1,0 +1,71 @@
+{
+  "id": 873483451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.661611,39.749272,-75.661611,39.749272",
+    "geom:latitude":39.749272,
+    "geom:longitude":-75.661611,
+    "iso:country":"US",
+    "sg:address":"612 Burnhaven Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 4023",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_121dCmAVO7pkQaMKngIcNW_39.749272_-75.661611@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222250,
+    "wof:geomhash":"9ff9080efc37183144fc8c646912fc8c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873483451
+        }
+    ],
+    "wof:id":873483451,
+    "wof:lastmodified":1464222250,
+    "wof:name":"A J Anthony Electric",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.661611,
+    39.749272,
+    -75.661611,
+    39.749272
+],
+  "geometry": {"coordinates":[-75.66161099999999,39.749272],"type":"Point"}
+}

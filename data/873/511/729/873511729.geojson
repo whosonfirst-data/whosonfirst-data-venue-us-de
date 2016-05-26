@@ -1,0 +1,79 @@
+{
+  "id": 873511729,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.514015,39.162101,-75.514015,39.162101",
+    "geom:latitude":39.162101,
+    "geom:longitude":-75.514015,
+    "iso:country":"US",
+    "sg:address":"103 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 6760",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OnsBMsJ35YMiv8w1gdFqN_39.161754_-75.513686@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223461,
+    "wof:geomhash":"2f766176df59ed341aaaaa22d335d504",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873511729
+        }
+    ],
+    "wof:id":873511729,
+    "wof:lastmodified":1464223461,
+    "wof:name":"Kent Liquor Mart",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "wine",
+        "spirit",
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.514015,
+    39.162101,
+    -75.514015,
+    39.162101
+],
+  "geometry": {"coordinates":[-75.514015,39.162101],"type":"Point"}
+}

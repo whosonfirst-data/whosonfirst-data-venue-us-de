@@ -1,0 +1,76 @@
+{
+  "id": 873516103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.76604,39.654464,-75.76604,39.654464",
+    "geom:latitude":39.654464,
+    "geom:longitude":-75.76604,
+    "iso:country":"US",
+    "sg:address":"24 Blue Jay Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Jewelry",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 0976",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "designer",
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CrGezVKzuE9zx10mo5AL1_39.654464_-75.766040@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223667,
+    "wof:geomhash":"0e205749484b42b62e3228518be2a786",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873516103
+        }
+    ],
+    "wof:id":873516103,
+    "wof:lastmodified":1464223667,
+    "wof:name":"Margo Jewelers",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -75.76604,
+    39.654464,
+    -75.76604,
+    39.654464
+],
+  "geometry": {"coordinates":[-75.76604,39.654464],"type":"Point"}
+}

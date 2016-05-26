@@ -1,0 +1,85 @@
+{
+  "id": 873516845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539627,39.73135,-75.539627,39.73135",
+    "geom:latitude":39.73135,
+    "geom:longitude":-75.539627,
+    "iso:country":"US",
+    "sg:address":"300 Christiana Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 3425",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tent",
+        "rental",
+        "tents-rental",
+        "wedding"
+    ],
+    "sg:website":"http://andersonspartyrentals.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qtKtFuBy7DtdlBtg5IqvI_39.731350_-75.539627@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223711,
+    "wof:geomhash":"367d0eb1031412ec4526448b773cdbb5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873516845
+        }
+    ],
+    "wof:id":873516845,
+    "wof:lastmodified":1464223711,
+    "wof:name":"Anderson Party Rentals",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tent",
+        "rental",
+        "tents-rental",
+        "wedding"
+    ]
+},
+  "bbox": [
+    -75.539627,
+    39.73135,
+    -75.539627,
+    39.73135
+],
+  "geometry": {"coordinates":[-75.539627,39.73135],"type":"Point"}
+}

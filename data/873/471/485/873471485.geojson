@@ -1,0 +1,71 @@
+{
+  "id": 873471485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.485466,39.807843,-75.485466,39.807843",
+    "geom:latitude":39.807843,
+    "geom:longitude":-75.485466,
+    "iso:country":"US",
+    "sg:address":"1612 Harvey Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 7462",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KgQHeKPpEJU427PARtl57_39.807843_-75.485466@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221786,
+    "wof:geomhash":"97e38bc743efecbe54804da41be626a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873471485
+        }
+    ],
+    "wof:id":873471485,
+    "wof:lastmodified":1464221786,
+    "wof:name":"Anthony B Mason Contractors",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.485466,
+    39.807843,
+    -75.485466,
+    39.807843
+],
+  "geometry": {"coordinates":[-75.485466,39.807843],"type":"Point"}
+}

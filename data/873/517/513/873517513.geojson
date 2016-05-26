@@ -1,0 +1,71 @@
+{
+  "id": 873517513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553497,39.801102,-75.553497,39.801102",
+    "geom:latitude":39.801102,
+    "geom:longitude":-75.553497,
+    "iso:country":"US",
+    "sg:address":"706 Bristol Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 0475",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cAVPzPNnZgwrGNQSQ6BfK_39.801102_-75.553497@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223764,
+    "wof:geomhash":"7111aee80c53c8d663c8fe47d72c498f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517513
+        }
+    ],
+    "wof:id":873517513,
+    "wof:lastmodified":1464223764,
+    "wof:name":"Klassman Barry DDS",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -75.553497,
+    39.801102,
+    -75.553497,
+    39.801102
+],
+  "geometry": {"coordinates":[-75.55349699999999,39.801102],"type":"Point"}
+}

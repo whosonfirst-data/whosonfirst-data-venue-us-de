@@ -1,0 +1,77 @@
+{
+  "id": 873514641,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.651084,39.680524,-75.651084,39.680524",
+    "geom:latitude":39.680524,
+    "geom:longitude":-75.651084,
+    "iso:country":"US",
+    "sg:address":"743 Christiana Mall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 9916",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sportswear",
+        "store"
+    ],
+    "sg:website":"http://www.footlocker.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2To0uvC19cTEP7hkBMSr6K_39.680524_-75.651084@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223601,
+    "wof:geomhash":"79234594232a9942967e3a096940b53d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514641
+        }
+    ],
+    "wof:id":873514641,
+    "wof:lastmodified":1464223601,
+    "wof:name":"Foot Locker",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sportswear",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.651084,
+    39.680524,
+    -75.651084,
+    39.680524
+],
+  "geometry": {"coordinates":[-75.651084,39.680524],"type":"Point"}
+}

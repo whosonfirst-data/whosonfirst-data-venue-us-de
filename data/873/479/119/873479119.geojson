@@ -1,0 +1,73 @@
+{
+  "id": 873479119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566104,39.750277,-75.566104,39.750277",
+    "geom:latitude":39.750277,
+    "geom:longitude":-75.566104,
+    "iso:country":"US",
+    "sg:address":"701 N Clayton St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 421 4500",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cmBqZQxeDRM9HW6DT9BdS_39.750277_-75.566104@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222070,
+    "wof:geomhash":"ac541a178783278e969f688a472fac6e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873479119
+        }
+    ],
+    "wof:id":873479119,
+    "wof:lastmodified":1464222070,
+    "wof:name":"St Francis Sleep Lab",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -75.566104,
+    39.750277,
+    -75.566104,
+    39.750277
+],
+  "geometry": {"coordinates":[-75.566104,39.750277],"type":"Point"}
+}

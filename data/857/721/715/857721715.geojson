@@ -1,0 +1,78 @@
+{
+  "id": 857721715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.619476,39.101755,-75.619476,39.101755",
+    "geom:latitude":39.101755,
+    "geom:longitude":-75.619476,
+    "iso:country":"US",
+    "sg:address":"1678 Jebb Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 0394",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YVbfdCwYBZAfPW7LBq67g_39.101755_-75.619476@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221284,
+    "wof:geomhash":"05e0adf40c94e3fcfcd21935d54341eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":857721715
+        }
+    ],
+    "wof:id":857721715,
+    "wof:lastmodified":1464221284,
+    "wof:name":"Aaron's Creative Curb",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.619476,
+    39.101755,
+    -75.619476,
+    39.101755
+],
+  "geometry": {"coordinates":[-75.61947600000001,39.101755],"type":"Point"}
+}

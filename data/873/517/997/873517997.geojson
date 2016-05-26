@@ -1,0 +1,65 @@
+{
+  "id": 873517997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549202,39.806801,-75.549202,39.806801",
+    "geom:latitude":39.806801,
+    "geom:longitude":-75.549202,
+    "iso:country":"US",
+    "sg:address":"3900 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1777",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:website":"www.bostonmarket.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dO8Jz804K4N3ZKIShXlH9_39.806801_-75.549202@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223794,
+    "wof:geomhash":"5e0b6b520865504602e621d85da31790",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517997
+        }
+    ],
+    "wof:id":873517997,
+    "wof:lastmodified":1464223794,
+    "wof:name":"Boston Market",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.549202,
+    39.806801,
+    -75.549202,
+    39.806801
+],
+  "geometry": {"coordinates":[-75.54920199999999,39.806801],"type":"Point"}
+}

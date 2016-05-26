@@ -1,0 +1,71 @@
+{
+  "id": 873475437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.597173,39.723814,-75.597173,39.723814",
+    "geom:latitude":39.723814,
+    "geom:longitude":-75.597173,
+    "iso:country":"US",
+    "sg:address":"516 Essex Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 5165",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tTYSJMfKcUjldolIuT01j_39.723814_-75.597173@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221929,
+    "wof:geomhash":"9fc70cf2e43d6946e91c5a352238dc30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873475437
+        }
+    ],
+    "wof:id":873475437,
+    "wof:lastmodified":1464221929,
+    "wof:name":"Servicestation Co Holding",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -75.597173,
+    39.723814,
+    -75.597173,
+    39.723814
+],
+  "geometry": {"coordinates":[-75.597173,39.723814],"type":"Point"}
+}

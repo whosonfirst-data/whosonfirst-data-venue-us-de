@@ -1,0 +1,75 @@
+{
+  "id": 857733527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.560884,39.662974,-75.560884,39.662974",
+    "geom:latitude":39.662974,
+    "geom:longitude":-75.560884,
+    "iso:country":"US",
+    "sg:address":"201 Chestnut St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 2977",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931555,
+        102083891,
+        85845649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20fzTCW2TgKMMAoeNb1OTm_39.662974_-75.560884@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221510,
+    "wof:geomhash":"adaa67012596aa7e7192bb06d344ccaf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931555,
+            "neighbourhood_id":85845649,
+            "region_id":85688611,
+            "venue_id":857733527
+        }
+    ],
+    "wof:id":857733527,
+    "wof:lastmodified":1464221510,
+    "wof:name":"Bill Hein Auto Svc",
+    "wof:parent_id":85845649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.560884,
+    39.662974,
+    -75.560884,
+    39.662974
+],
+  "geometry": {"coordinates":[-75.560884,39.662974],"type":"Point"}
+}

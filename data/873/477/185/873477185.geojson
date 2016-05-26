@@ -1,0 +1,68 @@
+{
+  "id": 873477185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555923,39.726755,-75.555923,39.726755",
+    "geom:latitude":39.726755,
+    "geom:longitude":-75.555923,
+    "iso:country":"US",
+    "sg:address":"824 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 252 2900",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3n59aQYY9x5m3jRwl68foT_39.726755_-75.555923@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221990,
+    "wof:geomhash":"c4806bbd18698cf7b71bb6f2f631d061",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873477185
+        }
+    ],
+    "wof:id":873477185,
+    "wof:lastmodified":1464221990,
+    "wof:name":"U S Bankruptcy Court",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.555923,
+    39.726755,
+    -75.555923,
+    39.726755
+],
+  "geometry": {"coordinates":[-75.55592300000001,39.726755],"type":"Point"}
+}

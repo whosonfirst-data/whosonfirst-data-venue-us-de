@@ -1,0 +1,72 @@
+{
+  "id": 857715121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.431965,38.905534,-75.431965,38.905534",
+    "geom:latitude":38.905534,
+    "geom:longitude":-75.431965,
+    "iso:country":"US",
+    "sg:address":"21 W Clarke Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 430 5978",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "referral"
+    ],
+    "sg:website":"www.bayhealth.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53jDHfXYwd3FnQEkf68eD0_38.905534_-75.431965@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221150,
+    "wof:geomhash":"bf04a5deaf754e15d5f496e0af98dd12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857715121
+        }
+    ],
+    "wof:id":857715121,
+    "wof:lastmodified":1464221150,
+    "wof:name":"Health Link-Physician Referral",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "referral"
+    ]
+},
+  "bbox": [
+    -75.431965,
+    38.905534,
+    -75.431965,
+    38.905534
+],
+  "geometry": {"coordinates":[-75.43196500000001,38.905534],"type":"Point"}
+}

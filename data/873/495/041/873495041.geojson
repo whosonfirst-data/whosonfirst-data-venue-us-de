@@ -1,0 +1,73 @@
+{
+  "id": 873495041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566774,39.658259,-75.566774,39.658259",
+    "geom:latitude":39.658259,
+    "geom:longitude":-75.566774,
+    "iso:country":"US",
+    "sg:address":"32 W 3rd St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 6105",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bkbL0mLRbWjVdSyZuMUIR_39.658259_-75.566774@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222718,
+    "wof:geomhash":"8cb8dc1af60625942fa4a80f69bc8757",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873495041
+        }
+    ],
+    "wof:id":873495041,
+    "wof:lastmodified":1464222718,
+    "wof:name":"Artisan Electrical Contractors",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.566774,
+    39.658259,
+    -75.566774,
+    39.658259
+],
+  "geometry": {"coordinates":[-75.566774,39.658259],"type":"Point"}
+}

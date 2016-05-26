@@ -1,0 +1,71 @@
+{
+  "id": 873482477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.685813,39.706448,-75.685813,39.706448",
+    "geom:latitude":39.706448,
+    "geom:longitude":-75.685813,
+    "iso:country":"US",
+    "sg:address":"106 Astro Shopping Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 7800",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "soccer",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OHujWCZsj1NEJqjTHVnL0_39.706448_-75.685813@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222211,
+    "wof:geomhash":"c5a76636c40c18121f510c489d9c087b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873482477
+        }
+    ],
+    "wof:id":873482477,
+    "wof:lastmodified":1464222211,
+    "wof:name":"Touchline Sports LLC",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soccer",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.685813,
+    39.706448,
+    -75.685813,
+    39.706448
+],
+  "geometry": {"coordinates":[-75.685813,39.706448],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857704375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526614,39.152899,-75.526614,39.152899",
+    "geom:latitude":39.152899,
+    "geom:longitude":-75.526614,
+    "iso:country":"US",
+    "sg:address":"550 S New St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 1149",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79exrvYNCu5yupkAr0RS1h_39.152899_-75.526614@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220902,
+    "wof:geomhash":"9e6977255893da684d0140011b109970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":857704375
+        }
+    ],
+    "wof:id":857704375,
+    "wof:lastmodified":1464220902,
+    "wof:name":"Tonys Pizzeria",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.526614,
+    39.152899,
+    -75.526614,
+    39.152899
+],
+  "geometry": {"coordinates":[-75.526614,39.152899],"type":"Point"}
+}

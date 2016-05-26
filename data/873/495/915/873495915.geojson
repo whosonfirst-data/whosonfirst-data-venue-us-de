@@ -1,0 +1,77 @@
+{
+  "id": 873495915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.378946,38.66407,-75.378946,38.66407",
+    "geom:latitude":38.66407,
+    "geom:longitude":-75.378946,
+    "iso:country":"US",
+    "sg:address":"314 S Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7175",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Bo6UptmKmsPqiMVHuFFEt_38.664070_-75.378946@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222775,
+    "wof:geomhash":"d2c1d3f20c3498457e1e8fad1a09c306",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873495915
+        }
+    ],
+    "wof:id":873495915,
+    "wof:lastmodified":1464222775,
+    "wof:name":"Safelite Auto Glass",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -75.378946,
+    38.66407,
+    -75.378946,
+    38.66407
+],
+  "geometry": {"coordinates":[-75.378946,38.66407],"type":"Point"}
+}

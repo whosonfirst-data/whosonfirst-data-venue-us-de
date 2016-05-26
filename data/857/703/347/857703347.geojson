@@ -1,0 +1,76 @@
+{
+  "id": 857703347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526111,39.772838,-75.526111,39.772838",
+    "geom:latitude":39.772838,
+    "geom:longitude":-75.526111,
+    "iso:country":"US",
+    "sg:address":"4410 Miller Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Durable Goods & Equipment",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 765 2705",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fire",
+        "extinguisher"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85845563,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z6OWHR32kwU6KMpkc8jcT_39.772838_-75.526111@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220884,
+    "wof:geomhash":"e0466a3f69a8894630bf2d96f3c063dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85845563,
+            "region_id":85688611,
+            "venue_id":857703347
+        }
+    ],
+    "wof:id":857703347,
+    "wof:lastmodified":1464220884,
+    "wof:name":"Phoenix Fire Equipment Inc",
+    "wof:parent_id":85845563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "extinguisher"
+    ]
+},
+  "bbox": [
+    -75.526111,
+    39.772838,
+    -75.526111,
+    39.772838
+],
+  "geometry": {"coordinates":[-75.526111,39.772838],"type":"Point"}
+}

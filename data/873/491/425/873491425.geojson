@@ -1,0 +1,69 @@
+{
+  "id": 873491425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.591403,39.669743,-75.591403,39.669743",
+    "geom:latitude":39.669743,
+    "geom:longitude":-75.591403,
+    "iso:country":"US",
+    "sg:address":"480 School Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 325 3495",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3l0ryVRmNynzxztzAkH5zs_39.669743_-75.591403@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222546,
+    "wof:geomhash":"ade670f9ce0e69d78d175ea5120da38c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873491425
+        }
+    ],
+    "wof:id":873491425,
+    "wof:lastmodified":1464222546,
+    "wof:name":"Lube Bay",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.591403,
+    39.669743,
+    -75.591403,
+    39.669743
+],
+  "geometry": {"coordinates":[-75.591403,39.669743],"type":"Point"}
+}

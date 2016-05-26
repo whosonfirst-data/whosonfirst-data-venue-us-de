@@ -1,0 +1,75 @@
+{
+  "id": 873507119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544479,39.715507,-75.544479,39.715507",
+    "geom:latitude":39.715507,
+    "geom:longitude":-75.544479,
+    "iso:country":"US",
+    "sg:address":"1 Center St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 4717",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1SOHx8wLjzgspIRMqSdCag_39.715507_-75.544479@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223241,
+    "wof:geomhash":"67c1c417c4a594d87a874a09c6c789f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":873507119
+        }
+    ],
+    "wof:id":873507119,
+    "wof:lastmodified":1464223241,
+    "wof:name":"PNC",
+    "wof:parent_id":85833991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.544479,
+    39.715507,
+    -75.544479,
+    39.715507
+],
+  "geometry": {"coordinates":[-75.544479,39.715507],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857685281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.48668,39.824452,-75.48668,39.824452",
+    "geom:latitude":39.824452,
+    "geom:longitude":-75.48668,
+    "iso:country":"US",
+    "sg:address":"2510 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 3247",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary",
+        "combination",
+        "secondary"
+    ],
+    "sg:website":"www.concordchristian.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4TB3Lv5omhHNJiyRYfmAPq_39.824452_-75.486680@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220527,
+    "wof:geomhash":"90a59317045c14abb3eef0fe57291cd6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857685281
+        }
+    ],
+    "wof:id":857685281,
+    "wof:lastmodified":1464220527,
+    "wof:name":"Christian Concord Academy",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "combination",
+        "secondary"
+    ]
+},
+  "bbox": [
+    -75.48668,
+    39.824452,
+    -75.48668,
+    39.824452
+],
+  "geometry": {"coordinates":[-75.48668000000001,39.824452],"type":"Point"}
+}

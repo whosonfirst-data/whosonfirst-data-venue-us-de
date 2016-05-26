@@ -1,0 +1,71 @@
+{
+  "id": 857733383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.516583,39.8101,-75.516583,39.8101",
+    "geom:latitude":39.8101,
+    "geom:longitude":-75.516583,
+    "iso:country":"US",
+    "sg:address":"2612 Longwood Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 1048",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photographer",
+        "photo"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uJOnbycwLJLl4oFX8tw7D_39.810100_-75.516583@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221508,
+    "wof:geomhash":"0714a0834e754db7ba514477845f0cbc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":857733383
+        }
+    ],
+    "wof:id":857733383,
+    "wof:lastmodified":1464221508,
+    "wof:name":"Picture This Photography",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographer",
+        "photo"
+    ]
+},
+  "bbox": [
+    -75.516583,
+    39.8101,
+    -75.516583,
+    39.8101
+],
+  "geometry": {"coordinates":[-75.516583,39.8101],"type":"Point"}
+}

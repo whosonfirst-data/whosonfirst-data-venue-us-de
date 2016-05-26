@@ -1,0 +1,73 @@
+{
+  "id": 857735033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.559619,39.119722,-75.559619,39.119722",
+    "geom:latitude":39.119722,
+    "geom:longitude":-75.559619,
+    "iso:country":"US",
+    "sg:address":"30 N Mechanic St",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 7372",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_436NY6GrvSYmQ8exv54VRW_39.119722_-75.559619@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221541,
+    "wof:geomhash":"d765272ff8dc92e5ebb15cc7b7dd6dfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":857735033
+        }
+    ],
+    "wof:id":857735033,
+    "wof:lastmodified":1464221541,
+    "wof:name":"J&S Machine Shop",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.559619,
+    39.119722,
+    -75.559619,
+    39.119722
+],
+  "geometry": {"coordinates":[-75.559619,39.119722],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857695577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539497,39.838865,-75.539497,39.838865",
+    "geom:latitude":39.838865,
+    "geom:longitude":-75.539497,
+    "iso:country":"US",
+    "sg:address":"5700 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 9917",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688481,
+        85633793,
+        85827541,
+        102080913
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h2142F9H1kzRaZRQMUjIV_39.838865_-75.539497@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220729,
+    "wof:geomhash":"89e2ff0efa13ee1567587139106cc171",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102080913,
+            "neighbourhood_id":85827541,
+            "region_id":85688481,
+            "venue_id":857695577
+        }
+    ],
+    "wof:id":857695577,
+    "wof:lastmodified":1464220729,
+    "wof:name":"Twin Pines Farm",
+    "wof:parent_id":85827541,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equine"
+    ]
+},
+  "bbox": [
+    -75.539497,
+    39.838865,
+    -75.539497,
+    39.838865
+],
+  "geometry": {"coordinates":[-75.539497,39.838865],"type":"Point"}
+}

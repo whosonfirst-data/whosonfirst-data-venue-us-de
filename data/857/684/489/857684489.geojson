@@ -1,0 +1,69 @@
+{
+  "id": 857684489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634506,39.738907,-75.634506,39.738907",
+    "geom:latitude":39.738907,
+    "geom:longitude":-75.634506,
+    "iso:country":"US",
+    "sg:address":"2201 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Railroad",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 1930",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "train"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_497j6fzWr4tfrrBhdAdQDv_39.738907_-75.634506@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220513,
+    "wof:geomhash":"59bf03345a9a0a4f8ccec1a0ee662954",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857684489
+        }
+    ],
+    "wof:id":857684489,
+    "wof:lastmodified":1464220513,
+    "wof:name":"Wilmington & Western Railroad",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "train"
+    ]
+},
+  "bbox": [
+    -75.634506,
+    39.738907,
+    -75.634506,
+    39.738907
+],
+  "geometry": {"coordinates":[-75.634506,39.738907],"type":"Point"}
+}

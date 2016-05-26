@@ -1,0 +1,71 @@
+{
+  "id": 873468445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.397706,38.688742,-75.397706,38.688742",
+    "geom:latitude":38.688742,
+    "geom:longitude":-75.397706,
+    "iso:country":"US",
+    "sg:address":"317 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 4092",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04V9YPEXjF12oeQFfa2AaN_38.688742_-75.397706@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221667,
+    "wof:geomhash":"2482d2061d6e59a772fdeaac1fce4d9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873468445
+        }
+    ],
+    "wof:id":873468445,
+    "wof:lastmodified":1464221667,
+    "wof:name":"Family Health Of Georgetown",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.397706,
+    38.688742,
+    -75.397706,
+    38.688742
+],
+  "geometry": {"coordinates":[-75.397706,38.688742],"type":"Point"}
+}

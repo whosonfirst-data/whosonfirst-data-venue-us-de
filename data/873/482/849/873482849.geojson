@@ -1,0 +1,73 @@
+{
+  "id": 873482849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532801,39.746753,-75.532801,39.746753",
+    "geom:latitude":39.746753,
+    "geom:longitude":-75.532801,
+    "iso:country":"US",
+    "sg:address":"900 Vandever Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 1275",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2iTrMWesaHRz1xAmZUGrjX_39.746753_-75.532801@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222225,
+    "wof:geomhash":"b5a6b39905bbd98be3dcde1a2a2cdf57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873482849
+        }
+    ],
+    "wof:id":873482849,
+    "wof:lastmodified":1464222225,
+    "wof:name":"Richardson Groceries",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.532801,
+    39.746753,
+    -75.532801,
+    39.746753
+],
+  "geometry": {"coordinates":[-75.53280100000001,39.746753],"type":"Point"}
+}

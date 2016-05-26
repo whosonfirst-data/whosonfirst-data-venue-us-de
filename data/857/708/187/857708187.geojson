@@ -1,0 +1,71 @@
+{
+  "id": 857708187,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545711,38.620984,-75.545711,38.620984",
+    "geom:latitude":38.620984,
+    "geom:longitude":-75.545711,
+    "iso:country":"US",
+    "sg:address":"457 Long Branch Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 228 5542",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Lr7NjjcVts4VJBVvXr8M8_38.620984_-75.545711@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220979,
+    "wof:geomhash":"681bead4b8b644cd9df1240adb720184",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857708187
+        }
+    ],
+    "wof:id":857708187,
+    "wof:lastmodified":1464220979,
+    "wof:name":"Ross A Johnson",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.545711,
+    38.620984,
+    -75.545711,
+    38.620984
+],
+  "geometry": {"coordinates":[-75.545711,38.620984],"type":"Point"}
+}

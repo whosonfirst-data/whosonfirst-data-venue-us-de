@@ -1,0 +1,76 @@
+{
+  "id": 873514011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527019,39.154304,-75.527019,39.154304",
+    "geom:latitude":39.154304,
+    "geom:longitude":-75.527019,
+    "iso:country":"US",
+    "sg:address":"439 S New St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/156830-kennedy-fried-chicken--pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 1030",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0h4WiLVsymlMPhNvHIVWVM_39.155076_-75.527237@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223561,
+    "wof:geomhash":"1a8d8bdd58fc5a8cb9e4523e913512ab",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873514011
+        }
+    ],
+    "wof:id":873514011,
+    "wof:lastmodified":1464223561,
+    "wof:name":"Kennedy Fried Chicken & Pizza",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.527019,
+    39.154304,
+    -75.527019,
+    39.154304
+],
+  "geometry": {"coordinates":[-75.527019,39.154304],"type":"Point"}
+}

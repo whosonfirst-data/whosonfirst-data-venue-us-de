@@ -1,0 +1,69 @@
+{
+  "id": 857732887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.702778,39.675317,-75.702778,39.675317",
+    "geom:latitude":39.675317,
+    "geom:longitude":-75.702778,
+    "iso:country":"US",
+    "sg:address":"744 E Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 6990",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ad7o0cv9phWTVSRYWNQem_39.675317_-75.702778@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221499,
+    "wof:geomhash":"8687dd04fc2e81bdba8e20742005991c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857732887
+        }
+    ],
+    "wof:id":857732887,
+    "wof:lastmodified":1464221499,
+    "wof:name":"Chestnut Hill Liquors",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.702778,
+    39.675317,
+    -75.702778,
+    39.675317
+],
+  "geometry": {"coordinates":[-75.702778,39.675317],"type":"Point"}
+}

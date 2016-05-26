@@ -1,0 +1,71 @@
+{
+  "id": 873469093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.616695,39.732625,-75.616695,39.732625",
+    "geom:latitude":39.732625,
+    "geom:longitude":-75.616695,
+    "iso:country":"US",
+    "sg:address":"300 Century Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9545",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jaxY6q6mythuHTFpHW7NM_39.732625_-75.616695@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221690,
+    "wof:geomhash":"9036a2e79b4435bace33f9075de68e94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873469093
+        }
+    ],
+    "wof:id":873469093,
+    "wof:lastmodified":1464221690,
+    "wof:name":"Dal-Tile",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.616695,
+    39.732625,
+    -75.616695,
+    39.732625
+],
+  "geometry": {"coordinates":[-75.61669500000001,39.732625],"type":"Point"}
+}

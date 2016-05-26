@@ -1,0 +1,71 @@
+{
+  "id": 857729831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.395365,38.674229,-75.395365,38.674229",
+    "geom:latitude":38.674229,
+    "geom:longitude":-75.395365,
+    "iso:country":"US",
+    "sg:address":"22786 Parker Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7011",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0AXnylVFoW6BWWJm7Au9Iq_38.674229_-75.395365@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221430,
+    "wof:geomhash":"fee28695865421b79ed5638c6e6e4ed6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":857729831
+        }
+    ],
+    "wof:id":857729831,
+    "wof:lastmodified":1464221430,
+    "wof:name":"Casual Cuts Hair Salon",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.395365,
+    38.674229,
+    -75.395365,
+    38.674229
+],
+  "geometry": {"coordinates":[-75.395365,38.674229],"type":"Point"}
+}

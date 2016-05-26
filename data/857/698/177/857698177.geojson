@@ -1,0 +1,75 @@
+{
+  "id": 857698177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.106431,38.553016,-75.106431,38.553016",
+    "geom:latitude":38.553016,
+    "geom:longitude":-75.106431,
+    "iso:country":"US",
+    "sg:address":"308 Jacklyn Dr",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 5321",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BfefZAQKf6JQqmk8ptBmE_38.553016_-75.106431@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220776,
+    "wof:geomhash":"9a12700d0e6d7fa10fbc369606a935be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857698177
+        }
+    ],
+    "wof:id":857698177,
+    "wof:lastmodified":1464220776,
+    "wof:name":"Tel-Tech Svc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "telephone",
+        "system"
+    ]
+},
+  "bbox": [
+    -75.106431,
+    38.553016,
+    -75.106431,
+    38.553016
+],
+  "geometry": {"coordinates":[-75.106431,38.553016],"type":"Point"}
+}

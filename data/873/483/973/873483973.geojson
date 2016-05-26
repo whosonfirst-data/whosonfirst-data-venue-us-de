@@ -1,0 +1,73 @@
+{
+  "id": 873483973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.611942,39.735707,-75.611942,39.735707",
+    "geom:latitude":39.735707,
+    "geom:longitude":-75.611942,
+    "iso:country":"US",
+    "sg:address":"202 S Clifton Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 7200",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "steel",
+        "erection",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wwNYkfKoDTjMYsl7nitGZ_39.735707_-75.611942@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222270,
+    "wof:geomhash":"a32d63ff914dd61eb9b61cc962736157",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873483973
+        }
+    ],
+    "wof:id":873483973,
+    "wof:lastmodified":1464222270,
+    "wof:name":"WIL-Steel Co Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "erection",
+        "structural"
+    ]
+},
+  "bbox": [
+    -75.611942,
+    39.735707,
+    -75.611942,
+    39.735707
+],
+  "geometry": {"coordinates":[-75.611942,39.735707],"type":"Point"}
+}

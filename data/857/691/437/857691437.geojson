@@ -1,0 +1,71 @@
+{
+  "id": 857691437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.535632,39.185814,-75.535632,39.185814",
+    "geom:latitude":39.185814,
+    "geom:longitude":-75.535632,
+    "iso:country":"US",
+    "sg:address":"1131 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5360",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bs945VX48vajimAsxw1bU_39.185814_-75.535632@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220650,
+    "wof:geomhash":"3d9daa16a55a6dda3685b01563389252",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857691437
+        }
+    ],
+    "wof:id":857691437,
+    "wof:lastmodified":1464220650,
+    "wof:name":"IDB Communication",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -75.535632,
+    39.185814,
+    -75.535632,
+    39.185814
+],
+  "geometry": {"coordinates":[-75.53563200000001,39.185814],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857710649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.254344,38.580801,-75.254344,38.580801",
+    "geom:latitude":38.580801,
+    "geom:longitude":-75.254344,
+    "iso:country":"US",
+    "sg:address":"206 Sandy Beach Dr",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 7755",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Hjxw9LJQSIHYzhYA6jPJP_38.580801_-75.254344@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221045,
+    "wof:geomhash":"982562c98543f6bacf19c05b9b99baae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857710649
+        }
+    ],
+    "wof:id":857710649,
+    "wof:lastmodified":1464221045,
+    "wof:name":"Concrete Creations",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.254344,
+    38.580801,
+    -75.254344,
+    38.580801
+],
+  "geometry": {"coordinates":[-75.254344,38.580801],"type":"Point"}
+}

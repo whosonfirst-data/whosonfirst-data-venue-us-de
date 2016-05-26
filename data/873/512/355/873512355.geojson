@@ -1,0 +1,75 @@
+{
+  "id": 873512355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.489502,39.823002,-75.489502,39.823002",
+    "geom:latitude":39.823002,
+    "geom:longitude":-75.489502,
+    "iso:country":"US",
+    "sg:address":"1800 Naamans Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 2700",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "financing",
+        "broker",
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5l3qW833vqHrPehi6eBde3_39.823043_-75.488689@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223488,
+    "wof:geomhash":"0ec621117fac7296c2c42ea1d90474ac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873512355
+        }
+    ],
+    "wof:id":873512355,
+    "wof:lastmodified":1464223488,
+    "wof:name":"Northeast Loan & Mortgage Inc",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing",
+        "broker",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.489502,
+    39.823002,
+    -75.489502,
+    39.823002
+],
+  "geometry": {"coordinates":[-75.489502,39.823002],"type":"Point"}
+}

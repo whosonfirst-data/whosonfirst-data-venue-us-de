@@ -1,0 +1,73 @@
+{
+  "id": 873484087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.645916,39.154436,-75.645916,39.154436",
+    "geom:latitude":39.154436,
+    "geom:longitude":-75.645916,
+    "iso:country":"US",
+    "sg:address":"5734 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5572",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1dWPcW6cGNY18giZgGspp7_39.154436_-75.645916@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222274,
+    "wof:geomhash":"c116949d7c13beb8fdf3769b33f0e291",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873484087
+        }
+    ],
+    "wof:id":873484087,
+    "wof:lastmodified":1464222274,
+    "wof:name":"Paul's Plumbing & Heating",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.645916,
+    39.154436,
+    -75.645916,
+    39.154436
+],
+  "geometry": {"coordinates":[-75.645916,39.154436],"type":"Point"}
+}

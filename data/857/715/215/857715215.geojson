@@ -1,0 +1,75 @@
+{
+  "id": 857715215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.651055,39.727605,-75.651055,39.727605",
+    "geom:latitude":39.727605,
+    "geom:longitude":-75.651055,
+    "iso:country":"US",
+    "sg:address":"4345 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7738",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "record",
+        "tape",
+        "store",
+        "cd"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I61A3COrFoWv8LaqMVGpN_39.727605_-75.651055@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221151,
+    "wof:geomhash":"2dc2d7ffa56857163c69f10c418c25c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857715215
+        }
+    ],
+    "wof:id":857715215,
+    "wof:lastmodified":1464221151,
+    "wof:name":"Rainbow Records Tapes & Cds",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "record",
+        "tape",
+        "store",
+        "cd"
+    ]
+},
+  "bbox": [
+    -75.651055,
+    39.727605,
+    -75.651055,
+    39.727605
+],
+  "geometry": {"coordinates":[-75.651055,39.727605],"type":"Point"}
+}

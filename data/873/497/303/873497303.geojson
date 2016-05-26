@@ -1,0 +1,69 @@
+{
+  "id": 873497303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.670881,39.656226,-75.670881,39.656226",
+    "geom:latitude":39.656226,
+    "geom:longitude":-75.670881,
+    "iso:country":"US",
+    "sg:address":"11 Juniper Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 8278",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xcLuCHgeTqQMwqImuJU3u_39.656226_-75.670881@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222834,
+    "wof:geomhash":"8bc0359438e266e984515e87d261da8a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873497303
+        }
+    ],
+    "wof:id":873497303,
+    "wof:lastmodified":1464222834,
+    "wof:name":"Express Medical Transport",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -75.670881,
+    39.656226,
+    -75.670881,
+    39.656226
+],
+  "geometry": {"coordinates":[-75.67088099999999,39.656226],"type":"Point"}
+}

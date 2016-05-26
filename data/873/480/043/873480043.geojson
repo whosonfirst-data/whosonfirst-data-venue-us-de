@@ -1,0 +1,69 @@
+{
+  "id": 873480043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.689309,39.645582,-75.689309,39.645582",
+    "geom:latitude":39.645582,
+    "geom:longitude":-75.689309,
+    "iso:country":"US",
+    "sg:address":"2 Cottonwood Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 0770",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ygg1TKtDC1Zj00PoB1vs8_39.645582_-75.689309@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222114,
+    "wof:geomhash":"09f34f67c8a6a748a0019f31fb1e3de7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873480043
+        }
+    ],
+    "wof:id":873480043,
+    "wof:lastmodified":1464222114,
+    "wof:name":"Papa Johns",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.689309,
+    39.645582,
+    -75.689309,
+    39.645582
+],
+  "geometry": {"coordinates":[-75.68930899999999,39.645582],"type":"Point"}
+}

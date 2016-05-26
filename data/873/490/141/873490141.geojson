@@ -1,0 +1,71 @@
+{
+  "id": 873490141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.588394,39.747281,-75.588394,39.747281",
+    "geom:latitude":39.747281,
+    "geom:longitude":-75.588394,
+    "iso:country":"US",
+    "sg:address":"100 S Ogle Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 426 0866",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dU124wheAqqxX8NrzBMFO_39.747281_-75.588394@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222501,
+    "wof:geomhash":"f7f469c3b4924622ba0b11903f02a695",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873490141
+        }
+    ],
+    "wof:id":873490141,
+    "wof:lastmodified":1464222501,
+    "wof:name":"Finch Painting",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.588394,
+    39.747281,
+    -75.588394,
+    39.747281
+],
+  "geometry": {"coordinates":[-75.58839399999999,39.747281],"type":"Point"}
+}

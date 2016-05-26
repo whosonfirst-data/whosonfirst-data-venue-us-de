@@ -1,0 +1,66 @@
+{
+  "id": 873474149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561779,39.761419,-75.561779,39.761419",
+    "geom:latitude":39.761419,
+    "geom:longitude":-75.561779,
+    "iso:country":"US",
+    "sg:address":"1909 N Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 2246",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HpKM8oj1txRRyvHNFIuOD_39.761419_-75.561779@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221886,
+    "wof:geomhash":"a7f70bc4772438c5b6cea76dcaed07a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873474149
+        }
+    ],
+    "wof:id":873474149,
+    "wof:lastmodified":1464221886,
+    "wof:name":"Lovering Ave Getty Mart",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.561779,
+    39.761419,
+    -75.561779,
+    39.761419
+],
+  "geometry": {"coordinates":[-75.561779,39.761419],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873495859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.386258,38.688677,-75.386258,38.688677",
+    "geom:latitude":38.688677,
+    "geom:longitude":-75.386258,
+    "iso:country":"US",
+    "sg:address":"16 S Front St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7161",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3qmiXJp6oSc5zs71D3cQB1_38.688677_-75.386258@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222768,
+    "wof:geomhash":"0a40967e7b8dc6322faa9fc059c193f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873495859
+        }
+    ],
+    "wof:id":873495859,
+    "wof:lastmodified":1464222768,
+    "wof:name":"Bruce A Rogers",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -75.386258,
+    38.688677,
+    -75.386258,
+    38.688677
+],
+  "geometry": {"coordinates":[-75.386258,38.688677],"type":"Point"}
+}

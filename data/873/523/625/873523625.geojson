@@ -1,0 +1,81 @@
+{
+  "id": 873523625,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553596,39.116299,-75.553596,39.116299",
+    "geom:latitude":39.116299,
+    "geom:longitude":-75.553596,
+    "iso:country":"US",
+    "sg:address":"4 W Camden Wyoming Ave",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 7827",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LfoYCzdVQkIFrQoaSb5fx_39.116299_-75.553596@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224026,
+    "wof:geomhash":"68a54c701ac6d2d5a8b7f8a95b6955f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523625
+        }
+    ],
+    "wof:id":873523625,
+    "wof:lastmodified":1464224026,
+    "wof:name":"Hylton's Market Inc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.553596,
+    39.116299,
+    -75.553596,
+    39.116299
+],
+  "geometry": {"coordinates":[-75.553596,39.116299],"type":"Point"}
+}

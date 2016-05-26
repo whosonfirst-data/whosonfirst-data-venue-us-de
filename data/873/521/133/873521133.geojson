@@ -1,0 +1,68 @@
+{
+  "id": 873521133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.516822,39.165459,-75.516822,39.165459",
+    "geom:latitude":39.165459,
+    "geom:longitude":-75.516822,
+    "iso:country":"US",
+    "sg:address":"100 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 2920",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jUzBVTr0wCyPC1SjPbvdY_39.165459_-75.516822@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223930,
+    "wof:geomhash":"ef3bc095ba546ad747f9b874cf204c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873521133
+        }
+    ],
+    "wof:id":873521133,
+    "wof:lastmodified":1464223930,
+    "wof:name":"First Union",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.516822,
+    39.165459,
+    -75.516822,
+    39.165459
+],
+  "geometry": {"coordinates":[-75.516822,39.165459],"type":"Point"}
+}

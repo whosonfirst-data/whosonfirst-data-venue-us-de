@@ -1,0 +1,71 @@
+{
+  "id": 873508351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607592,39.177625,-75.607592,39.177625",
+    "geom:latitude":39.177625,
+    "geom:longitude":-75.607592,
+    "iso:country":"US",
+    "sg:address":"2433 W Denneys Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2183",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QlYexWbhx6crTAvBNXWDz_39.177625_-75.607592@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223302,
+    "wof:geomhash":"5c95b6fdd29d82870cc7337057e2fa59",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873508351
+        }
+    ],
+    "wof:id":873508351,
+    "wof:lastmodified":1464223302,
+    "wof:name":"Quality Auto Repr & Detailing",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -75.607592,
+    39.177625,
+    -75.607592,
+    39.177625
+],
+  "geometry": {"coordinates":[-75.607592,39.177625],"type":"Point"}
+}

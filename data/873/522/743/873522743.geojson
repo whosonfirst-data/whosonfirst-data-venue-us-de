@@ -1,0 +1,85 @@
+{
+  "id": 873522743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545581,39.158777,-75.545581,39.158777",
+    "geom:latitude":39.158777,
+    "geom:longitude":-75.545581,
+    "iso:country":"US",
+    "sg:address":"1020 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Office Building",
+            "type":"Public Place"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 8458",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "management",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fCogIAHuA0EnwJMHQpoWK_39.158777_-75.545581@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223997,
+    "wof:geomhash":"3abf626c79ce3c19047b13654dd786da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873522743
+        }
+    ],
+    "wof:id":873522743,
+    "wof:lastmodified":1464223997,
+    "wof:name":"Eastside Properties 10",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management",
+        "park"
+    ]
+},
+  "bbox": [
+    -75.545581,
+    39.158777,
+    -75.545581,
+    39.158777
+],
+  "geometry": {"coordinates":[-75.545581,39.158777],"type":"Point"}
+}

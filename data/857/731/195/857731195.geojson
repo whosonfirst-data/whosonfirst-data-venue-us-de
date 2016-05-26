@@ -1,0 +1,73 @@
+{
+  "id": 857731195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56765,39.662584,-75.56765,39.662584",
+    "geom:latitude":39.662584,
+    "geom:longitude":-75.56765,
+    "iso:country":"US",
+    "sg:address":"632 Delaware St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 9240",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kecswcyX7SzCKHlcBiNs2_39.662584_-75.567650@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221460,
+    "wof:geomhash":"a544d970d11487181b72118b4a4b7636",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857731195
+        }
+    ],
+    "wof:id":857731195,
+    "wof:lastmodified":1464221460,
+    "wof:name":"Goldilocks",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.56765,
+    39.662584,
+    -75.56765,
+    39.662584
+],
+  "geometry": {"coordinates":[-75.56765,39.662584],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873495777,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605067,39.301741,-75.605067,39.301741",
+    "geom:latitude":39.301741,
+    "geom:longitude":-75.605067,
+    "iso:country":"US",
+    "sg:address":"21 E Commerce St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2600",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hoKrOv7OLySpKswAxGrHS_39.301741_-75.605067@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222764,
+    "wof:geomhash":"4bf093b461c39e7e5e47edb76dde7b76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873495777
+        }
+    ],
+    "wof:id":873495777,
+    "wof:lastmodified":1464222764,
+    "wof:name":"William C Wagner 2nd",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -75.605067,
+    39.301741,
+    -75.605067,
+    39.301741
+],
+  "geometry": {"coordinates":[-75.60506700000001,39.301741],"type":"Point"}
+}

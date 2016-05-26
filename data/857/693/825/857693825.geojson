@@ -1,0 +1,78 @@
+{
+  "id": 857693825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550945,39.741057,-75.550945,39.741057",
+    "geom:latitude":39.741057,
+    "geom:longitude":-75.550945,
+    "iso:country":"US",
+    "sg:address":"419 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 6490",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0S6RilkpHY2zqoGPkbsADh_39.741057_-75.550945@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220696,
+    "wof:geomhash":"2891a676317ef276adb1a23ac3d14a97",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857693825
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857693825
+        }
+    ],
+    "wof:id":857693825,
+    "wof:lastmodified":1464220696,
+    "wof:name":"Optometry Associates",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.550945,
+    39.741057,
+    -75.550945,
+    39.741057
+],
+  "geometry": {"coordinates":[-75.550945,39.741057],"type":"Point"}
+}

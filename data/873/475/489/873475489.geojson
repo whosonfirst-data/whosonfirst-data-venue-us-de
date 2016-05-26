@@ -1,0 +1,74 @@
+{
+  "id": 873475489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.392792,38.696131,-75.392792,38.696131",
+    "geom:latitude":38.696131,
+    "geom:longitude":-75.392792,
+    "iso:country":"US",
+    "sg:address":"515 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 0064",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "sg:website":"www.megeemotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kEgb42GCtEojTIRzuiJdK_38.696131_-75.392792@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221931,
+    "wof:geomhash":"27e194cef7490359e4c97fa46440a8af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873475489
+        }
+    ],
+    "wof:id":873475489,
+    "wof:lastmodified":1464221931,
+    "wof:name":"Megee Motors",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.392792,
+    38.696131,
+    -75.392792,
+    38.696131
+],
+  "geometry": {"coordinates":[-75.392792,38.696131],"type":"Point"}
+}

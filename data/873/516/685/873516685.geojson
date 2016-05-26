@@ -1,0 +1,93 @@
+{
+  "id": 873516685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549896,39.740799,-75.549896,39.740799",
+    "geom:latitude":39.740799,
+    "geom:longitude":-75.549896,
+    "iso:country":"US",
+    "sg:address":"500 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5948",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"http://www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RYG1xmtWomDlkqLvmA0nj_39.740799_-75.549896@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223702,
+    "wof:geomhash":"fabe216b6d5880b46e5b9a8f8b4ff246",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873516685
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873516685
+        }
+    ],
+    "wof:id":873516685,
+    "wof:lastmodified":1464223702,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -75.549896,
+    39.740799,
+    -75.549896,
+    39.740799
+],
+  "geometry": {"coordinates":[-75.549896,39.740799],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873468889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.667265,39.740234,-75.667265,39.740234",
+    "geom:latitude":39.740234,
+    "geom:longitude":-75.667265,
+    "iso:country":"US",
+    "sg:address":"24 Duval Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 9676",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6muNutSw6cumvoNl6D51uR_39.740234_-75.667265@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221683,
+    "wof:geomhash":"28875b77738e9636eea4c0c5247b9972",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873468889
+        }
+    ],
+    "wof:id":873468889,
+    "wof:lastmodified":1464221683,
+    "wof:name":"Wm B Barry Co",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.667265,
+    39.740234,
+    -75.667265,
+    39.740234
+],
+  "geometry": {"coordinates":[-75.667265,39.740234],"type":"Point"}
+}

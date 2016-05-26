@@ -1,0 +1,71 @@
+{
+  "id": 873525369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57313,39.282851,-75.57313,39.282851",
+    "geom:latitude":39.282851,
+    "geom:longitude":-75.57313,
+    "iso:country":"US",
+    "sg:address":"1605 Smyrna Leipsic Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 5162",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Myc8lZPshrermnPE1vwTV_39.282851_-75.573130@1303262473"
+    },
+    "wof:country":"US",
+    "wof:created":1464224094,
+    "wof:geomhash":"ac40afd63a8e38874827d74338ea2a58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525369
+        }
+    ],
+    "wof:id":873525369,
+    "wof:lastmodified":1464224094,
+    "wof:name":"Richard Spader",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -75.57313,
+    39.282851,
+    -75.57313,
+    39.282851
+],
+  "geometry": {"coordinates":[-75.57313000000001,39.282851],"type":"Point"}
+}

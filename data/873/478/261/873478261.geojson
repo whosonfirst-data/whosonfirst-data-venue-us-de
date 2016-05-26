@@ -1,0 +1,69 @@
+{
+  "id": 873478261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.58632,39.674292,-75.58632,39.674292",
+    "geom:latitude":39.674292,
+    "geom:longitude":-75.58632,
+    "iso:country":"US",
+    "sg:address":"525 E Basin Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 2411",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dOiQsRiz5on5eEblavyjN_39.674292_-75.586320@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222029,
+    "wof:geomhash":"5b64115684c4b52b529aa22d78d28f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873478261
+        }
+    ],
+    "wof:id":873478261,
+    "wof:lastmodified":1464222029,
+    "wof:name":"TN Twindow Cleaning",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.58632,
+    39.674292,
+    -75.58632,
+    39.674292
+],
+  "geometry": {"coordinates":[-75.58632,39.674292],"type":"Point"}
+}

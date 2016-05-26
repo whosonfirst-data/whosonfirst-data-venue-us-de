@@ -1,0 +1,71 @@
+{
+  "id": 873485699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605491,38.742461,-75.605491,38.742461",
+    "geom:latitude":38.742461,
+    "geom:longitude":-75.605491,
+    "iso:country":"US",
+    "sg:address":"612 Market St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 9685",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GAlASE5uZyaSejyEjXrpS_38.742461_-75.605491@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222331,
+    "wof:geomhash":"07b125f0431a21f88c169007e085770c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873485699
+        }
+    ],
+    "wof:id":873485699,
+    "wof:lastmodified":1464222331,
+    "wof:name":"WBC Mid Atlantic LLC",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.605491,
+    38.742461,
+    -75.605491,
+    38.742461
+],
+  "geometry": {"coordinates":[-75.605491,38.742461],"type":"Point"}
+}

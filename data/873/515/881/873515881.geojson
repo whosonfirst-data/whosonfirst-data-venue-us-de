@@ -1,0 +1,84 @@
+{
+  "id": 873515881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744505,39.682061,-75.744505,39.682061",
+    "geom:latitude":39.682061,
+    "geom:longitude":-75.744505,
+    "iso:country":"US",
+    "sg:address":"240 E Delaware Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 224 3880",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ],
+    "sg:website":"http://www.littlecaesars.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Kt7GYl8siosxlyJGoxN2k_39.682061_-75.744505@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223659,
+    "wof:geomhash":"31a85a548f0e5c3a32947475500883c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515881
+        }
+    ],
+    "wof:id":873515881,
+    "wof:lastmodified":1464223659,
+    "wof:name":"Little Caesars Pizza",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "take",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.744505,
+    39.682061,
+    -75.744505,
+    39.682061
+],
+  "geometry": {"coordinates":[-75.744505,39.682061],"type":"Point"}
+}

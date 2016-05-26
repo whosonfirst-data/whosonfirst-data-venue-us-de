@@ -1,0 +1,71 @@
+{
+  "id": 873493309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.637423,39.742905,-75.637423,39.742905",
+    "geom:latitude":39.742905,
+    "geom:longitude":-75.637423,
+    "iso:country":"US",
+    "sg:address":"2406 Pine Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0860",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "preparation",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1O29mIRVySUy93iZQGkewM_39.742905_-75.637423@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222618,
+    "wof:geomhash":"fc50df1ae87f6b9a3db1ad0c7a10f793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873493309
+        }
+    ],
+    "wof:id":873493309,
+    "wof:lastmodified":1464222618,
+    "wof:name":"Olen Beck Chemie Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preparation",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.637423,
+    39.742905,
+    -75.637423,
+    39.742905
+],
+  "geometry": {"coordinates":[-75.637423,39.742905],"type":"Point"}
+}

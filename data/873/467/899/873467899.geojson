@@ -1,0 +1,71 @@
+{
+  "id": 873467899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577683,38.923161,-75.577683,38.923161",
+    "geom:latitude":38.923161,
+    "geom:longitude":-75.577683,
+    "iso:country":"US",
+    "sg:address":"13 Hanley St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4286",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13eaEQfoP0k2qm2zaL0ONP_38.923161_-75.577683@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221649,
+    "wof:geomhash":"d1323eea2b2598af9701f8f75d45ddda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873467899
+        }
+    ],
+    "wof:id":873467899,
+    "wof:lastmodified":1464221649,
+    "wof:name":"Verizon",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.577683,
+    38.923161,
+    -75.577683,
+    38.923161
+],
+  "geometry": {"coordinates":[-75.57768299999999,38.923161],"type":"Point"}
+}

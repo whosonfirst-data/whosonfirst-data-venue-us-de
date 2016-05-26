@@ -1,0 +1,69 @@
+{
+  "id": 873480631,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543011,39.77873,-75.543011,39.77873",
+    "geom:latitude":39.77873,
+    "geom:longitude":-75.543011,
+    "iso:country":"US",
+    "sg:address":"402 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 6650",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58rC9MHxW7Oxem3QrlJrp7_39.778730_-75.543011@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222139,
+    "wof:geomhash":"8e00e5deba1db9a5c3ca61e8a93af6cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873480631
+        }
+    ],
+    "wof:id":873480631,
+    "wof:lastmodified":1464222139,
+    "wof:name":"Apartment Communities",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.543011,
+    39.77873,
+    -75.543011,
+    39.77873
+],
+  "geometry": {"coordinates":[-75.54301100000001,39.77873],"type":"Point"}
+}

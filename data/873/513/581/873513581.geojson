@@ -1,0 +1,74 @@
+{
+  "id": 873513581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505143,39.800559,-75.505143,39.800559",
+    "geom:latitude":39.800559,
+    "geom:longitude":-75.505143,
+    "iso:country":"US",
+    "sg:address":"1728 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/67334-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5900",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44ZbEzUMOybQFQJuAQVuJ5_39.800559_-75.505143@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223537,
+    "wof:geomhash":"2d296a219c612a408380ab4ad76bf1a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873513581
+        }
+    ],
+    "wof:id":873513581,
+    "wof:lastmodified":1464223537,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.505143,
+    39.800559,
+    -75.505143,
+    39.800559
+],
+  "geometry": {"coordinates":[-75.505143,39.800559],"type":"Point"}
+}

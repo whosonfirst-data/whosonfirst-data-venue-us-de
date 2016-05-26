@@ -1,0 +1,73 @@
+{
+  "id": 873509177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.502327,39.7549,-75.502327,39.7549",
+    "geom:latitude":39.7549,
+    "geom:longitude":-75.502327,
+    "iso:country":"US",
+    "sg:address":"9 E Salisbury Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 4720",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "towing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o4dmBM6kbBIHaL8gAleCl_39.754900_-75.502327@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223339,
+    "wof:geomhash":"af98f00bbdee028667463a43ab47ac10",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873509177
+        }
+    ],
+    "wof:id":873509177,
+    "wof:lastmodified":1464223339,
+    "wof:name":"Jonathan's Towing Inc",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "towing"
+    ]
+},
+  "bbox": [
+    -75.502327,
+    39.7549,
+    -75.502327,
+    39.7549
+],
+  "geometry": {"coordinates":[-75.50232699999999,39.7549],"type":"Point"}
+}

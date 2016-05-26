@@ -1,0 +1,71 @@
+{
+  "id": 873521475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52789,39.179187,-75.52789,39.179187",
+    "geom:latitude":39.179187,
+    "geom:longitude":-75.52789,
+    "iso:country":"US",
+    "sg:address":"706 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 3400",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09ZZQq2VgKJBiLoiaLbzzc_39.179187_-75.527890@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223943,
+    "wof:geomhash":"70bdbab5ce3ea612edaaba51eb5ed00b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873521475
+        }
+    ],
+    "wof:id":873521475,
+    "wof:lastmodified":1464223943,
+    "wof:name":"Good Feet Store the",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -75.52789,
+    39.179187,
+    -75.52789,
+    39.179187
+],
+  "geometry": {"coordinates":[-75.52789,39.179187],"type":"Point"}
+}

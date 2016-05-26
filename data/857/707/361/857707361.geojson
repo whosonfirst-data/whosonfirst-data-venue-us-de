@@ -1,0 +1,69 @@
+{
+  "id": 857707361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589857,39.79325,-75.589857,39.79325",
+    "geom:latitude":39.79325,
+    "geom:longitude":-75.589857,
+    "iso:country":"US",
+    "sg:address":"20 Summit Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Parking",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 3603",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LsvL6HVx2xmusY3nTG7nc_39.793250_-75.589857@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220956,
+    "wof:geomhash":"a2c7ca61b068b7f631b02be2b6b70112",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857707361
+        }
+    ],
+    "wof:id":857707361,
+    "wof:lastmodified":1464220956,
+    "wof:name":"Colonial Parking",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.589857,
+    39.79325,
+    -75.589857,
+    39.79325
+],
+  "geometry": {"coordinates":[-75.58985699999999,39.79325],"type":"Point"}
+}

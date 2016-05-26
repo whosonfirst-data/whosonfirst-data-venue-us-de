@@ -1,0 +1,73 @@
+{
+  "id": 857722183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.727492,39.669268,-75.727492,39.669268",
+    "geom:latitude":39.669268,
+    "geom:longitude":-75.727492,
+    "iso:country":"US",
+    "sg:address":"800 Marrows Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 5454",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GqZgSM8UVkDzhYtDLcDMv_39.669268_-75.727492@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221292,
+    "wof:geomhash":"9ea2835ecf0e49c4cae0a7460fee44aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857722183
+        }
+    ],
+    "wof:id":857722183,
+    "wof:lastmodified":1464221292,
+    "wof:name":"Brookside Elementary School",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.727492,
+    39.669268,
+    -75.727492,
+    39.669268
+],
+  "geometry": {"coordinates":[-75.727492,39.669268],"type":"Point"}
+}

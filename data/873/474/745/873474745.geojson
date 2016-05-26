@@ -1,0 +1,73 @@
+{
+  "id": 873474745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.403295,38.706088,-75.403295,38.706088",
+    "geom:latitude":38.706088,
+    "geom:longitude":-75.403295,
+    "iso:country":"US",
+    "sg:address":"20200 Dupont Blvd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2567",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "broadcasting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56wra58lXEHOM9f72N8Rso_38.706088_-75.403295@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221906,
+    "wof:geomhash":"1210016350da87fd931e3ec5fb65231a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873474745
+        }
+    ],
+    "wof:id":873474745,
+    "wof:lastmodified":1464221906,
+    "wof:name":"WJWK",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "broadcasting"
+    ]
+},
+  "bbox": [
+    -75.403295,
+    38.706088,
+    -75.403295,
+    38.706088
+],
+  "geometry": {"coordinates":[-75.403295,38.706088],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873495163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592489,39.168294,-75.592489,39.168294",
+    "geom:latitude":39.168294,
+    "geom:longitude":-75.592489,
+    "iso:country":"US",
+    "sg:address":"1537 Chestnut Grove Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 739 4447",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7btZHk7vGkSTk56C59z7Qs_39.168294_-75.592489@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222730,
+    "wof:geomhash":"0109ff3db9e6cad0b24bdde704a34df2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873495163
+        }
+    ],
+    "wof:id":873495163,
+    "wof:lastmodified":1464222730,
+    "wof:name":"Fire Marshal Office",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -75.592489,
+    39.168294,
+    -75.592489,
+    39.168294
+],
+  "geometry": {"coordinates":[-75.592489,39.168294],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873494155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74956,39.65183,-75.74956,39.65183",
+    "geom:latitude":39.65183,
+    "geom:longitude":-75.74956,
+    "iso:country":"US",
+    "sg:address":"1007 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 0571",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lYzPXq1FXorgMv1B0iZi5_39.651830_-75.749560@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222667,
+    "wof:geomhash":"e3a747c259a66420e112f2bd1e51b7cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873494155
+        }
+    ],
+    "wof:id":873494155,
+    "wof:lastmodified":1464222667,
+    "wof:name":"Penalty Box Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.74956,
+    39.65183,
+    -75.74956,
+    39.65183
+],
+  "geometry": {"coordinates":[-75.74956,39.65183],"type":"Point"}
+}

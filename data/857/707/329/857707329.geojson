@@ -1,0 +1,71 @@
+{
+  "id": 857707329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.701607,38.727003,-75.701607,38.727003",
+    "geom:latitude":38.727003,
+    "geom:longitude":-75.701607,
+    "iso:country":"US",
+    "sg:address":"2542 McDowell Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3216",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1WE7VCcbiXuLWS3UdIsnlg_38.727003_-75.701607@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220955,
+    "wof:geomhash":"040d422b1c8c85a0f998bc45b4ea2f51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":857707329
+        }
+    ],
+    "wof:id":857707329,
+    "wof:lastmodified":1464220955,
+    "wof:name":"Marks Handyman Service",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.701607,
+    38.727003,
+    -75.701607,
+    38.727003
+],
+  "geometry": {"coordinates":[-75.701607,38.727003],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873471893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598182,39.725596,-75.598182,39.725596",
+    "geom:latitude":39.725596,
+    "geom:longitude":-75.598182,
+    "iso:country":"US",
+    "sg:address":"22 Main Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0838",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6O7sntS3G0S4tDuGrlA2w3_39.725596_-75.598182@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221801,
+    "wof:geomhash":"5e98a5171b7173bb07e71213df5ce930",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873471893
+        }
+    ],
+    "wof:id":873471893,
+    "wof:lastmodified":1464221801,
+    "wof:name":"Wolanski & Sons Electric Inc",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.598182,
+    39.725596,
+    -75.598182,
+    39.725596
+],
+  "geometry": {"coordinates":[-75.59818199999999,39.725596],"type":"Point"}
+}

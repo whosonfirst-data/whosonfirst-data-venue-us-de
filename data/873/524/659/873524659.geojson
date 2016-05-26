@@ -1,0 +1,75 @@
+{
+  "id": 873524659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.293927,38.587779,-75.293927,38.587779",
+    "geom:latitude":38.587779,
+    "geom:longitude":-75.293927,
+    "iso:country":"US",
+    "sg:address":"231 S Washington St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 1479",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nw93HhmQPCw2xukzzHh7z_38.587779_-75.293927@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224066,
+    "wof:geomhash":"f94b7ff511e23b3256754d152a9c19df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524659
+        }
+    ],
+    "wof:id":873524659,
+    "wof:lastmodified":1464224066,
+    "wof:name":"Embassy Rehab",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "alcoholism",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -75.293927,
+    38.587779,
+    -75.293927,
+    38.587779
+],
+  "geometry": {"coordinates":[-75.293927,38.587779],"type":"Point"}
+}

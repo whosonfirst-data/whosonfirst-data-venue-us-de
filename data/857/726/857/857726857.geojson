@@ -1,0 +1,75 @@
+{
+  "id": 857726857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542446,39.740592,-75.542446,39.740592",
+    "geom:latitude":39.740592,
+    "geom:longitude":-75.542446,
+    "iso:country":"US",
+    "sg:address":"702 Kirkwood St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 5377",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "television",
+        "radio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c1wQeeMRJxW5V4qFQRvuF_39.740592_-75.542446@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221376,
+    "wof:geomhash":"fbe69db1de2ef13f43099a3ee81cf50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857726857
+        }
+    ],
+    "wof:id":857726857,
+    "wof:lastmodified":1464221376,
+    "wof:name":"Kirkwood Electronic Tech Svc",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television",
+        "radio"
+    ]
+},
+  "bbox": [
+    -75.542446,
+    39.740592,
+    -75.542446,
+    39.740592
+],
+  "geometry": {"coordinates":[-75.542446,39.740592],"type":"Point"}
+}

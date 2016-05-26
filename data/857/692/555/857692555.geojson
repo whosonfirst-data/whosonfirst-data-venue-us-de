@@ -1,0 +1,75 @@
+{
+  "id": 857692555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561026,39.75544,-75.561026,39.75544",
+    "geom:latitude":39.75544,
+    "geom:longitude":-75.561026,
+    "iso:country":"US",
+    "sg:address":"1307 N Rodney St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 2226",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3J9923Bgqom4u1DMc08byk_39.755440_-75.561026@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220672,
+    "wof:geomhash":"68ddb3755e63431163a01cc2b4944af4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":857692555
+        }
+    ],
+    "wof:id":857692555,
+    "wof:lastmodified":1464220672,
+    "wof:name":"Kenneth M Corrin Jr MD",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.561026,
+    39.75544,
+    -75.561026,
+    39.75544
+],
+  "geometry": {"coordinates":[-75.561026,39.75544],"type":"Point"}
+}

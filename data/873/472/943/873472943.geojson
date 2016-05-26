@@ -1,0 +1,68 @@
+{
+  "id": 873472943,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542001,39.13536,-75.542001,39.13536",
+    "geom:latitude":39.13536,
+    "geom:longitude":-75.542001,
+    "iso:country":"US",
+    "sg:address":"198 Haman Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5594",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EKO3AbUMxeUaCd6rN5Xnd_39.135360_-75.542001@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221840,
+    "wof:geomhash":"2c6dc76725ed155644a8d602e05825ed",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":873472943
+        }
+    ],
+    "wof:id":873472943,
+    "wof:lastmodified":1464221840,
+    "wof:name":"Pearl Harbor Assocation",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.542001,
+    39.13536,
+    -75.542001,
+    39.13536
+],
+  "geometry": {"coordinates":[-75.542001,39.13536],"type":"Point"}
+}

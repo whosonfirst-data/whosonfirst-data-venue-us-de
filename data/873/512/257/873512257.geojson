@@ -1,0 +1,78 @@
+{
+  "id": 873512257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.72216,39.653301,-75.72216,39.653301",
+    "geom:latitude":39.653301,
+    "geom:longitude":-75.72216,
+    "iso:country":"US",
+    "sg:address":"1001 Dawson Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 235 2130",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "water",
+        "heater",
+        "contractor"
+    ],
+    "sg:website":"http://national.citysearch.com/profile/external/2180814/newark_de/roto_rooter_plumbing_drain_service.html?publisher=yellowpages&reference_id=1&placement=ypwebsitemip",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_50ZP5Fep6YV7iEyv13mcck_39.653337_-75.721584@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223485,
+    "wof:geomhash":"0ce7861c462f0fe3730e9dc4dcc8249a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873512257
+        }
+    ],
+    "wof:id":873512257,
+    "wof:lastmodified":1464223485,
+    "wof:name":"Roto-Rooter Plumbing & Drain Service",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "water",
+        "heater",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.72216,
+    39.653301,
+    -75.72216,
+    39.653301
+],
+  "geometry": {"coordinates":[-75.72216,39.653301],"type":"Point"}
+}

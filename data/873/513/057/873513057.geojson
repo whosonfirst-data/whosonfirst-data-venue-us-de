@@ -1,0 +1,82 @@
+{
+  "id": 873513057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746166,39.683575,-75.746166,39.683575",
+    "geom:latitude":39.683575,
+    "geom:longitude":-75.746166,
+    "iso:country":"US",
+    "sg:address":"175 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/18183-ali-baba/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 1111",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "salad",
+        "greek",
+        "soup",
+        "american",
+        "wrap",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3spVtmx97oK0roUeghhrbD_39.683575_-75.746166@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223515,
+    "wof:geomhash":"ce17da52d719fb5bc88356c090f13d53",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513057
+        }
+    ],
+    "wof:id":873513057,
+    "wof:lastmodified":1464223515,
+    "wof:name":"Ali Baba",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "salad",
+        "greek",
+        "soup",
+        "american",
+        "wrap",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.746166,
+    39.683575,
+    -75.746166,
+    39.683575
+],
+  "geometry": {"coordinates":[-75.746166,39.683575],"type":"Point"}
+}

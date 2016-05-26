@@ -1,0 +1,69 @@
+{
+  "id": 873520775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.521301,39.134998,-75.521301,39.134998",
+    "geom:latitude":39.134998,
+    "geom:longitude":-75.521301,
+    "iso:country":"US",
+    "sg:address":"1418 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7474",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "podiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MEpce0CvVaREb1xSNCanN_39.134998_-75.521301@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223917,
+    "wof:geomhash":"391129fc9cb5eb51a9ae064c01643ec5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873520775
+        }
+    ],
+    "wof:id":873520775,
+    "wof:lastmodified":1464223917,
+    "wof:name":"Hynes Edw J Podiatrst",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "podiatrist"
+    ]
+},
+  "bbox": [
+    -75.521301,
+    39.134998,
+    -75.521301,
+    39.134998
+],
+  "geometry": {"coordinates":[-75.52130099999999,39.134998],"type":"Point"}
+}

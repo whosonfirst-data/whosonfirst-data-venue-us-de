@@ -1,0 +1,76 @@
+{
+  "id": 873525167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.230431,38.455998,-75.230431,38.455998",
+    "geom:latitude":38.455998,
+    "geom:longitude":-75.230431,
+    "iso:country":"US",
+    "sg:address":"84 W Church St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 2947",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocers-specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oqW5uSTK0EtJxAmR0xjG7_38.455998_-75.230431@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224085,
+    "wof:geomhash":"cd032442773ed27449ebda847b6cce47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525167
+        }
+    ],
+    "wof:id":873525167,
+    "wof:lastmodified":1464224085,
+    "wof:name":"La Michoacana",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocers-specialty"
+    ]
+},
+  "bbox": [
+    -75.230431,
+    38.455998,
+    -75.230431,
+    38.455998
+],
+  "geometry": {"coordinates":[-75.230431,38.455998],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873500863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.397805,38.689053,-75.397805,38.689053",
+    "geom:latitude":38.689053,
+    "geom:longitude":-75.397805,
+    "iso:country":"US",
+    "sg:address":"418 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 253 1001",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6tHTQClyTvPUY1Rrp1miwB_38.689053_-75.397805@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222978,
+    "wof:geomhash":"c67aa0a167f0f47e1c4434accec75013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873500863
+        }
+    ],
+    "wof:id":873500863,
+    "wof:lastmodified":1464222978,
+    "wof:name":"E Z Cash Of Delaware",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -75.397805,
+    38.689053,
+    -75.397805,
+    38.689053
+],
+  "geometry": {"coordinates":[-75.39780500000001,38.689053],"type":"Point"}
+}

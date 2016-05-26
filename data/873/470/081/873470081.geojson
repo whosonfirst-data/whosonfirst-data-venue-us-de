@@ -1,0 +1,71 @@
+{
+  "id": 873470081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525743,39.140944,-75.525743,39.140944",
+    "geom:latitude":39.140944,
+    "geom:longitude":-75.525743,
+    "iso:country":"US",
+    "sg:address":"1056 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 744 9600",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "development",
+        "disability"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5h06ZEgSauJIY6FdStwhBG_39.140944_-75.525743@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221733,
+    "wof:geomhash":"214b3692926ed661b7707b88d574e413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873470081
+        }
+    ],
+    "wof:id":873470081,
+    "wof:lastmodified":1464221733,
+    "wof:name":"De Developmental Disability",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "disability"
+    ]
+},
+  "bbox": [
+    -75.525743,
+    39.140944,
+    -75.525743,
+    39.140944
+],
+  "geometry": {"coordinates":[-75.52574300000001,39.140944],"type":"Point"}
+}

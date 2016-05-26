@@ -1,0 +1,71 @@
+{
+  "id": 873518905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.683672,39.746216,-75.683672,39.746216",
+    "geom:latitude":39.746216,
+    "geom:longitude":-75.683672,
+    "iso:country":"US",
+    "sg:address":"414 Woodstock Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 598 8820",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44Qp7UalUv0n7Roy3gW1pl_39.746216_-75.683672@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223832,
+    "wof:geomhash":"f60026a0295a32afc00edf9b5de438a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873518905
+        }
+    ],
+    "wof:id":873518905,
+    "wof:lastmodified":1464223832,
+    "wof:name":"S Veteran Administration",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -75.683672,
+    39.746216,
+    -75.683672,
+    39.746216
+],
+  "geometry": {"coordinates":[-75.683672,39.746216],"type":"Point"}
+}

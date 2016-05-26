@@ -1,0 +1,76 @@
+{
+  "id": 857694361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.706123,39.712487,-75.706123,39.712487",
+    "geom:latitude":39.712487,
+    "geom:longitude":-75.706123,
+    "iso:country":"US",
+    "sg:address":"13 Coach Hill Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 8000",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ddg86mcIDC5rOEVFVvy2M_39.712487_-75.706123@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220705,
+    "wof:geomhash":"fb99904a974f462a00565fdb9631c285",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857694361
+        }
+    ],
+    "wof:id":857694361,
+    "wof:lastmodified":1464220705,
+    "wof:name":"B & T Russell Marketing Inc",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -75.706123,
+    39.712487,
+    -75.706123,
+    39.712487
+],
+  "geometry": {"coordinates":[-75.70612300000001,39.712487],"type":"Point"}
+}

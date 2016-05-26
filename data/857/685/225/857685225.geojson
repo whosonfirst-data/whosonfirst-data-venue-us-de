@@ -1,0 +1,73 @@
+{
+  "id": 857685225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.580147,38.909048,-75.580147,38.909048",
+    "geom:latitude":38.909048,
+    "geom:longitude":-75.580147,
+    "iso:country":"US",
+    "sg:address":"2375 Farmington Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Livestock Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 3723",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VUExwJFEJ97cM8ygg0tDE_38.909048_-75.580147@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220526,
+    "wof:geomhash":"55b9fc507ccbac4d1311713b9d3c7413",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857685225
+        }
+    ],
+    "wof:id":857685225,
+    "wof:lastmodified":1464220526,
+    "wof:name":"Bob Mason",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beef",
+        "feedlot",
+        "cattle"
+    ]
+},
+  "bbox": [
+    -75.580147,
+    38.909048,
+    -75.580147,
+    38.909048
+],
+  "geometry": {"coordinates":[-75.580147,38.909048],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857697045,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.428405,38.914592,-75.428405,38.914592",
+    "geom:latitude":38.914592,
+    "geom:longitude":-75.428405,
+    "iso:country":"US",
+    "sg:address":"19 NW Front St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5470",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3R4voKFCXbvQDCAw8Fj0XN_38.914592_-75.428405@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220754,
+    "wof:geomhash":"8261a7f63515fd5acaa94b900b761ae9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857697045
+        }
+    ],
+    "wof:id":857697045,
+    "wof:lastmodified":1464220754,
+    "wof:name":"Lady Bug Shop",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.428405,
+    38.914592,
+    -75.428405,
+    38.914592
+],
+  "geometry": {"coordinates":[-75.428405,38.914592],"type":"Point"}
+}

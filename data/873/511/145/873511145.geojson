@@ -1,0 +1,72 @@
+{
+  "id": 873511145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.709271,39.696783,-75.709271,39.696783",
+    "geom:latitude":39.696783,
+    "geom:longitude":-75.709271,
+    "iso:country":"US",
+    "sg:address":"13 Red Mill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 1894",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "money",
+        "order"
+    ],
+    "sg:website":"http://www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02Xbo0ErawXd1b68KmGt08_39.697302_-75.709345@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223427,
+    "wof:geomhash":"e002560e1c91ae0098528f51f6b4ad97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873511145
+        }
+    ],
+    "wof:id":873511145,
+    "wof:lastmodified":1464223427,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "order"
+    ]
+},
+  "bbox": [
+    -75.709271,
+    39.696783,
+    -75.709271,
+    39.696783
+],
+  "geometry": {"coordinates":[-75.709271,39.696783],"type":"Point"}
+}

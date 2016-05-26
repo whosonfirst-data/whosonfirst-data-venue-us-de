@@ -1,0 +1,71 @@
+{
+  "id": 873507661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558559,39.764262,-75.558559,39.764262",
+    "geom:latitude":39.764262,
+    "geom:longitude":-75.558559,
+    "iso:country":"US",
+    "sg:address":"2405 Riddle Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5273",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ABs2qs0sDRpPtGUvYWvJq_39.764262_-75.558559@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223267,
+    "wof:geomhash":"f46b5b8a27e3f2ef45f9669c4105dfda",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873507661
+        }
+    ],
+    "wof:id":873507661,
+    "wof:lastmodified":1464223267,
+    "wof:name":"Banner Construction",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.558559,
+    39.764262,
+    -75.558559,
+    39.764262
+],
+  "geometry": {"coordinates":[-75.558559,39.764262],"type":"Point"}
+}

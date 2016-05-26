@@ -1,0 +1,71 @@
+{
+  "id": 873470247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.58389,39.671375,-75.58389,39.671375",
+    "geom:latitude":39.671375,
+    "geom:longitude":-75.58389,
+    "iso:country":"US",
+    "sg:address":"622 E Basin Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 2040",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "video",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_056LljJLhE07WSvFxsXtB7_39.671375_-75.583890@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221739,
+    "wof:geomhash":"c789fa01a3be87626d45eb031bb684a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873470247
+        }
+    ],
+    "wof:id":873470247,
+    "wof:lastmodified":1464221739,
+    "wof:name":"Showtime Usa Inc",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.58389,
+    39.671375,
+    -75.58389,
+    39.671375
+],
+  "geometry": {"coordinates":[-75.58389,39.671375],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873519649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.535202,39.82,-75.535202,39.82",
+    "geom:latitude":39.82,
+    "geom:longitude":-75.535202,
+    "iso:country":"US",
+    "sg:address":"2 Chapelcrest Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8808",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photography",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7RLG9RkUGQjbJIZ8Sjp9w8_39.820000_-75.535202@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223864,
+    "wof:geomhash":"cfadce58b81b884bc7496900fdb2b1ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873519649
+        }
+    ],
+    "wof:id":873519649,
+    "wof:lastmodified":1464223864,
+    "wof:name":"Lattomus William B Photographer",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photography",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.535202,
+    39.82,
+    -75.535202,
+    39.82
+],
+  "geometry": {"coordinates":[-75.535202,39.82],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873505975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603284,39.72024,-75.603284,39.72024",
+    "geom:latitude":39.72024,
+    "geom:longitude":-75.603284,
+    "iso:country":"US",
+    "sg:address":"604 Surrey Pl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 4537",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DB7K144zgJjwLiBO9t22G_39.720240_-75.603284@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223196,
+    "wof:geomhash":"1321cff90c42cd36cae724e98b374814",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873505975
+        }
+    ],
+    "wof:id":873505975,
+    "wof:lastmodified":1464223196,
+    "wof:name":"Metroland",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -75.603284,
+    39.72024,
+    -75.603284,
+    39.72024
+],
+  "geometry": {"coordinates":[-75.603284,39.72024],"type":"Point"}
+}

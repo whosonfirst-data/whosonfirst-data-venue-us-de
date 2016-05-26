@@ -1,0 +1,73 @@
+{
+  "id": 873521221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518303,39.1427,-75.518303,39.1427",
+    "geom:latitude":39.1427,
+    "geom:longitude":-75.518303,
+    "iso:country":"US",
+    "sg:address":"1107 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3235",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6t4UkvmNTQPhSCoGKztleh_39.142700_-75.518303@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223933,
+    "wof:geomhash":"ff4b57b4a0caa105fe9f0fd6164bdca2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873521221
+        }
+    ],
+    "wof:id":873521221,
+    "wof:lastmodified":1464223933,
+    "wof:name":"Emillio's Wine & Spirits",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.518303,
+    39.1427,
+    -75.518303,
+    39.1427
+],
+  "geometry": {"coordinates":[-75.518303,39.1427],"type":"Point"}
+}

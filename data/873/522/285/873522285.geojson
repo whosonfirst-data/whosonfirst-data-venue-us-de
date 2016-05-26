@@ -1,0 +1,102 @@
+{
+  "id": 873522285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553562,39.167822,-75.553562,39.167822",
+    "geom:latitude":39.167822,
+    "geom:longitude":-75.553562,
+    "iso:country":"US",
+    "sg:address":"1203 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 8800",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurses-home",
+        "convalescent",
+        "nursing",
+        "homes-skilled",
+        "facility"
+    ],
+    "sg:website":"http://www.genesishcc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z5ObtHrdWjB3pXR6uNt1r_39.167822_-75.553562@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223975,
+    "wof:geomhash":"8c5383a559aaba8755ff6d12e6aa50dc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873522285
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873522285
+        }
+    ],
+    "wof:id":873522285,
+    "wof:lastmodified":1464223975,
+    "wof:name":"Heritage At Dover",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurses-home",
+        "convalescent",
+        "nursing",
+        "homes-skilled",
+        "facility"
+    ]
+},
+  "bbox": [
+    -75.553562,
+    39.167822,
+    -75.553562,
+    39.167822
+],
+  "geometry": {"coordinates":[-75.553562,39.167822],"type":"Point"}
+}

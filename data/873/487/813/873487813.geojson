@@ -1,0 +1,69 @@
+{
+  "id": 873487813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.633068,39.735465,-75.633068,39.735465",
+    "geom:latitude":39.735465,
+    "geom:longitude":-75.633068,
+    "iso:country":"US",
+    "sg:address":"3421 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8226",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ecz05q0TpYZ3GXcP9SxXe_39.735465_-75.633068@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222415,
+    "wof:geomhash":"7b4e5719faaed6ce004d45c48bdcd3f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873487813
+        }
+    ],
+    "wof:id":873487813,
+    "wof:lastmodified":1464222415,
+    "wof:name":"Cigante International Food Mkt",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -75.633068,
+    39.735465,
+    -75.633068,
+    39.735465
+],
+  "geometry": {"coordinates":[-75.63306799999999,39.735465],"type":"Point"}
+}

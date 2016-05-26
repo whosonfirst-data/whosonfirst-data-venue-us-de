@@ -1,0 +1,71 @@
+{
+  "id": 857710419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57118,39.212421,-75.57118,39.212421",
+    "geom:latitude":39.212421,
+    "geom:longitude":-75.57118,
+    "iso:country":"US",
+    "sg:address":"5067 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2730",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74wCoEnFLKvKeitol7QALl_39.212421_-75.571180@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221039,
+    "wof:geomhash":"6db1a63f9b0855655c8de8657d32e1af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857710419
+        }
+    ],
+    "wof:id":857710419,
+    "wof:lastmodified":1464221039,
+    "wof:name":"Shed Depot",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.57118,
+    39.212421,
+    -75.57118,
+    39.212421
+],
+  "geometry": {"coordinates":[-75.57118,39.212421],"type":"Point"}
+}

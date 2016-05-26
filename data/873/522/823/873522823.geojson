@@ -1,0 +1,73 @@
+{
+  "id": 873522823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.531125,39.12813,-75.531125,39.12813",
+    "geom:latitude":39.12813,
+    "geom:longitude":-75.531125,
+    "iso:country":"US",
+    "sg:address":"1650 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 1168",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buffet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gDqBobnra9SW5BriHsls1_39.128130_-75.531125@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223999,
+    "wof:geomhash":"a6309d66e9a4671abe7327b99e88f92b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":873522823
+        }
+    ],
+    "wof:id":873522823,
+    "wof:lastmodified":1464223999,
+    "wof:name":"Old Town Buffet",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buffet"
+    ]
+},
+  "bbox": [
+    -75.531125,
+    39.12813,
+    -75.531125,
+    39.12813
+],
+  "geometry": {"coordinates":[-75.531125,39.12813],"type":"Point"}
+}

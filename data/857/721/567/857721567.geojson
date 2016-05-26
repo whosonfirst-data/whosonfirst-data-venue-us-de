@@ -1,0 +1,69 @@
+{
+  "id": 857721567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606131,39.724713,-75.606131,39.724713",
+    "geom:latitude":39.724713,
+    "geom:longitude":-75.606131,
+    "iso:country":"US",
+    "sg:address":"601 Boxwood Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 9420",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "exhaust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fO3X6GJJCvVg1GV3WjulC_39.724713_-75.606131@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221281,
+    "wof:geomhash":"fc187dbd286d2b2dbaa433ab6c6afb03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857721567
+        }
+    ],
+    "wof:id":857721567,
+    "wof:lastmodified":1464221281,
+    "wof:name":"Maniac Muffler",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "exhaust"
+    ]
+},
+  "bbox": [
+    -75.606131,
+    39.724713,
+    -75.606131,
+    39.724713
+],
+  "geometry": {"coordinates":[-75.606131,39.724713],"type":"Point"}
+}

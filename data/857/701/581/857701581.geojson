@@ -1,0 +1,71 @@
+{
+  "id": 857701581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.453931,38.908162,-75.453931,38.908162",
+    "geom:latitude":38.908162,
+    "geom:longitude":-75.453931,
+    "iso:country":"US",
+    "sg:address":"302 Haven Lake Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5488",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O47TJKazW5XhjqjXvcywc_38.908162_-75.453931@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220851,
+    "wof:geomhash":"ad97dfc4c68b78e186a699256624a60e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857701581
+        }
+    ],
+    "wof:id":857701581,
+    "wof:lastmodified":1464220851,
+    "wof:name":"Improved Order of Redman",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.453931,
+    38.908162,
+    -75.453931,
+    38.908162
+],
+  "geometry": {"coordinates":[-75.453931,38.908162],"type":"Point"}
+}

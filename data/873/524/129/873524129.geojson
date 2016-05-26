@@ -1,0 +1,87 @@
+{
+  "id": 873524129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578999,38.922637,-75.578999,38.922637",
+    "geom:latitude":38.922637,
+    "geom:longitude":-75.578999,
+    "iso:country":"US",
+    "sg:address":"35 Commerce St",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 3276",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "auto",
+        "homeowner"
+    ],
+    "sg:website":"http://www.nationwide.com/agent/Harrington-DELAWARE-insurance-agent/curtis-conley/office.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RKnCki6ueqGTJCOQkzp1G_38.922637_-75.578999@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224045,
+    "wof:geomhash":"e1df9d8d7868e6297774e09db92a4450",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524129
+        }
+    ],
+    "wof:id":873524129,
+    "wof:lastmodified":1464224045,
+    "wof:name":"Charles Conley - Nationwide Insurance",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "homeowner"
+    ]
+},
+  "bbox": [
+    -75.578999,
+    38.922637,
+    -75.578999,
+    38.922637
+],
+  "geometry": {"coordinates":[-75.578999,38.922637],"type":"Point"}
+}

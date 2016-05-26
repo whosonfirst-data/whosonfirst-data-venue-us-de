@@ -1,0 +1,71 @@
+{
+  "id": 873517803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572601,39.794899,-75.572601,39.794899",
+    "geom:latitude":39.794899,
+    "geom:longitude":-75.572601,
+    "iso:country":"US",
+    "sg:address":"601 Rockland Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 428 1681",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6X11kGD8jMBeA5Stkekfuz_39.794899_-75.572601@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223782,
+    "wof:geomhash":"1abc425d1a33c92b8e6a49042c054243",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517803
+        }
+    ],
+    "wof:id":873517803,
+    "wof:lastmodified":1464223782,
+    "wof:name":"McDonalds Championship",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -75.572601,
+    39.794899,
+    -75.572601,
+    39.794899
+],
+  "geometry": {"coordinates":[-75.57260100000001,39.794899],"type":"Point"}
+}

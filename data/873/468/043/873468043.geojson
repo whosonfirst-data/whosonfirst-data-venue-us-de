@@ -1,0 +1,71 @@
+{
+  "id": 873468043,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62434,39.13683,-75.62434,39.13683",
+    "geom:latitude":39.13683,
+    "geom:longitude":-75.62434,
+    "iso:country":"US",
+    "sg:address":"784 Nault Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 670 7826",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1M23nnqChKV6pZKeFVYoWQ_39.136830_-75.624340@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221654,
+    "wof:geomhash":"df0e13f227f3f32a241dc16dba9aff11",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873468043
+        }
+    ],
+    "wof:id":873468043,
+    "wof:lastmodified":1464221654,
+    "wof:name":"B & T Contracting",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.62434,
+    39.13683,
+    -75.62434,
+    39.13683
+],
+  "geometry": {"coordinates":[-75.62434,39.13683],"type":"Point"}
+}

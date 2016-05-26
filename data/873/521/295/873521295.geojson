@@ -1,0 +1,75 @@
+{
+  "id": 873521295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.501593,39.120799,-75.501593,39.120799",
+    "geom:latitude":39.120799,
+    "geom:longitude":-75.501593,
+    "iso:country":"US",
+    "sg:address":"1466 East Lebanon Road Ste B8",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 526 2029",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "latin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85835163
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5t4GwQFqRQKpfJM8geXR15_39.120799_-75.501593@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223936,
+    "wof:geomhash":"8198bfcd04125ba18c69c228edb6c1bc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85835163,
+            "region_id":85688611,
+            "venue_id":873521295
+        }
+    ],
+    "wof:id":873521295,
+    "wof:lastmodified":1464223936,
+    "wof:name":"My Rancho",
+    "wof:parent_id":85835163,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "latin"
+    ]
+},
+  "bbox": [
+    -75.501593,
+    39.120799,
+    -75.501593,
+    39.120799
+],
+  "geometry": {"coordinates":[-75.501593,39.120799],"type":"Point"}
+}

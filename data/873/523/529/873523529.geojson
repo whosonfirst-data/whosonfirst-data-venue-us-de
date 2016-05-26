@@ -1,0 +1,80 @@
+{
+  "id": 873523529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555279,39.109408,-75.555279,39.109408",
+    "geom:latitude":39.109408,
+    "geom:longitude":-75.555279,
+    "iso:country":"US",
+    "sg:address":"168 Vepco Blvd",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Passenger",
+            "type":"Transportation"
+        },
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 7676",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bus",
+        "line",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZhMdJjztR9t6cMYb7QQ0g_39.109408_-75.555279@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224023,
+    "wof:geomhash":"7504dbd5e6def330feb75785acae9b76",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523529
+        }
+    ],
+    "wof:id":873523529,
+    "wof:lastmodified":1464224023,
+    "wof:name":"Hilton Bus Service",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bus",
+        "line",
+        "public"
+    ]
+},
+  "bbox": [
+    -75.555279,
+    39.109408,
+    -75.555279,
+    39.109408
+],
+  "geometry": {"coordinates":[-75.555279,39.109408],"type":"Point"}
+}

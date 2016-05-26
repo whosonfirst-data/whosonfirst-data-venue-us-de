@@ -1,0 +1,71 @@
+{
+  "id": 873487915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.510637,39.8056,-75.510637,39.8056",
+    "geom:latitude":39.8056,
+    "geom:longitude":-75.510637,
+    "iso:country":"US",
+    "sg:address":"2305 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 6295",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NAw4L75h10nf3b4Kds8CD_39.805600_-75.510637@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222418,
+    "wof:geomhash":"c5f9f4aae1ded135515a4743993fb551",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873487915
+        }
+    ],
+    "wof:id":873487915,
+    "wof:lastmodified":1464222418,
+    "wof:name":"Progress Paving",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.510637,
+    39.8056,
+    -75.510637,
+    39.8056
+],
+  "geometry": {"coordinates":[-75.510637,39.8056],"type":"Point"}
+}

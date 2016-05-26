@@ -1,0 +1,71 @@
+{
+  "id": 873486125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.291197,38.580528,-75.291197,38.580528",
+    "geom:latitude":38.580528,
+    "geom:longitude":-75.291197,
+    "iso:country":"US",
+    "sg:address":"230 E Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 8880",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Jh46Z6o1JmxK7k9MQ8y18_38.580528_-75.291197@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222346,
+    "wof:geomhash":"fb43b686024c415ec3542d8e8cc06f54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873486125
+        }
+    ],
+    "wof:id":873486125,
+    "wof:lastmodified":1464222346,
+    "wof:name":"Food Lion",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.291197,
+    38.580528,
+    -75.291197,
+    38.580528
+],
+  "geometry": {"coordinates":[-75.291197,38.580528],"type":"Point"}
+}

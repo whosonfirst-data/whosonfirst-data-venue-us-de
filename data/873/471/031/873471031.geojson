@@ -1,0 +1,71 @@
+{
+  "id": 873471031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.585768,39.748127,-75.585768,39.748127",
+    "geom:latitude":39.748127,
+    "geom:longitude":-75.585768,
+    "iso:country":"US",
+    "sg:address":"115 S Gray Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Wood Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 3700",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg",
+        "kit"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_47Q1wHgkUkK5zcHhLXMM3t_39.748127_-75.585768@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221769,
+    "wof:geomhash":"4373410432a9755de2958e3f30d5cf74",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873471031
+        }
+    ],
+    "wof:id":873471031,
+    "wof:lastmodified":1464221769,
+    "wof:name":"Green Woodworking",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "kit"
+    ]
+},
+  "bbox": [
+    -75.585768,
+    39.748127,
+    -75.585768,
+    39.748127
+],
+  "geometry": {"coordinates":[-75.585768,39.748127],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873521027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.50465,39.151162,-75.50465,39.151162",
+    "geom:latitude":39.151162,
+    "geom:longitude":-75.50465,
+    "iso:country":"US",
+    "sg:address":"655 S Bay Rd Ste 4M",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 5718",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dialysis"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26aqMa7mbey6iIdFqYPI8n_39.151162_-75.504650@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223926,
+    "wof:geomhash":"241352a84741784bb2ebe3da091c3c68",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873521027
+        }
+    ],
+    "wof:id":873521027,
+    "wof:lastmodified":1464223926,
+    "wof:name":"B M A Central Delaware",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dialysis"
+    ]
+},
+  "bbox": [
+    -75.50465,
+    39.151162,
+    -75.50465,
+    39.151162
+],
+  "geometry": {"coordinates":[-75.50465,39.151162],"type":"Point"}
+}

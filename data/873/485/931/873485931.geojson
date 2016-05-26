@@ -1,0 +1,68 @@
+{
+  "id": 873485931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.082909,38.715763,-75.082909,38.715763",
+    "geom:latitude":38.715763,
+    "geom:longitude":-75.082909,
+    "iso:country":"US",
+    "sg:address":"226 Rehoboth Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Library",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 8044",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931597,
+        102083887,
+        85844243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1a7ekTl1Fyu5XZDoGFT49c_38.715763_-75.082909@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222339,
+    "wof:geomhash":"f74561a334ba722e9bcf7086c3902903",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931597,
+            "neighbourhood_id":85844243,
+            "region_id":85688611,
+            "venue_id":873485931
+        }
+    ],
+    "wof:id":873485931,
+    "wof:lastmodified":1464222339,
+    "wof:name":"Rehoboth Beach Public Library",
+    "wof:parent_id":85844243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.082909,
+    38.715763,
+    -75.082909,
+    38.715763
+],
+  "geometry": {"coordinates":[-75.082909,38.715763],"type":"Point"}
+}

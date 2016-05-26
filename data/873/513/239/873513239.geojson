@@ -1,0 +1,78 @@
+{
+  "id": 873513239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.726909,39.664842,-75.726909,39.664842",
+    "geom:latitude":39.664842,
+    "geom:longitude":-75.726909,
+    "iso:country":"US",
+    "sg:address":"61 Marrows Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/21133-sushi-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 0686",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sushi",
+        "japanese",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VBVKRMngO7L2DIItg2hP0_39.664842_-75.726909@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223522,
+    "wof:geomhash":"2fdcccb98f6966e9ade1d16974c00132",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873513239
+        }
+    ],
+    "wof:id":873513239,
+    "wof:lastmodified":1464223522,
+    "wof:name":"Sushi King",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sushi",
+        "japanese",
+        "asian"
+    ]
+},
+  "bbox": [
+    -75.726909,
+    39.664842,
+    -75.726909,
+    39.664842
+],
+  "geometry": {"coordinates":[-75.72690900000001,39.664842],"type":"Point"}
+}

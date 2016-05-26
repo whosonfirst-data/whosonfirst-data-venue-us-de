@@ -1,0 +1,79 @@
+{
+  "id": 873516221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.766056,39.657691,-75.766056,39.657691",
+    "geom:latitude":39.657691,
+    "geom:longitude":-75.766056,
+    "iso:country":"US",
+    "sg:address":"428 Arbour Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Sports Center",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Swimming Pool",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 0105",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pools-private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PUXnPJj6zCwPLiCQAQfnN_39.657691_-75.766056@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223671,
+    "wof:geomhash":"cce057c509ebb28b51baa4c4c823c1c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873516221
+        }
+    ],
+    "wof:id":873516221,
+    "wof:lastmodified":1464223671,
+    "wof:name":"Persimon Creek Swim Club",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pools-private"
+    ]
+},
+  "bbox": [
+    -75.766056,
+    39.657691,
+    -75.766056,
+    39.657691
+],
+  "geometry": {"coordinates":[-75.76605600000001,39.657691],"type":"Point"}
+}

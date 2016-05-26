@@ -1,0 +1,73 @@
+{
+  "id": 873507427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586402,39.751628,-75.586402,39.751628",
+    "geom:latitude":39.751628,
+    "geom:longitude":-75.586402,
+    "iso:country":"US",
+    "sg:address":"3100 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5636",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JNBKVhr9AzKJAGqDiXNh8_39.751628_-75.586402@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223254,
+    "wof:geomhash":"e842c4290b92e6f0542ad3f02244f668",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873507427
+        }
+    ],
+    "wof:id":873507427,
+    "wof:lastmodified":1464223254,
+    "wof:name":"Newmans Used Cars Inc",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.586402,
+    39.751628,
+    -75.586402,
+    39.751628
+],
+  "geometry": {"coordinates":[-75.58640200000001,39.751628],"type":"Point"}
+}

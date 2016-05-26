@@ -1,0 +1,75 @@
+{
+  "id": 873500123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.498308,39.15687,-75.498308,39.15687",
+    "geom:latitude":39.15687,
+    "geom:longitude":-75.498308,
+    "iso:country":"US",
+    "sg:address":"1061 S Little Creek Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 3917",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mobile",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uFmd01C9FRVVFSc4LuNH3_39.156870_-75.498308@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222942,
+    "wof:geomhash":"170dd20b2ff1ffe29201c1036e7c2733",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873500123
+        }
+    ],
+    "wof:id":873500123,
+    "wof:lastmodified":1464222942,
+    "wof:name":"Dover East Estates",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "home"
+    ]
+},
+  "bbox": [
+    -75.498308,
+    39.15687,
+    -75.498308,
+    39.15687
+],
+  "geometry": {"coordinates":[-75.49830799999999,39.15687],"type":"Point"}
+}

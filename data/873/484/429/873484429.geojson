@@ -1,0 +1,71 @@
+{
+  "id": 873484429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.684118,39.2891,-75.684118,39.2891",
+    "geom:latitude":39.2891,
+    "geom:longitude":-75.684118,
+    "iso:country":"US",
+    "sg:address":"226 Heather Dr",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 5386",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Yj7wXVTqtwga7iDUPCV5R_39.289100_-75.684118@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222286,
+    "wof:geomhash":"f24bdbde8f3fbab9dd44334a8b697f58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873484429
+        }
+    ],
+    "wof:id":873484429,
+    "wof:lastmodified":1464222286,
+    "wof:name":"George Tempesta",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -75.684118,
+    39.2891,
+    -75.684118,
+    39.2891
+],
+  "geometry": {"coordinates":[-75.684118,39.2891],"type":"Point"}
+}

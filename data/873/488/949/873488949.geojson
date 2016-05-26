@@ -1,0 +1,73 @@
+{
+  "id": 873488949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.166377,38.75096,-75.166377,38.75096",
+    "geom:latitude":38.75096,
+    "geom:longitude":-75.166377,
+    "iso:country":"US",
+    "sg:address":"1632 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 1266",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1CWXHMPS1mFC9YxSMGoxZQ_38.750960_-75.166377@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222455,
+    "wof:geomhash":"5b905758208fd06ac58b1a7413bbcfcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873488949
+        }
+    ],
+    "wof:id":873488949,
+    "wof:lastmodified":1464222455,
+    "wof:name":"B S Venkataramana MD",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.166377,
+    38.75096,
+    -75.166377,
+    38.75096
+],
+  "geometry": {"coordinates":[-75.166377,38.75096],"type":"Point"}
+}

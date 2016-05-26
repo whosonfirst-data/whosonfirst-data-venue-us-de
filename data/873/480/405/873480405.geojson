@@ -1,0 +1,71 @@
+{
+  "id": 873480405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.585654,39.751242,-75.585654,39.751242",
+    "geom:latitude":39.751242,
+    "geom:longitude":-75.585654,
+    "iso:country":"US",
+    "sg:address":"3006 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 7002",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "memorial",
+        "monument"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pIOQZ0s9j62MTLidYUp7H_39.751242_-75.585654@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222129,
+    "wof:geomhash":"2092fc4553e302c9a1c5defdcc072adf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873480405
+        }
+    ],
+    "wof:id":873480405,
+    "wof:lastmodified":1464222129,
+    "wof:name":"John W Pauley Memorials",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "memorial",
+        "monument"
+    ]
+},
+  "bbox": [
+    -75.585654,
+    39.751242,
+    -75.585654,
+    39.751242
+],
+  "geometry": {"coordinates":[-75.58565400000001,39.751242],"type":"Point"}
+}

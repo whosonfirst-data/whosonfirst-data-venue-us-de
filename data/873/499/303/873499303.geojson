@@ -1,0 +1,75 @@
+{
+  "id": 873499303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.727624,39.669332,-75.727624,39.669332",
+    "geom:latitude":39.669332,
+    "geom:longitude":-75.727624,
+    "iso:country":"US",
+    "sg:address":"40 Mallboro Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 1880",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delivery",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dqH5eTYaFhdI7TWHr26Jq_39.669332_-75.727624@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222913,
+    "wof:geomhash":"20c75e73a8d844452462cb4c0b01091d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873499303
+        }
+    ],
+    "wof:id":873499303,
+    "wof:lastmodified":1464222913,
+    "wof:name":"P & S Deliveries Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -75.727624,
+    39.669332,
+    -75.727624,
+    39.669332
+],
+  "geometry": {"coordinates":[-75.72762400000001,39.669332],"type":"Point"}
+}

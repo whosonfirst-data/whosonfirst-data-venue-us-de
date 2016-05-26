@@ -1,0 +1,73 @@
+{
+  "id": 873479073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5496,39.745233,-75.5496,39.745233",
+    "geom:latitude":39.745233,
+    "geom:longitude":-75.5496,
+    "iso:country":"US",
+    "sg:address":"111 W 9th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 0405",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "parlor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_684aaRIN8Vu1Vuop9nlFQ5_39.745233_-75.549600@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222069,
+    "wof:geomhash":"bb37922b54fd9dde1fc056ba337fa667",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873479073
+        }
+    ],
+    "wof:id":873479073,
+    "wof:lastmodified":1464222069,
+    "wof:name":"Shoe Tech Shoe Repair",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor"
+    ]
+},
+  "bbox": [
+    -75.5496,
+    39.745233,
+    -75.5496,
+    39.745233
+],
+  "geometry": {"coordinates":[-75.5496,39.745233],"type":"Point"}
+}

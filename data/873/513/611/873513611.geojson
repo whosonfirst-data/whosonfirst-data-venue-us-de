@@ -1,0 +1,74 @@
+{
+  "id": 873513611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537458,39.191594,-75.537458,39.191594",
+    "geom:latitude":39.191594,
+    "geom:longitude":-75.537458,
+    "iso:country":"US",
+    "sg:address":"3004 Dover Mall",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/219802-auntie-annes-pretzels/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5311",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sp5nZegRZIXZzOWNgzdUK_39.191594_-75.537458@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223538,
+    "wof:geomhash":"a692de19e3cdf75b9e4de55c9ed55c72",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873513611
+        }
+    ],
+    "wof:id":873513611,
+    "wof:lastmodified":1464223538,
+    "wof:name":"Auntie Anne's Pretzels",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.537458,
+    39.191594,
+    -75.537458,
+    39.191594
+],
+  "geometry": {"coordinates":[-75.537458,39.191594],"type":"Point"}
+}

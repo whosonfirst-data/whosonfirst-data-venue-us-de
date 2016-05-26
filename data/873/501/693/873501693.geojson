@@ -1,0 +1,73 @@
+{
+  "id": 873501693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523561,39.158269,-75.523561,39.158269",
+    "geom:latitude":39.158269,
+    "geom:longitude":-75.523561,
+    "iso:country":"US",
+    "sg:address":"15 E Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 7008",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WUFhVtAiHGPC7M3VY9ByT_39.158269_-75.523561@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223017,
+    "wof:geomhash":"59b20c045aba623dc8fbc732543f2f8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873501693
+        }
+    ],
+    "wof:id":873501693,
+    "wof:lastmodified":1464223017,
+    "wof:name":"Dover City Clerk",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -75.523561,
+    39.158269,
+    -75.523561,
+    39.158269
+],
+  "geometry": {"coordinates":[-75.523561,39.158269],"type":"Point"}
+}

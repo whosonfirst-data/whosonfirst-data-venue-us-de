@@ -1,0 +1,73 @@
+{
+  "id": 873463907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525937,39.178046,-75.525937,39.178046",
+    "geom:latitude":39.178046,
+    "geom:longitude":-75.525937,
+    "iso:country":"US",
+    "sg:address":"516 Jefferic Blvd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5823",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Wgebe560eIEg99a7s6dQ6_39.178046_-75.525937@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221545,
+    "wof:geomhash":"c1796d93821168fb81d1bdc6495f8e26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873463907
+        }
+    ],
+    "wof:id":873463907,
+    "wof:lastmodified":1464221545,
+    "wof:name":"Harrington Insurance",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -75.525937,
+    39.178046,
+    -75.525937,
+    39.178046
+],
+  "geometry": {"coordinates":[-75.525937,39.178046],"type":"Point"}
+}

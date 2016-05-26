@@ -1,0 +1,81 @@
+{
+  "id": 873524633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.290993,38.59165,-75.290993,38.59165",
+    "geom:latitude":38.59165,
+    "geom:longitude":-75.290993,
+    "iso:country":"US",
+    "sg:address":"721 E State St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 9552",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "removal",
+        "dent",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tKu56pesy50F6YOmdxs2z_38.591650_-75.290993@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224065,
+    "wof:geomhash":"a6ab8fbfdc3650fc3fcf8a7f124e31b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524633
+        }
+    ],
+    "wof:id":873524633,
+    "wof:lastmodified":1464224065,
+    "wof:name":"Djs Auto Body",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "removal",
+        "dent",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.290993,
+    38.59165,
+    -75.290993,
+    38.59165
+],
+  "geometry": {"coordinates":[-75.290993,38.59165],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 873513485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567124,39.755757,-75.567124,39.755757",
+    "geom:latitude":39.755757,
+    "geom:longitude":-75.567124,
+    "iso:country":"US",
+    "sg:address":"1901 Pennsylvania Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/wilmington/130323-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 9414",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UyfvUVr3U4uFCocUBqkjx_39.755757_-75.567124@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223531,
+    "wof:geomhash":"7cc14dddafcbbbf0f5256f2d157a72c2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873513485
+        }
+    ],
+    "wof:id":873513485,
+    "wof:lastmodified":1464223531,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.567124,
+    39.755757,
+    -75.567124,
+    39.755757
+],
+  "geometry": {"coordinates":[-75.56712400000001,39.755757],"type":"Point"}
+}

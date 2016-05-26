@@ -1,0 +1,79 @@
+{
+  "id": 857722225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.72849,39.645108,-75.72849,39.645108",
+    "geom:latitude":39.645108,
+    "geom:longitude":-75.72849,
+    "iso:country":"US",
+    "sg:address":"60 Aleph Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 4596",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "automotive",
+        "shop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RB2DaI1xPnMrsfTi39cRp_39.645108_-75.728490@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221292,
+    "wof:geomhash":"e15e368cfa27a741165cd7a8f04c76db",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857722225
+        }
+    ],
+    "wof:id":857722225,
+    "wof:lastmodified":1464221292,
+    "wof:name":"R & K Motors & Machine Shop",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "automotive",
+        "shop",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.72849,
+    39.645108,
+    -75.72849,
+    39.645108
+],
+  "geometry": {"coordinates":[-75.72848999999999,39.645108],"type":"Point"}
+}

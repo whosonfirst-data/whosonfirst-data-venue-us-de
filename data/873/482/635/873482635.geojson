@@ -1,0 +1,71 @@
+{
+  "id": 873482635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.30782,38.783733,-75.30782,38.783733",
+    "geom:latitude":38.783733,
+    "geom:longitude":-75.30782,
+    "iso:country":"US",
+    "sg:address":"617 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 1095",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5N6zGRFPtN6SKlyXAApZeF_38.783733_-75.307820@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222217,
+    "wof:geomhash":"02dd180c3418d766539c30829ea72c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873482635
+        }
+    ],
+    "wof:id":873482635,
+    "wof:lastmodified":1464222217,
+    "wof:name":"Two Minis Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.30782,
+    38.783733,
+    -75.30782,
+    38.783733
+],
+  "geometry": {"coordinates":[-75.30782000000001,38.783733],"type":"Point"}
+}

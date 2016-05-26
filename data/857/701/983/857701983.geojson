@@ -1,0 +1,71 @@
+{
+  "id": 857701983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74126,39.683901,-75.74126,39.683901",
+    "geom:latitude":39.683901,
+    "geom:longitude":-75.74126,
+    "iso:country":"US",
+    "sg:address":"281 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7766",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DI2mwXZyTFyAK3vF4wzrb_39.683901_-75.741260@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220860,
+    "wof:geomhash":"7ef7415c0375ee6467d0d9c0740e989a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857701983
+        }
+    ],
+    "wof:id":857701983,
+    "wof:lastmodified":1464220860,
+    "wof:name":"Delaware National Bank Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.74126,
+    39.683901,
+    -75.74126,
+    39.683901
+],
+  "geometry": {"coordinates":[-75.74126,39.683901],"type":"Point"}
+}

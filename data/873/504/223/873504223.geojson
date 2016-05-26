@@ -1,0 +1,73 @@
+{
+  "id": 873504223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658346,39.676856,-75.658346,39.676856",
+    "geom:latitude":39.676856,
+    "geom:longitude":-75.658346,
+    "iso:country":"US",
+    "sg:address":"500 Christiana Medical Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 1007",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0w3VZg1llij1ZJr7428JVy_39.676856_-75.658346@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223113,
+    "wof:geomhash":"381864bf8d7039002a2d6618df02b6e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873504223
+        }
+    ],
+    "wof:id":873504223,
+    "wof:lastmodified":1464223113,
+    "wof:name":"George M Bobatiuk MD",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.658346,
+    39.676856,
+    -75.658346,
+    39.676856
+],
+  "geometry": {"coordinates":[-75.65834599999999,39.676856],"type":"Point"}
+}

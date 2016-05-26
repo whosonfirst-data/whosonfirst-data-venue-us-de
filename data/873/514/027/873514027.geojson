@@ -1,0 +1,87 @@
+{
+  "id": 873514027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081254,38.71601,-75.081254,38.71601",
+    "geom:latitude":38.71601,
+    "geom:longitude":-75.081254,
+    "iso:country":"US",
+    "sg:address":"160 Rehoboth Ave",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lewes/208940-tcby/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 7801",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931597,
+        102083887,
+        85848725
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Qdh0sWTKJzzzY2ELJkR7v_38.715988_-75.080595@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223562,
+    "wof:geomhash":"a9441d595b302109049b57636c6f0dba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931597,
+            "neighbourhood_id":85848725,
+            "region_id":85688611,
+            "venue_id":873514027
+        }
+    ],
+    "wof:id":873514027,
+    "wof:lastmodified":1464223562,
+    "wof:name":"TCBY",
+    "wof:parent_id":85848725,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "smoothy",
+        "juice",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -75.081254,
+    38.71601,
+    -75.081254,
+    38.71601
+],
+  "geometry": {"coordinates":[-75.081254,38.71601],"type":"Point"}
+}

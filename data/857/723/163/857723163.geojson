@@ -1,0 +1,71 @@
+{
+  "id": 857723163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682778,39.673836,-75.682778,39.673836",
+    "geom:latitude":39.673836,
+    "geom:longitude":-75.682778,
+    "iso:country":"US",
+    "sg:address":"1113 Musket Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 0985",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "roofing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jYCoi56jXIKyMsPSeBJMJ_39.673836_-75.682778@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221309,
+    "wof:geomhash":"fef9064120f7e62638bb0098d51651d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857723163
+        }
+    ],
+    "wof:id":857723163,
+    "wof:lastmodified":1464221309,
+    "wof:name":"Lano Roofing",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "roofing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.682778,
+    39.673836,
+    -75.682778,
+    39.673836
+],
+  "geometry": {"coordinates":[-75.682778,39.673836],"type":"Point"}
+}

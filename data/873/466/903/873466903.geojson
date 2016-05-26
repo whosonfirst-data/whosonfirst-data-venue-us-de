@@ -1,0 +1,69 @@
+{
+  "id": 873466903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545931,39.786725,-75.545931,39.786725",
+    "geom:latitude":39.786725,
+    "geom:longitude":-75.545931,
+    "iso:country":"US",
+    "sg:address":"2205 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 7777",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BGvUswM4uDFYPLuCHdOX1_39.786725_-75.545931@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221615,
+    "wof:geomhash":"0f3e819f42420906f7d8a9ef0217af21",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873466903
+        }
+    ],
+    "wof:id":873466903,
+    "wof:lastmodified":1464221615,
+    "wof:name":"Fairfax Eye Works",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.545931,
+    39.786725,
+    -75.545931,
+    39.786725
+],
+  "geometry": {"coordinates":[-75.545931,39.786725],"type":"Point"}
+}

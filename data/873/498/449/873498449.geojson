@@ -1,0 +1,71 @@
+{
+  "id": 873498449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517166,39.809408,-75.517166,39.809408",
+    "geom:latitude":39.809408,
+    "geom:longitude":-75.517166,
+    "iso:country":"US",
+    "sg:address":"2501 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 1911",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KazCziJrt3bt4l4Qqe5Wl_39.809408_-75.517166@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222880,
+    "wof:geomhash":"ece907b1800682de4a505d63a4c06397",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873498449
+        }
+    ],
+    "wof:id":873498449,
+    "wof:lastmodified":1464222880,
+    "wof:name":"Novacare Rehabilitation",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.517166,
+    39.809408,
+    -75.517166,
+    39.809408
+],
+  "geometry": {"coordinates":[-75.517166,39.809408],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873509551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.638049,39.733847,-75.638049,39.733847",
+    "geom:latitude":39.733847,
+    "geom:longitude":-75.638049,
+    "iso:country":"US",
+    "sg:address":"3640 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 2200",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor",
+        "dealer",
+        "rug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X6LXtiMSAIGHmsuJNPiuu_39.733847_-75.638049@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223358,
+    "wof:geomhash":"b214f24af2b31605e9f9089828ec40e0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873509551
+        }
+    ],
+    "wof:id":873509551,
+    "wof:lastmodified":1464223358,
+    "wof:name":"Bob Wagners's Flooring America",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor",
+        "dealer",
+        "rug"
+    ]
+},
+  "bbox": [
+    -75.638049,
+    39.733847,
+    -75.638049,
+    39.733847
+],
+  "geometry": {"coordinates":[-75.638049,39.733847],"type":"Point"}
+}

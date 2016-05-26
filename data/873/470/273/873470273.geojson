@@ -1,0 +1,71 @@
+{
+  "id": 873470273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.661626,39.729574,-75.661626,39.729574",
+    "geom:latitude":39.729574,
+    "geom:longitude":-75.661626,
+    "iso:country":"US",
+    "sg:address":"2410 Twist Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 0170",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JiMlVTUlCxz35mrMf9Nol_39.729574_-75.661626@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221740,
+    "wof:geomhash":"5b141eb4ce47edad3dfc2e0748461b89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873470273
+        }
+    ],
+    "wof:id":873470273,
+    "wof:lastmodified":1464221740,
+    "wof:name":"Jove Electric",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.661626,
+    39.729574,
+    -75.661626,
+    39.729574
+],
+  "geometry": {"coordinates":[-75.661626,39.729574],"type":"Point"}
+}

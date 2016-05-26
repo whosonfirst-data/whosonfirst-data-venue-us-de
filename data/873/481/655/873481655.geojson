@@ -1,0 +1,73 @@
+{
+  "id": 873481655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599339,39.19067,-75.599339,39.19067",
+    "geom:latitude":39.19067,
+    "geom:longitude":-75.599339,
+    "iso:country":"US",
+    "sg:address":"1385 Central Church Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 0516",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jGrHMLH3AHtSKT1F7cqlt_39.190670_-75.599339@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222179,
+    "wof:geomhash":"25c45f27de082b61e029c7b1263cf013",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873481655
+        }
+    ],
+    "wof:id":873481655,
+    "wof:lastmodified":1464222179,
+    "wof:name":"Pauls Painting Co",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.599339,
+    39.19067,
+    -75.599339,
+    39.19067
+],
+  "geometry": {"coordinates":[-75.599339,39.19067],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873505543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602127,39.71711,-75.602127,39.71711",
+    "geom:latitude":39.71711,
+    "geom:longitude":-75.602127,
+    "iso:country":"US",
+    "sg:address":"1500 E Newport Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 2015",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hall",
+        "auditorium"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D0ABlmJYjQm3NVuV2gsmN_39.717110_-75.602127@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223181,
+    "wof:geomhash":"338639bf5bd674be00beb1834503e807",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873505543
+        }
+    ],
+    "wof:id":873505543,
+    "wof:lastmodified":1464223181,
+    "wof:name":"Haitian Community Ctr-Dlwr",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hall",
+        "auditorium"
+    ]
+},
+  "bbox": [
+    -75.602127,
+    39.71711,
+    -75.602127,
+    39.71711
+],
+  "geometry": {"coordinates":[-75.602127,39.71711],"type":"Point"}
+}

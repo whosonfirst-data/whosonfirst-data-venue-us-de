@@ -1,0 +1,68 @@
+{
+  "id": 873468925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563266,39.66092,-75.563266,39.66092",
+    "geom:latitude":39.66092,
+    "geom:longitude":-75.563266,
+    "iso:country":"US",
+    "sg:address":"32 E 3rd St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 9168",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931555,
+        102083891,
+        85845649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h6ecPMjavpOfYIZxpSiBF_39.660920_-75.563266@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221684,
+    "wof:geomhash":"76003c6eab8a1338d6b25987ff8c1cc5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931555,
+            "neighbourhood_id":85845649,
+            "region_id":85688611,
+            "venue_id":873468925
+        }
+    ],
+    "wof:id":873468925,
+    "wof:lastmodified":1464221684,
+    "wof:name":"New Castle Historical Society",
+    "wof:parent_id":85845649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.563266,
+    39.66092,
+    -75.563266,
+    39.66092
+],
+  "geometry": {"coordinates":[-75.563266,39.66092],"type":"Point"}
+}

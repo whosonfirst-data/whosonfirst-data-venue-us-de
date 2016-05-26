@@ -1,0 +1,71 @@
+{
+  "id": 873511077,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.583438,38.924731,-75.583438,38.924731",
+    "geom:latitude":38.924731,
+    "geom:longitude":-75.583438,
+    "iso:country":"US",
+    "sg:address":"700 Mason Ave",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 9043",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jOD9GGpF8RtOlb4CBxNgH_38.924731_-75.583438@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223425,
+    "wof:geomhash":"0e2cf915d916fd96b83fe3da0392df48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873511077
+        }
+    ],
+    "wof:id":873511077,
+    "wof:lastmodified":1464223425,
+    "wof:name":"West St Manor",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.583438,
+    38.924731,
+    -75.583438,
+    38.924731
+],
+  "geometry": {"coordinates":[-75.583438,38.924731],"type":"Point"}
+}

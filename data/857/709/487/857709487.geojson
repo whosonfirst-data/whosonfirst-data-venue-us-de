@@ -1,0 +1,69 @@
+{
+  "id": 857709487,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.593787,39.72291,-75.593787,39.72291",
+    "geom:latitude":39.72291,
+    "geom:longitude":-75.593787,
+    "iso:country":"US",
+    "sg:address":"714 S Maryland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 3002",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mT8POi5nsJseY9FsCgzhj_39.722910_-75.593787@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221017,
+    "wof:geomhash":"b115933efe5892fef83ad36183d2ba60",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":857709487
+        }
+    ],
+    "wof:id":857709487,
+    "wof:lastmodified":1464221017,
+    "wof:name":"Zingos Shop N Bag",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -75.593787,
+    39.72291,
+    -75.593787,
+    39.72291
+],
+  "geometry": {"coordinates":[-75.59378700000001,39.72291],"type":"Point"}
+}

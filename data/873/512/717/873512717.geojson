@@ -1,0 +1,72 @@
+{
+  "id": 873512717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74424,39.683762,-75.74424,39.683762",
+    "geom:latitude":39.683762,
+    "geom:longitude":-75.74424,
+    "iso:country":"US",
+    "sg:address":"235 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 8184",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "sg:website":"http://www.monro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DBIgFwwVD9nuJN7fNrMXw_39.683775_-75.743670@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223502,
+    "wof:geomhash":"b71ec991fc0e5ea232cc7f78cb14fb6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873512717
+        }
+    ],
+    "wof:id":873512717,
+    "wof:lastmodified":1464223502,
+    "wof:name":"Monro Muffler Brake & Service",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.74424,
+    39.683762,
+    -75.74424,
+    39.683762
+],
+  "geometry": {"coordinates":[-75.74424,39.683762],"type":"Point"}
+}

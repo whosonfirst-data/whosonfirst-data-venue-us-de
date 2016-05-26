@@ -1,0 +1,86 @@
+{
+  "id": 873516917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522925,39.760215,-75.522925,39.760215",
+    "geom:latitude":39.760215,
+    "geom:longitude":-75.522925,
+    "iso:country":"US",
+    "sg:address":"14 E 40th St Lowr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 2020",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mechanical",
+        "plumber",
+        "industrial",
+        "contractors-commercial",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6votfumH8ps80ekZOJpmTJ_39.760215_-75.522925@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223714,
+    "wof:geomhash":"383e54111e4cf240af8462af55446549",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873516917
+        }
+    ],
+    "wof:id":873516917,
+    "wof:lastmodified":1464223714,
+    "wof:name":"William H Mcdaniel Inc",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "plumber",
+        "industrial",
+        "contractors-commercial",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.522925,
+    39.760215,
+    -75.522925,
+    39.760215
+],
+  "geometry": {"coordinates":[-75.522925,39.760215],"type":"Point"}
+}

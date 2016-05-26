@@ -1,0 +1,71 @@
+{
+  "id": 857709001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563211,39.090963,-75.563211,39.090963",
+    "geom:latitude":39.090963,
+    "geom:longitude":-75.563211,
+    "iso:country":"US",
+    "sg:address":"82 Cove Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 6284",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pXSFGvpFwlDiikd53SHdv_39.090963_-75.563211@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221002,
+    "wof:geomhash":"20c1ab386e5ead55f832697192f74dde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857709001
+        }
+    ],
+    "wof:id":857709001,
+    "wof:lastmodified":1464221002,
+    "wof:name":"Ernest Conner",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -75.563211,
+    39.090963,
+    -75.563211,
+    39.090963
+],
+  "geometry": {"coordinates":[-75.563211,39.090963],"type":"Point"}
+}

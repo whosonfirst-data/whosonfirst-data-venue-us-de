@@ -1,0 +1,71 @@
+{
+  "id": 873510703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.712322,39.6992,-75.712322,39.6992",
+    "geom:latitude":39.6992,
+    "geom:longitude":-75.712322,
+    "iso:country":"US",
+    "sg:address":"20 Rose Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 3747",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lawn",
+        "garden"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4lgekiXfZhDB5qDZkUWkS4_39.699200_-75.712322@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223408,
+    "wof:geomhash":"de04da14d3d02b57d80b962c870d96c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873510703
+        }
+    ],
+    "wof:id":873510703,
+    "wof:lastmodified":1464223408,
+    "wof:name":"Happy Lawn Care Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "garden"
+    ]
+},
+  "bbox": [
+    -75.712322,
+    39.6992,
+    -75.712322,
+    39.6992
+],
+  "geometry": {"coordinates":[-75.712322,39.6992],"type":"Point"}
+}

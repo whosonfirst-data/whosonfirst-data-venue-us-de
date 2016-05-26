@@ -1,0 +1,69 @@
+{
+  "id": 857696527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.503289,39.76938,-75.503289,39.76938",
+    "geom:latitude":39.76938,
+    "geom:longitude":-75.503289,
+    "iso:country":"US",
+    "sg:address":"5512 Washington St Exd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 2100",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2u5LKLxLPLoIhzHgsj7Wh8_39.769380_-75.503289@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220745,
+    "wof:geomhash":"3f7de71c9d1d5b3cf5b4b7f60b9f9b2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":857696527
+        }
+    ],
+    "wof:id":857696527,
+    "wof:lastmodified":1464220745,
+    "wof:name":"Joe Shilling Inc",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.503289,
+    39.76938,
+    -75.503289,
+    39.76938
+],
+  "geometry": {"coordinates":[-75.503289,39.76938],"type":"Point"}
+}

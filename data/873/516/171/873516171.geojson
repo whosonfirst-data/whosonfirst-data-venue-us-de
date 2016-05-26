@@ -1,0 +1,91 @@
+{
+  "id": 873516171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.651779,39.697409,-75.651779,39.697409",
+    "geom:latitude":39.697409,
+    "geom:longitude":-75.651779,
+    "iso:country":"US",
+    "sg:address":"537 Stanton Christiana Rd Ste 107",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 610 440 3583",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "cosmetic",
+        "plastic",
+        "hair",
+        "surgery",
+        "reconstructive",
+        "replacement"
+    ],
+    "sg:website":"http://www.sabinimd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_214UZqP6HOxdBzXBj6NRRQ_39.697409_-75.651779@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223669,
+    "wof:geomhash":"1d60b45f37c8c26bfee74adff9f2a4bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873516171
+        }
+    ],
+    "wof:id":873516171,
+    "wof:lastmodified":1464223669,
+    "wof:name":"Paul Sabini MD FACS",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeons",
+        "cosmetic",
+        "plastic",
+        "hair",
+        "surgery",
+        "reconstructive",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -75.651779,
+    39.697409,
+    -75.651779,
+    39.697409
+],
+  "geometry": {"coordinates":[-75.651779,39.697409],"type":"Point"}
+}

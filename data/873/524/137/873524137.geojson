@@ -1,0 +1,76 @@
+{
+  "id": 873524137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56869,38.929712,-75.56869,38.929712",
+    "geom:latitude":38.929712,
+    "geom:longitude":-75.56869,
+    "iso:country":"US",
+    "sg:address":"505 Smith Ave",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 866 383 8775",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2U2kAdw5PN37VJmHs4Gt5W_38.929712_-75.568690@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224045,
+    "wof:geomhash":"3e8a7ccd341cad5ebd71b5b64f562a09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524137
+        }
+    ],
+    "wof:id":873524137,
+    "wof:lastmodified":1464224045,
+    "wof:name":"Your Mortgage Specialist",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "processing"
+    ]
+},
+  "bbox": [
+    -75.56869,
+    38.929712,
+    -75.56869,
+    38.929712
+],
+  "geometry": {"coordinates":[-75.56869,38.929712],"type":"Point"}
+}

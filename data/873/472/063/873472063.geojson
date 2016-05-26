@@ -1,0 +1,69 @@
+{
+  "id": 873472063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610381,39.005182,-75.610381,39.005182",
+    "geom:latitude":39.005182,
+    "geom:longitude":-75.610381,
+    "iso:country":"US",
+    "sg:address":"7764 Burnite Mill Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9485",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "egg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ELcte99PLF1dWIRCEpXZ3_39.005182_-75.610381@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221807,
+    "wof:geomhash":"6c723109fd918679fbe943217d03c530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873472063
+        }
+    ],
+    "wof:id":873472063,
+    "wof:lastmodified":1464221807,
+    "wof:name":"James Satterfield Farm",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "egg"
+    ]
+},
+  "bbox": [
+    -75.610381,
+    39.005182,
+    -75.610381,
+    39.005182
+],
+  "geometry": {"coordinates":[-75.610381,39.005182],"type":"Point"}
+}

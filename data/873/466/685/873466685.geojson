@@ -1,0 +1,73 @@
+{
+  "id": 873466685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578306,39.680378,-75.578306,39.680378",
+    "geom:latitude":39.680378,
+    "geom:longitude":-75.578306,
+    "iso:country":"US",
+    "sg:address":"38 Lesley Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 6164",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "glass",
+        "window",
+        "plate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0szGRuDws8aHgntnLOkrmS_39.680378_-75.578306@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221607,
+    "wof:geomhash":"4f3e9995d363f9a4a073d15cd3f3621f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873466685
+        }
+    ],
+    "wof:id":873466685,
+    "wof:lastmodified":1464221607,
+    "wof:name":"New Castle Glass Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "window",
+        "plate"
+    ]
+},
+  "bbox": [
+    -75.578306,
+    39.680378,
+    -75.578306,
+    39.680378
+],
+  "geometry": {"coordinates":[-75.578306,39.680378],"type":"Point"}
+}

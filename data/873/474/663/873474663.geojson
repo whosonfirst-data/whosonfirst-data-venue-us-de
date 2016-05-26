@@ -1,0 +1,73 @@
+{
+  "id": 873474663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546653,39.737743,-75.546653,39.737743",
+    "geom:latitude":39.737743,
+    "geom:longitude":-75.546653,
+    "iso:country":"US",
+    "sg:address":"400 E 3rd St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 2196",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MnbqOoXufnaThg15B7yCN_39.737743_-75.546653@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221903,
+    "wof:geomhash":"def67119ec308024df7d565c8f588bf8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873474663
+        }
+    ],
+    "wof:id":873474663,
+    "wof:lastmodified":1464221903,
+    "wof:name":"Chadwick Apartments",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.546653,
+    39.737743,
+    -75.546653,
+    39.737743
+],
+  "geometry": {"coordinates":[-75.54665300000001,39.737743],"type":"Point"}
+}

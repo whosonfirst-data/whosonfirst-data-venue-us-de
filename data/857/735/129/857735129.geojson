@@ -1,0 +1,77 @@
+{
+  "id": 857735129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.514592,39.151158,-75.514592,39.151158",
+    "geom:latitude":39.151158,
+    "geom:longitude":-75.514592,
+    "iso:country":"US",
+    "sg:address":"666 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 9802",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "crematory",
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SgSSbGxpdcNOJalxoAnPH_39.151158_-75.514592@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221542,
+    "wof:geomhash":"ef92310baa0f2eadd3e7707bcd6ac89c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":857735129
+        }
+    ],
+    "wof:id":857735129,
+    "wof:lastmodified":1464221542,
+    "wof:name":"Friends Forever Kent County",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "crematory",
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -75.514592,
+    39.151158,
+    -75.514592,
+    39.151158
+],
+  "geometry": {"coordinates":[-75.51459199999999,39.151158],"type":"Point"}
+}

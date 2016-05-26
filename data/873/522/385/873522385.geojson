@@ -1,0 +1,85 @@
+{
+  "id": 873522385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.581577,39.223669,-75.581577,39.223669",
+    "geom:latitude":39.223669,
+    "geom:longitude":-75.581577,
+    "iso:country":"US",
+    "sg:address":"37 Jessica Lyn Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 1866",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601,
+        102191575,
+        85931477,
+        85825779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mBrPoKQfqLOf47AcjTcS8_39.223669_-75.581577@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223980,
+    "wof:geomhash":"fff59c1bb73e15d7ddf644be1ab2c6f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522385
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931477,
+            "neighbourhood_id":85825779,
+            "region_id":85688611,
+            "venue_id":873522385
+        }
+    ],
+    "wof:id":873522385,
+    "wof:lastmodified":1464223980,
+    "wof:name":"Vazir Nilesh & Anisha Vazir",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.581577,
+    39.223669,
+    -75.581577,
+    39.223669
+],
+  "geometry": {"coordinates":[-75.581577,39.223669],"type":"Point"}
+}

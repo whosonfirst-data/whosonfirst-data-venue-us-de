@@ -1,0 +1,68 @@
+{
+  "id": 873500735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549205,39.741848,-75.549205,39.741848",
+    "geom:latitude":39.741848,
+    "geom:longitude":-75.549205,
+    "iso:country":"US",
+    "sg:address":"600 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 594 2000",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_59wr7YWKIqJ2NFsebFOsFk_39.741848_-75.549205@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222970,
+    "wof:geomhash":"9f1ed3b28f6f45a5c643b4d0ab6158b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873500735
+        }
+    ],
+    "wof:id":873500735,
+    "wof:lastmodified":1464222970,
+    "wof:name":"AIG Life Insurance Co",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.549205,
+    39.741848,
+    -75.549205,
+    39.741848
+],
+  "geometry": {"coordinates":[-75.549205,39.741848],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857730851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.489965,39.154186,-75.489965,39.154186",
+    "geom:latitude":39.154186,
+    "geom:longitude":-75.489965,
+    "iso:country":"US",
+    "sg:address":"1284 McD Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 4810",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "brewer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZMyusq1TJhsBljBavuuyd_39.154186_-75.489965@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221453,
+    "wof:geomhash":"d41976c54ae76a040ea0167a00d9f8a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":857730851
+        }
+    ],
+    "wof:id":857730851,
+    "wof:lastmodified":1464221453,
+    "wof:name":"Southern Beverages Corp Inc",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brewer"
+    ]
+},
+  "bbox": [
+    -75.489965,
+    39.154186,
+    -75.489965,
+    39.154186
+],
+  "geometry": {"coordinates":[-75.489965,39.154186],"type":"Point"}
+}

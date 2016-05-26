@@ -1,0 +1,69 @@
+{
+  "id": 873509255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.630343,39.731044,-75.630343,39.731044",
+    "geom:latitude":39.731044,
+    "geom:longitude":-75.630343,
+    "iso:country":"US",
+    "sg:address":"3400 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 9841",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "transmission"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44g5gLi4YHnz0V2bSVIgU0_39.731044_-75.630343@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223342,
+    "wof:geomhash":"c4b1605d292418f2760663002c7c6e03",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873509255
+        }
+    ],
+    "wof:id":873509255,
+    "wof:lastmodified":1464223342,
+    "wof:name":"Cottman Transmission Ctr",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission"
+    ]
+},
+  "bbox": [
+    -75.630343,
+    39.731044,
+    -75.630343,
+    39.731044
+],
+  "geometry": {"coordinates":[-75.630343,39.731044],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 873523249,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555603,39.160301,-75.555603,39.160301",
+    "geom:latitude":39.160301,
+    "geom:longitude":-75.555603,
+    "iso:country":"US",
+    "sg:address":"125 Greentree Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 0330",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "sg:website":"www.pillsburydentalassociates.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3shbNgW5NSMza4dsBkZD1n_39.160301_-75.555603@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224014,
+    "wof:geomhash":"384e2985be427cb4f7a93f786aa1febb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873523249
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873523249
+        }
+    ],
+    "wof:id":873523249,
+    "wof:lastmodified":1464224014,
+    "wof:name":"Pillsbury Jas S DDS",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -75.555603,
+    39.160301,
+    -75.555603,
+    39.160301
+],
+  "geometry": {"coordinates":[-75.555603,39.160301],"type":"Point"}
+}

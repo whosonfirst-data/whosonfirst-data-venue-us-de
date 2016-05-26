@@ -1,0 +1,75 @@
+{
+  "id": 873494331,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.579864,38.918812,-75.579864,38.918812",
+    "geom:latitude":38.918812,
+    "geom:longitude":-75.579864,
+    "iso:country":"US",
+    "sg:address":"111 Reese Ave",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 5050",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "product",
+        "dairy",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02KeZL5LYMDtCkd4PrXVTa_38.918812_-75.579864@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222677,
+    "wof:geomhash":"24615e93fc6b3aa37af7f67862d779fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873494331
+        }
+    ],
+    "wof:id":873494331,
+    "wof:lastmodified":1464222677,
+    "wof:name":"Burris Foods",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "product",
+        "dairy",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.579864,
+    38.918812,
+    -75.579864,
+    38.918812
+],
+  "geometry": {"coordinates":[-75.579864,38.918812],"type":"Point"}
+}

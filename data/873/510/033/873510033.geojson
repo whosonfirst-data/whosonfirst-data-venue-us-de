@@ -1,0 +1,69 @@
+{
+  "id": 873510033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626493,39.73691,-75.626493,39.73691",
+    "geom:latitude":39.73691,
+    "geom:longitude":-75.626493,
+    "iso:country":"US",
+    "sg:address":"3210 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0181",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D0UEW4sx0lhZEt6K8Zoon_39.736910_-75.626493@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223380,
+    "wof:geomhash":"18182aa8daea9f93f47e857346e83504",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873510033
+        }
+    ],
+    "wof:id":873510033,
+    "wof:lastmodified":1464223380,
+    "wof:name":"Gordon's Jewelers",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -75.626493,
+    39.73691,
+    -75.626493,
+    39.73691
+],
+  "geometry": {"coordinates":[-75.626493,39.73691],"type":"Point"}
+}

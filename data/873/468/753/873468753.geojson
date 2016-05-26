@@ -1,0 +1,73 @@
+{
+  "id": 873468753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556333,39.732802,-75.556333,39.732802",
+    "geom:latitude":39.732802,
+    "geom:longitude":-75.556333,
+    "iso:country":"US",
+    "sg:address":"340 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 5075",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73cQyT4VTnwHNIGbt1OB9a_39.732802_-75.556333@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221679,
+    "wof:geomhash":"7d8822a797f26a747377fb7b81bbf7c5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873468753
+        }
+    ],
+    "wof:id":873468753,
+    "wof:lastmodified":1464221679,
+    "wof:name":"Yia Yia's Cafe",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.556333,
+    39.732802,
+    -75.556333,
+    39.732802
+],
+  "geometry": {"coordinates":[-75.556333,39.732802],"type":"Point"}
+}

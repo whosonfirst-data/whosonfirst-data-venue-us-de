@@ -1,0 +1,71 @@
+{
+  "id": 857714793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557243,39.783728,-75.557243,39.783728",
+    "geom:latitude":39.783728,
+    "geom:longitude":-75.557243,
+    "iso:country":"US",
+    "sg:address":"1519 Rockland Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 3099",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uZQunRyQUjgknkNbpbBVB_39.783728_-75.557243@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221144,
+    "wof:geomhash":"4997581ddeaf1354903699cee025d8a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":857714793
+        }
+    ],
+    "wof:id":857714793,
+    "wof:lastmodified":1464221144,
+    "wof:name":"Rockland Place",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "residential"
+    ]
+},
+  "bbox": [
+    -75.557243,
+    39.783728,
+    -75.557243,
+    39.783728
+],
+  "geometry": {"coordinates":[-75.557243,39.783728],"type":"Point"}
+}

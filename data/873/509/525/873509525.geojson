@@ -1,0 +1,69 @@
+{
+  "id": 873509525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745832,39.604692,-75.745832,39.604692",
+    "geom:latitude":39.604692,
+    "geom:longitude":-75.745832,
+    "iso:country":"US",
+    "sg:address":"2414 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 8608",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3YS7lYs3MlqRiDpb6To9Te_39.604692_-75.745832@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223357,
+    "wof:geomhash":"74291cc919d8edd74e05d3a070f8082a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873509525
+        }
+    ],
+    "wof:id":873509525,
+    "wof:lastmodified":1464223357,
+    "wof:name":"Western Auto",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.745832,
+    39.604692,
+    -75.745832,
+    39.604692
+],
+  "geometry": {"coordinates":[-75.74583199999999,39.604692],"type":"Point"}
+}

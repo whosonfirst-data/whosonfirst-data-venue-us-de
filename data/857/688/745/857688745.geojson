@@ -1,0 +1,71 @@
+{
+  "id": 857688745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.223034,38.46152,-75.223034,38.46152",
+    "geom:latitude":38.46152,
+    "geom:longitude":-75.223034,
+    "iso:country":"US",
+    "sg:address":"7 Hoosier St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 8696",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6stqEtOOMDSPidWDVM61ZY_38.461520_-75.223034@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220594,
+    "wof:geomhash":"6c0a11f5f640e9e29986174e08ab38b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857688745
+        }
+    ],
+    "wof:id":857688745,
+    "wof:lastmodified":1464220594,
+    "wof:name":"B & M Industries",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.223034,
+    38.46152,
+    -75.223034,
+    38.46152
+],
+  "geometry": {"coordinates":[-75.223034,38.46152],"type":"Point"}
+}

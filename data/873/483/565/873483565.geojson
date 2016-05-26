@@ -1,0 +1,71 @@
+{
+  "id": 873483565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.61924,39.070822,-75.61924,39.070822",
+    "geom:latitude":39.070822,
+    "geom:longitude":-75.61924,
+    "iso:country":"US",
+    "sg:address":"8080 Willow Grove Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 1616",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MLZD5bki4IWl9pAGPQYMj_39.070822_-75.619240@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222254,
+    "wof:geomhash":"eef7e98323fb6c354b9e8c72166651a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873483565
+        }
+    ],
+    "wof:id":873483565,
+    "wof:lastmodified":1464222254,
+    "wof:name":"Collier's Towing & Repair",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -75.61924,
+    39.070822,
+    -75.61924,
+    39.070822
+],
+  "geometry": {"coordinates":[-75.61924,39.070822],"type":"Point"}
+}

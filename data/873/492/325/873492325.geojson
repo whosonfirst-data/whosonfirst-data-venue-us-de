@@ -1,0 +1,73 @@
+{
+  "id": 873492325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.719953,39.6396,-75.719953,39.6396",
+    "geom:latitude":39.6396,
+    "geom:longitude":-75.719953,
+    "iso:country":"US",
+    "sg:address":"209 Romney Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 8395",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6poYnR6D3p0W4XsffiVuWc_39.639600_-75.719953@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222577,
+    "wof:geomhash":"c8d825d4b016a660f4a2a76de9ced139",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873492325
+        }
+    ],
+    "wof:id":873492325,
+    "wof:lastmodified":1464222577,
+    "wof:name":"Town Pizzaz",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.719953,
+    39.6396,
+    -75.719953,
+    39.6396
+],
+  "geometry": {"coordinates":[-75.719953,39.6396],"type":"Point"}
+}

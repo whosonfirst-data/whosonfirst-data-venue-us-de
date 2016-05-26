@@ -1,0 +1,66 @@
+{
+  "id": 873523691,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.621106,39.070785,-75.621106,39.070785",
+    "geom:latitude":39.070785,
+    "geom:longitude":-75.621106,
+    "iso:country":"US",
+    "sg:address":"7715 Willow Grove Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 1501",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cRoGMylcksis6YRQT4Y84_39.070785_-75.621106@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224029,
+    "wof:geomhash":"949f1b3278e73a472e839c707318a953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523691
+        }
+    ],
+    "wof:id":873523691,
+    "wof:lastmodified":1464224029,
+    "wof:name":"Willow Grove Food Mart",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.621106,
+    39.070785,
+    -75.621106,
+    39.070785
+],
+  "geometry": {"coordinates":[-75.621106,39.070785],"type":"Point"}
+}

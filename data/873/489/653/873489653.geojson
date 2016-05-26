@@ -1,0 +1,71 @@
+{
+  "id": 873489653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571997,39.69426,-75.571997,39.69426",
+    "geom:latitude":39.69426,
+    "geom:longitude":-75.571997,
+    "iso:country":"US",
+    "sg:address":"23 Southgate Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 7040",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "enforcement",
+        "drug"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7faEEq9C1BTN393y3jaCY5_39.694260_-75.571997@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222481,
+    "wof:geomhash":"a05eae6b35072cbff640a831f82fbf5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873489653
+        }
+    ],
+    "wof:id":873489653,
+    "wof:lastmodified":1464222481,
+    "wof:name":"Drug Enforcement Adm",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "enforcement",
+        "drug"
+    ]
+},
+  "bbox": [
+    -75.571997,
+    39.69426,
+    -75.571997,
+    39.69426
+],
+  "geometry": {"coordinates":[-75.571997,39.69426],"type":"Point"}
+}

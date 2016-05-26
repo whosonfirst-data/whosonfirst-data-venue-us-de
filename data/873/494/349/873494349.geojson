@@ -1,0 +1,69 @@
+{
+  "id": 873494349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.502162,39.797858,-75.502162,39.797858",
+    "geom:latitude":39.797858,
+    "geom:longitude":-75.502162,
+    "iso:country":"US",
+    "sg:address":"1509 Stoney Run Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1881",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "psychologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cuWpU3sJszU3pEfUaBvxy_39.797858_-75.502162@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222678,
+    "wof:geomhash":"bc48fe49f0c52f8dd4fbd6dffeb1d876",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873494349
+        }
+    ],
+    "wof:id":873494349,
+    "wof:lastmodified":1464222678,
+    "wof:name":"Clinical & Counseling Assoc",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychologist"
+    ]
+},
+  "bbox": [
+    -75.502162,
+    39.797858,
+    -75.502162,
+    39.797858
+],
+  "geometry": {"coordinates":[-75.502162,39.797858],"type":"Point"}
+}

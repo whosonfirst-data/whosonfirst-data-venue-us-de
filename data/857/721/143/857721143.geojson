@@ -1,0 +1,71 @@
+{
+  "id": 857721143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.559569,38.772849,-75.559569,38.772849",
+    "geom:latitude":38.772849,
+    "geom:longitude":-75.559569,
+    "iso:country":"US",
+    "sg:address":"12 Quail Hollow Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 5779",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6msmq4f0bEb6soiupj8XLo_38.772849_-75.559569@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221272,
+    "wof:geomhash":"2951a2ca591fd7e6cc6ad10b8bb5099b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857721143
+        }
+    ],
+    "wof:id":857721143,
+    "wof:lastmodified":1464221272,
+    "wof:name":"Hamilton Construction",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.559569,
+    38.772849,
+    -75.559569,
+    38.772849
+],
+  "geometry": {"coordinates":[-75.559569,38.772849],"type":"Point"}
+}

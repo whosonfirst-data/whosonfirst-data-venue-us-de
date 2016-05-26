@@ -1,0 +1,71 @@
+{
+  "id": 857698025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595561,39.178984,-75.595561,39.178984",
+    "geom:latitude":39.178984,
+    "geom:longitude":-75.595561,
+    "iso:country":"US",
+    "sg:address":"3277 W Denneys Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5064",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7h8tg7d4n8EV0A6ziMvyi1_39.178984_-75.595561@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220774,
+    "wof:geomhash":"2dc10b58261a8c49c535edc15a4c5822",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857698025
+        }
+    ],
+    "wof:id":857698025,
+    "wof:lastmodified":1464220774,
+    "wof:name":"Superior Carpet Cleaning",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.595561,
+    39.178984,
+    -75.595561,
+    39.178984
+],
+  "geometry": {"coordinates":[-75.595561,39.178984],"type":"Point"}
+}

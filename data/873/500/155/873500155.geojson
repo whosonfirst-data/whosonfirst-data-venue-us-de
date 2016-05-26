@@ -1,0 +1,80 @@
+{
+  "id": 873500155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604744,38.742688,-75.604744,38.742688",
+    "geom:latitude":38.742688,
+    "geom:longitude":-75.604744,
+    "iso:country":"US",
+    "sg:address":"414 Market St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8771",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HEgsq3SKBq20udRX0Dtke_38.742688_-75.604744@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222944,
+    "wof:geomhash":"ab541767ffed1035c32e3b8564932eb8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873500155
+        }
+    ],
+    "wof:id":873500155,
+    "wof:lastmodified":1464222944,
+    "wof:name":"Bridgeville Senior Center",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -75.604744,
+    38.742688,
+    -75.604744,
+    38.742688
+],
+  "geometry": {"coordinates":[-75.604744,38.742688],"type":"Point"}
+}

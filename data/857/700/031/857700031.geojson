@@ -1,0 +1,73 @@
+{
+  "id": 857700031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.500132,39.770748,-75.500132,39.770748",
+    "geom:latitude":39.770748,
+    "geom:longitude":-75.500132,
+    "iso:country":"US",
+    "sg:address":"702 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 3825",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "automobile",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7STlZ67LiiBqKDJzn2mijk_39.770748_-75.500132@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220814,
+    "wof:geomhash":"490056b9210a9e51ca88c75569ad7932",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":857700031
+        }
+    ],
+    "wof:id":857700031,
+    "wof:lastmodified":1464220814,
+    "wof:name":"Spallco Car Truck & Van Rental",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile",
+        "rent"
+    ]
+},
+  "bbox": [
+    -75.500132,
+    39.770748,
+    -75.500132,
+    39.770748
+],
+  "geometry": {"coordinates":[-75.50013199999999,39.770748],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873518563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.587227,39.742531,-75.587227,39.742531",
+    "geom:latitude":39.742531,
+    "geom:longitude":-75.587227,
+    "iso:country":"US",
+    "sg:address":"600 S Colonial Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 4500",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tile-contractors",
+        "rug",
+        "flooring",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SIxW8pd4l7m31Dr9uNuN2_39.742531_-75.587227@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223816,
+    "wof:geomhash":"d302c30290dacc8feb6c7b39f536a2a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873518563
+        }
+    ],
+    "wof:id":873518563,
+    "wof:lastmodified":1464223816,
+    "wof:name":"Pala Tile & Carpet Contractors, Inc.",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile-contractors",
+        "rug",
+        "flooring",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.587227,
+    39.742531,
+    -75.587227,
+    39.742531
+],
+  "geometry": {"coordinates":[-75.587227,39.742531],"type":"Point"}
+}

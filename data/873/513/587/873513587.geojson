@@ -1,0 +1,70 @@
+{
+  "id": 873513587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505112,39.801725,-75.505112,39.801725",
+    "geom:latitude":39.801725,
+    "geom:longitude":-75.505112,
+    "iso:country":"US",
+    "sg:address":"1737 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/115188-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 1240",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2frlSGHA5l2AvHwFCtimo3_39.801725_-75.505112@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223537,
+    "wof:geomhash":"04f0a8a1c3f3befbbe5b110166fa4271",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873513587
+        }
+    ],
+    "wof:id":873513587,
+    "wof:lastmodified":1464223537,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.505112,
+    39.801725,
+    -75.505112,
+    39.801725
+],
+  "geometry": {"coordinates":[-75.505112,39.801725],"type":"Point"}
+}

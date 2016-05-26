@@ -1,0 +1,66 @@
+{
+  "id": 857691461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528234,39.179953,-75.528234,39.179953",
+    "geom:latitude":39.179953,
+    "geom:longitude":-75.528234,
+    "iso:country":"US",
+    "sg:address":"837 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4497",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JJ993D3Hl6ORpePLi3jt0_39.179953_-75.528234@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220651,
+    "wof:geomhash":"7744d12af602b5011b78a64952476a38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857691461
+        }
+    ],
+    "wof:id":857691461,
+    "wof:lastmodified":1464220651,
+    "wof:name":"Dover Food Mart",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.528234,
+    39.179953,
+    -75.528234,
+    39.179953
+],
+  "geometry": {"coordinates":[-75.528234,39.179953],"type":"Point"}
+}

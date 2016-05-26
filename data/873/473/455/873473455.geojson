@@ -1,0 +1,73 @@
+{
+  "id": 873473455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569318,39.692962,-75.569318,39.692962",
+    "geom:latitude":39.692962,
+    "geom:longitude":-75.569318,
+    "iso:country":"US",
+    "sg:address":"46 Industrial Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 8809",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yMTcwQizKvM38van9MSqC_39.692962_-75.569318@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221863,
+    "wof:geomhash":"a7285693bbe1d1eee7dc2a881b2b3d1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873473455
+        }
+    ],
+    "wof:id":873473455,
+    "wof:lastmodified":1464221863,
+    "wof:name":"Globe Electric Company Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.569318,
+    39.692962,
+    -75.569318,
+    39.692962
+],
+  "geometry": {"coordinates":[-75.569318,39.692962],"type":"Point"}
+}

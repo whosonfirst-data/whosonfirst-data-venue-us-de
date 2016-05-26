@@ -1,0 +1,69 @@
+{
+  "id": 873498507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55153,39.702596,-75.55153,39.702596",
+    "geom:latitude":39.702596,
+    "geom:longitude":-75.55153,
+    "iso:country":"US",
+    "sg:address":"3007 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 6775",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "seafood"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0btbOEtrcCGpnQ49kMDTw2_39.702596_-75.551530@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222883,
+    "wof:geomhash":"461934dcd0e335a88ccf40930869fedd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873498507
+        }
+    ],
+    "wof:id":873498507,
+    "wof:lastmodified":1464222883,
+    "wof:name":"Bailey Seafood",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "seafood"
+    ]
+},
+  "bbox": [
+    -75.55153,
+    39.702596,
+    -75.55153,
+    39.702596
+],
+  "geometry": {"coordinates":[-75.55153,39.702596],"type":"Point"}
+}

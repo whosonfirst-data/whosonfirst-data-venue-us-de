@@ -1,0 +1,71 @@
+{
+  "id": 873480063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599309,39.30463,-75.599309,39.30463",
+    "geom:latitude":39.30463,
+    "geom:longitude":-75.599309,
+    "iso:country":"US",
+    "sg:address":"360 E Commerce St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 5564",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "welding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jNs74noNuEaFltBllHYXW_39.304630_-75.599309@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222115,
+    "wof:geomhash":"3c4d6fe57e67a7fc8082b4f42af5e50f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873480063
+        }
+    ],
+    "wof:id":873480063,
+    "wof:lastmodified":1464222115,
+    "wof:name":"Smyrna Welding & Fabrication",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "welding"
+    ]
+},
+  "bbox": [
+    -75.599309,
+    39.30463,
+    -75.599309,
+    39.30463
+],
+  "geometry": {"coordinates":[-75.59930900000001,39.30463],"type":"Point"}
+}

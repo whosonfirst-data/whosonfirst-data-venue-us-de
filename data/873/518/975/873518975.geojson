@@ -1,0 +1,72 @@
+{
+  "id": 873518975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625412,39.737165,-75.625412,39.737165",
+    "geom:latitude":39.737165,
+    "geom:longitude":-75.625412,
+    "iso:country":"US",
+    "sg:address":"3234 Kirkwood Hwy Ste A",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8086",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apparel",
+        "women's"
+    ],
+    "sg:website":"http://www.unitedretailservice.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rEYnykaXzODNe2KKpwwd0_39.737165_-75.625412@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223834,
+    "wof:geomhash":"9cfc2cb4af79f94cc365f244f981ca32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873518975
+        }
+    ],
+    "wof:id":873518975,
+    "wof:lastmodified":1464223834,
+    "wof:name":"Avenue",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparel",
+        "women's"
+    ]
+},
+  "bbox": [
+    -75.625412,
+    39.737165,
+    -75.625412,
+    39.737165
+],
+  "geometry": {"coordinates":[-75.625412,39.737165],"type":"Point"}
+}

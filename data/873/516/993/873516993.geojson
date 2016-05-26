@@ -1,0 +1,94 @@
+{
+  "id": 873516993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517185,39.753336,-75.517185,39.753336",
+    "geom:latitude":39.753336,
+    "geom:longitude":-75.517185,
+    "iso:country":"US",
+    "sg:address":"2400 Governor Printz Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 5777",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "detailing",
+        "part",
+        "painting"
+    ],
+    "sg:website":"http://WilmingtonGovPrintz.maaco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KejLJ9JZrEv5GGzWVhGsi_39.753336_-75.517185@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223719,
+    "wof:geomhash":"4f72c90259c4ea60f037b4bf7e99b50d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873516993
+        }
+    ],
+    "wof:id":873516993,
+    "wof:lastmodified":1464223719,
+    "wof:name":"Maaco - Wilmington",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "automobile",
+        "detailing",
+        "part",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.517185,
+    39.753336,
+    -75.517185,
+    39.753336
+],
+  "geometry": {"coordinates":[-75.517185,39.753336],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873513391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52042,39.763193,-75.52042,39.763193",
+    "geom:latitude":39.763193,
+    "geom:longitude":-75.52042,
+    "iso:country":"US",
+    "sg:address":"4301 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/wilmington/163526-rallys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 9043",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FsdJdNQAquBD3Y1DjynGa_39.763193_-75.520420@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223527,
+    "wof:geomhash":"e58a8714b1ec09accec517ac8e7efdf7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873513391
+        }
+    ],
+    "wof:id":873513391,
+    "wof:lastmodified":1464223527,
+    "wof:name":"Rally's",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "dog",
+        "burger",
+        "hot",
+        "wrap",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.52042,
+    39.763193,
+    -75.52042,
+    39.763193
+],
+  "geometry": {"coordinates":[-75.52042,39.763193],"type":"Point"}
+}

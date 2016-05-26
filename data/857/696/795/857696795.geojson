@@ -1,0 +1,69 @@
+{
+  "id": 857696795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.146858,38.775733,-75.146858,38.775733",
+    "geom:latitude":38.775733,
+    "geom:longitude":-75.146858,
+    "iso:country":"US",
+    "sg:address":"418 Burton Ave",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 6597",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gp0CUY6k7jUtXLFfjnMPy_38.775733_-75.146858@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220749,
+    "wof:geomhash":"c1433f21d6840bba9a26f4e4b8a899dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857696795
+        }
+    ],
+    "wof:id":857696795,
+    "wof:lastmodified":1464220749,
+    "wof:name":"McClain Custodial Service",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.146858,
+    38.775733,
+    -75.146858,
+    38.775733
+],
+  "geometry": {"coordinates":[-75.14685799999999,38.775733],"type":"Point"}
+}

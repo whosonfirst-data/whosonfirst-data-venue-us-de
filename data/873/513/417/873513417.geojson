@@ -1,0 +1,70 @@
+{
+  "id": 873513417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546445,39.790245,-75.546445,39.790245",
+    "geom:latitude":39.790245,
+    "geom:longitude":-75.546445,
+    "iso:country":"US",
+    "sg:address":"2209 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/20345-la-tolteca/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 4646",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2N8lQfaSxPADNFB0O6RSO4_39.790245_-75.546445@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223528,
+    "wof:geomhash":"6272992204abbdceefe2c9cb8e92e0cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873513417
+        }
+    ],
+    "wof:id":873513417,
+    "wof:lastmodified":1464223528,
+    "wof:name":"La Tolteca",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -75.546445,
+    39.790245,
+    -75.546445,
+    39.790245
+],
+  "geometry": {"coordinates":[-75.54644500000001,39.790245],"type":"Point"}
+}

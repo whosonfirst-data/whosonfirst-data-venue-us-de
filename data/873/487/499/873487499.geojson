@@ -1,0 +1,73 @@
+{
+  "id": 873487499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568505,38.440144,-75.568505,38.440144",
+    "geom:latitude":38.440144,
+    "geom:longitude":-75.568505,
+    "iso:country":"US",
+    "sg:address":"8951 Bi State Blvd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 3279",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OZ16pKI5jew5dl0JO5p8y_38.440144_-75.568505@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222397,
+    "wof:geomhash":"cbc9d69f99ef2b9f2ca59f9ffaa97cfc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873487499
+        }
+    ],
+    "wof:id":873487499,
+    "wof:lastmodified":1464222397,
+    "wof:name":"Winston's Repair Shop & Vw Svc",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.568505,
+    38.440144,
+    -75.568505,
+    38.440144
+],
+  "geometry": {"coordinates":[-75.568505,38.440144],"type":"Point"}
+}

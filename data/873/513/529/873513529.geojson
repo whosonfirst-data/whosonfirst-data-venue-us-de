@@ -1,0 +1,72 @@
+{
+  "id": 873513529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.624935,39.737346,-75.624935,39.737346",
+    "geom:latitude":39.737346,
+    "geom:longitude":-75.624935,
+    "iso:country":"US",
+    "sg:address":"4713 Midway Shopping Center",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lower-christiana/25143-bon-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 1218",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "asian",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EdUUm9XzHe8bb0HWxPXk1_39.737346_-75.624935@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223534,
+    "wof:geomhash":"417ffa857ce5c23c1584930ab42e410b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873513529
+        }
+    ],
+    "wof:id":873513529,
+    "wof:lastmodified":1464223534,
+    "wof:name":"Bon House",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "asian",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -75.624935,
+    39.737346,
+    -75.624935,
+    39.737346
+],
+  "geometry": {"coordinates":[-75.62493499999999,39.737346],"type":"Point"}
+}

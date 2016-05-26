@@ -1,0 +1,71 @@
+{
+  "id": 857700797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.664581,39.731512,-75.664581,39.731512",
+    "geom:latitude":39.731512,
+    "geom:longitude":-75.664581,
+    "iso:country":"US",
+    "sg:address":"1206 Milltown Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 4049",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "monastery",
+        "convent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j9ZoWQstVQKZjqn9R9Kvt_39.731512_-75.664581@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220831,
+    "wof:geomhash":"f76e02d5365ad449485e8678c583ff25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857700797
+        }
+    ],
+    "wof:id":857700797,
+    "wof:lastmodified":1464220831,
+    "wof:name":"St John The Beloved",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "monastery",
+        "convent"
+    ]
+},
+  "bbox": [
+    -75.664581,
+    39.731512,
+    -75.664581,
+    39.731512
+],
+  "geometry": {"coordinates":[-75.664581,39.731512],"type":"Point"}
+}

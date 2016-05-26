@@ -1,0 +1,71 @@
+{
+  "id": 857691493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.391594,38.69516,-75.391594,38.69516",
+    "geom:latitude":38.69516,
+    "geom:longitude":-75.391594,
+    "iso:country":"US",
+    "sg:address":"602 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3055",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Hi8Dm3WZXm34YpTA8b4Vw_38.695160_-75.391594@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220652,
+    "wof:geomhash":"82e876cf12b8bd5981151d3d5f847be6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857691493
+        }
+    ],
+    "wof:id":857691493,
+    "wof:lastmodified":1464220652,
+    "wof:name":"Villa Paradiso Restaurant",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.391594,
+    38.69516,
+    -75.391594,
+    38.69516
+],
+  "geometry": {"coordinates":[-75.391594,38.69516],"type":"Point"}
+}

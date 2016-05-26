@@ -1,0 +1,73 @@
+{
+  "id": 873480365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.506931,39.141351,-75.506931,39.141351",
+    "geom:latitude":39.141351,
+    "geom:longitude":-75.506931,
+    "iso:country":"US",
+    "sg:address":"232 N Governor Blvd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 6251",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_27dq0C30rBcd8x3IkFjm15_39.141351_-75.506931@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222127,
+    "wof:geomhash":"e64015f2b2c54969cbaa6ca408900970",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873480365
+        }
+    ],
+    "wof:id":873480365,
+    "wof:lastmodified":1464222127,
+    "wof:name":"Gibbs Daycare",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.506931,
+    39.141351,
+    -75.506931,
+    39.141351
+],
+  "geometry": {"coordinates":[-75.50693099999999,39.141351],"type":"Point"}
+}

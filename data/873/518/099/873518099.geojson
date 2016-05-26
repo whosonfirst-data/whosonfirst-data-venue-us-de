@@ -1,0 +1,72 @@
+{
+  "id": 873518099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5215,39.801498,-75.5215,39.801498",
+    "geom:latitude":39.801498,
+    "geom:longitude":-75.5215,
+    "iso:country":"US",
+    "sg:address":"1415 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 4900",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgeon",
+        "oral"
+    ],
+    "sg:website":"www.delawaresmiles.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jUxkUP2Bej96hS6kBRwrc_39.801498_-75.521500@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223798,
+    "wof:geomhash":"892ddfbe695f19f03a4391cca2b67144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873518099
+        }
+    ],
+    "wof:id":873518099,
+    "wof:lastmodified":1464223798,
+    "wof:name":"Bradley Erik S DDS",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgeon",
+        "oral"
+    ]
+},
+  "bbox": [
+    -75.5215,
+    39.801498,
+    -75.5215,
+    39.801498
+],
+  "geometry": {"coordinates":[-75.5215,39.801498],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873517079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.519785,39.802885,-75.519785,39.802885",
+    "geom:latitude":39.802885,
+    "geom:longitude":-75.519785,
+    "iso:country":"US",
+    "sg:address":"1530 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 472 2772",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "school",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85820951,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0c4TusovhMQDviufsRTj2o_39.802885_-75.519785@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223724,
+    "wof:geomhash":"4f3b41810981323f6386b7c3d5b41255",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85820951,
+            "region_id":85688611,
+            "venue_id":873517079
+        }
+    ],
+    "wof:id":873517079,
+    "wof:lastmodified":1464223724,
+    "wof:name":"C E R T S Inc",
+    "wof:parent_id":85820951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -75.519785,
+    39.802885,
+    -75.519785,
+    39.802885
+],
+  "geometry": {"coordinates":[-75.519785,39.802885],"type":"Point"}
+}

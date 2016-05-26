@@ -1,0 +1,81 @@
+{
+  "id": 873519373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.507415,39.770335,-75.507415,39.770335",
+    "geom:latitude":39.770335,
+    "geom:longitude":-75.507415,
+    "iso:country":"US",
+    "sg:address":"522 Lennox Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 3485",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographic",
+        "darkroom"
+    ],
+    "sg:website":"http://www.bjphotostudio.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03pHGfjjB8kE7J4GtmQjwS_39.770335_-75.507415@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223849,
+    "wof:geomhash":"ff52fa36c0cd5c12d7fc00ef51ebc5ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873519373
+        }
+    ],
+    "wof:id":873519373,
+    "wof:lastmodified":1464223849,
+    "wof:name":"Bj Photo Studios",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental",
+        "photographers-portrait",
+        "photographic",
+        "darkroom"
+    ]
+},
+  "bbox": [
+    -75.507415,
+    39.770335,
+    -75.507415,
+    39.770335
+],
+  "geometry": {"coordinates":[-75.50741499999999,39.770335],"type":"Point"}
+}

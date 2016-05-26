@@ -1,0 +1,71 @@
+{
+  "id": 857724895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.663277,39.694939,-75.663277,39.694939",
+    "geom:latitude":39.694939,
+    "geom:longitude":-75.663277,
+    "iso:country":"US",
+    "sg:address":"1082 Old Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 4300",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oymPcMnsnM5vgVzJbBDxA_39.694939_-75.663277@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221341,
+    "wof:geomhash":"cbc644aefd1939b3c58b9645b296085d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":857724895
+        }
+    ],
+    "wof:id":857724895,
+    "wof:lastmodified":1464221341,
+    "wof:name":"Christiana Institute-Advanced",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.663277,
+    39.694939,
+    -75.663277,
+    39.694939
+],
+  "geometry": {"coordinates":[-75.66327699999999,39.694939],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873498775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.667998,38.710253,-75.667998,38.710253",
+    "geom:latitude":38.710253,
+    "geom:longitude":-75.667998,
+    "iso:country":"US",
+    "sg:address":"4244 Federalsburg Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 8017",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Nlfuzhp3x72x86EPgQqh2_38.710253_-75.667998@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222891,
+    "wof:geomhash":"f35ff499309ed3354d4c1af8149a0c3f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873498775
+        }
+    ],
+    "wof:id":873498775,
+    "wof:lastmodified":1464222891,
+    "wof:name":"Atlanta Heating & Air Cond",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.667998,
+    38.710253,
+    -75.667998,
+    38.710253
+],
+  "geometry": {"coordinates":[-75.667998,38.710253],"type":"Point"}
+}

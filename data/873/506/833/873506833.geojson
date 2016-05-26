@@ -1,0 +1,71 @@
+{
+  "id": 873506833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.495581,39.816635,-75.495581,39.816635",
+    "geom:latitude":39.816635,
+    "geom:longitude":-75.495581,
+    "iso:country":"US",
+    "sg:address":"2217 Jones Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 7375",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "appraiser"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ShJWrJc1wYarxnlULABLw_39.816635_-75.495581@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223231,
+    "wof:geomhash":"38c04a8dac761fde92725f8b36b02cc8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873506833
+        }
+    ],
+    "wof:id":873506833,
+    "wof:lastmodified":1464223231,
+    "wof:name":"Mullin Appraisal Svc",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appraiser"
+    ]
+},
+  "bbox": [
+    -75.495581,
+    39.816635,
+    -75.495581,
+    39.816635
+],
+  "geometry": {"coordinates":[-75.495581,39.816635],"type":"Point"}
+}

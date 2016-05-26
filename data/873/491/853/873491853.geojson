@@ -1,0 +1,71 @@
+{
+  "id": 873491853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599345,39.713229,-75.599345,39.713229",
+    "geom:latitude":39.713229,
+    "geom:longitude":-75.599345,
+    "iso:country":"US",
+    "sg:address":"11 Copper Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 9765",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cunrscWH7diHAlOJHaL1I_39.713229_-75.599345@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222561,
+    "wof:geomhash":"4eacb8ed0b003ba995dba0a1e2145b75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873491853
+        }
+    ],
+    "wof:id":873491853,
+    "wof:lastmodified":1464222561,
+    "wof:name":"Three Little Builders Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.599345,
+    39.713229,
+    -75.599345,
+    39.713229
+],
+  "geometry": {"coordinates":[-75.599345,39.713229],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873476067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541381,39.104981,-75.541381,39.104981",
+    "geom:latitude":39.104981,
+    "geom:longitude":-75.541381,
+    "iso:country":"US",
+    "sg:address":"4008 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 8743",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1guPN6aX7nLNREjvXXjId1_39.104981_-75.541381@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221951,
+    "wof:geomhash":"ec07de2a5280609a9429e38e579ea983",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873476067
+        }
+    ],
+    "wof:id":873476067,
+    "wof:lastmodified":1464221951,
+    "wof:name":"Prime Care Medical Transport",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger"
+    ]
+},
+  "bbox": [
+    -75.541381,
+    39.104981,
+    -75.541381,
+    39.104981
+],
+  "geometry": {"coordinates":[-75.541381,39.104981],"type":"Point"}
+}

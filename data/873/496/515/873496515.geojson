@@ -1,0 +1,82 @@
+{
+  "id": 873496515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.671173,39.7819,-75.671173,39.7819",
+    "geom:latitude":39.7819,
+    "geom:longitude":-75.671173,
+    "iso:country":"US",
+    "sg:address":"14 Cinnamon Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 7627",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "household",
+        "laundry",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mT2VyGRl0oJAmxJb2LGKy_39.781900_-75.671173@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222802,
+    "wof:geomhash":"1e7a5781929ffa0a37b9f8eb31c91e52",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873496515
+        }
+    ],
+    "wof:id":873496515,
+    "wof:lastmodified":1464222802,
+    "wof:name":"Alpha Chemicals",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "laundry",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.671173,
+    39.7819,
+    -75.671173,
+    39.7819
+],
+  "geometry": {"coordinates":[-75.671173,39.7819],"type":"Point"}
+}

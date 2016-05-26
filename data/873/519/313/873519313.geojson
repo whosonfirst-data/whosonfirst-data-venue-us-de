@@ -1,0 +1,74 @@
+{
+  "id": 873519313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.666066,39.732137,-75.666066,39.732137",
+    "geom:latitude":39.732137,
+    "geom:longitude":-75.666066,
+    "iso:country":"US",
+    "sg:address":"1313 Mckennans Church Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 0692",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0b22GVp1j2D2WuiiIX9bP0_39.732137_-75.666066@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223847,
+    "wof:geomhash":"a08a7747e59b86291d38245f6bf5d678",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873519313
+        }
+    ],
+    "wof:id":873519313,
+    "wof:lastmodified":1464223847,
+    "wof:name":"Carney's Pub",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -75.666066,
+    39.732137,
+    -75.666066,
+    39.732137
+],
+  "geometry": {"coordinates":[-75.666066,39.732137],"type":"Point"}
+}

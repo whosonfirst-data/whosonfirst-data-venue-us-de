@@ -1,0 +1,75 @@
+{
+  "id": 873485993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525237,39.179236,-75.525237,39.179236",
+    "geom:latitude":39.179236,
+    "geom:longitude":-75.525237,
+    "iso:country":"US",
+    "sg:address":"653 Jefferic Blvd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 0433",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sphymD6RlA0iuZWkjIAJe_39.179236_-75.525237@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222341,
+    "wof:geomhash":"d1cdab6a2827e37d6a9ce333cc1862ea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873485993
+        }
+    ],
+    "wof:id":873485993,
+    "wof:lastmodified":1464222341,
+    "wof:name":"Public Storage Inc",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.525237,
+    39.179236,
+    -75.525237,
+    39.179236
+],
+  "geometry": {"coordinates":[-75.525237,39.179236],"type":"Point"}
+}

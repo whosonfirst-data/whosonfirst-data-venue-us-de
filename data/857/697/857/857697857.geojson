@@ -1,0 +1,71 @@
+{
+  "id": 857697857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.680904,39.674348,-75.680904,39.674348",
+    "geom:latitude":39.674348,
+    "geom:longitude":-75.680904,
+    "iso:country":"US",
+    "sg:address":"98 S Gerald Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9829",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5DAW6arjiDJEjoPeezAhYV_39.674348_-75.680904@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220771,
+    "wof:geomhash":"d57b20ac03332e81ef48ee63314f737e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857697857
+        }
+    ],
+    "wof:id":857697857,
+    "wof:lastmodified":1464220771,
+    "wof:name":"National Income Tax Svc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -75.680904,
+    39.674348,
+    -75.680904,
+    39.674348
+],
+  "geometry": {"coordinates":[-75.680904,39.674348],"type":"Point"}
+}

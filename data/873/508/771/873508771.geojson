@@ -1,0 +1,75 @@
+{
+  "id": 873508771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.77007,39.65201,-75.77007,39.65201",
+    "geom:latitude":39.65201,
+    "geom:longitude":-75.77007,
+    "iso:country":"US",
+    "sg:address":"24 Ohio State Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 0388",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "dealership",
+        "location",
+        "internet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hdpxzzGsHydze7QoaJnEJ_39.652010_-75.770070@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223321,
+    "wof:geomhash":"0881bae6f6940d16a993330b65a36cdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873508771
+        }
+    ],
+    "wof:id":873508771,
+    "wof:lastmodified":1464223321,
+    "wof:name":"Bell Automotive Group  Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "dealership",
+        "location",
+        "internet"
+    ]
+},
+  "bbox": [
+    -75.77007,
+    39.65201,
+    -75.77007,
+    39.65201
+],
+  "geometry": {"coordinates":[-75.77007,39.65201],"type":"Point"}
+}

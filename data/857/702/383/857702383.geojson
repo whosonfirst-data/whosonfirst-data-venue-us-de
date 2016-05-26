@@ -1,0 +1,68 @@
+{
+  "id": 857702383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.664303,39.773304,-75.664303,39.773304",
+    "geom:latitude":39.773304,
+    "geom:longitude":-75.664303,
+    "iso:country":"US",
+    "sg:address":"726 Loveville Rd",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 235 6895",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wqJkIkjSgiESh5OCQBL6f_39.773304_-75.664303@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220866,
+    "wof:geomhash":"8db1489473ae4d34cdf3d570a403c2e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":857702383
+        }
+    ],
+    "wof:id":857702383,
+    "wof:lastmodified":1464220866,
+    "wof:name":"Delaware Healthcare Facilities",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.664303,
+    39.773304,
+    -75.664303,
+    39.773304
+],
+  "geometry": {"coordinates":[-75.664303,39.773304],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873494683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60515,39.738661,-75.60515,39.738661",
+    "geom:latitude":39.738661,
+    "geom:longitude":-75.60515,
+    "iso:country":"US",
+    "sg:address":"1500 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 9331",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "convenience",
+        "station",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0CSoPXfJL2DqDXPVQs2tZK_39.738661_-75.605150@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222691,
+    "wof:geomhash":"4b22f57dbd4b9492577fe21e9dffc199",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873494683
+        }
+    ],
+    "wof:id":873494683,
+    "wof:lastmodified":1464222691,
+    "wof:name":"A Plus Mini Market",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "convenience",
+        "station",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.60515,
+    39.738661,
+    -75.60515,
+    39.738661
+],
+  "geometry": {"coordinates":[-75.60514999999999,39.738661],"type":"Point"}
+}

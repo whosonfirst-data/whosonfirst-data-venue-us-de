@@ -1,0 +1,83 @@
+{
+  "id": 857696425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553834,39.742395,-75.553834,39.742395",
+    "geom:latitude":39.742395,
+    "geom:longitude":-75.553834,
+    "iso:country":"US",
+    "sg:address":"401 N West St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 4491",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_261UhCLZQctuOGHfwBI69w_39.742395_-75.553834@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220744,
+    "wof:geomhash":"f90035bbb37c1c52befcb3fa59f6009f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857696425
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857696425
+        }
+    ],
+    "wof:id":857696425,
+    "wof:lastmodified":1464220744,
+    "wof:name":"Friends Meeting",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.553834,
+    39.742395,
+    -75.553834,
+    39.742395
+],
+  "geometry": {"coordinates":[-75.55383399999999,39.742395],"type":"Point"}
+}

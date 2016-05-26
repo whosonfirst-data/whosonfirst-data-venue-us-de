@@ -1,0 +1,78 @@
+{
+  "id": 873518477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571053,39.747719,-75.571053,39.747719",
+    "geom:latitude":39.747719,
+    "geom:longitude":-75.571053,
+    "iso:country":"US",
+    "sg:address":"1800 W 3rd St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5797",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MerTE04e0wloPBUeg3O5Y_39.747719_-75.571053@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223813,
+    "wof:geomhash":"cac2bedcc3a3a54b243d8eb6c2d46214",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873518477
+        }
+    ],
+    "wof:id":873518477,
+    "wof:lastmodified":1464223813,
+    "wof:name":"Fidance's Deli",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -75.571053,
+    39.747719,
+    -75.571053,
+    39.747719
+],
+  "geometry": {"coordinates":[-75.57105300000001,39.747719],"type":"Point"}
+}

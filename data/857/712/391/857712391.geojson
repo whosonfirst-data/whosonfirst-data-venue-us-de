@@ -1,0 +1,69 @@
+{
+  "id": 857712391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.673622,39.711977,-75.673622,39.711977",
+    "geom:latitude":39.711977,
+    "geom:longitude":-75.673622,
+    "iso:country":"US",
+    "sg:address":"5600 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8477",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "caterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uQfV8SpVNA62tu2uvTaOu_39.711977_-75.673622@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221096,
+    "wof:geomhash":"7a4138d4c6aefbe89c0362330048b00e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":857712391
+        }
+    ],
+    "wof:id":857712391,
+    "wof:lastmodified":1464221096,
+    "wof:name":"Farmhouse The",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "caterer"
+    ]
+},
+  "bbox": [
+    -75.673622,
+    39.711977,
+    -75.673622,
+    39.711977
+],
+  "geometry": {"coordinates":[-75.67362199999999,39.711977],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873494345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550983,39.741028,-75.550983,39.741028",
+    "geom:latitude":39.741028,
+    "geom:longitude":-75.550983,
+    "iso:country":"US",
+    "sg:address":"423 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 1672",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65ViGHqIt3ZKmkQMEo708h_39.741028_-75.550983@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222677,
+    "wof:geomhash":"52e3b0ec48a725e8927e6c60a527803c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873494345
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873494345
+        }
+    ],
+    "wof:id":873494345,
+    "wof:lastmodified":1464222677,
+    "wof:name":"Mc Cready Royal Bouquet",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.550983,
+    39.741028,
+    -75.550983,
+    39.741028
+],
+  "geometry": {"coordinates":[-75.550983,39.741028],"type":"Point"}
+}

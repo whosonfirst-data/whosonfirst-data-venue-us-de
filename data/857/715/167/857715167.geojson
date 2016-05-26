@@ -1,0 +1,71 @@
+{
+  "id": 857715167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552413,39.07107,-75.552413,39.07107",
+    "geom:latitude":39.07107,
+    "geom:longitude":-75.552413,
+    "iso:country":"US",
+    "sg:address":"492 Walnut Shade Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 0955",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s2K4guhrPLthZsDHC6nag_39.071070_-75.552413@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221151,
+    "wof:geomhash":"8973c8e3a607dbde85ec63634448ba8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857715167
+        }
+    ],
+    "wof:id":857715167,
+    "wof:lastmodified":1464221151,
+    "wof:name":"Cody's Restaurant",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.552413,
+    39.07107,
+    -75.552413,
+    39.07107
+],
+  "geometry": {"coordinates":[-75.552413,39.07107],"type":"Point"}
+}

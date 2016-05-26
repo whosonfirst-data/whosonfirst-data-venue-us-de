@@ -1,0 +1,74 @@
+{
+  "id": 873497969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.478136,39.778979,-75.478136,39.778979",
+    "geom:latitude":39.778979,
+    "geom:longitude":-75.478136,
+    "iso:country":"US",
+    "sg:address":"6611 Governor Printz Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Motorcycle Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 6900",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "scooter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58c98r9kLAgukOa9a21hD7_39.778979_-75.478136@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222860,
+    "wof:geomhash":"40dd495ed5ad341926ce20206dc5240b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873497969
+        }
+    ],
+    "wof:id":873497969,
+    "wof:lastmodified":1464222860,
+    "wof:name":"Freedom Cycle LLC",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooter"
+    ]
+},
+  "bbox": [
+    -75.478136,
+    39.778979,
+    -75.478136,
+    39.778979
+],
+  "geometry": {"coordinates":[-75.47813600000001,39.778979],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873473999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.740135,39.684004,-75.740135,39.684004",
+    "geom:latitude":39.684004,
+    "geom:longitude":-75.740135,
+    "iso:country":"US",
+    "sg:address":"341 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 8808",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0d3XYmR9NpnvzawF0M3XMR_39.684004_-75.740135@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221881,
+    "wof:geomhash":"1edafe1d5fdc816b762127862e29f5f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873473999
+        }
+    ],
+    "wof:id":873473999,
+    "wof:lastmodified":1464221881,
+    "wof:name":"Omega Medical Laboratories",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.740135,
+    39.684004,
+    -75.740135,
+    39.684004
+],
+  "geometry": {"coordinates":[-75.740135,39.684004],"type":"Point"}
+}

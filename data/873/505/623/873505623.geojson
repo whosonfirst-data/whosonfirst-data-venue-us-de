@@ -1,0 +1,71 @@
+{
+  "id": 873505623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.651792,39.052336,-75.651792,39.052336",
+    "geom:latitude":39.052336,
+    "geom:longitude":-75.651792,
+    "iso:country":"US",
+    "sg:address":"123 Cow Marsh Creek Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9222",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7KtH9bm5ntl8gmicrmLtJQ_39.052336_-75.651792@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223184,
+    "wof:geomhash":"6d7211116f3c883618c927e800e8d754",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873505623
+        }
+    ],
+    "wof:id":873505623,
+    "wof:lastmodified":1464223184,
+    "wof:name":"Cook's Saddlery",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -75.651792,
+    39.052336,
+    -75.651792,
+    39.052336
+],
+  "geometry": {"coordinates":[-75.651792,39.052336],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857721489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601303,38.743492,-75.601303,38.743492",
+    "geom:latitude":38.743492,
+    "geom:longitude":-75.601303,
+    "iso:country":"US",
+    "sg:address":"102 Williams St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 7600",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "historical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63crKTVgLkWWm04u8ZPGut_38.743492_-75.601303@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221280,
+    "wof:geomhash":"ac9773eef3d2fae785597bc8906ba059",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857721489
+        }
+    ],
+    "wof:id":857721489,
+    "wof:lastmodified":1464221280,
+    "wof:name":"Bridgeville Historical Inc",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "historical"
+    ]
+},
+  "bbox": [
+    -75.601303,
+    38.743492,
+    -75.601303,
+    38.743492
+],
+  "geometry": {"coordinates":[-75.601303,38.743492],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873487113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.530866,39.128408,-75.530866,39.128408",
+    "geom:latitude":39.128408,
+    "geom:longitude":-75.530866,
+    "iso:country":"US",
+    "sg:address":"1600 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5266",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5c6CT0NKFsJz1DpS7jdX0k_39.128408_-75.530866@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222383,
+    "wof:geomhash":"04064e1bec85f3f7f076708044a1db01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873487113
+        }
+    ],
+    "wof:id":873487113,
+    "wof:lastmodified":1464222383,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.530866,
+    39.128408,
+    -75.530866,
+    39.128408
+],
+  "geometry": {"coordinates":[-75.530866,39.128408],"type":"Point"}
+}

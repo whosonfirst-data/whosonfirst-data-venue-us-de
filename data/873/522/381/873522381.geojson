@@ -1,0 +1,90 @@
+{
+  "id": 873522381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528758,39.150224,-75.528758,39.150224",
+    "geom:latitude":39.150224,
+    "geom:longitude":-75.528758,
+    "iso:country":"US",
+    "sg:address":"737 S Queen St Ste 3",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 8855",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "osteopathic",
+        "medicine",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dB7Wsy1dmfntQ52vwBGnG_39.150224_-75.528758@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223980,
+    "wof:geomhash":"ee043ccc97ddb32e654d3dce7d699083",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873522381
+        }
+    ],
+    "wof:id":873522381,
+    "wof:lastmodified":1464223980,
+    "wof:name":"Joseph Parise Md",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "practice",
+        "surgeons",
+        "osteopathic",
+        "medicine",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.528758,
+    39.150224,
+    -75.528758,
+    39.150224
+],
+  "geometry": {"coordinates":[-75.528758,39.150224],"type":"Point"}
+}

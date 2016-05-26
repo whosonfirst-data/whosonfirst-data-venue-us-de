@@ -1,0 +1,71 @@
+{
+  "id": 873469441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746217,39.616124,-75.746217,39.616124",
+    "geom:latitude":39.616124,
+    "geom:longitude":-75.746217,
+    "iso:country":"US",
+    "sg:address":"225 Corporate Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 6600",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "insurance",
+        "unemployment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2j6yGI3de85yG726NfIcEr_39.616124_-75.746217@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221702,
+    "wof:geomhash":"03cc07fa6a53327cff5bc401a32ca7e5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873469441
+        }
+    ],
+    "wof:id":873469441,
+    "wof:lastmodified":1464221702,
+    "wof:name":"Delaware Dept Labor/Unemploymt",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insurance",
+        "unemployment"
+    ]
+},
+  "bbox": [
+    -75.746217,
+    39.616124,
+    -75.746217,
+    39.616124
+],
+  "geometry": {"coordinates":[-75.746217,39.616124],"type":"Point"}
+}

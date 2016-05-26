@@ -1,0 +1,73 @@
+{
+  "id": 873511851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.510803,39.813,-75.510803,39.813",
+    "geom:latitude":39.813,
+    "geom:longitude":-75.510803,
+    "iso:country":"US",
+    "sg:address":"2000 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 3110",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist",
+        "orthodontist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3BtFluFUgh32xwtnEwKM9b_39.812763_-75.510918@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223467,
+    "wof:geomhash":"97433a03528c266d0b64f1e2945a40ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873511851
+        }
+    ],
+    "wof:id":873511851,
+    "wof:lastmodified":1464223467,
+    "wof:name":"George T Derenzo DDS",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist",
+        "orthodontist"
+    ]
+},
+  "bbox": [
+    -75.510803,
+    39.813,
+    -75.510803,
+    39.813
+],
+  "geometry": {"coordinates":[-75.510803,39.813],"type":"Point"}
+}

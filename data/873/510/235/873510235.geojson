@@ -1,0 +1,71 @@
+{
+  "id": 873510235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.560637,38.986845,-75.560637,38.986845",
+    "geom:latitude":38.986845,
+    "geom:longitude":-75.560637,
+    "iso:country":"US",
+    "sg:address":"5856 Killens Pond Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4411",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grain",
+        "farmer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4cbWPELIc4V2uh3czCj6Ox_38.986845_-75.560637@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223386,
+    "wof:geomhash":"b957b5ab76385661950ac116eaf4d953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873510235
+        }
+    ],
+    "wof:id":873510235,
+    "wof:lastmodified":1464223386,
+    "wof:name":"Winkler David Farms",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "farmer"
+    ]
+},
+  "bbox": [
+    -75.560637,
+    38.986845,
+    -75.560637,
+    38.986845
+],
+  "geometry": {"coordinates":[-75.560637,38.986845],"type":"Point"}
+}

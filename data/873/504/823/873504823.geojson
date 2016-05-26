@@ -1,0 +1,71 @@
+{
+  "id": 873504823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.639955,39.733344,-75.639955,39.733344",
+    "geom:latitude":39.733344,
+    "geom:longitude":-75.639955,
+    "iso:country":"US",
+    "sg:address":"3733 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 4970",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Y2NIK7A7xsDmzMSgf002A_39.733344_-75.639955@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223149,
+    "wof:geomhash":"cc792e6916063b817b697a7fdfcc1bfd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873504823
+        }
+    ],
+    "wof:id":873504823,
+    "wof:lastmodified":1464223149,
+    "wof:name":"Tulip's Nail Salon",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -75.639955,
+    39.733344,
+    -75.639955,
+    39.733344
+],
+  "geometry": {"coordinates":[-75.639955,39.733344],"type":"Point"}
+}

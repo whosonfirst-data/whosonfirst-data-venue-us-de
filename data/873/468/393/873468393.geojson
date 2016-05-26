@@ -1,0 +1,68 @@
+{
+  "id": 873468393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523632,39.158108,-75.523632,39.158108",
+    "geom:latitude":39.158108,
+    "geom:longitude":-75.523632,
+    "iso:country":"US",
+    "sg:address":"24 E Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 5574",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VF5j7FhiwxJJwErLB3LAw_39.158108_-75.523632@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221666,
+    "wof:geomhash":"921b25a75c32a91769c17fc9bc40e221",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873468393
+        }
+    ],
+    "wof:id":873468393,
+    "wof:lastmodified":1464221666,
+    "wof:name":"C Moores Place",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.523632,
+    39.158108,
+    -75.523632,
+    39.158108
+],
+  "geometry": {"coordinates":[-75.52363200000001,39.158108],"type":"Point"}
+}

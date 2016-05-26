@@ -1,0 +1,71 @@
+{
+  "id": 873475531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563802,39.802208,-75.563802,39.802208",
+    "geom:latitude":39.802208,
+    "geom:longitude":-75.563802,
+    "iso:country":"US",
+    "sg:address":"708 Kilburn Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 9820",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21RQ5bLBSqkvqgnaEv1Qem_39.802208_-75.563802@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221933,
+    "wof:geomhash":"fde60abc1a6b3f1afd1c3e930cb52307",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873475531
+        }
+    ],
+    "wof:id":873475531,
+    "wof:lastmodified":1464221933,
+    "wof:name":"Infinite Systems Inc",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "business"
+    ]
+},
+  "bbox": [
+    -75.563802,
+    39.802208,
+    -75.563802,
+    39.802208
+],
+  "geometry": {"coordinates":[-75.563802,39.802208],"type":"Point"}
+}

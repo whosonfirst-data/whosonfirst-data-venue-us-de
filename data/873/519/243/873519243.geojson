@@ -1,0 +1,100 @@
+{
+  "id": 873519243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.636833,39.730099,-75.636833,39.730099",
+    "geom:latitude":39.730099,
+    "geom:longitude":-75.636833,
+    "iso:country":"US",
+    "sg:address":"1001 Greenbank Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Hardware",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Party Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6925",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "moving-self",
+        "yard",
+        "toilets-portable",
+        "truck",
+        "hardware-builders",
+        "store"
+    ],
+    "sg:website":"http://www.uhaul.com/Locations/Rentals-near-Wilmington-DE-19808/001677",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xv0zGc4ZM5gfd8j0OUXko_39.730099_-75.636833@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223843,
+    "wof:geomhash":"7b2d9f0f9c4080f564745bf27d2022fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873519243
+        }
+    ],
+    "wof:id":873519243,
+    "wof:lastmodified":1464223843,
+    "wof:name":"U-Haul Neighborhood Dealer - Delaware Equipment Rental",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving-self",
+        "yard",
+        "toilets-portable",
+        "truck",
+        "hardware-builders",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.636833,
+    39.730099,
+    -75.636833,
+    39.730099
+],
+  "geometry": {"coordinates":[-75.636833,39.730099],"type":"Point"}
+}

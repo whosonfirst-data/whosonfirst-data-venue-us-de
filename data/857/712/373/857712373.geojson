@@ -1,0 +1,75 @@
+{
+  "id": 857712373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549145,39.749353,-75.549145,39.749353",
+    "geom:latitude":39.749353,
+    "geom:longitude":-75.549145,
+    "iso:country":"US",
+    "sg:address":"1219 N West St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 4900",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zQE9LQoWADKgYlgbBMAUf_39.749353_-75.549145@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221096,
+    "wof:geomhash":"5b2d1cce37201bac48dfed9277e87164",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888517,
+            "region_id":85688611,
+            "venue_id":857712373
+        }
+    ],
+    "wof:id":857712373,
+    "wof:lastmodified":1464221096,
+    "wof:name":"First Lincoln Holdings Inc",
+    "wof:parent_id":85888517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -75.549145,
+    39.749353,
+    -75.549145,
+    39.749353
+],
+  "geometry": {"coordinates":[-75.549145,39.749353],"type":"Point"}
+}

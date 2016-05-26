@@ -1,0 +1,76 @@
+{
+  "id": 873477911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.629174,38.871533,-75.629174,38.871533",
+    "geom:latitude":38.871533,
+    "geom:longitude":-75.629174,
+    "iso:country":"US",
+    "sg:address":"791 Prospect Church Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 8481",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IP7ttJuDXY9tzw0vsG7Vk_38.871533_-75.629174@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222015,
+    "wof:geomhash":"680e99ab33c4da478f712991ed45660f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873477911
+        }
+    ],
+    "wof:id":873477911,
+    "wof:lastmodified":1464222015,
+    "wof:name":"Gallo Gene & Sons Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.629174,
+    38.871533,
+    -75.629174,
+    38.871533
+],
+  "geometry": {"coordinates":[-75.62917400000001,38.871533],"type":"Point"}
+}

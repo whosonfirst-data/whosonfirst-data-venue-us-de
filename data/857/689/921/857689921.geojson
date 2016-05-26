@@ -1,0 +1,73 @@
+{
+  "id": 857689921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57792,39.745744,-75.57792,39.745744",
+    "geom:latitude":39.745744,
+    "geom:longitude":-75.57792,
+    "iso:country":"US",
+    "sg:address":"209 S Bancroft Pkwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 6368",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "window"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IZ6P8hesvxn71AV4Q8UFd_39.745744_-75.577920@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220616,
+    "wof:geomhash":"409f83cf3b9330acbab7d0c204eab0b0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":857689921
+        }
+    ],
+    "wof:id":857689921,
+    "wof:lastmodified":1464220616,
+    "wof:name":"David's Residential Window",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "window"
+    ]
+},
+  "bbox": [
+    -75.57792,
+    39.745744,
+    -75.57792,
+    39.745744
+],
+  "geometry": {"coordinates":[-75.57792000000001,39.745744],"type":"Point"}
+}

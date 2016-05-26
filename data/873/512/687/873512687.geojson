@@ -1,0 +1,69 @@
+{
+  "id": 873512687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525803,39.144001,-75.525803,39.144001",
+    "geom:latitude":39.144001,
+    "geom:longitude":-75.525803,
+    "iso:country":"US",
+    "sg:address":"210 Wyoming Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9901",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "notary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70ZIXD2jJtFXUsEkXze6wB_39.143832_-75.526519@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223500,
+    "wof:geomhash":"695ea9e14902b0709ce42c29e2b578cf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873512687
+        }
+    ],
+    "wof:id":873512687,
+    "wof:lastmodified":1464223500,
+    "wof:name":"Hollingsworth Insurance Agcy",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary"
+    ]
+},
+  "bbox": [
+    -75.525803,
+    39.144001,
+    -75.525803,
+    39.144001
+],
+  "geometry": {"coordinates":[-75.525803,39.144001],"type":"Point"}
+}

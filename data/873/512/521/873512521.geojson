@@ -1,0 +1,71 @@
+{
+  "id": 873512521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.691147,39.6712,-75.691147,39.6712",
+    "geom:latitude":39.6712,
+    "geom:longitude":-75.691147,
+    "iso:country":"US",
+    "sg:address":"630 S Brownleaf Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 0200",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrician",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cYADyexxVYvwoMRTmRS2c_39.671620_-75.690450@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223494,
+    "wof:geomhash":"6bedb793d4825941c56389cfa7529e88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512521
+        }
+    ],
+    "wof:id":873512521,
+    "wof:lastmodified":1464223494,
+    "wof:name":"Conti Electric, Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrician",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.691147,
+    39.6712,
+    -75.691147,
+    39.6712
+],
+  "geometry": {"coordinates":[-75.691147,39.6712],"type":"Point"}
+}

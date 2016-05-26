@@ -1,0 +1,75 @@
+{
+  "id": 857726661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745022,39.683591,-75.745022,39.683591",
+    "geom:latitude":39.683591,
+    "geom:longitude":-75.745022,
+    "iso:country":"US",
+    "sg:address":"221 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 5500",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "sg:website":"www.dollartree.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29YIGZDZIAgO7DQmqg7PA9_39.683591_-75.745022@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221372,
+    "wof:geomhash":"d6ac27cc551ea2ce0183e2c78f9ecc2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857726661
+        }
+    ],
+    "wof:id":857726661,
+    "wof:lastmodified":1464221372,
+    "wof:name":"Dollar Tree",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.745022,
+    39.683591,
+    -75.745022,
+    39.683591
+],
+  "geometry": {"coordinates":[-75.74502200000001,39.683591],"type":"Point"}
+}

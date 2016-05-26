@@ -1,0 +1,71 @@
+{
+  "id": 873478129,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5437,39.808771,-75.5437,39.808771",
+    "geom:latitude":39.808771,
+    "geom:longitude":-75.5437,
+    "iso:country":"US",
+    "sg:address":"3524 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 4648",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instruction",
+        "music"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hC01H3u2MAJFrK2hwyWz7_39.808771_-75.543700@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222023,
+    "wof:geomhash":"d956192842299e8fe06c321be2d948ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873478129
+        }
+    ],
+    "wof:id":873478129,
+    "wof:lastmodified":1464222023,
+    "wof:name":"Instrumental Music Programs",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "music"
+    ]
+},
+  "bbox": [
+    -75.5437,
+    39.808771,
+    -75.5437,
+    39.808771
+],
+  "geometry": {"coordinates":[-75.5437,39.808771],"type":"Point"}
+}

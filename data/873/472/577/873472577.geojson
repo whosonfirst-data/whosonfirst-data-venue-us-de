@@ -1,0 +1,69 @@
+{
+  "id": 873472577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577385,39.017873,-75.577385,39.017873",
+    "geom:latitude":39.017873,
+    "geom:longitude":-75.577385,
+    "iso:country":"US",
+    "sg:address":"1080 Peach Basket Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 1192",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MZQhAmVZ3oTjDQGwplqpR_39.017873_-75.577385@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221827,
+    "wof:geomhash":"0e9bb50ba28854dd53fbf7c15f0a0bd7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873472577
+        }
+    ],
+    "wof:id":873472577,
+    "wof:lastmodified":1464221827,
+    "wof:name":"W&R Contractors",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.577385,
+    39.017873,
+    -75.577385,
+    39.017873
+],
+  "geometry": {"coordinates":[-75.57738500000001,39.017873],"type":"Point"}
+}

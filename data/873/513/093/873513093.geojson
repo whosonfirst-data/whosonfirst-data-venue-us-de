@@ -1,0 +1,72 @@
+{
+  "id": 873513093,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.683349,39.707897,-75.683349,39.707897",
+    "geom:latitude":39.707897,
+    "geom:longitude":-75.683349,
+    "iso:country":"US",
+    "sg:address":"2690 Kirkwood Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/166641-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 0155",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3G95SX1r9dPIpBd32T3j0l_39.707897_-75.683349@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223516,
+    "wof:geomhash":"dd2f4536dae3bf1f65298566ff7473b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873513093
+        }
+    ],
+    "wof:id":873513093,
+    "wof:lastmodified":1464223516,
+    "wof:name":"Burger King",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.683349,
+    39.707897,
+    -75.683349,
+    39.707897
+],
+  "geometry": {"coordinates":[-75.68334900000001,39.707897],"type":"Point"}
+}

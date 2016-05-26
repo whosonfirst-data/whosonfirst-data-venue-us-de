@@ -1,0 +1,78 @@
+{
+  "id": 873512445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5252,39.1455,-75.5252,39.1455",
+    "geom:latitude":39.1455,
+    "geom:longitude":-75.5252,
+    "iso:country":"US",
+    "sg:address":"911 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 4653",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "investor",
+        "service/non-profit",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Ynv88ZmD2H9wX2xXaS8c2_39.145034_-75.525259@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223491,
+    "wof:geomhash":"38e734fe0604c1b9e9de63539c829220",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873512445
+        }
+    ],
+    "wof:id":873512445,
+    "wof:lastmodified":1464223491,
+    "wof:name":"Delaware State Grange",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investor",
+        "service/non-profit",
+        "community"
+    ]
+},
+  "bbox": [
+    -75.5252,
+    39.1455,
+    -75.5252,
+    39.1455
+],
+  "geometry": {"coordinates":[-75.5252,39.1455],"type":"Point"}
+}

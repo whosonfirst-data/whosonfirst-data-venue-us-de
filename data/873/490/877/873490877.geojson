@@ -1,0 +1,73 @@
+{
+  "id": 873490877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.38899,38.69086,-75.38899,38.69086",
+    "geom:latitude":38.69086,
+    "geom:longitude":-75.38899,
+    "iso:country":"US",
+    "sg:address":"106 N Front St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 9274",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2O0sWxvKT4CSN3oNhG1Kii_38.690860_-75.388990@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222526,
+    "wof:geomhash":"27e7cffe631937b4f006c872f5a3c4f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873490877
+        }
+    ],
+    "wof:id":873490877,
+    "wof:lastmodified":1464222526,
+    "wof:name":"Evans Apiaries",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.38899,
+    38.69086,
+    -75.38899,
+    38.69086
+],
+  "geometry": {"coordinates":[-75.38899000000001,38.69086],"type":"Point"}
+}

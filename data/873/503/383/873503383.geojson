@@ -1,0 +1,71 @@
+{
+  "id": 873503383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.134304,38.630959,-75.134304,38.630959",
+    "geom:latitude":38.630959,
+    "geom:longitude":-75.134304,
+    "iso:country":"US",
+    "sg:address":"230 Main St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 9071",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vQOMFXIUxd6jSMkd9sNJG_38.630959_-75.134304@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223078,
+    "wof:geomhash":"d04312665de094741e0b0899a0064092",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873503383
+        }
+    ],
+    "wof:id":873503383,
+    "wof:lastmodified":1464223078,
+    "wof:name":"Dance Alley",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -75.134304,
+    38.630959,
+    -75.134304,
+    38.630959
+],
+  "geometry": {"coordinates":[-75.134304,38.630959],"type":"Point"}
+}

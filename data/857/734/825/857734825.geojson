@@ -1,0 +1,75 @@
+{
+  "id": 857734825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.702772,39.801325,-75.702772,39.801325",
+    "geom:latitude":39.801325,
+    "geom:longitude":-75.702772,
+    "iso:country":"US",
+    "sg:address":"48 W Belmont Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 0765",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85827779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HiYrmdt1uoypwC42FeMnw_39.801325_-75.702772@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221536,
+    "wof:geomhash":"056a9048549a000a508cff21a11a6743",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85827779,
+            "region_id":85688611,
+            "venue_id":857734825
+        }
+    ],
+    "wof:id":857734825,
+    "wof:lastmodified":1464221536,
+    "wof:name":"DAMI-Deluxe Automotive Inc",
+    "wof:parent_id":85827779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -75.702772,
+    39.801325,
+    -75.702772,
+    39.801325
+],
+  "geometry": {"coordinates":[-75.702772,39.801325],"type":"Point"}
+}

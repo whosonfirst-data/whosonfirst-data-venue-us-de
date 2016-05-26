@@ -1,0 +1,71 @@
+{
+  "id": 873481353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54789,39.801155,-75.54789,39.801155",
+    "geom:latitude":39.801155,
+    "geom:longitude":-75.54789,
+    "iso:country":"US",
+    "sg:address":"3203 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5200",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TplNvC2BEb9efyCs7GBGE_39.801155_-75.547890@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222167,
+    "wof:geomhash":"3f93a29abf719e73e8e28b2b15e147ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873481353
+        }
+    ],
+    "wof:id":873481353,
+    "wof:lastmodified":1464222167,
+    "wof:name":"Eldercare",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -75.54789,
+    39.801155,
+    -75.54789,
+    39.801155
+],
+  "geometry": {"coordinates":[-75.54789,39.801155],"type":"Point"}
+}

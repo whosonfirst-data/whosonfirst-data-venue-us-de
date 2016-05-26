@@ -1,0 +1,88 @@
+{
+  "id": 873520427,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.519152,39.810472,-75.519152,39.810472",
+    "geom:latitude":39.810472,
+    "geom:longitude":-75.519152,
+    "iso:country":"US",
+    "sg:address":"2700 Silverside Rd Ste 2B",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 3040",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fitness",
+        "consultant",
+        "program",
+        "nutritionist",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.symmetrychiro.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZV6T6qJ4mAtkp2FU7JaYN_39.810472_-75.519152@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223902,
+    "wof:geomhash":"dc9cfb92c860aed0bbbfc4bcdf05343f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873520427
+        }
+    ],
+    "wof:id":873520427,
+    "wof:lastmodified":1464223902,
+    "wof:name":"Symmetry Chiropractic Inc",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fitness",
+        "consultant",
+        "program",
+        "nutritionist",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -75.519152,
+    39.810472,
+    -75.519152,
+    39.810472
+],
+  "geometry": {"coordinates":[-75.51915200000001,39.810472],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873502183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.656913,39.754204,-75.656913,39.754204",
+    "geom:latitude":39.754204,
+    "geom:longitude":-75.656913,
+    "iso:country":"US",
+    "sg:address":"114 Bromley Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 0410",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "abstract",
+        "title"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20VAPSyVQOUVZfHIU3wsSU_39.754204_-75.656913@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223035,
+    "wof:geomhash":"fe813bdabf66742901dcac82e8a4b75e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873502183
+        }
+    ],
+    "wof:id":873502183,
+    "wof:lastmodified":1464223035,
+    "wof:name":"C & S Search and Abstract",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "abstract",
+        "title"
+    ]
+},
+  "bbox": [
+    -75.656913,
+    39.754204,
+    -75.656913,
+    39.754204
+],
+  "geometry": {"coordinates":[-75.656913,39.754204],"type":"Point"}
+}

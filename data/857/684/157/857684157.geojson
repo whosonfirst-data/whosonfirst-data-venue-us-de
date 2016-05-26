@@ -1,0 +1,71 @@
+{
+  "id": 857684157,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.677337,39.704318,-75.677337,39.704318",
+    "geom:latitude":39.704318,
+    "geom:longitude":-75.677337,
+    "iso:country":"US",
+    "sg:address":"343 Nicholas Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 9893",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PTIKdoIZIR2Ae7Ie4jNgo_39.704318_-75.677337@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220505,
+    "wof:geomhash":"8c119215cb3666bda0597f4615dbca88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":857684157
+        }
+    ],
+    "wof:id":857684157,
+    "wof:lastmodified":1464220505,
+    "wof:name":"Stork Electric",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.677337,
+    39.704318,
+    -75.677337,
+    39.704318
+],
+  "geometry": {"coordinates":[-75.67733699999999,39.704318],"type":"Point"}
+}

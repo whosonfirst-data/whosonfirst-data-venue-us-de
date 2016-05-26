@@ -1,0 +1,75 @@
+{
+  "id": 873486845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504153,39.168711,-75.504153,39.168711",
+    "geom:latitude":39.168711,
+    "geom:longitude":-75.504153,
+    "iso:country":"US",
+    "sg:address":"101 Nixon Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8299",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Q7uLzr5cD3PNVP5B3i0Ga_39.168711_-75.504153@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222372,
+    "wof:geomhash":"0717cffd7116b3d8c9b61f714c57c0d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873486845
+        }
+    ],
+    "wof:id":873486845,
+    "wof:lastmodified":1464222372,
+    "wof:name":"Angel Dental Lab",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -75.504153,
+    39.168711,
+    -75.504153,
+    39.168711
+],
+  "geometry": {"coordinates":[-75.504153,39.168711],"type":"Point"}
+}

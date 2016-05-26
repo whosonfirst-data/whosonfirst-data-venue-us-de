@@ -1,0 +1,75 @@
+{
+  "id": 857692209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546638,39.756755,-75.546638,39.756755",
+    "geom:latitude":39.756755,
+    "geom:longitude":-75.546638,
+    "iso:country":"US",
+    "sg:address":"1800 N Monroe St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 8981",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_54e4ZTcoiLBfRONzNI1RoO_39.756755_-75.546638@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220665,
+    "wof:geomhash":"96ebf738887e0e188125e81678dffc3d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":857692209
+        }
+    ],
+    "wof:id":857692209,
+    "wof:lastmodified":1464220665,
+    "wof:name":"Andrew Properties LLC",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.546638,
+    39.756755,
+    -75.546638,
+    39.756755
+],
+  "geometry": {"coordinates":[-75.546638,39.756755],"type":"Point"}
+}

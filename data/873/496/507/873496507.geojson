@@ -1,0 +1,71 @@
+{
+  "id": 873496507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.478636,38.436504,-75.478636,38.436504",
+    "geom:latitude":38.436504,
+    "geom:longitude":-75.478636,
+    "iso:country":"US",
+    "sg:address":"32681 Landing Ln",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 219 3228",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85810701,
+        102082715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QiBpUxGNQwjL7gjBi2PHb_38.436504_-75.478636@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222802,
+    "wof:geomhash":"f12bd16778d6d31f07fe36b9238ba9c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "neighbourhood_id":85810701,
+            "region_id":85688501,
+            "venue_id":873496507
+        }
+    ],
+    "wof:id":873496507,
+    "wof:lastmodified":1464222802,
+    "wof:name":"Maryland Electrical Inspection",
+    "wof:parent_id":85810701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.478636,
+    38.436504,
+    -75.478636,
+    38.436504
+],
+  "geometry": {"coordinates":[-75.47863599999999,38.436504],"type":"Point"}
+}

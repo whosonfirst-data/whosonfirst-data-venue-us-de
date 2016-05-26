@@ -1,0 +1,73 @@
+{
+  "id": 857720399,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.635537,39.291592,-75.635537,39.291592",
+    "geom:latitude":39.291592,
+    "geom:longitude":-75.635537,
+    "iso:country":"US",
+    "sg:address":"210 Clayton Ave",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 8916",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4s05FkWyk4SKezTfVoFswc_39.291592_-75.635537@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221257,
+    "wof:geomhash":"daa319dbcc0fe04998d1276f9a5ceab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857720399
+        }
+    ],
+    "wof:id":857720399,
+    "wof:lastmodified":1464221257,
+    "wof:name":"Robert C Donlick DO",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.635537,
+    39.291592,
+    -75.635537,
+    39.291592
+],
+  "geometry": {"coordinates":[-75.635537,39.291592],"type":"Point"}
+}

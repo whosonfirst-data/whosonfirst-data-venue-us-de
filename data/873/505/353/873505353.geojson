@@ -1,0 +1,71 @@
+{
+  "id": 873505353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.156125,38.620426,-75.156125,38.620426",
+    "geom:latitude":38.620426,
+    "geom:longitude":-75.156125,
+    "iso:country":"US",
+    "sg:address":"920 Meadow Ln",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 1210",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KALA4LyYyJpktp8tldiyj_38.620426_-75.156125@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223175,
+    "wof:geomhash":"7eadfb931f4b15817593e22c03593bad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873505353
+        }
+    ],
+    "wof:id":873505353,
+    "wof:lastmodified":1464223175,
+    "wof:name":"Back Bay Plumbing",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.156125,
+    38.620426,
+    -75.156125,
+    38.620426
+],
+  "geometry": {"coordinates":[-75.156125,38.620426],"type":"Point"}
+}

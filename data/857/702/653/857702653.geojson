@@ -1,0 +1,69 @@
+{
+  "id": 857702653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.705697,39.673547,-75.705697,39.673547",
+    "geom:latitude":39.673547,
+    "geom:longitude":-75.705697,
+    "iso:country":"US",
+    "sg:address":"665 E Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 0970",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V2ALMk2kXB76GxPtYMsVn_39.673547_-75.705697@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220871,
+    "wof:geomhash":"473af27e52e21b323e303325e64a9fba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857702653
+        }
+    ],
+    "wof:id":857702653,
+    "wof:lastmodified":1464220871,
+    "wof:name":"Augusta Cleaners",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.705697,
+    39.673547,
+    -75.705697,
+    39.673547
+],
+  "geometry": {"coordinates":[-75.705697,39.673547],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857701225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525704,39.190085,-75.525704,39.190085",
+    "geom:latitude":39.190085,
+    "geom:longitude":-75.525704,
+    "iso:country":"US",
+    "sg:address":"728 Leipsic Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 2408",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M3DSeVmEFnaEQ4xICO6v7_39.190085_-75.525704@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220839,
+    "wof:geomhash":"e0aa45afa05b63cdeee836c118eb0ba8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857701225
+        }
+    ],
+    "wof:id":857701225,
+    "wof:lastmodified":1464220839,
+    "wof:name":"Pughs Service Inc",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.525704,
+    39.190085,
+    -75.525704,
+    39.190085
+],
+  "geometry": {"coordinates":[-75.525704,39.190085],"type":"Point"}
+}

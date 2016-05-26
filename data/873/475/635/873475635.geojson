@@ -1,0 +1,71 @@
+{
+  "id": 873475635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.657742,39.723924,-75.657742,39.723924",
+    "geom:latitude":39.723924,
+    "geom:longitude":-75.657742,
+    "iso:country":"US",
+    "sg:address":"4512 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8095",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QjnJvAK4sVAvo0TTbJ5xu_39.723924_-75.657742@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221936,
+    "wof:geomhash":"e97754703a75303556c15ebb175c6ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873475635
+        }
+    ],
+    "wof:id":873475635,
+    "wof:lastmodified":1464221936,
+    "wof:name":"Delaware Clinical & Laboratory",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.657742,
+    39.723924,
+    -75.657742,
+    39.723924
+],
+  "geometry": {"coordinates":[-75.657742,39.723924],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873487351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563612,39.659447,-75.563612,39.659447",
+    "geom:latitude":39.659447,
+    "geom:longitude":-75.563612,
+    "iso:country":"US",
+    "sg:address":"201 Delaware St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 2809",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "charitable",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5e18bZsjLJU0HmlL1HzQRm_39.659447_-75.563612@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222392,
+    "wof:geomhash":"fcccdaaef5984f1c6ef1155755eac289",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873487351
+        }
+    ],
+    "wof:id":873487351,
+    "wof:lastmodified":1464222392,
+    "wof:name":"Trustees Of New Castle Commons",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "charitable",
+        "institution"
+    ]
+},
+  "bbox": [
+    -75.563612,
+    39.659447,
+    -75.563612,
+    39.659447
+],
+  "geometry": {"coordinates":[-75.56361200000001,39.659447],"type":"Point"}
+}

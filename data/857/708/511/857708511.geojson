@@ -1,0 +1,71 @@
+{
+  "id": 857708511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.314514,38.785123,-75.314514,38.785123",
+    "geom:latitude":38.785123,
+    "geom:longitude":-75.314514,
+    "iso:country":"US",
+    "sg:address":"510 Union St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 1563",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KgczL2bPEjBAEid9BpF6b_38.785123_-75.314514@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220987,
+    "wof:geomhash":"2c9d80166cd97f2dcbedcab00ddb1015",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857708511
+        }
+    ],
+    "wof:id":857708511,
+    "wof:lastmodified":1464220987,
+    "wof:name":"Paul Simonsen",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -75.314514,
+    38.785123,
+    -75.314514,
+    38.785123
+],
+  "geometry": {"coordinates":[-75.314514,38.785123],"type":"Point"}
+}

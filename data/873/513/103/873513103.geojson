@@ -1,0 +1,72 @@
+{
+  "id": 873513103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.707708,39.698359,-75.707708,39.698359",
+    "geom:latitude":39.698359,
+    "geom:longitude":-75.707708,
+    "iso:country":"US",
+    "sg:address":"1450 Capitol Trl",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/109720-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 2990",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1w7RQ07dxCNB62rBfb5lSx_39.698359_-75.707708@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223517,
+    "wof:geomhash":"808abe90b5be661b2add2ccd9f7c6bc7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513103
+        }
+    ],
+    "wof:id":873513103,
+    "wof:lastmodified":1464223517,
+    "wof:name":"Subway",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.707708,
+    39.698359,
+    -75.707708,
+    39.698359
+],
+  "geometry": {"coordinates":[-75.707708,39.698359],"type":"Point"}
+}

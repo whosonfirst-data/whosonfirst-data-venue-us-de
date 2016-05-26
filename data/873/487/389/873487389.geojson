@@ -1,0 +1,69 @@
+{
+  "id": 873487389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658768,39.698737,-75.658768,39.698737",
+    "geom:latitude":39.698737,
+    "geom:longitude":-75.658768,
+    "iso:country":"US",
+    "sg:address":"4949 Ogletown-Stanton Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6900",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1XOM2F0lykztV1KI0sT711_39.698737_-75.658768@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222393,
+    "wof:geomhash":"ed08aaec1c39e9c9c30374d5c4ef9568",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873487389
+        }
+    ],
+    "wof:id":873487389,
+    "wof:lastmodified":1464222393,
+    "wof:name":"Genesis",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -75.658768,
+    39.698737,
+    -75.658768,
+    39.698737
+],
+  "geometry": {"coordinates":[-75.65876799999999,39.698737],"type":"Point"}
+}

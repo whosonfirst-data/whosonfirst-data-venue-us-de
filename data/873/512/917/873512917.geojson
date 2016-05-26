@@ -1,0 +1,72 @@
+{
+  "id": 873512917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.691269,39.650235,-75.691269,39.650235",
+    "geom:latitude":39.650235,
+    "geom:longitude":-75.691269,
+    "iso:country":"US",
+    "sg:address":"430 Old Baltimore Pike",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/21131-amore-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 1601",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Myr0egwrGomQsTfnArxl_39.650235_-75.691269@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223511,
+    "wof:geomhash":"87499125a7597ba30aeee008af804bc6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512917
+        }
+    ],
+    "wof:id":873512917,
+    "wof:lastmodified":1464223511,
+    "wof:name":"Amore Pizza",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.691269,
+    39.650235,
+    -75.691269,
+    39.650235
+],
+  "geometry": {"coordinates":[-75.69126900000001,39.650235],"type":"Point"}
+}

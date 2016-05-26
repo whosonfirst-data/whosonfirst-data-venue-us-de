@@ -1,0 +1,84 @@
+{
+  "id": 873468049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698579,39.655932,-75.698579,39.655932",
+    "geom:latitude":39.655932,
+    "geom:longitude":-75.698579,
+    "iso:country":"US",
+    "sg:address":"30 Adel Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 0432",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavation",
+        "tank",
+        "septic",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6JJgXsGhSAYZkt016Dih34_39.655932_-75.698579@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221654,
+    "wof:geomhash":"5fd0c294203b9a8b69467fd7152568d0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873468049
+        }
+    ],
+    "wof:id":873468049,
+    "wof:lastmodified":1464221654,
+    "wof:name":"Henry Miller & Son Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "tank",
+        "septic",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.698579,
+    39.655932,
+    -75.698579,
+    39.655932
+],
+  "geometry": {"coordinates":[-75.698579,39.655932],"type":"Point"}
+}

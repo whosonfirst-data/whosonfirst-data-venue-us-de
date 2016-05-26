@@ -1,0 +1,76 @@
+{
+  "id": 873525283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.609028,39.291724,-75.609028,39.291724",
+    "geom:latitude":39.291724,
+    "geom:longitude":-75.609028,
+    "iso:country":"US",
+    "sg:address":"522 Cindy Ln",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Wine & Distilled Alcoholic Beverages",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 1222",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25QxLsnfdBMDFcVjZv5UTu_39.291724_-75.609028@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224090,
+    "wof:geomhash":"c3a746dc41c04bb700179d1694382202",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525283
+        }
+    ],
+    "wof:id":873525283,
+    "wof:lastmodified":1464224090,
+    "wof:name":"Delmar Wines",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.609028,
+    39.291724,
+    -75.609028,
+    39.291724
+],
+  "geometry": {"coordinates":[-75.609028,39.291724],"type":"Point"}
+}

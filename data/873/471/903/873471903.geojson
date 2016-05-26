@@ -1,0 +1,71 @@
+{
+  "id": 873471903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.156206,38.758141,-75.156206,38.758141",
+    "geom:latitude":38.758141,
+    "geom:longitude":-75.156206,
+    "iso:country":"US",
+    "sg:address":"1408 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2274",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3bEkuK89ZfZydexflAPSeq_38.758141_-75.156206@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221802,
+    "wof:geomhash":"98567906bfa7ac7cc1866c3fbb11a97e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873471903
+        }
+    ],
+    "wof:id":873471903,
+    "wof:lastmodified":1464221802,
+    "wof:name":"R U Hosmane MD",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.156206,
+    38.758141,
+    -75.156206,
+    38.758141
+],
+  "geometry": {"coordinates":[-75.156206,38.758141],"type":"Point"}
+}

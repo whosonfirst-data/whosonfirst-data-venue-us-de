@@ -1,0 +1,71 @@
+{
+  "id": 873465001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574902,39.764582,-75.574902,39.764582",
+    "geom:latitude":39.764582,
+    "geom:longitude":-75.574902,
+    "iso:country":"US",
+    "sg:address":"1709 Mount Salem Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Developer",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 2111",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rkgcZPYLGGKAgqCea476n_39.764582_-75.574902@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221568,
+    "wof:geomhash":"9f46923dc27895676a789e2977cdf83b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873465001
+        }
+    ],
+    "wof:id":873465001,
+    "wof:lastmodified":1464221568,
+    "wof:name":"Mount Salem Cemetery Inc",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -75.574902,
+    39.764582,
+    -75.574902,
+    39.764582
+],
+  "geometry": {"coordinates":[-75.57490199999999,39.764582],"type":"Point"}
+}

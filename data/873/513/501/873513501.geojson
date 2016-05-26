@@ -1,0 +1,70 @@
+{
+  "id": 873513501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.621621,39.733989,-75.621621,39.733989",
+    "geom:latitude":39.733989,
+    "geom:longitude":-75.621621,
+    "iso:country":"US",
+    "sg:address":"1300 Centerville Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lower-christiana/243836-lambertis/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 6955",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZICAZdexzLzH8P7agH87u_39.733989_-75.621621@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223532,
+    "wof:geomhash":"3771b5f9b9e40a6cebd557ce5207b314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873513501
+        }
+    ],
+    "wof:id":873513501,
+    "wof:lastmodified":1464223532,
+    "wof:name":"Lambertis",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.621621,
+    39.733989,
+    -75.621621,
+    39.733989
+],
+  "geometry": {"coordinates":[-75.621621,39.733989],"type":"Point"}
+}

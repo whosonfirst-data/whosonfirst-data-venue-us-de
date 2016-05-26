@@ -1,0 +1,71 @@
+{
+  "id": 873491151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.482061,39.805092,-75.482061,39.805092",
+    "geom:latitude":39.805092,
+    "geom:longitude":-75.482061,
+    "iso:country":"US",
+    "sg:address":"1503 Harvey Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 0369",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "brake"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QC35F3O8xqRo8OygyJ0Ci_39.805092_-75.482061@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222536,
+    "wof:geomhash":"0fcbf2421d6bb226021e0a7d88fa5813",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873491151
+        }
+    ],
+    "wof:id":873491151,
+    "wof:lastmodified":1464222536,
+    "wof:name":"Harvey Road Automotive",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "brake"
+    ]
+},
+  "bbox": [
+    -75.482061,
+    39.805092,
+    -75.482061,
+    39.805092
+],
+  "geometry": {"coordinates":[-75.482061,39.805092],"type":"Point"}
+}

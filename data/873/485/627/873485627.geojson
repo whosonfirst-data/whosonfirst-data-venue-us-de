@@ -1,0 +1,68 @@
+{
+  "id": 873485627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546643,39.725281,-75.546643,39.725281",
+    "geom:latitude":39.725281,
+    "geom:longitude":-75.546643,
+    "iso:country":"US",
+    "sg:address":"917 S Heald St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 421 3800",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62myhOJOmrG8y5kFoJdnjB_39.725281_-75.546643@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222328,
+    "wof:geomhash":"097d1751ca7cfadfe717d4a88124b3cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873485627
+        }
+    ],
+    "wof:id":873485627,
+    "wof:lastmodified":1464222328,
+    "wof:name":"Hanbys",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.546643,
+    39.725281,
+    -75.546643,
+    39.725281
+],
+  "geometry": {"coordinates":[-75.546643,39.725281],"type":"Point"}
+}

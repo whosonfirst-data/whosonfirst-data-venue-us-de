@@ -1,0 +1,72 @@
+{
+  "id": 873516405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.680474,39.674241,-75.680474,39.674241",
+    "geom:latitude":39.674241,
+    "geom:longitude":-75.680474,
+    "iso:country":"US",
+    "sg:address":"3 Concord Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 3900",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "corporate",
+        "lodging"
+    ],
+    "sg:website":"http://www.wilmingtonnewark.hamptoninn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VfU1a5j8dgRobfKtlqZT2_39.674241_-75.680474@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223684,
+    "wof:geomhash":"f866dd32bffb9d851fef55c1b025f5cb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516405
+        }
+    ],
+    "wof:id":873516405,
+    "wof:lastmodified":1464223684,
+    "wof:name":"Hampton Inn",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corporate",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -75.680474,
+    39.674241,
+    -75.680474,
+    39.674241
+],
+  "geometry": {"coordinates":[-75.680474,39.674241],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873525325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.559578,39.311084,-75.559578,39.311084",
+    "geom:latitude":39.311084,
+    "geom:longitude":-75.559578,
+    "iso:country":"US",
+    "sg:address":"2084 Woodland Beach Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 8188",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tfh7Yssvasa5dwhStfzAI_39.311084_-75.559578@1303262473"
+    },
+    "wof:country":"US",
+    "wof:created":1464224092,
+    "wof:geomhash":"58401a029e66a1da79c058169d05a80c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525325
+        }
+    ],
+    "wof:id":873525325,
+    "wof:lastmodified":1464224092,
+    "wof:name":"Robert L Moore",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [
+    -75.559578,
+    39.311084,
+    -75.559578,
+    39.311084
+],
+  "geometry": {"coordinates":[-75.559578,39.311084],"type":"Point"}
+}

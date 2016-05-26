@@ -1,0 +1,71 @@
+{
+  "id": 873493449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662317,39.693819,-75.662317,39.693819",
+    "geom:latitude":39.693819,
+    "geom:longitude":-75.662317,
+    "iso:country":"US",
+    "sg:address":"100 Rockford Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 5480",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "psychiatric",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O0KaRLmM3l7SHh3ZK957C_39.693819_-75.662317@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222624,
+    "wof:geomhash":"69121b36d6c1e1c1e58fc1b2e6ec4e6f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873493449
+        }
+    ],
+    "wof:id":873493449,
+    "wof:lastmodified":1464222624,
+    "wof:name":"Rockford Center",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatric",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.662317,
+    39.693819,
+    -75.662317,
+    39.693819
+],
+  "geometry": {"coordinates":[-75.662317,39.693819],"type":"Point"}
+}

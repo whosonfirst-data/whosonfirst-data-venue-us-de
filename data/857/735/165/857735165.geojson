@@ -1,0 +1,77 @@
+{
+  "id": 857735165,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.521527,39.75989,-75.521527,39.75989",
+    "geom:latitude":39.75989,
+    "geom:longitude":-75.521527,
+    "iso:country":"US",
+    "sg:address":"5 E 41st St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 2247",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "automobile",
+        "mechanical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ya976CLoRRJNzsPtwXgud_39.759890_-75.521527@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221543,
+    "wof:geomhash":"74d6b6a724a642331751d1597df69b37",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857735165
+        }
+    ],
+    "wof:id":857735165,
+    "wof:lastmodified":1464221543,
+    "wof:name":"Bradleys Auto Center Inc",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automobile",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -75.521527,
+    39.75989,
+    -75.521527,
+    39.75989
+],
+  "geometry": {"coordinates":[-75.52152700000001,39.75989],"type":"Point"}
+}

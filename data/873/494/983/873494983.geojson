@@ -1,0 +1,83 @@
+{
+  "id": 873494983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.588818,39.270334,-75.588818,39.270334",
+    "geom:latitude":39.270334,
+    "geom:longitude":-75.588818,
+    "iso:country":"US",
+    "sg:address":"2459 S Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 9750",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heating",
+        "air",
+        "ventilation",
+        "conditioning",
+        "mechanical",
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5pQg9BEps2xBrFpyYa6b7n_39.270334_-75.588818@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222715,
+    "wof:geomhash":"647875c1dd01e98c350ce1b3aff8e5ad",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873494983
+        }
+    ],
+    "wof:id":873494983,
+    "wof:lastmodified":1464222715,
+    "wof:name":"Delaware Mechanical Company",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "air",
+        "ventilation",
+        "conditioning",
+        "mechanical",
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.588818,
+    39.270334,
+    -75.588818,
+    39.270334
+],
+  "geometry": {"coordinates":[-75.588818,39.270334],"type":"Point"}
+}

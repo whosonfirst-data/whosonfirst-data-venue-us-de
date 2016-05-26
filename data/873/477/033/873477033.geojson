@@ -1,0 +1,71 @@
+{
+  "id": 873477033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577613,39.764757,-75.577613,39.764757",
+    "geom:latitude":39.764757,
+    "geom:longitude":-75.577613,
+    "iso:country":"US",
+    "sg:address":"2813 W 17th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 575 0550",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "independent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ajlnfIhDHcYra8fUzgO9W_39.764757_-75.577613@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221985,
+    "wof:geomhash":"b6e918f6dc30627f41be93f9ef445814",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873477033
+        }
+    ],
+    "wof:id":873477033,
+    "wof:lastmodified":1464221985,
+    "wof:name":"Tower Hill School Association",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "independent"
+    ]
+},
+  "bbox": [
+    -75.577613,
+    39.764757,
+    -75.577613,
+    39.764757
+],
+  "geometry": {"coordinates":[-75.577613,39.764757],"type":"Point"}
+}

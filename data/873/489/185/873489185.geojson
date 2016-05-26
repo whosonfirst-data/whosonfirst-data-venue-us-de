@@ -1,0 +1,73 @@
+{
+  "id": 873489185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.623089,39.182526,-75.623089,39.182526",
+    "geom:latitude":39.182526,
+    "geom:longitude":-75.623089,
+    "iso:country":"US",
+    "sg:address":"338 Blue Heron Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 2147",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hr15U9tmvTIEiDlHG5Arm_39.182526_-75.623089@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222463,
+    "wof:geomhash":"b4b610011dc2043a80e341180429f0de",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873489185
+        }
+    ],
+    "wof:id":873489185,
+    "wof:lastmodified":1464222463,
+    "wof:name":"Rosas Greek Btq",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.623089,
+    39.182526,
+    -75.623089,
+    39.182526
+],
+  "geometry": {"coordinates":[-75.62308899999999,39.182526],"type":"Point"}
+}

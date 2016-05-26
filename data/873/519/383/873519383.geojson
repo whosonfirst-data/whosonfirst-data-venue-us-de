@@ -1,0 +1,74 @@
+{
+  "id": 873519383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.489067,39.777729,-75.489067,39.777729",
+    "geom:latitude":39.777729,
+    "geom:longitude":-75.489067,
+    "iso:country":"US",
+    "sg:address":"1035 Philadelphia Pike C",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Pest Control",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 378 7378",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0TdF9Pl1RilWEzhhyeqxxq_39.777729_-75.489067@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223849,
+    "wof:geomhash":"7e4f8d418353ad5884058d206845443f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873519383
+        }
+    ],
+    "wof:id":873519383,
+    "wof:lastmodified":1464223849,
+    "wof:name":"Mcguire Pest Control",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -75.489067,
+    39.777729,
+    -75.489067,
+    39.777729
+],
+  "geometry": {"coordinates":[-75.48906700000001,39.777729],"type":"Point"}
+}

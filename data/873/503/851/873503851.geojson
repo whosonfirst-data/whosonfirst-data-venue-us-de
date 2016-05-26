@@ -1,0 +1,77 @@
+{
+  "id": 873503851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573366,39.169412,-75.573366,39.169412",
+    "geom:latitude":39.169412,
+    "geom:longitude":-75.573366,
+    "iso:country":"US",
+    "sg:address":"2473 Chestnut Grove Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 9385",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mv99C16heOsfsIOW1CUHe_39.169412_-75.573366@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223094,
+    "wof:geomhash":"fd27c7d59c10d513f426ead27a6c616d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873503851
+        }
+    ],
+    "wof:id":873503851,
+    "wof:lastmodified":1464223094,
+    "wof:name":"Tony's Pressure Washing",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "detail",
+        "clean"
+    ]
+},
+  "bbox": [
+    -75.573366,
+    39.169412,
+    -75.573366,
+    39.169412
+],
+  "geometry": {"coordinates":[-75.57336599999999,39.169412],"type":"Point"}
+}

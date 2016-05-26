@@ -1,0 +1,72 @@
+{
+  "id": 873520859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5326,39.183498,-75.5326,39.183498",
+    "geom:latitude":39.183498,
+    "geom:longitude":-75.5326,
+    "iso:country":"US",
+    "sg:address":"746 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3284",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "glass"
+    ],
+    "sg:website":"www.safelite.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aYlYbEdW9Su1ghPyPQmwK_39.183498_-75.532600@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223920,
+    "wof:geomhash":"9fd3795b1d37b3264d483514c4d45756",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873520859
+        }
+    ],
+    "wof:id":873520859,
+    "wof:lastmodified":1464223920,
+    "wof:name":"Safelite Auto Glass",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass"
+    ]
+},
+  "bbox": [
+    -75.5326,
+    39.183498,
+    -75.5326,
+    39.183498
+],
+  "geometry": {"coordinates":[-75.5326,39.183498],"type":"Point"}
+}

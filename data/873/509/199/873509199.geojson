@@ -1,0 +1,73 @@
+{
+  "id": 873509199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.101647,38.549696,-75.101647,38.549696",
+    "geom:latitude":38.549696,
+    "geom:longitude":-75.101647,
+    "iso:country":"US",
+    "sg:address":"15 Grants Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 4714",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commodity",
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zRyLKSR2ujQTWDUbPNymA_38.549696_-75.101647@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223340,
+    "wof:geomhash":"e61c6003a01810bb05cb9602e3f5136a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873509199
+        }
+    ],
+    "wof:id":873509199,
+    "wof:lastmodified":1464223340,
+    "wof:name":"ABC Morgan Corp",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commodity",
+        "contract"
+    ]
+},
+  "bbox": [
+    -75.101647,
+    38.549696,
+    -75.101647,
+    38.549696
+],
+  "geometry": {"coordinates":[-75.101647,38.549696],"type":"Point"}
+}

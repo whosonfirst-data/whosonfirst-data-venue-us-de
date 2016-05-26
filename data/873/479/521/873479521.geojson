@@ -1,0 +1,71 @@
+{
+  "id": 873479521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703147,39.717271,-75.703147,39.717271",
+    "geom:latitude":39.717271,
+    "geom:longitude":-75.703147,
+    "iso:country":"US",
+    "sg:address":"9 Ivy Hall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 1104",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ArVZI7xoTcaMJ4AoIoOIn_39.717271_-75.703147@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222086,
+    "wof:geomhash":"d5bab421cbf072f4af2b6ea9046322fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873479521
+        }
+    ],
+    "wof:id":873479521,
+    "wof:lastmodified":1464222086,
+    "wof:name":"D C H Inc",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.703147,
+    39.717271,
+    -75.703147,
+    39.717271
+],
+  "geometry": {"coordinates":[-75.703147,39.717271],"type":"Point"}
+}

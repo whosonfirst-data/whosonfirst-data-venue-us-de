@@ -1,0 +1,71 @@
+{
+  "id": 873500617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586452,39.674494,-75.586452,39.674494",
+    "geom:latitude":39.674494,
+    "geom:longitude":-75.586452,
+    "iso:country":"US",
+    "sg:address":"515 E Basin Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 3822",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jbgp7nT1OO0KGvuKPKzz9_39.674494_-75.586452@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222963,
+    "wof:geomhash":"a5bb13f7b6fbff5daba50ce5f6867ffd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873500617
+        }
+    ],
+    "wof:id":873500617,
+    "wof:lastmodified":1464222963,
+    "wof:name":"Diamond State Dancers & Cheerl",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -75.586452,
+    39.674494,
+    -75.586452,
+    39.674494
+],
+  "geometry": {"coordinates":[-75.58645199999999,39.674494],"type":"Point"}
+}

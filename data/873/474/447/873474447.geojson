@@ -1,0 +1,73 @@
+{
+  "id": 873474447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601891,39.30145,-75.601891,39.30145",
+    "geom:latitude":39.30145,
+    "geom:longitude":-75.601891,
+    "iso:country":"US",
+    "sg:address":"80 Monrovia Ave",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 3135",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "academic",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eMoaQHnHKI1QLHEJYWr8o_39.301450_-75.601891@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221896,
+    "wof:geomhash":"fa9f9ea042ac2f4069f31443c41f30ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873474447
+        }
+    ],
+    "wof:id":873474447,
+    "wof:lastmodified":1464221896,
+    "wof:name":"Smyrna School District",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "academic",
+        "special"
+    ]
+},
+  "bbox": [
+    -75.601891,
+    39.30145,
+    -75.601891,
+    39.30145
+],
+  "geometry": {"coordinates":[-75.60189099999999,39.30145],"type":"Point"}
+}

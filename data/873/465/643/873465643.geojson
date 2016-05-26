@@ -1,0 +1,71 @@
+{
+  "id": 873465643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.564874,39.660361,-75.564874,39.660361",
+    "geom:latitude":39.660361,
+    "geom:longitude":-75.564874,
+    "iso:country":"US",
+    "sg:address":"310 Delaware St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 7232",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26ATOVB747V5qB8wYF7xrx_39.660361_-75.564874@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221581,
+    "wof:geomhash":"ff9b65092c1b67220296ab1ca9c04465",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873465643
+        }
+    ],
+    "wof:id":873465643,
+    "wof:lastmodified":1464221581,
+    "wof:name":"Oak Knoll Books",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -75.564874,
+    39.660361,
+    -75.564874,
+    39.660361
+],
+  "geometry": {"coordinates":[-75.564874,39.660361],"type":"Point"}
+}

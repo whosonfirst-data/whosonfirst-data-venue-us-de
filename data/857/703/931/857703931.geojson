@@ -1,0 +1,73 @@
+{
+  "id": 857703931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.116162,38.54972,-75.116162,38.54972",
+    "geom:latitude":38.54972,
+    "geom:longitude":-75.116162,
+    "iso:country":"US",
+    "sg:address":"25 Railway Rd",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 9798",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EJdJGYL7ma6CRryKUyJhI_38.549720_-75.116162@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220894,
+    "wof:geomhash":"3c06daad0980b486e163e5af3fff0354",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857703931
+        }
+    ],
+    "wof:id":857703931,
+    "wof:lastmodified":1464220894,
+    "wof:name":"D & D Demolition & Excavating",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.116162,
+    38.54972,
+    -75.116162,
+    38.54972
+],
+  "geometry": {"coordinates":[-75.116162,38.54972],"type":"Point"}
+}

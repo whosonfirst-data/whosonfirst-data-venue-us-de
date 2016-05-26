@@ -1,0 +1,82 @@
+{
+  "id": 873515587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.714907,39.694833,-75.714907,39.694833",
+    "geom:latitude":39.694833,
+    "geom:longitude":-75.714907,
+    "iso:country":"US",
+    "sg:address":"41 Fairway Rd Apt 2C",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 8496",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y5XM4hAMf14PVAScMPj4z_39.694833_-75.714907@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223648,
+    "wof:geomhash":"ba4f9514eb2cdb1dd6f72057e3b66797",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873515587
+        }
+    ],
+    "wof:id":873515587,
+    "wof:lastmodified":1464223648,
+    "wof:name":"Admirals Club Apts",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -75.714907,
+    39.694833,
+    -75.714907,
+    39.694833
+],
+  "geometry": {"coordinates":[-75.714907,39.694833],"type":"Point"}
+}

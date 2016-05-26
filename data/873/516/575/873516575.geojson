@@ -1,0 +1,75 @@
+{
+  "id": 873516575,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546899,39.743519,-75.546899,39.743519",
+    "geom:latitude":39.743519,
+    "geom:longitude":-75.546899,
+    "iso:country":"US",
+    "sg:address":"800 N French St Fl 5",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 395 5528",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73W3Wdyn3zVHhyXasOed54_39.743519_-75.546899@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223694,
+    "wof:geomhash":"a5d964d8c50b5327b955e2d88bdaff5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873516575
+        }
+    ],
+    "wof:id":873516575,
+    "wof:lastmodified":1464223694,
+    "wof:name":"New Castle County Engineers",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -75.546899,
+    39.743519,
+    -75.546899,
+    39.743519
+],
+  "geometry": {"coordinates":[-75.546899,39.743519],"type":"Point"}
+}

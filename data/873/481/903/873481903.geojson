@@ -1,0 +1,68 @@
+{
+  "id": 873481903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549558,39.735381,-75.549558,39.735381",
+    "geom:latitude":39.735381,
+    "geom:longitude":-75.549558,
+    "iso:country":"US",
+    "sg:address":"6 S Poplar St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 7619",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5z1hHSCm5kXtte92R0MgLB_39.735381_-75.549558@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222190,
+    "wof:geomhash":"778dc724fc81c805e948d8da7f73d917",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873481903
+        }
+    ],
+    "wof:id":873481903,
+    "wof:lastmodified":1464222190,
+    "wof:name":"Poplar Street Assoc",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.549558,
+    39.735381,
+    -75.549558,
+    39.735381
+],
+  "geometry": {"coordinates":[-75.549558,39.735381],"type":"Point"}
+}

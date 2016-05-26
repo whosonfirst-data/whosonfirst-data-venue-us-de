@@ -1,0 +1,71 @@
+{
+  "id": 873504359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.22205,38.754306,-75.22205,38.754306",
+    "geom:latitude":38.754306,
+    "geom:longitude":-75.22205,
+    "iso:country":"US",
+    "sg:address":"22 Green Valley Run",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 7126",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eAkKF8E8unT7ckIIYH10b_38.754306_-75.222050@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223119,
+    "wof:geomhash":"1ae89b6bd6fe4681ab9ce93d63f2484d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873504359
+        }
+    ],
+    "wof:id":873504359,
+    "wof:lastmodified":1464223119,
+    "wof:name":"Arrow Electric",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.22205,
+    38.754306,
+    -75.22205,
+    38.754306
+],
+  "geometry": {"coordinates":[-75.22205,38.754306],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873519159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.663267,39.75115,-75.663267,39.75115",
+    "geom:latitude":39.75115,
+    "geom:longitude":-75.663267,
+    "iso:country":"US",
+    "sg:address":"3003 Millcreek Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 3961",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "churches-seventh-day",
+        "adventist",
+        "christian",
+        "churches-advent"
+    ],
+    "sg:website":"http://www.westwilmingtonsda.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UcmgOOv9i7tSKlQkUoWIr_39.751150_-75.663267@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223841,
+    "wof:geomhash":"7ea91a84d5899394ca4dad24f6dbdc09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873519159
+        }
+    ],
+    "wof:id":873519159,
+    "wof:lastmodified":1464223841,
+    "wof:name":"West Wilmington Seventh Day Adventist Church",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-seventh-day",
+        "adventist",
+        "christian",
+        "churches-advent"
+    ]
+},
+  "bbox": [
+    -75.663267,
+    39.75115,
+    -75.663267,
+    39.75115
+],
+  "geometry": {"coordinates":[-75.663267,39.75115],"type":"Point"}
+}

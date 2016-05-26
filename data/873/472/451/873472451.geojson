@@ -1,0 +1,73 @@
+{
+  "id": 873472451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.147777,38.784878,-75.147777,38.784878",
+    "geom:latitude":38.784878,
+    "geom:longitude":-75.147777,
+    "iso:country":"US",
+    "sg:address":"11 Indiana Ave",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 6461",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931621,
+        102083887,
+        85822813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_060zE3GN86aqNLgHZR2LnP_38.784878_-75.147777@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221823,
+    "wof:geomhash":"6f086888864d060d7299e2dc2c8da293",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931621,
+            "neighbourhood_id":85822813,
+            "region_id":85688611,
+            "venue_id":873472451
+        }
+    ],
+    "wof:id":873472451,
+    "wof:lastmodified":1464221823,
+    "wof:name":"George T Barnhill Dr 3rd",
+    "wof:parent_id":85822813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.147777,
+    38.784878,
+    -75.147777,
+    38.784878
+],
+  "geometry": {"coordinates":[-75.147777,38.784878],"type":"Point"}
+}

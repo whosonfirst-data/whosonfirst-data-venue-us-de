@@ -1,0 +1,81 @@
+{
+  "id": 873512815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543701,39.161201,-75.543701,39.161201",
+    "geom:latitude":39.161201,
+    "geom:longitude":-75.543701,
+    "iso:country":"US",
+    "sg:address":"93 Saulsbury Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 1482",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "shop",
+        "painting",
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Qr5B3zoar7Y4GoEyBEMGg_39.161617_-75.543677@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223506,
+    "wof:geomhash":"292c1de7f0d2a320d924a9283f7a0d25",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873512815
+        }
+    ],
+    "wof:id":873512815,
+    "wof:lastmodified":1464223506,
+    "wof:name":"Precision Auto Body Inc",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "shop",
+        "painting",
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.543701,
+    39.161201,
+    -75.543701,
+    39.161201
+],
+  "geometry": {"coordinates":[-75.543701,39.161201],"type":"Point"}
+}

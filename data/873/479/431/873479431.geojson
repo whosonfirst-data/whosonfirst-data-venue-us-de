@@ -1,0 +1,67 @@
+{
+  "id": 873479431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.43124,38.651373,-75.43124,38.651373",
+    "geom:latitude":38.651373,
+    "geom:longitude":-75.43124,
+    "iso:country":"US",
+    "sg:address":"17099 County Seat Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 0961",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:website":"www.sussexvt.k12.de.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vyRRl3GWA9osgk3LURsbm_38.651373_-75.431240@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222082,
+    "wof:geomhash":"8e6cd78fc06e54fcd41e0c8a5c3f003c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873479431
+        }
+    ],
+    "wof:id":873479431,
+    "wof:lastmodified":1464222082,
+    "wof:name":"Sussex County Vocational Tech",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.43124,
+    38.651373,
+    -75.43124,
+    38.651373
+],
+  "geometry": {"coordinates":[-75.43124,38.651373],"type":"Point"}
+}

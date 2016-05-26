@@ -1,0 +1,79 @@
+{
+  "id": 873518709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598358,39.778938,-75.598358,39.778938",
+    "geom:latitude":39.778938,
+    "geom:longitude":-75.598358,
+    "iso:country":"US",
+    "sg:address":"4001 Kennett Pike Ste 250",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 661 2500",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.wellsfargo.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834895,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_25HHsOWS3rgHVY6EABxFXA_39.778938_-75.598358@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223824,
+    "wof:geomhash":"040fc8d943393021611acc19ff09cf1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834895,
+            "region_id":85688611,
+            "venue_id":873518709
+        }
+    ],
+    "wof:id":873518709,
+    "wof:lastmodified":1464223824,
+    "wof:name":"Wells Fargo Bank",
+    "wof:parent_id":85834895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.598358,
+    39.778938,
+    -75.598358,
+    39.778938
+],
+  "geometry": {"coordinates":[-75.598358,39.778938],"type":"Point"}
+}

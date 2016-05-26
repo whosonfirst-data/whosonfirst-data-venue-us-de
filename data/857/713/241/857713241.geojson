@@ -1,0 +1,71 @@
+{
+  "id": 857713241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545247,39.70324,-75.545247,39.70324",
+    "geom:latitude":39.70324,
+    "geom:longitude":-75.545247,
+    "iso:country":"US",
+    "sg:address":"207 West Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 6054",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TT8u5iu4exVQOBDfrnxat_39.703240_-75.545247@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221115,
+    "wof:geomhash":"83db1f4a9301d5fab741ca502d9d49af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857713241
+        }
+    ],
+    "wof:id":857713241,
+    "wof:lastmodified":1464221115,
+    "wof:name":"Thomas A Cochran & Sons",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.545247,
+    39.70324,
+    -75.545247,
+    39.70324
+],
+  "geometry": {"coordinates":[-75.545247,39.70324],"type":"Point"}
+}

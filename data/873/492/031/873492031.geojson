@@ -1,0 +1,83 @@
+{
+  "id": 873492031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554522,39.160096,-75.554522,39.160096",
+    "geom:latitude":39.160096,
+    "geom:longitude":-75.554522,
+    "iso:country":"US",
+    "sg:address":"136 Greentree Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 7450",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bagel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CHOn5r1T6wTNT6om7AhZT_39.160096_-75.554522@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222567,
+    "wof:geomhash":"bdde27e4b6b8afb8f8c241e4112052f7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873492031
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873492031
+        }
+    ],
+    "wof:id":873492031,
+    "wof:lastmodified":1464222567,
+    "wof:name":"Some Guy's Bagels",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bagel"
+    ]
+},
+  "bbox": [
+    -75.554522,
+    39.160096,
+    -75.554522,
+    39.160096
+],
+  "geometry": {"coordinates":[-75.55452200000001,39.160096],"type":"Point"}
+}

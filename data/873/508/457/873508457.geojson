@@ -1,0 +1,71 @@
+{
+  "id": 873508457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.632418,39.290693,-75.632418,39.290693",
+    "geom:latitude":39.290693,
+    "geom:longitude":-75.632418,
+    "iso:country":"US",
+    "sg:address":"206 S Basset St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Bus Charters",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 3886",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ftX8Egq5w6TgdnciO11JR_39.290693_-75.632418@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223307,
+    "wof:geomhash":"58b217ccb4ef2ebd4fbf0b8f1b7bb73f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873508457
+        }
+    ],
+    "wof:id":873508457,
+    "wof:lastmodified":1464223307,
+    "wof:name":"Lehanes Bus Svc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rental"
+    ]
+},
+  "bbox": [
+    -75.632418,
+    39.290693,
+    -75.632418,
+    39.290693
+],
+  "geometry": {"coordinates":[-75.632418,39.290693],"type":"Point"}
+}

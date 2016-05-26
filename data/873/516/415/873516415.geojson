@@ -1,0 +1,86 @@
+{
+  "id": 873516415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.762113,39.651522,-75.762113,39.651522",
+    "geom:latitude":39.651522,
+    "geom:longitude":-75.762113,
+    "iso:country":"US",
+    "sg:address":"803 Highfield Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 0772",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "perfume",
+        "salons-equipment",
+        "supply"
+    ],
+    "sg:website":"http://www.marykay.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FzzypBlxVJqMnSro84mgz_39.651522_-75.762113@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223684,
+    "wof:geomhash":"cb1f34f636148766c6caa7eb8bbc34a0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873516415
+        }
+    ],
+    "wof:id":873516415,
+    "wof:lastmodified":1464223684,
+    "wof:name":"Mary Kay Cosmetics",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "perfume",
+        "salons-equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.762113,
+    39.651522,
+    -75.762113,
+    39.651522
+],
+  "geometry": {"coordinates":[-75.762113,39.651522],"type":"Point"}
+}

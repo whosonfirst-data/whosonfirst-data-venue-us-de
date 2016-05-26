@@ -1,0 +1,71 @@
+{
+  "id": 873490553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.752503,39.586598,-75.752503,39.586598",
+    "geom:latitude":39.586598,
+    "geom:longitude":-75.752503,
+    "iso:country":"US",
+    "sg:address":"217 Rhett Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 8964",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "programming",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VX1jPvo5p5awPJMJnxQjY_39.586598_-75.752503@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222516,
+    "wof:geomhash":"5a54d33f3de9abcd04bc826c508260c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873490553
+        }
+    ],
+    "wof:id":873490553,
+    "wof:lastmodified":1464222516,
+    "wof:name":"PC America",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming",
+        "custom"
+    ]
+},
+  "bbox": [
+    -75.752503,
+    39.586598,
+    -75.752503,
+    39.586598
+],
+  "geometry": {"coordinates":[-75.752503,39.586598],"type":"Point"}
+}

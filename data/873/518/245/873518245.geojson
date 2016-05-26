@@ -1,0 +1,84 @@
+{
+  "id": 873518245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.619583,39.727798,-75.619583,39.727798",
+    "geom:latitude":39.727798,
+    "geom:longitude":-75.619583,
+    "iso:country":"US",
+    "sg:address":"1018 Liberty Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9455",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumber",
+        "specialty",
+        "contractor",
+        "heating",
+        "clean",
+        "boilers-repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nnfqLNTDSlRHOaclStZX7_39.727798_-75.619583@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223804,
+    "wof:geomhash":"f3ca884d662391798bc2e0a179f5e14f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518245
+        }
+    ],
+    "wof:id":873518245,
+    "wof:lastmodified":1464223804,
+    "wof:name":"Reskovitz Charles S Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumber",
+        "specialty",
+        "contractor",
+        "heating",
+        "clean",
+        "boilers-repair"
+    ]
+},
+  "bbox": [
+    -75.619583,
+    39.727798,
+    -75.619583,
+    39.727798
+],
+  "geometry": {"coordinates":[-75.61958300000001,39.727798],"type":"Point"}
+}

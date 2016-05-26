@@ -1,0 +1,102 @@
+{
+  "id": 873513913,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.750404,39.65271,-75.750404,39.65271",
+    "geom:latitude":39.65271,
+    "geom:longitude":-75.750404,
+    "iso:country":"US",
+    "sg:address":"1002 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/130291-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 6447",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L8vUe11qFOl6DaniGwRao_39.652752_-75.750528@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223556,
+    "wof:geomhash":"9234999cd55133536b77ba041a8144ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873513913
+        }
+    ],
+    "wof:id":873513913,
+    "wof:lastmodified":1464223556,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coffee",
+        "diner",
+        "tea",
+        "bakery",
+        "bagel",
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.750404,
+    39.65271,
+    -75.750404,
+    39.65271
+],
+  "geometry": {"coordinates":[-75.750404,39.65271],"type":"Point"}
+}

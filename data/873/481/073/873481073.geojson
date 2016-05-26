@@ -1,0 +1,73 @@
+{
+  "id": 873481073,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.086823,38.712459,-75.086823,38.712459",
+    "geom:latitude":38.712459,
+    "geom:longitude":-75.086823,
+    "iso:country":"US",
+    "sg:address":"330 Laurel St",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 4177",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931597,
+        102083887,
+        85844243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GLdB6Z8c0mj7aVzY0c20E_38.712459_-75.086823@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222157,
+    "wof:geomhash":"5c8e82721a8fdc7818cd44e35fe911e6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931597,
+            "neighbourhood_id":85844243,
+            "region_id":85688611,
+            "venue_id":873481073
+        }
+    ],
+    "wof:id":873481073,
+    "wof:lastmodified":1464222157,
+    "wof:name":"Joseph F Schanno Dr",
+    "wof:parent_id":85844243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.086823,
+    38.712459,
+    -75.086823,
+    38.712459
+],
+  "geometry": {"coordinates":[-75.086823,38.712459],"type":"Point"}
+}

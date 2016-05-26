@@ -1,0 +1,75 @@
+{
+  "id": 873467597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.442358,38.908876,-75.442358,38.908876",
+    "geom:latitude":38.908876,
+    "geom:longitude":-75.442358,
+    "iso:country":"US",
+    "sg:address":"500 S Dupont Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8700",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential",
+        "intermediate",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BB4LbLT6GuZQmAy1r0fLW_38.908876_-75.442358@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221638,
+    "wof:geomhash":"913193d0cd27e7fd830a3ee13eca5f40",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873467597
+        }
+    ],
+    "wof:id":873467597,
+    "wof:lastmodified":1464221638,
+    "wof:name":"Milford Place",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "intermediate",
+        "facility"
+    ]
+},
+  "bbox": [
+    -75.442358,
+    38.908876,
+    -75.442358,
+    38.908876
+],
+  "geometry": {"coordinates":[-75.442358,38.908876],"type":"Point"}
+}

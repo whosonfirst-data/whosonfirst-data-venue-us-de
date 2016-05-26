@@ -1,0 +1,80 @@
+{
+  "id": 873511257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547798,39.799198,-75.547798,39.799198",
+    "geom:latitude":39.799198,
+    "geom:longitude":-75.547798,
+    "iso:country":"US",
+    "sg:address":"3001 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 0648",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sitting",
+        "pet",
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "boarding/pet"
+    ],
+    "sg:website":"Www.Talleyvilleveterinary.Com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0j5OkPlPYm1JivXEtbj5pU_39.798684_-75.547533@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223431,
+    "wof:geomhash":"ebc5d0173d0c32f4520be3377a11efea",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873511257
+        }
+    ],
+    "wof:id":873511257,
+    "wof:lastmodified":1464223431,
+    "wof:name":"Talleyville Veterinary Hospital",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sitting",
+        "pet",
+        "hospital",
+        "clinic",
+        "veterinarian",
+        "boarding/pet"
+    ]
+},
+  "bbox": [
+    -75.547798,
+    39.799198,
+    -75.547798,
+    39.799198
+],
+  "geometry": {"coordinates":[-75.547798,39.799198],"type":"Point"}
+}

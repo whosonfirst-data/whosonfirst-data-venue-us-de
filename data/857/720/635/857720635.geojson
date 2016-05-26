@@ -1,0 +1,71 @@
+{
+  "id": 857720635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569048,39.765139,-75.569048,39.765139",
+    "geom:latitude":39.765139,
+    "geom:longitude":-75.569048,
+    "iso:country":"US",
+    "sg:address":"2000 Riverview Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 4912",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_402UtMRDid5vqht26hN486_39.765139_-75.569048@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221261,
+    "wof:geomhash":"f8c437eb7f97c4af64b486dc129b9f37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":857720635
+        }
+    ],
+    "wof:id":857720635,
+    "wof:lastmodified":1464221261,
+    "wof:name":"Chas L Minor MD",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.569048,
+    39.765139,
+    -75.569048,
+    39.765139
+],
+  "geometry": {"coordinates":[-75.569048,39.765139],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857718067,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.314399,38.784851,-75.314399,38.784851",
+    "geom:latitude":38.784851,
+    "geom:longitude":-75.314399,
+    "iso:country":"US",
+    "sg:address":"524 Union St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8545",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_69jPzZYATGIaffC58CHjBZ_38.784851_-75.314399@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221205,
+    "wof:geomhash":"a19769b6eef589d420f9614dea6d0c51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857718067
+        }
+    ],
+    "wof:id":857718067,
+    "wof:lastmodified":1464221205,
+    "wof:name":"Milton Health Ctr",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.314399,
+    38.784851,
+    -75.314399,
+    38.784851
+],
+  "geometry": {"coordinates":[-75.31439899999999,38.784851],"type":"Point"}
+}

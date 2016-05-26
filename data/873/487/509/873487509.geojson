@@ -1,0 +1,73 @@
+{
+  "id": 873487509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.376379,38.696657,-75.376379,38.696657",
+    "geom:latitude":38.696657,
+    "geom:longitude":-75.376379,
+    "iso:country":"US",
+    "sg:address":"942 E Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7880",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UDqygauT9H2Wex1PSmZdU_38.696657_-75.376379@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222397,
+    "wof:geomhash":"4f95a957dc246545c35363aa0d979088",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873487509
+        }
+    ],
+    "wof:id":873487509,
+    "wof:lastmodified":1464222397,
+    "wof:name":"Triangle Electrical Svc Co",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.376379,
+    38.696657,
+    -75.376379,
+    38.696657
+],
+  "geometry": {"coordinates":[-75.376379,38.696657],"type":"Point"}
+}

@@ -1,0 +1,81 @@
+{
+  "id": 873479449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548487,39.743026,-75.548487,39.743026",
+    "geom:latitude":39.743026,
+    "geom:longitude":-75.548487,
+    "iso:country":"US",
+    "sg:address":"707 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 9300",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "banquet",
+        "rooms"
+    ],
+    "sg:website":"www.brandywinesuites.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IYvLULaAiKiV2SC7vHXFW_39.743026_-75.548487@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222083,
+    "wof:geomhash":"f6958337244cd30225ffc265cca3aea1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873479449
+        }
+    ],
+    "wof:id":873479449,
+    "wof:lastmodified":1464222083,
+    "wof:name":"Brandywine Suites Hotel",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "banquet",
+        "rooms"
+    ]
+},
+  "bbox": [
+    -75.548487,
+    39.743026,
+    -75.548487,
+    39.743026
+],
+  "geometry": {"coordinates":[-75.54848699999999,39.743026],"type":"Point"}
+}

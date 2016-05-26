@@ -1,0 +1,71 @@
+{
+  "id": 857725711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736285,39.029462,-75.736285,39.029462",
+    "geom:latitude":39.029462,
+    "geom:longitude":-75.736285,
+    "iso:country":"US",
+    "sg:address":"382 Drapers Mill Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Dairy Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9251",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grain",
+        "farmer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oeEycNR7jwARsCiAH22Ff_39.029462_-75.736285@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221356,
+    "wof:geomhash":"e2f1ff725eb3df60a5c7f5c738a68d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857725711
+        }
+    ],
+    "wof:id":857725711,
+    "wof:lastmodified":1464221356,
+    "wof:name":"San Dee Farms Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grain",
+        "farmer"
+    ]
+},
+  "bbox": [
+    -75.736285,
+    39.029462,
+    -75.736285,
+    39.029462
+],
+  "geometry": {"coordinates":[-75.736285,39.029462],"type":"Point"}
+}

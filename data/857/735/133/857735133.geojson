@@ -1,0 +1,66 @@
+{
+  "id": 857735133,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546044,39.095166,-75.546044,39.095166",
+    "geom:latitude":39.095166,
+    "geom:longitude":-75.546044,
+    "iso:country":"US",
+    "sg:address":"4608 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 0100",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SLxVH0tnW630GGMlovIuU_39.095166_-75.546044@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221542,
+    "wof:geomhash":"ee260a90724db07463dd2aacdc8620e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857735133
+        }
+    ],
+    "wof:id":857735133,
+    "wof:lastmodified":1464221542,
+    "wof:name":"Glass Werks",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.546044,
+    39.095166,
+    -75.546044,
+    39.095166
+],
+  "geometry": {"coordinates":[-75.54604399999999,39.095166],"type":"Point"}
+}

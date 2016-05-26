@@ -1,0 +1,71 @@
+{
+  "id": 873507745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.619355,39.731264,-75.619355,39.731264",
+    "geom:latitude":39.731264,
+    "geom:longitude":-75.619355,
+    "iso:country":"US",
+    "sg:address":"1204 Centerville Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0518",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3t3FvPyNnztfGdejuf1XwJ_39.731264_-75.619355@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223271,
+    "wof:geomhash":"12badc142d645cfec70fcbc540323e58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873507745
+        }
+    ],
+    "wof:id":873507745,
+    "wof:lastmodified":1464223271,
+    "wof:name":"Steves Discount Liquors",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.619355,
+    39.731264,
+    -75.619355,
+    39.731264
+],
+  "geometry": {"coordinates":[-75.619355,39.731264],"type":"Point"}
+}

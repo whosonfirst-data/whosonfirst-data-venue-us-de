@@ -1,0 +1,73 @@
+{
+  "id": 857718987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.139579,38.726602,-75.139579,38.726602",
+    "geom:latitude":38.726602,
+    "geom:longitude":-75.139579,
+    "iso:country":"US",
+    "sg:address":"18941 John J Williams Hwy",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 6992",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ambulatory",
+        "surgical",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814899,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Pu51aFLF26CWUvxvJAMv0_38.726602_-75.139579@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221226,
+    "wof:geomhash":"09d19ed010fb8631b85aeeabd6983736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85814899,
+            "region_id":85688611,
+            "venue_id":857718987
+        }
+    ],
+    "wof:id":857718987,
+    "wof:lastmodified":1464221226,
+    "wof:name":"Southern Del Surgery Ctr LLC",
+    "wof:parent_id":85814899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ambulatory",
+        "surgical",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.139579,
+    38.726602,
+    -75.139579,
+    38.726602
+],
+  "geometry": {"coordinates":[-75.139579,38.726602],"type":"Point"}
+}

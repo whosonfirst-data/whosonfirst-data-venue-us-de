@@ -1,0 +1,71 @@
+{
+  "id": 873511565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544546,39.808742,-75.544546,39.808742",
+    "geom:latitude":39.808742,
+    "geom:longitude":-75.544546,
+    "iso:country":"US",
+    "sg:address":"3522 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 6787",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist",
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zOzz4mk8hdtboMjZHzSvx_39.808779_-75.543929@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223451,
+    "wof:geomhash":"023a5921ef42f559272d9b76861093b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873511565
+        }
+    ],
+    "wof:id":873511565,
+    "wof:lastmodified":1464223451,
+    "wof:name":"Weinstein Ralph S DDS",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist",
+        "clinic"
+    ]
+},
+  "bbox": [
+    -75.544546,
+    39.808742,
+    -75.544546,
+    39.808742
+],
+  "geometry": {"coordinates":[-75.544546,39.808742],"type":"Point"}
+}

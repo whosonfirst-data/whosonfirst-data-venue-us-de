@@ -1,0 +1,73 @@
+{
+  "id": 873501393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.681997,39.724466,-75.681997,39.724466",
+    "geom:latitude":39.724466,
+    "geom:longitude":-75.681997,
+    "iso:country":"US",
+    "sg:address":"2723 Burnley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 4995",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40ZEVw9PuKYr2g9MCdQTgh_39.724466_-75.681997@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223004,
+    "wof:geomhash":"3cf6b0e4fd3bf34634257db863ae231b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873501393
+        }
+    ],
+    "wof:id":873501393,
+    "wof:lastmodified":1464223004,
+    "wof:name":"Marine Alan Plumbing & Heating",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.681997,
+    39.724466,
+    -75.681997,
+    39.724466
+],
+  "geometry": {"coordinates":[-75.681997,39.724466],"type":"Point"}
+}

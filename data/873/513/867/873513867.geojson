@@ -1,0 +1,72 @@
+{
+  "id": 873513867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.660155,39.631757,-75.660155,39.631757",
+    "geom:latitude":39.631757,
+    "geom:longitude":-75.660155,
+    "iso:country":"US",
+    "sg:address":"928 Bear Corbitt Rd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/103502-ruby-tuesdays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 1039",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01fwJtp1k6Tp6CGtGwfUAc_39.632153_-75.659887@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223553,
+    "wof:geomhash":"40244225bdb1e1c746bed3d18eefd068",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513867
+        }
+    ],
+    "wof:id":873513867,
+    "wof:lastmodified":1464223553,
+    "wof:name":"Ruby Tuesdays",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.660155,
+    39.631757,
+    -75.660155,
+    39.631757
+],
+  "geometry": {"coordinates":[-75.660155,39.631757],"type":"Point"}
+}

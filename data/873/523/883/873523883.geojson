@@ -1,0 +1,85 @@
+{
+  "id": 873523883,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553688,39.054859,-75.553688,39.054859",
+    "geom:latitude":39.054859,
+    "geom:longitude":-75.553688,
+    "iso:country":"US",
+    "sg:address":"120 Crestwood Dr Ste A",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Mobile Phones",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 0351",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HoRikIRK84mNthMHzSZAw_39.054859_-75.553688@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224035,
+    "wof:geomhash":"293473f71fe1311f466860c377903ab1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873523883
+        }
+    ],
+    "wof:id":873523883,
+    "wof:lastmodified":1464224035,
+    "wof:name":"Canterbury Homes Inc",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.553688,
+    39.054859,
+    -75.553688,
+    39.054859
+],
+  "geometry": {"coordinates":[-75.55368799999999,39.054859],"type":"Point"}
+}

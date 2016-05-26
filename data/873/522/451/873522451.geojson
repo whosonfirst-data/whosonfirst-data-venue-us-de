@@ -1,0 +1,82 @@
+{
+  "id": 873522451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573378,39.204585,-75.573378,39.204585",
+    "geom:latitude":39.204585,
+    "geom:longitude":-75.573378,
+    "iso:country":"US",
+    "sg:address":"2979 Mckee Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2280",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "skip",
+        "tracing",
+        "bail",
+        "bond"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cLEeokSUv6P2RpTHPX6qw_39.204585_-75.573378@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223987,
+    "wof:geomhash":"3fcbfbd799d6b5abd9d1c7951faf3b12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522451
+        }
+    ],
+    "wof:id":873522451,
+    "wof:lastmodified":1464223987,
+    "wof:name":"Kent County Bail Bonds",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skip",
+        "tracing",
+        "bail",
+        "bond"
+    ]
+},
+  "bbox": [
+    -75.573378,
+    39.204585,
+    -75.573378,
+    39.204585
+],
+  "geometry": {"coordinates":[-75.57337800000001,39.204585],"type":"Point"}
+}

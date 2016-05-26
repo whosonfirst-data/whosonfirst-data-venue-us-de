@@ -1,0 +1,69 @@
+{
+  "id": 873468821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555132,39.689132,-75.555132,39.689132",
+    "geom:latitude":39.689132,
+    "geom:longitude":-75.555132,
+    "iso:country":"US",
+    "sg:address":"143 Bellanca Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 545 5333",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GwuzbTsmZb3B7HDWGPgOd_39.689132_-75.555132@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221681,
+    "wof:geomhash":"215a9adc1f5cd1a374c9f9812b6641ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873468821
+        }
+    ],
+    "wof:id":873468821,
+    "wof:lastmodified":1464221681,
+    "wof:name":"Paoletti & Weis",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.555132,
+    39.689132,
+    -75.555132,
+    39.689132
+],
+  "geometry": {"coordinates":[-75.555132,39.689132],"type":"Point"}
+}

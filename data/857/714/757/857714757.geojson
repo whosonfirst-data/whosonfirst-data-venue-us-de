@@ -1,0 +1,71 @@
+{
+  "id": 857714757,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.661327,39.732392,-75.661327,39.732392",
+    "geom:latitude":39.732392,
+    "geom:longitude":-75.661327,
+    "iso:country":"US",
+    "sg:address":"2603 Pecksniff Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6249",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "repair"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2z3Y5wltoQQj3vgED9XkxF_39.732392_-75.661327@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221143,
+    "wof:geomhash":"403cb440a59953803e3e41a89b5e9fed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857714757
+        }
+    ],
+    "wof:id":857714757,
+    "wof:lastmodified":1464221143,
+    "wof:name":"M & J Service",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "repair"
+    ]
+},
+  "bbox": [
+    -75.661327,
+    39.732392,
+    -75.661327,
+    39.732392
+],
+  "geometry": {"coordinates":[-75.661327,39.732392],"type":"Point"}
+}

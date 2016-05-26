@@ -1,0 +1,71 @@
+{
+  "id": 857706601,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.660625,39.725598,-75.660625,39.725598",
+    "geom:latitude":39.725598,
+    "geom:longitude":-75.660625,
+    "iso:country":"US",
+    "sg:address":"2371 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 1757",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jUiF8rQrjDG3DlChdiMsI_39.725598_-75.660625@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220942,
+    "wof:geomhash":"e5e634ff93bb260ee02b63995c09836f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857706601
+        }
+    ],
+    "wof:id":857706601,
+    "wof:lastmodified":1464220942,
+    "wof:name":"Wilmington Trust Company",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.660625,
+    39.725598,
+    -75.660625,
+    39.725598
+],
+  "geometry": {"coordinates":[-75.660625,39.725598],"type":"Point"}
+}

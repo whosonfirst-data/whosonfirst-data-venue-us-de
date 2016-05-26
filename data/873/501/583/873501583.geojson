@@ -1,0 +1,71 @@
+{
+  "id": 873501583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634898,39.785754,-75.634898,39.785754",
+    "geom:latitude":39.785754,
+    "geom:longitude":-75.634898,
+    "iso:country":"US",
+    "sg:address":"1652 Hillside Mill Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 218 2656",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79dhzWxe9uzVdndZarReg4_39.785754_-75.634898@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223014,
+    "wof:geomhash":"5f04ac125ea5eac6a3e9f17c79ff10d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":873501583
+        }
+    ],
+    "wof:id":873501583,
+    "wof:lastmodified":1464223014,
+    "wof:name":"McAnulla Electrical Cnstr LLC",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.634898,
+    39.785754,
+    -75.634898,
+    39.785754
+],
+  "geometry": {"coordinates":[-75.63489800000001,39.785754],"type":"Point"}
+}

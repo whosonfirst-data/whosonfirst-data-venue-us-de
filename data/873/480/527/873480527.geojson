@@ -1,0 +1,71 @@
+{
+  "id": 873480527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.576978,38.689531,-75.576978,38.689531",
+    "geom:latitude":38.689531,
+    "geom:longitude":-75.576978,
+    "iso:country":"US",
+    "sg:address":"21804 Eskridge Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 7297",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3uHywfm4WQXLrchiF2e31d_38.689531_-75.576978@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222133,
+    "wof:geomhash":"ed641ce18594626a9f9121811a24be39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873480527
+        }
+    ],
+    "wof:id":873480527,
+    "wof:lastmodified":1464222133,
+    "wof:name":"Four Paws Animal Hospital",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -75.576978,
+    38.689531,
+    -75.576978,
+    38.689531
+],
+  "geometry": {"coordinates":[-75.576978,38.689531],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873478551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524588,39.797768,-75.524588,39.797768",
+    "geom:latitude":39.797768,
+    "geom:longitude":-75.524588,
+    "iso:country":"US",
+    "sg:address":"1314 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 3135",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85820951,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Rgq2gFQKzYQmCWy4gosJ6_39.797768_-75.524588@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222044,
+    "wof:geomhash":"2645b6bb5c7984c204a68f6286a2ac54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85820951,
+            "region_id":85688611,
+            "venue_id":873478551
+        }
+    ],
+    "wof:id":873478551,
+    "wof:lastmodified":1464222044,
+    "wof:name":"St Paul's United Methodist",
+    "wof:parent_id":85820951,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.524588,
+    39.797768,
+    -75.524588,
+    39.797768
+],
+  "geometry": {"coordinates":[-75.52458799999999,39.797768],"type":"Point"}
+}

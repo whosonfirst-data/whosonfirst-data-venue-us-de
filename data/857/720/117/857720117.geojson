@@ -1,0 +1,69 @@
+{
+  "id": 857720117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.501372,39.772343,-75.501372,39.772343",
+    "geom:latitude":39.772343,
+    "geom:longitude":-75.501372,
+    "iso:country":"US",
+    "sg:address":"204 Dupont Cir",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 5666",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xktXCtNGoQYKKQ31XNqiO_39.772343_-75.501372@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221252,
+    "wof:geomhash":"64bf717ffa15c1e21e7aafe622587f41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":857720117
+        }
+    ],
+    "wof:id":857720117,
+    "wof:lastmodified":1464221252,
+    "wof:name":"Glenn Vernon Plumbing",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.501372,
+    39.772343,
+    -75.501372,
+    39.772343
+],
+  "geometry": {"coordinates":[-75.501372,39.772343],"type":"Point"}
+}

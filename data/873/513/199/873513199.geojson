@@ -1,0 +1,74 @@
+{
+  "id": 873513199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.7464,39.68921,-75.7464,39.68921",
+    "geom:latitude":39.68921,
+    "geom:longitude":-75.7464,
+    "iso:country":"US",
+    "sg:address":"100 Creek View Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/26866-timothys-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 9915",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "irish",
+        "american",
+        "pub"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4vkL8J02ZGS2WR78q1imd7_39.689210_-75.746400@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223521,
+    "wof:geomhash":"02f73c814778e2b26835312e99c144b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513199
+        }
+    ],
+    "wof:id":873513199,
+    "wof:lastmodified":1464223521,
+    "wof:name":"Timothy's Grill",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irish",
+        "american",
+        "pub"
+    ]
+},
+  "bbox": [
+    -75.7464,
+    39.68921,
+    -75.7464,
+    39.68921
+],
+  "geometry": {"coordinates":[-75.74639999999999,39.68921],"type":"Point"}
+}

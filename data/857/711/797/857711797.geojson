@@ -1,0 +1,71 @@
+{
+  "id": 857711797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.312752,38.773655,-75.312752,38.773655",
+    "geom:latitude":38.773655,
+    "geom:longitude":-75.312752,
+    "iso:country":"US",
+    "sg:address":"418 Federal St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8044",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VfiwM7k1IXtKGGqimRMYv_38.773655_-75.312752@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221074,
+    "wof:geomhash":"6ea8ce0532aafe486be15b73dae289d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857711797
+        }
+    ],
+    "wof:id":857711797,
+    "wof:lastmodified":1464221074,
+    "wof:name":"Fred H Pepper Greenhouse",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -75.312752,
+    38.773655,
+    -75.312752,
+    38.773655
+],
+  "geometry": {"coordinates":[-75.312752,38.773655],"type":"Point"}
+}

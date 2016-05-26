@@ -1,0 +1,69 @@
+{
+  "id": 873500115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.65727,39.724239,-75.65727,39.724239",
+    "geom:latitude":39.724239,
+    "geom:longitude":-75.65727,
+    "iso:country":"US",
+    "sg:address":"4530 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 7980",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OE72asD97h3NaFehEDy1Y_39.724239_-75.657270@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222942,
+    "wof:geomhash":"a895c4c9eddfbf2d6cec1ff6b8317955",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873500115
+        }
+    ],
+    "wof:id":873500115,
+    "wof:lastmodified":1464222942,
+    "wof:name":"LA Nail Salon",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -75.65727,
+    39.724239,
+    -75.65727,
+    39.724239
+],
+  "geometry": {"coordinates":[-75.65727,39.724239],"type":"Point"}
+}

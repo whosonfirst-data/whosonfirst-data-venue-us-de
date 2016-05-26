@@ -1,0 +1,75 @@
+{
+  "id": 857698265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.513366,39.160854,-75.513366,39.160854",
+    "geom:latitude":39.160854,
+    "geom:longitude":-75.513366,
+    "iso:country":"US",
+    "sg:address":"222 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2200",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hotel",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Dd4Hu9FHSdFsvS7zY6Lmi_39.160854_-75.513366@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220778,
+    "wof:geomhash":"414ffb0ab3a6a97993896ddce8f0ca26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":857698265
+        }
+    ],
+    "wof:id":857698265,
+    "wof:lastmodified":1464220778,
+    "wof:name":"Hub Associates",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hotel",
+        "management"
+    ]
+},
+  "bbox": [
+    -75.513366,
+    39.160854,
+    -75.513366,
+    39.160854
+],
+  "geometry": {"coordinates":[-75.513366,39.160854],"type":"Point"}
+}

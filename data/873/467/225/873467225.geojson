@@ -1,0 +1,71 @@
+{
+  "id": 873467225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.706209,39.714132,-75.706209,39.714132",
+    "geom:latitude":39.714132,
+    "geom:longitude":-75.706209,
+    "iso:country":"US",
+    "sg:address":"6 Graham Ct",
+    "sg:city":"Middletown",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 378 8440",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "communication",
+        "radiotelephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Owh6HJ5FnLxqq464jK0kR_39.714132_-75.706209@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221626,
+    "wof:geomhash":"bd31af508cc7522988b975b7fedabddf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873467225
+        }
+    ],
+    "wof:id":873467225,
+    "wof:lastmodified":1464221626,
+    "wof:name":"Totally Wireless",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "communication",
+        "radiotelephone"
+    ]
+},
+  "bbox": [
+    -75.706209,
+    39.714132,
+    -75.706209,
+    39.714132
+],
+  "geometry": {"coordinates":[-75.706209,39.714132],"type":"Point"}
+}

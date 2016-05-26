@@ -1,0 +1,93 @@
+{
+  "id": 873524895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565029,38.630587,-75.565029,38.630587",
+    "geom:latitude":38.630587,
+    "geom:longitude":-75.565029,
+    "iso:country":"US",
+    "sg:address":"26029 Bethel Concord Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 0500",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surplus",
+        "automobile",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "rebuilt",
+        "salvage",
+        "merchandise",
+        "manufacturer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67s0MzvIzAs6dRge16Mn5D_38.630587_-75.565029@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224075,
+    "wof:geomhash":"3dccd3c52ea48605310c4dd1fb34ac26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873524895
+        }
+    ],
+    "wof:id":873524895,
+    "wof:lastmodified":1464224075,
+    "wof:name":"Murray Motors",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surplus",
+        "automobile",
+        "rebuilt-wholesale",
+        "supplies-used",
+        "rebuilt",
+        "salvage",
+        "merchandise",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.565029,
+    38.630587,
+    -75.565029,
+    38.630587
+],
+  "geometry": {"coordinates":[-75.565029,38.630587],"type":"Point"}
+}

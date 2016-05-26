@@ -1,0 +1,73 @@
+{
+  "id": 857706349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517288,39.168396,-75.517288,39.168396",
+    "geom:latitude":39.168396,
+    "geom:longitude":-75.517288,
+    "iso:country":"US",
+    "sg:address":"226 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 6011",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PgEqbIU7ztB9cUXsQAwdz_39.168396_-75.517288@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220938,
+    "wof:geomhash":"64d0788bbd46487f4aa6fecc7a1d6595",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":857706349
+        }
+    ],
+    "wof:id":857706349,
+    "wof:lastmodified":1464220938,
+    "wof:name":"Dover Soft Touch Car Wash",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -75.517288,
+    39.168396,
+    -75.517288,
+    39.168396
+],
+  "geometry": {"coordinates":[-75.51728799999999,39.168396],"type":"Point"}
+}

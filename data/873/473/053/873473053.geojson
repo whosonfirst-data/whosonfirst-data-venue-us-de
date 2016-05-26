@@ -1,0 +1,85 @@
+{
+  "id": 873473053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56648,39.158455,-75.56648,39.158455",
+    "geom:latitude":39.158455,
+    "geom:longitude":-75.56648,
+    "iso:country":"US",
+    "sg:address":"1522 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 0776",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1GEvpmgh1slApxDVYgJcfJ_39.158455_-75.566480@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221844,
+    "wof:geomhash":"c78c5cdc9ec861e464dbb61508d62f55",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873473053
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873473053
+        }
+    ],
+    "wof:id":873473053,
+    "wof:lastmodified":1464221844,
+    "wof:name":"Stelljes Paving & Excavating",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.56648,
+    39.158455,
+    -75.56648,
+    39.158455
+],
+  "geometry": {"coordinates":[-75.56648,39.158455],"type":"Point"}
+}

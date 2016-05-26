@@ -1,0 +1,73 @@
+{
+  "id": 873477771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604373,39.743134,-75.604373,39.743134",
+    "geom:latitude":39.743134,
+    "geom:longitude":-75.604373,
+    "iso:country":"US",
+    "sg:address":"1302 Montgomery Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 6990",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "construct",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IsgmpdVAdqCWo75YKcBp5_39.743134_-75.604373@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222011,
+    "wof:geomhash":"9f47f7e86221c8ef5ac29be7bcba95a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873477771
+        }
+    ],
+    "wof:id":873477771,
+    "wof:lastmodified":1464222011,
+    "wof:name":"Kuhns Custom Builders",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "construct",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.604373,
+    39.743134,
+    -75.604373,
+    39.743134
+],
+  "geometry": {"coordinates":[-75.604373,39.743134],"type":"Point"}
+}

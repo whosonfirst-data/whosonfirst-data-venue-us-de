@@ -1,0 +1,71 @@
+{
+  "id": 873506965,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.608128,39.737401,-75.608128,39.737401",
+    "geom:latitude":39.737401,
+    "geom:longitude":-75.608128,
+    "iso:country":"US",
+    "sg:address":"305 Brookside Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 8831",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IpAuLX0ymykiIEDgEs4Db_39.737401_-75.608128@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223236,
+    "wof:geomhash":"bb5504dd33bbec7f1dbb4cd0a8d82eca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873506965
+        }
+    ],
+    "wof:id":873506965,
+    "wof:lastmodified":1464223236,
+    "wof:name":"Wardell Trucking",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.608128,
+    39.737401,
+    -75.608128,
+    39.737401
+],
+  "geometry": {"coordinates":[-75.60812799999999,39.737401],"type":"Point"}
+}

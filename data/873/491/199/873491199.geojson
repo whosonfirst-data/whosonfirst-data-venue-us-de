@@ -1,0 +1,66 @@
+{
+  "id": 873491199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.616423,39.295665,-75.616423,39.295665",
+    "geom:latitude":39.295665,
+    "geom:longitude":-75.616423,
+    "iso:country":"US",
+    "sg:address":"627 Smyrna Clayton Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2400",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7e9EG6j3943ouZZNS5oUyx_39.295665_-75.616423@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222538,
+    "wof:geomhash":"662fd1afd9e051472d8dd790e2713069",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873491199
+        }
+    ],
+    "wof:id":873491199,
+    "wof:lastmodified":1464222538,
+    "wof:name":"Smyrna Dairy Market",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.616423,
+    39.295665,
+    -75.616423,
+    39.295665
+],
+  "geometry": {"coordinates":[-75.616423,39.295665],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873475763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569476,38.910905,-75.569476,38.910905",
+    "geom:latitude":38.910905,
+    "geom:longitude":-75.569476,
+    "iso:country":"US",
+    "sg:address":"18011 S Dupont Hwy",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4630",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "saddlery",
+        "harness"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BYGZh4Ts5IKzttISPhNw1_38.910905_-75.569476@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221940,
+    "wof:geomhash":"72f882a7b37a1c07ab89b842ab1f52a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873475763
+        }
+    ],
+    "wof:id":873475763,
+    "wof:lastmodified":1464221940,
+    "wof:name":"Chick's",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saddlery",
+        "harness"
+    ]
+},
+  "bbox": [
+    -75.569476,
+    38.910905,
+    -75.569476,
+    38.910905
+],
+  "geometry": {"coordinates":[-75.56947599999999,38.910905],"type":"Point"}
+}

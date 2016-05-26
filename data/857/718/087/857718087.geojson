@@ -1,0 +1,71 @@
+{
+  "id": 857718087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554188,39.705004,-75.554188,39.705004",
+    "geom:latitude":39.705004,
+    "geom:longitude":-75.554188,
+    "iso:country":"US",
+    "sg:address":"409 Robinson Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 661 1340",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "item",
+        "boutique"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ZjbU7m2lMo0UMasAiYN7h_39.705004_-75.554188@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221205,
+    "wof:geomhash":"9af99fe525ed31422110927693b92e9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857718087
+        }
+    ],
+    "wof:id":857718087,
+    "wof:lastmodified":1464221205,
+    "wof:name":"Gallery Museum Boutique",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "item",
+        "boutique"
+    ]
+},
+  "bbox": [
+    -75.554188,
+    39.705004,
+    -75.554188,
+    39.705004
+],
+  "geometry": {"coordinates":[-75.554188,39.705004],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873516013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.741955,39.683937,-75.741955,39.683937",
+    "geom:latitude":39.683937,
+    "geom:longitude":-75.741955,
+    "iso:country":"US",
+    "sg:address":"276 E Main St Ste 200",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"Senior",
+            "type":"Public Place"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 9270",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "counseling",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1neXiblIFYLuKLv7NSaChc_39.683937_-75.741955@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223663,
+    "wof:geomhash":"41626a9fd2144bf1603322a7cc960470",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873516013
+        }
+    ],
+    "wof:id":873516013,
+    "wof:lastmodified":1464223663,
+    "wof:name":"Campanion Hearts",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -75.741955,
+    39.683937,
+    -75.741955,
+    39.683937
+],
+  "geometry": {"coordinates":[-75.741955,39.683937],"type":"Point"}
+}

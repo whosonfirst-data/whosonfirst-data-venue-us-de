@@ -1,0 +1,87 @@
+{
+  "id": 873522817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561699,39.199341,-75.561699,39.199341",
+    "geom:latitude":39.199341,
+    "geom:longitude":-75.561699,
+    "iso:country":"US",
+    "sg:address":"100 Campus Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 857 1000",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "technical",
+        "industrial",
+        "college",
+        "trade"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3A3ZQm9GLeh6VViTfB4PpS_39.199341_-75.561699@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223999,
+    "wof:geomhash":"64fe098ec9aca879ec8851af210f9d4d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522817
+        }
+    ],
+    "wof:id":873522817,
+    "wof:lastmodified":1464223999,
+    "wof:name":"Delaware Technical Cmnty Clg",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "industrial",
+        "college",
+        "trade"
+    ]
+},
+  "bbox": [
+    -75.561699,
+    39.199341,
+    -75.561699,
+    39.199341
+],
+  "geometry": {"coordinates":[-75.561699,39.199341],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873512713,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.742992,39.687117,-75.742992,39.687117",
+    "geom:latitude":39.687117,
+    "geom:longitude":-75.742992,
+    "iso:country":"US",
+    "sg:address":"244 E Cleveland Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 0100",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "sg:website":"http://www.newarkcjd.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CpTjD8W5D4YVAhcxwFErH_39.687235_-75.743607@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223501,
+    "wof:geomhash":"b285917ec3a62fc911c798c19a026295",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873512713
+        }
+    ],
+    "wof:id":873512713,
+    "wof:lastmodified":1464223501,
+    "wof:name":"Newark Chrysler Jeep",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -75.742992,
+    39.687117,
+    -75.742992,
+    39.687117
+],
+  "geometry": {"coordinates":[-75.742992,39.687117],"type":"Point"}
+}

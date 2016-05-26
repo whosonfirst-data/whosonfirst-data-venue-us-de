@@ -1,0 +1,71 @@
+{
+  "id": 873473511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.397381,38.687641,-75.397381,38.687641",
+    "geom:latitude":38.687641,
+    "geom:longitude":-75.397381,
+    "iso:country":"US",
+    "sg:address":"228 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 9400",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2sb2yIMlGq4jgbN0pteNeH_38.687641_-75.397381@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221864,
+    "wof:geomhash":"c75c4ed64c4ab9231f9feabeca555c8d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873473511
+        }
+    ],
+    "wof:id":873473511,
+    "wof:lastmodified":1464221864,
+    "wof:name":"Jeffrey J Brown DMD",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.397381,
+    38.687641,
+    -75.397381,
+    38.687641
+],
+  "geometry": {"coordinates":[-75.397381,38.687641],"type":"Point"}
+}

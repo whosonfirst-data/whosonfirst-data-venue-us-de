@@ -1,0 +1,73 @@
+{
+  "id": 857707959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.669213,39.666663,-75.669213,39.666663",
+    "geom:latitude":39.666663,
+    "geom:longitude":-75.669213,
+    "iso:country":"US",
+    "sg:address":"63 University Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 8390",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DI0tmBGel7ZShEs0D0BH2_39.666663_-75.669213@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220971,
+    "wof:geomhash":"404cf69fc49734028f233c3a0c6dfc6e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857707959
+        }
+    ],
+    "wof:id":857707959,
+    "wof:lastmodified":1464220971,
+    "wof:name":"CAPD Clinic",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kidney",
+        "dialysis",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.669213,
+    39.666663,
+    -75.669213,
+    39.666663
+],
+  "geometry": {"coordinates":[-75.669213,39.666663],"type":"Point"}
+}

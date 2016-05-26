@@ -1,0 +1,76 @@
+{
+  "id": 857689581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625472,39.057029,-75.625472,39.057029",
+    "geom:latitude":39.057029,
+    "geom:longitude":-75.625472,
+    "iso:country":"US",
+    "sg:address":"622 Henry Cowgill Rd",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9206",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5A5innS34BgBAJO1mMIlNW_39.057029_-75.625472@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220609,
+    "wof:geomhash":"8ee844531a06c22e7f2c5fa46b49a21a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857689581
+        }
+    ],
+    "wof:id":857689581,
+    "wof:lastmodified":1464220609,
+    "wof:name":"D & G Fencing Inc",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.625472,
+    39.057029,
+    -75.625472,
+    39.057029
+],
+  "geometry": {"coordinates":[-75.625472,39.057029],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873488555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.380479,38.694221,-75.380479,38.694221",
+    "geom:latitude":38.694221,
+    "geom:longitude":-75.380479,
+    "iso:country":"US",
+    "sg:address":"603 E Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2534",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20uEU7YXAOi6pmKV12Hs8g_38.694221_-75.380479@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222442,
+    "wof:geomhash":"d0844d4342ffd7f3b571a6807bb66485",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873488555
+        }
+    ],
+    "wof:id":873488555,
+    "wof:lastmodified":1464222442,
+    "wof:name":"Karens Home Daycare",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.380479,
+    38.694221,
+    -75.380479,
+    38.694221
+],
+  "geometry": {"coordinates":[-75.38047899999999,38.694221],"type":"Point"}
+}

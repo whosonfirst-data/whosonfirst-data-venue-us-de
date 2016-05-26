@@ -1,0 +1,68 @@
+{
+  "id": 873516139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.734881,39.657888,-75.734881,39.657888",
+    "geom:latitude":39.657888,
+    "geom:longitude":-75.734881,
+    "iso:country":"US",
+    "sg:address":"927 S Chapel St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 0690",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PWyF9BEeajRx17imZfR6P_39.657888_-75.734881@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223668,
+    "wof:geomhash":"8034617b917bdf99d00172bea9153602",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873516139
+        }
+    ],
+    "wof:id":873516139,
+    "wof:lastmodified":1464223668,
+    "wof:name":"Dollar Land",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.734881,
+    39.657888,
+    -75.734881,
+    39.657888
+],
+  "geometry": {"coordinates":[-75.734881,39.657888],"type":"Point"}
+}

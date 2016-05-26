@@ -1,0 +1,73 @@
+{
+  "id": 857698807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.533689,39.745582,-75.533689,39.745582",
+    "geom:latitude":39.745582,
+    "geom:longitude":-75.533689,
+    "iso:country":"US",
+    "sg:address":"1407 Thatcher St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 0616",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vVlnQmY0TJ80gI7LcPnIP_39.745582_-75.533689@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220788,
+    "wof:geomhash":"69050274d2ed58dc6d08ddcdf6f44959",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":857698807
+        }
+    ],
+    "wof:id":857698807,
+    "wof:lastmodified":1464220788,
+    "wof:name":"Little Africa",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.533689,
+    39.745582,
+    -75.533689,
+    39.745582
+],
+  "geometry": {"coordinates":[-75.533689,39.745582],"type":"Point"}
+}

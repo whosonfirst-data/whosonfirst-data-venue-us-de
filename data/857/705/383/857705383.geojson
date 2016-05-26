@@ -1,0 +1,71 @@
+{
+  "id": 857705383,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504828,39.802488,-75.504828,39.802488",
+    "geom:latitude":39.802488,
+    "geom:longitude":-75.504828,
+    "iso:country":"US",
+    "sg:address":"1818 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 0756",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16Ti7BEs7ac6EAeLEpW88g_39.802488_-75.504828@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220921,
+    "wof:geomhash":"b68dd11f1a1e2037e62869637bc25c78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":857705383
+        }
+    ],
+    "wof:id":857705383,
+    "wof:lastmodified":1464220921,
+    "wof:name":"Stan Peroskis Plumbing & Htg",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.504828,
+    39.802488,
+    -75.504828,
+    39.802488
+],
+  "geometry": {"coordinates":[-75.504828,39.802488],"type":"Point"}
+}

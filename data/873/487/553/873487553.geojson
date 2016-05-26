@@ -1,0 +1,71 @@
+{
+  "id": 873487553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554618,39.070818,-75.554618,39.070818",
+    "geom:latitude":39.070818,
+    "geom:longitude":-75.554618,
+    "iso:country":"US",
+    "sg:address":"132 West Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3042",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1sQfew8FRc6JNz9gJEFTs2_39.070818_-75.554618@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222399,
+    "wof:geomhash":"84693805d2fd6dd03af4a9ab79597386",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873487553
+        }
+    ],
+    "wof:id":873487553,
+    "wof:lastmodified":1464222399,
+    "wof:name":"Everetts Mobile Home Maintance",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.554618,
+    39.070818,
+    -75.554618,
+    39.070818
+],
+  "geometry": {"coordinates":[-75.554618,39.070818],"type":"Point"}
+}

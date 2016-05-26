@@ -1,0 +1,77 @@
+{
+  "id": 873521121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5448,39.098,-75.5448,39.098",
+    "geom:latitude":39.098,
+    "geom:longitude":-75.5448,
+    "iso:country":"US",
+    "sg:address":"4698 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 8407",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"www.cd-ca.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IQlLk5eicXiPPsAFh8mUw_39.098000_-75.544800@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223929,
+    "wof:geomhash":"2bf89b0df953da6c5500d3a3c25693b1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873521121
+        }
+    ],
+    "wof:id":873521121,
+    "wof:lastmodified":1464223929,
+    "wof:name":"Central Delaware Christian Academy",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.5448,
+    39.098,
+    -75.5448,
+    39.098
+],
+  "geometry": {"coordinates":[-75.5448,39.098],"type":"Point"}
+}

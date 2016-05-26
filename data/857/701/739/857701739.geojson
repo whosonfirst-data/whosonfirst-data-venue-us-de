@@ -1,0 +1,75 @@
+{
+  "id": 857701739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.653775,39.630069,-75.653775,39.630069",
+    "geom:latitude":39.630069,
+    "geom:longitude":-75.653775,
+    "iso:country":"US",
+    "sg:address":"3 Hillary Cir",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Vocational School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 1235",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "training"
+    ],
+    "sg:website":"www.infertech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cOu2uE9hPLntCx14ROoVx_39.630069_-75.653775@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220855,
+    "wof:geomhash":"cfe478df665a4f32a9297d5b66a0517a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857701739
+        }
+    ],
+    "wof:id":857701739,
+    "wof:lastmodified":1464220855,
+    "wof:name":"Infertech Consulting Training",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "training"
+    ]
+},
+  "bbox": [
+    -75.653775,
+    39.630069,
+    -75.653775,
+    39.630069
+],
+  "geometry": {"coordinates":[-75.653775,39.630069],"type":"Point"}
+}

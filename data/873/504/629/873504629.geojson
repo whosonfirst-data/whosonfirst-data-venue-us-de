@@ -1,0 +1,75 @@
+{
+  "id": 873504629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552757,39.738357,-75.552757,39.738357",
+    "geom:latitude":39.738357,
+    "geom:longitude":-75.552757,
+    "iso:country":"US",
+    "sg:address":"123 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 9385",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PrFDebJhXeLSPDDq7uwh1_39.738357_-75.552757@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223135,
+    "wof:geomhash":"20323564b75bc415c5bf2dff08a8ae08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873504629
+        }
+    ],
+    "wof:id":873504629,
+    "wof:lastmodified":1464223135,
+    "wof:name":"1-800-Got Junk",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -75.552757,
+    39.738357,
+    -75.552757,
+    39.738357
+],
+  "geometry": {"coordinates":[-75.552757,39.738357],"type":"Point"}
+}

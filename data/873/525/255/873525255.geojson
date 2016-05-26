@@ -1,0 +1,82 @@
+{
+  "id": 873525255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603689,39.294218,-75.603689,39.294218",
+    "geom:latitude":39.294218,
+    "geom:longitude":-75.603689,
+    "iso:country":"US",
+    "sg:address":"135 Lake Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 9522",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "seed",
+        "growers'",
+        "bulb"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FyUL5Cajjx9wQ4TB0JTER_39.294218_-75.603689@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224089,
+    "wof:geomhash":"fc122887d79a33510e010fedf2d8766c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525255
+        }
+    ],
+    "wof:id":873525255,
+    "wof:lastmodified":1464224089,
+    "wof:name":"Ford Seed Service",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "seed",
+        "growers'",
+        "bulb"
+    ]
+},
+  "bbox": [
+    -75.603689,
+    39.294218,
+    -75.603689,
+    39.294218
+],
+  "geometry": {"coordinates":[-75.603689,39.294218],"type":"Point"}
+}

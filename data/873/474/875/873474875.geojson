@@ -1,0 +1,83 @@
+{
+  "id": 873474875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543538,39.727015,-75.543538,39.727015",
+    "geom:latitude":39.727015,
+    "geom:longitude":-75.543538,
+    "iso:country":"US",
+    "sg:address":"600 S Claymont St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 4965",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UMPevvZGja8012Ak4tGYT_39.727015_-75.543538@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221910,
+    "wof:geomhash":"04f9fc54c168443b579f4cd8615b5e0c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873474875
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":873474875
+        }
+    ],
+    "wof:id":873474875,
+    "wof:lastmodified":1464221910,
+    "wof:name":"New Life Baptist Church Of De",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.543538,
+    39.727015,
+    -75.543538,
+    39.727015
+],
+  "geometry": {"coordinates":[-75.543538,39.727015],"type":"Point"}
+}

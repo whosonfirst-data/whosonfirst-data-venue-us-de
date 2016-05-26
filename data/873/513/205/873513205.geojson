@@ -1,0 +1,70 @@
+{
+  "id": 873513205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744482,39.683873,-75.744482,39.683873",
+    "geom:latitude":39.683873,
+    "geom:longitude":-75.744482,
+    "iso:country":"US",
+    "sg:address":"230 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/20346-la-tolteca/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 8220",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63JeOJ91JeJE76w82Nlgnh_39.683873_-75.744482@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223521,
+    "wof:geomhash":"9216b36ac9f82bec716a9ba394daaa7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513205
+        }
+    ],
+    "wof:id":873513205,
+    "wof:lastmodified":1464223521,
+    "wof:name":"La Tolteca",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -75.744482,
+    39.683873,
+    -75.744482,
+    39.683873
+],
+  "geometry": {"coordinates":[-75.744482,39.683873],"type":"Point"}
+}

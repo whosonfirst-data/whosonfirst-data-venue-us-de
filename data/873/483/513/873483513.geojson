@@ -1,0 +1,66 @@
+{
+  "id": 873483513,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.593114,39.280606,-75.593114,39.280606",
+    "geom:latitude":39.280606,
+    "geom:longitude":-75.593114,
+    "iso:country":"US",
+    "sg:address":"1628 S Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 6131",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YiMniTPRnABiAPoQyyHsg_39.280606_-75.593114@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222252,
+    "wof:geomhash":"c547ec5efebb6b1eb32969438a288b0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873483513
+        }
+    ],
+    "wof:id":873483513,
+    "wof:lastmodified":1464222252,
+    "wof:name":"Smyrna Liquors",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.593114,
+    39.280606,
+    -75.593114,
+    39.280606
+],
+  "geometry": {"coordinates":[-75.593114,39.280606],"type":"Point"}
+}

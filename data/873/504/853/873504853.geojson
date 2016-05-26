@@ -1,0 +1,74 @@
+{
+  "id": 873504853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566967,39.66347,-75.566967,39.66347",
+    "geom:latitude":39.66347,
+    "geom:longitude":-75.566967,
+    "iso:country":"US",
+    "sg:address":"721 Ferry Cut Off St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 6006",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WJKBVYKWycZV2JhxEPzfO_39.663470_-75.566967@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223151,
+    "wof:geomhash":"d4bee3f62fb4b5ebc9c4033b395c9a33",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873504853
+        }
+    ],
+    "wof:id":873504853,
+    "wof:lastmodified":1464223151,
+    "wof:name":"New Castle Deli",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -75.566967,
+    39.66347,
+    -75.566967,
+    39.66347
+],
+  "geometry": {"coordinates":[-75.56696700000001,39.66347],"type":"Point"}
+}

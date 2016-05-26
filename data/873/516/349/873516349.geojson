@@ -1,0 +1,78 @@
+{
+  "id": 873516349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.67328,39.689887,-75.67328,39.689887",
+    "geom:latitude":39.689887,
+    "geom:longitude":-75.67328,
+    "iso:country":"US",
+    "sg:address":"4745 Ogletown Stanton Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 2900",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jOcygNXCPSWGddtYbFRfJ_39.689887_-75.673280@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223676,
+    "wof:geomhash":"fdd85f310c698f0a4e962df0f8775b16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516349
+        }
+    ],
+    "wof:id":873516349,
+    "wof:lastmodified":1464223676,
+    "wof:name":"Lynn E Talley Md",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -75.67328,
+    39.689887,
+    -75.67328,
+    39.689887
+],
+  "geometry": {"coordinates":[-75.67328000000001,39.689887],"type":"Point"}
+}

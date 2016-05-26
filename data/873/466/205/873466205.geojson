@@ -1,0 +1,69 @@
+{
+  "id": 873466205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599586,39.644792,-75.599586,39.644792",
+    "geom:latitude":39.644792,
+    "geom:longitude":-75.599586,
+    "iso:country":"US",
+    "sg:address":"1023 River Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 8775",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ExLc38lshFo0C1H914kfP_39.644792_-75.599586@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221592,
+    "wof:geomhash":"64bd9867533779b667a055468d2fb127",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873466205
+        }
+    ],
+    "wof:id":873466205,
+    "wof:lastmodified":1464221592,
+    "wof:name":"A & A Towing Svc Inc",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -75.599586,
+    39.644792,
+    -75.599586,
+    39.644792
+],
+  "geometry": {"coordinates":[-75.599586,39.644792],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873515019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698624,39.75779,-75.698624,39.75779",
+    "geom:latitude":39.75779,
+    "geom:longitude":-75.698624,
+    "iso:country":"US",
+    "sg:address":"1 Signal Hill Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 224 5070",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mortgage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2D5rjFgOLf0VIG8AG4hfre_39.757790_-75.698624@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223621,
+    "wof:geomhash":"53dccb0be3976bb9ef2a7ec4b8b8efa4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873515019
+        }
+    ],
+    "wof:id":873515019,
+    "wof:lastmodified":1464223621,
+    "wof:name":"Roseland Residential Mortgage",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.698624,
+    39.75779,
+    -75.698624,
+    39.75779
+],
+  "geometry": {"coordinates":[-75.698624,39.75779],"type":"Point"}
+}

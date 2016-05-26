@@ -1,0 +1,75 @@
+{
+  "id": 857700375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565174,39.676902,-75.565174,39.676902",
+    "geom:latitude":39.676902,
+    "geom:longitude":-75.565174,
+    "iso:country":"US",
+    "sg:address":"456 Moores Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 8863",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bulk",
+        "station"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931555,
+        102083891,
+        85845649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d5vxa1E3xgtFkfyNtmydJ_39.676902_-75.565174@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220821,
+    "wof:geomhash":"d162fb99329342591acee72a6a87583d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931555,
+            "neighbourhood_id":85845649,
+            "region_id":85688611,
+            "venue_id":857700375
+        }
+    ],
+    "wof:id":857700375,
+    "wof:lastmodified":1464220821,
+    "wof:name":"Moores Lane Citgo",
+    "wof:parent_id":85845649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "station"
+    ]
+},
+  "bbox": [
+    -75.565174,
+    39.676902,
+    -75.565174,
+    39.676902
+],
+  "geometry": {"coordinates":[-75.565174,39.676902],"type":"Point"}
+}

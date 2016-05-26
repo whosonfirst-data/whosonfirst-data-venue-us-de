@@ -1,0 +1,75 @@
+{
+  "id": 873510259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60131,39.736631,-75.60131,39.736631",
+    "geom:latitude":39.736631,
+    "geom:longitude":-75.60131,
+    "iso:country":"US",
+    "sg:address":"146 Bungalow Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Signs",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 2443",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fsfc2yw3u4OIJ8Uhe5L4S_39.736631_-75.601310@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223387,
+    "wof:geomhash":"c456f47bf0cd150c98591267c45c81d1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":873510259
+        }
+    ],
+    "wof:id":873510259,
+    "wof:lastmodified":1464223387,
+    "wof:name":"Sign Shop",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.60131,
+    39.736631,
+    -75.60131,
+    39.736631
+],
+  "geometry": {"coordinates":[-75.60131,39.736631],"type":"Point"}
+}

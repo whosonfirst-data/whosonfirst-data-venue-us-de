@@ -1,0 +1,72 @@
+{
+  "id": 873513871,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746473,39.605847,-75.746473,39.605847",
+    "geom:latitude":39.605847,
+    "geom:longitude":-75.746473,
+    "iso:country":"US",
+    "sg:address":"2431 Pulaski Hwy ",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/central-pencader/81435-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 2600",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2HMD7HD20emwUjfWMPe5ED_39.605640_-75.745913@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223553,
+    "wof:geomhash":"59ab659e9886dc88cb2b42ef0e9db1b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873513871
+        }
+    ],
+    "wof:id":873513871,
+    "wof:lastmodified":1464223553,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.746473,
+    39.605847,
+    -75.746473,
+    39.605847
+],
+  "geometry": {"coordinates":[-75.74647299999999,39.605847],"type":"Point"}
+}

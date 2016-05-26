@@ -1,0 +1,77 @@
+{
+  "id": 873524047,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.300665,38.665157,-75.300665,38.665157",
+    "geom:latitude":38.665157,
+    "geom:longitude":-75.300665,
+    "iso:country":"US",
+    "sg:address":"22804 Gravel Hill Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 4035",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dFytMYtCopl0s6q96tl28_38.665157_-75.300665@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224042,
+    "wof:geomhash":"3eb7abbf53fcae773d9d0077e7fd787c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524047
+        }
+    ],
+    "wof:id":873524047,
+    "wof:lastmodified":1464224042,
+    "wof:name":"Integrity Electric",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [
+    -75.300665,
+    38.665157,
+    -75.300665,
+    38.665157
+],
+  "geometry": {"coordinates":[-75.300665,38.665157],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873513193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744816,39.687213,-75.744816,39.687213",
+    "geom:latitude":39.687213,
+    "geom:longitude":-75.744816,
+    "iso:country":"US",
+    "sg:address":"231 E Cleveland Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/20274-cleveland-avenue-sub-shop/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 8480",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "calzones",
+        "cheesesteaks",
+        "sandwich",
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_45exLRkic4Pc8ccYcFlNqV_39.687213_-75.744816@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223520,
+    "wof:geomhash":"06fc998f0059168778066eb200825917",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513193
+        }
+    ],
+    "wof:id":873513193,
+    "wof:lastmodified":1464223520,
+    "wof:name":"Cleveland Avenue Sub Shop",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "calzones",
+        "cheesesteaks",
+        "sandwich",
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.744816,
+    39.687213,
+    -75.744816,
+    39.687213
+],
+  "geometry": {"coordinates":[-75.744816,39.687213],"type":"Point"}
+}

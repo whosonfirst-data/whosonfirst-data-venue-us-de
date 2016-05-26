@@ -1,0 +1,71 @@
+{
+  "id": 857718741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522691,39.143489,-75.522691,39.143489",
+    "geom:latitude":39.143489,
+    "geom:longitude":-75.522691,
+    "iso:country":"US",
+    "sg:address":"1004 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9978",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bYeDKi3wr2el0VWaGlB22_39.143489_-75.522691@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221216,
+    "wof:geomhash":"373b36fed0453cd40843320bbac47bcc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":857718741
+        }
+    ],
+    "wof:id":857718741,
+    "wof:lastmodified":1464221216,
+    "wof:name":"Melvin's Sunoco Ultra",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.522691,
+    39.143489,
+    -75.522691,
+    39.143489
+],
+  "geometry": {"coordinates":[-75.52269099999999,39.143489],"type":"Point"}
+}

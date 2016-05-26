@@ -1,0 +1,73 @@
+{
+  "id": 873492689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.671614,39.038905,-75.671614,39.038905",
+    "geom:latitude":39.038905,
+    "geom:longitude":-75.671614,
+    "iso:country":"US",
+    "sg:address":"1266 Cabin Ridge Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 1348",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4OPsWHcEx84vv8PLajhbDY_39.038905_-75.671614@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222589,
+    "wof:geomhash":"06a7fbfe539dd42dc8e88fb27e3f38be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873492689
+        }
+    ],
+    "wof:id":873492689,
+    "wof:lastmodified":1464222589,
+    "wof:name":"Glass Class Residential",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "glass",
+        "coating",
+        "tinting"
+    ]
+},
+  "bbox": [
+    -75.671614,
+    39.038905,
+    -75.671614,
+    39.038905
+],
+  "geometry": {"coordinates":[-75.67161400000001,39.038905],"type":"Point"}
+}

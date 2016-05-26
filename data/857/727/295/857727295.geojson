@@ -1,0 +1,68 @@
+{
+  "id": 857727295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.725375,39.661594,-75.725375,39.661594",
+    "geom:latitude":39.661594,
+    "geom:longitude":-75.725375,
+    "iso:country":"US",
+    "sg:address":"35 Chestnut Hill Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 3450",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hmAwBJiiIOIyu959jTHqG_39.661594_-75.725375@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221383,
+    "wof:geomhash":"7fc0bafaae2bf977565c120343105c5e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857727295
+        }
+    ],
+    "wof:id":857727295,
+    "wof:lastmodified":1464221383,
+    "wof:name":"Simply Pasta",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.725375,
+    39.661594,
+    -75.725375,
+    39.661594
+],
+  "geometry": {"coordinates":[-75.725375,39.661594],"type":"Point"}
+}

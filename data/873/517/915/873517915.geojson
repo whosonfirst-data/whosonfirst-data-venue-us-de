@@ -1,0 +1,83 @@
+{
+  "id": 873517915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518221,39.802281,-75.518221,39.802281",
+    "geom:latitude":39.802281,
+    "geom:longitude":-75.518221,
+    "iso:country":"US",
+    "sg:address":"2424 Graydon Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Arena",
+            "subcategory":"Sports Club",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 2055",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ticket",
+        "agency",
+        "sale"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0tC18PwDsi1kZ4it1d6yup_39.802281_-75.518221@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223790,
+    "wof:geomhash":"4e6eba727fcb578f46a1f3645aa1e0cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873517915
+        }
+    ],
+    "wof:id":873517915,
+    "wof:lastmodified":1464223790,
+    "wof:name":"Overtime Tickets",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency",
+        "sale"
+    ]
+},
+  "bbox": [
+    -75.518221,
+    39.802281,
+    -75.518221,
+    39.802281
+],
+  "geometry": {"coordinates":[-75.518221,39.802281],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873511819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557404,39.1175,-75.557404,39.1175",
+    "geom:latitude":39.1175,
+    "geom:longitude":-75.557404,
+    "iso:country":"US",
+    "sg:address":"113 W Camden Wyoming Ave",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 6174",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "deli",
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32zFP13Hn0mRkGMQhhtrEu_39.117661_-75.557527@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223466,
+    "wof:geomhash":"a2d388a243cffeca2aedf176458d0579",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873511819
+        }
+    ],
+    "wof:id":873511819,
+    "wof:lastmodified":1464223466,
+    "wof:name":"Witt Brothers Market",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "deli",
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.557404,
+    39.1175,
+    -75.557404,
+    39.1175
+],
+  "geometry": {"coordinates":[-75.55740400000001,39.1175],"type":"Point"}
+}

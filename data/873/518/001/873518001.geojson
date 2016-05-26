@@ -1,0 +1,69 @@
+{
+  "id": 873518001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548698,39.805,-75.548698,39.805",
+    "geom:latitude":39.805,
+    "geom:longitude":-75.548698,
+    "iso:country":"US",
+    "sg:address":"3703 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8966",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1D5rld5K4O7DR4xs6yKZGF_39.805000_-75.548698@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223794,
+    "wof:geomhash":"25d9928bf6953d3eeb0f3dfd58a87062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873518001
+        }
+    ],
+    "wof:id":873518001,
+    "wof:lastmodified":1464223794,
+    "wof:name":"Concord Pet Foods and Supplies",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "store"
+    ]
+},
+  "bbox": [
+    -75.548698,
+    39.805,
+    -75.548698,
+    39.805
+],
+  "geometry": {"coordinates":[-75.548698,39.805],"type":"Point"}
+}

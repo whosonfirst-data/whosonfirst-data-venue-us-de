@@ -1,0 +1,71 @@
+{
+  "id": 873510297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.613868,39.724618,-75.613868,39.724618",
+    "geom:latitude":39.724618,
+    "geom:longitude":-75.613868,
+    "iso:country":"US",
+    "sg:address":"7 Copa Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Shoe Repair & Shine",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5582",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "boot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5mv8UJ8wpzpjsaPTVN5M6k_39.724618_-75.613868@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223388,
+    "wof:geomhash":"ad7a82c8bba7385920837736d888aab4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873510297
+        }
+    ],
+    "wof:id":873510297,
+    "wof:lastmodified":1464223388,
+    "wof:name":"Pro Shoe Repair",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "boot"
+    ]
+},
+  "bbox": [
+    -75.613868,
+    39.724618,
+    -75.613868,
+    39.724618
+],
+  "geometry": {"coordinates":[-75.613868,39.724618],"type":"Point"}
+}

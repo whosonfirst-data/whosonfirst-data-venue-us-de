@@ -1,0 +1,74 @@
+{
+  "id": 857702489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.507326,39.767551,-75.507326,39.767551",
+    "geom:latitude":39.767551,
+    "geom:longitude":-75.507326,
+    "iso:country":"US",
+    "sg:address":"405 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 6388",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ubHztwdRtnHOlsNxCYCF1_39.767551_-75.507326@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220869,
+    "wof:geomhash":"4ad8d851a59b1888c814d2f78bdc8e4e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":857702489
+        }
+    ],
+    "wof:id":857702489,
+    "wof:lastmodified":1464220869,
+    "wof:name":"Dee's Braids & Weaves Studio",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.507326,
+    39.767551,
+    -75.507326,
+    39.767551
+],
+  "geometry": {"coordinates":[-75.50732600000001,39.767551],"type":"Point"}
+}

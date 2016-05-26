@@ -1,0 +1,73 @@
+{
+  "id": 873468407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592448,39.246564,-75.592448,39.246564",
+    "geom:latitude":39.246564,
+    "geom:longitude":-75.592448,
+    "iso:country":"US",
+    "sg:address":"147 Dodge Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 7305",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "designer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LHhfKzZb021ipDOfcVmOZ_39.246564_-75.592448@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221666,
+    "wof:geomhash":"ec31f4a592957d5fa8c4b984360215f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873468407
+        }
+    ],
+    "wof:id":873468407,
+    "wof:lastmodified":1464221666,
+    "wof:name":"Micro Tek",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "designer"
+    ]
+},
+  "bbox": [
+    -75.592448,
+    39.246564,
+    -75.592448,
+    39.246564
+],
+  "geometry": {"coordinates":[-75.592448,39.246564],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873524471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.182222,38.749262,-75.182222,38.749262",
+    "geom:latitude":38.749262,
+    "geom:longitude":-75.182222,
+    "iso:country":"US",
+    "sg:address":"19413 Jingle Shell Way",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 2289",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53mnL0ZB69xR7MhiY2cRp0_38.749262_-75.182222@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224059,
+    "wof:geomhash":"2429a18f330dce74d0ab5a5c8e3987fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873524471
+        }
+    ],
+    "wof:id":873524471,
+    "wof:lastmodified":1464224059,
+    "wof:name":"First Bank of Delaware",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.182222,
+    38.749262,
+    -75.182222,
+    38.749262
+],
+  "geometry": {"coordinates":[-75.182222,38.749262],"type":"Point"}
+}

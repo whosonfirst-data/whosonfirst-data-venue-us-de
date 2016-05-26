@@ -1,0 +1,76 @@
+{
+  "id": 873508087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.609865,38.648167,-75.609865,38.648167",
+    "geom:latitude":38.648167,
+    "geom:longitude":-75.609865,
+    "iso:country":"US",
+    "sg:address":"535 E Stein Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 5510",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hZAXV2PQOVPlVXpsEfw1w_38.648167_-75.609865@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223289,
+    "wof:geomhash":"314073e93188a19cd71db65ff793bfd0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873508087
+        }
+    ],
+    "wof:id":873508087,
+    "wof:lastmodified":1464223289,
+    "wof:name":"Family Dollar Stores",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.609865,
+    38.648167,
+    -75.609865,
+    38.648167
+],
+  "geometry": {"coordinates":[-75.609865,38.648167],"type":"Point"}
+}

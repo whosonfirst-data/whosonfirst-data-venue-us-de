@@ -1,0 +1,71 @@
+{
+  "id": 857729455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.784885,39.646068,-75.784885,39.646068",
+    "geom:latitude":39.646068,
+    "geom:longitude":-75.784885,
+    "iso:country":"US",
+    "sg:address":"21 Maple Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 4961",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "stucco",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ZuhzlGxKBjmc6KvlZPDgE_39.646068_-75.784885@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221423,
+    "wof:geomhash":"3deeef2038bbc67bdd7f6056dcd143d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857729455
+        }
+    ],
+    "wof:id":857729455,
+    "wof:lastmodified":1464221423,
+    "wof:name":"Paul V Lepore & Sons",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "stucco",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.784885,
+    39.646068,
+    -75.784885,
+    39.646068
+],
+  "geometry": {"coordinates":[-75.784885,39.646068],"type":"Point"}
+}

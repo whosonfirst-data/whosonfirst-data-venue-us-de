@@ -1,0 +1,71 @@
+{
+  "id": 873471185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.43644,38.939174,-75.43644,38.939174",
+    "geom:latitude":38.939174,
+    "geom:longitude":-75.43644,
+    "iso:country":"US",
+    "sg:address":"469 Warner Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5289",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r6OnieAsqnwl9yI6lEKwE_38.939174_-75.436440@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221776,
+    "wof:geomhash":"2525cb337e1db144cae04b35fb87954b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873471185
+        }
+    ],
+    "wof:id":873471185,
+    "wof:lastmodified":1464221776,
+    "wof:name":"WEBB Electric Inc",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.43644,
+    38.939174,
+    -75.43644,
+    38.939174
+],
+  "geometry": {"coordinates":[-75.43644,38.939174],"type":"Point"}
+}

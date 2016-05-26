@@ -1,0 +1,71 @@
+{
+  "id": 873478751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.583396,38.927911,-75.583396,38.927911",
+    "geom:latitude":38.927911,
+    "geom:longitude":-75.583396,
+    "iso:country":"US",
+    "sg:address":"52 Clarks Corner",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 4110",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "authorities",
+        "housing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55DOq4l9E7wPwxNySZQxSD_38.927911_-75.583396@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222051,
+    "wof:geomhash":"475d2aed5ef4de64a0b61c1eb65c3f36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873478751
+        }
+    ],
+    "wof:id":873478751,
+    "wof:lastmodified":1464222051,
+    "wof:name":"Housing Authority",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "authorities",
+        "housing"
+    ]
+},
+  "bbox": [
+    -75.583396,
+    38.927911,
+    -75.583396,
+    38.927911
+],
+  "geometry": {"coordinates":[-75.58339599999999,38.927911],"type":"Point"}
+}

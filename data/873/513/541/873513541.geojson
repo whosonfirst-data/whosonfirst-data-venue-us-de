@@ -1,0 +1,72 @@
+{
+  "id": 873513541,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625304,39.737181,-75.625304,39.737181",
+    "geom:latitude":39.737181,
+    "geom:longitude":-75.625304,
+    "iso:country":"US",
+    "sg:address":"3214 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lower-christiana/219808-auntie-annes-pretzels/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 1403",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20WhSeTt4JpnyGLefnvcn2_39.737181_-75.625304@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223536,
+    "wof:geomhash":"69d1aab0241409ebf8453c85d8820137",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873513541
+        }
+    ],
+    "wof:id":873513541,
+    "wof:lastmodified":1464223536,
+    "wof:name":"Auntie Anne's Pretzels",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.625304,
+    39.737181,
+    -75.625304,
+    39.737181
+],
+  "geometry": {"coordinates":[-75.625304,39.737181],"type":"Point"}
+}

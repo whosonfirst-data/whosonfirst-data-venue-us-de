@@ -1,0 +1,69 @@
+{
+  "id": 873517371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.510498,39.8027,-75.510498,39.8027",
+    "geom:latitude":39.8027,
+    "geom:longitude":-75.510498,
+    "iso:country":"US",
+    "sg:address":"1257 Faun Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5022",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jMdfTGxAvE4Lgk8uirOdF_39.802700_-75.510498@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223754,
+    "wof:geomhash":"0fe9c5b4b11feb58382a62ec746d8e93",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873517371
+        }
+    ],
+    "wof:id":873517371,
+    "wof:lastmodified":1464223754,
+    "wof:name":"Ingram & Son Painting & Papering",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -75.510498,
+    39.8027,
+    -75.510498,
+    39.8027
+],
+  "geometry": {"coordinates":[-75.510498,39.8027],"type":"Point"}
+}

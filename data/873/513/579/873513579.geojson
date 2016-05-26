@@ -1,0 +1,74 @@
+{
+  "id": 873513579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.494734,39.811845,-75.494734,39.811845",
+    "geom:latitude":39.811845,
+    "geom:longitude":-75.494734,
+    "iso:country":"US",
+    "sg:address":"2114 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/81439-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 7600",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ZObNS3GyUxAzzT75NzZvk_39.811845_-75.494734@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223537,
+    "wof:geomhash":"c88c5cc101caf56291fc86161961dd0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873513579
+        }
+    ],
+    "wof:id":873513579,
+    "wof:lastmodified":1464223537,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.494734,
+    39.811845,
+    -75.494734,
+    39.811845
+],
+  "geometry": {"coordinates":[-75.49473399999999,39.811845],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 873517271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549923,39.813744,-75.549923,39.813744",
+    "geom:latitude":39.813744,
+    "geom:longitude":-75.549923,
+    "iso:country":"US",
+    "sg:address":"4301 Concord Pike Concord Square Super G",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 5862",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:website":"www.giantfood.com/our_stores/loc...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YzfUSFcaXqDrnzolUNaBb_39.813744_-75.549923@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223746,
+    "wof:geomhash":"4c326138cd06a1b142bb182ae91e2d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517271
+        }
+    ],
+    "wof:id":873517271,
+    "wof:lastmodified":1464223746,
+    "wof:name":"Giant",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.549923,
+    39.813744,
+    -75.549923,
+    39.813744
+],
+  "geometry": {"coordinates":[-75.54992300000001,39.813744],"type":"Point"}
+}

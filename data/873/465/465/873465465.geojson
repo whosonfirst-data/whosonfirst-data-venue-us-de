@@ -1,0 +1,75 @@
+{
+  "id": 873465465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546307,39.759478,-75.546307,39.759478",
+    "geom:latitude":39.759478,
+    "geom:longitude":-75.546307,
+    "iso:country":"US",
+    "sg:address":"702 W 21st St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 984 0186",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cYpHuSvd3k0HfEOR9hJC7_39.759478_-75.546307@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221578,
+    "wof:geomhash":"7dd56eb5eaae4def7696425dc3250ea3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888517,
+            "region_id":85688611,
+            "venue_id":873465465
+        }
+    ],
+    "wof:id":873465465,
+    "wof:lastmodified":1464221578,
+    "wof:name":"Michael Neville Inc",
+    "wof:parent_id":85888517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.546307,
+    39.759478,
+    -75.546307,
+    39.759478
+],
+  "geometry": {"coordinates":[-75.546307,39.759478],"type":"Point"}
+}

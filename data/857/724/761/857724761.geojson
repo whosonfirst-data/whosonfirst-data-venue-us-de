@@ -1,0 +1,71 @@
+{
+  "id": 857724761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.489569,39.815246,-75.489569,39.815246",
+    "geom:latitude":39.815246,
+    "geom:longitude":-75.489569,
+    "iso:country":"US",
+    "sg:address":"2234 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 4805",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "architectural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BdziAQN3MTYI9TI1slg6q_39.815246_-75.489569@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221338,
+    "wof:geomhash":"af4e0a142b61be428b78f3f395eac031",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857724761
+        }
+    ],
+    "wof:id":857724761,
+    "wof:lastmodified":1464221338,
+    "wof:name":"Lee Smith Architects Inc",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -75.489569,
+    39.815246,
+    -75.489569,
+    39.815246
+],
+  "geometry": {"coordinates":[-75.489569,39.815246],"type":"Point"}
+}

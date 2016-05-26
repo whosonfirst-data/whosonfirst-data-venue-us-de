@@ -1,0 +1,77 @@
+{
+  "id": 873490001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.499512,39.76694,-75.499512,39.76694",
+    "geom:latitude":39.76694,
+    "geom:longitude":-75.499512,
+    "iso:country":"US",
+    "sg:address":"500 Elizabeth Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 5590",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85828879
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_53F6Fybe76xr75wC20KOtr_39.766940_-75.499512@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222496,
+    "wof:geomhash":"b431b12ef6dc9344565b61443a591790",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85828879,
+            "region_id":85688611,
+            "venue_id":873490001
+        }
+    ],
+    "wof:id":873490001,
+    "wof:lastmodified":1464222496,
+    "wof:name":"Arden Carpet & Upholstery",
+    "wof:parent_id":85828879,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "rug",
+        "carpet"
+    ]
+},
+  "bbox": [
+    -75.499512,
+    39.76694,
+    -75.499512,
+    39.76694
+],
+  "geometry": {"coordinates":[-75.499512,39.76694],"type":"Point"}
+}

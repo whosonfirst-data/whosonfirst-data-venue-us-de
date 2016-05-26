@@ -1,0 +1,71 @@
+{
+  "id": 873508661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598798,38.808685,-75.598798,38.808685",
+    "geom:latitude":38.808685,
+    "geom:longitude":-75.598798,
+    "iso:country":"US",
+    "sg:address":"500 W Market St",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 5099",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zJKzlsk5Q6gHNOxfHI9zy_38.808685_-75.598798@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223317,
+    "wof:geomhash":"ed14f7f0ac981d2b8484a0d77cc3cb2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873508661
+        }
+    ],
+    "wof:id":873508661,
+    "wof:lastmodified":1464223317,
+    "wof:name":"Bay To Beach Builders",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.598798,
+    38.808685,
+    -75.598798,
+    38.808685
+],
+  "geometry": {"coordinates":[-75.598798,38.808685],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873493079,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.11634,38.693298,-75.11634,38.693298",
+    "geom:latitude":38.693298,
+    "geom:longitude":-75.11634,
+    "iso:country":"US",
+    "sg:address":"104 W Side Dr",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 875 5095",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wPCjaKGBqM965XV8BdTJ5_38.693298_-75.116340@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222610,
+    "wof:geomhash":"76d3767016ba66f0510f7f865e5aaa31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873493079
+        }
+    ],
+    "wof:id":873493079,
+    "wof:lastmodified":1464222610,
+    "wof:name":"Franks Automotive",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.11634,
+    38.693298,
+    -75.11634,
+    38.693298
+],
+  "geometry": {"coordinates":[-75.11633999999999,38.693298],"type":"Point"}
+}

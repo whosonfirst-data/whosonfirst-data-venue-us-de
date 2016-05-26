@@ -1,0 +1,68 @@
+{
+  "id": 873498721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.139702,38.77527,-75.139702,38.77527",
+    "geom:latitude":38.77527,
+    "geom:longitude":-75.139702,
+    "iso:country":"US",
+    "sg:address":"128 2nd St",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 4468",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931621,
+        102083887,
+        85822813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JvhxjPorhknDHT18UIuhJ_38.775270_-75.139702@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222890,
+    "wof:geomhash":"19d89bef45b720716be6660f13ee91b5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931621,
+            "neighbourhood_id":85822813,
+            "region_id":85688611,
+            "venue_id":873498721
+        }
+    ],
+    "wof:id":873498721,
+    "wof:lastmodified":1464222890,
+    "wof:name":"Flowers By Mayumi",
+    "wof:parent_id":85822813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.139702,
+    38.77527,
+    -75.139702,
+    38.77527
+],
+  "geometry": {"coordinates":[-75.139702,38.77527],"type":"Point"}
+}

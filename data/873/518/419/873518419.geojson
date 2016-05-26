@@ -1,0 +1,79 @@
+{
+  "id": 873518419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577263,39.749538,-75.577263,39.749538",
+    "geom:latitude":39.749538,
+    "geom:longitude":-75.577263,
+    "iso:country":"US",
+    "sg:address":"213 Woodlawn Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 1882",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment"
+    ],
+    "sg:website":"http://www.classiccomputerrecovery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RwtDBzArY79QkcdLfXuzB_39.749538_-75.577263@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223810,
+    "wof:geomhash":"d9cbe4ec517bf6abc40a07e38d430543",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873518419
+        }
+    ],
+    "wof:id":873518419,
+    "wof:lastmodified":1464223810,
+    "wof:name":"Classic Computer",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment"
+    ]
+},
+  "bbox": [
+    -75.577263,
+    39.749538,
+    -75.577263,
+    39.749538
+],
+  "geometry": {"coordinates":[-75.577263,39.749538],"type":"Point"}
+}

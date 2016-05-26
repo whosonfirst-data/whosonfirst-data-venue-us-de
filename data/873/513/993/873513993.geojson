@@ -1,0 +1,72 @@
+{
+  "id": 873513993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528592,39.132247,-75.528592,39.132247",
+    "geom:latitude":39.132247,
+    "geom:longitude":-75.528592,
+    "iso:country":"US",
+    "sg:address":"1600 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/166520-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7042",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o7CfzBWguV9uq3PA92R9a_39.131340_-75.529039@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223561,
+    "wof:geomhash":"35ea4bf791165e7896c3664a298d2b79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873513993
+        }
+    ],
+    "wof:id":873513993,
+    "wof:lastmodified":1464223561,
+    "wof:name":"Burger King",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.528592,
+    39.132247,
+    -75.528592,
+    39.132247
+],
+  "geometry": {"coordinates":[-75.528592,39.132247],"type":"Point"}
+}

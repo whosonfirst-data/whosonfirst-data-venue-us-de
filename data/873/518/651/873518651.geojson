@@ -1,0 +1,81 @@
+{
+  "id": 873518651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571442,39.758179,-75.571442,39.758179",
+    "geom:latitude":39.758179,
+    "geom:longitude":-75.571442,
+    "iso:country":"US",
+    "sg:address":"2300 Pennsylvania Ave Ste 2A",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 0404",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "otorhinolaryngology",
+        "nose",
+        "throat",
+        "surgeon",
+        "ear"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64dnyqZCeE0p6haaCqCTrQ_39.758179_-75.571442@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223822,
+    "wof:geomhash":"4743b447972a581bd8676cf82bb42576",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518651
+        }
+    ],
+    "wof:id":873518651,
+    "wof:lastmodified":1464223822,
+    "wof:name":"Medford William L Jr MD",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "otorhinolaryngology",
+        "nose",
+        "throat",
+        "surgeon",
+        "ear"
+    ]
+},
+  "bbox": [
+    -75.571442,
+    39.758179,
+    -75.571442,
+    39.758179
+],
+  "geometry": {"coordinates":[-75.571442,39.758179],"type":"Point"}
+}

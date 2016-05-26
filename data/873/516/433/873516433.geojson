@@ -1,0 +1,76 @@
+{
+  "id": 873516433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.749849,39.678936,-75.749849,39.678936",
+    "geom:latitude":39.678936,
+    "geom:longitude":-75.749849,
+    "iso:country":"US",
+    "sg:address":"325 Academy St Rm 201",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 831 2771",
+    "sg:postcode":"19716",
+    "sg:province":"DE",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "sg:website":"http://www.thereview.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_01ercsnzBZEoHkNb89oKSf_39.678936_-75.749849@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223686,
+    "wof:geomhash":"30a0f3402a27a84a30dd58889f68ca9e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":873516433
+        }
+    ],
+    "wof:id":873516433,
+    "wof:lastmodified":1464223686,
+    "wof:name":"The Review",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [
+    -75.749849,
+    39.678936,
+    -75.749849,
+    39.678936
+],
+  "geometry": {"coordinates":[-75.749849,39.678936],"type":"Point"}
+}

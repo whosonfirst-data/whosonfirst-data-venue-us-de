@@ -1,0 +1,73 @@
+{
+  "id": 873525131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.221369,38.460673,-75.221369,38.460673",
+    "geom:latitude":38.460673,
+    "geom:longitude":-75.221369,
+    "iso:country":"US",
+    "sg:address":"4 N Main St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 2733",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nCKjtDclLMXDlCthydsNg_38.460673_-75.221369@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224084,
+    "wof:geomhash":"2cab6ce34f7c8360e510d8bd373efb15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525131
+        }
+    ],
+    "wof:id":873525131,
+    "wof:lastmodified":1464224084,
+    "wof:name":"Schlenger & Pitz",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.221369,
+    38.460673,
+    -75.221369,
+    38.460673
+],
+  "geometry": {"coordinates":[-75.221369,38.460673],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873483935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.699062,39.685715,-75.699062,39.685715",
+    "geom:latitude":39.685715,
+    "geom:longitude":-75.699062,
+    "iso:country":"US",
+    "sg:address":"5 Mill Park Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 2558",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_352M2cVnEIizvMmscy0nVJ_39.685715_-75.699062@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222268,
+    "wof:geomhash":"4622b33db469f52f15fdd4949f1f2254",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873483935
+        }
+    ],
+    "wof:id":873483935,
+    "wof:lastmodified":1464222268,
+    "wof:name":"Red Mill Automotive",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.699062,
+    39.685715,
+    -75.699062,
+    39.685715
+],
+  "geometry": {"coordinates":[-75.699062,39.685715],"type":"Point"}
+}

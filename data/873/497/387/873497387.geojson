@@ -1,0 +1,82 @@
+{
+  "id": 873497387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556143,39.733033,-75.556143,39.733033",
+    "geom:latitude":39.733033,
+    "geom:longitude":-75.556143,
+    "iso:country":"US",
+    "sg:address":"207 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Petroleum",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 9926",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bulk",
+        "station",
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eey4kEwZl5fY4Or3iK7Ru_39.733033_-75.556143@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222837,
+    "wof:geomhash":"5202fe10eebd5524ce60a4a6c841047c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873497387
+        }
+    ],
+    "wof:id":873497387,
+    "wof:lastmodified":1464222837,
+    "wof:name":"Amerada Hess Corporation",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "station",
+        "oil"
+    ]
+},
+  "bbox": [
+    -75.556143,
+    39.733033,
+    -75.556143,
+    39.733033
+],
+  "geometry": {"coordinates":[-75.55614300000001,39.733033],"type":"Point"}
+}

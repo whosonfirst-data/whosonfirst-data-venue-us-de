@@ -1,0 +1,73 @@
+{
+  "id": 857688859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55873,39.742736,-75.55873,39.742736",
+    "geom:latitude":39.742736,
+    "geom:longitude":-75.55873,
+    "iso:country":"US",
+    "sg:address":"723 W 3rd St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5700",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eZRJ1nZlOxqlN8xxgyv27_39.742736_-75.558730@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220597,
+    "wof:geomhash":"2e216f9397ecd182cb8529d08703c8d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":857688859
+        }
+    ],
+    "wof:id":857688859,
+    "wof:lastmodified":1464220597,
+    "wof:name":"Night Owls Produce",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -75.55873,
+    39.742736,
+    -75.55873,
+    39.742736
+],
+  "geometry": {"coordinates":[-75.55873,39.742736],"type":"Point"}
+}

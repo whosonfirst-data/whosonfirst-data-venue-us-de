@@ -1,0 +1,71 @@
+{
+  "id": 857708933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.435456,38.905152,-75.435456,38.905152",
+    "geom:latitude":38.905152,
+    "geom:longitude":-75.435456,
+    "iso:country":"US",
+    "sg:address":"125 School Pl",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 7867",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hixHtgnnW9vV6EQawt0CJ_38.905152_-75.435456@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220999,
+    "wof:geomhash":"b2916d50d4827adb1f36ba54fb3391e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857708933
+        }
+    ],
+    "wof:id":857708933,
+    "wof:lastmodified":1464220999,
+    "wof:name":"Paul Gorrin Dr",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.435456,
+    38.905152,
+    -75.435456,
+    38.905152
+],
+  "geometry": {"coordinates":[-75.435456,38.905152],"type":"Point"}
+}

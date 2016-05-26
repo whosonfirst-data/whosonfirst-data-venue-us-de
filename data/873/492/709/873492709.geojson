@@ -1,0 +1,71 @@
+{
+  "id": 873492709,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556267,39.117044,-75.556267,39.117044",
+    "geom:latitude":39.117044,
+    "geom:longitude":-75.556267,
+    "iso:country":"US",
+    "sg:address":"26 W Camden Wyoming Ave",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3115",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ujPKwwDgGAopMgn17vb7e_39.117044_-75.556267@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222590,
+    "wof:geomhash":"2dfa704840ad99017e866a9d1b3c5e06",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873492709
+        }
+    ],
+    "wof:id":873492709,
+    "wof:lastmodified":1464222590,
+    "wof:name":"Miller Maintenance Sewage & Dr",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.556267,
+    39.117044,
+    -75.556267,
+    39.117044
+],
+  "geometry": {"coordinates":[-75.55626700000001,39.117044],"type":"Point"}
+}

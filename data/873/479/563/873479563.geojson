@@ -1,0 +1,71 @@
+{
+  "id": 873479563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.693541,39.645039,-75.693541,39.645039",
+    "geom:latitude":39.645039,
+    "geom:longitude":-75.693541,
+    "iso:country":"US",
+    "sg:address":"51 Currant Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 8603",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gS8NrrzS5yeJnKxJksWDX_39.645039_-75.693541@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222089,
+    "wof:geomhash":"bc63864a26a0d088063c44ddd916f736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873479563
+        }
+    ],
+    "wof:id":873479563,
+    "wof:lastmodified":1464222089,
+    "wof:name":"Part Electric Co",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.693541,
+    39.645039,
+    -75.693541,
+    39.645039
+],
+  "geometry": {"coordinates":[-75.693541,39.645039],"type":"Point"}
+}

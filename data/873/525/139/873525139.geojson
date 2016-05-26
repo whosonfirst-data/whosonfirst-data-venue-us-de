@@ -1,0 +1,76 @@
+{
+  "id": 873525139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.08725,38.46442,-75.08725,38.46442",
+    "geom:latitude":38.46442,
+    "geom:longitude":-75.08725,
+    "iso:country":"US",
+    "sg:address":"38062 Keenwik Rd",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 2400",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "espresso"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZcO6fNDDUxhDjTmdZvdWK_38.464420_-75.087250@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224084,
+    "wof:geomhash":"253a02a18015c1e48ad94105a4a7b7fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525139
+        }
+    ],
+    "wof:id":873525139,
+    "wof:lastmodified":1464224084,
+    "wof:name":"Cool Breeze Cafe",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "espresso"
+    ]
+},
+  "bbox": [
+    -75.08725,
+    38.46442,
+    -75.08725,
+    38.46442
+],
+  "geometry": {"coordinates":[-75.08725,38.46442],"type":"Point"}
+}

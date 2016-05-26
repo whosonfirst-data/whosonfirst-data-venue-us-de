@@ -1,0 +1,69 @@
+{
+  "id": 873493969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546921,39.79412,-75.546921,39.79412",
+    "geom:latitude":39.79412,
+    "geom:longitude":-75.546921,
+    "iso:country":"US",
+    "sg:address":"2507 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5684",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ge2ez765z3Ykt2Zq3nCN4_39.794120_-75.546921@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222651,
+    "wof:geomhash":"b5313dfcd6273f088b191bd33db37d51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873493969
+        }
+    ],
+    "wof:id":873493969,
+    "wof:lastmodified":1464222651,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fast"
+    ]
+},
+  "bbox": [
+    -75.546921,
+    39.79412,
+    -75.546921,
+    39.79412
+],
+  "geometry": {"coordinates":[-75.546921,39.79412],"type":"Point"}
+}

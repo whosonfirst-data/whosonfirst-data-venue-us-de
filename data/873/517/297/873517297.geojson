@@ -1,0 +1,79 @@
+{
+  "id": 873517297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547401,39.796902,-75.547401,39.796902",
+    "geom:latitude":39.796902,
+    "geom:longitude":-75.547401,
+    "iso:country":"US",
+    "sg:address":"2706 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"None",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 0539",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ],
+    "sg:website":"www.dunkindonuts.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mg3pIBt3rumFwqnXbEPXy_39.796902_-75.547401@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223748,
+    "wof:geomhash":"1b7999822886564a87339fc3ca4c2810",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517297
+        }
+    ],
+    "wof:id":873517297,
+    "wof:lastmodified":1464223748,
+    "wof:name":"Dunkin Donuts",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "espresso",
+        "restaurant"
+    ]
+},
+  "bbox": [
+    -75.547401,
+    39.796902,
+    -75.547401,
+    39.796902
+],
+  "geometry": {"coordinates":[-75.54740099999999,39.796902],"type":"Point"}
+}

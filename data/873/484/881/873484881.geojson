@@ -1,0 +1,67 @@
+{
+  "id": 873484881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.575884,38.449023,-75.575884,38.449023",
+    "geom:latitude":38.449023,
+    "geom:longitude":-75.575884,
+    "iso:country":"US",
+    "sg:address":"811 S 2nd St",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 677 5178",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:website":"www.delmarelementary.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PQ6lbqhzEfhwEb3GiJlT3_38.449023_-75.575884@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222301,
+    "wof:geomhash":"25673d750948ec433555e3db9004dd31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873484881
+        }
+    ],
+    "wof:id":873484881,
+    "wof:lastmodified":1464222301,
+    "wof:name":"Delmar Elementary School",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.575884,
+    38.449023,
+    -75.575884,
+    38.449023
+],
+  "geometry": {"coordinates":[-75.575884,38.449023],"type":"Point"}
+}

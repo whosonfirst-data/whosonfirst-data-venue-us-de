@@ -1,0 +1,73 @@
+{
+  "id": 857718673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.428332,38.872955,-75.428332,38.872955",
+    "geom:latitude":38.872955,
+    "geom:longitude":-75.428332,
+    "iso:country":"US",
+    "sg:address":"10 Sherman Ave",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 4349",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PGS2l6MvJjFswbVCINYyi_38.872955_-75.428332@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221215,
+    "wof:geomhash":"e0d9dae4a86159ca2606bc4577afe7a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857718673
+        }
+    ],
+    "wof:id":857718673,
+    "wof:lastmodified":1464221215,
+    "wof:name":"Swain Excavation Inc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.428332,
+    38.872955,
+    -75.428332,
+    38.872955
+],
+  "geometry": {"coordinates":[-75.428332,38.872955],"type":"Point"}
+}

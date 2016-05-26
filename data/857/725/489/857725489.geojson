@@ -1,0 +1,71 @@
+{
+  "id": 857725489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525226,39.145572,-75.525226,39.145572",
+    "geom:latitude":39.145572,
+    "geom:longitude":-75.525226,
+    "iso:country":"US",
+    "sg:address":"871 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9002",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ptfvq6hc0LE92NfPUuVsF_39.145572_-75.525226@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221352,
+    "wof:geomhash":"2b100425a0b313185c0c7cba107da02a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":857725489
+        }
+    ],
+    "wof:id":857725489,
+    "wof:lastmodified":1464221352,
+    "wof:name":"Central De Gastroenterology",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.525226,
+    39.145572,
+    -75.525226,
+    39.145572
+],
+  "geometry": {"coordinates":[-75.525226,39.145572],"type":"Point"}
+}

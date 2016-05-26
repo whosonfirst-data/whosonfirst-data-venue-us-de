@@ -1,0 +1,71 @@
+{
+  "id": 873482647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.482703,39.776783,-75.482703,39.776783",
+    "geom:latitude":39.776783,
+    "geom:longitude":-75.482703,
+    "iso:country":"US",
+    "sg:address":"1 Golden Acres Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 0921",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3VxFHcVBG7cknRQ9rTvaKq_39.776783_-75.482703@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222217,
+    "wof:geomhash":"57d0d49b044682d501c3344df16b8a32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873482647
+        }
+    ],
+    "wof:id":873482647,
+    "wof:lastmodified":1464222217,
+    "wof:name":"Riverview Place Apartments",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.482703,
+    39.776783,
+    -75.482703,
+    39.776783
+],
+  "geometry": {"coordinates":[-75.482703,39.776783],"type":"Point"}
+}

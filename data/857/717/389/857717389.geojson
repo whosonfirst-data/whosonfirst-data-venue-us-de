@@ -1,0 +1,75 @@
+{
+  "id": 857717389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556198,39.730102,-75.556198,39.730102",
+    "geom:latitude":39.730102,
+    "geom:longitude":-75.556198,
+    "iso:country":"US",
+    "sg:address":"522 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 4420",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34t0krlkHFHJABixtS46oe_39.730102_-75.556198@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221192,
+    "wof:geomhash":"a2ab9cbccabfffa7416d8ad4a81398f3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":857717389
+        }
+    ],
+    "wof:id":857717389,
+    "wof:lastmodified":1464221192,
+    "wof:name":"Fran's Car Corral",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.556198,
+    39.730102,
+    -75.556198,
+    39.730102
+],
+  "geometry": {"coordinates":[-75.55619799999999,39.730102],"type":"Point"}
+}

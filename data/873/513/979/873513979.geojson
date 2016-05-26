@@ -1,0 +1,72 @@
+{
+  "id": 873513979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.636508,39.734557,-75.636508,39.734557",
+    "geom:latitude":39.734557,
+    "geom:longitude":-75.636508,
+    "iso:country":"US",
+    "sg:address":"3607 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/166698-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 2124",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1tZ81yzlvTXUJyn3AH1AUI_39.734740_-75.635793@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223560,
+    "wof:geomhash":"c8a14814234215987d505d18cca0820c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873513979
+        }
+    ],
+    "wof:id":873513979,
+    "wof:lastmodified":1464223560,
+    "wof:name":"Burger King",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.636508,
+    39.734557,
+    -75.636508,
+    39.734557
+],
+  "geometry": {"coordinates":[-75.63650800000001,39.734557],"type":"Point"}
+}

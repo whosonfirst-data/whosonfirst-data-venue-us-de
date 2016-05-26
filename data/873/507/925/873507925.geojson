@@ -1,0 +1,85 @@
+{
+  "id": 873507925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555927,39.160427,-75.555927,39.160427",
+    "geom:latitude":39.160427,
+    "geom:longitude":-75.555927,
+    "iso:country":"US",
+    "sg:address":"71 Greentree Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 1988",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ep1XHvyxFcmDqy9XQFLyA_39.160427_-75.555927@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223277,
+    "wof:geomhash":"a2ed2f7257d899cfbd0d273efb74d258",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873507925
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873507925
+        }
+    ],
+    "wof:id":873507925,
+    "wof:lastmodified":1464223277,
+    "wof:name":"Cap",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -75.555927,
+    39.160427,
+    -75.555927,
+    39.160427
+],
+  "geometry": {"coordinates":[-75.555927,39.160427],"type":"Point"}
+}

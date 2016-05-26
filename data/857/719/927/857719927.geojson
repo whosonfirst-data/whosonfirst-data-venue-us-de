@@ -1,0 +1,78 @@
+{
+  "id": 857719927,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.513789,39.237543,-75.513789,39.237543",
+    "geom:latitude":39.237543,
+    "geom:longitude":-75.513789,
+    "iso:country":"US",
+    "sg:address":"168 Denny St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3797",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engine",
+        "diesel"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iq0rCjzOK3XLX9N6Rodmo_39.237543_-75.513789@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221248,
+    "wof:geomhash":"f7cd94d2e24d3a37a082bdc658d1f53f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857719927
+        }
+    ],
+    "wof:id":857719927,
+    "wof:lastmodified":1464221248,
+    "wof:name":"Carey's Diesel Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "diesel"
+    ]
+},
+  "bbox": [
+    -75.513789,
+    39.237543,
+    -75.513789,
+    39.237543
+],
+  "geometry": {"coordinates":[-75.513789,39.237543],"type":"Point"}
+}

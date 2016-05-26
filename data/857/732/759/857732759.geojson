@@ -1,0 +1,74 @@
+{
+  "id": 857732759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.753034,39.615634,-75.753034,39.615634",
+    "geom:latitude":39.615634,
+    "geom:longitude":-75.753034,
+    "iso:country":"US",
+    "sg:address":"225 Lake Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7979",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hospital"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IsTzaoHLsgfGGGIcmrx8v_39.615634_-75.753034@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221497,
+    "wof:geomhash":"6bbda2aaa7da155c253f00c26e138661",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857732759
+        }
+    ],
+    "wof:id":857732759,
+    "wof:lastmodified":1464221497,
+    "wof:name":"Apria Healthcare Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hospital"
+    ]
+},
+  "bbox": [
+    -75.753034,
+    39.615634,
+    -75.753034,
+    39.615634
+],
+  "geometry": {"coordinates":[-75.753034,39.615634],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873504647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.201544,38.768153,-75.201544,38.768153",
+    "geom:latitude":38.768153,
+    "geom:longitude":-75.201544,
+    "iso:country":"US",
+    "sg:address":"24 Herron Cir",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 2711",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "landscape",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2afaqnQ5PV6naghxDVQEQq_38.768153_-75.201544@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223136,
+    "wof:geomhash":"d71efaf43c6d887769fb46c07805064f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873504647
+        }
+    ],
+    "wof:id":873504647,
+    "wof:lastmodified":1464223136,
+    "wof:name":"Holland's Lawn Co",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "landscape",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.201544,
+    38.768153,
+    -75.201544,
+    38.768153
+],
+  "geometry": {"coordinates":[-75.201544,38.768153],"type":"Point"}
+}

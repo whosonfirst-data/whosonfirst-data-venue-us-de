@@ -1,0 +1,83 @@
+{
+  "id": 873513271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.702165,39.671343,-75.702165,39.671343",
+    "geom:latitude":39.671343,
+    "geom:longitude":-75.702165,
+    "iso:country":"US",
+    "sg:address":"498 Stanley Plaza Blvd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/24310-big-chef-cafe/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 3060",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XnomBIshQ8JW2wEeJvBII_39.671343_-75.702165@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223523,
+    "wof:geomhash":"14ef6e09268b61824a1610a27be18d28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513271
+        }
+    ],
+    "wof:id":873513271,
+    "wof:lastmodified":1464223523,
+    "wof:name":"Big Chef Cafe",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "soup",
+        "american",
+        "sandwich",
+        "salad"
+    ]
+},
+  "bbox": [
+    -75.702165,
+    39.671343,
+    -75.702165,
+    39.671343
+],
+  "geometry": {"coordinates":[-75.70216499999999,39.671343],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857711951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.442219,38.908479,-75.442219,38.908479",
+    "geom:latitude":38.908479,
+    "geom:longitude":-75.442219,
+    "iso:country":"US",
+    "sg:address":"550 S Dupont Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 9637",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3RqUzV4eA3ADNtq6hL2wnC_38.908479_-75.442219@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221077,
+    "wof:geomhash":"415ba679c31a46f4e981c0907f653aa4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857711951
+        }
+    ],
+    "wof:id":857711951,
+    "wof:lastmodified":1464221077,
+    "wof:name":"Edward L Hendel DDS",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.442219,
+    38.908479,
+    -75.442219,
+    38.908479
+],
+  "geometry": {"coordinates":[-75.44221899999999,38.908479],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857687791,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.298936,38.584595,-75.298936,38.584595",
+    "geom:latitude":38.584595,
+    "geom:longitude":-75.298936,
+    "iso:country":"US",
+    "sg:address":"201 Laurel Rd",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 7344",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28sCIeAiHMnEsHKAsa8zHi_38.584595_-75.298936@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220574,
+    "wof:geomhash":"4ae42de39c3508147e56e03838eca775",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857687791
+        }
+    ],
+    "wof:id":857687791,
+    "wof:lastmodified":1464220574,
+    "wof:name":"Millsboro Family Practice",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.298936,
+    38.584595,
+    -75.298936,
+    38.584595
+],
+  "geometry": {"coordinates":[-75.298936,38.584595],"type":"Point"}
+}

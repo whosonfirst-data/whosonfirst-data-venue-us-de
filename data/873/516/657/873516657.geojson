@@ -1,0 +1,93 @@
+{
+  "id": 873516657,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545272,39.727041,-75.545272,39.727041",
+    "geom:latitude":39.727041,
+    "geom:longitude":-75.545272,
+    "iso:country":"US",
+    "sg:address":"1216 D St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 9001",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "warehouses-merchandise",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5hJOyG87kZ1KEBxl8MYsx3_39.727041_-75.545272@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223699,
+    "wof:geomhash":"f8a6deaa8e75c1e4620970500af4d532",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873516657
+        }
+    ],
+    "wof:id":873516657,
+    "wof:lastmodified":1464223699,
+    "wof:name":"Consolidated",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "warehouses-merchandise",
+        "builder",
+        "contractor",
+        "contractors-commercial",
+        "home"
+    ]
+},
+  "bbox": [
+    -75.545272,
+    39.727041,
+    -75.545272,
+    39.727041
+],
+  "geometry": {"coordinates":[-75.545272,39.727041],"type":"Point"}
+}

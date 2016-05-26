@@ -1,0 +1,69 @@
+{
+  "id": 857698099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.672787,39.733519,-75.672787,39.733519",
+    "geom:latitude":39.733519,
+    "geom:longitude":-75.672787,
+    "iso:country":"US",
+    "sg:address":"3200 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8277",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cLOgFCVn9fPyqppU6MrYy_39.733519_-75.672787@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220775,
+    "wof:geomhash":"67dc2bf093d079158a9ee795df97ff8f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857698099
+        }
+    ],
+    "wof:id":857698099,
+    "wof:lastmodified":1464220775,
+    "wof:name":"Doherty Funeral Homes",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -75.672787,
+    39.733519,
+    -75.672787,
+    39.733519
+],
+  "geometry": {"coordinates":[-75.672787,39.733519],"type":"Point"}
+}

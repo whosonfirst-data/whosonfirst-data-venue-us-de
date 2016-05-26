@@ -1,0 +1,71 @@
+{
+  "id": 857716653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.491625,39.793052,-75.491625,39.793052",
+    "geom:latitude":39.793052,
+    "geom:longitude":-75.491625,
+    "iso:country":"US",
+    "sg:address":"1332 Tulane Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 7842",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sKvK9HlDVt82n5nBbhJp7_39.793052_-75.491625@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221177,
+    "wof:geomhash":"5226846e8dc2b3cb7a73a0e99b201a65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":857716653
+        }
+    ],
+    "wof:id":857716653,
+    "wof:lastmodified":1464221177,
+    "wof:name":"Getty",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.491625,
+    39.793052,
+    -75.491625,
+    39.793052
+],
+  "geometry": {"coordinates":[-75.491625,39.793052],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873481475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.446846,38.918142,-75.446846,38.918142",
+    "geom:latitude":38.918142,
+    "geom:longitude":-75.446846,
+    "iso:country":"US",
+    "sg:address":"300 Milford Harrington Hwy",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8100",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5GjARWqsVlqISCheYOQdRl_38.918142_-75.446846@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222172,
+    "wof:geomhash":"87ae36364e7fb12896a42c0ce985d538",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873481475
+        }
+    ],
+    "wof:id":873481475,
+    "wof:lastmodified":1464222172,
+    "wof:name":"Haven Lake Animal Hospital",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -75.446846,
+    38.918142,
+    -75.446846,
+    38.918142
+],
+  "geometry": {"coordinates":[-75.44684599999999,38.918142],"type":"Point"}
+}

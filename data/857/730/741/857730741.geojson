@@ -1,0 +1,68 @@
+{
+  "id": 857730741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736184,39.654901,-75.736184,39.654901",
+    "geom:latitude":39.654901,
+    "geom:longitude":-75.736184,
+    "iso:country":"US",
+    "sg:address":"61 Blue Hen Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 8131",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0V4RGbUJyo3DEd9N1i0Gag_39.654901_-75.736184@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221451,
+    "wof:geomhash":"200e251a2a835e3b5d7e7b4755729511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857730741
+        }
+    ],
+    "wof:id":857730741,
+    "wof:lastmodified":1464221451,
+    "wof:name":"Speedy Key Lock",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.736184,
+    39.654901,
+    -75.736184,
+    39.654901
+],
+  "geometry": {"coordinates":[-75.73618399999999,39.654901],"type":"Point"}
+}

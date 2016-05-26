@@ -1,0 +1,88 @@
+{
+  "id": 873525209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.628187,39.286563,-75.628187,39.286563",
+    "geom:latitude":39.286563,
+    "geom:longitude":-75.628187,
+    "iso:country":"US",
+    "sg:address":"49 Artisan Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 389 0100",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "electronics",
+        "maintenance",
+        "license"
+    ],
+    "sg:website":"http://www.carlislesmarine.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ltf6uRP4i0i4dUhlJPzmL_39.286563_-75.628187@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224088,
+    "wof:geomhash":"fb6e910ab08e664c573da6172d148d2b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525209
+        }
+    ],
+    "wof:id":873525209,
+    "wof:lastmodified":1464224088,
+    "wof:name":"Carlisles Marine",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "electronics",
+        "maintenance",
+        "license"
+    ]
+},
+  "bbox": [
+    -75.628187,
+    39.286563,
+    -75.628187,
+    39.286563
+],
+  "geometry": {"coordinates":[-75.628187,39.286563],"type":"Point"}
+}

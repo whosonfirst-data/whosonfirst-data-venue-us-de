@@ -1,0 +1,69 @@
+{
+  "id": 873499489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.623129,39.737583,-75.623129,39.737583",
+    "geom:latitude":39.737583,
+    "geom:longitude":-75.623129,
+    "iso:country":"US",
+    "sg:address":"3213 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7266",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zr8QDJiwGOWI8qnnP0Qv1_39.737583_-75.623129@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222919,
+    "wof:geomhash":"b46d8f9c3f99644d45e782d86308d589",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873499489
+        }
+    ],
+    "wof:id":873499489,
+    "wof:lastmodified":1464222919,
+    "wof:name":"Greenbank Car Wash",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -75.623129,
+    39.737583,
+    -75.623129,
+    39.737583
+],
+  "geometry": {"coordinates":[-75.62312900000001,39.737583],"type":"Point"}
+}

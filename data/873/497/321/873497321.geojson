@@ -1,0 +1,69 @@
+{
+  "id": 873497321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57892,39.676303,-75.57892,39.676303",
+    "geom:latitude":39.676303,
+    "geom:longitude":-75.57892,
+    "iso:country":"US",
+    "sg:address":"71 W University Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 6798",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zD5kDmFrYQyyIZ2czSkAr_39.676303_-75.578920@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222835,
+    "wof:geomhash":"22abdd4890e57a7d7a9fbdc2213eb01a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873497321
+        }
+    ],
+    "wof:id":873497321,
+    "wof:lastmodified":1464222835,
+    "wof:name":"Jiffy Janitor Contractors",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.57892,
+    39.676303,
+    -75.57892,
+    39.676303
+],
+  "geometry": {"coordinates":[-75.57892,39.676303],"type":"Point"}
+}

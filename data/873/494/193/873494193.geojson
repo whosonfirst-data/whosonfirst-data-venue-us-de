@@ -1,0 +1,71 @@
+{
+  "id": 873494193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599532,39.713091,-75.599532,39.713091",
+    "geom:latitude":39.713091,
+    "geom:longitude":-75.599532,
+    "iso:country":"US",
+    "sg:address":"320 Water St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1546",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "demolition",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Cy0egYn2bnRd2efdey1WD_39.713091_-75.599532@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222669,
+    "wof:geomhash":"260e4ca95737f50b73cbfe6d078b3530",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873494193
+        }
+    ],
+    "wof:id":873494193,
+    "wof:lastmodified":1464222669,
+    "wof:name":"Dust Storm Demolition",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "demolition",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.599532,
+    39.713091,
+    -75.599532,
+    39.713091
+],
+  "geometry": {"coordinates":[-75.599532,39.713091],"type":"Point"}
+}

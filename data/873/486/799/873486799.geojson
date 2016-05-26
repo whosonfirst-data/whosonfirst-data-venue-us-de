@@ -1,0 +1,73 @@
+{
+  "id": 873486799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.624219,39.730273,-75.624219,39.730273",
+    "geom:latitude":39.730273,
+    "geom:longitude":-75.624219,
+    "iso:country":"US",
+    "sg:address":"1600 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Glass & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 1886",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ready",
+        "concrete",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JGxdkpzb1FRsKdCLsMuQp_39.730273_-75.624219@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222371,
+    "wof:geomhash":"b701c81f27f06cbc3ac1589d74d6d8be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873486799
+        }
+    ],
+    "wof:id":873486799,
+    "wof:lastmodified":1464222371,
+    "wof:name":"Material Supply Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ready",
+        "concrete",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.624219,
+    39.730273,
+    -75.624219,
+    39.730273
+],
+  "geometry": {"coordinates":[-75.624219,39.730273],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873507381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.600361,39.644131,-75.600361,39.644131",
+    "geom:latitude":39.644131,
+    "geom:longitude":-75.600361,
+    "iso:country":"US",
+    "sg:address":"1009 River Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 9550",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "pumping"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hLdRJ9A47piUfU7qaMe7I_39.644131_-75.600361@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223252,
+    "wof:geomhash":"28bac5a04dda643695450356ef4e8197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873507381
+        }
+    ],
+    "wof:id":873507381,
+    "wof:lastmodified":1464223252,
+    "wof:name":"Mid Atlantic Concrete Pumps",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "pumping"
+    ]
+},
+  "bbox": [
+    -75.600361,
+    39.644131,
+    -75.600361,
+    39.644131
+],
+  "geometry": {"coordinates":[-75.60036100000001,39.644131],"type":"Point"}
+}

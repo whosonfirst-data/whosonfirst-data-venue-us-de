@@ -1,0 +1,71 @@
+{
+  "id": 873504371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.44544,38.917239,-75.44544,38.917239",
+    "geom:latitude":38.917239,
+    "geom:longitude":-75.44544,
+    "iso:country":"US",
+    "sg:address":"31 Milford Harrington Hwy",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8006",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3N2hAQ6jUj7mG79rSyc9tf_38.917239_-75.445440@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223119,
+    "wof:geomhash":"c53793d61a460ce4b85cf06a9d061b8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873504371
+        }
+    ],
+    "wof:id":873504371,
+    "wof:lastmodified":1464223119,
+    "wof:name":"NAPA Auto Parts",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -75.44544,
+    38.917239,
+    -75.44544,
+    38.917239
+],
+  "geometry": {"coordinates":[-75.44544,38.917239],"type":"Point"}
+}

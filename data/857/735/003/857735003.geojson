@@ -1,0 +1,71 @@
+{
+  "id": 857735003,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.492747,39.813044,-75.492747,39.813044",
+    "geom:latitude":39.813044,
+    "geom:longitude":-75.492747,
+    "iso:country":"US",
+    "sg:address":"2200 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 0301",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33Myr92t97ORJJAnutwDBM_39.813044_-75.492747@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221539,
+    "wof:geomhash":"20ddbb105699ff67065c6f7f5d48b8c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857735003
+        }
+    ],
+    "wof:id":857735003,
+    "wof:lastmodified":1464221539,
+    "wof:name":"Nail Connection",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.492747,
+    39.813044,
+    -75.492747,
+    39.813044
+],
+  "geometry": {"coordinates":[-75.49274699999999,39.813044],"type":"Point"}
+}

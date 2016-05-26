@@ -1,0 +1,71 @@
+{
+  "id": 873487155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.749001,39.650598,-75.749001,39.650598",
+    "geom:latitude":39.650598,
+    "geom:longitude":-75.749001,
+    "iso:country":"US",
+    "sg:address":"1106 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 2768",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AhT9F3JZn7hMydXN0Q8mx_39.650598_-75.749001@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222385,
+    "wof:geomhash":"787d5f7ed7f66303c79550b6553038a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873487155
+        }
+    ],
+    "wof:id":873487155,
+    "wof:lastmodified":1464222385,
+    "wof:name":"Mobil",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.749001,
+    39.650598,
+    -75.749001,
+    39.650598
+],
+  "geometry": {"coordinates":[-75.74900100000001,39.650598],"type":"Point"}
+}

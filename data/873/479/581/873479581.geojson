@@ -1,0 +1,83 @@
+{
+  "id": 873479581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.69565,39.794618,-75.69565,39.794618",
+    "geom:latitude":39.794618,
+    "geom:longitude":-75.69565,
+    "iso:country":"US",
+    "sg:address":"105 Farmstead Dr",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 7700",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mobile",
+        "medical",
+        "testing",
+        "diagnostic",
+        "surgical",
+        "organization"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_517Osufj5ZwsQK1ThMhbHw_39.794618_-75.695650@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222090,
+    "wof:geomhash":"ee437af4f2b3a63208a95d8e568cf75e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873479581
+        }
+    ],
+    "wof:id":873479581,
+    "wof:lastmodified":1464222090,
+    "wof:name":"Diagnostic Medical Services",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mobile",
+        "medical",
+        "testing",
+        "diagnostic",
+        "surgical",
+        "organization"
+    ]
+},
+  "bbox": [
+    -75.69565,
+    39.794618,
+    -75.69565,
+    39.794618
+],
+  "geometry": {"coordinates":[-75.69565,39.794618],"type":"Point"}
+}

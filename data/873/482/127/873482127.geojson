@@ -1,0 +1,88 @@
+{
+  "id": 873482127,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.452841,38.979679,-75.452841,38.979679",
+    "geom:latitude":38.979679,
+    "geom:longitude":-75.452841,
+    "iso:country":"US",
+    "sg:address":"1917 Fork Landing Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 3904",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "school",
+        "leasing",
+        "bus",
+        "driver",
+        "trucking",
+        "without",
+        "truck",
+        "local"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QaDtb0Irf8zXgLnPDhzMb_38.979679_-75.452841@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222199,
+    "wof:geomhash":"24b02498144e13cbf14666aad82b0bbd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873482127
+        }
+    ],
+    "wof:id":873482127,
+    "wof:lastmodified":1464222199,
+    "wof:name":"CDK Leasing Inc",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "leasing",
+        "bus",
+        "driver",
+        "trucking",
+        "without",
+        "truck",
+        "local"
+    ]
+},
+  "bbox": [
+    -75.452841,
+    38.979679,
+    -75.452841,
+    38.979679
+],
+  "geometry": {"coordinates":[-75.45284100000001,38.979679],"type":"Point"}
+}

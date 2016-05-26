@@ -1,0 +1,73 @@
+{
+  "id": 857731547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528382,39.161429,-75.528382,39.161429",
+    "geom:latitude":39.161429,
+    "geom:longitude":-75.528382,
+    "iso:country":"US",
+    "sg:address":"1 N Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 846 8294",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3r5IRsWXdcqWeH8mnRdzYx_39.161429_-75.528382@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221468,
+    "wof:geomhash":"7299a404a3ef866bd533d4bbc216eac8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":857731547
+        }
+    ],
+    "wof:id":857731547,
+    "wof:lastmodified":1464221468,
+    "wof:name":"City Cab Inc",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -75.528382,
+    39.161429,
+    -75.528382,
+    39.161429
+],
+  "geometry": {"coordinates":[-75.52838199999999,39.161429],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873475999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.122399,38.554916,-75.122399,38.554916",
+    "geom:latitude":38.554916,
+    "geom:longitude":-75.122399,
+    "iso:country":"US",
+    "sg:address":"1 Blackstone Dr",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 6168",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2S2j3bwf8UJbAGo6ZfGcur_38.554916_-75.122399@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221948,
+    "wof:geomhash":"c9278831c9d9b886e0db47a2d63bf248",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873475999
+        }
+    ],
+    "wof:id":873475999,
+    "wof:lastmodified":1464221948,
+    "wof:name":"J & B Auto Brokers",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.122399,
+    38.554916,
+    -75.122399,
+    38.554916
+],
+  "geometry": {"coordinates":[-75.122399,38.554916],"type":"Point"}
+}

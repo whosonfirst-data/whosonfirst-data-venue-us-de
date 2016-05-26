@@ -1,0 +1,77 @@
+{
+  "id": 873475921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.535457,39.165804,-75.535457,39.165804",
+    "geom:latitude":39.165804,
+    "geom:longitude":-75.535457,
+    "iso:country":"US",
+    "sg:address":"613 Clara St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2300",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2spty6plb52jaKAlQKY1CP_39.165804_-75.535457@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221946,
+    "wof:geomhash":"1da9040b4d398309f5a0c8b44fad903b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873475921
+        }
+    ],
+    "wof:id":873475921,
+    "wof:lastmodified":1464221946,
+    "wof:name":"Dover Leasing Co",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "leasing",
+        "trailer"
+    ]
+},
+  "bbox": [
+    -75.535457,
+    39.165804,
+    -75.535457,
+    39.165804
+],
+  "geometry": {"coordinates":[-75.53545699999999,39.165804],"type":"Point"}
+}

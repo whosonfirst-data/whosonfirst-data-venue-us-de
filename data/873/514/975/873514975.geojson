@@ -1,0 +1,82 @@
+{
+  "id": 873514975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.6726,39.770401,-75.6726,39.770401",
+    "geom:latitude":39.770401,
+    "geom:longitude":-75.6726,
+    "iso:country":"US",
+    "sg:address":"30 Wyndom Cir",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 2222",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ticket",
+        "agency",
+        "services-commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7SqPHR1tLloPwER7XbHI7H_39.770401_-75.672600@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223618,
+    "wof:geomhash":"6944518b5049d14c07da93a816a1eee6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873514975
+        }
+    ],
+    "wof:id":873514975,
+    "wof:lastmodified":1464223618,
+    "wof:name":"Pace Travel Services Inc",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ticket",
+        "agency",
+        "services-commercial"
+    ]
+},
+  "bbox": [
+    -75.6726,
+    39.770401,
+    -75.6726,
+    39.770401
+],
+  "geometry": {"coordinates":[-75.6726,39.770401],"type":"Point"}
+}

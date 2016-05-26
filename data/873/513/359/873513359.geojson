@@ -1,0 +1,72 @@
+{
+  "id": 873513359,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.580557,39.69027,-75.580557,39.69027",
+    "geom:latitude":39.69027,
+    "geom:longitude":-75.580557,
+    "iso:country":"US",
+    "sg:address":"1502 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/11211-dennys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 1121",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "diner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Y47wp5V3RtJrK8L50rBBZ_39.690270_-75.580557@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223526,
+    "wof:geomhash":"40c535dc4d7e260aee592bb9bc16f253",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873513359
+        }
+    ],
+    "wof:id":873513359,
+    "wof:lastmodified":1464223526,
+    "wof:name":"Denny's",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner"
+    ]
+},
+  "bbox": [
+    -75.580557,
+    39.69027,
+    -75.580557,
+    39.69027
+],
+  "geometry": {"coordinates":[-75.580557,39.69027],"type":"Point"}
+}

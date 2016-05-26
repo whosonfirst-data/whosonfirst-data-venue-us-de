@@ -1,0 +1,73 @@
+{
+  "id": 873480435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.51325,38.638437,-75.51325,38.638437",
+    "geom:latitude":38.638437,
+    "geom:longitude":-75.51325,
+    "iso:country":"US",
+    "sg:address":"13206 Fleetwood Pond Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 3152",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Fzm7HLnf5t4nqUjy3wwnz_38.638437_-75.513250@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222130,
+    "wof:geomhash":"5896b0e31ae63846c8699892e2cd66c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873480435
+        }
+    ],
+    "wof:id":873480435,
+    "wof:lastmodified":1464222130,
+    "wof:name":"Alfred A Smack Trucking",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.51325,
+    38.638437,
+    -75.51325,
+    38.638437
+],
+  "geometry": {"coordinates":[-75.51325,38.638437],"type":"Point"}
+}

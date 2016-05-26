@@ -1,0 +1,71 @@
+{
+  "id": 873501801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.396686,38.683529,-75.396686,38.683529",
+    "geom:latitude":38.683529,
+    "geom:longitude":-75.396686,
+    "iso:country":"US",
+    "sg:address":"3 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7991",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fhAEm9TZqqbvujtgU4Zqx_38.683529_-75.396686@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223021,
+    "wof:geomhash":"668770a2396b688a213998ca490db514",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873501801
+        }
+    ],
+    "wof:id":873501801,
+    "wof:lastmodified":1464223021,
+    "wof:name":"Georgetown Exxon & Deli",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -75.396686,
+    38.683529,
+    -75.396686,
+    38.683529
+],
+  "geometry": {"coordinates":[-75.396686,38.683529],"type":"Point"}
+}

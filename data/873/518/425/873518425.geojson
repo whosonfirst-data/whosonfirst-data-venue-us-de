@@ -1,0 +1,91 @@
+{
+  "id": 873518425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57138,39.755532,-75.57138,39.755532",
+    "geom:latitude":39.755532,
+    "geom:longitude":-75.57138,
+    "iso:country":"US",
+    "sg:address":"1010 N Bancroft Pkwy # 101",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 472 5555",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "pediatrics-radiology",
+        "surgeons",
+        "x-ray"
+    ],
+    "sg:website":"http://www.mriandimaging.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fTHevQHPZ2EB8O8ySmoBz_39.755532_-75.571380@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223811,
+    "wof:geomhash":"f48df26e84750d2cd4f25b6cdf2fb7c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873518425
+        }
+    ],
+    "wof:id":873518425,
+    "wof:lastmodified":1464223811,
+    "wof:name":"Bancroft Pkwy Open Mri & Imgng",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "radiology",
+        "laboratories-medical",
+        "dental",
+        "pediatrics-radiology",
+        "surgeons",
+        "x-ray"
+    ]
+},
+  "bbox": [
+    -75.57138,
+    39.755532,
+    -75.57138,
+    39.755532
+],
+  "geometry": {"coordinates":[-75.57138,39.755532],"type":"Point"}
+}

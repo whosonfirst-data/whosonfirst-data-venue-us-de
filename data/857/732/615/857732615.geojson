@@ -1,0 +1,71 @@
+{
+  "id": 857732615,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.30812,38.773466,-75.30812,38.773466",
+    "geom:latitude":38.773466,
+    "geom:longitude":-75.30812,
+    "iso:country":"US",
+    "sg:address":"204 Atlantic St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8388",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carwash"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AMozH98Tv1wDjT59BRDdu_38.773466_-75.308120@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221495,
+    "wof:geomhash":"59412a6af43bf98672aa0501fd43d185",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857732615
+        }
+    ],
+    "wof:id":857732615,
+    "wof:lastmodified":1464221495,
+    "wof:name":"Danas Squeaky Clean",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carwash"
+    ]
+},
+  "bbox": [
+    -75.30812,
+    38.773466,
+    -75.30812,
+    38.773466
+],
+  "geometry": {"coordinates":[-75.30812,38.773466],"type":"Point"}
+}

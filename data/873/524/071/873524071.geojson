@@ -1,0 +1,89 @@
+{
+  "id": 873524071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55226,38.800997,-75.55226,38.800997",
+    "geom:latitude":38.800997,
+    "geom:longitude":-75.55226,
+    "iso:country":"US",
+    "sg:address":"10909 Beach Hwy",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 0805",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "consulting",
+        "engineer",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MiJxkUTPXP5sB6PAof8KX_38.800997_-75.552260@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224043,
+    "wof:geomhash":"1bb11d39837dcb18b199e945021713b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873524071
+        }
+    ],
+    "wof:id":873524071,
+    "wof:lastmodified":1464224043,
+    "wof:name":"Hunter Creek Homes",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "consulting",
+        "engineer",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.55226,
+    38.800997,
+    -75.55226,
+    38.800997
+],
+  "geometry": {"coordinates":[-75.55226,38.800997],"type":"Point"}
+}

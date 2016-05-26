@@ -1,0 +1,71 @@
+{
+  "id": 873487851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.291109,38.591972,-75.291109,38.591972",
+    "geom:latitude":38.591972,
+    "geom:longitude":-75.291109,
+    "iso:country":"US",
+    "sg:address":"307 Main St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 8174",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VijjJD4JRnosDEKh2VsRd_38.591972_-75.291109@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222416,
+    "wof:geomhash":"57aadac11d2003a1aed9234e1f042f38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873487851
+        }
+    ],
+    "wof:id":873487851,
+    "wof:lastmodified":1464222416,
+    "wof:name":"Millsboro Police Dept",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -75.291109,
+    38.591972,
+    -75.291109,
+    38.591972
+],
+  "geometry": {"coordinates":[-75.29110900000001,38.591972],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857732605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545673,39.095217,-75.545673,39.095217",
+    "geom:latitude":39.095217,
+    "geom:longitude":-75.545673,
+    "iso:country":"US",
+    "sg:address":"4601 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 8930",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aUJxvclxxbifUNAYoUP7M_39.095217_-75.545673@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221494,
+    "wof:geomhash":"366960d29b836e962dca12de30d4049d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857732605
+        }
+    ],
+    "wof:id":857732605,
+    "wof:lastmodified":1464221494,
+    "wof:name":"Glasswerks Inc",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "automotive",
+        "glass",
+        "replacement"
+    ]
+},
+  "bbox": [
+    -75.545673,
+    39.095217,
+    -75.545673,
+    39.095217
+],
+  "geometry": {"coordinates":[-75.54567299999999,39.095217],"type":"Point"}
+}

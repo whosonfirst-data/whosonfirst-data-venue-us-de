@@ -1,0 +1,90 @@
+{
+  "id": 873516155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.685605,39.677026,-75.685605,39.677026",
+    "geom:latitude":39.677026,
+    "geom:longitude":-75.685605,
+    "iso:country":"US",
+    "sg:address":"774 Christiana Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Podiatrist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 623 4250",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "sport",
+        "surgeons",
+        "treatment",
+        "medicine",
+        "injury"
+    ],
+    "sg:website":"http://www.advancedfootandanklectr.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a0WwByYJHE1f06hV2npAN_39.677026_-75.685605@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223668,
+    "wof:geomhash":"d8395b96802ebd8bf42c94218df5ef55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516155
+        }
+    ],
+    "wof:id":873516155,
+    "wof:lastmodified":1464223668,
+    "wof:name":"Advanced Foot & Ankle Center",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "sport",
+        "surgeons",
+        "treatment",
+        "medicine",
+        "injury"
+    ]
+},
+  "bbox": [
+    -75.685605,
+    39.677026,
+    -75.685605,
+    39.677026
+],
+  "geometry": {"coordinates":[-75.685605,39.677026],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873470551,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.670521,39.766083,-75.670521,39.766083",
+    "geom:latitude":39.766083,
+    "geom:longitude":-75.670521,
+    "iso:country":"US",
+    "sg:address":"3816 Valley Brook Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 6158",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HmPyd87lzwAuKo78ftQl3_39.766083_-75.670521@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221750,
+    "wof:geomhash":"2b99c85fc932aa1c8069ee25ef68988c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873470551
+        }
+    ],
+    "wof:id":873470551,
+    "wof:lastmodified":1464221750,
+    "wof:name":"Virtua Vending",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -75.670521,
+    39.766083,
+    -75.670521,
+    39.766083
+],
+  "geometry": {"coordinates":[-75.67052099999999,39.766083],"type":"Point"}
+}

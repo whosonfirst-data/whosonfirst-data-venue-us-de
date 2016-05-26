@@ -1,0 +1,74 @@
+{
+  "id": 873523229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526024,39.155667,-75.526024,39.155667",
+    "geom:latitude":39.155667,
+    "geom:longitude":-75.526024,
+    "iso:country":"US",
+    "sg:address":"401 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4488",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bike"
+    ],
+    "sg:website":"www.bikewerx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CbenFXcpxzqizrOlxCbr6_39.155667_-75.526024@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224013,
+    "wof:geomhash":"b85e3c88deeeab3451fd6735f73296a2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873523229
+        }
+    ],
+    "wof:id":873523229,
+    "wof:lastmodified":1464224013,
+    "wof:name":"Bike Werx",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bike"
+    ]
+},
+  "bbox": [
+    -75.526024,
+    39.155667,
+    -75.526024,
+    39.155667
+],
+  "geometry": {"coordinates":[-75.52602400000001,39.155667],"type":"Point"}
+}

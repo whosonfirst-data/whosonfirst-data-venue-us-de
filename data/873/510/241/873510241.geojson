@@ -1,0 +1,71 @@
+{
+  "id": 873510241,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.614054,39.748585,-75.614054,39.748585",
+    "geom:latitude":39.748585,
+    "geom:longitude":-75.614054,
+    "iso:country":"US",
+    "sg:address":"1825 Faulkland Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 2600",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mental",
+        "child"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07WtaulF5W08vjAAPdUfnt_39.748585_-75.614054@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223386,
+    "wof:geomhash":"2bd2f75df8dd1c7e923c5a5aced2e021",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873510241
+        }
+    ],
+    "wof:id":873510241,
+    "wof:lastmodified":1464223386,
+    "wof:name":"Division Child Mntal Hlth Svcs",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental",
+        "child"
+    ]
+},
+  "bbox": [
+    -75.614054,
+    39.748585,
+    -75.614054,
+    39.748585
+],
+  "geometry": {"coordinates":[-75.614054,39.748585],"type":"Point"}
+}

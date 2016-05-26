@@ -1,0 +1,75 @@
+{
+  "id": 873481117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561969,39.758201,-75.561969,39.758201",
+    "geom:latitude":39.758201,
+    "geom:longitude":-75.561969,
+    "iso:country":"US",
+    "sg:address":"11 Trolley Sq",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 9162",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16M5KnytodH3SZYOecdxL2_39.758201_-75.561969@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222159,
+    "wof:geomhash":"623ba362960f1f212f6822fc05ab399d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873481117
+        }
+    ],
+    "wof:id":873481117,
+    "wof:lastmodified":1464222159,
+    "wof:name":"Temptations",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.561969,
+    39.758201,
+    -75.561969,
+    39.758201
+],
+  "geometry": {"coordinates":[-75.561969,39.758201],"type":"Point"}
+}

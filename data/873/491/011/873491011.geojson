@@ -1,0 +1,71 @@
+{
+  "id": 873491011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682907,39.707006,-75.682907,39.707006",
+    "geom:latitude":39.707006,
+    "geom:longitude":-75.682907,
+    "iso:country":"US",
+    "sg:address":"2608 Eastburn Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 9600",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2wiweAEy5GBDPuXApU6WE8_39.707006_-75.682907@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222531,
+    "wof:geomhash":"b87cfad8e21f60aca7c9446faf45252e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873491011
+        }
+    ],
+    "wof:id":873491011,
+    "wof:lastmodified":1464222531,
+    "wof:name":"L C W Developers Inc",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.682907,
+    39.707006,
+    -75.682907,
+    39.707006
+],
+  "geometry": {"coordinates":[-75.682907,39.707006],"type":"Point"}
+}

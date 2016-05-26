@@ -1,0 +1,71 @@
+{
+  "id": 873496355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527451,39.137405,-75.527451,39.137405",
+    "geom:latitude":39.137405,
+    "geom:longitude":-75.527451,
+    "iso:country":"US",
+    "sg:address":"1175 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 3540",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "assembly",
+        "fabricating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33CKegEcslW5FujO2EOx17_39.137405_-75.527451@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222792,
+    "wof:geomhash":"e6f2c8a032020383d5e1f859f7d2497a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873496355
+        }
+    ],
+    "wof:id":873496355,
+    "wof:lastmodified":1464222792,
+    "wof:name":"Troutman Machine Co",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "assembly",
+        "fabricating"
+    ]
+},
+  "bbox": [
+    -75.527451,
+    39.137405,
+    -75.527451,
+    39.137405
+],
+  "geometry": {"coordinates":[-75.527451,39.137405],"type":"Point"}
+}

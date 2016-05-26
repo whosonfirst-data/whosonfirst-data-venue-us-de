@@ -1,0 +1,71 @@
+{
+  "id": 857721309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.403295,38.706088,-75.403295,38.706088",
+    "geom:latitude":38.706088,
+    "geom:longitude":-75.403295,
+    "iso:country":"US",
+    "sg:address":"20200 Dupont Blvd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Radio Station",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 0900",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "broadcast"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VhUkOubM9DIAC3s0fcxp3_38.706088_-75.403295@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221276,
+    "wof:geomhash":"1210016350da87fd931e3ec5fb65231a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857721309
+        }
+    ],
+    "wof:id":857721309,
+    "wof:lastmodified":1464221276,
+    "wof:name":"Great Scoot Broadcasting",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "broadcast"
+    ]
+},
+  "bbox": [
+    -75.403295,
+    38.706088,
+    -75.403295,
+    38.706088
+],
+  "geometry": {"coordinates":[-75.403295,38.706088],"type":"Point"}
+}

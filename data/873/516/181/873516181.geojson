@@ -1,0 +1,77 @@
+{
+  "id": 873516181,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.650322,39.688351,-75.650322,39.688351",
+    "geom:latitude":39.688351,
+    "geom:longitude":-75.650322,
+    "iso:country":"US",
+    "sg:address":"400 Stanton Christiana Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 3900",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "educational",
+        "college"
+    ],
+    "sg:website":"http://www.dtcc.edu",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38xwsSp2vqQk8ToA17sPTi_39.688351_-75.650322@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223669,
+    "wof:geomhash":"3a2df3cb70565ef0ed699659ccc32ca3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873516181
+        }
+    ],
+    "wof:id":873516181,
+    "wof:lastmodified":1464223669,
+    "wof:name":"Del Tech & Cmty Clg-Stanton",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "educational",
+        "college"
+    ]
+},
+  "bbox": [
+    -75.650322,
+    39.688351,
+    -75.650322,
+    39.688351
+],
+  "geometry": {"coordinates":[-75.650322,39.688351],"type":"Point"}
+}

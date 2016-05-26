@@ -1,0 +1,94 @@
+{
+  "id": 873520131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54833,39.809165,-75.54833,39.809165",
+    "geom:latitude":39.809165,
+    "geom:longitude":-75.54833,
+    "iso:country":"US",
+    "sg:address":"3648 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Life Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8080",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yrGjZ4gbqy9jepRQMI2es_39.809165_-75.548330@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223885,
+    "wof:geomhash":"af02d83454bd45f9fffe69fd1c6e12dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520131
+        }
+    ],
+    "wof:id":873520131,
+    "wof:lastmodified":1464223885,
+    "wof:name":"Allstate Insurance Company - William Heydt",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business",
+        "auto",
+        "commercial",
+        "homeowner",
+        "motorcycle",
+        "renter"
+    ]
+},
+  "bbox": [
+    -75.54833,
+    39.809165,
+    -75.54833,
+    39.809165
+],
+  "geometry": {"coordinates":[-75.54833000000001,39.809165],"type":"Point"}
+}

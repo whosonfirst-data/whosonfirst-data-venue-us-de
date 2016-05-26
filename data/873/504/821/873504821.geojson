@@ -1,0 +1,73 @@
+{
+  "id": 873504821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577799,39.748936,-75.577799,39.748936",
+    "geom:latitude":39.748936,
+    "geom:longitude":-75.577799,
+    "iso:country":"US",
+    "sg:address":"121 Woodlawn Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 2008",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_26XbCS1cKAb3piP0pGV5ju_39.748936_-75.577799@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223149,
+    "wof:geomhash":"fa972862a012f2c7d5664002071247b8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873504821
+        }
+    ],
+    "wof:id":873504821,
+    "wof:lastmodified":1464223149,
+    "wof:name":"Pit Stop II",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.577799,
+    39.748936,
+    -75.577799,
+    39.748936
+],
+  "geometry": {"coordinates":[-75.577799,39.748936],"type":"Point"}
+}

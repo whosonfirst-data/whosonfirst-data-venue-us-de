@@ -1,0 +1,73 @@
+{
+  "id": 873495881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.479671,39.777211,-75.479671,39.777211",
+    "geom:latitude":39.777211,
+    "geom:longitude":-75.479671,
+    "iso:country":"US",
+    "sg:address":"6601 Governor Printz Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 792 5929",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44lyMKddntR0J84dETGY1E_39.777211_-75.479671@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222769,
+    "wof:geomhash":"a247109db7eeff4087a0a327ee579896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873495881
+        }
+    ],
+    "wof:id":873495881,
+    "wof:lastmodified":1464222769,
+    "wof:name":"Accu-Body",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.479671,
+    39.777211,
+    -75.479671,
+    39.777211
+],
+  "geometry": {"coordinates":[-75.479671,39.777211],"type":"Point"}
+}

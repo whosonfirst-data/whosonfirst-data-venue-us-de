@@ -1,0 +1,82 @@
+{
+  "id": 873498837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.731394,39.650524,-75.731394,39.650524",
+    "geom:latitude":39.650524,
+    "geom:longitude":-75.731394,
+    "iso:country":"US",
+    "sg:address":"663 Dawson Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 1754",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5M0ueUOdM1dxEX4zW3VJxE_39.650524_-75.731394@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222894,
+    "wof:geomhash":"c52236c2679499a8b5c06da98cdca46a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873498837
+        }
+    ],
+    "wof:id":873498837,
+    "wof:lastmodified":1464222894,
+    "wof:name":"Trim Shop",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "top",
+        "upholstery"
+    ]
+},
+  "bbox": [
+    -75.731394,
+    39.650524,
+    -75.731394,
+    39.650524
+],
+  "geometry": {"coordinates":[-75.73139399999999,39.650524],"type":"Point"}
+}

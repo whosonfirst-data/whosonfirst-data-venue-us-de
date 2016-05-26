@@ -1,0 +1,69 @@
+{
+  "id": 857689653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.645137,39.65057,-75.645137,39.65057",
+    "geom:latitude":39.65057,
+    "geom:longitude":-75.645137,
+    "iso:country":"US",
+    "sg:address":"344 School Bell Rd",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 3035",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63WVNg4fEZOXP1XjMIL2LE_39.650570_-75.645137@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220610,
+    "wof:geomhash":"91c8da383e98de89a7ae5c8ee5297db4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857689653
+        }
+    ],
+    "wof:id":857689653,
+    "wof:lastmodified":1464220610,
+    "wof:name":"Defelice Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.645137,
+    39.65057,
+    -75.645137,
+    39.65057
+],
+  "geometry": {"coordinates":[-75.64513700000001,39.65057],"type":"Point"}
+}

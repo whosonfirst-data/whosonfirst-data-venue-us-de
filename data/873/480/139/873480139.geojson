@@ -1,0 +1,69 @@
+{
+  "id": 873480139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.699048,39.68556,-75.699048,39.68556",
+    "geom:latitude":39.68556,
+    "geom:longitude":-75.699048,
+    "iso:country":"US",
+    "sg:address":"8 Mill Park Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 8230",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37mKhMlJJ6rf2lVJ0dwyjs_39.685560_-75.699048@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222117,
+    "wof:geomhash":"e997a8b21d5a8ec5eb650f9b7a4994d0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873480139
+        }
+    ],
+    "wof:id":873480139,
+    "wof:lastmodified":1464222117,
+    "wof:name":"U-Haul",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -75.699048,
+    39.68556,
+    -75.699048,
+    39.68556
+],
+  "geometry": {"coordinates":[-75.699048,39.68556],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873472843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577685,39.751177,-75.577685,39.751177",
+    "geom:latitude":39.751177,
+    "geom:longitude":-75.577685,
+    "iso:country":"US",
+    "sg:address":"2300 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 4324",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "refinish",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Dn72RH0KawQlAEOjLD9tE_39.751177_-75.577685@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221837,
+    "wof:geomhash":"4e5eb2f45b3b21cf1a13ee76e2ebcbc8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873472843
+        }
+    ],
+    "wof:id":873472843,
+    "wof:lastmodified":1464221837,
+    "wof:name":"Henry Auto Body Shop",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "refinish",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.577685,
+    39.751177,
+    -75.577685,
+    39.751177
+],
+  "geometry": {"coordinates":[-75.577685,39.751177],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873472807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744178,39.677708,-75.744178,39.677708",
+    "geom:latitude":39.677708,
+    "geom:longitude":-75.744178,
+    "iso:country":"US",
+    "sg:address":"145 S Chapel St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 1880",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rgMSchhOXTpJSJx3igstC_39.677708_-75.744178@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221836,
+    "wof:geomhash":"9958e75c08e138aaeed76c1504cf1c38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":873472807
+        }
+    ],
+    "wof:id":873472807,
+    "wof:lastmodified":1464221836,
+    "wof:name":"Swift Services Inc",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.744178,
+    39.677708,
+    -75.744178,
+    39.677708
+],
+  "geometry": {"coordinates":[-75.74417800000001,39.677708],"type":"Point"}
+}

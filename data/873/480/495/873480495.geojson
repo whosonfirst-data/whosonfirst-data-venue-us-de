@@ -1,0 +1,66 @@
+{
+  "id": 873480495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524734,39.176599,-75.524734,39.176599",
+    "geom:latitude":39.176599,
+    "geom:longitude":-75.524734,
+    "iso:country":"US",
+    "sg:address":"595 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 1772",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5VWBkHPakNzTF4sRU4iPaH_39.176599_-75.524734@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222132,
+    "wof:geomhash":"2c859c36242d13968bcef63b98555446",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873480495
+        }
+    ],
+    "wof:id":873480495,
+    "wof:lastmodified":1464222132,
+    "wof:name":"Dover Schwinn Cyclery",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.524734,
+    39.176599,
+    -75.524734,
+    39.176599
+],
+  "geometry": {"coordinates":[-75.524734,39.176599],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873491775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.21975,38.460986,-75.21975,38.460986",
+    "geom:latitude":38.460986,
+    "geom:longitude":-75.21975,
+    "iso:country":"US",
+    "sg:address":"6 Church St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 0255",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1g1D1xaSVotg6ZFbRn0HLF_38.460986_-75.219750@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222558,
+    "wof:geomhash":"0e5278c4f8a81a386cb1d8882fdf36d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873491775
+        }
+    ],
+    "wof:id":873491775,
+    "wof:lastmodified":1464222558,
+    "wof:name":"JAR Spanish American Mini",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.21975,
+    38.460986,
+    -75.21975,
+    38.460986
+],
+  "geometry": {"coordinates":[-75.21975,38.460986],"type":"Point"}
+}

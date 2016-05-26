@@ -1,0 +1,104 @@
+{
+  "id": 873516629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550568,39.747131,-75.550568,39.747131",
+    "geom:latitude":39.747131,
+    "geom:longitude":-75.550568,
+    "iso:country":"US",
+    "sg:address":"400 Delaware Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 201 5380",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mutual",
+        "retirement",
+        "annuity",
+        "broker",
+        "fund",
+        "planning",
+        "plan",
+        "consultant",
+        "bond",
+        "insurance",
+        "stock"
+    ],
+    "sg:website":"http://www.fidelity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YyVxvGpNa93bLj2wwrILC_39.747131_-75.550568@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223697,
+    "wof:geomhash":"7bb202356c0fd44e40f42133f1ce7a4a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873516629
+        }
+    ],
+    "wof:id":873516629,
+    "wof:lastmodified":1464223697,
+    "wof:name":"Fidelity Investments",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mutual",
+        "retirement",
+        "annuity",
+        "broker",
+        "fund",
+        "planning",
+        "plan",
+        "consultant",
+        "bond",
+        "insurance",
+        "stock"
+    ]
+},
+  "bbox": [
+    -75.550568,
+    39.747131,
+    -75.550568,
+    39.747131
+],
+  "geometry": {"coordinates":[-75.550568,39.747131],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873514369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.762405,39.629446,-75.762405,39.629446",
+    "geom:latitude":39.629446,
+    "geom:longitude":-75.762405,
+    "iso:country":"US",
+    "sg:address":"1421 Old Baltimore Pike",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 5040",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "god",
+        "god-independent",
+        "churches-assemblies"
+    ],
+    "sg:website":"http://www.praisede.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xWVF71XNwafUgu75TgqRx_39.629446_-75.762405@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223585,
+    "wof:geomhash":"43e232e282fd9855818002da38ca40bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514369
+        }
+    ],
+    "wof:id":873514369,
+    "wof:lastmodified":1464223585,
+    "wof:name":"Praise Assembly",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "god",
+        "god-independent",
+        "churches-assemblies"
+    ]
+},
+  "bbox": [
+    -75.762405,
+    39.629446,
+    -75.762405,
+    39.629446
+],
+  "geometry": {"coordinates":[-75.762405,39.629446],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873465833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.417403,38.731225,-75.417403,38.731225",
+    "geom:latitude":38.731225,
+    "geom:longitude":-75.417403,
+    "iso:country":"US",
+    "sg:address":"18293 Dupont Blvd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2843",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "outlet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UteGIhkxdpPiq0Bs2y2d8_38.731225_-75.417403@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221584,
+    "wof:geomhash":"e1a6d1cf2c0643424442fd7761075d64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873465833
+        }
+    ],
+    "wof:id":873465833,
+    "wof:lastmodified":1464221584,
+    "wof:name":"Redden Furniture Outlet",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outlet"
+    ]
+},
+  "bbox": [
+    -75.417403,
+    38.731225,
+    -75.417403,
+    38.731225
+],
+  "geometry": {"coordinates":[-75.41740299999999,38.731225],"type":"Point"}
+}

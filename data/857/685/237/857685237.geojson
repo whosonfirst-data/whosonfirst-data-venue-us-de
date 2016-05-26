@@ -1,0 +1,71 @@
+{
+  "id": 857685237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.154966,38.733929,-75.154966,38.733929",
+    "geom:latitude":38.733929,
+    "geom:longitude":-75.154966,
+    "iso:country":"US",
+    "sg:address":"403 Mulberry Ln",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 4925",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0RHfdKgqBI72ciUbs8mapx_38.733929_-75.154966@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220526,
+    "wof:geomhash":"e6ca3d6bbc7a2d21dd139ecfd889154a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857685237
+        }
+    ],
+    "wof:id":857685237,
+    "wof:lastmodified":1464220526,
+    "wof:name":"Tommy Thompson's Electrical",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.154966,
+    38.733929,
+    -75.154966,
+    38.733929
+],
+  "geometry": {"coordinates":[-75.154966,38.733929],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873486805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595651,39.693537,-75.595651,39.693537",
+    "geom:latitude":39.693537,
+    "geom:longitude":-75.595651,
+    "iso:country":"US",
+    "sg:address":"6 Bellecor Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 5040",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delivery",
+        "day",
+        "same"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IaUbYYJnaBE7OoTc7oViJ_39.693537_-75.595651@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222371,
+    "wof:geomhash":"e8f289d15e77d733ccc7917df23844db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873486805
+        }
+    ],
+    "wof:id":873486805,
+    "wof:lastmodified":1464222371,
+    "wof:name":"Velocity Express Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delivery",
+        "day",
+        "same"
+    ]
+},
+  "bbox": [
+    -75.595651,
+    39.693537,
+    -75.595651,
+    39.693537
+],
+  "geometry": {"coordinates":[-75.595651,39.693537],"type":"Point"}
+}

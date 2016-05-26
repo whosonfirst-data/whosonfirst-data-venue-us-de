@@ -1,0 +1,71 @@
+{
+  "id": 857722161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.419001,38.880732,-75.419001,38.880732",
+    "geom:latitude":38.880732,
+    "geom:longitude":-75.419001,
+    "iso:country":"US",
+    "sg:address":"7190 Marshall St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 7721",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NbPBFtCgow6zGGomg8UNp_38.880732_-75.419001@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221291,
+    "wof:geomhash":"90341f7630ef8afcd0a13f5ad0d1db1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857722161
+        }
+    ],
+    "wof:id":857722161,
+    "wof:lastmodified":1464221291,
+    "wof:name":"Off Brothers Trucking Inc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.419001,
+    38.880732,
+    -75.419001,
+    38.880732
+],
+  "geometry": {"coordinates":[-75.41900099999999,38.880732],"type":"Point"}
+}

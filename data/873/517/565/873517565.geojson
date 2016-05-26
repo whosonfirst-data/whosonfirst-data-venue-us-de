@@ -1,0 +1,77 @@
+{
+  "id": 873517565,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549797,39.813999,-75.549797,39.813999",
+    "geom:latitude":39.813999,
+    "geom:longitude":-75.549797,
+    "iso:country":"US",
+    "sg:address":"4221 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Music",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Books",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0361",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bookstore",
+        "dvd's"
+    ],
+    "sg:website":"www.borders.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uNCa0CvPd9dScW8qAWi4K_39.813999_-75.549797@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223767,
+    "wof:geomhash":"12aec52fe74471e81375d91f23e17ae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517565
+        }
+    ],
+    "wof:id":873517565,
+    "wof:lastmodified":1464223767,
+    "wof:name":"Borders",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bookstore",
+        "dvd's"
+    ]
+},
+  "bbox": [
+    -75.549797,
+    39.813999,
+    -75.549797,
+    39.813999
+],
+  "geometry": {"coordinates":[-75.549797,39.813999],"type":"Point"}
+}

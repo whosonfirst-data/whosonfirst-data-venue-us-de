@@ -1,0 +1,97 @@
+{
+  "id": 873518911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.691308,39.712697,-75.691308,39.712697",
+    "geom:latitude":39.712697,
+    "geom:longitude":-75.691308,
+    "iso:country":"US",
+    "sg:address":"152 Berry Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 0240",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "specialty",
+        "builder",
+        "heating",
+        "system",
+        "contractors-commercial",
+        "contractor",
+        "gazebo",
+        "air conditioning",
+        "patio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5WKX9ueWUDBe0JZ2ZQBnbu_39.712697_-75.691308@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223832,
+    "wof:geomhash":"9e95e8aee2981b61dbbbe8a9744e0edf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873518911
+        }
+    ],
+    "wof:id":873518911,
+    "wof:lastmodified":1464223832,
+    "wof:name":"Baltic Construction Inc",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "specialty",
+        "builder",
+        "heating",
+        "system",
+        "contractors-commercial",
+        "contractor",
+        "gazebo",
+        "air conditioning",
+        "patio"
+    ]
+},
+  "bbox": [
+    -75.691308,
+    39.712697,
+    -75.691308,
+    39.712697
+],
+  "geometry": {"coordinates":[-75.69130800000001,39.712697],"type":"Point"}
+}

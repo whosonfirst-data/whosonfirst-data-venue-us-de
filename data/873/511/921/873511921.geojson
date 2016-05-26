@@ -1,0 +1,74 @@
+{
+  "id": 873511921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599752,39.718889,-75.599752,39.718889",
+    "geom:latitude":39.718889,
+    "geom:longitude":-75.599752,
+    "iso:country":"US",
+    "sg:address":"1212 E Newport Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 613 0331",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ],
+    "sg:website":"http://www.vscdel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nOGnHPCPH19MaLdwPvKMU_39.719362_-75.598958@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223470,
+    "wof:geomhash":"2c5082019363075c15d6eff2de6c9362",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873511921
+        }
+    ],
+    "wof:id":873511921,
+    "wof:lastmodified":1464223470,
+    "wof:name":"Veterinary Emergency Center Of Delaware",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic",
+        "veterinarian",
+        "hospital"
+    ]
+},
+  "bbox": [
+    -75.599752,
+    39.718889,
+    -75.599752,
+    39.718889
+],
+  "geometry": {"coordinates":[-75.599752,39.718889],"type":"Point"}
+}

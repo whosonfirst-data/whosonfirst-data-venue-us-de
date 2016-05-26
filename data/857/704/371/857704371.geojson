@@ -1,0 +1,73 @@
+{
+  "id": 857704371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.503766,39.157825,-75.503766,39.157825",
+    "geom:latitude":39.157825,
+    "geom:longitude":-75.503766,
+    "iso:country":"US",
+    "sg:address":"488 Country Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 0929",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YYj9SYWKGi1Ve6vXlaat7_39.157825_-75.503766@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220901,
+    "wof:geomhash":"e6cc6bc8950dfeb701c3b04a58a1eaa9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":857704371
+        }
+    ],
+    "wof:id":857704371,
+    "wof:lastmodified":1464220901,
+    "wof:name":"K C's Sunshine Cleaning Svc",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.503766,
+    39.157825,
+    -75.503766,
+    39.157825
+],
+  "geometry": {"coordinates":[-75.503766,39.157825],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 873513727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.443324,38.910331,-75.443324,38.910331",
+    "geom:latitude":38.910331,
+    "geom:longitude":-75.443324,
+    "iso:country":"US",
+    "sg:address":"280 Dupont Hwy",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/milford-south/24413-applebees/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 0954",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MaSyTpeuu0rpk9wevSvbW_38.910331_-75.443324@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223546,
+    "wof:geomhash":"837f72bdb2e820ae6cc2328ecf89430f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873513727
+        }
+    ],
+    "wof:id":873513727,
+    "wof:lastmodified":1464223546,
+    "wof:name":"Applebee's",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "sandwich",
+        "soup"
+    ]
+},
+  "bbox": [
+    -75.443324,
+    38.910331,
+    -75.443324,
+    38.910331
+],
+  "geometry": {"coordinates":[-75.443324,38.910331],"type":"Point"}
+}

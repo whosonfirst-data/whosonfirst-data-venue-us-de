@@ -1,0 +1,80 @@
+{
+  "id": 873524671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.206719,38.623501,-75.206719,38.623501",
+    "geom:latitude":38.623501,
+    "geom:longitude":-75.206719,
+    "iso:country":"US",
+    "sg:address":"26798 Mission Pl",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Recreation",
+            "subcategory":"Picnic Area",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 0991",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "place",
+        "game",
+        "video",
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3GIs40Xh2cTz998LPda6b6_38.623501_-75.206719@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224066,
+    "wof:geomhash":"3558b0f5b0ed9f5de8b0c7239a8288ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873524671
+        }
+    ],
+    "wof:id":873524671,
+    "wof:lastmodified":1464224066,
+    "wof:name":"Hudson's Billards & Arcade",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "place",
+        "game",
+        "video",
+        "amusement"
+    ]
+},
+  "bbox": [
+    -75.206719,
+    38.623501,
+    -75.206719,
+    38.623501
+],
+  "geometry": {"coordinates":[-75.20671900000001,38.623501],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873480243,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56891,39.210114,-75.56891,39.210114",
+    "geom:latitude":39.210114,
+    "geom:longitude":-75.56891,
+    "iso:country":"US",
+    "sg:address":"85 Hatchery Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 1159",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "steel",
+        "fabricator",
+        "structural"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_34gDloO8Lhyfpe5BXYOZeK_39.210114_-75.568910@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222121,
+    "wof:geomhash":"30c3e2bae4fe9db686280616841c7683",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873480243
+        }
+    ],
+    "wof:id":873480243,
+    "wof:lastmodified":1464222121,
+    "wof:name":"Eagle Steel Products Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "fabricator",
+        "structural"
+    ]
+},
+  "bbox": [
+    -75.56891,
+    39.210114,
+    -75.56891,
+    39.210114
+],
+  "geometry": {"coordinates":[-75.56891,39.210114],"type":"Point"}
+}

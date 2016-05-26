@@ -1,0 +1,71 @@
+{
+  "id": 873493307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551365,39.802502,-75.551365,39.802502",
+    "geom:latitude":39.802502,
+    "geom:longitude":-75.551365,
+    "iso:country":"US",
+    "sg:address":"101 Whitby Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 1617",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "program",
+        "preschool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wi9vi76NtJiZGhXw5i9k5_39.802502_-75.551365@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222618,
+    "wof:geomhash":"64f1e86a4c14ac5b5baf4e11f1e1bd18",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873493307
+        }
+    ],
+    "wof:id":873493307,
+    "wof:lastmodified":1464222618,
+    "wof:name":"Charles W Bush School",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "program",
+        "preschool"
+    ]
+},
+  "bbox": [
+    -75.551365,
+    39.802502,
+    -75.551365,
+    39.802502
+],
+  "geometry": {"coordinates":[-75.551365,39.802502],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857695263,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.493663,39.812568,-75.493663,39.812568",
+    "geom:latitude":39.812568,
+    "geom:longitude":-75.493663,
+    "iso:country":"US",
+    "sg:address":"2108 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 9297",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5I5V3noJtnnSI6uvOgw4dW_39.812568_-75.493663@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220724,
+    "wof:geomhash":"25dc1542692b8f80e0b7137c698b0882",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857695263
+        }
+    ],
+    "wof:id":857695263,
+    "wof:lastmodified":1464220724,
+    "wof:name":"John Digiovanni Inc",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.493663,
+    39.812568,
+    -75.493663,
+    39.812568
+],
+  "geometry": {"coordinates":[-75.493663,39.812568],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857729247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.535425,39.705705,-75.535425,39.705705",
+    "geom:latitude":39.705705,
+    "geom:longitude":-75.535425,
+    "iso:country":"US",
+    "sg:address":"901 Lambson Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 8051",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bottle",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HKEWu0NDE7lDXq0G1Wboy_39.705705_-75.535425@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221420,
+    "wof:geomhash":"965ebc6b7004b7d2bf09e33099e5d0c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857729247
+        }
+    ],
+    "wof:id":857729247,
+    "wof:lastmodified":1464221420,
+    "wof:name":"Liquid Container LP",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bottle",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.535425,
+    39.705705,
+    -75.535425,
+    39.705705
+],
+  "geometry": {"coordinates":[-75.535425,39.705705],"type":"Point"}
+}

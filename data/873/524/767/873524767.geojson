@@ -1,0 +1,87 @@
+{
+  "id": 873524767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.099892,38.545603,-75.099892,38.545603",
+    "geom:latitude":38.545603,
+    "geom:longitude":-75.099892,
+    "iso:country":"US",
+    "sg:address":"206 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Mobile Phone",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Telephone",
+            "type":"Services"
+        },
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 9000",
+    "sg:postcode":"19967",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "data",
+        "system",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2l4EKVYogWgksy8FzrQiid_38.545603_-75.099892@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224070,
+    "wof:geomhash":"75ebf46495d6d62133075611204ad144",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873524767
+        }
+    ],
+    "wof:id":873524767,
+    "wof:lastmodified":1464224070,
+    "wof:name":"Mobile Communications Sys",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "data",
+        "system",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -75.099892,
+    38.545603,
+    -75.099892,
+    38.545603
+],
+  "geometry": {"coordinates":[-75.099892,38.545603],"type":"Point"}
+}

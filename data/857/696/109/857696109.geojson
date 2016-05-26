@@ -1,0 +1,71 @@
+{
+  "id": 857696109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595624,39.69376,-75.595624,39.69376",
+    "geom:latitude":39.69376,
+    "geom:longitude":-75.595624,
+    "iso:country":"US",
+    "sg:address":"2 Bellecor Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 7775",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fo3iVhJuqxcmn4T9JPHuq_39.693760_-75.595624@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220738,
+    "wof:geomhash":"a2f0cd0ca067ff9d965f08c90964f9d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857696109
+        }
+    ],
+    "wof:id":857696109,
+    "wof:lastmodified":1464220738,
+    "wof:name":"Basin Road Self Storage",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -75.595624,
+    39.69376,
+    -75.595624,
+    39.69376
+],
+  "geometry": {"coordinates":[-75.595624,39.69376],"type":"Point"}
+}

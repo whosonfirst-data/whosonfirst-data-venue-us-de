@@ -1,0 +1,71 @@
+{
+  "id": 873518387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606941,39.73856,-75.606941,39.73856",
+    "geom:latitude":39.73856,
+    "geom:longitude":-75.606941,
+    "iso:country":"US",
+    "sg:address":"1601 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 0539",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "government-united",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0IdmeVxJ1iBLUAayFCdplP_39.738560_-75.606941@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223809,
+    "wof:geomhash":"b574fad706690f3092d21e66f878c223",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518387
+        }
+    ],
+    "wof:id":873518387,
+    "wof:lastmodified":1464223809,
+    "wof:name":"US Department of Veterans Affairs",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-united",
+        "state"
+    ]
+},
+  "bbox": [
+    -75.606941,
+    39.73856,
+    -75.606941,
+    39.73856
+],
+  "geometry": {"coordinates":[-75.60694100000001,39.73856],"type":"Point"}
+}

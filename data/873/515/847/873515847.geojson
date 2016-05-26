@@ -1,0 +1,78 @@
+{
+  "id": 873515847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.709503,39.69212,-75.709503,39.69212",
+    "geom:latitude":39.69212,
+    "geom:longitude":-75.709503,
+    "iso:country":"US",
+    "sg:address":"16 Elizabeth Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 5347",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tavern",
+        "style",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CeRnrx1rpHBETOqrNyTSB_39.692120_-75.709503@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223657,
+    "wof:geomhash":"7a380d5ca4f508efe33edae4e60f553e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873515847
+        }
+    ],
+    "wof:id":873515847,
+    "wof:lastmodified":1464223657,
+    "wof:name":"Bernie's",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "style",
+        "family"
+    ]
+},
+  "bbox": [
+    -75.709503,
+    39.69212,
+    -75.709503,
+    39.69212
+],
+  "geometry": {"coordinates":[-75.709503,39.69212],"type":"Point"}
+}

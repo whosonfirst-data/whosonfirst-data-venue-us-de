@@ -1,0 +1,76 @@
+{
+  "id": 873513931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550286,39.749083,-75.550286,39.749083",
+    "geom:latitude":39.749083,
+    "geom:longitude":-75.550286,
+    "iso:country":"US",
+    "sg:address":"1206 N Washington St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/wilmington/241773-washington-street-ale-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 2537",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "steakhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jvNwjTrhdhPyJsUf9pKxl_39.749049_-75.550409@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223557,
+    "wof:geomhash":"0033c6f33e6b2bd33d363b1a195ba0e4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888517,
+            "region_id":85688611,
+            "venue_id":873513931
+        }
+    ],
+    "wof:id":873513931,
+    "wof:lastmodified":1464223557,
+    "wof:name":"Washington Street Ale House",
+    "wof:parent_id":85888517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "steakhouse"
+    ]
+},
+  "bbox": [
+    -75.550286,
+    39.749083,
+    -75.550286,
+    39.749083
+],
+  "geometry": {"coordinates":[-75.550286,39.749083],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873519161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.637048,39.734396,-75.637048,39.734396",
+    "geom:latitude":39.734396,
+    "geom:longitude":-75.637048,
+    "iso:country":"US",
+    "sg:address":"3625 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Fuel Oil & Lpg",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 8445",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11OnecMFkyqDj8PhHJ1bIz_39.734396_-75.637048@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223841,
+    "wof:geomhash":"27481c82b7fdc9011ff98be76b868e0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873519161
+        }
+    ],
+    "wof:id":873519161,
+    "wof:lastmodified":1464223841,
+    "wof:name":"Kirkwood Shell",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bulk",
+        "petroleum-bottled",
+        "gas-liquefied"
+    ]
+},
+  "bbox": [
+    -75.637048,
+    39.734396,
+    -75.637048,
+    39.734396
+],
+  "geometry": {"coordinates":[-75.63704799999999,39.734396],"type":"Point"}
+}

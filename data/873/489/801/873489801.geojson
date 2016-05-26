@@ -1,0 +1,73 @@
+{
+  "id": 873489801,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.307925,38.78363,-75.307925,38.78363",
+    "geom:latitude":38.78363,
+    "geom:longitude":-75.307925,
+    "iso:country":"US",
+    "sg:address":"500 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 9107",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15NRRBWA0YOo9D7QrhbJjN_38.783630_-75.307925@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222486,
+    "wof:geomhash":"f7e630a7e8bc20c2215eab58d531cf45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873489801
+        }
+    ],
+    "wof:id":873489801,
+    "wof:lastmodified":1464222486,
+    "wof:name":"Universal Contracting",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.307925,
+    38.78363,
+    -75.307925,
+    38.78363
+],
+  "geometry": {"coordinates":[-75.307925,38.78363],"type":"Point"}
+}

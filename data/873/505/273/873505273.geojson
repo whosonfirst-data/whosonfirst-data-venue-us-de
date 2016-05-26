@@ -1,0 +1,73 @@
+{
+  "id": 873505273,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569438,39.211509,-75.569438,39.211509",
+    "geom:latitude":39.211509,
+    "geom:longitude":-75.569438,
+    "iso:country":"US",
+    "sg:address":"141 Hunters Run",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 3377",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3g7P6Ww7c0upvWH1iJNdII_39.211509_-75.569438@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223172,
+    "wof:geomhash":"10e0b5e6372c6b8bb40a54d50c25ec71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873505273
+        }
+    ],
+    "wof:id":873505273,
+    "wof:lastmodified":1464223172,
+    "wof:name":"Paul's Auto Wholesale",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.569438,
+    39.211509,
+    -75.569438,
+    39.211509
+],
+  "geometry": {"coordinates":[-75.56943800000001,39.211509],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857691407,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60702,39.641687,-75.60702,39.641687",
+    "geom:latitude":39.641687,
+    "geom:longitude":-75.60702,
+    "iso:country":"US",
+    "sg:address":"507 Sterling Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 325 1150",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3IY0FtTtLqIlNGlienItJQ_39.641687_-75.607020@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220650,
+    "wof:geomhash":"bdbb257e41c9a5147019d99e33a50cc5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857691407
+        }
+    ],
+    "wof:id":857691407,
+    "wof:lastmodified":1464220650,
+    "wof:name":"Bay Electrical Contractors",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.60702,
+    39.641687,
+    -75.60702,
+    39.641687
+],
+  "geometry": {"coordinates":[-75.60702000000001,39.641687],"type":"Point"}
+}

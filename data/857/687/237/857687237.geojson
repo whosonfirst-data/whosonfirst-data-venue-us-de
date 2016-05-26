@@ -1,0 +1,73 @@
+{
+  "id": 857687237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571446,39.747184,-75.571446,39.747184",
+    "geom:latitude":39.747184,
+    "geom:longitude":-75.571446,
+    "iso:country":"US",
+    "sg:address":"1700 Conrad St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 425 4142",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_55a4lch2rzA6t7bmPdFOCM_39.747184_-75.571446@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220563,
+    "wof:geomhash":"690fcd0e53154ff7f0a08a761688e3e8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":857687237
+        }
+    ],
+    "wof:id":857687237,
+    "wof:lastmodified":1464220563,
+    "wof:name":"Naranjito Carburator",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.571446,
+    39.747184,
+    -75.571446,
+    39.747184
+],
+  "geometry": {"coordinates":[-75.57144599999999,39.747184],"type":"Point"}
+}

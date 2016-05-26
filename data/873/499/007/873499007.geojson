@@ -1,0 +1,75 @@
+{
+  "id": 873499007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.366109,38.653929,-75.366109,38.653929",
+    "geom:latitude":38.653929,
+    "geom:longitude":-75.366109,
+    "iso:country":"US",
+    "sg:address":"24175 Wood Branch Rd",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 3426",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HZTTahConRe02PLLGnORQ_38.653929_-75.366109@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222900,
+    "wof:geomhash":"7ed1f991e0366ef5e1d2bfb7dfa8e11a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873499007
+        }
+    ],
+    "wof:id":873499007,
+    "wof:lastmodified":1464222900,
+    "wof:name":"Kreer & Son Trucking Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "storage",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.366109,
+    38.653929,
+    -75.366109,
+    38.653929
+],
+  "geometry": {"coordinates":[-75.36610899999999,38.653929],"type":"Point"}
+}

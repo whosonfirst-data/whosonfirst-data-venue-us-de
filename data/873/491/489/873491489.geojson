@@ -1,0 +1,71 @@
+{
+  "id": 873491489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.612442,39.296905,-75.612442,39.296905",
+    "geom:latitude":39.296905,
+    "geom:longitude":-75.612442,
+    "iso:country":"US",
+    "sg:address":"440 Clayton Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 3740",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OryX7yQvyk40WDlzraVjR_39.296905_-75.612442@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222548,
+    "wof:geomhash":"d47f22701f8a527adaacaec9ea960438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873491489
+        }
+    ],
+    "wof:id":873491489,
+    "wof:lastmodified":1464222548,
+    "wof:name":"B M B Contracting",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.612442,
+    39.296905,
+    -75.612442,
+    39.296905
+],
+  "geometry": {"coordinates":[-75.612442,39.296905],"type":"Point"}
+}

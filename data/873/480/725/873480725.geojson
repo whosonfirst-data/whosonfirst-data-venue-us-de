@@ -1,0 +1,71 @@
+{
+  "id": 873480725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.562698,39.692495,-75.562698,39.692495",
+    "geom:latitude":39.692495,
+    "geom:longitude":-75.562698,
+    "iso:country":"US",
+    "sg:address":"133 Festone Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 7551",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67VLMP8UDTZC52jcw7cMxO_39.692495_-75.562698@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222144,
+    "wof:geomhash":"4a50052336798734e4dd70a029201d45",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873480725
+        }
+    ],
+    "wof:id":873480725,
+    "wof:lastmodified":1464222144,
+    "wof:name":"New Castle Engraving Co",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.562698,
+    39.692495,
+    -75.562698,
+    39.692495
+],
+  "geometry": {"coordinates":[-75.562698,39.692495],"type":"Point"}
+}

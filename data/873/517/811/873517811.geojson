@@ -1,0 +1,73 @@
+{
+  "id": 873517811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547261,39.797982,-75.547261,39.797982",
+    "geom:latitude":39.797982,
+    "geom:longitude":-75.547261,
+    "iso:country":"US",
+    "sg:address":"2805 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 6875",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05rODh5lT5D3DmjCiDqTmv_39.797982_-75.547261@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223782,
+    "wof:geomhash":"6bf93039fa161fbed295ea595d1c70fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517811
+        }
+    ],
+    "wof:id":873517811,
+    "wof:lastmodified":1464223782,
+    "wof:name":"Concord Music Company",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -75.547261,
+    39.797982,
+    -75.547261,
+    39.797982
+],
+  "geometry": {"coordinates":[-75.54726100000001,39.797982],"type":"Point"}
+}

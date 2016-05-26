@@ -1,0 +1,71 @@
+{
+  "id": 873467259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626726,39.738781,-75.626726,39.738781",
+    "geom:latitude":39.738781,
+    "geom:longitude":-75.626726,
+    "iso:country":"US",
+    "sg:address":"109 Greenbank Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 9975",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cashing",
+        "check"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1f85qGpOiyzgo87MqRwIIe_39.738781_-75.626726@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221627,
+    "wof:geomhash":"e438999334fd9828e4790242cba2110b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873467259
+        }
+    ],
+    "wof:id":873467259,
+    "wof:lastmodified":1464221627,
+    "wof:name":"One Two Three Cash",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cashing",
+        "check"
+    ]
+},
+  "bbox": [
+    -75.626726,
+    39.738781,
+    -75.626726,
+    39.738781
+],
+  "geometry": {"coordinates":[-75.62672600000001,39.738781],"type":"Point"}
+}

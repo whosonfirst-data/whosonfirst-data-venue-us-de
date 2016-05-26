@@ -1,0 +1,73 @@
+{
+  "id": 857710205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524253,39.16015,-75.524253,39.16015",
+    "geom:latitude":39.16015,
+    "geom:longitude":-75.524253,
+    "iso:country":"US",
+    "sg:address":"144 Kings Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 8700",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cf8Ph5VMiu6uhHqCQEzGu_39.160150_-75.524253@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221034,
+    "wof:geomhash":"2b48c50a269753d0a7f5e51b9463d236",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":857710205
+        }
+    ],
+    "wof:id":857710205,
+    "wof:lastmodified":1464221034,
+    "wof:name":"Larson Engineering",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.524253,
+    39.16015,
+    -75.524253,
+    39.16015
+],
+  "geometry": {"coordinates":[-75.524253,39.16015],"type":"Point"}
+}

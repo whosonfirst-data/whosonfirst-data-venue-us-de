@@ -1,0 +1,71 @@
+{
+  "id": 873474803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.581919,39.689484,-75.581919,39.689484",
+    "geom:latitude":39.689484,
+    "geom:longitude":-75.581919,
+    "iso:country":"US",
+    "sg:address":"1402 N Dupont Hwy",
+    "sg:city":"St Georges",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 4568",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2fueB5DFZosn3INahe2Pp8_39.689484_-75.581919@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221908,
+    "wof:geomhash":"4e1ee87068e238ee2a16a60633107e99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873474803
+        }
+    ],
+    "wof:id":873474803,
+    "wof:lastmodified":1464221908,
+    "wof:name":"Stapleford's Chevrolet & Olds",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.581919,
+    39.689484,
+    -75.581919,
+    39.689484
+],
+  "geometry": {"coordinates":[-75.581919,39.689484],"type":"Point"}
+}

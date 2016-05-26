@@ -1,0 +1,73 @@
+{
+  "id": 873522429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.538803,39.1712,-75.538803,39.1712",
+    "geom:latitude":39.1712,
+    "geom:longitude":-75.538803,
+    "iso:country":"US",
+    "sg:address":"707 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2380",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "psychiatrist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FoNjg4jLfL2UArUZD7Lsc_39.171200_-75.538803@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223986,
+    "wof:geomhash":"9a28eb9f457d60bfef52aed0e71e372f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873522429
+        }
+    ],
+    "wof:id":873522429,
+    "wof:lastmodified":1464223986,
+    "wof:name":"Everett F H & Assoc Inc",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "psychiatrist"
+    ]
+},
+  "bbox": [
+    -75.538803,
+    39.1712,
+    -75.538803,
+    39.1712
+],
+  "geometry": {"coordinates":[-75.538803,39.1712],"type":"Point"}
+}

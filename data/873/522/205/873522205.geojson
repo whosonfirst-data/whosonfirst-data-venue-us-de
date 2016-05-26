@@ -1,0 +1,78 @@
+{
+  "id": 873522205,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56601,39.207227,-75.56601,39.207227",
+    "geom:latitude":39.207227,
+    "geom:longitude":-75.56601,
+    "iso:country":"US",
+    "sg:address":"4145 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 1464",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kK86ZEUyx6hIfqMcCKZbz_39.207227_-75.566010@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223972,
+    "wof:geomhash":"8aae14446a0b3d4b9f3d0860a916909c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522205
+        }
+    ],
+    "wof:id":873522205,
+    "wof:lastmodified":1464223972,
+    "wof:name":"Fleetwood Enterprises",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.56601,
+    39.207227,
+    -75.56601,
+    39.207227
+],
+  "geometry": {"coordinates":[-75.56601000000001,39.207227],"type":"Point"}
+}

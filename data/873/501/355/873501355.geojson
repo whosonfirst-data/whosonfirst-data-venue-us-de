@@ -1,0 +1,73 @@
+{
+  "id": 873501355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.717328,39.694337,-75.717328,39.694337",
+    "geom:latitude":39.694337,
+    "geom:longitude":-75.717328,
+    "iso:country":"US",
+    "sg:address":"29 Possum Park Mall",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 5494",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jAUrh8lCIlPnU7jR0m5Pj_39.694337_-75.717328@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223003,
+    "wof:geomhash":"60b977d8c3d49c05512157ff41cf80f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873501355
+        }
+    ],
+    "wof:id":873501355,
+    "wof:lastmodified":1464223003,
+    "wof:name":"Jiffy Lube",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "lubrication",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.717328,
+    39.694337,
+    -75.717328,
+    39.694337
+],
+  "geometry": {"coordinates":[-75.71732799999999,39.694337],"type":"Point"}
+}

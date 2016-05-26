@@ -1,0 +1,75 @@
+{
+  "id": 873519591,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547096,39.8092,-75.547096,39.8092",
+    "geom:latitude":39.8092,
+    "geom:longitude":-75.547096,
+    "iso:country":"US",
+    "sg:address":"3629 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Nail Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 7530",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hair"
+    ],
+    "sg:website":"www.georgemarcussalon.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5dG0RqkirdCR5Xx9VHn3ak_39.809200_-75.547096@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223862,
+    "wof:geomhash":"1a804560db4b5588dca1107c23824164",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873519591
+        }
+    ],
+    "wof:id":873519591,
+    "wof:lastmodified":1464223862,
+    "wof:name":"George Marcus Salon",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hair"
+    ]
+},
+  "bbox": [
+    -75.547096,
+    39.8092,
+    -75.547096,
+    39.8092
+],
+  "geometry": {"coordinates":[-75.547096,39.8092],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857701303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.483279,39.781453,-75.483279,39.781453",
+    "geom:latitude":39.781453,
+    "geom:longitude":-75.483279,
+    "iso:country":"US",
+    "sg:address":"1200 Philadelphia Pike",
+    "sg:city":"Edgemoor",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 7500",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "copying",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qEKVYXbUCGxn7gjRUrrnw_39.781453_-75.483279@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220841,
+    "wof:geomhash":"c8bef8e021fa22f3e65cb45718a1e887",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":857701303
+        }
+    ],
+    "wof:id":857701303,
+    "wof:lastmodified":1464220841,
+    "wof:name":"DOE Technologies",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "copying",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.483279,
+    39.781453,
+    -75.483279,
+    39.781453
+],
+  "geometry": {"coordinates":[-75.483279,39.781453],"type":"Point"}
+}

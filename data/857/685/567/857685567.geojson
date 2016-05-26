@@ -1,0 +1,72 @@
+{
+  "id": 857685567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.559715,39.76142,-75.559715,39.76142",
+    "geom:latitude":39.76142,
+    "geom:longitude":-75.559715,
+    "iso:country":"US",
+    "sg:address":"2003 N Scott St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Architect",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 4491",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "architectural"
+    ],
+    "sg:website":"www.homsey.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4XPChn6pnmTiju8KJgTN3O_39.761420_-75.559715@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220532,
+    "wof:geomhash":"7b088b21faff1b132cfc6a1489cb6c09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":857685567
+        }
+    ],
+    "wof:id":857685567,
+    "wof:lastmodified":1464220532,
+    "wof:name":"Homsey Architects Inc",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "architectural"
+    ]
+},
+  "bbox": [
+    -75.559715,
+    39.76142,
+    -75.559715,
+    39.76142
+],
+  "geometry": {"coordinates":[-75.559715,39.76142],"type":"Point"}
+}

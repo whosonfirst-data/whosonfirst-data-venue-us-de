@@ -1,0 +1,71 @@
+{
+  "id": 873465685,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.593258,38.750568,-75.593258,38.750568",
+    "geom:latitude":38.750568,
+    "geom:longitude":-75.593258,
+    "iso:country":"US",
+    "sg:address":"16359 Sussex Hwy",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 1090",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_087zvM3u27sOG5791irbmT_38.750568_-75.593258@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221582,
+    "wof:geomhash":"4fa7dc5a866723ca29b543225303b4df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873465685
+        }
+    ],
+    "wof:id":873465685,
+    "wof:lastmodified":1464221582,
+    "wof:name":"State Police",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -75.593258,
+    38.750568,
+    -75.593258,
+    38.750568
+],
+  "geometry": {"coordinates":[-75.59325800000001,38.750568],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873513349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.580001,39.690911,-75.580001,39.690911",
+    "geom:latitude":39.690911,
+    "geom:longitude":-75.580001,
+    "iso:country":"US",
+    "sg:address":"1530 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/166506-burger-king/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 9004",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ul2MnuYamq2RTTabguPWK_39.690911_-75.580001@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223526,
+    "wof:geomhash":"d974c36a8ec09c40060b597fa8db2f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873513349
+        }
+    ],
+    "wof:id":873513349,
+    "wof:lastmodified":1464223526,
+    "wof:name":"Burger King",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.580001,
+    39.690911,
+    -75.580001,
+    39.690911
+],
+  "geometry": {"coordinates":[-75.580001,39.690911],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873523535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544119,39.101932,-75.544119,39.101932",
+    "geom:latitude":39.101932,
+    "geom:longitude":-75.544119,
+    "iso:country":"US",
+    "sg:address":"263 Walmart Dr",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 3246",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ],
+    "sg:website":"http://www.mcdonalds.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2BIbrRb9SqZJNK2GUm0wYR_39.101932_-75.544119@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224023,
+    "wof:geomhash":"8235645bd237806437f8dd75ce413692",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873523535
+        }
+    ],
+    "wof:id":873523535,
+    "wof:lastmodified":1464224023,
+    "wof:name":"McDonald's",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hamburger",
+        "hot",
+        "dog",
+        "american",
+        "take",
+        "chicken"
+    ]
+},
+  "bbox": [
+    -75.544119,
+    39.101932,
+    -75.544119,
+    39.101932
+],
+  "geometry": {"coordinates":[-75.54411899999999,39.101932],"type":"Point"}
+}

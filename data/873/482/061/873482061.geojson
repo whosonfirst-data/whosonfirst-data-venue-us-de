@@ -1,0 +1,71 @@
+{
+  "id": 873482061,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.136922,38.733969,-75.136922,38.733969",
+    "geom:latitude":38.733969,
+    "geom:longitude":-75.136922,
+    "iso:country":"US",
+    "sg:address":"4550 Hwy One",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 5005",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00tkzdQGgLIFUK1aVKFk7B_38.733969_-75.136922@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222196,
+    "wof:geomhash":"f11d6152015e40d4f0c059a79a541f0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873482061
+        }
+    ],
+    "wof:id":873482061,
+    "wof:lastmodified":1464222196,
+    "wof:name":"Enterprise Rent-A-Car",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.136922,
+    38.733969,
+    -75.136922,
+    38.733969
+],
+  "geometry": {"coordinates":[-75.136922,38.733969],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873503327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547883,39.801096,-75.547883,39.801096",
+    "geom:latitude":39.801096,
+    "geom:longitude":-75.547883,
+    "iso:country":"US",
+    "sg:address":"3209 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5337",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3k576yiSHmLzZFKe1u1ddl_39.801096_-75.547883@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223076,
+    "wof:geomhash":"3619325c08f590242f612d92a88bea24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873503327
+        }
+    ],
+    "wof:id":873503327,
+    "wof:lastmodified":1464223076,
+    "wof:name":"La Nail Salon",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -75.547883,
+    39.801096,
+    -75.547883,
+    39.801096
+],
+  "geometry": {"coordinates":[-75.547883,39.801096],"type":"Point"}
+}

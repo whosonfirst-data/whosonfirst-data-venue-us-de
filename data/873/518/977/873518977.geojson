@@ -1,0 +1,71 @@
+{
+  "id": 873518977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682387,39.734656,-75.682387,39.734656",
+    "geom:latitude":39.734656,
+    "geom:longitude":-75.682387,
+    "iso:country":"US",
+    "sg:address":"4003 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Science Facility",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 543 4604",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "development",
+        "laboratories-research"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4r2GLDiByWsrgt3R3KxUR5_39.734656_-75.682387@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223834,
+    "wof:geomhash":"ef8755a9ddbb2ed5578e7b61ca59fe2a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":873518977
+        }
+    ],
+    "wof:id":873518977,
+    "wof:lastmodified":1464223834,
+    "wof:name":"Savio Technologies",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "development",
+        "laboratories-research"
+    ]
+},
+  "bbox": [
+    -75.682387,
+    39.734656,
+    -75.682387,
+    39.734656
+],
+  "geometry": {"coordinates":[-75.68238700000001,39.734656],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873467141,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515895,39.054251,-75.515895,39.054251",
+    "geom:latitude":39.054251,
+    "geom:longitude":-75.515895,
+    "iso:country":"US",
+    "sg:address":"465 Woodlytown Rd",
+    "sg:city":"Magnolia",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Orchard",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 5497",
+    "sg:postcode":"19962",
+    "sg:province":"DE",
+    "sg:tags":[
+        "farm",
+        "corn",
+        "fruit",
+        "tree",
+        "soybean"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SbnugcKJWfL5mwPBzqEKU_39.054251_-75.515895@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221623,
+    "wof:geomhash":"06401db480047ffa00fdf1156169bb0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873467141
+        }
+    ],
+    "wof:id":873467141,
+    "wof:lastmodified":1464221623,
+    "wof:name":"Donald Appenzeller Farm",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "farm",
+        "corn",
+        "fruit",
+        "tree",
+        "soybean"
+    ]
+},
+  "bbox": [
+    -75.515895,
+    39.054251,
+    -75.515895,
+    39.054251
+],
+  "geometry": {"coordinates":[-75.515895,39.054251],"type":"Point"}
+}

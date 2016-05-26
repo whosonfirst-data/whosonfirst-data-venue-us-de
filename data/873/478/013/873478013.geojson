@@ -1,0 +1,73 @@
+{
+  "id": 873478013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548716,39.744318,-75.548716,39.744318",
+    "geom:latitude":39.744318,
+    "geom:longitude":-75.548716,
+    "iso:country":"US",
+    "sg:address":"831 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 3277",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kLOR1JixCmKITaToHhl97_39.744318_-75.548716@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222019,
+    "wof:geomhash":"b01520ceca2ddba8cce3b508bc7793be",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873478013
+        }
+    ],
+    "wof:id":873478013,
+    "wof:lastmodified":1464222019,
+    "wof:name":"Saladworks",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.548716,
+    39.744318,
+    -75.548716,
+    39.744318
+],
+  "geometry": {"coordinates":[-75.548716,39.744318],"type":"Point"}
+}

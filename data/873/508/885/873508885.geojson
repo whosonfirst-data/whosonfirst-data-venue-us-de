@@ -1,0 +1,75 @@
+{
+  "id": 873508885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.732835,39.683624,-75.732835,39.683624",
+    "geom:latitude":39.683624,
+    "geom:longitude":-75.732835,
+    "iso:country":"US",
+    "sg:address":"260 College Sq",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 1616",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EIJlnTjmOyIeEEefkGAZ6_39.683624_-75.732835@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223326,
+    "wof:geomhash":"ddfe917077e26a1eb9e2223782ec8b65",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873508885
+        }
+    ],
+    "wof:id":873508885,
+    "wof:lastmodified":1464223326,
+    "wof:name":"Blockbuster Video",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.732835,
+    39.683624,
+    -75.732835,
+    39.683624
+],
+  "geometry": {"coordinates":[-75.73283499999999,39.683624],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857725603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.686107,39.669908,-75.686107,39.669908",
+    "geom:latitude":39.669908,
+    "geom:longitude":-75.686107,
+    "iso:country":"US",
+    "sg:address":"41 Stallion Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 4604",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EVvtTy5zUWNpbNvQrdVbO_39.669908_-75.686107@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221355,
+    "wof:geomhash":"d723746b6f7d9ec3ab18c53e2966c93c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857725603
+        }
+    ],
+    "wof:id":857725603,
+    "wof:lastmodified":1464221355,
+    "wof:name":"McGinness Painting",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.686107,
+    39.669908,
+    -75.686107,
+    39.669908
+],
+  "geometry": {"coordinates":[-75.68610700000001,39.669908],"type":"Point"}
+}

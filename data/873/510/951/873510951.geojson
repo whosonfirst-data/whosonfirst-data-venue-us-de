@@ -1,0 +1,71 @@
+{
+  "id": 873510951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517245,39.179966,-75.517245,39.179966",
+    "geom:latitude":39.179966,
+    "geom:longitude":-75.517245,
+    "iso:country":"US",
+    "sg:address":"652 Nimitz Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 5136",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YXQdc3jk3tdSy1tAKwjz3_39.179966_-75.517245@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223417,
+    "wof:geomhash":"e07da5e1c62ed4346eca42375bb8c104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873510951
+        }
+    ],
+    "wof:id":873510951,
+    "wof:lastmodified":1464223417,
+    "wof:name":"Nathaniel Robinson",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.517245,
+    39.179966,
+    -75.517245,
+    39.179966
+],
+  "geometry": {"coordinates":[-75.517245,39.179966],"type":"Point"}
+}

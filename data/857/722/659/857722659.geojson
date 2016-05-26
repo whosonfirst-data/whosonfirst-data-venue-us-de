@@ -1,0 +1,70 @@
+{
+  "id": 857722659,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.660395,39.751581,-75.660395,39.751581",
+    "geom:latitude":39.751581,
+    "geom:longitude":-75.660395,
+    "iso:country":"US",
+    "sg:address":"500 McKennans Church Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 0434",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.rccpc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62yL4gwLHeTuKrgqtbnpV8_39.751581_-75.660395@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221300,
+    "wof:geomhash":"eee89b8d91dab99fba48a2bf47f1c395",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857722659
+        }
+    ],
+    "wof:id":857722659,
+    "wof:lastmodified":1464221300,
+    "wof:name":"Red Clay Creek Presbyterian",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.660395,
+    39.751581,
+    -75.660395,
+    39.751581
+],
+  "geometry": {"coordinates":[-75.66039499999999,39.751581],"type":"Point"}
+}

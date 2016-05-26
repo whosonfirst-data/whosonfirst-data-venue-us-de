@@ -1,0 +1,72 @@
+{
+  "id": 873513357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.584942,39.672779,-75.584942,39.672779",
+    "geom:latitude":39.672779,
+    "geom:longitude":-75.584942,
+    "iso:country":"US",
+    "sg:address":"606 E Basin Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/105452-pats-family-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 6060",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6U0Uk5FBno0WrPpB6NiCvQ_39.672779_-75.584942@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223526,
+    "wof:geomhash":"00cf7245a459ca2ac549ed116f4002da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873513357
+        }
+    ],
+    "wof:id":873513357,
+    "wof:lastmodified":1464223526,
+    "wof:name":"Pat's Family Restaurant",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.584942,
+    39.672779,
+    -75.584942,
+    39.672779
+],
+  "geometry": {"coordinates":[-75.584942,39.672779],"type":"Point"}
+}

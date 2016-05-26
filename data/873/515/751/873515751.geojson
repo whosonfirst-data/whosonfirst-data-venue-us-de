@@ -1,0 +1,76 @@
+{
+  "id": 873515751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.742576,39.707041,-75.742576,39.707041",
+    "geom:latitude":39.707041,
+    "geom:longitude":-75.742576,
+    "iso:country":"US",
+    "sg:address":"11 Henlopen Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 2288",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "casualty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85842215,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5uKbASrESSNDhnQpUkiXfT_39.707041_-75.742576@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223654,
+    "wof:geomhash":"c7a713a8a81f5e266713264e455f5071",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85842215,
+            "region_id":85688611,
+            "venue_id":873515751
+        }
+    ],
+    "wof:id":873515751,
+    "wof:lastmodified":1464223654,
+    "wof:name":"Coll Hackendorn & Associates",
+    "wof:parent_id":85842215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "casualty"
+    ]
+},
+  "bbox": [
+    -75.742576,
+    39.707041,
+    -75.742576,
+    39.707041
+],
+  "geometry": {"coordinates":[-75.742576,39.707041],"type":"Point"}
+}

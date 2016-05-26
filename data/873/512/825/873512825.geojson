@@ -1,0 +1,75 @@
+{
+  "id": 873512825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.557993,39.048946,-75.557993,39.048946",
+    "geom:latitude":39.048946,
+    "geom:longitude":-75.557993,
+    "iso:country":"US",
+    "sg:address":"450 Upper King Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4518",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "place",
+        "worship",
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Tfc9UIeYVEG2Fe430Vdpt_39.048435_-75.557786@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223506,
+    "wof:geomhash":"b11809e5c87eb90f9a16aeb555ac74e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873512825
+        }
+    ],
+    "wof:id":873512825,
+    "wof:lastmodified":1464223506,
+    "wof:name":"Felton Congregation",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "place",
+        "worship",
+        "church"
+    ]
+},
+  "bbox": [
+    -75.557993,
+    39.048946,
+    -75.557993,
+    39.048946
+],
+  "geometry": {"coordinates":[-75.557993,39.048946],"type":"Point"}
+}

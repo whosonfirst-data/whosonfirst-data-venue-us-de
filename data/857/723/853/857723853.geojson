@@ -1,0 +1,71 @@
+{
+  "id": 857723853,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.67105,38.640933,-75.67105,38.640933",
+    "geom:latitude":38.640933,
+    "geom:longitude":-75.67105,
+    "iso:country":"US",
+    "sg:address":"1007 W Stein Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 5299",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RIbDqWOmLWiShKhaYLjxa_38.640933_-75.671050@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221321,
+    "wof:geomhash":"c149fc8dd0f5958cf1f184b0a8a39250",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":857723853
+        }
+    ],
+    "wof:id":857723853,
+    "wof:lastmodified":1464221321,
+    "wof:name":"Chi's Nails Salon",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -75.67105,
+    38.640933,
+    -75.67105,
+    38.640933
+],
+  "geometry": {"coordinates":[-75.67104999999999,38.640933],"type":"Point"}
+}

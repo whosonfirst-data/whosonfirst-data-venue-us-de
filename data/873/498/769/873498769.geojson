@@ -1,0 +1,71 @@
+{
+  "id": 873498769,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.65699,39.699144,-75.65699,39.699144",
+    "geom:latitude":39.699144,
+    "geom:longitude":-75.65699,
+    "iso:country":"US",
+    "sg:address":"1000 Twin C Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 9030",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0u9KmlJ04J2gWCTbL26Rha_39.699144_-75.656990@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222891,
+    "wof:geomhash":"0488f649ba34d383706608e9e6c318c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873498769
+        }
+    ],
+    "wof:id":873498769,
+    "wof:lastmodified":1464222891,
+    "wof:name":"First Sight Laser Ctr",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.65699,
+    39.699144,
+    -75.65699,
+    39.699144
+],
+  "geometry": {"coordinates":[-75.65698999999999,39.699144],"type":"Point"}
+}

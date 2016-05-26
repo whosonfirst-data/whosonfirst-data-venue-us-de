@@ -1,0 +1,74 @@
+{
+  "id": 857720227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572914,39.762792,-75.572914,39.762792",
+    "geom:latitude":39.762792,
+    "geom:longitude":-75.572914,
+    "iso:country":"US",
+    "sg:address":"2400 W 17th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 7326",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "episcopal",
+        "church"
+    ],
+    "sg:website":"www.immanuel-highlands.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07t7ZfkvAsiHKXcybiWtw9_39.762792_-75.572914@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221254,
+    "wof:geomhash":"e24cf67dbf19ffc28ae64d5428c62293",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":857720227
+        }
+    ],
+    "wof:id":857720227,
+    "wof:lastmodified":1464221254,
+    "wof:name":"Immanuel Church Highlands",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "episcopal",
+        "church"
+    ]
+},
+  "bbox": [
+    -75.572914,
+    39.762792,
+    -75.572914,
+    39.762792
+],
+  "geometry": {"coordinates":[-75.572914,39.762792],"type":"Point"}
+}

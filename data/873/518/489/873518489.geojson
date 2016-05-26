@@ -1,0 +1,74 @@
+{
+  "id": 873518489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602549,39.736918,-75.602549,39.736918",
+    "geom:latitude":39.736918,
+    "geom:longitude":-75.602549,
+    "iso:country":"US",
+    "sg:address":"120 Oak Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 7797",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5oPBwF6Q8d1E9Pq0hP2i21_39.736918_-75.602549@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223813,
+    "wof:geomhash":"feea80c643a843aba641e6976497f585",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518489
+        }
+    ],
+    "wof:id":873518489,
+    "wof:lastmodified":1464223813,
+    "wof:name":"Bonney's Variety & Deli",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -75.602549,
+    39.736918,
+    -75.602549,
+    39.736918
+],
+  "geometry": {"coordinates":[-75.602549,39.736918],"type":"Point"}
+}

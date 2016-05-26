@@ -1,0 +1,73 @@
+{
+  "id": 873510761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.649144,38.825395,-75.649144,38.825395",
+    "geom:latitude":38.825395,
+    "geom:longitude":-75.649144,
+    "iso:country":"US",
+    "sg:address":"6561 Hickman Rd",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 5969",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6lHKjyXLMDYxZdi86tiDDX_38.825395_-75.649144@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223410,
+    "wof:geomhash":"2dba44d600ff5d4d26e97dc726c2ef70",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873510761
+        }
+    ],
+    "wof:id":873510761,
+    "wof:lastmodified":1464223410,
+    "wof:name":"Rifenburg Trucking Inc",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.649144,
+    38.825395,
+    -75.649144,
+    38.825395
+],
+  "geometry": {"coordinates":[-75.64914400000001,38.825395],"type":"Point"}
+}

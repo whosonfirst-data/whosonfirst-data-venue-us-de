@@ -1,0 +1,71 @@
+{
+  "id": 857706869,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.743054,39.632511,-75.743054,39.632511",
+    "geom:latitude":39.632511,
+    "geom:longitude":-75.743054,
+    "iso:country":"US",
+    "sg:address":"708 Cobble Creek Curv",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 1368",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instruction",
+        "safety"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ryyKLJY8oj0rQr2aSBmZU_39.632511_-75.743054@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220947,
+    "wof:geomhash":"579df604d6b0952a3071c1a70c83e367",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857706869
+        }
+    ],
+    "wof:id":857706869,
+    "wof:lastmodified":1464220947,
+    "wof:name":"First State Safety Services",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "safety"
+    ]
+},
+  "bbox": [
+    -75.743054,
+    39.632511,
+    -75.743054,
+    39.632511
+],
+  "geometry": {"coordinates":[-75.743054,39.632511],"type":"Point"}
+}

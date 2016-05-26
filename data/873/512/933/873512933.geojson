@@ -1,0 +1,72 @@
+{
+  "id": 873512933,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.75863,39.60436,-75.75863,39.60436",
+    "geom:latitude":39.60436,
+    "geom:longitude":-75.75863,
+    "iso:country":"US",
+    "sg:address":"2713 Pulaski Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/central-pencader/109722-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 3700",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bi9fTJIsszqdcS0OJ6Eme_39.604360_-75.758630@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223511,
+    "wof:geomhash":"347c48218662a5d71aee0b34cfc0e421",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873512933
+        }
+    ],
+    "wof:id":873512933,
+    "wof:lastmodified":1464223511,
+    "wof:name":"Subway",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.75863,
+    39.60436,
+    -75.75863,
+    39.60436
+],
+  "geometry": {"coordinates":[-75.75863,39.60436],"type":"Point"}
+}

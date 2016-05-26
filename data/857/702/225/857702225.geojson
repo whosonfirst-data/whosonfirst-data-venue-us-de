@@ -1,0 +1,71 @@
+{
+  "id": 857702225,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.056697,38.545487,-75.056697,38.545487",
+    "geom:latitude":38.545487,
+    "geom:longitude":-75.056697,
+    "iso:country":"US",
+    "sg:address":"123 5th St",
+    "sg:city":"Bethany Beach",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 5960",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SB7qscVEy461xVEtjySH8_38.545487_-75.056697@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220864,
+    "wof:geomhash":"36f2a08e44ebf0e45808e0dcb61a64c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857702225
+        }
+    ],
+    "wof:id":857702225,
+    "wof:lastmodified":1464220864,
+    "wof:name":"True Worship Church",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.056697,
+    38.545487,
+    -75.056697,
+    38.545487
+],
+  "geometry": {"coordinates":[-75.056697,38.545487],"type":"Point"}
+}

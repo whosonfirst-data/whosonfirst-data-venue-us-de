@@ -1,0 +1,87 @@
+{
+  "id": 873494861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548159,39.732436,-75.548159,39.732436",
+    "geom:latitude":39.732436,
+    "geom:longitude":-75.548159,
+    "iso:country":"US",
+    "sg:address":"601 A St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Motor Vehicles",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 661 2404",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6QbE9UgkpGUbMSCXJXFx6R_39.732436_-75.548159@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222708,
+    "wof:geomhash":"8b36499188d3244fda024abe9fde0a15",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873494861
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873494861
+        }
+    ],
+    "wof:id":873494861,
+    "wof:lastmodified":1464222708,
+    "wof:name":"Auto Brokers Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "truck",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.548159,
+    39.732436,
+    -75.548159,
+    39.732436
+],
+  "geometry": {"coordinates":[-75.548159,39.732436],"type":"Point"}
+}

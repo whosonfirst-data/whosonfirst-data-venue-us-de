@@ -1,0 +1,71 @@
+{
+  "id": 857720901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571852,39.662429,-75.571852,39.662429",
+    "geom:latitude":39.662429,
+    "geom:longitude":-75.571852,
+    "iso:country":"US",
+    "sg:address":"802 Clayton St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Shoes",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 7682",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shoe",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44DzOBgkkgll3nJAJdwSPw_39.662429_-75.571852@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221266,
+    "wof:geomhash":"23e6e0132f57c6d7f024d9d09b68def0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857720901
+        }
+    ],
+    "wof:id":857720901,
+    "wof:lastmodified":1464221266,
+    "wof:name":"DStinct Enterprises",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shoe",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.571852,
+    39.662429,
+    -75.571852,
+    39.662429
+],
+  "geometry": {"coordinates":[-75.57185200000001,39.662429],"type":"Point"}
+}

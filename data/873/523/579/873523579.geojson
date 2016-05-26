@@ -1,0 +1,82 @@
+{
+  "id": 873523579,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539809,39.107684,-75.539809,39.107684",
+    "geom:latitude":39.107684,
+    "geom:longitude":-75.539809,
+    "iso:country":"US",
+    "sg:address":"213 S Dupont Hwy",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Music School",
+            "type":"Public Place"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 2155",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2buNH3KQXp9Wgd6J9SPODz_39.107684_-75.539809@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224025,
+    "wof:geomhash":"d1137ce72462c06ae474c55e39b157d6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":873523579
+        }
+    ],
+    "wof:id":873523579,
+    "wof:lastmodified":1464224025,
+    "wof:name":"Rock Shop",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instrument",
+        "teacher",
+        "musical"
+    ]
+},
+  "bbox": [
+    -75.539809,
+    39.107684,
+    -75.539809,
+    39.107684
+],
+  "geometry": {"coordinates":[-75.53980900000001,39.107684],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857690931,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.651528,39.727098,-75.651528,39.727098",
+    "geom:latitude":39.727098,
+    "geom:longitude":-75.651528,
+    "iso:country":"US",
+    "sg:address":"4310 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 9400",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ],
+    "sg:website":"www.landroverwilm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78YybPfCj5d76gZQ8d51cY_39.727098_-75.651528@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220638,
+    "wof:geomhash":"e3a81e5de5547943d0f823291b15acf3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":857690931
+        }
+    ],
+    "wof:id":857690931,
+    "wof:lastmodified":1464220638,
+    "wof:name":"Land Rover Wilmington",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used",
+        "dealer",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.651528,
+    39.727098,
+    -75.651528,
+    39.727098
+],
+  "geometry": {"coordinates":[-75.651528,39.727098],"type":"Point"}
+}

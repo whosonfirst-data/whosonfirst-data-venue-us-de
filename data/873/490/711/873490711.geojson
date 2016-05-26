@@ -1,0 +1,73 @@
+{
+  "id": 873490711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081,38.542581,-75.081,38.542581",
+    "geom:latitude":38.542581,
+    "geom:longitude":-75.081,
+    "iso:country":"US",
+    "sg:address":"118 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 6110",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76zbz6Kq1BWwFGGrD5bVJi_38.542581_-75.081000@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222521,
+    "wof:geomhash":"7e560f8cbadc800ac3ab31f8f65cd0b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873490711
+        }
+    ],
+    "wof:id":873490711,
+    "wof:lastmodified":1464222521,
+    "wof:name":"Bonnie L Burnquist MD",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.081,
+    38.542581,
+    -75.081,
+    38.542581
+],
+  "geometry": {"coordinates":[-75.081,38.542581],"type":"Point"}
+}

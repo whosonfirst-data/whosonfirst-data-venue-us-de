@@ -1,0 +1,71 @@
+{
+  "id": 873509907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744789,39.619155,-75.744789,39.619155",
+    "geom:latitude":39.619155,
+    "geom:longitude":-75.744789,
+    "iso:country":"US",
+    "sg:address":"2050 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 7584",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "center",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OkXPhwbQ3NV6tIdJG0jTB_39.619155_-75.744789@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223374,
+    "wof:geomhash":"2990369c22fceccb120969982d12e4b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873509907
+        }
+    ],
+    "wof:id":873509907,
+    "wof:lastmodified":1464223374,
+    "wof:name":"Mother Hubbard Child Care Ctr",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.744789,
+    39.619155,
+    -75.744789,
+    39.619155
+],
+  "geometry": {"coordinates":[-75.744789,39.619155],"type":"Point"}
+}

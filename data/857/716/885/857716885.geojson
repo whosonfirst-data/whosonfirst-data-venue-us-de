@@ -1,0 +1,73 @@
+{
+  "id": 857716885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.185356,38.597803,-75.185356,38.597803",
+    "geom:latitude":38.597803,
+    "geom:longitude":-75.185356,
+    "iso:country":"US",
+    "sg:address":"376 Chippewa Ave",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 4594",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1q11vbiFtzOGNqdzxmlPXT_38.597803_-75.185356@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221181,
+    "wof:geomhash":"1cc1d4b28bfe45ee2d43a695423ad20d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":857716885
+        }
+    ],
+    "wof:id":857716885,
+    "wof:lastmodified":1464221181,
+    "wof:name":"Hawkins Electric",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.185356,
+    38.597803,
+    -75.185356,
+    38.597803
+],
+  "geometry": {"coordinates":[-75.185356,38.597803],"type":"Point"}
+}

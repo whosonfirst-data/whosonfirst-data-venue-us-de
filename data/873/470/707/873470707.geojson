@@ -1,0 +1,73 @@
+{
+  "id": 873470707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605704,39.713057,-75.605704,39.713057",
+    "geom:latitude":39.713057,
+    "geom:longitude":-75.605704,
+    "iso:country":"US",
+    "sg:address":"208 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 9160",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cO9gAWfOLf53SHIDeb0Tm_39.713057_-75.605704@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221755,
+    "wof:geomhash":"63ca1df957b6bd6cd8b7e9bd89007517",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873470707
+        }
+    ],
+    "wof:id":873470707,
+    "wof:lastmodified":1464221755,
+    "wof:name":"Plumbing Works Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.605704,
+    39.713057,
+    -75.605704,
+    39.713057
+],
+  "geometry": {"coordinates":[-75.605704,39.713057],"type":"Point"}
+}

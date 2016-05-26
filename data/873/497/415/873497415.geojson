@@ -1,0 +1,69 @@
+{
+  "id": 873497415,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.154689,38.775575,-75.154689,38.775575",
+    "geom:latitude":38.775575,
+    "geom:longitude":-75.154689,
+    "iso:country":"US",
+    "sg:address":"217 Marina Dr",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 6590",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cm7hWA02lyx0zYq2twYwM_38.775575_-75.154689@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222838,
+    "wof:geomhash":"e59e9aaef491084796eb372504da7b0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873497415
+        }
+    ],
+    "wof:id":873497415,
+    "wof:lastmodified":1464222838,
+    "wof:name":"Coulbourn Septic Svc",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -75.154689,
+    38.775575,
+    -75.154689,
+    38.775575
+],
+  "geometry": {"coordinates":[-75.154689,38.775575],"type":"Point"}
+}

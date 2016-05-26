@@ -1,0 +1,73 @@
+{
+  "id": 857706673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.056034,38.516959,-75.056034,38.516959",
+    "geom:latitude":38.516959,
+    "geom:longitude":-75.056034,
+    "iso:country":"US",
+    "sg:address":"110 Henlopen Dr",
+    "sg:city":"Bethany Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 0769",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zfTm2sYXcYbYrBdrM2NNV_38.516959_-75.056034@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220944,
+    "wof:geomhash":"acf5f07d0b86e86d8324e923469c2025",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857706673
+        }
+    ],
+    "wof:id":857706673,
+    "wof:lastmodified":1464220944,
+    "wof:name":"Daniel D Cowell MD",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.056034,
+    38.516959,
+    -75.056034,
+    38.516959
+],
+  "geometry": {"coordinates":[-75.056034,38.516959],"type":"Point"}
+}

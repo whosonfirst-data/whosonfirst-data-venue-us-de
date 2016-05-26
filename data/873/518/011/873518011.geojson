@@ -1,0 +1,65 @@
+{
+  "id": 873518011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546187,39.788131,-75.546187,39.788131",
+    "geom:latitude":39.788131,
+    "geom:longitude":-75.546187,
+    "iso:country":"US",
+    "sg:address":"2015 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 8910",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:website":"http://www.bennigans.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ofj1G4pfi89AEgvXjTPjM_39.788131_-75.546187@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223795,
+    "wof:geomhash":"c4786a89088e35c0785d8ed80a935c57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873518011
+        }
+    ],
+    "wof:id":873518011,
+    "wof:lastmodified":1464223795,
+    "wof:name":"Bennigan's Grill & Tavern",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.546187,
+    39.788131,
+    -75.546187,
+    39.788131
+],
+  "geometry": {"coordinates":[-75.546187,39.788131],"type":"Point"}
+}

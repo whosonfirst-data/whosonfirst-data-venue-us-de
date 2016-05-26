@@ -1,0 +1,74 @@
+{
+  "id": 873524109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.585133,38.806169,-75.585133,38.806169",
+    "geom:latitude":38.806169,
+    "geom:longitude":-75.585133,
+    "iso:country":"US",
+    "sg:address":"502 E Market St",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 4512",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "sg:website":"http://www.discoverbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PMmnvZyA8QhkQmhL7ReMS_38.806169_-75.585133@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224044,
+    "wof:geomhash":"9e3d56a334694cd2794be24ccef91259",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873524109
+        }
+    ],
+    "wof:id":873524109,
+    "wof:lastmodified":1464224044,
+    "wof:name":"Discover Bank",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.585133,
+    38.806169,
+    -75.585133,
+    38.806169
+],
+  "geometry": {"coordinates":[-75.585133,38.806169],"type":"Point"}
+}

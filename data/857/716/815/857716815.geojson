@@ -1,0 +1,69 @@
+{
+  "id": 857716815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.159083,38.755775,-75.159083,38.755775",
+    "geom:latitude":38.755775,
+    "geom:longitude":-75.159083,
+    "iso:country":"US",
+    "sg:address":"1540 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Optical Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2220",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "optician"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MUAf7ZoZnKCzjfcNVEkql_38.755775_-75.159083@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221180,
+    "wof:geomhash":"e401b04cdb71af74d8ed5b977b2fee75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857716815
+        }
+    ],
+    "wof:id":857716815,
+    "wof:lastmodified":1464221180,
+    "wof:name":"Bay Optical Inc",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "optician"
+    ]
+},
+  "bbox": [
+    -75.159083,
+    38.755775,
+    -75.159083,
+    38.755775
+],
+  "geometry": {"coordinates":[-75.159083,38.755775],"type":"Point"}
+}

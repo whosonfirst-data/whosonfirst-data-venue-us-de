@@ -1,0 +1,81 @@
+{
+  "id": 873517919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527694,39.79574,-75.527694,39.79574",
+    "geom:latitude":39.79574,
+    "geom:longitude":-75.527694,
+    "iso:country":"US",
+    "sg:address":"1215 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 3047",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ukz89lAZbqcOu2YEMoKaz_39.795740_-75.527694@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223790,
+    "wof:geomhash":"756e023833d427d8577bc59d85b7cd42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873517919
+        }
+    ],
+    "wof:id":873517919,
+    "wof:lastmodified":1464223790,
+    "wof:name":"Foulk Pre-School & Day Care Center",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.527694,
+    39.79574,
+    -75.527694,
+    39.79574
+],
+  "geometry": {"coordinates":[-75.527694,39.79574],"type":"Point"}
+}

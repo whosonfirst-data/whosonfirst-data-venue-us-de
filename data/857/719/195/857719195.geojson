@@ -1,0 +1,69 @@
+{
+  "id": 857719195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610679,39.742332,-75.610679,39.742332",
+    "geom:latitude":39.742332,
+    "geom:longitude":-75.610679,
+    "iso:country":"US",
+    "sg:address":"1722 Montgomery Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8481",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VisHBRrTx7QSUlQ8rXYrE_39.742332_-75.610679@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221231,
+    "wof:geomhash":"a0b42df3ea1b2973691c5a647ea2d208",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857719195
+        }
+    ],
+    "wof:id":857719195,
+    "wof:lastmodified":1464221231,
+    "wof:name":"JG & T Enterprises Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.610679,
+    39.742332,
+    -75.610679,
+    39.742332
+],
+  "geometry": {"coordinates":[-75.610679,39.742332],"type":"Point"}
+}

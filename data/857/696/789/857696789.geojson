@@ -1,0 +1,71 @@
+{
+  "id": 857696789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529763,39.177803,-75.529763,39.177803",
+    "geom:latitude":39.177803,
+    "geom:longitude":-75.529763,
+    "iso:country":"US",
+    "sg:address":"951 N State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 270 3122",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1kWAY2lKPanKDFZkbJVc57_39.177803_-75.529763@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220749,
+    "wof:geomhash":"b9cba47ec34ea9e081a8503c53719b26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857696789
+        }
+    ],
+    "wof:id":857696789,
+    "wof:lastmodified":1464220749,
+    "wof:name":"CM Custom Homes LLC",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.529763,
+    39.177803,
+    -75.529763,
+    39.177803
+],
+  "geometry": {"coordinates":[-75.529763,39.177803],"type":"Point"}
+}

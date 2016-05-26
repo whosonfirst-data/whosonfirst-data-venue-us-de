@@ -1,0 +1,76 @@
+{
+  "id": 873486107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571884,39.69442,-75.571884,39.69442",
+    "geom:latitude":39.69442,
+    "geom:longitude":-75.571884,
+    "iso:country":"US",
+    "sg:address":"19 Southgate Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 2665",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "air",
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.serviceunlimited.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NrX3Let7ZbVxmxGEa1tYx_39.694420_-75.571884@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222346,
+    "wof:geomhash":"cb6dd79dd48c513ebba39e4582bab869",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873486107
+        }
+    ],
+    "wof:id":873486107,
+    "wof:lastmodified":1464222346,
+    "wof:name":"Service Unlimited Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "air",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.571884,
+    39.69442,
+    -75.571884,
+    39.69442
+],
+  "geometry": {"coordinates":[-75.571884,39.69442],"type":"Point"}
+}

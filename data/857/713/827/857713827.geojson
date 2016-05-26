@@ -1,0 +1,73 @@
+{
+  "id": 857713827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558598,39.743403,-75.558598,39.743403",
+    "geom:latitude":39.743403,
+    "geom:longitude":-75.558598,
+    "iso:country":"US",
+    "sg:address":"700 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 8077",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Z6o4zS44yc5Cii9PSQtWj_39.743403_-75.558598@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221126,
+    "wof:geomhash":"d1ac55c117483d40243354cf57f40e8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":857713827
+        }
+    ],
+    "wof:id":857713827,
+    "wof:lastmodified":1464221126,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.558598,
+    39.743403,
+    -75.558598,
+    39.743403
+],
+  "geometry": {"coordinates":[-75.558598,39.743403],"type":"Point"}
+}

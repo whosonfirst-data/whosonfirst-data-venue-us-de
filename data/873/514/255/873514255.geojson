@@ -1,0 +1,91 @@
+{
+  "id": 873514255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662667,39.631665,-75.662667,39.631665",
+    "geom:latitude":39.631665,
+    "geom:longitude":-75.662667,
+    "iso:country":"US",
+    "sg:address":"301 Governors Pl",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Portrait Studio",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Art Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 4158",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photographers-portrait",
+        "videography",
+        "darkroom",
+        "rental",
+        "photography",
+        "wedding",
+        "photographic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1TN81bbgeQ531Ox9MgQaMD_39.631665_-75.662667@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223578,
+    "wof:geomhash":"84a47c055cd14067cad84f8e68b8f74d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514255
+        }
+    ],
+    "wof:id":873514255,
+    "wof:lastmodified":1464223578,
+    "wof:name":"Olan Mills",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photographers-portrait",
+        "videography",
+        "darkroom",
+        "rental",
+        "photography",
+        "wedding",
+        "photographic"
+    ]
+},
+  "bbox": [
+    -75.662667,
+    39.631665,
+    -75.662667,
+    39.631665
+],
+  "geometry": {"coordinates":[-75.662667,39.631665],"type":"Point"}
+}

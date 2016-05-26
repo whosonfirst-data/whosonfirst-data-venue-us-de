@@ -1,0 +1,73 @@
+{
+  "id": 873500251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.090145,38.462368,-75.090145,38.462368",
+    "geom:latitude":38.462368,
+    "geom:longitude":-75.090145,
+    "iso:country":"US",
+    "sg:address":"1 Walnut Ln",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 1780",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "technical",
+        "consultant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jo72fvNirC6dqafe97GMZ_38.462368_-75.090145@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222947,
+    "wof:geomhash":"5ffe720ad1a823427bfb478cc142851b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873500251
+        }
+    ],
+    "wof:id":873500251,
+    "wof:lastmodified":1464222947,
+    "wof:name":"Fentech Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "technical",
+        "consultant"
+    ]
+},
+  "bbox": [
+    -75.090145,
+    38.462368,
+    -75.090145,
+    38.462368
+],
+  "geometry": {"coordinates":[-75.09014500000001,38.462368],"type":"Point"}
+}

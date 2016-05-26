@@ -1,0 +1,71 @@
+{
+  "id": 857697689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52964,39.178897,-75.52964,39.178897",
+    "geom:latitude":39.178897,
+    "geom:longitude":-75.52964,
+    "iso:country":"US",
+    "sg:address":"1011 N State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8839",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ATtvLsdEOs1Ft1XWo0L0C_39.178897_-75.529640@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220768,
+    "wof:geomhash":"fe37152a7e67b368b88a1357c3426ef9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":857697689
+        }
+    ],
+    "wof:id":857697689,
+    "wof:lastmodified":1464220768,
+    "wof:name":"Silver Lake Beauty Salon",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.52964,
+    39.178897,
+    -75.52964,
+    39.178897
+],
+  "geometry": {"coordinates":[-75.52964,39.178897],"type":"Point"}
+}

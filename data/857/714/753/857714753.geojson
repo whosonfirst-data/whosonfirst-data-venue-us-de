@@ -1,0 +1,69 @@
+{
+  "id": 857714753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.123393,38.704937,-75.123393,38.704937",
+    "geom:latitude":38.704937,
+    "geom:longitude":-75.123393,
+    "iso:country":"US",
+    "sg:address":"132 Kings Creek Cir",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 3453",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1NgUNqyr8kOCAZFxp5ceMI_38.704937_-75.123393@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221143,
+    "wof:geomhash":"2a554cfa2eec84b459aa36b99e4479ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":857714753
+        }
+    ],
+    "wof:id":857714753,
+    "wof:lastmodified":1464221143,
+    "wof:name":"Bellu Renato Dr",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.123393,
+    38.704937,
+    -75.123393,
+    38.704937
+],
+  "geometry": {"coordinates":[-75.12339299999999,38.704937],"type":"Point"}
+}

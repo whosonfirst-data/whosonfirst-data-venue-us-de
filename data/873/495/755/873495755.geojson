@@ -1,0 +1,83 @@
+{
+  "id": 873495755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.559148,39.17038,-75.559148,39.17038",
+    "geom:latitude":39.17038,
+    "geom:longitude":-75.559148,
+    "iso:country":"US",
+    "sg:address":"1412 W State College Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 4087",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "club"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859501
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p2BrhfUH6QLKd5ihzsHCC_39.170380_-75.559148@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222763,
+    "wof:geomhash":"597f84769837bb7e6eae7bf6da1384ec",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":873495755
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859501,
+            "region_id":85688611,
+            "venue_id":873495755
+        }
+    ],
+    "wof:id":873495755,
+    "wof:lastmodified":1464222763,
+    "wof:name":"Square Club Inc",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club"
+    ]
+},
+  "bbox": [
+    -75.559148,
+    39.17038,
+    -75.559148,
+    39.17038
+],
+  "geometry": {"coordinates":[-75.55914799999999,39.17038],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873502385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540744,39.73115,-75.540744,39.73115",
+    "geom:latitude":39.73115,
+    "geom:longitude":-75.540744,
+    "iso:country":"US",
+    "sg:address":"1204 Apple St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 8832",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30pDNCe23sNTwLUYues68g_39.731150_-75.540744@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223042,
+    "wof:geomhash":"ceea495a52449c35f90751eb8e5ac980",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873502385
+        }
+    ],
+    "wof:id":873502385,
+    "wof:lastmodified":1464223042,
+    "wof:name":"Mt Calvary Temple",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.540744,
+    39.73115,
+    -75.540744,
+    39.73115
+],
+  "geometry": {"coordinates":[-75.540744,39.73115],"type":"Point"}
+}

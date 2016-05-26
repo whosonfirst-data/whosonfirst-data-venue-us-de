@@ -1,0 +1,76 @@
+{
+  "id": 873514501,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.715018,39.65035,-75.715018,39.65035",
+    "geom:latitude":39.65035,
+    "geom:longitude":-75.715018,
+    "iso:country":"US",
+    "sg:address":"74 Albe Dr Ste 3",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Toys & Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 9480",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "goods-wholesale",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.americansports.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5k6TMricPujxMeKAyyD7rF_39.650350_-75.715018@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223593,
+    "wof:geomhash":"075bbeb8067ff03eaf1f84cfac2751c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873514501
+        }
+    ],
+    "wof:id":873514501,
+    "wof:lastmodified":1464223593,
+    "wof:name":"American Sports",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "goods-wholesale",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.715018,
+    39.65035,
+    -75.715018,
+    39.65035
+],
+  "geometry": {"coordinates":[-75.715018,39.65035],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873500051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625713,39.738546,-75.625713,39.738546",
+    "geom:latitude":39.738546,
+    "geom:longitude":-75.625713,
+    "iso:country":"US",
+    "sg:address":"135 Greenbank Rd",
+    "sg:city":"Marshallton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7266",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "polishing",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ZqM5vXWihGWLCTJHwhAX3_39.738546_-75.625713@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222939,
+    "wof:geomhash":"bbfbe58a4b0f174f1d800e0d48ff0d9c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873500051
+        }
+    ],
+    "wof:id":873500051,
+    "wof:lastmodified":1464222939,
+    "wof:name":"Greenbank Self Serve Car Wash",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "polishing",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.625713,
+    39.738546,
+    -75.625713,
+    39.738546
+],
+  "geometry": {"coordinates":[-75.625713,39.738546],"type":"Point"}
+}

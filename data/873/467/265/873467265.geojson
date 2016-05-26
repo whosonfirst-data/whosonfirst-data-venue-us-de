@@ -1,0 +1,69 @@
+{
+  "id": 873467265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.633918,39.746693,-75.633918,39.746693",
+    "geom:latitude":39.746693,
+    "geom:longitude":-75.633918,
+    "iso:country":"US",
+    "sg:address":"2520 Alister Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7440",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7LFoypsmRCeLfXb7k5M8rk_39.746693_-75.633918@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221627,
+    "wof:geomhash":"0cc01b21d0ec4f4c64f2a5e5707c83cc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873467265
+        }
+    ],
+    "wof:id":873467265,
+    "wof:lastmodified":1464221627,
+    "wof:name":"Toto's Limousine Svc Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "limousine"
+    ]
+},
+  "bbox": [
+    -75.633918,
+    39.746693,
+    -75.633918,
+    39.746693
+],
+  "geometry": {"coordinates":[-75.63391799999999,39.746693],"type":"Point"}
+}

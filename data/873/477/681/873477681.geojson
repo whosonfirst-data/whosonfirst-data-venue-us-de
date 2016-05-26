@@ -1,0 +1,73 @@
+{
+  "id": 873477681,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.439789,38.907648,-75.439789,38.907648",
+    "geom:latitude":38.907648,
+    "geom:longitude":-75.439789,
+    "iso:country":"US",
+    "sg:address":"615 Reed Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 7601",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MNfySSZR9cDImdpPdvrHB_38.907648_-75.439789@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222008,
+    "wof:geomhash":"9f727a1d15fc8ab40a6b3f2f50daebd3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873477681
+        }
+    ],
+    "wof:id":873477681,
+    "wof:lastmodified":1464222008,
+    "wof:name":"Landstar",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.439789,
+    38.907648,
+    -75.439789,
+    38.907648
+],
+  "geometry": {"coordinates":[-75.439789,38.907648],"type":"Point"}
+}

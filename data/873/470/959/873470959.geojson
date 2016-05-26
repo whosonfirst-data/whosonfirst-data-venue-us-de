@@ -1,0 +1,71 @@
+{
+  "id": 873470959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.134352,38.731114,-75.134352,38.731114",
+    "geom:latitude":38.731114,
+    "geom:longitude":-75.134352,
+    "iso:country":"US",
+    "sg:address":"18744 John J Williams Hwy",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 0132",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5RW0lA0ybdnTmlxBA8aoeZ_38.731114_-75.134352@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221767,
+    "wof:geomhash":"0048eea5850a86e7890a98d1317f8ae6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873470959
+        }
+    ],
+    "wof:id":873470959,
+    "wof:lastmodified":1464221767,
+    "wof:name":"Budget Rent A Car",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.134352,
+    38.731114,
+    -75.134352,
+    38.731114
+],
+  "geometry": {"coordinates":[-75.13435200000001,38.731114],"type":"Point"}
+}

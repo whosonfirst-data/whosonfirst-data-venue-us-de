@@ -1,0 +1,76 @@
+{
+  "id": 873506209,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540582,39.708502,-75.540582,39.708502",
+    "geom:latitude":39.708502,
+    "geom:longitude":-75.540582,
+    "iso:country":"US",
+    "sg:address":"29 Harbor View Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 3894",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "recycling",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DlDorSsKJMKMW4QWPSknt_39.708502_-75.540582@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223205,
+    "wof:geomhash":"ed0660a285004eedc8746697029345a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873506209
+        }
+    ],
+    "wof:id":873506209,
+    "wof:lastmodified":1464223205,
+    "wof:name":"Recyclean Plastics Llc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.540582,
+    39.708502,
+    -75.540582,
+    39.708502
+],
+  "geometry": {"coordinates":[-75.540582,39.708502],"type":"Point"}
+}

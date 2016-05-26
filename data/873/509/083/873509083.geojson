@@ -1,0 +1,80 @@
+{
+  "id": 873509083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547056,39.795111,-75.547056,39.795111",
+    "geom:latitude":39.795111,
+    "geom:longitude":-75.547056,
+    "iso:country":"US",
+    "sg:address":"2625 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1708",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2rx9Mk9m8IRLynlbhafqLY_39.795111_-75.547056@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223335,
+    "wof:geomhash":"8978208852b4f10e247eb7944454f3b4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873509083
+        }
+    ],
+    "wof:id":873509083,
+    "wof:lastmodified":1464223335,
+    "wof:name":"Ultimate Interiors",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "consultant",
+        "design",
+        "decorator"
+    ]
+},
+  "bbox": [
+    -75.547056,
+    39.795111,
+    -75.547056,
+    39.795111
+],
+  "geometry": {"coordinates":[-75.547056,39.795111],"type":"Point"}
+}

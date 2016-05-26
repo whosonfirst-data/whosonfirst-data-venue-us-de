@@ -1,0 +1,73 @@
+{
+  "id": 873521861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565191,39.206917,-75.565191,39.206917",
+    "geom:latitude":39.206917,
+    "geom:longitude":-75.565191,
+    "iso:country":"US",
+    "sg:address":"4118 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9418",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "veterinarian",
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bdpk06WhaFtgGs7qerTlx_39.206917_-75.565191@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223957,
+    "wof:geomhash":"e11fdee50ad359d7f7666b2da747da0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873521861
+        }
+    ],
+    "wof:id":873521861,
+    "wof:lastmodified":1464223957,
+    "wof:name":"Stonesifer Craig A",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian",
+        "specialty"
+    ]
+},
+  "bbox": [
+    -75.565191,
+    39.206917,
+    -75.565191,
+    39.206917
+],
+  "geometry": {"coordinates":[-75.565191,39.206917],"type":"Point"}
+}

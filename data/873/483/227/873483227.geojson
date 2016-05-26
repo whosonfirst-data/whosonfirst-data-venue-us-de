@@ -1,0 +1,85 @@
+{
+  "id": 873483227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.536566,39.734888,-75.536566,39.734888",
+    "geom:latitude":39.734888,
+    "geom:longitude":-75.536566,
+    "iso:country":"US",
+    "sg:address":"20 Commerce St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Auto Parts",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 888 1001",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "rebuilt"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IlvEsUonCGvRnn0Xqvqgh_39.734888_-75.536566@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222238,
+    "wof:geomhash":"bb925c33fd5de38977c448acdd4fbcf9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873483227
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":873483227
+        }
+    ],
+    "wof:id":873483227,
+    "wof:lastmodified":1464222238,
+    "wof:name":"New Castle Automarts & Auto",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "rebuilt"
+    ]
+},
+  "bbox": [
+    -75.536566,
+    39.734888,
+    -75.536566,
+    39.734888
+],
+  "geometry": {"coordinates":[-75.53656599999999,39.734888],"type":"Point"}
+}

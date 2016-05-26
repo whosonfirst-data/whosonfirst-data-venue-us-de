@@ -1,0 +1,72 @@
+{
+  "id": 873513941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547959,39.801251,-75.547959,39.801251",
+    "geom:latitude":39.801251,
+    "geom:longitude":-75.547959,
+    "iso:country":"US",
+    "sg:address":"3311 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/239543-wings-to-go/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 4660",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Tqnv6CXTAlODWdMJM5RON_39.801767_-75.547989@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223558,
+    "wof:geomhash":"b577a81706582eb444c23b67742b4e37",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873513941
+        }
+    ],
+    "wof:id":873513941,
+    "wof:lastmodified":1464223558,
+    "wof:name":"Wings To Go",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -75.547959,
+    39.801251,
+    -75.547959,
+    39.801251
+],
+  "geometry": {"coordinates":[-75.54795900000001,39.801251],"type":"Point"}
+}

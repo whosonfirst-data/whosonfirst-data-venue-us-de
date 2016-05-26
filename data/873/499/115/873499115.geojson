@@ -1,0 +1,71 @@
+{
+  "id": 873499115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.423146,38.960344,-75.423146,38.960344",
+    "geom:latitude":38.960344,
+    "geom:longitude":-75.423146,
+    "iso:country":"US",
+    "sg:address":"245 Thompsonville Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 2374",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Uy7h5uCG3GnCZe3RpSsdZ_38.960344_-75.423146@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222904,
+    "wof:geomhash":"988b029febd54acfde3c7d826fab0fab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873499115
+        }
+    ],
+    "wof:id":873499115,
+    "wof:lastmodified":1464222904,
+    "wof:name":"Dave's Plumbing Repair",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.423146,
+    38.960344,
+    -75.423146,
+    38.960344
+],
+  "geometry": {"coordinates":[-75.423146,38.960344],"type":"Point"}
+}

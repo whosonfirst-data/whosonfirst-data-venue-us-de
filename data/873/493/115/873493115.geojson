@@ -1,0 +1,73 @@
+{
+  "id": 873493115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.101846,38.470978,-75.101846,38.470978",
+    "geom:latitude":38.470978,
+    "geom:longitude":-75.101846,
+    "iso:country":"US",
+    "sg:address":"38 Clam Shell Ln",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 2891",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DUdJAqTRvKKm3gHnd23wX_38.470978_-75.101846@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222611,
+    "wof:geomhash":"034f96f5b7b43f52c4672e10a74f85c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873493115
+        }
+    ],
+    "wof:id":873493115,
+    "wof:lastmodified":1464222611,
+    "wof:name":"Bayside Electric Co",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.101846,
+    38.470978,
+    -75.101846,
+    38.470978
+],
+  "geometry": {"coordinates":[-75.10184599999999,38.470978],"type":"Point"}
+}

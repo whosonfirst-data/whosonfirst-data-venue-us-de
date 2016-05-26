@@ -1,0 +1,71 @@
+{
+  "id": 873504815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566341,38.454944,-75.566341,38.454944",
+    "geom:latitude":38.454944,
+    "geom:longitude":-75.566341,
+    "iso:country":"US",
+    "sg:address":"800 E East St",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 3600",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3hqc8bsVoAAI9YL000tlbD_38.454944_-75.566341@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223148,
+    "wof:geomhash":"e6b5a2686394601a7b00025bef298b01",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873504815
+        }
+    ],
+    "wof:id":873504815,
+    "wof:lastmodified":1464223148,
+    "wof:name":"Delmar Wesleyan Church",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.566341,
+    38.454944,
+    -75.566341,
+    38.454944
+],
+  "geometry": {"coordinates":[-75.56634099999999,38.454944],"type":"Point"}
+}

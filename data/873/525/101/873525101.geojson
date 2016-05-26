@@ -1,0 +1,79 @@
+{
+  "id": 873525101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.233364,38.45887,-75.233364,38.45887",
+    "geom:latitude":38.45887,
+    "geom:longitude":-75.233364,
+    "iso:country":"US",
+    "sg:address":"38229 Dupont Blvd",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 6394",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cUsnYRJT6F8PghAEgDUhR_38.458870_-75.233364@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224083,
+    "wof:geomhash":"233a6d71e57c70351314cb90d24ca64c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525101
+        }
+    ],
+    "wof:id":873525101,
+    "wof:lastmodified":1464224083,
+    "wof:name":"Selbyville Internal Medicine",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -75.233364,
+    38.45887,
+    -75.233364,
+    38.45887
+],
+  "geometry": {"coordinates":[-75.23336399999999,38.45887],"type":"Point"}
+}

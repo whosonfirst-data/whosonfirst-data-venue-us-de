@@ -1,0 +1,69 @@
+{
+  "id": 873466257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602505,39.713578,-75.602505,39.713578",
+    "geom:latitude":39.713578,
+    "geom:longitude":-75.602505,
+    "iso:country":"US",
+    "sg:address":"1605 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 6800",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fmXCBsvrHS0AIipzq7IC0_39.713578_-75.602505@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221593,
+    "wof:geomhash":"586efc6939933f2d69cbc1f35e4fcd02",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873466257
+        }
+    ],
+    "wof:id":873466257,
+    "wof:lastmodified":1464221593,
+    "wof:name":"Rockland Builders Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.602505,
+    39.713578,
+    -75.602505,
+    39.713578
+],
+  "geometry": {"coordinates":[-75.60250499999999,39.713578],"type":"Point"}
+}

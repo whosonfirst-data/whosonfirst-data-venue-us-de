@@ -1,0 +1,73 @@
+{
+  "id": 873511347,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525855,39.157955,-75.525855,39.157955",
+    "geom:latitude":39.157955,
+    "geom:longitude":-75.525855,
+    "iso:country":"US",
+    "sg:address":"111 W Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 0040",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UJ6MEoc58yQM97KUIRsEv_39.157919_-75.525826@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223435,
+    "wof:geomhash":"00a12e38f0d3fb3bb8b3447bbd256321",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873511347
+        }
+    ],
+    "wof:id":873511347,
+    "wof:lastmodified":1464223435,
+    "wof:name":"Garrison's Custom Homes",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.525855,
+    39.157955,
+    -75.525855,
+    39.157955
+],
+  "geometry": {"coordinates":[-75.52585500000001,39.157955],"type":"Point"}
+}

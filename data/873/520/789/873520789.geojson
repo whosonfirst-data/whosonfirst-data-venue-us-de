@@ -1,0 +1,74 @@
+{
+  "id": 873520789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.538555,39.188081,-75.538555,39.188081",
+    "geom:latitude":39.188081,
+    "geom:longitude":-75.538555,
+    "iso:country":"US",
+    "sg:address":"1165 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 9680",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "art",
+        "supply"
+    ],
+    "sg:website":"www.michaels.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gabUcSNAZkwFjMvBL15Yi_39.188081_-75.538555@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223917,
+    "wof:geomhash":"3178cf647a7e1e6a13ac0eec17e18d54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873520789
+        }
+    ],
+    "wof:id":873520789,
+    "wof:lastmodified":1464223917,
+    "wof:name":"Michael's Arts & Crafts",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.538555,
+    39.188081,
+    -75.538555,
+    39.188081
+],
+  "geometry": {"coordinates":[-75.538555,39.188081],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873467867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.108784,38.537515,-75.108784,38.537515",
+    "geom:latitude":38.537515,
+    "geom:longitude":-75.108784,
+    "iso:country":"US",
+    "sg:address":"8 Bridle Ln",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 541 5371",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zdXB2tILuGbMsLXA3ZX4h_38.537515_-75.108784@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221648,
+    "wof:geomhash":"3ee068624826157ecd8fb0d346961df5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873467867
+        }
+    ],
+    "wof:id":873467867,
+    "wof:lastmodified":1464221648,
+    "wof:name":"Resort Point Builders",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.108784,
+    38.537515,
+    -75.108784,
+    38.537515
+],
+  "geometry": {"coordinates":[-75.108784,38.537515],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873508619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.432707,38.911417,-75.432707,38.911417",
+    "geom:latitude":38.911417,
+    "geom:longitude":-75.432707,
+    "iso:country":"US",
+    "sg:address":"14 S Maple Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 430 0459",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YISQywj0uk1KxAenNm2Hw_38.911417_-75.432707@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223315,
+    "wof:geomhash":"91a459ecfccf2e10ec025246741e6e7e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873508619
+        }
+    ],
+    "wof:id":873508619,
+    "wof:lastmodified":1464223315,
+    "wof:name":"New Choice Orthopedics PA",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.432707,
+    38.911417,
+    -75.432707,
+    38.911417
+],
+  "geometry": {"coordinates":[-75.43270699999999,38.911417],"type":"Point"}
+}

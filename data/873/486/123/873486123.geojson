@@ -1,0 +1,71 @@
+{
+  "id": 873486123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.493902,38.965065,-75.493902,38.965065",
+    "geom:latitude":38.965065,
+    "geom:longitude":-75.493902,
+    "iso:country":"US",
+    "sg:address":"442 McCauley Pond Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 4869",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4h0rIMhqfphQPbf8PhoK9t_38.965065_-75.493902@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222346,
+    "wof:geomhash":"af2fd46fc23fb9bd60ee2ccf2d2163f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873486123
+        }
+    ],
+    "wof:id":873486123,
+    "wof:lastmodified":1464222346,
+    "wof:name":"Hood Vernon & Son Cnstr",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.493902,
+    38.965065,
+    -75.493902,
+    38.965065
+],
+  "geometry": {"coordinates":[-75.49390200000001,38.965065],"type":"Point"}
+}

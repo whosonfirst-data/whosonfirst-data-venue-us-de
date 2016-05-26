@@ -1,0 +1,69 @@
+{
+  "id": 857703941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551358,39.702899,-75.551358,39.702899",
+    "geom:latitude":39.702899,
+    "geom:longitude":-75.551358,
+    "iso:country":"US",
+    "sg:address":"3003 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 3202",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00jw9vcxEQE9UrIg3eWywr_39.702899_-75.551358@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220894,
+    "wof:geomhash":"fd8e86a47cccfe9d518f9b6b0b20e05a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857703941
+        }
+    ],
+    "wof:id":857703941,
+    "wof:lastmodified":1464220894,
+    "wof:name":"Garfield Liquors",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.551358,
+    39.702899,
+    -75.551358,
+    39.702899
+],
+  "geometry": {"coordinates":[-75.55135799999999,39.702899],"type":"Point"}
+}

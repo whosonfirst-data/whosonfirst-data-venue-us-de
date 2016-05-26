@@ -1,0 +1,71 @@
+{
+  "id": 873519493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543701,39.8088,-75.543701,39.8088",
+    "geom:latitude":39.8088,
+    "geom:longitude":-75.543701,
+    "iso:country":"US",
+    "sg:address":"3520 Silverside Rd Ste 25",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1375",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "obstetrician",
+        "gynecologist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_21GWFSNKomPsFyPnIdVesl_39.808800_-75.543701@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223859,
+    "wof:geomhash":"4819d1e684a1ade85dd363fbafba61b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873519493
+        }
+    ],
+    "wof:id":873519493,
+    "wof:lastmodified":1464223859,
+    "wof:name":"Cooksey Michael DO",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "obstetrician",
+        "gynecologist"
+    ]
+},
+  "bbox": [
+    -75.543701,
+    39.8088,
+    -75.543701,
+    39.8088
+],
+  "geometry": {"coordinates":[-75.543701,39.8088],"type":"Point"}
+}

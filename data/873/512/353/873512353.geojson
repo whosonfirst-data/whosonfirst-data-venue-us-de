@@ -1,0 +1,71 @@
+{
+  "id": 873512353,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504997,39.801498,-75.504997,39.801498",
+    "geom:latitude":39.801498,
+    "geom:longitude":-75.504997,
+    "iso:country":"US",
+    "sg:address":"1714 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1166",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating",
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5L0QOOq2OvUQmwDJe0DyOQ_39.802047_-75.505175@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223488,
+    "wof:geomhash":"f44a5c8730b393a1036c5d1dce7e1db6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873512353
+        }
+    ],
+    "wof:id":873512353,
+    "wof:lastmodified":1464223488,
+    "wof:name":"Top China Buffet",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "chinese"
+    ]
+},
+  "bbox": [
+    -75.504997,
+    39.801498,
+    -75.504997,
+    39.801498
+],
+  "geometry": {"coordinates":[-75.504997,39.801498],"type":"Point"}
+}

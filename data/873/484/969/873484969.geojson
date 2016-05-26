@@ -1,0 +1,71 @@
+{
+  "id": 873484969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.635418,39.747828,-75.635418,39.747828",
+    "geom:latitude":39.747828,
+    "geom:longitude":-75.635418,
+    "iso:country":"US",
+    "sg:address":"2802 Faulkland Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 2707",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mechanical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77Ph7AXSpgY60Xm6qyvb5N_39.747828_-75.635418@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222305,
+    "wof:geomhash":"fe48c096de4a760628afb1edece7b6e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873484969
+        }
+    ],
+    "wof:id":873484969,
+    "wof:lastmodified":1464222305,
+    "wof:name":"Mongoose Mechanical Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mechanical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.635418,
+    39.747828,
+    -75.635418,
+    39.747828
+],
+  "geometry": {"coordinates":[-75.635418,39.747828],"type":"Point"}
+}

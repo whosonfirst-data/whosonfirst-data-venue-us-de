@@ -1,0 +1,72 @@
+{
+  "id": 873512321,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607819,39.296291,-75.607819,39.296291",
+    "geom:latitude":39.296291,
+    "geom:longitude":-75.607819,
+    "iso:country":"US",
+    "sg:address":"121 S School Ln",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 8588",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "sg:website":"http://ses.smyrna.k12.de.us/index.html",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fmzr77onWKkFQM1hacINe_39.296130_-75.607768@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223487,
+    "wof:geomhash":"60f789ec8ce304407b890faef42df4fc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873512321
+        }
+    ],
+    "wof:id":873512321,
+    "wof:lastmodified":1464223487,
+    "wof:name":"Smyrna Elementary School",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.607819,
+    39.296291,
+    -75.607819,
+    39.296291
+],
+  "geometry": {"coordinates":[-75.60781900000001,39.296291],"type":"Point"}
+}

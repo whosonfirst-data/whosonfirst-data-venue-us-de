@@ -1,0 +1,71 @@
+{
+  "id": 873499153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.6029,39.728354,-75.6029,39.728354",
+    "geom:latitude":39.728354,
+    "geom:longitude":-75.6029,
+    "iso:country":"US",
+    "sg:address":"107 Meghans Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 1950",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Q3wOXPPbhVrBJ19qdvvTC_39.728354_-75.602900@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222905,
+    "wof:geomhash":"5c3fe5b4be0a0c1865b3f854b4165f0c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873499153
+        }
+    ],
+    "wof:id":873499153,
+    "wof:lastmodified":1464222905,
+    "wof:name":"Ski Electric Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.6029,
+    39.728354,
+    -75.6029,
+    39.728354
+],
+  "geometry": {"coordinates":[-75.60290000000001,39.728354],"type":"Point"}
+}

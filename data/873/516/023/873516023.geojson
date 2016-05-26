@@ -1,0 +1,83 @@
+{
+  "id": 873516023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.70269,39.72028,-75.70269,39.72028",
+    "geom:latitude":39.72028,
+    "geom:longitude":-75.70269,
+    "iso:country":"US",
+    "sg:address":"100 Red Fox Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 3747",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.summitproperties.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73k7LzF6HhrTKaQ9WAPnS3_39.720280_-75.702690@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223664,
+    "wof:geomhash":"5eaae4678bebbfa0faec018e147495b7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873516023
+        }
+    ],
+    "wof:id":873516023,
+    "wof:lastmodified":1464223664,
+    "wof:name":"The Apartments At Pike Creek",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -75.70269,
+    39.72028,
+    -75.70269,
+    39.72028
+],
+  "geometry": {"coordinates":[-75.70269,39.72028],"type":"Point"}
+}

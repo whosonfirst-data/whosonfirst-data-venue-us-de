@@ -1,0 +1,71 @@
+{
+  "id": 873472751,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.491707,39.811509,-75.491707,39.811509",
+    "geom:latitude":39.811509,
+    "geom:longitude":-75.491707,
+    "iso:country":"US",
+    "sg:address":"2002 Orleans Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 7980",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "village"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gwWmDZnJRpnkcERxF70Gn_39.811509_-75.491707@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221834,
+    "wof:geomhash":"decff78628288fd47e383a8ef9fc22b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873472751
+        }
+    ],
+    "wof:id":873472751,
+    "wof:lastmodified":1464221834,
+    "wof:name":"Arden Trustees",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -75.491707,
+    39.811509,
+    -75.491707,
+    39.811509
+],
+  "geometry": {"coordinates":[-75.49170700000001,39.811509],"type":"Point"}
+}

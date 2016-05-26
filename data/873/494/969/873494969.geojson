@@ -1,0 +1,72 @@
+{
+  "id": 873494969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.089088,38.547147,-75.089088,38.547147",
+    "geom:latitude":38.547147,
+    "geom:longitude":-75.089088,
+    "iso:country":"US",
+    "sg:address":"6 Oakwood Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 1111",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department"
+    ],
+    "sg:website":"www.oceanviewpd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_60PtHJCVU8DCHNw0BzpWty_38.547147_-75.089088@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222714,
+    "wof:geomhash":"b13fb48e52b4b366d30735d4c96039aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873494969
+        }
+    ],
+    "wof:id":873494969,
+    "wof:lastmodified":1464222714,
+    "wof:name":"Ocean View Police Dept",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -75.089088,
+    38.547147,
+    -75.089088,
+    38.547147
+],
+  "geometry": {"coordinates":[-75.089088,38.547147],"type":"Point"}
+}

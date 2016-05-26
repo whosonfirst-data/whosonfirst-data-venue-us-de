@@ -1,0 +1,71 @@
+{
+  "id": 873523025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.614403,39.155602,-75.614403,39.155602",
+    "geom:latitude":39.155602,
+    "geom:longitude":-75.614403,
+    "iso:country":"US",
+    "sg:address":"3527 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 7942",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Qi4pRzIKfjwHtISqGvBYb_39.155602_-75.614403@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224006,
+    "wof:geomhash":"040ab8263a160559059da10bbfa6714d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523025
+        }
+    ],
+    "wof:id":873523025,
+    "wof:lastmodified":1464224006,
+    "wof:name":"Gateway Construction Inc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.614403,
+    39.155602,
+    -75.614403,
+    39.155602
+],
+  "geometry": {"coordinates":[-75.614403,39.155602],"type":"Point"}
+}

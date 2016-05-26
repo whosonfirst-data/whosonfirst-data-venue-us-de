@@ -1,0 +1,73 @@
+{
+  "id": 873487231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556011,39.72678,-75.556011,39.72678",
+    "geom:latitude":39.72678,
+    "geom:longitude":-75.556011,
+    "iso:country":"US",
+    "sg:address":"818 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 4614",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fraternal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LrZGFdMIdK6ZgLdhVu1p4_39.726780_-75.556011@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222388,
+    "wof:geomhash":"5d36c1d69891a17f3ab5dcb076a75edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873487231
+        }
+    ],
+    "wof:id":873487231,
+    "wof:lastmodified":1464222388,
+    "wof:name":"Masonic Hall of Wilmington Del",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fraternal"
+    ]
+},
+  "bbox": [
+    -75.556011,
+    39.72678,
+    -75.556011,
+    39.72678
+],
+  "geometry": {"coordinates":[-75.556011,39.72678],"type":"Point"}
+}

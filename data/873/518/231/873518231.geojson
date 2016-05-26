@@ -1,0 +1,69 @@
+{
+  "id": 873518231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.597183,39.713879,-75.597183,39.713879",
+    "geom:latitude":39.713879,
+    "geom:longitude":-75.597183,
+    "iso:country":"US",
+    "sg:address":"401 Marsh Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9300",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contract"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a3R0IJJfrLruBlbqW0oug_39.713879_-75.597183@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223804,
+    "wof:geomhash":"bc810ad7f3af7223c9f5c05061e8d888",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873518231
+        }
+    ],
+    "wof:id":873518231,
+    "wof:lastmodified":1464223804,
+    "wof:name":"Sieck Wilmington",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contract"
+    ]
+},
+  "bbox": [
+    -75.597183,
+    39.713879,
+    -75.597183,
+    39.713879
+],
+  "geometry": {"coordinates":[-75.597183,39.713879],"type":"Point"}
+}

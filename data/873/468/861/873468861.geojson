@@ -1,0 +1,68 @@
+{
+  "id": 873468861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543088,39.728495,-75.543088,39.728495",
+    "geom:latitude":39.728495,
+    "geom:longitude":-75.543088,
+    "iso:country":"US",
+    "sg:address":"518 New Castle Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 594 9848",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1gxD4ibxtIMu9FhlyipJMh_39.728495_-75.543088@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221682,
+    "wof:geomhash":"e95313c5e219908bf14d9602041b3e87",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873468861
+        }
+    ],
+    "wof:id":873468861,
+    "wof:lastmodified":1464221682,
+    "wof:name":"Four Brothers Restaurant",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.543088,
+    39.728495,
+    -75.543088,
+    39.728495
+],
+  "geometry": {"coordinates":[-75.543088,39.728495],"type":"Point"}
+}

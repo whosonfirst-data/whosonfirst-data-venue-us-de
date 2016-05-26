@@ -1,0 +1,71 @@
+{
+  "id": 857697785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.719673,39.669579,-75.719673,39.669579",
+    "geom:latitude":39.669579,
+    "geom:longitude":-75.719673,
+    "iso:country":"US",
+    "sg:address":"13 Matthews Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 9203",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WSYUPTC29B58QEFBCz0wp_39.669579_-75.719673@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220770,
+    "wof:geomhash":"0bf4e8e427c6c85ce9f4c94670187894",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857697785
+        }
+    ],
+    "wof:id":857697785,
+    "wof:lastmodified":1464220770,
+    "wof:name":"Gerald Skrotsky",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.719673,
+    39.669579,
+    -75.719673,
+    39.669579
+],
+  "geometry": {"coordinates":[-75.719673,39.669579],"type":"Point"}
+}

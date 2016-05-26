@@ -1,0 +1,73 @@
+{
+  "id": 873468849,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.60598,39.738487,-75.60598,39.738487",
+    "geom:latitude":39.738487,
+    "geom:longitude":-75.60598,
+    "iso:country":"US",
+    "sg:address":"1606 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1292",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ojfl6YEGeFROGfRyCTc7Z_39.738487_-75.605980@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221682,
+    "wof:geomhash":"f2df80f624bd9f05a60812c1608d9b78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873468849
+        }
+    ],
+    "wof:id":873468849,
+    "wof:lastmodified":1464221682,
+    "wof:name":"Toni Cleaners",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.60598,
+    39.738487,
+    -75.60598,
+    39.738487
+],
+  "geometry": {"coordinates":[-75.60598,39.738487],"type":"Point"}
+}

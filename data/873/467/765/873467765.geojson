@@ -1,0 +1,70 @@
+{
+  "id": 873467765,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563125,39.660852,-75.563125,39.660852",
+    "geom:latitude":39.660852,
+    "geom:longitude":-75.563125,
+    "iso:country":"US",
+    "sg:address":"29 E 3rd St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 324 8340",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "truck"
+    ],
+    "sg:website":"www.harveytruckcenter.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ivU6bfRRXrLWhjiS9VBDV_39.660852_-75.563125@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221644,
+    "wof:geomhash":"e75f97f26fe21f2c1deec61e317b0429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873467765
+        }
+    ],
+    "wof:id":873467765,
+    "wof:lastmodified":1464221644,
+    "wof:name":"Harvey Mack Sales & Svc",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck"
+    ]
+},
+  "bbox": [
+    -75.563125,
+    39.660852,
+    -75.563125,
+    39.660852
+],
+  "geometry": {"coordinates":[-75.563125,39.660852],"type":"Point"}
+}

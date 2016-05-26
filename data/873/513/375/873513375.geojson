@@ -1,0 +1,76 @@
+{
+  "id": 873513375,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552192,39.739072,-75.552192,39.739072",
+    "geom:latitude":39.739072,
+    "geom:longitude":-75.552192,
+    "iso:country":"US",
+    "sg:address":"225 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/wilmington/109733-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 8090",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p34KPxGG1hgt23OvONtqA_39.739072_-75.552192@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223527,
+    "wof:geomhash":"b48fd7159685a928b3161ac9a383193b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873513375
+        }
+    ],
+    "wof:id":873513375,
+    "wof:lastmodified":1464223527,
+    "wof:name":"Subway",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.552192,
+    39.739072,
+    -75.552192,
+    39.739072
+],
+  "geometry": {"coordinates":[-75.55219200000001,39.739072],"type":"Point"}
+}

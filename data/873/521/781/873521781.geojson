@@ -1,0 +1,93 @@
+{
+  "id": 873521781,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586305,39.241461,-75.586305,39.241461",
+    "geom:latitude":39.241461,
+    "geom:longitude":-75.586305,
+    "iso:country":"US",
+    "sg:address":"6738 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Meat & Fish",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 0744",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "seafood",
+        "american",
+        "health",
+        "take",
+        "steak",
+        "market"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Jd9kUbxuSYfJvlSsyfec1_39.241461_-75.586305@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223954,
+    "wof:geomhash":"516a008f8438c71657869a72ee9322d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873521781
+        }
+    ],
+    "wof:id":873521781,
+    "wof:lastmodified":1464223954,
+    "wof:name":"Pleasanton's Seafood",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "seafood",
+        "american",
+        "health",
+        "take",
+        "steak",
+        "market"
+    ]
+},
+  "bbox": [
+    -75.586305,
+    39.241461,
+    -75.586305,
+    39.241461
+],
+  "geometry": {"coordinates":[-75.586305,39.241461],"type":"Point"}
+}

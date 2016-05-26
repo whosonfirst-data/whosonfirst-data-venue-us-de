@@ -1,0 +1,73 @@
+{
+  "id": 873511905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.493896,39.812401,-75.493896,39.812401",
+    "geom:latitude":39.812401,
+    "geom:longitude":-75.493896,
+    "iso:country":"US",
+    "sg:address":"2115 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 2739",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jWvTJoEjIGfuQBDlSlKpB_39.812384_-75.493655@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223470,
+    "wof:geomhash":"6bc2bfb4681260f8030938f03861d6bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873511905
+        }
+    ],
+    "wof:id":873511905,
+    "wof:lastmodified":1464223470,
+    "wof:name":"Arden Steaks & Subs",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.493896,
+    39.812401,
+    -75.493896,
+    39.812401
+],
+  "geometry": {"coordinates":[-75.49389600000001,39.812401],"type":"Point"}
+}

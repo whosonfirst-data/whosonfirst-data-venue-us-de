@@ -1,0 +1,73 @@
+{
+  "id": 873475543,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5316,39.754639,-75.5316,39.754639",
+    "geom:latitude":39.754639,
+    "geom:longitude":-75.5316,
+    "iso:country":"US",
+    "sg:address":"216 E 29th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 8788",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "chinese"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Bi1PkPMj4vQLQVRFsEEBe_39.754639_-75.531600@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221933,
+    "wof:geomhash":"24f6085c913839d65efcb997f8d61a40",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873475543
+        }
+    ],
+    "wof:id":873475543,
+    "wof:lastmodified":1464221933,
+    "wof:name":"Double Happy Restaurant",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chinese"
+    ]
+},
+  "bbox": [
+    -75.5316,
+    39.754639,
+    -75.5316,
+    39.754639
+],
+  "geometry": {"coordinates":[-75.5316,39.754639],"type":"Point"}
+}

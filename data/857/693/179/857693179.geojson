@@ -1,0 +1,71 @@
+{
+  "id": 857693179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62109,39.744558,-75.62109,39.744558",
+    "geom:latitude":39.744558,
+    "geom:longitude":-75.62109,
+    "iso:country":"US",
+    "sg:address":"602 Hillside Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 0792",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan",
+        "real estate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2RGvOOttP0BYscG33z39lj_39.744558_-75.621090@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220683,
+    "wof:geomhash":"0683b9e785c2b0dd9d0074b203701a47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857693179
+        }
+    ],
+    "wof:id":857693179,
+    "wof:lastmodified":1464220683,
+    "wof:name":"Mortgage Maxx",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan",
+        "real estate"
+    ]
+},
+  "bbox": [
+    -75.62109,
+    39.744558,
+    -75.62109,
+    39.744558
+],
+  "geometry": {"coordinates":[-75.62109,39.744558],"type":"Point"}
+}

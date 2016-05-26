@@ -1,0 +1,71 @@
+{
+  "id": 873504951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.740396,39.683978,-75.740396,39.683978",
+    "geom:latitude":39.683978,
+    "geom:longitude":-75.740396,
+    "iso:country":"US",
+    "sg:address":"295 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 286 6141",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specialty",
+        "outpatient"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pmPCl5bVC0owV9U5xe4se_39.683978_-75.740396@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223155,
+    "wof:geomhash":"13cec836059b5eece256ee86bbc8ac4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873504951
+        }
+    ],
+    "wof:id":873504951,
+    "wof:lastmodified":1464223155,
+    "wof:name":"Dynamic Phys Ther & Rehab Ctr",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty",
+        "outpatient"
+    ]
+},
+  "bbox": [
+    -75.740396,
+    39.683978,
+    -75.740396,
+    39.683978
+],
+  "geometry": {"coordinates":[-75.740396,39.683978],"type":"Point"}
+}

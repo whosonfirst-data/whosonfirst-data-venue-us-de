@@ -1,0 +1,69 @@
+{
+  "id": 873473773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.668095,39.664982,-75.668095,39.664982",
+    "geom:latitude":39.664982,
+    "geom:longitude":-75.668095,
+    "iso:country":"US",
+    "sg:address":"100 Christiana Vlg Prof Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 3666",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KLHinWXX3DBFcAS04CSwt_39.664982_-75.668095@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221873,
+    "wof:geomhash":"800d60838254a28d44ae8c320436c1d7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873473773
+        }
+    ],
+    "wof:id":873473773,
+    "wof:lastmodified":1464221873,
+    "wof:name":"Jr Walter J Kaminski DDS",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.668095,
+    39.664982,
+    -75.668095,
+    39.664982
+],
+  "geometry": {"coordinates":[-75.66809499999999,39.664982],"type":"Point"}
+}

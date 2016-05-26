@@ -1,0 +1,71 @@
+{
+  "id": 873481069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.646378,39.725113,-75.646378,39.725113",
+    "geom:latitude":39.725113,
+    "geom:longitude":-75.646378,
+    "iso:country":"US",
+    "sg:address":"4012 Beech St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 7082",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3AntBkwQ32BXh4i4xRnurV_39.725113_-75.646378@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222157,
+    "wof:geomhash":"bd2217c79fe5ec0fec6d5b4ac99cea63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873481069
+        }
+    ],
+    "wof:id":873481069,
+    "wof:lastmodified":1464222157,
+    "wof:name":"JM Profit Contracting Co",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.646378,
+    39.725113,
+    -75.646378,
+    39.725113
+],
+  "geometry": {"coordinates":[-75.646378,39.725113],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873473799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.097212,38.47359,-75.097212,38.47359",
+    "geom:latitude":38.47359,
+    "geom:longitude":-75.097212,
+    "iso:country":"US",
+    "sg:address":"4 Shady Park",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 4196",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mhgKhbsEbGgxTiybKpry6_38.473590_-75.097212@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221874,
+    "wof:geomhash":"0c413a9d217190af647f73bed6b8e027",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873473799
+        }
+    ],
+    "wof:id":873473799,
+    "wof:lastmodified":1464221874,
+    "wof:name":"J W Cahill Contractors",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.097212,
+    38.47359,
+    -75.097212,
+    38.47359
+],
+  "geometry": {"coordinates":[-75.097212,38.47359],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873518793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.596295,39.776549,-75.596295,39.776549",
+    "geom:latitude":39.776549,
+    "geom:longitude":-75.596295,
+    "iso:country":"US",
+    "sg:address":"3858 Kennett Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 0561",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tavern",
+        "american"
+    ],
+    "sg:website":"http://www.cromwells.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834895,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11FG6Rom6tz06WumlRmL6h_39.776549_-75.596295@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223827,
+    "wof:geomhash":"9b2007f9626d58512622f33b673f66c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834895,
+            "region_id":85688611,
+            "venue_id":873518793
+        }
+    ],
+    "wof:id":873518793,
+    "wof:lastmodified":1464223827,
+    "wof:name":"Cromwell's Tavern",
+    "wof:parent_id":85834895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern",
+        "american"
+    ]
+},
+  "bbox": [
+    -75.596295,
+    39.776549,
+    -75.596295,
+    39.776549
+],
+  "geometry": {"coordinates":[-75.596295,39.776549],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873469981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586589,39.674808,-75.586589,39.674808",
+    "geom:latitude":39.674808,
+    "geom:longitude":-75.586589,
+    "iso:country":"US",
+    "sg:address":"501 E Basin Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 4173",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Qv9vCdfCRiJgpLmZAP11y_39.674808_-75.586589@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221728,
+    "wof:geomhash":"54d32b32a94dcbd456d84de90d63953e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873469981
+        }
+    ],
+    "wof:id":873469981,
+    "wof:lastmodified":1464221728,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.586589,
+    39.674808,
+    -75.586589,
+    39.674808
+],
+  "geometry": {"coordinates":[-75.586589,39.674808],"type":"Point"}
+}

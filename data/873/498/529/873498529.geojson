@@ -1,0 +1,71 @@
+{
+  "id": 873498529,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59991,38.743505,-75.59991,38.743505",
+    "geom:latitude":38.743505,
+    "geom:longitude":-75.59991,
+    "iso:country":"US",
+    "sg:address":"104 Mechanic St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 9112",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6u7lpQEhwWue3rDsOY8dZM_38.743505_-75.599910@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222883,
+    "wof:geomhash":"f8064f8dfc0e8ee3316bfa1b282813db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873498529
+        }
+    ],
+    "wof:id":873498529,
+    "wof:lastmodified":1464222883,
+    "wof:name":"Schorahs Heating & Cooling",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.59991,
+    38.743505,
+    -75.59991,
+    38.743505
+],
+  "geometry": {"coordinates":[-75.59990999999999,38.743505],"type":"Point"}
+}

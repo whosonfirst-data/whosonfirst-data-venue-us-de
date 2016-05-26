@@ -1,0 +1,74 @@
+{
+  "id": 873513915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.576224,39.664048,-75.576224,39.664048",
+    "geom:latitude":39.664048,
+    "geom:longitude":-75.576224,
+    "iso:country":"US",
+    "sg:address":"1202 Delaware St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/67325-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 1515",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3kCGDo1eLxJZZ9upx0XrmK_39.663986_-75.576800@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223556,
+    "wof:geomhash":"3098f13ac55678d447c19f0c1b8a55fe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873513915
+        }
+    ],
+    "wof:id":873513915,
+    "wof:lastmodified":1464223556,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.576224,
+    39.664048,
+    -75.576224,
+    39.664048
+],
+  "geometry": {"coordinates":[-75.576224,39.664048],"type":"Point"}
+}

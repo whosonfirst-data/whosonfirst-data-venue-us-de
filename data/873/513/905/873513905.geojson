@@ -1,0 +1,72 @@
+{
+  "id": 873513905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745989,39.684192,-75.745989,39.684192",
+    "geom:latitude":39.684192,
+    "geom:longitude":-75.745989,
+    "iso:country":"US",
+    "sg:address":"174 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/20276-freddys-wings-to-go/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 3400",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EmtPNm763WjC5VbMvJ9C9_39.683672_-75.745911@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223556,
+    "wof:geomhash":"88d44209a99f0415cdd2b4eeed575605",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513905
+        }
+    ],
+    "wof:id":873513905,
+    "wof:lastmodified":1464223556,
+    "wof:name":"Wings To Go",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -75.745989,
+    39.684192,
+    -75.745989,
+    39.684192
+],
+  "geometry": {"coordinates":[-75.74598899999999,39.684192],"type":"Point"}
+}

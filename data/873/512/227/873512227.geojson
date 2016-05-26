@@ -1,0 +1,74 @@
+{
+  "id": 873512227,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.499901,39.824799,-75.499901,39.824799",
+    "geom:latitude":39.824799,
+    "geom:longitude":-75.499901,
+    "iso:country":"US",
+    "sg:address":"2070 Naamans Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 9800",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pizza",
+        "italian"
+    ],
+    "sg:website":"Www.Ninospizza.Net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Xt1eQFL7b7lySxTdgxK1k_39.824598_-75.499528@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223483,
+    "wof:geomhash":"92f6a4a22fd61a6539f43af958b3ed24",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873512227
+        }
+    ],
+    "wof:id":873512227,
+    "wof:lastmodified":1464223483,
+    "wof:name":"Nino's Pizza",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza",
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.499901,
+    39.824799,
+    -75.499901,
+    39.824799
+],
+  "geometry": {"coordinates":[-75.49990099999999,39.824799],"type":"Point"}
+}

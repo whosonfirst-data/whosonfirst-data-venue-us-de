@@ -1,0 +1,72 @@
+{
+  "id": 873507117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.636205,39.288982,-75.636205,39.288982",
+    "geom:latitude":39.288982,
+    "geom:longitude":-75.636205,
+    "iso:country":"US",
+    "sg:address":"414 Main St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 8419",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "village"
+    ],
+    "sg:website":"www.clayton-delaware.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iWJGgq5iSneRTORMavN1E_39.288982_-75.636205@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223241,
+    "wof:geomhash":"bf1679a5ccd7d0211d603afde670f947",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873507117
+        }
+    ],
+    "wof:id":873507117,
+    "wof:lastmodified":1464223241,
+    "wof:name":"Clayton Town Office",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "village"
+    ]
+},
+  "bbox": [
+    -75.636205,
+    39.288982,
+    -75.636205,
+    39.288982
+],
+  "geometry": {"coordinates":[-75.636205,39.288982],"type":"Point"}
+}

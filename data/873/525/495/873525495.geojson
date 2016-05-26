@@ -1,0 +1,76 @@
+{
+  "id": 873525495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.707333,39.722673,-75.707333,39.722673",
+    "geom:latitude":39.722673,
+    "geom:longitude":-75.707333,
+    "iso:country":"US",
+    "sg:address":"3 Innovation Way Suite 100",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 894 8000",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "simulation",
+        "optimization",
+        "reasoning",
+        "data-analytics"
+    ],
+    "sg:website":"http://www.quantumleap.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6D6Ng2DJBq099VfUFZNWdc_39.722673_-75.707333@1308186500"
+    },
+    "wof:country":"US",
+    "wof:created":1464224098,
+    "wof:geomhash":"315874cd2f904c1ef346a3996181a3c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873525495
+        }
+    ],
+    "wof:id":873525495,
+    "wof:lastmodified":1464224098,
+    "wof:name":"Quantum Leap Innovations",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "simulation",
+        "optimization",
+        "reasoning",
+        "data-analytics"
+    ]
+},
+  "bbox": [
+    -75.707333,
+    39.722673,
+    -75.707333,
+    39.722673
+],
+  "geometry": {"coordinates":[-75.70733300000001,39.722673],"type":"Point"}
+}

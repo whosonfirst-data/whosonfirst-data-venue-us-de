@@ -1,0 +1,71 @@
+{
+  "id": 857718525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.494078,39.784186,-75.494078,39.784186",
+    "geom:latitude":39.784186,
+    "geom:longitude":-75.494078,
+    "iso:country":"US",
+    "sg:address":"501 Carr Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 5260",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "holding"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mKImlhAgcKivgf5O1I0AB_39.784186_-75.494078@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221213,
+    "wof:geomhash":"027cf4851a376e0f05c05379db1fa7ed",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":857718525
+        }
+    ],
+    "wof:id":857718525,
+    "wof:lastmodified":1464221213,
+    "wof:name":"Advanta Residual Holding Corp",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "holding"
+    ]
+},
+  "bbox": [
+    -75.494078,
+    39.784186,
+    -75.494078,
+    39.784186
+],
+  "geometry": {"coordinates":[-75.494078,39.784186],"type":"Point"}
+}

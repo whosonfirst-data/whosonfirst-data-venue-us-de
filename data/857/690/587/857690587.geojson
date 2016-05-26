@@ -1,0 +1,71 @@
+{
+  "id": 857690587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.439439,38.919254,-75.439439,38.919254",
+    "geom:latitude":38.919254,
+    "geom:longitude":-75.439439,
+    "iso:country":"US",
+    "sg:address":"701 N Dupont Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 6300",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZYBNGiZWhACeDku3L580S_38.919254_-75.439439@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220629,
+    "wof:geomhash":"8a87d989551fdc35645be4d2da0e1a16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857690587
+        }
+    ],
+    "wof:id":857690587,
+    "wof:lastmodified":1464220629,
+    "wof:name":"Happy Harrys Discount Store",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.439439,
+    38.919254,
+    -75.439439,
+    38.919254
+],
+  "geometry": {"coordinates":[-75.43943899999999,38.919254],"type":"Point"}
+}

@@ -1,0 +1,88 @@
+{
+  "id": 873519459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.503899,39.803501,-75.503899,39.803501",
+    "geom:latitude":39.803501,
+    "geom:longitude":-75.503899,
+    "iso:country":"US",
+    "sg:address":"Branmar Plz",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Crafts & Fabrics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 5811",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "art",
+        "nursery",
+        "gardening",
+        "store"
+    ],
+    "sg:website":"www.action.doitbest.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20JXsf2gq15MBWVPTACmix_39.803501_-75.503899@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223852,
+    "wof:geomhash":"71e6453bac44755d57c61df0b0c7c35a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519459
+        }
+    ],
+    "wof:id":873519459,
+    "wof:lastmodified":1464223852,
+    "wof:name":"Action Hardware",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "art",
+        "nursery",
+        "gardening",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.503899,
+    39.803501,
+    -75.503899,
+    39.803501
+],
+  "geometry": {"coordinates":[-75.503899,39.803501],"type":"Point"}
+}

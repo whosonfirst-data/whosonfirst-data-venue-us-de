@@ -1,0 +1,83 @@
+{
+  "id": 873503857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525216,39.752017,-75.525216,39.752017",
+    "geom:latitude":39.752017,
+    "geom:longitude":-75.525216,
+    "iso:country":"US",
+    "sg:address":"2901 Northeast Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 4713",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "eating",
+        "welfare"
+    ],
+    "sg:website":"www.sojourners.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_41RpoWA1IqSav9A94xDuvf_39.752017_-75.525216@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223094,
+    "wof:geomhash":"e0b35eaac9970fcbfcfbb22fb17ca091",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873503857
+        }
+    ],
+    "wof:id":873503857,
+    "wof:lastmodified":1464223094,
+    "wof:name":"Sojourners Place",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "eating",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.525216,
+    39.752017,
+    -75.525216,
+    39.752017
+],
+  "geometry": {"coordinates":[-75.525216,39.752017],"type":"Point"}
+}

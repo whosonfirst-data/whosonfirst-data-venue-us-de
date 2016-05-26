@@ -1,0 +1,69 @@
+{
+  "id": 873494005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549006,39.710088,-75.549006,39.710088",
+    "geom:latitude":39.710088,
+    "geom:longitude":-75.549006,
+    "iso:country":"US",
+    "sg:address":"3125 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 8663",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3gKtL2Kfo7MBp4AGSe9n5W_39.710088_-75.549006@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222653,
+    "wof:geomhash":"52ffbba27cb268508cb205efd2adf41d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873494005
+        }
+    ],
+    "wof:id":873494005,
+    "wof:lastmodified":1464222653,
+    "wof:name":"Star Liquor",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.549006,
+    39.710088,
+    -75.549006,
+    39.710088
+],
+  "geometry": {"coordinates":[-75.54900600000001,39.710088],"type":"Point"}
+}

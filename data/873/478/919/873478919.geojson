@@ -1,0 +1,71 @@
+{
+  "id": 873478919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.287692,38.582572,-75.287692,38.582572",
+    "geom:latitude":38.582572,
+    "geom:longitude":-75.287692,
+    "iso:country":"US",
+    "sg:address":"83 Hub Ct",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 1373",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44I89eFqS9IbsLcAe4HhYQ_38.582572_-75.287692@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222057,
+    "wof:geomhash":"1dd555a0ef0ef3c026c609d482f40b0e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873478919
+        }
+    ],
+    "wof:id":873478919,
+    "wof:lastmodified":1464222057,
+    "wof:name":"C T & Son",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical"
+    ]
+},
+  "bbox": [
+    -75.287692,
+    38.582572,
+    -75.287692,
+    38.582572
+],
+  "geometry": {"coordinates":[-75.28769200000001,38.582572],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873513305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563304,39.658865,-75.563304,39.658865",
+    "geom:latitude":39.658865,
+    "geom:longitude":-75.563304,
+    "iso:country":"US",
+    "sg:address":"114 Delaware St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/243813-jessops-tavern--colonial-restaurant/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 6111",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3UTrQ9TUzgSsgeoo7vEzLN_39.658865_-75.563304@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223524,
+    "wof:geomhash":"53a7371ed58d23c57905735fa3da9f1f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873513305
+        }
+    ],
+    "wof:id":873513305,
+    "wof:lastmodified":1464223524,
+    "wof:name":"Jessop's Tavern & Colonial Restaurant",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.563304,
+    39.658865,
+    -75.563304,
+    39.658865
+],
+  "geometry": {"coordinates":[-75.563304,39.658865],"type":"Point"}
+}

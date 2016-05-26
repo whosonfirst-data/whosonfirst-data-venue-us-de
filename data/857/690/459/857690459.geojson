@@ -1,0 +1,73 @@
+{
+  "id": 857690459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.616797,39.737596,-75.616797,39.737596",
+    "geom:latitude":39.737596,
+    "geom:longitude":-75.616797,
+    "iso:country":"US",
+    "sg:address":"2814 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 3053",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "appliance",
+        "household",
+        "electrical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2pNHBLzHyXXCM8SUPS5Dtq_39.737596_-75.616797@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220627,
+    "wof:geomhash":"7028064a8cb57cff49d84f6fc0fe37e9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857690459
+        }
+    ],
+    "wof:id":857690459,
+    "wof:lastmodified":1464220627,
+    "wof:name":"A & E Sales & Service",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "appliance",
+        "household",
+        "electrical"
+    ]
+},
+  "bbox": [
+    -75.616797,
+    39.737596,
+    -75.616797,
+    39.737596
+],
+  "geometry": {"coordinates":[-75.61679700000001,39.737596],"type":"Point"}
+}

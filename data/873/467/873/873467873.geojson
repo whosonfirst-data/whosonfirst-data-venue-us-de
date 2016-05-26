@@ -1,0 +1,69 @@
+{
+  "id": 873467873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.4994,39.771145,-75.4994,39.771145",
+    "geom:latitude":39.771145,
+    "geom:longitude":-75.4994,
+    "iso:country":"US",
+    "sg:address":"729 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Self-service Laundry",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 0440",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2GDYHFm1lJ2txwasn2eRZu_39.771145_-75.499400@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221648,
+    "wof:geomhash":"0e33b06ce8de7055593adaf87a700c3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873467873
+        }
+    ],
+    "wof:id":873467873,
+    "wof:lastmodified":1464221648,
+    "wof:name":"Norgetown Cleaner",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "coin"
+    ]
+},
+  "bbox": [
+    -75.4994,
+    39.771145,
+    -75.4994,
+    39.771145
+],
+  "geometry": {"coordinates":[-75.49939999999999,39.771145],"type":"Point"}
+}

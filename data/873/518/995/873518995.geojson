@@ -1,0 +1,84 @@
+{
+  "id": 873518995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.653942,39.725916,-75.653942,39.725916",
+    "geom:latitude":39.725916,
+    "geom:longitude":-75.653942,
+    "iso:country":"US",
+    "sg:address":"4512 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 4060",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeons",
+        "disease",
+        "osteopathic",
+        "pulmonary",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hap5WNLMd5cnmQb3BSmRH_39.725916_-75.653942@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223835,
+    "wof:geomhash":"930815c6f6d432867796cadeb97cd8f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873518995
+        }
+    ],
+    "wof:id":873518995,
+    "wof:lastmodified":1464223835,
+    "wof:name":"Pulmonary & Sleep Consultants",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeons",
+        "disease",
+        "osteopathic",
+        "pulmonary",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.653942,
+    39.725916,
+    -75.653942,
+    39.725916
+],
+  "geometry": {"coordinates":[-75.653942,39.725916],"type":"Point"}
+}

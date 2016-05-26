@@ -1,0 +1,69 @@
+{
+  "id": 873493437,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.684784,39.676246,-75.684784,39.676246",
+    "geom:latitude":39.676246,
+    "geom:longitude":-75.684784,
+    "iso:country":"US",
+    "sg:address":"1102 Birchwood Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 7959",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7YrHCSiSF0HaO1BTcmPB9q_39.676246_-75.684784@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222623,
+    "wof:geomhash":"191dd917a1ef0b8b1f426050559a58e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873493437
+        }
+    ],
+    "wof:id":873493437,
+    "wof:lastmodified":1464222623,
+    "wof:name":"Laundry Express",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.684784,
+    39.676246,
+    -75.684784,
+    39.676246
+],
+  "geometry": {"coordinates":[-75.68478399999999,39.676246],"type":"Point"}
+}

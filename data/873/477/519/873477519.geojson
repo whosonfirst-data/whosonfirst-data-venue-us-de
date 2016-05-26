@@ -1,0 +1,66 @@
+{
+  "id": 873477519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.080952,38.542567,-75.080952,38.542567",
+    "geom:latitude":38.542567,
+    "geom:longitude":-75.080952,
+    "iso:country":"US",
+    "sg:address":"140 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 9466",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PPIEO1ZzMG9A3BiItvG3x_38.542567_-75.080952@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222002,
+    "wof:geomhash":"c0d156c7b6d5d1ca4447dd5006da2dc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873477519
+        }
+    ],
+    "wof:id":873477519,
+    "wof:lastmodified":1464222002,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.080952,
+    38.542567,
+    -75.080952,
+    38.542567
+],
+  "geometry": {"coordinates":[-75.080952,38.542567],"type":"Point"}
+}

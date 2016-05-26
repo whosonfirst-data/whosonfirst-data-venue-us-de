@@ -1,0 +1,71 @@
+{
+  "id": 873500491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550146,39.8114,-75.550146,39.8114",
+    "geom:latitude":39.8114,
+    "geom:longitude":-75.550146,
+    "iso:country":"US",
+    "sg:address":"4107 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 0144",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "agency",
+        "bureau"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Tp5aaB48QxPhQO6H67xmV_39.811400_-75.550146@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222957,
+    "wof:geomhash":"c413a335b850410bf082c9bd7a162dc3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873500491
+        }
+    ],
+    "wof:id":873500491,
+    "wof:lastmodified":1464222957,
+    "wof:name":"AAA Travel",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "bureau"
+    ]
+},
+  "bbox": [
+    -75.550146,
+    39.8114,
+    -75.550146,
+    39.8114
+],
+  "geometry": {"coordinates":[-75.550146,39.8114],"type":"Point"}
+}

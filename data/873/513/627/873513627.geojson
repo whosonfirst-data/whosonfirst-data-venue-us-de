@@ -1,0 +1,72 @@
+{
+  "id": 873513627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.564053,39.205825,-75.564053,39.205825",
+    "geom:latitude":39.205825,
+    "geom:longitude":-75.564053,
+    "iso:country":"US",
+    "sg:address":"4003 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/142111-waffle-house/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 2226",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58X6lWIxn3mVlWJ6r6gXXy_39.205825_-75.564053@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223539,
+    "wof:geomhash":"83c567d6cd12cf0b782df6197f81f3a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873513627
+        }
+    ],
+    "wof:id":873513627,
+    "wof:lastmodified":1464223539,
+    "wof:name":"Waffle House",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.564053,
+    39.205825,
+    -75.564053,
+    39.205825
+],
+  "geometry": {"coordinates":[-75.564053,39.205825],"type":"Point"}
+}

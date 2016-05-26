@@ -1,0 +1,71 @@
+{
+  "id": 873474979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.269731,38.73286,-75.269731,38.73286",
+    "geom:latitude":38.73286,
+    "geom:longitude":-75.269731,
+    "iso:country":"US",
+    "sg:address":"28 Hunters Mill Rd",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 0309",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0QS8Q1ybxY2oC3rvDfSv9M_38.732860_-75.269731@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221914,
+    "wof:geomhash":"613a3665645b9cea610dfb109ca26b09",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873474979
+        }
+    ],
+    "wof:id":873474979,
+    "wof:lastmodified":1464221914,
+    "wof:name":"Felker Electric Inc",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.269731,
+    38.73286,
+    -75.269731,
+    38.73286
+],
+  "geometry": {"coordinates":[-75.26973099999999,38.73286],"type":"Point"}
+}

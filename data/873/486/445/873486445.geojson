@@ -1,0 +1,89 @@
+{
+  "id": 873486445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.553568,39.74135,-75.553568,39.74135",
+    "geom:latitude":39.74135,
+    "geom:longitude":-75.553568,
+    "iso:country":"US",
+    "sg:address":"201 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5561",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "supp",
+        "electrical",
+        "lighting",
+        "fixture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bCZy7bLAYOkHsZ6Ty6ulX_39.741350_-75.553568@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222358,
+    "wof:geomhash":"38d21813ff2ac254e50c3d89dea9c705",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873486445
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873486445
+        }
+    ],
+    "wof:id":873486445,
+    "wof:lastmodified":1464222358,
+    "wof:name":"Gross Lighting Center",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supp",
+        "electrical",
+        "lighting",
+        "fixture"
+    ]
+},
+  "bbox": [
+    -75.553568,
+    39.74135,
+    -75.553568,
+    39.74135
+],
+  "geometry": {"coordinates":[-75.553568,39.74135],"type":"Point"}
+}

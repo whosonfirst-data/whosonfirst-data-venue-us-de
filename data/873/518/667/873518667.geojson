@@ -1,0 +1,73 @@
+{
+  "id": 873518667,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554357,39.752134,-75.554357,39.752134",
+    "geom:latitude":39.752134,
+    "geom:longitude":-75.554357,
+    "iso:country":"US",
+    "sg:address":"910 Gilpin Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Airline",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 3323",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pilot"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888517
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_38hotn10r5FGQnkajvjf9I_39.752134_-75.554357@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223823,
+    "wof:geomhash":"53b463fc5c2e8eba8c55967ac0cfb88f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888517,
+            "region_id":85688611,
+            "venue_id":873518667
+        }
+    ],
+    "wof:id":873518667,
+    "wof:lastmodified":1464223823,
+    "wof:name":"Eagle Aviation",
+    "wof:parent_id":85888517,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pilot"
+    ]
+},
+  "bbox": [
+    -75.554357,
+    39.752134,
+    -75.554357,
+    39.752134
+],
+  "geometry": {"coordinates":[-75.554357,39.752134],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857692231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551267,39.740338,-75.551267,39.740338",
+    "geom:latitude":39.740338,
+    "geom:longitude":-75.551267,
+    "iso:country":"US",
+    "sg:address":"308 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 2203",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Rhmu6IPa7Oj4B3CAFt7Wi_39.740338_-75.551267@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220666,
+    "wof:geomhash":"d07c03de31c868b2d25bcccea8c7244e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857692231
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857692231
+        }
+    ],
+    "wof:id":857692231,
+    "wof:lastmodified":1464220666,
+    "wof:name":"Berger Brothers Used Furniture",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.551267,
+    39.740338,
+    -75.551267,
+    39.740338
+],
+  "geometry": {"coordinates":[-75.551267,39.740338],"type":"Point"}
+}

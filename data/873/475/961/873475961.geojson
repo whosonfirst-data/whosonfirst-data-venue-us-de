@@ -1,0 +1,73 @@
+{
+  "id": 873475961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543636,39.75919,-75.543636,39.75919",
+    "geom:latitude":39.75919,
+    "geom:longitude":-75.543636,
+    "iso:country":"US",
+    "sg:address":"2212 Baynard Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 3960",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uZIrM7TeVNHGGr2DMUtyc_39.759190_-75.543636@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221947,
+    "wof:geomhash":"ec3fdd796aeeea1a4f1c4af5737f5147",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873475961
+        }
+    ],
+    "wof:id":873475961,
+    "wof:lastmodified":1464221947,
+    "wof:name":"Charles A Depfer Do",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -75.543636,
+    39.75919,
+    -75.543636,
+    39.75919
+],
+  "geometry": {"coordinates":[-75.54363600000001,39.75919],"type":"Point"}
+}

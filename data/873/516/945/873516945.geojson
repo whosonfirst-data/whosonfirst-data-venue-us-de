@@ -1,0 +1,77 @@
+{
+  "id": 873516945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525302,39.772333,-75.525302,39.772333",
+    "geom:latitude":39.772333,
+    "geom:longitude":-75.525302,
+    "iso:country":"US",
+    "sg:address":"4613 Little Rock Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 4030",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85845563,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7eTS8MxCc1Cdmuk5MZg6zd_39.772333_-75.525302@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223717,
+    "wof:geomhash":"d96fd0e138da33b40ba53947cba518c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85845563,
+            "region_id":85688611,
+            "venue_id":873516945
+        }
+    ],
+    "wof:id":873516945,
+    "wof:lastmodified":1464223717,
+    "wof:name":"First Choice Family Pc",
+    "wof:parent_id":85845563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "practice",
+        "surgeons",
+        "family"
+    ]
+},
+  "bbox": [
+    -75.525302,
+    39.772333,
+    -75.525302,
+    39.772333
+],
+  "geometry": {"coordinates":[-75.525302,39.772333],"type":"Point"}
+}

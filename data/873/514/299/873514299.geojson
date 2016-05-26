@@ -1,0 +1,81 @@
+{
+  "id": 873514299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.663985,39.633019,-75.663985,39.633019",
+    "geom:latitude":39.633019,
+    "geom:longitude":-75.663985,
+    "iso:country":"US",
+    "sg:address":"1601 Governors Pl",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 6104",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ],
+    "sg:website":"https://www.wachovia.com/?DCMP=KNL-CPS-DS-Directory-0703&HBX_PK=Banks&HBX_OU=71",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AgWKk2Vjb2WgBaRBLbRH6_39.633019_-75.663985@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223581,
+    "wof:geomhash":"237a87337fc68feb326a7de167c0ec32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514299
+        }
+    ],
+    "wof:id":873514299,
+    "wof:lastmodified":1464223581,
+    "wof:name":"Wachovia Bank",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "loan",
+        "saving",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.663985,
+    39.633019,
+    -75.663985,
+    39.633019
+],
+  "geometry": {"coordinates":[-75.663985,39.633019],"type":"Point"}
+}

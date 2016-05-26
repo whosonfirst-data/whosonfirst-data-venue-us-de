@@ -1,0 +1,77 @@
+{
+  "id": 873473017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504625,39.802788,-75.504625,39.802788",
+    "geom:latitude":39.802788,
+    "geom:longitude":-75.504625,
+    "iso:country":"US",
+    "sg:address":"1812 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 7500",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "physical"
+    ],
+    "sg:website":"www.propt.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aY4I1WqPg5eODJBf1zPFM_39.802788_-75.504625@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221843,
+    "wof:geomhash":"2fd32f269f6867c81a350d63f9fb67f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873473017
+        }
+    ],
+    "wof:id":873473017,
+    "wof:lastmodified":1464221843,
+    "wof:name":"Pro Physical Therapy",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.504625,
+    39.802788,
+    -75.504625,
+    39.802788
+],
+  "geometry": {"coordinates":[-75.504625,39.802788],"type":"Point"}
+}

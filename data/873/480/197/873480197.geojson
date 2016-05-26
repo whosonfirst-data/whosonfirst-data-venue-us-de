@@ -1,0 +1,75 @@
+{
+  "id": 873480197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.384912,38.690857,-75.384912,38.690857",
+    "geom:latitude":38.690857,
+    "geom:longitude":-75.384912,
+    "iso:country":"US",
+    "sg:address":"114 E Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 5353",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "counsel",
+        "legal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2kav5F2El4OYcWPgaLZ1RR_38.690857_-75.384912@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222119,
+    "wof:geomhash":"5291610c6b8ec90dc2084c3668c4297d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873480197
+        }
+    ],
+    "wof:id":873480197,
+    "wof:lastmodified":1464222119,
+    "wof:name":"Attorney General",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "counsel",
+        "legal"
+    ]
+},
+  "bbox": [
+    -75.384912,
+    38.690857,
+    -75.384912,
+    38.690857
+],
+  "geometry": {"coordinates":[-75.384912,38.690857],"type":"Point"}
+}

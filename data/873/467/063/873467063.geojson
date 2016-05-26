@@ -1,0 +1,69 @@
+{
+  "id": 873467063,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527459,39.776863,-75.527459,39.776863",
+    "geom:latitude":39.776863,
+    "geom:longitude":-75.527459,
+    "iso:country":"US",
+    "sg:address":"4618 Talley Hill Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 577 3080",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85845563,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5IVgWC3hfG0pe2nM0gi3cX_39.776863_-75.527459@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221621,
+    "wof:geomhash":"35099d4a42c72316f78670f1d9afd1d3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85845563,
+            "region_id":85688611,
+            "venue_id":873467063
+        }
+    ],
+    "wof:id":873467063,
+    "wof:lastmodified":1464221621,
+    "wof:name":"Carvel Ice Cream",
+    "wof:parent_id":85845563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.527459,
+    39.776863,
+    -75.527459,
+    39.776863
+],
+  "geometry": {"coordinates":[-75.52745899999999,39.776863],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873519177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.654671,39.7202,-75.654671,39.7202",
+    "geom:latitude":39.7202,
+    "geom:longitude":-75.654671,
+    "iso:country":"US",
+    "sg:address":"2006 Limestone Rd Ste 5",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 1860",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "anesthesiology",
+        "surgeons"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BjpglJTgSO83I3ohcm7F1_39.720200_-75.654671@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223842,
+    "wof:geomhash":"e2c72e171d4d24f8bc9a6af8c51bf7ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873519177
+        }
+    ],
+    "wof:id":873519177,
+    "wof:lastmodified":1464223842,
+    "wof:name":"Outpatient Anesthesia Spe",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "anesthesiology",
+        "surgeons"
+    ]
+},
+  "bbox": [
+    -75.654671,
+    39.7202,
+    -75.654671,
+    39.7202
+],
+  "geometry": {"coordinates":[-75.65467099999999,39.7202],"type":"Point"}
+}

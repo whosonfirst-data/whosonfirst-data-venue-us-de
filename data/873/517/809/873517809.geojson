@@ -1,0 +1,76 @@
+{
+  "id": 873517809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545284,39.78101,-75.545284,39.78101",
+    "geom:latitude":39.78101,
+    "geom:longitude":-75.545284,
+    "iso:country":"US",
+    "sg:address":"1601 Concord Pike Ste 30",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Shopping Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 2190",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mall",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1bQkxaLHBafGLbdOPvu1vB_39.781010_-75.545284@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223782,
+    "wof:geomhash":"da81751fee6aecd442d422a77d78b8a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873517809
+        }
+    ],
+    "wof:id":873517809,
+    "wof:lastmodified":1464223782,
+    "wof:name":"Independence Mall",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mall",
+        "management"
+    ]
+},
+  "bbox": [
+    -75.545284,
+    39.78101,
+    -75.545284,
+    39.78101
+],
+  "geometry": {"coordinates":[-75.545284,39.78101],"type":"Point"}
+}

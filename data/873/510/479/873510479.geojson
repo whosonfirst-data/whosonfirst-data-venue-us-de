@@ -1,0 +1,69 @@
+{
+  "id": 873510479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.655208,39.74775,-75.655208,39.74775",
+    "geom:latitude":39.74775,
+    "geom:longitude":-75.655208,
+    "iso:country":"US",
+    "sg:address":"2920 Duncan Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 2305",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Mb0a4NjYm72qZs5nYpSOk_39.747750_-75.655208@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223395,
+    "wof:geomhash":"1bdbd2196268f7304163d79f7e52b10a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873510479
+        }
+    ],
+    "wof:id":873510479,
+    "wof:lastmodified":1464223395,
+    "wof:name":"Police Community Mini Station",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department"
+    ]
+},
+  "bbox": [
+    -75.655208,
+    39.74775,
+    -75.655208,
+    39.74775
+],
+  "geometry": {"coordinates":[-75.655208,39.74775],"type":"Point"}
+}

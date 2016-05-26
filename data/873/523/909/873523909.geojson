@@ -1,0 +1,80 @@
+{
+  "id": 873523909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568845,38.994394,-75.568845,38.994394",
+    "geom:latitude":38.994394,
+    "geom:longitude":-75.568845,
+    "iso:country":"US",
+    "sg:address":"12284 S Dupont Hwy",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 233 3971",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor",
+        "tile-contractors"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vV1GoJvNG5v1btSGlbe6n_38.994394_-75.568845@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224036,
+    "wof:geomhash":"7ef7a2217ec0a884defa6fd76f457314",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873523909
+        }
+    ],
+    "wof:id":873523909,
+    "wof:lastmodified":1464224036,
+    "wof:name":"Stonehammer Construction",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor",
+        "tile-contractors"
+    ]
+},
+  "bbox": [
+    -75.568845,
+    38.994394,
+    -75.568845,
+    38.994394
+],
+  "geometry": {"coordinates":[-75.568845,38.994394],"type":"Point"}
+}

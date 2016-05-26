@@ -1,0 +1,78 @@
+{
+  "id": 857694107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.31416,38.771207,-75.31416,38.771207",
+    "geom:latitude":38.771207,
+    "geom:longitude":-75.31416,
+    "iso:country":"US",
+    "sg:address":"110 New St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Sewage",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 3144",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "treatment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30gzT5z5cBAp3r4xWisnd2_38.771207_-75.314160@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220700,
+    "wof:geomhash":"8c87320bc6d68b83ad5622139ac26cd2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857694107
+        }
+    ],
+    "wof:id":857694107,
+    "wof:lastmodified":1464220700,
+    "wof:name":"Siegfried Machine & Supply Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "treatment"
+    ]
+},
+  "bbox": [
+    -75.31416,
+    38.771207,
+    -75.31416,
+    38.771207
+],
+  "geometry": {"coordinates":[-75.31416,38.771207],"type":"Point"}
+}

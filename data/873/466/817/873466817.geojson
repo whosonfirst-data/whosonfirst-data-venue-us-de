@@ -1,0 +1,71 @@
+{
+  "id": 873466817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.135855,38.729718,-75.135855,38.729718",
+    "geom:latitude":38.729718,
+    "geom:longitude":-75.135855,
+    "iso:country":"US",
+    "sg:address":"18854 John J Williams Hwy",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 5105",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2vugtlDdhDs9nkV0cafJjC_38.729718_-75.135855@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221612,
+    "wof:geomhash":"de0568457655f97ab88c43c071e5e0bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873466817
+        }
+    ],
+    "wof:id":873466817,
+    "wof:lastmodified":1464221612,
+    "wof:name":"Apple Electric Inc",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.135855,
+    38.729718,
+    -75.135855,
+    38.729718
+],
+  "geometry": {"coordinates":[-75.13585500000001,38.729718],"type":"Point"}
+}

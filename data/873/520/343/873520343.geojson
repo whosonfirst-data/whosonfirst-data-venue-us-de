@@ -1,0 +1,76 @@
+{
+  "id": 873520343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542,39.8088,-75.542,39.8088",
+    "geom:latitude":39.8088,
+    "geom:longitude":-75.542,
+    "iso:country":"US",
+    "sg:address":"3411 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5151",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "counseling",
+        "mental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Z4TPc12MqojCxQuzbUWNN_39.808800_-75.542000@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223897,
+    "wof:geomhash":"61f468cb6569cc32c010ef3d2c3087fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520343
+        }
+    ],
+    "wof:id":873520343,
+    "wof:lastmodified":1464223897,
+    "wof:name":"Frabizzio Mario J Jr PHD",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "counseling",
+        "mental"
+    ]
+},
+  "bbox": [
+    -75.542,
+    39.8088,
+    -75.542,
+    39.8088
+],
+  "geometry": {"coordinates":[-75.542,39.8088],"type":"Point"}
+}

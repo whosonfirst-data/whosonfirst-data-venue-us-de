@@ -1,0 +1,71 @@
+{
+  "id": 873476867,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.383985,38.688638,-75.383985,38.688638",
+    "geom:latitude":38.688638,
+    "geom:longitude":-75.383985,
+    "iso:country":"US",
+    "sg:address":"120 S Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9001",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7H6rDT3Pkg3MxqBhciDAo4_38.688638_-75.383985@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221979,
+    "wof:geomhash":"6f263ebe2dd827376f9a735da3923207",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873476867
+        }
+    ],
+    "wof:id":873476867,
+    "wof:lastmodified":1464221979,
+    "wof:name":"Lawrence B Steele III",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -75.383985,
+    38.688638,
+    -75.383985,
+    38.688638
+],
+  "geometry": {"coordinates":[-75.383985,38.688638],"type":"Point"}
+}

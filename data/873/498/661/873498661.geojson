@@ -1,0 +1,71 @@
+{
+  "id": 873498661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.591561,39.809625,-75.591561,39.809625",
+    "geom:latitude":39.809625,
+    "geom:longitude":-75.591561,
+    "iso:country":"US",
+    "sg:address":"611 Adams Dam Rd",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 7830",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "balancing",
+        "air"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4fi8U3QR8qNSXfbDdkQLpW_39.809625_-75.591561@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222888,
+    "wof:geomhash":"074f01d022481322e9950234e2b87637",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873498661
+        }
+    ],
+    "wof:id":873498661,
+    "wof:lastmodified":1464222888,
+    "wof:name":"Air Systems Engineering Co",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "balancing",
+        "air"
+    ]
+},
+  "bbox": [
+    -75.591561,
+    39.809625,
+    -75.591561,
+    39.809625
+],
+  "geometry": {"coordinates":[-75.591561,39.809625],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857723905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.696777,39.671672,-75.696777,39.671672",
+    "geom:latitude":39.671672,
+    "geom:longitude":-75.696777,
+    "iso:country":"US",
+    "sg:address":"84 Salem Church Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 4949",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0bslePIleF2mp18YH1PrXN_39.671672_-75.696777@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221322,
+    "wof:geomhash":"afaa06769af61270bd0ed9a54667ce87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857723905
+        }
+    ],
+    "wof:id":857723905,
+    "wof:lastmodified":1464221322,
+    "wof:name":"J & T Concrete Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.696777,
+    39.671672,
+    -75.696777,
+    39.671672
+],
+  "geometry": {"coordinates":[-75.696777,39.671672],"type":"Point"}
+}

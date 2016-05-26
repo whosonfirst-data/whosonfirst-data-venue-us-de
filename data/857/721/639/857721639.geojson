@@ -1,0 +1,73 @@
+{
+  "id": 857721639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.531335,39.756569,-75.531335,39.756569",
+    "geom:latitude":39.756569,
+    "geom:longitude":-75.531335,
+    "iso:country":"US",
+    "sg:address":"3037 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 7118",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2L9WXTImJl2D1EFwxUuDrz_39.756569_-75.531335@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221282,
+    "wof:geomhash":"8d726c7843a074e297c3c93cb351b019",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857721639
+        }
+    ],
+    "wof:id":857721639,
+    "wof:lastmodified":1464221282,
+    "wof:name":"Jim Dandy's Personal Touch",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.531335,
+    39.756569,
+    -75.531335,
+    39.756569
+],
+  "geometry": {"coordinates":[-75.531335,39.756569],"type":"Point"}
+}

@@ -1,0 +1,79 @@
+{
+  "id": 873519051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.655665,39.721463,-75.655665,39.721463",
+    "geom:latitude":39.721463,
+    "geom:longitude":-75.655665,
+    "iso:country":"US",
+    "sg:address":"2035 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 413 584 4400",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ],
+    "sg:website":"http://www.tdbanknorth.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bfIYuCJFynNEA7KZgk7sc_39.721463_-75.655665@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223837,
+    "wof:geomhash":"9bacc212dd23c2f716668de9e6e0526e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873519051
+        }
+    ],
+    "wof:id":873519051,
+    "wof:lastmodified":1464223837,
+    "wof:name":"TD Commerce Bank",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "loan",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.655665,
+    39.721463,
+    -75.655665,
+    39.721463
+],
+  "geometry": {"coordinates":[-75.655665,39.721463],"type":"Point"}
+}

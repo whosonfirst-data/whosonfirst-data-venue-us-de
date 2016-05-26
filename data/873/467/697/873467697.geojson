@@ -1,0 +1,73 @@
+{
+  "id": 873467697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.485031,39.204416,-75.485031,39.204416",
+    "geom:latitude":39.204416,
+    "geom:longitude":-75.485031,
+    "iso:country":"US",
+    "sg:address":"134 Silver Leaf Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3380",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TLtTnZ8zsMrRVnm0MKsKs_39.204416_-75.485031@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221642,
+    "wof:geomhash":"addfcdad40e93457c4d1579ef2e5bcb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873467697
+        }
+    ],
+    "wof:id":873467697,
+    "wof:lastmodified":1464221642,
+    "wof:name":"Brick Doctor Inc",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.485031,
+    39.204416,
+    -75.485031,
+    39.204416
+],
+  "geometry": {"coordinates":[-75.48503100000001,39.204416],"type":"Point"}
+}

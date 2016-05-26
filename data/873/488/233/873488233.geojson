@@ -1,0 +1,69 @@
+{
+  "id": 873488233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.155646,38.745996,-75.155646,38.745996",
+    "geom:latitude":38.745996,
+    "geom:longitude":-75.155646,
+    "iso:country":"US",
+    "sg:address":"1420 State Hwy 1",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 8077",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uQKwEkSOwIPe2aFjWUWoj_38.745996_-75.155646@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222431,
+    "wof:geomhash":"853dca0489eac59fe950f2842d6ef934",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873488233
+        }
+    ],
+    "wof:id":873488233,
+    "wof:lastmodified":1464222431,
+    "wof:name":"New Perspective Learning Ctr",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -75.155646,
+    38.745996,
+    -75.155646,
+    38.745996
+],
+  "geometry": {"coordinates":[-75.155646,38.745996],"type":"Point"}
+}

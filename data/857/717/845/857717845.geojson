@@ -1,0 +1,71 @@
+{
+  "id": 857717845,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.585022,39.686084,-75.585022,39.686084",
+    "geom:latitude":39.686084,
+    "geom:longitude":-75.585022,
+    "iso:country":"US",
+    "sg:address":"800 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 326 2696",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "parts"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33hZ1qbUrKKtJjciv2wHgM_39.686084_-75.585022@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221201,
+    "wof:geomhash":"37df3bc01ae79c7888a337bb2a5af980",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857717845
+        }
+    ],
+    "wof:id":857717845,
+    "wof:lastmodified":1464221201,
+    "wof:name":"Autozone",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "parts"
+    ]
+},
+  "bbox": [
+    -75.585022,
+    39.686084,
+    -75.585022,
+    39.686084
+],
+  "geometry": {"coordinates":[-75.585022,39.686084],"type":"Point"}
+}

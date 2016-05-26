@@ -1,0 +1,71 @@
+{
+  "id": 857718295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.685968,39.705837,-75.685968,39.705837",
+    "geom:latitude":39.705837,
+    "geom:longitude":-75.685968,
+    "iso:country":"US",
+    "sg:address":"2634 Kirkwood Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 1775",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jpPizbSpBjRqLuFe0BR9C_39.705837_-75.685968@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221209,
+    "wof:geomhash":"14b66e9c710c3de5098461e355cd3381",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857718295
+        }
+    ],
+    "wof:id":857718295,
+    "wof:lastmodified":1464221209,
+    "wof:name":"Impaired Nurse Peer Assistance",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -75.685968,
+    39.705837,
+    -75.685968,
+    39.705837
+],
+  "geometry": {"coordinates":[-75.685968,39.705837],"type":"Point"}
+}

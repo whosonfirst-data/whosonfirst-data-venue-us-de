@@ -1,0 +1,88 @@
+{
+  "id": 873519367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.482103,39.782234,-75.482103,39.782234",
+    "geom:latitude":39.782234,
+    "geom:longitude":-75.482103,
+    "iso:country":"US",
+    "sg:address":"1320 Philadelphia Pike Ste 101",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 0666",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "family",
+        "gynecology",
+        "practice",
+        "surgeons",
+        "internal",
+        "obstetrics",
+        "medicine",
+        "surgeon",
+        "public"
+    ],
+    "sg:website":"http://www.totalcarephysicians.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r38V9xqyCVQ8dHGptx11Z_39.782234_-75.482103@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223849,
+    "wof:geomhash":"4f29e849b6cfadce0a808a09516520dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873519367
+        }
+    ],
+    "wof:id":873519367,
+    "wof:lastmodified":1464223849,
+    "wof:name":"Total Care Physicians",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "family",
+        "gynecology",
+        "practice",
+        "surgeons",
+        "internal",
+        "obstetrics",
+        "medicine",
+        "surgeon",
+        "public"
+    ]
+},
+  "bbox": [
+    -75.482103,
+    39.782234,
+    -75.482103,
+    39.782234
+],
+  "geometry": {"coordinates":[-75.482103,39.782234],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857727491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.422525,38.907433,-75.422525,38.907433",
+    "geom:latitude":38.907433,
+    "geom:longitude":-75.422525,
+    "iso:country":"US",
+    "sg:address":"602 SE 4th St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5462",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "baker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dHg4ORrCT5kDHtAqwIiXt_38.907433_-75.422525@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221387,
+    "wof:geomhash":"6e0d29a7ef5a2ba09f7cc0ad63450197",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857727491
+        }
+    ],
+    "wof:id":857727491,
+    "wof:lastmodified":1464221387,
+    "wof:name":"Bread N Butter Bakery",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "baker"
+    ]
+},
+  "bbox": [
+    -75.422525,
+    38.907433,
+    -75.422525,
+    38.907433
+],
+  "geometry": {"coordinates":[-75.42252499999999,38.907433],"type":"Point"}
+}

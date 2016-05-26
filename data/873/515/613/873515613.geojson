@@ -1,0 +1,74 @@
+{
+  "id": 873515613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.735045,39.746989,-75.735045,39.746989",
+    "geom:latitude":39.746989,
+    "geom:longitude":-75.735045,
+    "iso:country":"US",
+    "sg:address":"4 Somerset Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 2422",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85842215,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HsFtsBAN2OWAX1GE3SJ79_39.746989_-75.735045@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223649,
+    "wof:geomhash":"3fe8d9b1ece1cfbf8b5fcb1904228df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85842215,
+            "region_id":85688611,
+            "venue_id":873515613
+        }
+    ],
+    "wof:id":873515613,
+    "wof:lastmodified":1464223649,
+    "wof:name":"Real Estate Appraisal Co",
+    "wof:parent_id":85842215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -75.735045,
+    39.746989,
+    -75.735045,
+    39.746989
+],
+  "geometry": {"coordinates":[-75.735045,39.746989],"type":"Point"}
+}

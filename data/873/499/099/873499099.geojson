@@ -1,0 +1,75 @@
+{
+  "id": 873499099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.387526,38.693011,-75.387526,38.693011",
+    "geom:latitude":38.693011,
+    "geom:longitude":-75.387526,
+    "iso:country":"US",
+    "sg:address":"214 N Race St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 0152",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3MR9r4SliJzMwIDx32XOwO_38.693011_-75.387526@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222903,
+    "wof:geomhash":"c27e39a5bcc671ce673b5bbb3954b2f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873499099
+        }
+    ],
+    "wof:id":873499099,
+    "wof:lastmodified":1464222903,
+    "wof:name":"Gomez International Courier",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.387526,
+    38.693011,
+    -75.387526,
+    38.693011
+],
+  "geometry": {"coordinates":[-75.38752599999999,38.693011],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873501827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.384948,38.692345,-75.384948,38.692345",
+    "geom:latitude":38.692345,
+    "geom:longitude":-75.384948,
+    "iso:country":"US",
+    "sg:address":"106 E Laurel St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 7033",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6GVcD8r69JGyd84pgkNcYE_38.692345_-75.384948@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223022,
+    "wof:geomhash":"e911579d5b79aca243106432419da968",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873501827
+        }
+    ],
+    "wof:id":873501827,
+    "wof:lastmodified":1464223022,
+    "wof:name":"John L Briggs & Co",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.384948,
+    38.692345,
+    -75.384948,
+    38.692345
+],
+  "geometry": {"coordinates":[-75.38494799999999,38.692345],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873479251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.574756,39.760068,-75.574756,39.760068",
+    "geom:latitude":39.760068,
+    "geom:longitude":-75.574756,
+    "iso:country":"US",
+    "sg:address":"2401 Pennsylvania Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 2297",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Smx76ZYO850Sy5eUfohR3_39.760068_-75.574756@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222075,
+    "wof:geomhash":"f8dd170e8f683a3bd7e3d10baf44cd79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873479251
+        }
+    ],
+    "wof:id":873479251,
+    "wof:lastmodified":1464222075,
+    "wof:name":"Brown Family Dentisty",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.574756,
+    39.760068,
+    -75.574756,
+    39.760068
+],
+  "geometry": {"coordinates":[-75.57475599999999,39.760068],"type":"Point"}
+}

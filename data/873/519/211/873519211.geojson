@@ -1,0 +1,76 @@
+{
+  "id": 873519211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.659973,39.76593,-75.659973,39.76593",
+    "geom:latitude":39.76593,
+    "geom:longitude":-75.659973,
+    "iso:country":"US",
+    "sg:address":"125 Westgate Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 234 4433",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Coo5uRHKndaqS0bGfrfTg_39.765930_-75.659973@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223843,
+    "wof:geomhash":"ae8088255c9248eb4716b5e9a23c49ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873519211
+        }
+    ],
+    "wof:id":873519211,
+    "wof:lastmodified":1464223843,
+    "wof:name":"Kelly Spinelli Real Estat",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.659973,
+    39.76593,
+    -75.659973,
+    39.76593
+],
+  "geometry": {"coordinates":[-75.65997299999999,39.76593],"type":"Point"}
+}

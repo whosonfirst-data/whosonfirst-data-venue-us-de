@@ -1,0 +1,71 @@
+{
+  "id": 873485373,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.385458,38.693042,-75.385458,38.693042",
+    "geom:latitude":38.693042,
+    "geom:longitude":-75.385458,
+    "iso:country":"US",
+    "sg:address":"140 Layton Ave",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 5750",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "gallery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1QxTlOQhA75Pb9pSLZS5hT_38.693042_-75.385458@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222320,
+    "wof:geomhash":"73c77daddd715cf1475f90261109772f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873485373
+        }
+    ],
+    "wof:id":873485373,
+    "wof:lastmodified":1464222320,
+    "wof:name":"Historic Georgetown Associatio",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "gallery"
+    ]
+},
+  "bbox": [
+    -75.385458,
+    38.693042,
+    -75.385458,
+    38.693042
+],
+  "geometry": {"coordinates":[-75.385458,38.693042],"type":"Point"}
+}

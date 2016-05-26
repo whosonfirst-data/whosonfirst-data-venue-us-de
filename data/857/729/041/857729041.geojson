@@ -1,0 +1,73 @@
+{
+  "id": 857729041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.747396,39.682083,-75.747396,39.682083",
+    "geom:latitude":39.682083,
+    "geom:longitude":-75.747396,
+    "iso:country":"US",
+    "sg:address":"116 Haines St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 4400",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2np5XCdZpeUtaCxQ5PMdrg_39.682083_-75.747396@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221416,
+    "wof:geomhash":"28c7dc593ea765b236094d373d469e74",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":857729041
+        }
+    ],
+    "wof:id":857729041,
+    "wof:lastmodified":1464221416,
+    "wof:name":"Community Service Corp",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.747396,
+    39.682083,
+    -75.747396,
+    39.682083
+],
+  "geometry": {"coordinates":[-75.74739599999999,39.682083],"type":"Point"}
+}

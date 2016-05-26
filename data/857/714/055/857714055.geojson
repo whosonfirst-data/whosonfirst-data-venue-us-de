@@ -1,0 +1,72 @@
+{
+  "id": 857714055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.524114,39.143958,-75.524114,39.143958",
+    "geom:latitude":39.143958,
+    "geom:longitude":-75.524114,
+    "iso:country":"US",
+    "sg:address":"1095 S Bradford St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 2000",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "sg:website":"www.drminc.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7EvKnAjhUwPKbsWhnjLQdi_39.143958_-75.524114@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221131,
+    "wof:geomhash":"2932a4f52ffbff9c9f6c0d53ce18a482",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":857714055
+        }
+    ],
+    "wof:id":857714055,
+    "wof:lastmodified":1464221131,
+    "wof:name":"Kent Community Health Ctr",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.524114,
+    39.143958,
+    -75.524114,
+    39.143958
+],
+  "geometry": {"coordinates":[-75.524114,39.143958],"type":"Point"}
+}

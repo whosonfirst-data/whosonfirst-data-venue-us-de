@@ -1,0 +1,72 @@
+{
+  "id": 873469693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571328,39.660025,-75.571328,39.660025",
+    "geom:latitude":39.660025,
+    "geom:longitude":-75.571328,
+    "iso:country":"US",
+    "sg:address":"427 W 7th St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 323 3025",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "renting",
+        "automobile"
+    ],
+    "sg:website":"www.avhrentacar.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09Ril1rRlyOIuR7qHywJIc_39.660025_-75.571328@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221718,
+    "wof:geomhash":"b45da4868516ef16fc3d8be81559c19f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873469693
+        }
+    ],
+    "wof:id":873469693,
+    "wof:lastmodified":1464221718,
+    "wof:name":"AVH Rent-A-Car",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "renting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.571328,
+    39.660025,
+    -75.571328,
+    39.660025
+],
+  "geometry": {"coordinates":[-75.57132799999999,39.660025],"type":"Point"}
+}

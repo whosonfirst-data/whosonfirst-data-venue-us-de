@@ -1,0 +1,73 @@
+{
+  "id": 873507349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625701,39.73704,-75.625701,39.73704",
+    "geom:latitude":39.73704,
+    "geom:longitude":-75.625701,
+    "iso:country":"US",
+    "sg:address":"3228 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6995",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_39VPBPwygr4u1rQcRq2w54_39.737040_-75.625701@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223251,
+    "wof:geomhash":"fbf6c3490227cea70e3eb65ffcc202bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873507349
+        }
+    ],
+    "wof:id":873507349,
+    "wof:lastmodified":1464223251,
+    "wof:name":"Radio Shack",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "electronic",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.625701,
+    39.73704,
+    -75.625701,
+    39.73704
+],
+  "geometry": {"coordinates":[-75.62570100000001,39.73704],"type":"Point"}
+}

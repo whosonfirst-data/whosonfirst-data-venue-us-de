@@ -1,0 +1,71 @@
+{
+  "id": 857727993,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578261,38.453195,-75.578261,38.453195",
+    "geom:latitude":38.453195,
+    "geom:longitude":-75.578261,
+    "iso:country":"US",
+    "sg:address":"4 E Chestnut St",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 4200",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1JSdFDY7L2qLPOE6Ds2M6X_38.453195_-75.578261@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221396,
+    "wof:geomhash":"a9124b57cba54aa586b1ed746a3b6cd9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":857727993
+        }
+    ],
+    "wof:id":857727993,
+    "wof:lastmodified":1464221396,
+    "wof:name":"Donna N Jacobs DDS",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.578261,
+    38.453195,
+    -75.578261,
+    38.453195
+],
+  "geometry": {"coordinates":[-75.578261,38.453195],"type":"Point"}
+}

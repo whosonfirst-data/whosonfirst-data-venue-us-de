@@ -1,0 +1,73 @@
+{
+  "id": 857726653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598779,39.740342,-75.598779,39.740342",
+    "geom:latitude":39.740342,
+    "geom:longitude":-75.598779,
+    "iso:country":"US",
+    "sg:address":"1 Sanders Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7650",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alcoholic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ixeAySaX8YjTJc033Ljis_39.740342_-75.598779@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221372,
+    "wof:geomhash":"1fe0b636569fcde51b0a9c40620cf122",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":857726653
+        }
+    ],
+    "wof:id":857726653,
+    "wof:lastmodified":1464221372,
+    "wof:name":"Elsmere Liquors",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alcoholic"
+    ]
+},
+  "bbox": [
+    -75.598779,
+    39.740342,
+    -75.598779,
+    39.740342
+],
+  "geometry": {"coordinates":[-75.59877899999999,39.740342],"type":"Point"}
+}

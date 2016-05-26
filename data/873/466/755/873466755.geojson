@@ -1,0 +1,71 @@
+{
+  "id": 873466755,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.649451,39.72239,-75.649451,39.72239",
+    "geom:latitude":39.72239,
+    "geom:longitude":-75.649451,
+    "iso:country":"US",
+    "sg:address":"4409 Sharon Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 3830",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0XNeibiAnA8h5Mewfw8etu_39.722390_-75.649451@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221609,
+    "wof:geomhash":"a10286920d71374d74b67737b150e89c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873466755
+        }
+    ],
+    "wof:id":873466755,
+    "wof:lastmodified":1464221609,
+    "wof:name":"Mitchell Electric",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.649451,
+    39.72239,
+    -75.649451,
+    39.72239
+],
+  "geometry": {"coordinates":[-75.649451,39.72239],"type":"Point"}
+}

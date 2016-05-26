@@ -1,0 +1,77 @@
+{
+  "id": 873523941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.144165,38.50293,-75.144165,38.50293",
+    "geom:latitude":38.50293,
+    "geom:longitude":-75.144165,
+    "iso:country":"US",
+    "sg:address":"35484 Honeysuckle Rd",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 2379",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p3OFIhJM0qWQG5NjL3p2a_38.502930_-75.144165@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224038,
+    "wof:geomhash":"90f87b50993e62e4fe67860cc10abf54",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873523941
+        }
+    ],
+    "wof:id":873523941,
+    "wof:lastmodified":1464224038,
+    "wof:name":"Bennett Electric",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "electrician",
+        "contractors-commercial",
+        "electric"
+    ]
+},
+  "bbox": [
+    -75.144165,
+    38.50293,
+    -75.144165,
+    38.50293
+],
+  "geometry": {"coordinates":[-75.144165,38.50293],"type":"Point"}
+}

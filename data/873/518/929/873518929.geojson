@@ -1,0 +1,97 @@
+{
+  "id": 873518929,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.620168,39.732358,-75.620168,39.732358",
+    "geom:latitude":39.732358,
+    "geom:longitude":-75.620168,
+    "iso:country":"US",
+    "sg:address":"1302 Centerville Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Construction Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Hardware",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0523",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lawn",
+        "paint",
+        "equipment",
+        "part",
+        "plumbing",
+        "fixtures",
+        "store"
+    ],
+    "sg:website":"http://www.truevalue.com/paxinc",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_11fPlaq1T5hyYOykj463cB_39.732358_-75.620168@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223832,
+    "wof:geomhash":"122465cc1e70fb211be3c1191fe2f73d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518929
+        }
+    ],
+    "wof:id":873518929,
+    "wof:lastmodified":1464223832,
+    "wof:name":"True Value Hardware",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "paint",
+        "equipment",
+        "part",
+        "plumbing",
+        "fixtures",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.620168,
+    39.732358,
+    -75.620168,
+    39.732358
+],
+  "geometry": {"coordinates":[-75.62016800000001,39.732358],"type":"Point"}
+}

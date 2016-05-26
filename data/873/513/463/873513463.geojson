@@ -1,0 +1,74 @@
+{
+  "id": 873513463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589679,39.752994,-75.589679,39.752994",
+    "geom:latitude":39.752994,
+    "geom:longitude":-75.589679,
+    "iso:country":"US",
+    "sg:address":"3301 Lancaster Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/piedmont/67333-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 888 3030",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uj2CQRhbKN90HSmqjyTrw_39.752994_-75.589679@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223530,
+    "wof:geomhash":"c552b8a14e961c5648c36f78e298ab81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873513463
+        }
+    ],
+    "wof:id":873513463,
+    "wof:lastmodified":1464223530,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.589679,
+    39.752994,
+    -75.589679,
+    39.752994
+],
+  "geometry": {"coordinates":[-75.589679,39.752994],"type":"Point"}
+}

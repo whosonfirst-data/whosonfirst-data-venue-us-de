@@ -1,0 +1,92 @@
+{
+  "id": 873519627,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.519076,39.810573,-75.519076,39.810573",
+    "geom:latitude":39.810573,
+    "geom:longitude":-75.519076,
+    "iso:country":"US",
+    "sg:address":"2700 Silverside Rd Ste 3A",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 9878",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "ear",
+        "immunology",
+        "allergy",
+        "surgeons",
+        "otorhinolaryngology",
+        "nose",
+        "throat",
+        "surgeon",
+        "audiologists"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1IGWiChZrpkEdhe4SQLp50_39.810573_-75.519076@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223863,
+    "wof:geomhash":"b762fcd6fe442f94df8c10ebd430593c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873519627
+        }
+    ],
+    "wof:id":873519627,
+    "wof:lastmodified":1464223863,
+    "wof:name":"Ear Nose Throat and Allergy Associates Llc",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "ear",
+        "immunology",
+        "allergy",
+        "surgeons",
+        "otorhinolaryngology",
+        "nose",
+        "throat",
+        "surgeon",
+        "audiologists"
+    ]
+},
+  "bbox": [
+    -75.519076,
+    39.810573,
+    -75.519076,
+    39.810573
+],
+  "geometry": {"coordinates":[-75.519076,39.810573],"type":"Point"}
+}

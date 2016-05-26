@@ -1,0 +1,71 @@
+{
+  "id": 857726315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.691098,39.650361,-75.691098,39.650361",
+    "geom:latitude":39.650361,
+    "geom:longitude":-75.691098,
+    "iso:country":"US",
+    "sg:address":"12 Split Rail Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 1466",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Zvm6luFIvFrHHudk5uul0_39.650361_-75.691098@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221367,
+    "wof:geomhash":"bea3f050ea4c48520772c4f3d69c2c07",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857726315
+        }
+    ],
+    "wof:id":857726315,
+    "wof:lastmodified":1464221367,
+    "wof:name":"D & M Shell Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.691098,
+    39.650361,
+    -75.691098,
+    39.650361
+],
+  "geometry": {"coordinates":[-75.691098,39.650361],"type":"Point"}
+}

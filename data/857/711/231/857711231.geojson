@@ -1,0 +1,71 @@
+{
+  "id": 857711231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.777341,39.604952,-75.777341,39.604952",
+    "geom:latitude":39.604952,
+    "geom:longitude":-75.777341,
+    "iso:country":"US",
+    "sg:address":"28 Chambord Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 9130",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6o2L2PbSPt7lCXiC52lajy_39.604952_-75.777341@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221055,
+    "wof:geomhash":"9b5d48e66e5d77b526d4d88f00c3fbaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857711231
+        }
+    ],
+    "wof:id":857711231,
+    "wof:lastmodified":1464221055,
+    "wof:name":"Briscoe Trucking Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.777341,
+    39.604952,
+    -75.777341,
+    39.604952
+],
+  "geometry": {"coordinates":[-75.77734100000001,39.604952],"type":"Point"}
+}

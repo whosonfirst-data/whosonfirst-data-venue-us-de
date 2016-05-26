@@ -1,0 +1,92 @@
+{
+  "id": 873523739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.633888,39.27705,-75.633888,39.27705",
+    "geom:latitude":39.27705,
+    "geom:longitude":-75.633888,
+    "iso:country":"US",
+    "sg:address":"49 Coldwater Dr",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 6537",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "system",
+        "specialty",
+        "builder",
+        "heating",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3L2hLsVzbVIfPMjmrkMszq_39.277050_-75.633888@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224030,
+    "wof:geomhash":"d8408f8f1ee4fc77b932b0a62ddd8ee1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873523739
+        }
+    ],
+    "wof:id":873523739,
+    "wof:lastmodified":1464224030,
+    "wof:name":"Benchmark Builders",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "system",
+        "specialty",
+        "builder",
+        "heating",
+        "contractor",
+        "contractors-commercial",
+        "home",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -75.633888,
+    39.27705,
+    -75.633888,
+    39.27705
+],
+  "geometry": {"coordinates":[-75.633888,39.27705],"type":"Point"}
+}

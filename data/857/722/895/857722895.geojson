@@ -1,0 +1,71 @@
+{
+  "id": 857722895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.387311,38.68889,-75.387311,38.68889",
+    "geom:latitude":38.68889,
+    "geom:longitude":-75.387311,
+    "iso:country":"US",
+    "sg:address":"101 W Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 3543",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dentist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vws0eMwn6G73pWWIh56DD_38.688890_-75.387311@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221304,
+    "wof:geomhash":"41fd3d0808fd435eff2a238c95525f50",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857722895
+        }
+    ],
+    "wof:id":857722895,
+    "wof:lastmodified":1464221304,
+    "wof:name":"Charles S Tjersland DDS",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dentist"
+    ]
+},
+  "bbox": [
+    -75.387311,
+    38.68889,
+    -75.387311,
+    38.68889
+],
+  "geometry": {"coordinates":[-75.387311,38.68889],"type":"Point"}
+}

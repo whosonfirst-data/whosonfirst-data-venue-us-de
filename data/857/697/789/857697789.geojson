@@ -1,0 +1,78 @@
+{
+  "id": 857697789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551264,39.160272,-75.551264,39.160272",
+    "geom:latitude":39.160272,
+    "geom:longitude":-75.551264,
+    "iso:country":"US",
+    "sg:address":"1205 Andrew Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 5757",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SfS1cDYnBWBWDLfULVYu5_39.160272_-75.551264@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220770,
+    "wof:geomhash":"e65a9346c87d85330574857fcd61e179",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":857697789
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":857697789
+        }
+    ],
+    "wof:id":857697789,
+    "wof:lastmodified":1464220770,
+    "wof:name":"Brotherhood of Railroad S",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.551264,
+    39.160272,
+    -75.551264,
+    39.160272
+],
+  "geometry": {"coordinates":[-75.551264,39.160272],"type":"Point"}
+}

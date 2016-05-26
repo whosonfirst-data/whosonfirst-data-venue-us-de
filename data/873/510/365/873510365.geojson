@@ -1,0 +1,68 @@
+{
+  "id": 873510365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.693154,39.742539,-75.693154,39.742539",
+    "geom:latitude":39.742539,
+    "geom:longitude":-75.693154,
+    "iso:country":"US",
+    "sg:address":"4701 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 1545",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1fuWWCZUrODpZ9kdQWJtgH_39.742539_-75.693154@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223391,
+    "wof:geomhash":"f796180b1a93c2718629cb2a89d772fa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":873510365
+        }
+    ],
+    "wof:id":873510365,
+    "wof:lastmodified":1464223391,
+    "wof:name":"ACES",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.693154,
+    39.742539,
+    -75.693154,
+    39.742539
+],
+  "geometry": {"coordinates":[-75.69315400000001,39.742539],"type":"Point"}
+}

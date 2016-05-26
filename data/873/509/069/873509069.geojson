@@ -1,0 +1,75 @@
+{
+  "id": 873509069,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540296,39.730413,-75.540296,39.730413",
+    "geom:latitude":39.730413,
+    "geom:longitude":-75.540296,
+    "iso:country":"US",
+    "sg:address":"200 Bradford St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 575 1970",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ncZt7CNroAOfhe2hLYNDN_39.730413_-75.540296@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223332,
+    "wof:geomhash":"048ac3406e8bf33adb6ac19e0cec5b34",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873509069
+        }
+    ],
+    "wof:id":873509069,
+    "wof:lastmodified":1464223332,
+    "wof:name":"J C Custom Auto",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.540296,
+    39.730413,
+    -75.540296,
+    39.730413
+],
+  "geometry": {"coordinates":[-75.540296,39.730413],"type":"Point"}
+}

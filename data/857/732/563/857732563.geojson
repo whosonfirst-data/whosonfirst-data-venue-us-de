@@ -1,0 +1,71 @@
+{
+  "id": 857732563,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.641264,39.715367,-75.641264,39.715367",
+    "geom:latitude":39.715367,
+    "geom:longitude":-75.641264,
+    "iso:country":"US",
+    "sg:address":"2130 W Newport Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 0390",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6aoORv5cHC7HIGAhB0ag7a_39.715367_-75.641264@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221494,
+    "wof:geomhash":"7849585016fd684e6d7ff71fd3844c4a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857732563
+        }
+    ],
+    "wof:id":857732563,
+    "wof:lastmodified":1464221494,
+    "wof:name":"Jamie's Auto Svc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.641264,
+    39.715367,
+    -75.641264,
+    39.715367
+],
+  "geometry": {"coordinates":[-75.64126400000001,39.715367],"type":"Point"}
+}

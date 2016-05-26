@@ -1,0 +1,71 @@
+{
+  "id": 873504649,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.622829,39.729041,-75.622829,39.729041",
+    "geom:latitude":39.729041,
+    "geom:longitude":-75.622829,
+    "iso:country":"US",
+    "sg:address":"1321 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 1860",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Nq58W9brqrjqzwwWrWgAD_39.729041_-75.622829@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223136,
+    "wof:geomhash":"ef4009d06e03a934858b5657a016561c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873504649
+        }
+    ],
+    "wof:id":873504649,
+    "wof:lastmodified":1464223136,
+    "wof:name":"Certified Automotive Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.622829,
+    39.729041,
+    -75.622829,
+    39.729041
+],
+  "geometry": {"coordinates":[-75.622829,39.729041],"type":"Point"}
+}

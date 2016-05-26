@@ -1,0 +1,73 @@
+{
+  "id": 857722197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.386426,38.691982,-75.386426,38.691982",
+    "geom:latitude":38.691982,
+    "geom:longitude":-75.386426,
+    "iso:country":"US",
+    "sg:address":"111 N Race St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2966",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "depository",
+        "banking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3ZmcBlgPKXHwjwww0pnM9m_38.691982_-75.386426@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221292,
+    "wof:geomhash":"2fc77766eeeaa3b79cd3fa78d928accd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857722197
+        }
+    ],
+    "wof:id":857722197,
+    "wof:lastmodified":1464221292,
+    "wof:name":"Service General",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "depository",
+        "banking"
+    ]
+},
+  "bbox": [
+    -75.386426,
+    38.691982,
+    -75.386426,
+    38.691982
+],
+  "geometry": {"coordinates":[-75.386426,38.691982],"type":"Point"}
+}

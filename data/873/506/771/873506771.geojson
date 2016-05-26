@@ -1,0 +1,71 @@
+{
+  "id": 873506771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.485651,39.197386,-75.485651,39.197386",
+    "geom:latitude":39.197386,
+    "geom:longitude":-75.485651,
+    "iso:country":"US",
+    "sg:address":"33 Deer St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 0563",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drywall"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2FHzoMARxIyuj79pl3KIj3_39.197386_-75.485651@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223229,
+    "wof:geomhash":"aab0208a10176ce13eb6d28df6b96d48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873506771
+        }
+    ],
+    "wof:id":873506771,
+    "wof:lastmodified":1464223229,
+    "wof:name":"Rescue Drywall",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drywall"
+    ]
+},
+  "bbox": [
+    -75.485651,
+    39.197386,
+    -75.485651,
+    39.197386
+],
+  "geometry": {"coordinates":[-75.485651,39.197386],"type":"Point"}
+}

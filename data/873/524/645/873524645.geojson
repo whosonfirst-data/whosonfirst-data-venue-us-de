@@ -1,0 +1,80 @@
+{
+  "id": 873524645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.364473,38.485426,-75.364473,38.485426",
+    "geom:latitude":38.485426,
+    "geom:longitude":-75.364473,
+    "iso:country":"US",
+    "sg:address":"36782 Millsboro Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Transit Center",
+            "subcategory":"Freight",
+            "type":"Transportation"
+        },
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 238 7707",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QRul7JBnslKJAEmVk75Cw_38.485426_-75.364473@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224065,
+    "wof:geomhash":"51e481d8096274fd4c3e0e8ec40c8a04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873524645
+        }
+    ],
+    "wof:id":873524645,
+    "wof:lastmodified":1464224065,
+    "wof:name":"Lynch Trucking",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "local",
+        "trucking-motor",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.364473,
+    38.485426,
+    -75.364473,
+    38.485426
+],
+  "geometry": {"coordinates":[-75.364473,38.485426],"type":"Point"}
+}

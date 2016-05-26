@@ -1,0 +1,73 @@
+{
+  "id": 857704325,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.652162,39.1302,-75.652162,39.1302",
+    "geom:latitude":39.1302,
+    "geom:longitude":-75.652162,
+    "iso:country":"US",
+    "sg:address":"2988 Bryants Corner Rd",
+    "sg:city":"Hartly",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 9177",
+    "sg:postcode":"19953",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7CkOvFb8fL2E8v9v21DbYq_39.130200_-75.652162@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220901,
+    "wof:geomhash":"741aaf3ecefdff326b3f7dcc7284507c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":857704325
+        }
+    ],
+    "wof:id":857704325,
+    "wof:lastmodified":1464220901,
+    "wof:name":"Durham Electric",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.652162,
+    39.1302,
+    -75.652162,
+    39.1302
+],
+  "geometry": {"coordinates":[-75.652162,39.1302],"type":"Point"}
+}

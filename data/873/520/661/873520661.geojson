@@ -1,0 +1,67 @@
+{
+  "id": 873520661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539398,39.188301,-75.539398,39.188301",
+    "geom:latitude":39.188301,
+    "geom:longitude":-75.539398,
+    "iso:country":"US",
+    "sg:address":"1091 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 3886",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:website":"www.tjmaxx.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3PJdYbOBZhPlJRAQY2CMbx_39.188301_-75.539398@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223912,
+    "wof:geomhash":"f8ec7247426c8d50d19c2749b71a9aa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873520661
+        }
+    ],
+    "wof:id":873520661,
+    "wof:lastmodified":1464223912,
+    "wof:name":"T J Maxx",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.539398,
+    39.188301,
+    -75.539398,
+    39.188301
+],
+  "geometry": {"coordinates":[-75.53939800000001,39.188301],"type":"Point"}
+}

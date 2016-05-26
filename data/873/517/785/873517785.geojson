@@ -1,0 +1,65 @@
+{
+  "id": 873517785,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548401,39.803902,-75.548401,39.803902",
+    "geom:latitude":39.803902,
+    "geom:longitude":-75.548401,
+    "iso:country":"US",
+    "sg:address":"3606 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 9544",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:website":"www.pier1.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XV8yGnUdDXtK5GtF0uBkJ_39.803902_-75.548401@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223780,
+    "wof:geomhash":"585364a594842efe99ccf2668e0e2658",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517785
+        }
+    ],
+    "wof:id":873517785,
+    "wof:lastmodified":1464223780,
+    "wof:name":"Pier 1 Imports",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.548401,
+    39.803902,
+    -75.548401,
+    39.803902
+],
+  "geometry": {"coordinates":[-75.548401,39.803902],"type":"Point"}
+}

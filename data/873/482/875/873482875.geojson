@@ -1,0 +1,78 @@
+{
+  "id": 873482875,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.674992,39.667897,-75.674992,39.667897",
+    "geom:latitude":39.667897,
+    "geom:longitude":-75.674992,
+    "iso:country":"US",
+    "sg:address":"260 Chapman Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Health Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 0100",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "surgical",
+        "plan",
+        "hospitalization"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_483rqrJfFM1gfGjzJ67btt_39.667897_-75.674992@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222225,
+    "wof:geomhash":"8abe21ab5dc1c42900f4bcf36d51d050",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873482875
+        }
+    ],
+    "wof:id":873482875,
+    "wof:lastmodified":1464222225,
+    "wof:name":"Health Insurance Associates",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "surgical",
+        "plan",
+        "hospitalization"
+    ]
+},
+  "bbox": [
+    -75.674992,
+    39.667897,
+    -75.674992,
+    39.667897
+],
+  "geometry": {"coordinates":[-75.674992,39.667897],"type":"Point"}
+}

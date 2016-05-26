@@ -1,0 +1,71 @@
+{
+  "id": 873520123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546799,39.809101,-75.546799,39.809101",
+    "geom:latitude":39.809101,
+    "geom:longitude":-75.546799,
+    "iso:country":"US",
+    "sg:address":"3622 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 9555",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "personal",
+        "injury"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5S5prBS9jipx5N9jwApMkd_39.809101_-75.546799@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223885,
+    "wof:geomhash":"9ca440f333c35f2f691006701c5957d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520123
+        }
+    ],
+    "wof:id":873520123,
+    "wof:lastmodified":1464223885,
+    "wof:name":"All About Personal Injury",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "injury"
+    ]
+},
+  "bbox": [
+    -75.546799,
+    39.809101,
+    -75.546799,
+    39.809101
+],
+  "geometry": {"coordinates":[-75.54679899999999,39.809101],"type":"Point"}
+}

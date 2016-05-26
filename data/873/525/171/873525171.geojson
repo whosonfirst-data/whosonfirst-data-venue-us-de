@@ -1,0 +1,81 @@
+{
+  "id": 873525171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.124346,38.46491,-75.124346,38.46491",
+    "geom:latitude":38.46491,
+    "geom:longitude":-75.124346,
+    "iso:country":"US",
+    "sg:address":"35139 Lighthouse Rd",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 9579",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ],
+    "sg:website":"http://clickserve.dartsearch.net/link/click?lid=43000000313870880&ds_s_kwgid=58000000006820725&ds_e_matchtype={MatchType}&ds_e_kwdid={OrderItemId}&ds_e_adid={AdId}&ds_url_v=2",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3HEzrUixkyUjsPYhnL5gLy_38.464910_-75.124346@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224086,
+    "wof:geomhash":"f1f609b9c37f79b79a0b9df8cecdcf3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525171
+        }
+    ],
+    "wof:id":873525171,
+    "wof:lastmodified":1464224086,
+    "wof:name":"Brasure's Auto Repair",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "part",
+        "truck"
+    ]
+},
+  "bbox": [
+    -75.124346,
+    38.46491,
+    -75.124346,
+    38.46491
+],
+  "geometry": {"coordinates":[-75.124346,38.46491],"type":"Point"}
+}

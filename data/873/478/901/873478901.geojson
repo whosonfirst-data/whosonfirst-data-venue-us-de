@@ -1,0 +1,71 @@
+{
+  "id": 873478901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573626,39.692269,-75.573626,39.692269",
+    "geom:latitude":39.692269,
+    "geom:longitude":-75.573626,
+    "iso:country":"US",
+    "sg:address":"70 Southgate Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 7660",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "paint",
+        "covering"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A13ETivmxknJR75ycpYDq_39.692269_-75.573626@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222056,
+    "wof:geomhash":"c9249f47671628095bb790fece52a981",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873478901
+        }
+    ],
+    "wof:id":873478901,
+    "wof:lastmodified":1464222056,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "covering"
+    ]
+},
+  "bbox": [
+    -75.573626,
+    39.692269,
+    -75.573626,
+    39.692269
+],
+  "geometry": {"coordinates":[-75.573626,39.692269],"type":"Point"}
+}

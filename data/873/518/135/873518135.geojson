@@ -1,0 +1,82 @@
+{
+  "id": 873518135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547234,39.820518,-75.547234,39.820518",
+    "geom:latitude":39.820518,
+    "geom:longitude":-75.547234,
+    "iso:country":"US",
+    "sg:address":"4737 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Beauty & Cosmetics",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Home Furnishings",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Skin Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5012",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "candle",
+        "perfume"
+    ],
+    "sg:website":"http://www.bathandbodyworks.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1xtdGBeaXxTEV6d4kB1Vqn_39.820518_-75.547234@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223800,
+    "wof:geomhash":"ce4012b2574d2b54134bf716bdb9aaa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873518135
+        }
+    ],
+    "wof:id":873518135,
+    "wof:lastmodified":1464223800,
+    "wof:name":"Bath and Body Works",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "candle",
+        "perfume"
+    ]
+},
+  "bbox": [
+    -75.547234,
+    39.820518,
+    -75.547234,
+    39.820518
+],
+  "geometry": {"coordinates":[-75.547234,39.820518],"type":"Point"}
+}

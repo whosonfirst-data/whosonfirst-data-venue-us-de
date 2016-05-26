@@ -1,0 +1,71 @@
+{
+  "id": 873522701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525318,39.143013,-75.525318,39.143013",
+    "geom:latitude":39.143013,
+    "geom:longitude":-75.525318,
+    "iso:country":"US",
+    "sg:address":"1015 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 4800",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jglgdqaNef0WaDt2wWwgI_39.143013_-75.525318@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223995,
+    "wof:geomhash":"c5285caddc31e0f01f9ca05f43846292",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873522701
+        }
+    ],
+    "wof:id":873522701,
+    "wof:lastmodified":1464223995,
+    "wof:name":"American Therapy & Rehabilitation",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.525318,
+    39.143013,
+    -75.525318,
+    39.143013
+],
+  "geometry": {"coordinates":[-75.525318,39.143013],"type":"Point"}
+}

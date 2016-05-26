@@ -1,0 +1,79 @@
+{
+  "id": 873516271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.779156,39.653911,-75.779156,39.653911",
+    "geom:latitude":39.653911,
+    "geom:longitude":-75.779156,
+    "iso:country":"US",
+    "sg:address":"119A Sandy Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Petroleum Products",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 0446",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lubricating",
+        "oil",
+        "lubricant"
+    ],
+    "sg:website":"http://www.sandybrae.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IrL3Whj5T5qM00k8tp8E5_39.653911_-75.779156@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223672,
+    "wof:geomhash":"3f59a0d2d03d617910632a13978c3fe2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873516271
+        }
+    ],
+    "wof:id":873516271,
+    "wof:lastmodified":1464223672,
+    "wof:name":"Sandy Brae Laboratories Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lubricating",
+        "oil",
+        "lubricant"
+    ]
+},
+  "bbox": [
+    -75.779156,
+    39.653911,
+    -75.779156,
+    39.653911
+],
+  "geometry": {"coordinates":[-75.779156,39.653911],"type":"Point"}
+}

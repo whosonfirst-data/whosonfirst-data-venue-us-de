@@ -1,0 +1,75 @@
+{
+  "id": 873489971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539953,39.170894,-75.539953,39.170894",
+    "geom:latitude":39.170894,
+    "geom:longitude":-75.539953,
+    "iso:country":"US",
+    "sg:address":"753 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7005",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1rb5v1AKGggTawwp57YxqM_39.170894_-75.539953@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222492,
+    "wof:geomhash":"07869d5e077264afb31177556fc1c57c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873489971
+        }
+    ],
+    "wof:id":873489971,
+    "wof:lastmodified":1464222492,
+    "wof:name":"Generations Home Care Inc",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -75.539953,
+    39.170894,
+    -75.539953,
+    39.170894
+],
+  "geometry": {"coordinates":[-75.539953,39.170894],"type":"Point"}
+}

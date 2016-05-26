@@ -1,0 +1,73 @@
+{
+  "id": 857702197,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515398,39.157673,-75.515398,39.157673",
+    "geom:latitude":39.157673,
+    "geom:longitude":-75.515398,
+    "iso:country":"US",
+    "sg:address":"455 Court St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 739 4498",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7UTlEOInTAs6sDHDEL6bLK_39.157673_-75.515398@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220863,
+    "wof:geomhash":"5e437c8a59ed7505a18b6d71e04c8279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":857702197
+        }
+    ],
+    "wof:id":857702197,
+    "wof:lastmodified":1464220863,
+    "wof:name":"Election Dept",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -75.515398,
+    39.157673,
+    -75.515398,
+    39.157673
+],
+  "geometry": {"coordinates":[-75.515398,39.157673],"type":"Point"}
+}

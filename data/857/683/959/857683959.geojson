@@ -1,0 +1,71 @@
+{
+  "id": 857683959,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.464544,39.008368,-75.464544,39.008368",
+    "geom:latitude":39.008368,
+    "geom:longitude":-75.464544,
+    "iso:country":"US",
+    "sg:address":"1424 Frederica Rd",
+    "sg:city":"Frederica",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 1737",
+    "sg:postcode":"19946",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hYK3swgC2H3ko1gMi650a_39.008368_-75.464544@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220498,
+    "wof:geomhash":"f5c99e98ed3ae0d79ddbc70362975a28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857683959
+        }
+    ],
+    "wof:id":857683959,
+    "wof:lastmodified":1464220498,
+    "wof:name":"Easy Auto",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.464544,
+    39.008368,
+    -75.464544,
+    39.008368
+],
+  "geometry": {"coordinates":[-75.464544,39.008368],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857683727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.670083,39.660763,-75.670083,39.660763",
+    "geom:latitude":39.660763,
+    "geom:longitude":-75.670083,
+    "iso:country":"US",
+    "sg:address":"71 Tiverton Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 0715",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "skilled"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uiKYfCVA3qtA7lnrnXAVE_39.660763_-75.670083@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220493,
+    "wof:geomhash":"2e2573f26bd5bf31f212b5ad5fa39000",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857683727
+        }
+    ],
+    "wof:id":857683727,
+    "wof:lastmodified":1464220493,
+    "wof:name":"CMC Nursing Specialty Ser",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "skilled"
+    ]
+},
+  "bbox": [
+    -75.670083,
+    39.660763,
+    -75.670083,
+    39.660763
+],
+  "geometry": {"coordinates":[-75.67008300000001,39.660763],"type":"Point"}
+}

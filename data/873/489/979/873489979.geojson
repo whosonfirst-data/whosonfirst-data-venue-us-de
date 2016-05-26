@@ -1,0 +1,69 @@
+{
+  "id": 873489979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.732369,39.683757,-75.732369,39.683757",
+    "geom:latitude":39.683757,
+    "geom:longitude":-75.732369,
+    "iso:country":"US",
+    "sg:address":"150 College Sq",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 4555",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_36yS7yIrKJOOp1NsmACZoi_39.683757_-75.732369@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222492,
+    "wof:geomhash":"5e027b131f4904f1889d022e046c442a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873489979
+        }
+    ],
+    "wof:id":873489979,
+    "wof:lastmodified":1464222492,
+    "wof:name":"College Square Cleaners",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.732369,
+    39.683757,
+    -75.732369,
+    39.683757
+],
+  "geometry": {"coordinates":[-75.73236900000001,39.683757],"type":"Point"}
+}

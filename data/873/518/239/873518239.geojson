@@ -1,0 +1,85 @@
+{
+  "id": 873518239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601502,39.713589,-75.601502,39.713589",
+    "geom:latitude":39.713589,
+    "geom:longitude":-75.601502,
+    "iso:country":"US",
+    "sg:address":"1612 East Ayre Street",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 3584",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "glass",
+        "coating",
+        "tinting",
+        "equipment",
+        "window"
+    ],
+    "sg:website":"http://www.cindysglasstinting.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M9dCBmx060FSWSzOmseNP_39.713589_-75.601502@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223804,
+    "wof:geomhash":"42da2b2d407a724d04eccbd9c187be22",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873518239
+        }
+    ],
+    "wof:id":873518239,
+    "wof:lastmodified":1464223804,
+    "wof:name":"Cindy's Glass Tinting",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "glass",
+        "coating",
+        "tinting",
+        "equipment",
+        "window"
+    ]
+},
+  "bbox": [
+    -75.601502,
+    39.713589,
+    -75.601502,
+    39.713589
+],
+  "geometry": {"coordinates":[-75.601502,39.713589],"type":"Point"}
+}

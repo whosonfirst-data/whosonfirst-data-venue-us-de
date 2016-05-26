@@ -1,0 +1,68 @@
+{
+  "id": 857711099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.534603,39.170694,-75.534603,39.170694",
+    "geom:latitude":39.170694,
+    "geom:longitude":-75.534603,
+    "iso:country":"US",
+    "sg:address":"602 Fairview Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3003",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04Fo2qeZZvBCUSOp6lbxJ1_39.170694_-75.534603@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221053,
+    "wof:geomhash":"18f6330705ae254274a1ea7d5281d836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":857711099
+        }
+    ],
+    "wof:id":857711099,
+    "wof:lastmodified":1464221053,
+    "wof:name":"Fairview Avenue Shoppe",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.534603,
+    39.170694,
+    -75.534603,
+    39.170694
+],
+  "geometry": {"coordinates":[-75.534603,39.170694],"type":"Point"}
+}

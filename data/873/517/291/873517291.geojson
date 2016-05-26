@@ -1,0 +1,84 @@
+{
+  "id": 873517291,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548981,39.807758,-75.548981,39.807758",
+    "geom:latitude":39.807758,
+    "geom:longitude":-75.548981,
+    "iso:country":"US",
+    "sg:address":"4001 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 6115",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "supply",
+        "stamp",
+        "hobby",
+        "model",
+        "coin"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pPsPp9EvmJBorbr4fMrTL_39.807758_-75.548981@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223747,
+    "wof:geomhash":"9f594360f03e199d1f3a982156a8a29d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517291
+        }
+    ],
+    "wof:id":873517291,
+    "wof:lastmodified":1464223747,
+    "wof:name":"Coin Gallery Of Delaware",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "supply",
+        "stamp",
+        "hobby",
+        "model",
+        "coin"
+    ]
+},
+  "bbox": [
+    -75.548981,
+    39.807758,
+    -75.548981,
+    39.807758
+],
+  "geometry": {"coordinates":[-75.548981,39.807758],"type":"Point"}
+}

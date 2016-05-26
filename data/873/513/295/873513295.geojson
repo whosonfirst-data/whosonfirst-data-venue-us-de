@@ -1,0 +1,74 @@
+{
+  "id": 873513295,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.665734,39.691155,-75.665734,39.691155",
+    "geom:latitude":39.691155,
+    "geom:longitude":-75.665734,
+    "iso:country":"US",
+    "sg:address":"1233 Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/246396-deerhead-hot-dogs/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 9333",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "hot",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6j7DeaL7b1CYbThFEUS3fQ_39.691155_-75.665734@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223524,
+    "wof:geomhash":"7a71d0e3e37d20c981559cc24edb6214",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513295
+        }
+    ],
+    "wof:id":873513295,
+    "wof:lastmodified":1464223524,
+    "wof:name":"Deerhead Hot Dogs",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -75.665734,
+    39.691155,
+    -75.665734,
+    39.691155
+],
+  "geometry": {"coordinates":[-75.665734,39.691155],"type":"Point"}
+}

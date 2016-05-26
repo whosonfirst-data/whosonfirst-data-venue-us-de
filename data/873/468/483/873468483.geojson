@@ -1,0 +1,68 @@
+{
+  "id": 873468483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56494,39.662717,-75.56494,39.662717",
+    "geom:latitude":39.662717,
+    "geom:longitude":-75.56494,
+    "iso:country":"US",
+    "sg:address":"521 Harmony St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 2335",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931555,
+        102083891,
+        85845649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3lk3UimUVg972BZAzdzTvZ_39.662717_-75.564940@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221669,
+    "wof:geomhash":"894ff2631c30c0424d8fa266617a8df3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931555,
+            "neighbourhood_id":85845649,
+            "region_id":85688611,
+            "venue_id":873468483
+        }
+    ],
+    "wof:id":873468483,
+    "wof:lastmodified":1464221669,
+    "wof:name":"St Peters Church",
+    "wof:parent_id":85845649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.56494,
+    39.662717,
+    -75.56494,
+    39.662717
+],
+  "geometry": {"coordinates":[-75.56494000000001,39.662717],"type":"Point"}
+}

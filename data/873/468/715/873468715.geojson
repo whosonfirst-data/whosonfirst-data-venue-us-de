@@ -1,0 +1,71 @@
+{
+  "id": 873468715,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.386269,38.688026,-75.386269,38.688026",
+    "geom:latitude":38.688026,
+    "geom:longitude":-75.386269,
+    "iso:country":"US",
+    "sg:address":"103 W Pine St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Professional Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 1555",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7ezvPgUERzoANUzjUdTZCS_38.688026_-75.386269@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221677,
+    "wof:geomhash":"31b13a55a2751a6ad5111430253b18c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873468715
+        }
+    ],
+    "wof:id":873468715,
+    "wof:lastmodified":1464221677,
+    "wof:name":"Small Business Development Ctr",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "business"
+    ]
+},
+  "bbox": [
+    -75.386269,
+    38.688026,
+    -75.386269,
+    38.688026
+],
+  "geometry": {"coordinates":[-75.386269,38.688026],"type":"Point"}
+}

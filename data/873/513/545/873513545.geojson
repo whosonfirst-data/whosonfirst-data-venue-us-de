@@ -1,0 +1,70 @@
+{
+  "id": 873513545,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.649737,39.728101,-75.649737,39.728101",
+    "geom:latitude":39.728101,
+    "geom:longitude":-75.649737,
+    "iso:country":"US",
+    "sg:address":"4302 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/207431-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 3808",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HpXUuMrwBB1HbpTcM7Xkc_39.728101_-75.649737@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223536,
+    "wof:geomhash":"9f85dadd24583e944f61b818705dd0b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873513545
+        }
+    ],
+    "wof:id":873513545,
+    "wof:lastmodified":1464223536,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -75.649737,
+    39.728101,
+    -75.649737,
+    39.728101
+],
+  "geometry": {"coordinates":[-75.649737,39.728101],"type":"Point"}
+}

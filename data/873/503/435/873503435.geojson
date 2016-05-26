@@ -1,0 +1,71 @@
+{
+  "id": 873503435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.738749,39.590539,-75.738749,39.590539",
+    "geom:latitude":39.590539,
+    "geom:longitude":-75.738749,
+    "iso:country":"US",
+    "sg:address":"45 Anderson Ct",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 5912",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "center",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_13xSrPJdVYNjJdXPOU6lwZ_39.590539_-75.738749@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223080,
+    "wof:geomhash":"fd5cf00ec10f770e08712852a822be4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873503435
+        }
+    ],
+    "wof:id":873503435,
+    "wof:lastmodified":1464223080,
+    "wof:name":"CHRISt Foundation",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "center",
+        "community"
+    ]
+},
+  "bbox": [
+    -75.738749,
+    39.590539,
+    -75.738749,
+    39.590539
+],
+  "geometry": {"coordinates":[-75.738749,39.590539],"type":"Point"}
+}

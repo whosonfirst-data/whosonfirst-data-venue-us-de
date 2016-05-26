@@ -1,0 +1,74 @@
+{
+  "id": 873519805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526901,39.810699,-75.526901,39.810699",
+    "geom:latitude":39.810699,
+    "geom:longitude":-75.526901,
+    "iso:country":"US",
+    "sg:address":"3003 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 3876",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Ha2UZhrjET89Ik3apkvWH_39.810699_-75.526901@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223870,
+    "wof:geomhash":"e7cfe02b991ece0c5034a4b59ad881be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873519805
+        }
+    ],
+    "wof:id":873519805,
+    "wof:lastmodified":1464223870,
+    "wof:name":"Concordia Preschool",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.526901,
+    39.810699,
+    -75.526901,
+    39.810699
+],
+  "geometry": {"coordinates":[-75.526901,39.810699],"type":"Point"}
+}

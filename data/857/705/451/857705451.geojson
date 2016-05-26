@@ -1,0 +1,71 @@
+{
+  "id": 857705451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.629974,39.720255,-75.629974,39.720255",
+    "geom:latitude":39.720255,
+    "geom:longitude":-75.629974,
+    "iso:country":"US",
+    "sg:address":"111 Glen Berne Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 6511",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Om4n6q2GQxZHDgPGcP0og_39.720255_-75.629974@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220923,
+    "wof:geomhash":"5cf2a2a82d8995ae0d9ec273f7d9be90",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857705451
+        }
+    ],
+    "wof:id":857705451,
+    "wof:lastmodified":1464220923,
+    "wof:name":"Cosentino Construction",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.629974,
+    39.720255,
+    -75.629974,
+    39.720255
+],
+  "geometry": {"coordinates":[-75.629974,39.720255],"type":"Point"}
+}

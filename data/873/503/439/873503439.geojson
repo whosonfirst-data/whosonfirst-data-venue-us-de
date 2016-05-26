@@ -1,0 +1,71 @@
+{
+  "id": 873503439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.711313,39.719054,-75.711313,39.719054",
+    "geom:latitude":39.719054,
+    "geom:longitude":-75.711313,
+    "iso:country":"US",
+    "sg:address":"16 Polly Drummond Shpg Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 8245",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory",
+        "dental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7L8aJ89acequogrMkFzzOn_39.719054_-75.711313@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223080,
+    "wof:geomhash":"73a03813f2d9ed9e870ce03670c0be7f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873503439
+        }
+    ],
+    "wof:id":873503439,
+    "wof:lastmodified":1464223080,
+    "wof:name":"Bjorn Dental Lab",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory",
+        "dental"
+    ]
+},
+  "bbox": [
+    -75.711313,
+    39.719054,
+    -75.711313,
+    39.719054
+],
+  "geometry": {"coordinates":[-75.711313,39.719054],"type":"Point"}
+}

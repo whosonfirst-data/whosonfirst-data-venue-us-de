@@ -1,0 +1,74 @@
+{
+  "id": 873513267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.724276,39.6621,-75.724276,39.6621",
+    "geom:latitude":39.6621,
+    "geom:longitude":-75.724276,
+    "iso:country":"US",
+    "sg:address":"379 E Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/207427-taco-bell/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 9938",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65hOSww2rC6ukTGFx6LD70_39.662100_-75.724276@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223523,
+    "wof:geomhash":"7910d8c42481a6c868c9901bf615d265",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873513267
+        }
+    ],
+    "wof:id":873513267,
+    "wof:lastmodified":1464223523,
+    "wof:name":"Taco Bell",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -75.724276,
+    39.6621,
+    -75.724276,
+    39.6621
+],
+  "geometry": {"coordinates":[-75.724276,39.6621],"type":"Point"}
+}

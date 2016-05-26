@@ -1,0 +1,71 @@
+{
+  "id": 857698051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603071,39.040438,-75.603071,39.040438",
+    "geom:latitude":39.040438,
+    "geom:longitude":-75.603071,
+    "iso:country":"US",
+    "sg:address":"990 Berrytown Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 8798",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6nnFqruIsCgu5TTGkda261_39.040438_-75.603071@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220774,
+    "wof:geomhash":"9acc6ac1173f0e214e1b28c5e1ce4b1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857698051
+        }
+    ],
+    "wof:id":857698051,
+    "wof:lastmodified":1464220774,
+    "wof:name":"Stonewall Construction",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.603071,
+    39.040438,
+    -75.603071,
+    39.040438
+],
+  "geometry": {"coordinates":[-75.603071,39.040438],"type":"Point"}
+}

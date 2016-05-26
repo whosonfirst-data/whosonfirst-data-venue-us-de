@@ -1,0 +1,71 @@
+{
+  "id": 873520259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.487286,39.829571,-75.487286,39.829571",
+    "geom:latitude":39.829571,
+    "geom:longitude":-75.487286,
+    "iso:country":"US",
+    "sg:address":"2121 Wrexham Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 5494",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "card-merchant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6cEnWJ9vHfS2z2iMoGM9f8_39.829571_-75.487286@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223892,
+    "wof:geomhash":"41ab131e789d301e5e4e3080d729cb8b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873520259
+        }
+    ],
+    "wof:id":873520259,
+    "wof:lastmodified":1464223892,
+    "wof:name":"Advanced Payment Systems Inc.",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "card-merchant"
+    ]
+},
+  "bbox": [
+    -75.487286,
+    39.829571,
+    -75.487286,
+    39.829571
+],
+  "geometry": {"coordinates":[-75.487286,39.829571],"type":"Point"}
+}

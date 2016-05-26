@@ -1,0 +1,78 @@
+{
+  "id": 873525351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606788,39.306118,-75.606788,39.306118",
+    "geom:latitude":39.306118,
+    "geom:longitude":-75.606788,
+    "iso:country":"US",
+    "sg:address":"304 N Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Fast Food",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 9980",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "take"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yC2Cqp1g0w2NWMXGKQqk1_39.306118_-75.606788@1303262473"
+    },
+    "wof:country":"US",
+    "wof:created":1464224093,
+    "wof:geomhash":"197a7b1d7366500f7da3cf6091cc3779",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525351
+        }
+    ],
+    "wof:id":873525351,
+    "wof:lastmodified":1464224093,
+    "wof:name":"Smyrna Diner",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "take"
+    ]
+},
+  "bbox": [
+    -75.606788,
+    39.306118,
+    -75.606788,
+    39.306118
+],
+  "geometry": {"coordinates":[-75.60678799999999,39.306118],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873489581,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.641657,39.729511,-75.641657,39.729511",
+    "geom:latitude":39.729511,
+    "geom:longitude":-75.641657,
+    "iso:country":"US",
+    "sg:address":"1317 Chalet Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 0458",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eC3nxjOEZ6Wj4TZppqKkC_39.729511_-75.641657@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222478,
+    "wof:geomhash":"51dbb3f9bdd76b40aefb266a68b10b48",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873489581
+        }
+    ],
+    "wof:id":873489581,
+    "wof:lastmodified":1464222478,
+    "wof:name":"Tom Donewrights Tune Up/Repa",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.641657,
+    39.729511,
+    -75.641657,
+    39.729511
+],
+  "geometry": {"coordinates":[-75.641657,39.729511],"type":"Point"}
+}

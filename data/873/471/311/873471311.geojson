@@ -1,0 +1,71 @@
+{
+  "id": 873471311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602316,39.713458,-75.602316,39.713458",
+    "geom:latitude":39.713458,
+    "geom:longitude":-75.602316,
+    "iso:country":"US",
+    "sg:address":"1620 E Ayre St",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 9323",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zANIIYMu8HOcEiAQGugfz_39.713458_-75.602316@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221780,
+    "wof:geomhash":"5899ef9d9b522007b29443aa2dd028e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873471311
+        }
+    ],
+    "wof:id":873471311,
+    "wof:lastmodified":1464221780,
+    "wof:name":"Hammons & Jones Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.602316,
+    39.713458,
+    -75.602316,
+    39.713458
+],
+  "geometry": {"coordinates":[-75.602316,39.713458],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857714207,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.417823,38.932358,-75.417823,38.932358",
+    "geom:latitude":38.932358,
+    "geom:longitude":-75.417823,
+    "iso:country":"US",
+    "sg:address":"103 Russell Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 5496",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6andSMTe1vFq8j4TwPLMSP_38.932358_-75.417823@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221133,
+    "wof:geomhash":"84c4a5aa45f86b0abb6f4bc1102a4665",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857714207
+        }
+    ],
+    "wof:id":857714207,
+    "wof:lastmodified":1464221133,
+    "wof:name":"Allen Weiss MD",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.417823,
+    38.932358,
+    -75.417823,
+    38.932358
+],
+  "geometry": {"coordinates":[-75.417823,38.932358],"type":"Point"}
+}

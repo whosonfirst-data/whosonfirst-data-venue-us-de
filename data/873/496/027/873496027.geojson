@@ -1,0 +1,71 @@
+{
+  "id": 873496027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568787,39.661986,-75.568787,39.661986",
+    "geom:latitude":39.661986,
+    "geom:longitude":-75.568787,
+    "iso:country":"US",
+    "sg:address":"25 W 7th St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 325 9060",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7d7hGsFGhLdWewWOg2n7RH_39.661986_-75.568787@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222780,
+    "wof:geomhash":"74105b16fe484b9bf251d48e1ce35e9a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873496027
+        }
+    ],
+    "wof:id":873496027,
+    "wof:lastmodified":1464222780,
+    "wof:name":"Somasunder Padmalingam MD",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.568787,
+    39.661986,
+    -75.568787,
+    39.661986
+],
+  "geometry": {"coordinates":[-75.568787,39.661986],"type":"Point"}
+}

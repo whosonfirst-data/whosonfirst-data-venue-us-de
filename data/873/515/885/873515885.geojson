@@ -1,0 +1,84 @@
+{
+  "id": 873515885,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.741343,39.683988,-75.741343,39.683988",
+    "geom:latitude":39.683988,
+    "geom:longitude":-75.741343,
+    "iso:country":"US",
+    "sg:address":"290 E Main St #202",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 8505",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "auto",
+        "recreational",
+        "motorcycle",
+        "vehicle",
+        "marine",
+        "boat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1zgYmfBMH2a5PcIeISE0JP_39.683988_-75.741343@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223659,
+    "wof:geomhash":"b16151372166f11538f503158436369b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515885
+        }
+    ],
+    "wof:id":873515885,
+    "wof:lastmodified":1464223659,
+    "wof:name":"Ungerer Insurance",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "auto",
+        "recreational",
+        "motorcycle",
+        "vehicle",
+        "marine",
+        "boat"
+    ]
+},
+  "bbox": [
+    -75.741343,
+    39.683988,
+    -75.741343,
+    39.683988
+],
+  "geometry": {"coordinates":[-75.741343,39.683988],"type":"Point"}
+}

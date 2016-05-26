@@ -1,0 +1,72 @@
+{
+  "id": 873513053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.685171,39.706432,-75.685171,39.706432",
+    "geom:latitude":39.706432,
+    "geom:longitude":-75.685171,
+    "iso:country":"US",
+    "sg:address":"2628 Kirkwood Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/25134-taste-of-india/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 9483",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "indian",
+        "asian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LqKRZBWrucgKXio3WCguk_39.706432_-75.685171@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223515,
+    "wof:geomhash":"20501f1f3eeeccd4fc9c16cd08f70369",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873513053
+        }
+    ],
+    "wof:id":873513053,
+    "wof:lastmodified":1464223515,
+    "wof:name":"Taste of India",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "indian",
+        "asian"
+    ]
+},
+  "bbox": [
+    -75.685171,
+    39.706432,
+    -75.685171,
+    39.706432
+],
+  "geometry": {"coordinates":[-75.685171,39.706432],"type":"Point"}
+}

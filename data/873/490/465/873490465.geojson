@@ -1,0 +1,69 @@
+{
+  "id": 873490465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569666,39.736322,-75.569666,39.736322",
+    "geom:latitude":39.736322,
+    "geom:longitude":-75.569666,
+    "iso:country":"US",
+    "sg:address":"1104 Maryland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 2174",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:website":"www.wilmingtonbilliardcompany.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16knIFNCwC4p20R00giI9Y_39.736322_-75.569666@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222512,
+    "wof:geomhash":"6005deb1195815d73f71da9ce56c5981",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873490465
+        }
+    ],
+    "wof:id":873490465,
+    "wof:lastmodified":1464222512,
+    "wof:name":"Wilmington Billiard Co",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.569666,
+    39.736322,
+    -75.569666,
+    39.736322
+],
+  "geometry": {"coordinates":[-75.569666,39.736322],"type":"Point"}
+}

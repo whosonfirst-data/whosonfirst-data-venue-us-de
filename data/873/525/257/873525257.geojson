@@ -1,0 +1,89 @@
+{
+  "id": 873525257,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.586543,39.261991,-75.586543,39.261991",
+    "geom:latitude":39.261991,
+    "geom:longitude":-75.586543,
+    "iso:country":"US",
+    "sg:address":"3034 S Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Retirement Home",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 5085",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurses-home",
+        "convalescent",
+        "nursing",
+        "homes-skilled",
+        "facility"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40lXeUokek8fcPGkT3sbra_39.261991_-75.586543@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224089,
+    "wof:geomhash":"dc41db68092ffcddb2fbdfaf6191c2e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525257
+        }
+    ],
+    "wof:id":873525257,
+    "wof:lastmodified":1464224089,
+    "wof:name":"Green Valley Pavilion",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurses-home",
+        "convalescent",
+        "nursing",
+        "homes-skilled",
+        "facility"
+    ]
+},
+  "bbox": [
+    -75.586543,
+    39.261991,
+    -75.586543,
+    39.261991
+],
+  "geometry": {"coordinates":[-75.58654300000001,39.261991],"type":"Point"}
+}

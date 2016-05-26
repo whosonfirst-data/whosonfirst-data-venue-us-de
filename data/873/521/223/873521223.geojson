@@ -1,0 +1,68 @@
+{
+  "id": 873521223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515602,39.159901,-75.515602,39.159901",
+    "geom:latitude":39.159901,
+    "geom:longitude":-75.515602,
+    "iso:country":"US",
+    "sg:address":"Bradford & Mary Sts",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5511",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1K9NNdJcnBmoxoBdM5WNub_39.159901_-75.515602@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223933,
+    "wof:geomhash":"777930fc4431493af20b2db14ff56be6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873521223
+        }
+    ],
+    "wof:id":873521223,
+    "wof:lastmodified":1464223933,
+    "wof:name":"Grocery Basket the",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.515602,
+    39.159901,
+    -75.515602,
+    39.159901
+],
+  "geometry": {"coordinates":[-75.515602,39.159901],"type":"Point"}
+}

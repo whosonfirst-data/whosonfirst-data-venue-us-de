@@ -1,0 +1,71 @@
+{
+  "id": 873500033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589637,39.747648,-75.589637,39.747648",
+    "geom:latitude":39.747648,
+    "geom:longitude":-75.589637,
+    "iso:country":"US",
+    "sg:address":"201 S Dupont Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5226",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eDFYDEniDa75GdVVQOMj8_39.747648_-75.589637@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222939,
+    "wof:geomhash":"6a2a5b1e99d55f40075cc6fded7cb7ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873500033
+        }
+    ],
+    "wof:id":873500033,
+    "wof:lastmodified":1464222939,
+    "wof:name":"Stanley Plumbing and Heating",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.589637,
+    39.747648,
+    -75.589637,
+    39.747648
+],
+  "geometry": {"coordinates":[-75.589637,39.747648],"type":"Point"}
+}

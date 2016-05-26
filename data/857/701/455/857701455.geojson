@@ -1,0 +1,71 @@
+{
+  "id": 857701455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541539,39.789998,-75.541539,39.789998",
+    "geom:latitude":39.789998,
+    "geom:longitude":-75.541539,
+    "iso:country":"US",
+    "sg:address":"1910 Thomas Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Retail Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 428 1002",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3mpe4ODfhxJAHREGPjmWHQ_39.789998_-75.541539@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220849,
+    "wof:geomhash":"3aec61f513a516b9a269452d4aea024c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":857701455
+        }
+    ],
+    "wof:id":857701455,
+    "wof:lastmodified":1464220849,
+    "wof:name":"Ontex Industries Inc",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.541539,
+    39.789998,
+    -75.541539,
+    39.789998
+],
+  "geometry": {"coordinates":[-75.541539,39.789998],"type":"Point"}
+}

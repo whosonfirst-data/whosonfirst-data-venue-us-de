@@ -1,0 +1,69 @@
+{
+  "id": 873467805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592157,39.758784,-75.592157,39.758784",
+    "geom:latitude":39.758784,
+    "geom:longitude":-75.592157,
+    "iso:country":"US",
+    "sg:address":"110 Dickinson Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 4142",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72gblCOObG6g2c69ZeBOkV_39.758784_-75.592157@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221646,
+    "wof:geomhash":"a6261ce7e07f50d3473dec3df3350a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873467805
+        }
+    ],
+    "wof:id":873467805,
+    "wof:lastmodified":1464221646,
+    "wof:name":"Warren S Stone Consulting",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.592157,
+    39.758784,
+    -75.592157,
+    39.758784
+],
+  "geometry": {"coordinates":[-75.592157,39.758784],"type":"Point"}
+}

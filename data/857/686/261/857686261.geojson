@@ -1,0 +1,73 @@
+{
+  "id": 857686261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.435564,38.973506,-75.435564,38.973506",
+    "geom:latitude":38.973506,
+    "geom:longitude":-75.435564,
+    "iso:country":"US",
+    "sg:address":"2152 Bay Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 3215",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "used",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2oElIE1cyHQ7cpXyFeWuUd_38.973506_-75.435564@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220544,
+    "wof:geomhash":"0875cfc625b8805cc8169571b1df774c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857686261
+        }
+    ],
+    "wof:id":857686261,
+    "wof:lastmodified":1464220544,
+    "wof:name":"Stevens M V Auto Sales",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.435564,
+    38.973506,
+    -75.435564,
+    38.973506
+],
+  "geometry": {"coordinates":[-75.435564,38.973506],"type":"Point"}
+}

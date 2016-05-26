@@ -1,0 +1,71 @@
+{
+  "id": 873489743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.485324,39.783358,-75.485324,39.783358",
+    "geom:latitude":39.783358,
+    "geom:longitude":-75.485324,
+    "iso:country":"US",
+    "sg:address":"1202 Harrison Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Electronics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 5360",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "semiconductor",
+        "devices"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WZysVY4bc4oIqDkENhIFM_39.783358_-75.485324@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222484,
+    "wof:geomhash":"8fede37e60ee852404547a4725c7063b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":873489743
+        }
+    ],
+    "wof:id":873489743,
+    "wof:lastmodified":1464222484,
+    "wof:name":"Thermoelectrics Unlimited Inc",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "semiconductor",
+        "devices"
+    ]
+},
+  "bbox": [
+    -75.485324,
+    39.783358,
+    -75.485324,
+    39.783358
+],
+  "geometry": {"coordinates":[-75.48532400000001,39.783358],"type":"Point"}
+}

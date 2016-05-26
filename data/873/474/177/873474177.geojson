@@ -1,0 +1,69 @@
+{
+  "id": 873474177,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.618118,39.823687,-75.618118,39.823687",
+    "geom:latitude":39.823687,
+    "geom:longitude":-75.618118,
+    "iso:country":"US",
+    "sg:address":"5808 Kennett Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 425 5808",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85808577,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1csvhHDiTJWv4DKntYGPHf_39.823687_-75.618118@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221887,
+    "wof:geomhash":"a4ba0843937448b5b79ac145066a559c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85808577,
+            "region_id":85688611,
+            "venue_id":873474177
+        }
+    ],
+    "wof:id":873474177,
+    "wof:lastmodified":1464221887,
+    "wof:name":"Montrachet Fine Foods",
+    "wof:parent_id":85808577,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product"
+    ]
+},
+  "bbox": [
+    -75.618118,
+    39.823687,
+    -75.618118,
+    39.823687
+],
+  "geometry": {"coordinates":[-75.618118,39.823687],"type":"Point"}
+}

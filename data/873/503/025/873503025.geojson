@@ -1,0 +1,71 @@
+{
+  "id": 873503025,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.584824,39.750999,-75.584824,39.750999",
+    "geom:latitude":39.750999,
+    "geom:longitude":-75.584824,
+    "iso:country":"US",
+    "sg:address":"2901 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 888 2070",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "temp",
+        "labor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fJ8VhVDipjsOeKR8rTfUn_39.750999_-75.584824@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223066,
+    "wof:geomhash":"27d5e1e180494a0c051377a233c83a10",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873503025
+        }
+    ],
+    "wof:id":873503025,
+    "wof:lastmodified":1464223066,
+    "wof:name":"Labor Ready",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "temp",
+        "labor"
+    ]
+},
+  "bbox": [
+    -75.584824,
+    39.750999,
+    -75.584824,
+    39.750999
+],
+  "geometry": {"coordinates":[-75.584824,39.750999],"type":"Point"}
+}

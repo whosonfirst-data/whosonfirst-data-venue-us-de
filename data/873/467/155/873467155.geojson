@@ -1,0 +1,71 @@
+{
+  "id": 873467155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.151674,38.75417,-75.151674,38.75417",
+    "geom:latitude":38.75417,
+    "geom:longitude":-75.151674,
+    "iso:country":"US",
+    "sg:address":"62 Clay Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 5616",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_170AP3JYl0LCQIlPtyZ40P_38.754170_-75.151674@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221623,
+    "wof:geomhash":"a927aeb39a85ef652a038a6783faceac",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873467155
+        }
+    ],
+    "wof:id":873467155,
+    "wof:lastmodified":1464221623,
+    "wof:name":"Soots Plumbing & Heating",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.151674,
+    38.75417,
+    -75.151674,
+    38.75417
+],
+  "geometry": {"coordinates":[-75.151674,38.75417],"type":"Point"}
+}

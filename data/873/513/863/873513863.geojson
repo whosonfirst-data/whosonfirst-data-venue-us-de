@@ -1,0 +1,74 @@
+{
+  "id": 873513863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.656452,39.633552,-75.656452,39.633552",
+    "geom:latitude":39.633552,
+    "geom:longitude":-75.656452,
+    "iso:country":"US",
+    "sg:address":"200 Eden Cir",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/169466-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 1686",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3CJFR84j04rLm8FFZ5QUCJ_39.633464_-75.656861@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223552,
+    "wof:geomhash":"71b03bc11a4780445e66ccdd7d26342f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513863
+        }
+    ],
+    "wof:id":873513863,
+    "wof:lastmodified":1464223552,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -75.656452,
+    39.633552,
+    -75.656452,
+    39.633552
+],
+  "geometry": {"coordinates":[-75.656452,39.633552],"type":"Point"}
+}

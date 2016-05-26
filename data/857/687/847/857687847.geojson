@@ -1,0 +1,76 @@
+{
+  "id": 857687847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5493,39.806488,-75.5493,39.806488",
+    "geom:latitude":39.806488,
+    "geom:longitude":-75.5493,
+    "iso:country":"US",
+    "sg:address":"3705 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5011",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZF96EJrOBOzrk2shwBZMN_39.806488_-75.549300@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220575,
+    "wof:geomhash":"c0e27c9ddafd204a5e25b69c3277c37d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857687847
+        }
+    ],
+    "wof:id":857687847,
+    "wof:lastmodified":1464220575,
+    "wof:name":"Perfect Care Nurses Inc",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "care"
+    ]
+},
+  "bbox": [
+    -75.5493,
+    39.806488,
+    -75.5493,
+    39.806488
+],
+  "geometry": {"coordinates":[-75.5493,39.806488],"type":"Point"}
+}

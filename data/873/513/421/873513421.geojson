@@ -1,0 +1,70 @@
+{
+  "id": 873513421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549764,39.818085,-75.549764,39.818085",
+    "geom:latitude":39.818085,
+    "geom:longitude":-75.549764,
+    "iso:country":"US",
+    "sg:address":"301 Rocky Run Pkwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/75350-tgi-fridays/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 7170",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56UHnMfMp0bYMxxz40qUa2_39.818085_-75.549764@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223528,
+    "wof:geomhash":"1a077c967ff4f2f177de6271c135a1ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873513421
+        }
+    ],
+    "wof:id":873513421,
+    "wof:lastmodified":1464223528,
+    "wof:name":"T.G.I. Friday's",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.549764,
+    39.818085,
+    -75.549764,
+    39.818085
+],
+  "geometry": {"coordinates":[-75.549764,39.818085],"type":"Point"}
+}

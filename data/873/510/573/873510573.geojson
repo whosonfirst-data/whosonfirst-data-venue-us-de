@@ -1,0 +1,73 @@
+{
+  "id": 873510573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.753164,39.61581,-75.753164,39.61581",
+    "geom:latitude":39.61581,
+    "geom:longitude":-75.753164,
+    "iso:country":"US",
+    "sg:address":"220 Lake Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 0852",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16ul7eOJZw0kfnD4b495fZ_39.615810_-75.753164@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223404,
+    "wof:geomhash":"4b16939597f08b784952fe10181e3daa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873510573
+        }
+    ],
+    "wof:id":873510573,
+    "wof:lastmodified":1464223404,
+    "wof:name":"Sardo & Sons Warehousing Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "self",
+        "storage"
+    ]
+},
+  "bbox": [
+    -75.753164,
+    39.61581,
+    -75.753164,
+    39.61581
+],
+  "geometry": {"coordinates":[-75.753164,39.61581],"type":"Point"}
+}

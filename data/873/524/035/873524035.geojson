@@ -1,0 +1,78 @@
+{
+  "id": 873524035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.376129,38.671833,-75.376129,38.671833",
+    "geom:latitude":38.671833,
+    "geom:longitude":-75.376129,
+    "iso:country":"US",
+    "sg:address":"536 S Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 9600",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale"
+    ],
+    "sg:website":"http://www.bedfordstreetmotors.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kLRjRraWm3sOdseGVPVhj_38.671833_-75.376129@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224041,
+    "wof:geomhash":"edc71c37b367e9e767b8f585d0c4dac6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524035
+        }
+    ],
+    "wof:id":873524035,
+    "wof:lastmodified":1464224041,
+    "wof:name":"Bedford Street Motors",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealers-used",
+        "car",
+        "used",
+        "cars-wholesale"
+    ]
+},
+  "bbox": [
+    -75.376129,
+    38.671833,
+    -75.376129,
+    38.671833
+],
+  "geometry": {"coordinates":[-75.37612900000001,38.671833],"type":"Point"}
+}

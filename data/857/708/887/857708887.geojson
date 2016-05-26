@@ -1,0 +1,71 @@
+{
+  "id": 857708887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.651741,39.758289,-75.651741,39.758289",
+    "geom:latitude":39.758289,
+    "geom:longitude":-75.651741,
+    "iso:country":"US",
+    "sg:address":"2 Kingsridge Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 0450",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2dQmCTSIYXfoSnoAlHeynS_39.758289_-75.651741@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220997,
+    "wof:geomhash":"38c389d42357a4c6412db23c381efc5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857708887
+        }
+    ],
+    "wof:id":857708887,
+    "wof:lastmodified":1464220997,
+    "wof:name":"G&G Farms LP",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.651741,
+    39.758289,
+    -75.651741,
+    39.758289
+],
+  "geometry": {"coordinates":[-75.651741,39.758289],"type":"Point"}
+}

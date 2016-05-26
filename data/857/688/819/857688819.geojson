@@ -1,0 +1,73 @@
+{
+  "id": 857688819,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549172,39.809127,-75.549172,39.809127",
+    "geom:latitude":39.809127,
+    "geom:longitude":-75.549172,
+    "iso:country":"US",
+    "sg:address":"3608 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1296",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PecHq4v94YsJTuejA7WEn_39.809127_-75.549172@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220596,
+    "wof:geomhash":"772e2d8538a340b6656281e48e9a41c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857688819
+        }
+    ],
+    "wof:id":857688819,
+    "wof:lastmodified":1464220596,
+    "wof:name":"D & D Installations",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "floor",
+        "laying",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.549172,
+    39.809127,
+    -75.549172,
+    39.809127
+],
+  "geometry": {"coordinates":[-75.549172,39.809127],"type":"Point"}
+}

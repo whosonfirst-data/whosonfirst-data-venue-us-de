@@ -1,0 +1,71 @@
+{
+  "id": 857704469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.647015,39.154325,-75.647015,39.154325",
+    "geom:latitude":39.154325,
+    "geom:longitude":-75.647015,
+    "iso:country":"US",
+    "sg:address":"5782 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 8878",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "supermarket"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pscMkr3DtdQ7M7xmpeLxQ_39.154325_-75.647015@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220903,
+    "wof:geomhash":"659b3349e7165a81915c654c3a0775ae",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":857704469
+        }
+    ],
+    "wof:id":857704469,
+    "wof:lastmodified":1464220903,
+    "wof:name":"Pearsons Supermarket Inc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supermarket"
+    ]
+},
+  "bbox": [
+    -75.647015,
+    39.154325,
+    -75.647015,
+    39.154325
+],
+  "geometry": {"coordinates":[-75.647015,39.154325],"type":"Point"}
+}

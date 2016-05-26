@@ -1,0 +1,71 @@
+{
+  "id": 857692805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626791,39.738799,-75.626791,39.738799",
+    "geom:latitude":39.738799,
+    "geom:longitude":-75.626791,
+    "iso:country":"US",
+    "sg:address":"107 Greenbank Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1707",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ftbEHYtnfKZfnOPdxDsuU_39.738799_-75.626791@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220677,
+    "wof:geomhash":"f0681d09b0d9e26d8d63d48c096541f4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857692805
+        }
+    ],
+    "wof:id":857692805,
+    "wof:lastmodified":1464220677,
+    "wof:name":"Greenbank Aquarium Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.626791,
+    39.738799,
+    -75.626791,
+    39.738799
+],
+  "geometry": {"coordinates":[-75.626791,39.738799],"type":"Point"}
+}

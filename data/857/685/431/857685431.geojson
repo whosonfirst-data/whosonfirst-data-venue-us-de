@@ -1,0 +1,85 @@
+{
+  "id": 857685431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563043,39.160133,-75.563043,39.160133",
+    "geom:latitude":39.160133,
+    "geom:longitude":-75.563043,
+    "iso:country":"US",
+    "sg:address":"74 Par Haven Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 8475",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mail",
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85823075,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gz4DTfUvFmpYiRHN67phz_39.160133_-75.563043@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220529,
+    "wof:geomhash":"48923fa5fdb29375dfef5d50bf1a6094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85823075,
+            "region_id":85688611,
+            "venue_id":857685431
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":857685431
+        }
+    ],
+    "wof:id":857685431,
+    "wof:lastmodified":1464220529,
+    "wof:name":"Vista Scan Co LLC",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "house"
+    ]
+},
+  "bbox": [
+    -75.563043,
+    39.160133,
+    -75.563043,
+    39.160133
+],
+  "geometry": {"coordinates":[-75.56304299999999,39.160133],"type":"Point"}
+}

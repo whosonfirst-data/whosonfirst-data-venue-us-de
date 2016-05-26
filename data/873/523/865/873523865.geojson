@@ -1,0 +1,85 @@
+{
+  "id": 873523865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.600541,39.017964,-75.600541,39.017964",
+    "geom:latitude":39.017964,
+    "geom:longitude":-75.600541,
+    "iso:country":"US",
+    "sg:address":"546 Berrytown Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Place Of Worship",
+            "subcategory":"Church",
+            "type":"Public Place"
+        },
+        {
+            "category":"Place Of Worship",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9019",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "churches-interdenominational",
+        "churches-non-denominational",
+        "churches-various",
+        "denomination"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7V3USlAWoUTMjSCCsbknwV_39.017964_-75.600541@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224034,
+    "wof:geomhash":"5796be6b81ea08278a8b2a52817d1dde",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873523865
+        }
+    ],
+    "wof:id":873523865,
+    "wof:lastmodified":1464224034,
+    "wof:name":"Healing Hands Christian Church",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "churches-interdenominational",
+        "churches-non-denominational",
+        "churches-various",
+        "denomination"
+    ]
+},
+  "bbox": [
+    -75.600541,
+    39.017964,
+    -75.600541,
+    39.017964
+],
+  "geometry": {"coordinates":[-75.60054100000001,39.017964],"type":"Point"}
+}

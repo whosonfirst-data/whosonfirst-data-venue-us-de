@@ -1,0 +1,71 @@
+{
+  "id": 873487941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.611534,39.643633,-75.611534,39.643633",
+    "geom:latitude":39.643633,
+    "geom:longitude":-75.611534,
+    "iso:country":"US",
+    "sg:address":"403 Sterling Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 1567",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "mail"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4YGtN6tjb40DHip3Kp9WaC_39.643633_-75.611534@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222420,
+    "wof:geomhash":"535155f13ccba1fe5ab782291a80e1da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873487941
+        }
+    ],
+    "wof:id":873487941,
+    "wof:lastmodified":1464222420,
+    "wof:name":"Wangar Ltd",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "mail"
+    ]
+},
+  "bbox": [
+    -75.611534,
+    39.643633,
+    -75.611534,
+    39.643633
+],
+  "geometry": {"coordinates":[-75.61153400000001,39.643633],"type":"Point"}
+}

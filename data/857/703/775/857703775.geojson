@@ -1,0 +1,69 @@
+{
+  "id": 857703775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.730953,39.598251,-75.730953,39.598251",
+    "geom:latitude":39.598251,
+    "geom:longitude":-75.730953,
+    "iso:country":"US",
+    "sg:address":"44 Clipper Ct",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 7523",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "locksmith"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7VQvxXWljYlwmUWyKpP3uB_39.598251_-75.730953@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220891,
+    "wof:geomhash":"f75186143e4cbd4fc87760c57f3b3e6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857703775
+        }
+    ],
+    "wof:id":857703775,
+    "wof:lastmodified":1464220891,
+    "wof:name":"G & R Flying Locksmith",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "locksmith"
+    ]
+},
+  "bbox": [
+    -75.730953,
+    39.598251,
+    -75.730953,
+    39.598251
+],
+  "geometry": {"coordinates":[-75.730953,39.598251],"type":"Point"}
+}

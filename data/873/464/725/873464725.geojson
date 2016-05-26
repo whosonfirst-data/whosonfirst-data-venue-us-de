@@ -1,0 +1,69 @@
+{
+  "id": 873464725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592909,38.636436,-75.592909,38.636436",
+    "geom:latitude":38.636436,
+    "geom:longitude":-75.592909,
+    "iso:country":"US",
+    "sg:address":"420 S Dual Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 3014",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1u4caoNz8kMNicspuhFl4z_38.636436_-75.592909@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221563,
+    "wof:geomhash":"5928401a5ef4a19cbc57642da6a136ef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873464725
+        }
+    ],
+    "wof:id":873464725,
+    "wof:lastmodified":1464221563,
+    "wof:name":"Seaford Motel",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation"
+    ]
+},
+  "bbox": [
+    -75.592909,
+    38.636436,
+    -75.592909,
+    38.636436
+],
+  "geometry": {"coordinates":[-75.59290900000001,38.636436],"type":"Point"}
+}

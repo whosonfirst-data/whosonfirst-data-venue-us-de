@@ -1,0 +1,73 @@
+{
+  "id": 873488345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.596329,39.693639,-75.596329,39.693639",
+    "geom:latitude":39.693639,
+    "geom:longitude":-75.596329,
+    "iso:country":"US",
+    "sg:address":"4 Nonesuch Pl",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Home Furnishings",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 8010",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "covering",
+        "floor",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Pl9VX6vUUxlYoUJR3Dedf_39.693639_-75.596329@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222435,
+    "wof:geomhash":"ddd54cd2881587d473a15673fcf47b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873488345
+        }
+    ],
+    "wof:id":873488345,
+    "wof:lastmodified":1464222435,
+    "wof:name":"General Floor",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "covering",
+        "floor",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.596329,
+    39.693639,
+    -75.596329,
+    39.693639
+],
+  "geometry": {"coordinates":[-75.596329,39.693639],"type":"Point"}
+}

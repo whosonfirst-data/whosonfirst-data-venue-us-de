@@ -1,0 +1,71 @@
+{
+  "id": 873492877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.608249,39.738331,-75.608249,39.738331",
+    "geom:latitude":39.738331,
+    "geom:longitude":-75.608249,
+    "iso:country":"US",
+    "sg:address":"1900 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Boat Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 3365",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dealer",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zjOhPxuPvOJd0daxqmR3W_39.738331_-75.608249@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222596,
+    "wof:geomhash":"062222ae956c3bfab708c0bc8f2d1df8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873492877
+        }
+    ],
+    "wof:id":873492877,
+    "wof:lastmodified":1464222596,
+    "wof:name":"Hilton Marine Supply Co",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dealer",
+        "sales"
+    ]
+},
+  "bbox": [
+    -75.608249,
+    39.738331,
+    -75.608249,
+    39.738331
+],
+  "geometry": {"coordinates":[-75.608249,39.738331],"type":"Point"}
+}

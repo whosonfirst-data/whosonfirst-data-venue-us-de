@@ -1,0 +1,73 @@
+{
+  "id": 857721815,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.337319,38.708132,-75.337319,38.708132",
+    "geom:latitude":38.708132,
+    "geom:longitude":-75.337319,
+    "iso:country":"US",
+    "sg:address":"24147 Lewes Georgetown Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 0870",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hOQXTFlcmEseRjV1iQtCO_38.708132_-75.337319@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221285,
+    "wof:geomhash":"c040b66f945dd2ad6b2355b0271fed5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857721815
+        }
+    ],
+    "wof:id":857721815,
+    "wof:lastmodified":1464221285,
+    "wof:name":"Rudy's Automotive Svc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.337319,
+    38.708132,
+    -75.337319,
+    38.708132
+],
+  "geometry": {"coordinates":[-75.33731899999999,38.708132],"type":"Point"}
+}

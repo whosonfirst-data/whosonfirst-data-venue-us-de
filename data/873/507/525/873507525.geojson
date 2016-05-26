@@ -1,0 +1,71 @@
+{
+  "id": 873507525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.659154,39.721149,-75.659154,39.721149",
+    "geom:latitude":39.721149,
+    "geom:longitude":-75.659154,
+    "iso:country":"US",
+    "sg:address":"2117 Ferguson Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 9426",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_48vup97V8eSQoZ3qVoPpio_39.721149_-75.659154@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223260,
+    "wof:geomhash":"aa5b8857593428d2bb093aed964be895",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873507525
+        }
+    ],
+    "wof:id":873507525,
+    "wof:lastmodified":1464223260,
+    "wof:name":"Water Doctors Intl Inc",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.659154,
+    39.721149,
+    -75.659154,
+    39.721149
+],
+  "geometry": {"coordinates":[-75.659154,39.721149],"type":"Point"}
+}

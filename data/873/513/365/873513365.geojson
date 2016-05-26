@@ -1,0 +1,76 @@
+{
+  "id": 873513365,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549788,39.746422,-75.549788,39.746422",
+    "geom:latitude":39.746422,
+    "geom:longitude":-75.549788,
+    "iso:country":"US",
+    "sg:address":"222 Delaware Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/wilmington/109732-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 0176",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7NCLm2yJI1tSbUkKd6bcKO_39.746422_-75.549788@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223526,
+    "wof:geomhash":"45fac9b3d6a6829f45b78e6411dd06a6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873513365
+        }
+    ],
+    "wof:id":873513365,
+    "wof:lastmodified":1464223526,
+    "wof:name":"Subway",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.549788,
+    39.746422,
+    -75.549788,
+    39.746422
+],
+  "geometry": {"coordinates":[-75.54978800000001,39.746422],"type":"Point"}
+}

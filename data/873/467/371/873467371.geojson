@@ -1,0 +1,69 @@
+{
+  "id": 873467371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605109,39.738591,-75.605109,39.738591",
+    "geom:latitude":39.738591,
+    "geom:longitude":-75.605109,
+    "iso:country":"US",
+    "sg:address":"1508 State Rd 2",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 428 1142",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6FnawNNsqwyszDeoVHU1Cs_39.738591_-75.605109@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221631,
+    "wof:geomhash":"6e0ef8b3ca7da8cd94b8d8cfcad3e936",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873467371
+        }
+    ],
+    "wof:id":873467371,
+    "wof:lastmodified":1464221631,
+    "wof:name":"Patricia H Purcell MD",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.605109,
+    39.738591,
+    -75.605109,
+    39.738591
+],
+  "geometry": {"coordinates":[-75.605109,39.738591],"type":"Point"}
+}

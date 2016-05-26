@@ -1,0 +1,69 @@
+{
+  "id": 873476167,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.659096,39.698647,-75.659096,39.698647",
+    "geom:latitude":39.698647,
+    "geom:longitude":-75.659096,
+    "iso:country":"US",
+    "sg:address":"4923 Ogletown-Stanton Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 0310",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MWEOJsRNksOMBnnYqO32K_39.698647_-75.659096@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221954,
+    "wof:geomhash":"2d1ed10808bb9cdda3149d88474eec16",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873476167
+        }
+    ],
+    "wof:id":873476167,
+    "wof:lastmodified":1464221954,
+    "wof:name":"Midatlantic Endoscopy Ctr LLC",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.659096,
+    39.698647,
+    -75.659096,
+    39.698647
+],
+  "geometry": {"coordinates":[-75.65909600000001,39.698647],"type":"Point"}
+}

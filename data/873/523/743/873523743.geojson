@@ -1,0 +1,73 @@
+{
+  "id": 873523743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634193,39.292332,-75.634193,39.292332",
+    "geom:latitude":39.292332,
+    "geom:longitude":-75.634193,
+    "iso:country":"US",
+    "sg:address":"301 East St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 5338",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "supply",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5TKc6POzFk56qY01hAR9YZ_39.292332_-75.634193@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224030,
+    "wof:geomhash":"ed73e24d4446cf587184ac76588eac0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873523743
+        }
+    ],
+    "wof:id":873523743,
+    "wof:lastmodified":1464224030,
+    "wof:name":"Edgement Stone & Supply Co",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.634193,
+    39.292332,
+    -75.634193,
+    39.292332
+],
+  "geometry": {"coordinates":[-75.634193,39.292332],"type":"Point"}
+}

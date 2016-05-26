@@ -1,0 +1,85 @@
+{
+  "id": 873514019,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.13832,38.775125,-75.13832,38.775125",
+    "geom:latitude":38.775125,
+    "geom:longitude":-75.13832,
+    "iso:country":"US",
+    "sg:address":"107 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lewes/164681-dairy-queen/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 9284",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931621,
+        102083887,
+        85822813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xfe2VJiSjDb34euwilL24_38.775282_-75.138041@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223562,
+    "wof:geomhash":"f3b65a8b888b4d4af358f007aed1c2e7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931621,
+            "neighbourhood_id":85822813,
+            "region_id":85688611,
+            "venue_id":873514019
+        }
+    ],
+    "wof:id":873514019,
+    "wof:lastmodified":1464223562,
+    "wof:name":"Dairy Queen",
+    "wof:parent_id":85822813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -75.13832,
+    38.775125,
+    -75.13832,
+    38.775125
+],
+  "geometry": {"coordinates":[-75.13831999999999,38.775125],"type":"Point"}
+}

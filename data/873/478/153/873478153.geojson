@@ -1,0 +1,73 @@
+{
+  "id": 873478153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634413,39.73519,-75.634413,39.73519",
+    "geom:latitude":39.73519,
+    "geom:longitude":-75.634413,
+    "iso:country":"US",
+    "sg:address":"3425 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 0533",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IFc8HTmqPx7Stab9nYpq3_39.735190_-75.634413@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222024,
+    "wof:geomhash":"17af7b8d3d83b729192dc0e71f606719",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873478153
+        }
+    ],
+    "wof:id":873478153,
+    "wof:lastmodified":1464222024,
+    "wof:name":"Midas Auto Svc Experts",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "system"
+    ]
+},
+  "bbox": [
+    -75.634413,
+    39.73519,
+    -75.634413,
+    39.73519
+],
+  "geometry": {"coordinates":[-75.634413,39.73519],"type":"Point"}
+}

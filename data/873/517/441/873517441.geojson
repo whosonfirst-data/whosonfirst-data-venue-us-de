@@ -1,0 +1,70 @@
+{
+  "id": 873517441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.50512,39.801546,-75.50512,39.801546",
+    "geom:latitude":39.801546,
+    "geom:longitude":-75.50512,
+    "iso:country":"US",
+    "sg:address":"1718 Marsh Rd.",
+    "sg:city":"Talleyville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 7200",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.riteaid.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5HgAZ9fJPiaKpFG0Rw2ock_39.801546_-75.505120@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223758,
+    "wof:geomhash":"e64384795031db16db80c1119b86888b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873517441
+        }
+    ],
+    "wof:id":873517441,
+    "wof:lastmodified":1464223758,
+    "wof:name":"Rite Aid Pharmacy",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.50512,
+    39.801546,
+    -75.50512,
+    39.801546
+],
+  "geometry": {"coordinates":[-75.50512000000001,39.801546],"type":"Point"}
+}

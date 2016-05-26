@@ -1,0 +1,73 @@
+{
+  "id": 857732455,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.53914,39.134816,-75.53914,39.134816",
+    "geom:latitude":39.134816,
+    "geom:longitude":-75.53914,
+    "iso:country":"US",
+    "sg:address":"384 Mockingbird Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 6622",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "testing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62cwlLNR1GOmpBuJs0iGHc_39.134816_-75.539140@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221492,
+    "wof:geomhash":"8b15e5262592a3823fb60d231010dc0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":857732455
+        }
+    ],
+    "wof:id":857732455,
+    "wof:lastmodified":1464221492,
+    "wof:name":"Eric Robinette",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "testing"
+    ]
+},
+  "bbox": [
+    -75.53914,
+    39.134816,
+    -75.53914,
+    39.134816
+],
+  "geometry": {"coordinates":[-75.53914,39.134816],"type":"Point"}
+}

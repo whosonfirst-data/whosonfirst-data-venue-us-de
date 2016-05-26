@@ -1,0 +1,72 @@
+{
+  "id": 873513637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.536572,39.186489,-75.536572,39.186489",
+    "geom:latitude":39.186489,
+    "geom:longitude":-75.536572,
+    "iso:country":"US",
+    "sg:address":"1001 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/115125-starbucks-coffee/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8370",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JPOm6bkqS1iVOtwzbgISu_39.186489_-75.536572@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223540,
+    "wof:geomhash":"fc14a3131407443c784bd9edd1f50587",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873513637
+        }
+    ],
+    "wof:id":873513637,
+    "wof:lastmodified":1464223540,
+    "wof:name":"Starbucks Coffee",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.536572,
+    39.186489,
+    -75.536572,
+    39.186489
+],
+  "geometry": {"coordinates":[-75.53657200000001,39.186489],"type":"Point"}
+}

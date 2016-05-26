@@ -1,0 +1,73 @@
+{
+  "id": 873474987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.761245,39.690743,-75.761245,39.690743",
+    "geom:latitude":39.690743,
+    "geom:longitude":-75.761245,
+    "iso:country":"US",
+    "sg:address":"335 New London Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 2494",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4KUoAkytAHdq5n3tP0b1sp_39.690743_-75.761245@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221914,
+    "wof:geomhash":"91b79d88217f23200bf0a7624018f5b7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873474987
+        }
+    ],
+    "wof:id":873474987,
+    "wof:lastmodified":1464221914,
+    "wof:name":"Empire Construction and Dev",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -75.761245,
+    39.690743,
+    -75.761245,
+    39.690743
+],
+  "geometry": {"coordinates":[-75.761245,39.690743],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 873523301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526299,39.139,-75.526299,39.139",
+    "geom:latitude":39.139,
+    "geom:longitude":-75.526299,
+    "iso:country":"US",
+    "sg:address":"1184 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 8070",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:website":"www.cookandsmith.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5s3SZJTOY95eQIO5uvK1fK_39.139000_-75.526299@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224015,
+    "wof:geomhash":"fc081c58376442ef3cc2e2b6dc94d67a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873523301
+        }
+    ],
+    "wof:id":873523301,
+    "wof:lastmodified":1464224015,
+    "wof:name":"Cook & Smith Florist",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.526299,
+    39.139,
+    -75.526299,
+    39.139
+],
+  "geometry": {"coordinates":[-75.52629899999999,39.139],"type":"Point"}
+}

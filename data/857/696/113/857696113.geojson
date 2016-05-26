@@ -1,0 +1,73 @@
+{
+  "id": 857696113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517589,39.026858,-75.517589,39.026858",
+    "geom:latitude":39.026858,
+    "geom:longitude":-75.517589,
+    "iso:country":"US",
+    "sg:address":"2500 Andrews Lake Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 0455",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79H4SRMLJ1oXnksFfZSOWH_39.026858_-75.517589@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220738,
+    "wof:geomhash":"05884f51846420a94350dd8f48f84944",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857696113
+        }
+    ],
+    "wof:id":857696113,
+    "wof:lastmodified":1464220738,
+    "wof:name":"Vadakin Electric",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.517589,
+    39.026858,
+    -75.517589,
+    39.026858
+],
+  "geometry": {"coordinates":[-75.517589,39.026858],"type":"Point"}
+}

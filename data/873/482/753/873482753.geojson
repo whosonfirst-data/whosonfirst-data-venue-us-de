@@ -1,0 +1,66 @@
+{
+  "id": 873482753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.404372,38.709616,-75.404372,38.709616",
+    "geom:latitude":38.709616,
+    "geom:longitude":-75.404372,
+    "iso:country":"US",
+    "sg:address":"609 N Dupont Hwy",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 2774",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_16e4XrqRuSWFY7gMV5UdPi_38.709616_-75.404372@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222221,
+    "wof:geomhash":"d90a8cf2f80896ab0e34ba98a446b229",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873482753
+        }
+    ],
+    "wof:id":873482753,
+    "wof:lastmodified":1464222221,
+    "wof:name":"Super Fresh",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.404372,
+    38.709616,
+    -75.404372,
+    38.709616
+],
+  "geometry": {"coordinates":[-75.404372,38.709616],"type":"Point"}
+}

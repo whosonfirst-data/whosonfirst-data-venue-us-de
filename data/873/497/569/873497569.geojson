@@ -1,0 +1,73 @@
+{
+  "id": 873497569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56146,39.204142,-75.56146,39.204142",
+    "geom:latitude":39.204142,
+    "geom:longitude":-75.56146,
+    "iso:country":"US",
+    "sg:address":"3841 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 1992",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3zeTrLdWIyEVUWbcLEJJQg_39.204142_-75.561460@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222844,
+    "wof:geomhash":"a7b83c6e39566f61eafd5fd4a3279aa3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873497569
+        }
+    ],
+    "wof:id":873497569,
+    "wof:lastmodified":1464222844,
+    "wof:name":"Perfect Care Nurses Inc Sui 2",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -75.56146,
+    39.204142,
+    -75.56146,
+    39.204142
+],
+  "geometry": {"coordinates":[-75.56146,39.204142],"type":"Point"}
+}

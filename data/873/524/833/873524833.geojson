@@ -1,0 +1,71 @@
+{
+  "id": 873524833,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.706981,38.662532,-75.706981,38.662532",
+    "geom:latitude":38.662532,
+    "geom:longitude":-75.706981,
+    "iso:country":"US",
+    "sg:address":"29449 N Oak Grove Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 7361",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cemetery"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PcUWgXZaQm6iMK1IWAP0V_38.662532_-75.706981@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224073,
+    "wof:geomhash":"9446a8e2dc97532ef8a95b4e98da4e71",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873524833
+        }
+    ],
+    "wof:id":873524833,
+    "wof:lastmodified":1464224073,
+    "wof:name":"Bethel Cemetery Association Inc",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cemetery"
+    ]
+},
+  "bbox": [
+    -75.706981,
+    38.662532,
+    -75.706981,
+    38.662532
+],
+  "geometry": {"coordinates":[-75.706981,38.662532],"type":"Point"}
+}

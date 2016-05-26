@@ -1,0 +1,73 @@
+{
+  "id": 873491793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.562571,39.072795,-75.562571,39.072795",
+    "geom:latitude":39.072795,
+    "geom:longitude":-75.562571,
+    "iso:country":"US",
+    "sg:address":"1685 Main St",
+    "sg:city":"Woodside",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 8384",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ao8nNrmUUg2fPFQ2dRe7v_39.072795_-75.562571@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222559,
+    "wof:geomhash":"709fb3d65eba1c2b7b8ab6114c3c29c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873491793
+        }
+    ],
+    "wof:id":873491793,
+    "wof:lastmodified":1464222559,
+    "wof:name":"Woodside Mini Storage",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -75.562571,
+    39.072795,
+    -75.562571,
+    39.072795
+],
+  "geometry": {"coordinates":[-75.56257100000001,39.072795],"type":"Point"}
+}

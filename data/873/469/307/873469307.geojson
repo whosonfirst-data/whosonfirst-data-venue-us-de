@@ -1,0 +1,71 @@
+{
+  "id": 873469307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561351,38.455535,-75.561351,38.455535",
+    "geom:latitude":38.455535,
+    "geom:longitude":-75.561351,
+    "iso:country":"US",
+    "sg:address":"1207 E State St",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 9162",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3V5claRRHhyhlYL08n12g3_38.455535_-75.561351@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221697,
+    "wof:geomhash":"01ffa1e551107f1b7983e6b33116b3a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873469307
+        }
+    ],
+    "wof:id":873469307,
+    "wof:lastmodified":1464221697,
+    "wof:name":"Faith Baptist Church",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.561351,
+    38.455535,
+    -75.561351,
+    38.455535
+],
+  "geometry": {"coordinates":[-75.561351,38.455535],"type":"Point"}
+}

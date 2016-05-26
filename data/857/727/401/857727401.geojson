@@ -1,0 +1,71 @@
+{
+  "id": 857727401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.50293,39.813476,-75.50293,39.813476",
+    "geom:latitude":39.813476,
+    "geom:longitude":-75.50293,
+    "iso:country":"US",
+    "sg:address":"2037 Floral Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 7890",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "utility",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XtjkwQ7nbUhtLzfxfRrXH_39.813476_-75.502930@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221385,
+    "wof:geomhash":"5832ea38b4373af59e72d75ea0cee27d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":857727401
+        }
+    ],
+    "wof:id":857727401,
+    "wof:lastmodified":1464221385,
+    "wof:name":"Miss Utility Of Delmarva",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "utility",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.50293,
+    39.813476,
+    -75.50293,
+    39.813476
+],
+  "geometry": {"coordinates":[-75.50293000000001,39.813476],"type":"Point"}
+}

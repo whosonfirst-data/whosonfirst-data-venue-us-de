@@ -1,0 +1,75 @@
+{
+  "id": 873475975,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.616884,39.155777,-75.616884,39.155777",
+    "geom:latitude":39.155777,
+    "geom:longitude":-75.616884,
+    "iso:country":"US",
+    "sg:address":"4128 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 5503",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "transmission",
+        "concrete",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bWjWLu77bHR2cvdVToLZC_39.155777_-75.616884@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221948,
+    "wof:geomhash":"40267b157f0b5f29ac4b70f415529e4f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873475975
+        }
+    ],
+    "wof:id":873475975,
+    "wof:lastmodified":1464221948,
+    "wof:name":"Wholesale Transmission Whse",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "transmission",
+        "concrete",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.616884,
+    39.155777,
+    -75.616884,
+    39.155777
+],
+  "geometry": {"coordinates":[-75.616884,39.155777],"type":"Point"}
+}

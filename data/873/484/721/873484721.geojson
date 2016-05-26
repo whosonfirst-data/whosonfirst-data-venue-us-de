@@ -1,0 +1,75 @@
+{
+  "id": 873484721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.415393,38.91345,-75.415393,38.91345",
+    "geom:latitude":38.91345,
+    "geom:longitude":-75.415393,
+    "iso:country":"US",
+    "sg:address":"201 S Rehoboth Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8684",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4CZFKgJUQWqVwLz6jG66GW_38.913450_-75.415393@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222296,
+    "wof:geomhash":"6784be022429aef5e0e0a9cd3236eb75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873484721
+        }
+    ],
+    "wof:id":873484721,
+    "wof:lastmodified":1464222296,
+    "wof:name":"R & D Restorations Inc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.415393,
+    38.91345,
+    -75.415393,
+    38.91345
+],
+  "geometry": {"coordinates":[-75.41539299999999,38.91345],"type":"Point"}
+}

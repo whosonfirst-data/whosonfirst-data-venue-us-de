@@ -1,0 +1,73 @@
+{
+  "id": 873497795,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.490278,39.828122,-75.490278,39.828122",
+    "geom:latitude":39.828122,
+    "geom:longitude":-75.490278,
+    "iso:country":"US",
+    "sg:address":"1829 Saw Mill Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 5766",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ll3DxcZTGh0zGlFEgOO48_39.828122_-75.490278@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222853,
+    "wof:geomhash":"158c0e4eaa45ecef79afd360b207cee4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873497795
+        }
+    ],
+    "wof:id":873497795,
+    "wof:lastmodified":1464222853,
+    "wof:name":"Ad Properties LLC",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.490278,
+    39.828122,
+    -75.490278,
+    39.828122
+],
+  "geometry": {"coordinates":[-75.490278,39.828122],"type":"Point"}
+}

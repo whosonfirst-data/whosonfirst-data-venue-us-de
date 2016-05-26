@@ -1,0 +1,70 @@
+{
+  "id": 857688059,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.075272,38.69279,-75.075272,38.69279",
+    "geom:latitude":38.69279,
+    "geom:longitude":-75.075272,
+    "iso:country":"US",
+    "sg:address":"125 McKinley St",
+    "sg:city":"Dewey Beach",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 8673",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "sg:website":"www.deweybeachlife.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85803179,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4A4r6InVVcxO1Hj9SZOHVv_38.692790_-75.075272@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220580,
+    "wof:geomhash":"5b9174764108885bcf559f4784ba38a4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85803179,
+            "region_id":85688611,
+            "venue_id":857688059
+        }
+    ],
+    "wof:id":857688059,
+    "wof:lastmodified":1464220580,
+    "wof:name":"Northbeach Restaurant",
+    "wof:parent_id":85803179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.075272,
+    38.69279,
+    -75.075272,
+    38.69279
+],
+  "geometry": {"coordinates":[-75.075272,38.69279],"type":"Point"}
+}

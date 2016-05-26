@@ -1,0 +1,74 @@
+{
+  "id": 873495663,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.63129,39.288653,-75.63129,39.288653",
+    "geom:latitude":39.288653,
+    "geom:longitude":-75.63129,
+    "iso:country":"US",
+    "sg:address":"310 S Basset St",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 4822",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fabricator",
+        "sheet"
+    ],
+    "sg:website":"www.powerelec.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3s6zAzVIbMiAYLVH7Wfrda_39.288653_-75.631290@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222759,
+    "wof:geomhash":"7bb5bd2450a5f776a902658c4229cb26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873495663
+        }
+    ],
+    "wof:id":873495663,
+    "wof:lastmodified":1464222759,
+    "wof:name":"Power Electronics Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fabricator",
+        "sheet"
+    ]
+},
+  "bbox": [
+    -75.63129,
+    39.288653,
+    -75.63129,
+    39.288653
+],
+  "geometry": {"coordinates":[-75.63129000000001,39.288653],"type":"Point"}
+}

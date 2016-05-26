@@ -1,0 +1,69 @@
+{
+  "id": 873481211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.661082,39.665798,-75.661082,39.665798",
+    "geom:latitude":39.665798,
+    "geom:longitude":-75.661082,
+    "iso:country":"US",
+    "sg:address":"16 W Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 5511",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "accountant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_72ytirg88knY96prgMCdKn_39.665798_-75.661082@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222162,
+    "wof:geomhash":"f21b13741a27dba879c9b11fe3f4bb7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873481211
+        }
+    ],
+    "wof:id":873481211,
+    "wof:lastmodified":1464222162,
+    "wof:name":"Ballard Thompson and Assoc PA",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "accountant"
+    ]
+},
+  "bbox": [
+    -75.661082,
+    39.665798,
+    -75.661082,
+    39.665798
+],
+  "geometry": {"coordinates":[-75.66108199999999,39.665798],"type":"Point"}
+}

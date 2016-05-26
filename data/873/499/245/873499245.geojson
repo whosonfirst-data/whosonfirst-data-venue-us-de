@@ -1,0 +1,73 @@
+{
+  "id": 873499245,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.426051,38.953606,-75.426051,38.953606",
+    "geom:latitude":38.953606,
+    "geom:longitude":-75.426051,
+    "iso:country":"US",
+    "sg:address":"944 Bay Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 2606",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6wy9qam6TpWNGBnukCSaaL_38.953606_-75.426051@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222908,
+    "wof:geomhash":"1a7eb820b1a62c98af7ec5a4492d1723",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873499245
+        }
+    ],
+    "wof:id":873499245,
+    "wof:lastmodified":1464222908,
+    "wof:name":"Fleet Refinishing",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.426051,
+    38.953606,
+    -75.426051,
+    38.953606
+],
+  "geometry": {"coordinates":[-75.426051,38.953606],"type":"Point"}
+}

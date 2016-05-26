@@ -1,0 +1,73 @@
+{
+  "id": 873475131,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.579906,39.751198,-75.579906,39.751198",
+    "geom:latitude":39.751198,
+    "geom:longitude":-75.579906,
+    "iso:country":"US",
+    "sg:address":"208 Webb St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 4144",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62JMzoPgojartCf88sZJMJ_39.751198_-75.579906@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221919,
+    "wof:geomhash":"2c584e556b434b867db25aef25fde4aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873475131
+        }
+    ],
+    "wof:id":873475131,
+    "wof:lastmodified":1464221919,
+    "wof:name":"Custom Auto Body Inc",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body"
+    ]
+},
+  "bbox": [
+    -75.579906,
+    39.751198,
+    -75.579906,
+    39.751198
+],
+  "geometry": {"coordinates":[-75.57990599999999,39.751198],"type":"Point"}
+}

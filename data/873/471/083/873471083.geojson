@@ -1,0 +1,78 @@
+{
+  "id": 873471083,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550442,39.741796,-75.550442,39.741796",
+    "geom:latitude":39.741796,
+    "geom:longitude":-75.550442,
+    "iso:country":"US",
+    "sg:address":"519 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 472 6450",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y2YjrFEJvwI3hKNrNo3FJ_39.741796_-75.550442@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221773,
+    "wof:geomhash":"ddcdcb16f4eeb7e49bdadc249fb20ef7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873471083
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873471083
+        }
+    ],
+    "wof:id":873471083,
+    "wof:lastmodified":1464221773,
+    "wof:name":"Kuumba Academy Charter",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.550442,
+    39.741796,
+    -75.550442,
+    39.741796
+],
+  "geometry": {"coordinates":[-75.550442,39.741796],"type":"Point"}
+}

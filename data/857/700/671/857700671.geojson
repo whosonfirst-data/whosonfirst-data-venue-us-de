@@ -1,0 +1,75 @@
+{
+  "id": 857700671,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544663,39.757806,-75.544663,39.757806",
+    "geom:latitude":39.757806,
+    "geom:longitude":-75.544663,
+    "iso:country":"US",
+    "sg:address":"2013 Baynard Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 575 1325",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SVvAYU4Xvwj5SDt4cjIR6_39.757806_-75.544663@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220829,
+    "wof:geomhash":"f274e14ea31715a6312f3590d0c35670",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":857700671
+        }
+    ],
+    "wof:id":857700671,
+    "wof:lastmodified":1464220829,
+    "wof:name":"Ken Kunkle and Sons",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.544663,
+    39.757806,
+    -75.544663,
+    39.757806
+],
+  "geometry": {"coordinates":[-75.544663,39.757806],"type":"Point"}
+}

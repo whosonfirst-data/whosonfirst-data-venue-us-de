@@ -1,0 +1,71 @@
+{
+  "id": 857687327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.291366,38.587051,-75.291366,38.587051",
+    "geom:latitude":38.587051,
+    "geom:longitude":-75.291366,
+    "iso:country":"US",
+    "sg:address":"314 Wilson Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 9153",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_593RUy18pXztrP7psV6OkF_38.587051_-75.291366@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220565,
+    "wof:geomhash":"5d6ad38a67755a835311c2bcd3186a89",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857687327
+        }
+    ],
+    "wof:id":857687327,
+    "wof:lastmodified":1464220565,
+    "wof:name":"Millsboro Day Care & Preschool",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.291366,
+    38.587051,
+    -75.291366,
+    38.587051
+],
+  "geometry": {"coordinates":[-75.291366,38.587051],"type":"Point"}
+}

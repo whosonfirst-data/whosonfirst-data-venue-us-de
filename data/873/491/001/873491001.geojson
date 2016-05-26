@@ -1,0 +1,73 @@
+{
+  "id": 873491001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56884,39.755183,-75.56884,39.755183",
+    "geom:latitude":39.755183,
+    "geom:longitude":-75.56884,
+    "iso:country":"US",
+    "sg:address":"1010 N Union St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 661 1080",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Vx8Hszp1RQMTbwCh5DaC2_39.755183_-75.568840@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222531,
+    "wof:geomhash":"6614f542e8447209d4e0b8935353d7a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873491001
+        }
+    ],
+    "wof:id":873491001,
+    "wof:lastmodified":1464222531,
+    "wof:name":"Eclipse Catering",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.56884,
+    39.755183,
+    -75.56884,
+    39.755183
+],
+  "geometry": {"coordinates":[-75.56883999999999,39.755183],"type":"Point"}
+}

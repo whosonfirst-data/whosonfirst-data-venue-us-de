@@ -1,0 +1,76 @@
+{
+  "id": 873512125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604599,39.73872,-75.604599,39.73872",
+    "geom:latitude":39.73872,
+    "geom:longitude":-75.604599,
+    "iso:country":"US",
+    "sg:address":"1512 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 504 8780",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "muffler",
+        "exhaust",
+        "brake",
+        "system"
+    ],
+    "sg:website":"http://www.tomtracker.com/redirect.cfm?bID=4837&hID=111353",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4IRyx3LQpVJCqgvIBLSfQl_39.738594_-75.605094@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223480,
+    "wof:geomhash":"4da2e1b079a9cd5fd41d7d6e19a2c022",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873512125
+        }
+    ],
+    "wof:id":873512125,
+    "wof:lastmodified":1464223480,
+    "wof:name":"Meineke Car Care Center",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "muffler",
+        "exhaust",
+        "brake",
+        "system"
+    ]
+},
+  "bbox": [
+    -75.604599,
+    39.73872,
+    -75.604599,
+    39.73872
+],
+  "geometry": {"coordinates":[-75.60459899999999,39.73872],"type":"Point"}
+}

@@ -1,0 +1,66 @@
+{
+  "id": 873465603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607976,39.305396,-75.607976,39.305396",
+    "geom:latitude":39.305396,
+    "geom:longitude":-75.607976,
+    "iso:country":"US",
+    "sg:address":"100 E Glenwood Ave",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Auto Supplies",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 1900",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y6tUA4KADl4us5s8W9iSG_39.305396_-75.607976@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221581,
+    "wof:geomhash":"cf77a0ad55f8ae3ef295cdeeebce3737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873465603
+        }
+    ],
+    "wof:id":873465603,
+    "wof:lastmodified":1464221581,
+    "wof:name":"Autozone 1157",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.607976,
+    39.305396,
+    -75.607976,
+    39.305396
+],
+  "geometry": {"coordinates":[-75.60797599999999,39.305396],"type":"Point"}
+}

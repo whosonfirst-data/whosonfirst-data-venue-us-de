@@ -1,0 +1,73 @@
+{
+  "id": 857700689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529237,39.757389,-75.529237,39.757389",
+    "geom:latitude":39.757389,
+    "geom:longitude":-75.529237,
+    "iso:country":"US",
+    "sg:address":"3202 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 761 1620",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "specialty"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JYAkdoDX9DujIaWzZ8Iss_39.757389_-75.529237@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220829,
+    "wof:geomhash":"44703d6faab3cbabaec61882430c51ee",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857700689
+        }
+    ],
+    "wof:id":857700689,
+    "wof:lastmodified":1464220829,
+    "wof:name":"Crest Outreach Center",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "specialty"
+    ]
+},
+  "bbox": [
+    -75.529237,
+    39.757389,
+    -75.529237,
+    39.757389
+],
+  "geometry": {"coordinates":[-75.52923699999999,39.757389],"type":"Point"}
+}

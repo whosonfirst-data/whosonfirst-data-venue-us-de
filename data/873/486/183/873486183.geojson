@@ -1,0 +1,69 @@
+{
+  "id": 873486183,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598812,39.712022,-75.598812,39.712022",
+    "geom:latitude":39.712022,
+    "geom:longitude":-75.598812,
+    "iso:country":"US",
+    "sg:address":"430 Copper Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 2166",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "taxicab"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5X0JGOk3REv2bk8iGYMuwQ_39.712022_-75.598812@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222348,
+    "wof:geomhash":"e159ae466bc9064927721e5f494f2d42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873486183
+        }
+    ],
+    "wof:id":873486183,
+    "wof:lastmodified":1464222348,
+    "wof:name":"A 1 Seaport Taxi",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "taxicab"
+    ]
+},
+  "bbox": [
+    -75.598812,
+    39.712022,
+    -75.598812,
+    39.712022
+],
+  "geometry": {"coordinates":[-75.598812,39.712022],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873492595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556477,39.687858,-75.556477,39.687858",
+    "geom:latitude":39.687858,
+    "geom:longitude":-75.556477,
+    "iso:country":"US",
+    "sg:address":"2036 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 6121",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wrecker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_62yQF6NM5VlbWvkAaSa2aK_39.687858_-75.556477@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222586,
+    "wof:geomhash":"086bc6267615d09499854f98a0f14cc2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873492595
+        }
+    ],
+    "wof:id":873492595,
+    "wof:lastmodified":1464222586,
+    "wof:name":"CPG Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrecker"
+    ]
+},
+  "bbox": [
+    -75.556477,
+    39.687858,
+    -75.556477,
+    39.687858
+],
+  "geometry": {"coordinates":[-75.556477,39.687858],"type":"Point"}
+}

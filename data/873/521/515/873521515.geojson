@@ -1,0 +1,74 @@
+{
+  "id": 873521515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.533693,39.184442,-75.533693,39.184442",
+    "geom:latitude":39.184442,
+    "geom:longitude":-75.533693,
+    "iso:country":"US",
+    "sg:address":"1061 N Dupont Highway",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Hobbies, Toys, & Games",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 3343",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "toy",
+        "store"
+    ],
+    "sg:website":"www.toysrus.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_30zKCXQ8Q6jZDia9I3ipHh_39.184442_-75.533693@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223944,
+    "wof:geomhash":"4618a7f8ddc4d9225950dbf730194feb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873521515
+        }
+    ],
+    "wof:id":873521515,
+    "wof:lastmodified":1464223944,
+    "wof:name":"Toys R Us",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.533693,
+    39.184442,
+    -75.533693,
+    39.184442
+],
+  "geometry": {"coordinates":[-75.533693,39.184442],"type":"Point"}
+}

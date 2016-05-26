@@ -1,0 +1,71 @@
+{
+  "id": 873504561,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.657328,39.730057,-75.657328,39.730057",
+    "geom:latitude":39.730057,
+    "geom:longitude":-75.657328,
+    "iso:country":"US",
+    "sg:address":"2404 Hartley Pl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 540 6243",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1cJctYPLXCfraa1nqdfaes_39.730057_-75.657328@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223130,
+    "wof:geomhash":"7701cd9e1adf6249111d8e1256ebd47b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873504561
+        }
+    ],
+    "wof:id":873504561,
+    "wof:lastmodified":1464223130,
+    "wof:name":"Nearly Practical Inc",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.657328,
+    39.730057,
+    -75.657328,
+    39.730057
+],
+  "geometry": {"coordinates":[-75.65732800000001,39.730057],"type":"Point"}
+}

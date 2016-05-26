@@ -1,0 +1,70 @@
+{
+  "id": 873519735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546966,39.808712,-75.546966,39.808712",
+    "geom:latitude":39.808712,
+    "geom:longitude":-75.546966,
+    "iso:country":"US",
+    "sg:address":"3600 Silverside Rd, Ste B",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 639 6773",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "sg:website":"www.localstdtesting.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Gt47QHJcpwYWUSMAu08eR_39.808712_-75.546966@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223867,
+    "wof:geomhash":"b2b85ae1f32fcd91026e0d16a4d5f0df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873519735
+        }
+    ],
+    "wof:id":873519735,
+    "wof:lastmodified":1464223867,
+    "wof:name":"Local STD Testing",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.546966,
+    39.808712,
+    -75.546966,
+    39.808712
+],
+  "geometry": {"coordinates":[-75.546966,39.808712],"type":"Point"}
+}

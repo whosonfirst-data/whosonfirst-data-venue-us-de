@@ -1,0 +1,76 @@
+{
+  "id": 873518843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.609342,39.788691,-75.609342,39.788691",
+    "geom:latitude":39.788691,
+    "geom:longitude":-75.609342,
+    "iso:country":"US",
+    "sg:address":"308 Campbell Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 743 3522",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2OPwCk8lEoG1RungUAt8Ga_39.788691_-75.609342@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223829,
+    "wof:geomhash":"ad59f208ee6506ff02c6fb15d178080c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":873518843
+        }
+    ],
+    "wof:id":873518843,
+    "wof:lastmodified":1464223829,
+    "wof:name":"Organic Life Realty",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.609342,
+    39.788691,
+    -75.609342,
+    39.788691
+],
+  "geometry": {"coordinates":[-75.609342,39.788691],"type":"Point"}
+}

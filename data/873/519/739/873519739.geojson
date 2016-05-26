@@ -1,0 +1,71 @@
+{
+  "id": 873519739,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.496988,39.804908,-75.496988,39.804908",
+    "geom:latitude":39.804908,
+    "geom:longitude":-75.496988,
+    "iso:country":"US",
+    "sg:address":"2124 Delaview Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Landmark",
+            "subcategory":"Tourist Information",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 1876",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tour"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VD31f3yaBxqnIyI6AJopX_39.804908_-75.496988@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223867,
+    "wof:geomhash":"bace37e2e6672bebf972b372d05a40e2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519739
+        }
+    ],
+    "wof:id":873519739,
+    "wof:lastmodified":1464223867,
+    "wof:name":"Hill Armas",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tour"
+    ]
+},
+  "bbox": [
+    -75.496988,
+    39.804908,
+    -75.496988,
+    39.804908
+],
+  "geometry": {"coordinates":[-75.496988,39.804908],"type":"Point"}
+}

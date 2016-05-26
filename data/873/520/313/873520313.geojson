@@ -1,0 +1,78 @@
+{
+  "id": 873520313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.49573,39.815139,-75.49573,39.815139",
+    "geom:latitude":39.815139,
+    "geom:longitude":-75.49573,
+    "iso:country":"US",
+    "sg:address":"2211 Riviera Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 4019",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5nx4O42ZqWfVnbxJOz01kw_39.815139_-75.495730@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223895,
+    "wof:geomhash":"9d411f48843f483699d0e1fe7311828a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873520313
+        }
+    ],
+    "wof:id":873520313,
+    "wof:lastmodified":1464223895,
+    "wof:name":"Barbara Stein Real Estate",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.49573,
+    39.815139,
+    -75.49573,
+    39.815139
+],
+  "geometry": {"coordinates":[-75.49572999999999,39.815139],"type":"Point"}
+}

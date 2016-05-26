@@ -1,0 +1,69 @@
+{
+  "id": 873483523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.667472,39.751017,-75.667472,39.751017",
+    "geom:latitude":39.751017,
+    "geom:longitude":-75.667472,
+    "iso:country":"US",
+    "sg:address":"312 Riblett Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 1788",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2AhhAV8QCGv6zmGHEc074j_39.751017_-75.667472@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222252,
+    "wof:geomhash":"5dabccbb27e5b4efe949da12f9c2f2e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873483523
+        }
+    ],
+    "wof:id":873483523,
+    "wof:lastmodified":1464222252,
+    "wof:name":"Wirth Financial Svc",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -75.667472,
+    39.751017,
+    -75.667472,
+    39.751017
+],
+  "geometry": {"coordinates":[-75.667472,39.751017],"type":"Point"}
+}

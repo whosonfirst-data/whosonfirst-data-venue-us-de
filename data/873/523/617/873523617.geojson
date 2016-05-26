@@ -1,0 +1,71 @@
+{
+  "id": 873523617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556702,39.1217,-75.556702,39.1217",
+    "geom:latitude":39.1217,
+    "geom:longitude":-75.556702,
+    "iso:country":"US",
+    "sg:address":"2 Mill St",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 7010",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jZTfTZykY2MTikgPoE0hq_39.121700_-75.556702@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224026,
+    "wof:geomhash":"3caaa92ceedd3af34adbfde163b0dbdb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523617
+        }
+    ],
+    "wof:id":873523617,
+    "wof:lastmodified":1464224026,
+    "wof:name":"American Dream Builders",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.556702,
+    39.1217,
+    -75.556702,
+    39.1217
+],
+  "geometry": {"coordinates":[-75.556702,39.1217],"type":"Point"}
+}

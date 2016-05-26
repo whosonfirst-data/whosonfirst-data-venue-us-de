@@ -1,0 +1,73 @@
+{
+  "id": 873479443,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.589776,39.272624,-75.589776,39.272624",
+    "geom:latitude":39.272624,
+    "geom:longitude":-75.589776,
+    "iso:country":"US",
+    "sg:address":"2421 S Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 2577",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "archery",
+        "equipment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0UN0XRus8l8tWnBqZjuQyz_39.272624_-75.589776@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222082,
+    "wof:geomhash":"2b506acf060a82b5dc9dc9f6b991ce3c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873479443
+        }
+    ],
+    "wof:id":873479443,
+    "wof:lastmodified":1464222082,
+    "wof:name":"K & L Archery Supplies",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "archery",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -75.589776,
+    39.272624,
+    -75.589776,
+    39.272624
+],
+  "geometry": {"coordinates":[-75.589776,39.272624],"type":"Point"}
+}

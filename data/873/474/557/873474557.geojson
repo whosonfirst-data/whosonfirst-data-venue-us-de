@@ -1,0 +1,74 @@
+{
+  "id": 873474557,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.490753,39.153542,-75.490753,39.153542",
+    "geom:latitude":39.153542,
+    "geom:longitude":-75.490753,
+    "iso:country":"US",
+    "sg:address":"1279 McD Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Testing Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 0818",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "sg:website":"www.materials-testing.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EBFx9Q74K3RjZJkFMQ6v4_39.153542_-75.490753@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221899,
+    "wof:geomhash":"dac940b4ee87f2da900cdfbfedaa0e38",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873474557
+        }
+    ],
+    "wof:id":873474557,
+    "wof:lastmodified":1464221899,
+    "wof:name":"Materials Testing Labs Inc",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.490753,
+    39.153542,
+    -75.490753,
+    39.153542
+],
+  "geometry": {"coordinates":[-75.490753,39.153542],"type":"Point"}
+}

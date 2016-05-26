@@ -1,0 +1,71 @@
+{
+  "id": 857728163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.519435,38.631179,-75.519435,38.631179",
+    "geom:latitude":38.631179,
+    "geom:longitude":-75.519435,
+    "iso:country":"US",
+    "sg:address":"12752 Fleetwood Pond Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 4599",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3aZQDxlOCAVCv1IOcKdyd1_38.631179_-75.519435@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221399,
+    "wof:geomhash":"6155a96321f3fa33e28cb14984eda4d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857728163
+        }
+    ],
+    "wof:id":857728163,
+    "wof:lastmodified":1464221399,
+    "wof:name":"Computer Maintenance Svc",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.519435,
+    38.631179,
+    -75.519435,
+    38.631179
+],
+  "geometry": {"coordinates":[-75.519435,38.631179],"type":"Point"}
+}

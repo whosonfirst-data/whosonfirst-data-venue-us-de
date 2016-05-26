@@ -1,0 +1,71 @@
+{
+  "id": 857732239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565911,39.207033,-75.565911,39.207033",
+    "geom:latitude":39.207033,
+    "geom:longitude":-75.565911,
+    "iso:country":"US",
+    "sg:address":"4134 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 9188",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vY6w7XZz77gSpqeXWaumA_39.207033_-75.565911@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221488,
+    "wof:geomhash":"9ac7bba98f629e6ce863d30a606ab284",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857732239
+        }
+    ],
+    "wof:id":857732239,
+    "wof:lastmodified":1464221488,
+    "wof:name":"Century Engineering Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.565911,
+    39.207033,
+    -75.565911,
+    39.207033
+],
+  "geometry": {"coordinates":[-75.565911,39.207033],"type":"Point"}
+}

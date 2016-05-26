@@ -1,0 +1,81 @@
+{
+  "id": 873517999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540843,39.781295,-75.540843,39.781295",
+    "geom:latitude":39.781295,
+    "geom:longitude":-75.540843,
+    "iso:country":"US",
+    "sg:address":"300 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 0522",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "alternative",
+        "financing",
+        "loan",
+        "mortgage"
+    ],
+    "sg:website":"http://www.dexsta.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CZabY2e7qWKKHYROHmnde_39.781295_-75.540843@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223794,
+    "wof:geomhash":"acde49e0232b471ddad839ad84d045db",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873517999
+        }
+    ],
+    "wof:id":873517999,
+    "wof:lastmodified":1464223794,
+    "wof:name":"DEXSTA Federal Credit Union",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "alternative",
+        "financing",
+        "loan",
+        "mortgage"
+    ]
+},
+  "bbox": [
+    -75.540843,
+    39.781295,
+    -75.540843,
+    39.781295
+],
+  "geometry": {"coordinates":[-75.540843,39.781295],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873472825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736184,39.654901,-75.736184,39.654901",
+    "geom:latitude":39.654901,
+    "geom:longitude":-75.736184,
+    "iso:country":"US",
+    "sg:address":"61 Blue Hen Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 0333",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0uNytumyMy2zgudezeWDrQ_39.654901_-75.736184@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221837,
+    "wof:geomhash":"200e251a2a835e3b5d7e7b4755729511",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873472825
+        }
+    ],
+    "wof:id":873472825,
+    "wof:lastmodified":1464221837,
+    "wof:name":"Simply Clean Air & Water",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.736184,
+    39.654901,
+    -75.736184,
+    39.654901
+],
+  "geometry": {"coordinates":[-75.73618399999999,39.654901],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857687081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558477,39.804626,-75.558477,39.804626",
+    "geom:latitude":39.804626,
+    "geom:longitude":-75.558477,
+    "iso:country":"US",
+    "sg:address":"729 Burnley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1605",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MeYR331kJ3JzAUR4ErWDz_39.804626_-75.558477@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220561,
+    "wof:geomhash":"b371c6720e89e1bbcfcb3085aa459213",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857687081
+        }
+    ],
+    "wof:id":857687081,
+    "wof:lastmodified":1464220561,
+    "wof:name":"Shapira Nadiv Dr",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.558477,
+    39.804626,
+    -75.558477,
+    39.804626
+],
+  "geometry": {"coordinates":[-75.558477,39.804626],"type":"Point"}
+}

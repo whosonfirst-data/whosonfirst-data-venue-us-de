@@ -1,0 +1,71 @@
+{
+  "id": 873525309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594268,39.280857,-75.594268,39.280857",
+    "geom:latitude":39.280857,
+    "geom:longitude":-75.594268,
+    "iso:country":"US",
+    "sg:address":"699 Jimmy Dr Ste 1",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 3810",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2flgsGnCzUNxvY8DXppjnh_39.280857_-75.594268@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224091,
+    "wof:geomhash":"331ca629bceb6bae22f3f4c1275e7e57",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525309
+        }
+    ],
+    "wof:id":873525309,
+    "wof:lastmodified":1464224091,
+    "wof:name":"Us Male Modern Barber Shop",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.594268,
+    39.280857,
+    -75.594268,
+    39.280857
+],
+  "geometry": {"coordinates":[-75.594268,39.280857],"type":"Point"}
+}

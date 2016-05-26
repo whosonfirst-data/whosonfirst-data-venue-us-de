@@ -1,0 +1,66 @@
+{
+  "id": 857729703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.591435,38.725297,-75.591435,38.725297",
+    "geom:latitude":38.725297,
+    "geom:longitude":-75.591435,
+    "iso:country":"US",
+    "sg:address":"18654 S Main St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3460",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1viK4VZu82Gx30Qfa72CwY_38.725297_-75.591435@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221427,
+    "wof:geomhash":"c969148599d7555f75d57ba1320cb6e4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857729703
+        }
+    ],
+    "wof:id":857729703,
+    "wof:lastmodified":1464221427,
+    "wof:name":"Shore Stop Food Stores",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.591435,
+    38.725297,
+    -75.591435,
+    38.725297
+],
+  "geometry": {"coordinates":[-75.591435,38.725297],"type":"Point"}
+}

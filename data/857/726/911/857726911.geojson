@@ -1,0 +1,78 @@
+{
+  "id": 857726911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603825,39.713241,-75.603825,39.713241",
+    "geom:latitude":39.713241,
+    "geom:longitude":-75.603825,
+    "iso:country":"US",
+    "sg:address":"450 E Ayre St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Scrap",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 996 9222",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "recycling",
+        "center",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1mZeLk3MjTq19E9KSTqtMO_39.713241_-75.603825@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221377,
+    "wof:geomhash":"d229337329287ad7ae521bcb15fca953",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857726911
+        }
+    ],
+    "wof:id":857726911,
+    "wof:lastmodified":1464221377,
+    "wof:name":"Mid States Recycling",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "recycling",
+        "center",
+        "system"
+    ]
+},
+  "bbox": [
+    -75.603825,
+    39.713241,
+    -75.603825,
+    39.713241
+],
+  "geometry": {"coordinates":[-75.603825,39.713241],"type":"Point"}
+}

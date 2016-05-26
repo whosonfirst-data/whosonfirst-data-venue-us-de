@@ -1,0 +1,71 @@
+{
+  "id": 873503823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.489428,39.200085,-75.489428,39.200085",
+    "geom:latitude":39.200085,
+    "geom:longitude":-75.489428,
+    "iso:country":"US",
+    "sg:address":"8364 Bayside Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 2910",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "crop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MJ1I5tXGxB0GuMyO6tXcy_39.200085_-75.489428@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223093,
+    "wof:geomhash":"11f08ae1e9c507fcf0260b154e981519",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873503823
+        }
+    ],
+    "wof:id":873503823,
+    "wof:lastmodified":1464223093,
+    "wof:name":"Broad Acres Inc",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop"
+    ]
+},
+  "bbox": [
+    -75.489428,
+    39.200085,
+    -75.489428,
+    39.200085
+],
+  "geometry": {"coordinates":[-75.489428,39.200085],"type":"Point"}
+}

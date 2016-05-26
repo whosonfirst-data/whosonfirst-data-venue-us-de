@@ -1,0 +1,74 @@
+{
+  "id": 857729507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605101,38.742589,-75.605101,38.742589",
+    "geom:latitude":38.742589,
+    "geom:longitude":-75.605101,
+    "iso:country":"US",
+    "sg:address":"500 Market St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 5500",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "warehouse",
+        "storage"
+    ],
+    "sg:website":"www.petpoultry.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yNoCPZbf5MkqYD55X0YBi_38.742589_-75.605101@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221424,
+    "wof:geomhash":"d2616031fb68e624930b31b29260b74a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857729507
+        }
+    ],
+    "wof:id":857729507,
+    "wof:lastmodified":1464221424,
+    "wof:name":"Cannon Cold Storage",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "storage"
+    ]
+},
+  "bbox": [
+    -75.605101,
+    38.742589,
+    -75.605101,
+    38.742589
+],
+  "geometry": {"coordinates":[-75.605101,38.742589],"type":"Point"}
+}

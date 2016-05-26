@@ -1,0 +1,77 @@
+{
+  "id": 873512489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515404,39.163502,-75.515404,39.163502",
+    "geom:latitude":39.163502,
+    "geom:longitude":-75.515404,
+    "iso:country":"US",
+    "sg:address":"11 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3815",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "cigarette",
+        "cigar"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_67Wfogef3fSWaoWT1J1TKQ_39.163846_-75.515394@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223493,
+    "wof:geomhash":"417caf8ec2d8bf0166d008070c562563",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":873512489
+        }
+    ],
+    "wof:id":873512489,
+    "wof:lastmodified":1464223493,
+    "wof:name":"Delaware Cigarette & Tobacco Outlet",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "cigarette",
+        "cigar"
+    ]
+},
+  "bbox": [
+    -75.515404,
+    39.163502,
+    -75.515404,
+    39.163502
+],
+  "geometry": {"coordinates":[-75.515404,39.163502],"type":"Point"}
+}

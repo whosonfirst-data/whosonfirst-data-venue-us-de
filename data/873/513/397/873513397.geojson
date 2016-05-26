@@ -1,0 +1,76 @@
+{
+  "id": 873513397,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546493,39.790606,-75.546493,39.790606",
+    "geom:latitude":39.790606,
+    "geom:longitude":-75.546493,
+    "iso:country":"US",
+    "sg:address":"2217 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/223147-five-guys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5489",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "hot",
+        "dog"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ZBSguyMY0XyK3o8lPQnbK_39.790606_-75.546493@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223527,
+    "wof:geomhash":"76c5d76a1552e06f6287b6a8214b0cfe",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873513397
+        }
+    ],
+    "wof:id":873513397,
+    "wof:lastmodified":1464223527,
+    "wof:name":"Five Guys Burgers & Fries",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "hot",
+        "dog"
+    ]
+},
+  "bbox": [
+    -75.546493,
+    39.790606,
+    -75.546493,
+    39.790606
+],
+  "geometry": {"coordinates":[-75.546493,39.790606],"type":"Point"}
+}

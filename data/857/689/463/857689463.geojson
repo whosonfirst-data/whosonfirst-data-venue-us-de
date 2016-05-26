@@ -1,0 +1,71 @@
+{
+  "id": 857689463,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.58188,39.689538,-75.58188,39.689538",
+    "geom:latitude":39.689538,
+    "geom:longitude":-75.58188,
+    "iso:country":"US",
+    "sg:address":"1412 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 3175",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06CeOFWLP0MtTNFbYndyUN_39.689538_-75.581880@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220607,
+    "wof:geomhash":"a241abe97c76d945dc7467906abbfaf9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857689463
+        }
+    ],
+    "wof:id":857689463,
+    "wof:lastmodified":1464220607,
+    "wof:name":"Manor Pharmacy Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.58188,
+    39.689538,
+    -75.58188,
+    39.689538
+],
+  "geometry": {"coordinates":[-75.58188,39.689538],"type":"Point"}
+}

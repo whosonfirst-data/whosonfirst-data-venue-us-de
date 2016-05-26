@@ -1,0 +1,71 @@
+{
+  "id": 873499505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.654964,39.632524,-75.654964,39.632524",
+    "geom:latitude":39.632524,
+    "geom:longitude":-75.654964,
+    "iso:country":"US",
+    "sg:address":"400 Eden Cir",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 2300",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gOd8qs6Zu9dIVKutepWfu_39.632524_-75.654964@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222920,
+    "wof:geomhash":"df5136747f0518e2f55d9fa9888be393",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873499505
+        }
+    ],
+    "wof:id":873499505,
+    "wof:lastmodified":1464222920,
+    "wof:name":"Happy Harrys Discount Drug Str",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.654964,
+    39.632524,
+    -75.654964,
+    39.632524
+],
+  "geometry": {"coordinates":[-75.65496400000001,39.632524],"type":"Point"}
+}

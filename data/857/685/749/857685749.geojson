@@ -1,0 +1,73 @@
+{
+  "id": 857685749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.112812,38.531125,-75.112812,38.531125",
+    "geom:latitude":38.531125,
+    "geom:longitude":-75.112812,
+    "iso:country":"US",
+    "sg:address":"46 October Glory Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 6111",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "kitchen",
+        "cabinet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0sk7Umn0je1OC2S2XD5sKb_38.531125_-75.112812@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220534,
+    "wof:geomhash":"409c0b0162d63fa911f3784de08653ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857685749
+        }
+    ],
+    "wof:id":857685749,
+    "wof:lastmodified":1464220534,
+    "wof:name":"Old Red Mills Kitchens",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kitchen",
+        "cabinet"
+    ]
+},
+  "bbox": [
+    -75.112812,
+    38.531125,
+    -75.112812,
+    38.531125
+],
+  "geometry": {"coordinates":[-75.11281200000001,38.531125],"type":"Point"}
+}

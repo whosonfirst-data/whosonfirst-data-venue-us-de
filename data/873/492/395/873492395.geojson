@@ -1,0 +1,73 @@
+{
+  "id": 873492395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543629,39.748377,-75.543629,39.748377",
+    "geom:latitude":39.748377,
+    "geom:longitude":-75.543629,
+    "iso:country":"US",
+    "sg:address":"1301 N French St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 4455",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46ErDosKFh7LLLmGu4nfCN_39.748377_-75.543629@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222579,
+    "wof:geomhash":"43e918c3a75e982946755bc8a60574cf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873492395
+        }
+    ],
+    "wof:id":873492395,
+    "wof:lastmodified":1464222579,
+    "wof:name":"Story Printing Co",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.543629,
+    39.748377,
+    -75.543629,
+    39.748377
+],
+  "geometry": {"coordinates":[-75.543629,39.748377],"type":"Point"}
+}

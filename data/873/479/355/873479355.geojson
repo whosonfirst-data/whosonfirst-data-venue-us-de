@@ -1,0 +1,69 @@
+{
+  "id": 873479355,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.609152,39.737311,-75.609152,39.737311",
+    "geom:latitude":39.737311,
+    "geom:longitude":-75.609152,
+    "iso:country":"US",
+    "sg:address":"2 Brighton Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Gifts & Souvenirs",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 9804",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "florist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1pdPhfEy4xS5G5618N5pZN_39.737311_-75.609152@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222078,
+    "wof:geomhash":"eb6f52186193783f5e50551d26533f1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873479355
+        }
+    ],
+    "wof:id":873479355,
+    "wof:lastmodified":1464222078,
+    "wof:name":"Flower Pot Ltd",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "florist"
+    ]
+},
+  "bbox": [
+    -75.609152,
+    39.737311,
+    -75.609152,
+    39.737311
+],
+  "geometry": {"coordinates":[-75.60915199999999,39.737311],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 873515679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745178,39.682201,-75.745178,39.682201",
+    "geom:latitude":39.682201,
+    "geom:longitude":-75.745178,
+    "iso:country":"US",
+    "sg:address":"235 E Delaware Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Atm",
+            "type":"Services"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 366 7608",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "money",
+        "location",
+        "order"
+    ],
+    "sg:website":"http://www.7-eleven.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3651UdyquljjZl6DsRbvTg_39.682201_-75.745178@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223652,
+    "wof:geomhash":"26a10afd52757c90e8f8aa753b3576b2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515679
+        }
+    ],
+    "wof:id":873515679,
+    "wof:lastmodified":1464223652,
+    "wof:name":"7-Eleven",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "money",
+        "location",
+        "order"
+    ]
+},
+  "bbox": [
+    -75.745178,
+    39.682201,
+    -75.745178,
+    39.682201
+],
+  "geometry": {"coordinates":[-75.745178,39.682201],"type":"Point"}
+}

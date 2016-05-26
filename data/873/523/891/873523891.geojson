@@ -1,0 +1,71 @@
+{
+  "id": 873523891,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568192,38.99029,-75.568192,38.99029",
+    "geom:latitude":38.99029,
+    "geom:longitude":-75.568192,
+    "iso:country":"US",
+    "sg:address":"12497 S Dupont Hwy",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9494",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2y7qZ4AAsZxdYBlhhd6iEi_38.990290_-75.568192@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224035,
+    "wof:geomhash":"fd4ef1205d6dccbbf79706ca155560dd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873523891
+        }
+    ],
+    "wof:id":873523891,
+    "wof:lastmodified":1464224035,
+    "wof:name":"Gary B Homewood",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.568192,
+    38.99029,
+    -75.568192,
+    38.99029
+],
+  "geometry": {"coordinates":[-75.568192,38.99029],"type":"Point"}
+}

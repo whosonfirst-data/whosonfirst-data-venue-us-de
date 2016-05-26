@@ -1,0 +1,71 @@
+{
+  "id": 873512203,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548344,39.803867,-75.548344,39.803867",
+    "geom:latitude":39.803867,
+    "geom:longitude":-75.548344,
+    "iso:country":"US",
+    "sg:address":"3612 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 7833",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "toy",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4uTKKrwTe7nQlPR0v0aVOQ_39.804406_-75.548405@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223482,
+    "wof:geomhash":"6db9fb1a8dca99810dca4f9094a6ed1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873512203
+        }
+    ],
+    "wof:id":873512203,
+    "wof:lastmodified":1464223482,
+    "wof:name":"Funcoland",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "toy",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.548344,
+    39.803867,
+    -75.548344,
+    39.803867
+],
+  "geometry": {"coordinates":[-75.548344,39.803867],"type":"Point"}
+}

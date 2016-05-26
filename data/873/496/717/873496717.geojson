@@ -1,0 +1,73 @@
+{
+  "id": 873496717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.17128,38.759518,-75.17128,38.759518",
+    "geom:latitude":38.759518,
+    "geom:longitude":-75.17128,
+    "iso:country":"US",
+    "sg:address":"4 Bradford Ln",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 6639",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential",
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5zQfovSbNP9ApUY6fhAoxT_38.759518_-75.171280@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222814,
+    "wof:geomhash":"545c697c0c110f98392a1a3b8338c2aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873496717
+        }
+    ],
+    "wof:id":873496717,
+    "wof:lastmodified":1464222814,
+    "wof:name":"H&M Const",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.17128,
+    38.759518,
+    -75.17128,
+    38.759518
+],
+  "geometry": {"coordinates":[-75.17128,38.759518],"type":"Point"}
+}

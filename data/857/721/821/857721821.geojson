@@ -1,0 +1,76 @@
+{
+  "id": 857721821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736865,39.590599,-75.736865,39.590599",
+    "geom:latitude":39.590599,
+    "geom:longitude":-75.736865,
+    "iso:country":"US",
+    "sg:address":"11 Manston Manor Ct",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 6711",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "downspouts",
+        "gutter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MqJjFR3IaL0ftDHqWbITl_39.590599_-75.736865@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221285,
+    "wof:geomhash":"3780006eae6b9b613bf0fbd02470fa5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857721821
+        }
+    ],
+    "wof:id":857721821,
+    "wof:lastmodified":1464221285,
+    "wof:name":"Sagert Distributors",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "downspouts",
+        "gutter"
+    ]
+},
+  "bbox": [
+    -75.736865,
+    39.590599,
+    -75.736865,
+    39.590599
+],
+  "geometry": {"coordinates":[-75.73686499999999,39.590599],"type":"Point"}
+}

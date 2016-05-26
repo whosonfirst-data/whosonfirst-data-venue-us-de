@@ -1,0 +1,71 @@
+{
+  "id": 873491497,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.647994,39.190884,-75.647994,39.190884",
+    "geom:latitude":39.190884,
+    "geom:longitude":-75.647994,
+    "iso:country":"US",
+    "sg:address":"226 Shaws Corner Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 3745",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Qkwxa8xcMbowvjcU04m8G_39.190884_-75.647994@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222549,
+    "wof:geomhash":"bc5ff37493c9fa3968624f4cac3a8903",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873491497
+        }
+    ],
+    "wof:id":873491497,
+    "wof:lastmodified":1464222549,
+    "wof:name":"Comegy's Sanitation",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "septic"
+    ]
+},
+  "bbox": [
+    -75.647994,
+    39.190884,
+    -75.647994,
+    39.190884
+],
+  "geometry": {"coordinates":[-75.647994,39.190884],"type":"Point"}
+}

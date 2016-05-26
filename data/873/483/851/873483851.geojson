@@ -1,0 +1,73 @@
+{
+  "id": 873483851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.380545,38.692163,-75.380545,38.692163",
+    "geom:latitude":38.692163,
+    "geom:longitude":-75.380545,
+    "iso:country":"US",
+    "sg:address":"115 S King St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 3647",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "postal",
+        "us"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3wE41RIMwJgrkLq9pZV9xz_38.692163_-75.380545@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222265,
+    "wof:geomhash":"bc9c3fd51db491cf3feb3da652abcf5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873483851
+        }
+    ],
+    "wof:id":873483851,
+    "wof:lastmodified":1464222265,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "postal",
+        "us"
+    ]
+},
+  "bbox": [
+    -75.380545,
+    38.692163,
+    -75.380545,
+    38.692163
+],
+  "geometry": {"coordinates":[-75.380545,38.692163],"type":"Point"}
+}

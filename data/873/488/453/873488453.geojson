@@ -1,0 +1,78 @@
+{
+  "id": 873488453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.500321,39.786876,-75.500321,39.786876",
+    "geom:latitude":39.786876,
+    "geom:longitude":-75.500321,
+    "iso:country":"US",
+    "sg:address":"511 Ivydale Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 5759",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "personal",
+        "chef",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821991,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CeZVMSSbHOeT26K8cFzsW_39.786876_-75.500321@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222438,
+    "wof:geomhash":"04775fc883c677c67f7341438fbab9f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821991,
+            "region_id":85688611,
+            "venue_id":873488453
+        }
+    ],
+    "wof:id":873488453,
+    "wof:lastmodified":1464222438,
+    "wof:name":"Kelly's Kitchen",
+    "wof:parent_id":85821991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "chef",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.500321,
+    39.786876,
+    -75.500321,
+    39.786876
+],
+  "geometry": {"coordinates":[-75.500321,39.786876],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857715979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606912,39.73845,-75.606912,39.73845",
+    "geom:latitude":39.73845,
+    "geom:longitude":-75.606912,
+    "iso:country":"US",
+    "sg:address":"1700 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1717",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xQrVhBdLMMzywbI8g2zcu_39.738450_-75.606912@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221165,
+    "wof:geomhash":"f8b75b79829926d76f7930da4faa308b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857715979
+        }
+    ],
+    "wof:id":857715979,
+    "wof:lastmodified":1464221165,
+    "wof:name":"3 Stars Pizza",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.606912,
+    39.73845,
+    -75.606912,
+    39.73845
+],
+  "geometry": {"coordinates":[-75.60691199999999,39.73845],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857699589,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532369,39.745721,-75.532369,39.745721",
+    "geom:latitude":39.745721,
+    "geom:longitude":-75.532369,
+    "iso:country":"US",
+    "sg:address":"1609 Northeast Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 6898",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VkQh3bJvHTtrhwMsVh407_39.745721_-75.532369@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220804,
+    "wof:geomhash":"5cdfe48d4e88452721b4345b7d131730",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":857699589
+        }
+    ],
+    "wof:id":857699589,
+    "wof:lastmodified":1464220804,
+    "wof:name":"Chester Fried",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.532369,
+    39.745721,
+    -75.532369,
+    39.745721
+],
+  "geometry": {"coordinates":[-75.532369,39.745721],"type":"Point"}
+}

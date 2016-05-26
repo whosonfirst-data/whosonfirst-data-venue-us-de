@@ -1,0 +1,73 @@
+{
+  "id": 857687951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.598033,38.750232,-75.598033,38.750232",
+    "geom:latitude":38.750232,
+    "geom:longitude":-75.598033,
+    "iso:country":"US",
+    "sg:address":"17044 N Main St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 7377",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vk9DBmnM85dMTizNzIbzO_38.750232_-75.598033@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220578,
+    "wof:geomhash":"9c6a178ec06216c26a9a815ea00b50f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857687951
+        }
+    ],
+    "wof:id":857687951,
+    "wof:lastmodified":1464220578,
+    "wof:name":"Reliable Auto Svc",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.598033,
+    38.750232,
+    -75.598033,
+    38.750232
+],
+  "geometry": {"coordinates":[-75.598033,38.750232],"type":"Point"}
+}

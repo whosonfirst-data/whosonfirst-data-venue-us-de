@@ -1,0 +1,73 @@
+{
+  "id": 873498505,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.110337,38.470105,-75.110337,38.470105",
+    "geom:latitude":38.470105,
+    "geom:longitude":-75.110337,
+    "iso:country":"US",
+    "sg:address":"164 W Bluewater Run",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 5577",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "information",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_31aLK8w8fXr4uLuLRzQQyF_38.470105_-75.110337@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222883,
+    "wof:geomhash":"e28be97152f55564aa85d98de534e71f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873498505
+        }
+    ],
+    "wof:id":873498505,
+    "wof:lastmodified":1464222883,
+    "wof:name":"Medi Stat Information",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "information",
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.110337,
+    38.470105,
+    -75.110337,
+    38.470105
+],
+  "geometry": {"coordinates":[-75.110337,38.470105],"type":"Point"}
+}

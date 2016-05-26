@@ -1,0 +1,74 @@
+{
+  "id": 873480707,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595855,39.776004,-75.595855,39.776004",
+    "geom:latitude":39.776004,
+    "geom:longitude":-75.595855,
+    "iso:country":"US",
+    "sg:address":"4001 Kennett Pike",
+    "sg:city":"Greenville",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 573 4000",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ],
+    "sg:website":"www.morganstanley.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834895,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aAMlJJCOshYjLEqojs20g_39.776004_-75.595855@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222144,
+    "wof:geomhash":"93344a42a71dee4ef85ec55b93193639",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834895,
+            "region_id":85688611,
+            "venue_id":873480707
+        }
+    ],
+    "wof:id":873480707,
+    "wof:lastmodified":1464222144,
+    "wof:name":"Morgan Stanley",
+    "wof:parent_id":85834895,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "planning",
+        "financial"
+    ]
+},
+  "bbox": [
+    -75.595855,
+    39.776004,
+    -75.595855,
+    39.776004
+],
+  "geometry": {"coordinates":[-75.595855,39.776004],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873503027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.139571,38.775375,-75.139571,38.775375",
+    "geom:latitude":38.775375,
+    "geom:longitude":-75.139571,
+    "iso:country":"US",
+    "sg:address":"131 2nd St",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2024",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931621,
+        102083887,
+        85822813
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0DZxiifz0W2ZVx9BFLBHsi_38.775375_-75.139571@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223066,
+    "wof:geomhash":"918f13c6d4066388b8c0b1cd19f7b591",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931621,
+            "neighbourhood_id":85822813,
+            "region_id":85688611,
+            "venue_id":873503027
+        }
+    ],
+    "wof:id":873503027,
+    "wof:lastmodified":1464223066,
+    "wof:name":"Citizens Bank",
+    "wof:parent_id":85822813,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.139571,
+    38.775375,
+    -75.139571,
+    38.775375
+],
+  "geometry": {"coordinates":[-75.139571,38.775375],"type":"Point"}
+}

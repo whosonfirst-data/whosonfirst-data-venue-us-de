@@ -1,0 +1,79 @@
+{
+  "id": 873517695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547234,39.820518,-75.547234,39.820518",
+    "geom:latitude":39.820518,
+    "geom:longitude":-75.547234,
+    "iso:country":"US",
+    "sg:address":"4737 Concord Pike Ste 835",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Travel Agent",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Marine",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 7581",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "agency",
+        "services-commercial",
+        "steamship"
+    ],
+    "sg:website":"http://www.libertytravel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5gPIdeTHXQansihUxD5XBb_39.820518_-75.547234@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223774,
+    "wof:geomhash":"ce4012b2574d2b54134bf716bdb9aaa0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517695
+        }
+    ],
+    "wof:id":873517695,
+    "wof:lastmodified":1464223774,
+    "wof:name":"Liberty Travel",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agency",
+        "services-commercial",
+        "steamship"
+    ]
+},
+  "bbox": [
+    -75.547234,
+    39.820518,
+    -75.547234,
+    39.820518
+],
+  "geometry": {"coordinates":[-75.547234,39.820518],"type":"Point"}
+}

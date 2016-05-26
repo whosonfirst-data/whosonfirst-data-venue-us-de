@@ -1,0 +1,78 @@
+{
+  "id": 873518281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.635617,39.71593,-75.635617,39.71593",
+    "geom:latitude":39.71593,
+    "geom:longitude":-75.635617,
+    "iso:country":"US",
+    "sg:address":"2012 W Newport Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Thrift Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 1416",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "second",
+        "hand"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jkJyrcEZFkM1NIASOAXD6_39.715930_-75.635617@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223806,
+    "wof:geomhash":"2ab22c41f432116fd0bcf4c8545f3ab6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873518281
+        }
+    ],
+    "wof:id":873518281,
+    "wof:lastmodified":1464223806,
+    "wof:name":"Family Thrift Store Ctr",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "second",
+        "hand"
+    ]
+},
+  "bbox": [
+    -75.635617,
+    39.71593,
+    -75.635617,
+    39.71593
+],
+  "geometry": {"coordinates":[-75.635617,39.71593],"type":"Point"}
+}

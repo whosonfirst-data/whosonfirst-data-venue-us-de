@@ -1,0 +1,71 @@
+{
+  "id": 873501289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682617,39.649539,-75.682617,39.649539",
+    "geom:latitude":39.649539,
+    "geom:longitude":-75.682617,
+    "iso:country":"US",
+    "sg:address":"401 Revolution Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 7972",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AtLCsefSJ31aN6lOXmK9s_39.649539_-75.682617@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223000,
+    "wof:geomhash":"17950aa27c8e2c7753fd76c49e9401b6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873501289
+        }
+    ],
+    "wof:id":873501289,
+    "wof:lastmodified":1464223000,
+    "wof:name":"Nice Cleaners",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -75.682617,
+    39.649539,
+    -75.682617,
+    39.649539
+],
+  "geometry": {"coordinates":[-75.68261699999999,39.649539],"type":"Point"}
+}

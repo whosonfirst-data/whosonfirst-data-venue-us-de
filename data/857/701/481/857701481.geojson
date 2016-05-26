@@ -1,0 +1,71 @@
+{
+  "id": 857701481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.717333,39.673542,-75.717333,39.673542",
+    "geom:latitude":39.673542,
+    "geom:longitude":-75.717333,
+    "iso:country":"US",
+    "sg:address":"7 Millbrook Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 1556",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "paving",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2CxNuyYH7kzYnkhrlIqWsJ_39.673542_-75.717333@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220849,
+    "wof:geomhash":"a83632b7dbaefb60625588e436f45c2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857701481
+        }
+    ],
+    "wof:id":857701481,
+    "wof:lastmodified":1464220849,
+    "wof:name":"C & F Sealcoating",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paving",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.717333,
+    39.673542,
+    -75.717333,
+    39.673542
+],
+  "geometry": {"coordinates":[-75.717333,39.673542],"type":"Point"}
+}

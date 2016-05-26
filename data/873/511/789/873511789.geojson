@@ -1,0 +1,75 @@
+{
+  "id": 873511789,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523003,39.1474,-75.523003,39.1474",
+    "geom:latitude":39.1474,
+    "geom:longitude":-75.523003,
+    "iso:country":"US",
+    "sg:address":"31 Gooden Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 9141",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2xEsW9Ebv1LaQevzqGDBh9_39.147596_-75.522770@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223464,
+    "wof:geomhash":"2bec76730cfb92755e373cf8e7a780bb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873511789
+        }
+    ],
+    "wof:id":873511789,
+    "wof:lastmodified":1464223464,
+    "wof:name":"Mid Delaware Internal Medicine PA",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "internal"
+    ]
+},
+  "bbox": [
+    -75.523003,
+    39.1474,
+    -75.523003,
+    39.1474
+],
+  "geometry": {"coordinates":[-75.523003,39.1474],"type":"Point"}
+}

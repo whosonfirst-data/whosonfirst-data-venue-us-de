@@ -1,0 +1,71 @@
+{
+  "id": 873468247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.07609,38.542643,-75.07609,38.542643",
+    "geom:latitude":38.542643,
+    "geom:longitude":-75.07609,
+    "iso:country":"US",
+    "sg:address":"851 Glen Dr",
+    "sg:city":"Bethany Beach",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 0207",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5agvvCqWW6FXByah3rcNb4_38.542643_-75.076090@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221660,
+    "wof:geomhash":"1572ca29a30436e6c21c47da45dcc1f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873468247
+        }
+    ],
+    "wof:id":873468247,
+    "wof:lastmodified":1464221660,
+    "wof:name":"Del-Glen Engineering Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.07609,
+    38.542643,
+    -75.07609,
+    38.542643
+],
+  "geometry": {"coordinates":[-75.07608999999999,38.542643],"type":"Point"}
+}

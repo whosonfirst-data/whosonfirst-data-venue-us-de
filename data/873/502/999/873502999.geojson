@@ -1,0 +1,71 @@
+{
+  "id": 873502999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.684507,39.689593,-75.684507,39.689593",
+    "geom:latitude":39.689593,
+    "geom:longitude":-75.684507,
+    "iso:country":"US",
+    "sg:address":"914 Old Harmony Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 9466",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RhV2prdi5ONV3a5W8A78a_39.689593_-75.684507@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223065,
+    "wof:geomhash":"cbf07e92f4f2e94f22dee938231b349e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873502999
+        }
+    ],
+    "wof:id":873502999,
+    "wof:lastmodified":1464223065,
+    "wof:name":"East Coast Electric Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.684507,
+    39.689593,
+    -75.684507,
+    39.689593
+],
+  "geometry": {"coordinates":[-75.684507,39.689593],"type":"Point"}
+}

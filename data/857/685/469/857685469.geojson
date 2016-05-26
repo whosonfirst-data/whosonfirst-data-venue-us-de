@@ -1,0 +1,73 @@
+{
+  "id": 857685469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.465858,39.005392,-75.465858,39.005392",
+    "geom:latitude":39.005392,
+    "geom:longitude":-75.465858,
+    "iso:country":"US",
+    "sg:address":"216 Market St",
+    "sg:city":"Frederica",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 4555",
+    "sg:postcode":"19946",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RilCgVruYMLDB6dXS5Ziu_39.005392_-75.465858@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220530,
+    "wof:geomhash":"21810c04d08201434c87b7cf81d6d2b3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857685469
+        }
+    ],
+    "wof:id":857685469,
+    "wof:lastmodified":1464220530,
+    "wof:name":"Frederica Senior Ctr Inc",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "senior",
+        "citizen"
+    ]
+},
+  "bbox": [
+    -75.465858,
+    39.005392,
+    -75.465858,
+    39.005392
+],
+  "geometry": {"coordinates":[-75.465858,39.005392],"type":"Point"}
+}

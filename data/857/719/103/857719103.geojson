@@ -1,0 +1,71 @@
+{
+  "id": 857719103,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.717292,39.698418,-75.717292,39.698418",
+    "geom:latitude":39.698418,
+    "geom:longitude":-75.717292,
+    "iso:country":"US",
+    "sg:address":"100 Delaplane Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Job Training",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 753 7115",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consulting",
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oPBhTXh4jOlS4z8rBiyME_39.698418_-75.717292@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221229,
+    "wof:geomhash":"422a6e0da6b26ec9100dbfd0640436c4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857719103
+        }
+    ],
+    "wof:id":857719103,
+    "wof:lastmodified":1464221229,
+    "wof:name":"Therapeutic Options Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -75.717292,
+    39.698418,
+    -75.717292,
+    39.698418
+],
+  "geometry": {"coordinates":[-75.717292,39.698418],"type":"Point"}
+}

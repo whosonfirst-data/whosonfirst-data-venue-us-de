@@ -1,0 +1,71 @@
+{
+  "id": 873505201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.085482,38.737732,-75.085482,38.737732",
+    "geom:latitude":38.737732,
+    "geom:longitude":-75.085482,
+    "iso:country":"US",
+    "sg:address":"21 Bayberry Ln",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 2523",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "liquor",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Wvsr5cIEs2KZmWL67RKCy_38.737732_-75.085482@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223164,
+    "wof:geomhash":"f83a62d90cfd0d8905695c8174c6a48c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":873505201
+        }
+    ],
+    "wof:id":873505201,
+    "wof:lastmodified":1464223164,
+    "wof:name":"Norris Robt Brewer",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "liquor",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.085482,
+    38.737732,
+    -75.085482,
+    38.737732
+],
+  "geometry": {"coordinates":[-75.085482,38.737732],"type":"Point"}
+}

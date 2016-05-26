@@ -1,0 +1,71 @@
+{
+  "id": 873467977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.507086,39.797312,-75.507086,39.797312",
+    "geom:latitude":39.797312,
+    "geom:longitude":-75.507086,
+    "iso:country":"US",
+    "sg:address":"1203 Winstead Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1740",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3K99F1s7nH2oufoOaJFkQy_39.797312_-75.507086@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221652,
+    "wof:geomhash":"289da5fffb96fadc34118377cc32d83e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873467977
+        }
+    ],
+    "wof:id":873467977,
+    "wof:lastmodified":1464221652,
+    "wof:name":"Grounds Maintenance",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.507086,
+    39.797312,
+    -75.507086,
+    39.797312
+],
+  "geometry": {"coordinates":[-75.507086,39.797312],"type":"Point"}
+}

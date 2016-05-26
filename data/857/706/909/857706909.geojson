@@ -1,0 +1,71 @@
+{
+  "id": 857706909,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.080921,38.542714,-75.080921,38.542714",
+    "geom:latitude":38.542714,
+    "geom:longitude":-75.080921,
+    "iso:country":"US",
+    "sg:address":"135 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Jewelry",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 0500",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "jeweler"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MQoYLnSMF2NrP64kuGVtj_38.542714_-75.080921@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220948,
+    "wof:geomhash":"37f863f6e59f064b32738352e7f2cd9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857706909
+        }
+    ],
+    "wof:id":857706909,
+    "wof:lastmodified":1464220948,
+    "wof:name":"Hall's Fine Jewelry",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "jeweler"
+    ]
+},
+  "bbox": [
+    -75.080921,
+    38.542714,
+    -75.080921,
+    38.542714
+],
+  "geometry": {"coordinates":[-75.080921,38.542714],"type":"Point"}
+}

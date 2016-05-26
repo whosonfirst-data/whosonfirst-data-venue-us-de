@@ -1,0 +1,74 @@
+{
+  "id": 873513827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594344,38.658585,-75.594344,38.658585",
+    "geom:latitude":38.658585,
+    "geom:longitude":-75.594344,
+    "iso:country":"US",
+    "sg:address":"664 N Dual Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/seaford/169461-wendys/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 2607",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "burger",
+        "american",
+        "soup"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6B3vlts0xIwNgTz7IX3kuR_38.658585_-75.594344@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223550,
+    "wof:geomhash":"cb1bfd1393393a5a7cce0c34cb227294",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873513827
+        }
+    ],
+    "wof:id":873513827,
+    "wof:lastmodified":1464223550,
+    "wof:name":"Wendy's",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "burger",
+        "american",
+        "soup"
+    ]
+},
+  "bbox": [
+    -75.594344,
+    38.658585,
+    -75.594344,
+    38.658585
+],
+  "geometry": {"coordinates":[-75.59434400000001,38.658585],"type":"Point"}
+}

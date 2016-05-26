@@ -1,0 +1,69 @@
+{
+  "id": 873481171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.10447,38.713286,-75.10447,38.713286",
+    "geom:latitude":38.713286,
+    "geom:longitude":-75.10447,
+    "iso:country":"US",
+    "sg:address":"19930 Coastal Hwy",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 2449",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3EJdJTD6JLvL2iDKO62WLw_38.713286_-75.104470@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222161,
+    "wof:geomhash":"07d65c7ef4eae4654723b62a88cd9d1c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873481171
+        }
+    ],
+    "wof:id":873481171,
+    "wof:lastmodified":1464222161,
+    "wof:name":"Sherwin-Williams Paints",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -75.10447,
+    38.713286,
+    -75.10447,
+    38.713286
+],
+  "geometry": {"coordinates":[-75.10447000000001,38.713286],"type":"Point"}
+}

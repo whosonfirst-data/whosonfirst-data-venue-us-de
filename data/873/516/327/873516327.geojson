@@ -1,0 +1,83 @@
+{
+  "id": 873516327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.686817,39.688381,-75.686817,39.688381",
+    "geom:latitude":39.688381,
+    "geom:longitude":-75.686817,
+    "iso:country":"US",
+    "sg:address":"26 Cheswold Blvd Apt 2A",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 3561",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ],
+    "sg:website":"http://www.harborclubapartments.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LkW9KMQALdi3iHn1UERYE_39.688381_-75.686817@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223674,
+    "wof:geomhash":"ecce1670a40790c1144849b3cbbd3bbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516327
+        }
+    ],
+    "wof:id":873516327,
+    "wof:lastmodified":1464223674,
+    "wof:name":"Harbor Club Apartments",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "vacancy",
+        "apartment",
+        "rental",
+        "finder",
+        "listing"
+    ]
+},
+  "bbox": [
+    -75.686817,
+    39.688381,
+    -75.686817,
+    39.688381
+],
+  "geometry": {"coordinates":[-75.686817,39.688381],"type":"Point"}
+}

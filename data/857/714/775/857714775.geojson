@@ -1,0 +1,71 @@
+{
+  "id": 857714775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.102776,38.559626,-75.102776,38.559626",
+    "geom:latitude":38.559626,
+    "geom:longitude":-75.102776,
+    "iso:country":"US",
+    "sg:address":"506 Lake Ct",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 8571",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7hEkRkx02acdjNq8QG3mjs_38.559626_-75.102776@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221144,
+    "wof:geomhash":"63e56e2888055a1ddbe0e249da08bfb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857714775
+        }
+    ],
+    "wof:id":857714775,
+    "wof:lastmodified":1464221144,
+    "wof:name":"Barnums Ship Shape Services",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.102776,
+    38.559626,
+    -75.102776,
+    38.559626
+],
+  "geometry": {"coordinates":[-75.10277600000001,38.559626],"type":"Point"}
+}

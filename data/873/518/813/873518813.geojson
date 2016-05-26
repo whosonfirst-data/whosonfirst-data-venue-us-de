@@ -1,0 +1,69 @@
+{
+  "id": 873518813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.624685,39.803134,-75.624685,39.803134",
+    "geom:latitude":39.803134,
+    "geom:longitude":-75.624685,
+    "iso:country":"US",
+    "sg:address":"903 Owls Nest Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 3333",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "courses-private"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sEYpXH5GMx3LUIxmbE38Z_39.803134_-75.624685@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223828,
+    "wof:geomhash":"db12dc4d85f878c930335ef81eee88b5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":873518813
+        }
+    ],
+    "wof:id":873518813,
+    "wof:lastmodified":1464223828,
+    "wof:name":"Biderman Golf Club",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "courses-private"
+    ]
+},
+  "bbox": [
+    -75.624685,
+    39.803134,
+    -75.624685,
+    39.803134
+],
+  "geometry": {"coordinates":[-75.624685,39.803134],"type":"Point"}
+}

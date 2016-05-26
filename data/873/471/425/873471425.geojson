@@ -1,0 +1,80 @@
+{
+  "id": 873471425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081032,38.542747,-75.081032,38.542747",
+    "geom:latitude":38.542747,
+    "geom:longitude":-75.081032,
+    "iso:country":"US",
+    "sg:address":"83 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 4777",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "household",
+        "furnishing",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6YfHsnGguaDVRVEETN5pQK_38.542747_-75.081032@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221784,
+    "wof:geomhash":"26859f59029abc3fee9508040122083b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873471425
+        }
+    ],
+    "wof:id":873471425,
+    "wof:lastmodified":1464221784,
+    "wof:name":"Beach Cottage LLC",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "household",
+        "furnishing",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.081032,
+    38.542747,
+    -75.081032,
+    38.542747
+],
+  "geometry": {"coordinates":[-75.08103199999999,38.542747],"type":"Point"}
+}

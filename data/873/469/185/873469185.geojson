@@ -1,0 +1,69 @@
+{
+  "id": 873469185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.666186,39.73201,-75.666186,39.73201",
+    "geom:latitude":39.73201,
+    "geom:longitude":-75.666186,
+    "iso:country":"US",
+    "sg:address":"1321 McKennans Church Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7576",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0iSYkj9g5ifKnffxVERLUI_39.732010_-75.666186@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221693,
+    "wof:geomhash":"c824e51efce20af59016f4018768d9f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873469185
+        }
+    ],
+    "wof:id":873469185,
+    "wof:lastmodified":1464221693,
+    "wof:name":"Colton Cleaners",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.666186,
+    39.73201,
+    -75.666186,
+    39.73201
+],
+  "geometry": {"coordinates":[-75.666186,39.73201],"type":"Point"}
+}

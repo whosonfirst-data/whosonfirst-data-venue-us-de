@@ -1,0 +1,73 @@
+{
+  "id": 873482005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.290883,38.580089,-75.290883,38.580089",
+    "geom:latitude":38.580089,
+    "geom:longitude":-75.290883,
+    "iso:country":"US",
+    "sg:address":"248 E Dupont Hwy",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 933 0950",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZVtbIyBUnYRzSZnlBDi2M_38.580089_-75.290883@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222195,
+    "wof:geomhash":"9b906ece506a1ffd9e0438293980086a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873482005
+        }
+    ],
+    "wof:id":873482005,
+    "wof:lastmodified":1464222195,
+    "wof:name":"Swann Cove LLC",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -75.290883,
+    38.580089,
+    -75.290883,
+    38.580089
+],
+  "geometry": {"coordinates":[-75.29088299999999,38.580089],"type":"Point"}
+}

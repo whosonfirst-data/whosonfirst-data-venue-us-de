@@ -1,0 +1,73 @@
+{
+  "id": 873508105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.712376,39.698786,-75.712376,39.698786",
+    "geom:latitude":39.698786,
+    "geom:longitude":-75.712376,
+    "iso:country":"US",
+    "sg:address":"35 Rose Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 1385",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "welding",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4iK4YWZYSiJ3uHNoWGEokV_39.698786_-75.712376@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223289,
+    "wof:geomhash":"84766c853607a916c0a8afec67a41abf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873508105
+        }
+    ],
+    "wof:id":873508105,
+    "wof:lastmodified":1464223289,
+    "wof:name":"R E Erickson & Son Welding",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "welding",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.712376,
+    39.698786,
+    -75.712376,
+    39.698786
+],
+  "geometry": {"coordinates":[-75.71237600000001,39.698786],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 873498889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.159218,38.755562,-75.159218,38.755562",
+    "geom:latitude":38.755562,
+    "geom:longitude":-75.159218,
+    "iso:country":"US",
+    "sg:address":"1548 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Nursery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 6292",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "greenhouse"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1U6wMMAw20LvfiLtVBjd3A_38.755562_-75.159218@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222895,
+    "wof:geomhash":"4b6d6632e2d9f816c63227946c875f75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873498889
+        }
+    ],
+    "wof:id":873498889,
+    "wof:lastmodified":1464222895,
+    "wof:name":"Windsor's Plant Outlet",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "greenhouse"
+    ]
+},
+  "bbox": [
+    -75.159218,
+    38.755562,
+    -75.159218,
+    38.755562
+],
+  "geometry": {"coordinates":[-75.159218,38.755562],"type":"Point"}
+}

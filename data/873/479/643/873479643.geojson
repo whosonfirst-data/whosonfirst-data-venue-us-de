@@ -1,0 +1,69 @@
+{
+  "id": 873479643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.140869,38.73233,-75.140869,38.73233",
+    "geom:latitude":38.73233,
+    "geom:longitude":-75.140869,
+    "iso:country":"US",
+    "sg:address":"44 Radcliffe Dr",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 5642",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3SKrpdpf1Rl8uGWAlYo3sc_38.732330_-75.140869@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222094,
+    "wof:geomhash":"0cc53294a471710fc31662d96104a0c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873479643
+        }
+    ],
+    "wof:id":873479643,
+    "wof:lastmodified":1464222094,
+    "wof:name":"Anthony Shipyan Auto Insptn",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.140869,
+    38.73233,
+    -75.140869,
+    38.73233
+],
+  "geometry": {"coordinates":[-75.140869,38.73233],"type":"Point"}
+}

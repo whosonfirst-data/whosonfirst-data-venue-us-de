@@ -1,0 +1,79 @@
+{
+  "id": 857723957,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554953,39.735188,-75.554953,39.735188",
+    "geom:latitude":39.735188,
+    "geom:longitude":-75.554953,
+    "iso:country":"US",
+    "sg:address":"110 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7050",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1HwqBfB8YzqbO85TXf1eEF_39.735188_-75.554953@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221323,
+    "wof:geomhash":"0e9ff33acea2008209ac57d2299243ae",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":857723957
+        }
+    ],
+    "wof:id":857723957,
+    "wof:lastmodified":1464221323,
+    "wof:name":"Newport Cleaners",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "plant",
+        "agent",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -75.554953,
+    39.735188,
+    -75.554953,
+    39.735188
+],
+  "geometry": {"coordinates":[-75.554953,39.735188],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857708153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.601224,38.650751,-75.601224,38.650751",
+    "geom:latitude":38.650751,
+    "geom:longitude":-75.601224,
+    "iso:country":"US",
+    "sg:address":"818 Norman Eskridge Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 9986",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yXBkMA2qDn1eCaz09ghJq_38.650751_-75.601224@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220977,
+    "wof:geomhash":"799d9a8cb0282b8713ce51016b892515",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":857708153
+        }
+    ],
+    "wof:id":857708153,
+    "wof:lastmodified":1464220977,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.601224,
+    38.650751,
+    -75.601224,
+    38.650751
+],
+  "geometry": {"coordinates":[-75.601224,38.650751],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873467035,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.736319,39.686695,-75.736319,39.686695",
+    "geom:latitude":39.686695,
+    "geom:longitude":-75.736319,
+    "iso:country":"US",
+    "sg:address":"414 E Cleveland Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 6800",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "new",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LquARrmeRgkuFFoO61wOd_39.686695_-75.736319@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221619,
+    "wof:geomhash":"39dd8490514bd69666fcb3f3c1369042",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873467035
+        }
+    ],
+    "wof:id":873467035,
+    "wof:lastmodified":1464221619,
+    "wof:name":"Porter Chevrolet/Hyundai",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "new",
+        "used"
+    ]
+},
+  "bbox": [
+    -75.736319,
+    39.686695,
+    -75.736319,
+    39.686695
+],
+  "geometry": {"coordinates":[-75.73631899999999,39.686695],"type":"Point"}
+}

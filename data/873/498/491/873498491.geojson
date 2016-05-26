@@ -1,0 +1,73 @@
+{
+  "id": 873498491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.381752,38.701364,-75.381752,38.701364",
+    "geom:latitude":38.701364,
+    "geom:longitude":-75.381752,
+    "iso:country":"US",
+    "sg:address":"200 Savannah Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Meat",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 0941",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "poultry",
+        "processing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yBxphKt5neUr8er7j7toD_38.701364_-75.381752@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222882,
+    "wof:geomhash":"90e5aeec7f7bb1b8978553a1a19594f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873498491
+        }
+    ],
+    "wof:id":873498491,
+    "wof:lastmodified":1464222882,
+    "wof:name":"Perdue Farms Incorporated",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "poultry",
+        "processing"
+    ]
+},
+  "bbox": [
+    -75.381752,
+    38.701364,
+    -75.381752,
+    38.701364
+],
+  "geometry": {"coordinates":[-75.38175200000001,38.701364],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873504519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.749847,39.67845,-75.749847,39.67845",
+    "geom:latitude":39.67845,
+    "geom:longitude":-75.749847,
+    "iso:country":"US",
+    "sg:address":"413 Academy St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 831 2222",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1uWRavBxhtlKpUeSqEugNK_39.678450_-75.749847@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223127,
+    "wof:geomhash":"dead442ee39b8ee473cac768ed2514c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":873504519
+        }
+    ],
+    "wof:id":873504519,
+    "wof:lastmodified":1464223127,
+    "wof:name":"University of Delaware Police",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -75.749847,
+    39.67845,
+    -75.749847,
+    39.67845
+],
+  "geometry": {"coordinates":[-75.749847,39.67845],"type":"Point"}
+}

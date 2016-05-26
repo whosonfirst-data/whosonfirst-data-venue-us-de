@@ -1,0 +1,77 @@
+{
+  "id": 873514097,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.668841,39.631331,-75.668841,39.631331",
+    "geom:latitude":39.631331,
+    "geom:longitude":-75.668841,
+    "iso:country":"US",
+    "sg:address":"1235 Quintilio Dr",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 3431",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "sg:website":"http://www.longandfoster.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zzzW5BGA5MxKgQKvYhUSP_39.631331_-75.668841@1303262469"
+    },
+    "wof:country":"US",
+    "wof:created":1464223568,
+    "wof:geomhash":"23bc72f17fc7fa0f2ea3a1409c318075",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514097
+        }
+    ],
+    "wof:id":873514097,
+    "wof:lastmodified":1464223568,
+    "wof:name":"Long & Foster Real Estate",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.668841,
+    39.631331,
+    -75.668841,
+    39.631331
+],
+  "geometry": {"coordinates":[-75.668841,39.631331],"type":"Point"}
+}

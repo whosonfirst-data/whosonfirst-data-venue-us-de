@@ -1,0 +1,75 @@
+{
+  "id": 857711221,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.590036,39.734335,-75.590036,39.734335",
+    "geom:latitude":39.734335,
+    "geom:longitude":-75.590036,
+    "iso:country":"US",
+    "sg:address":"470 B and O Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 7133",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931543,
+        102083891,
+        85811253
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5LuZ6B6d7BDyonO6QiwAHR_39.734335_-75.590036@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221055,
+    "wof:geomhash":"e65292f2eec9c90163bacfc9b658bf8b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931543,
+            "neighbourhood_id":85811253,
+            "region_id":85688611,
+            "venue_id":857711221
+        }
+    ],
+    "wof:id":857711221,
+    "wof:lastmodified":1464221055,
+    "wof:name":"Wilmington Car Care Inc",
+    "wof:parent_id":85811253,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.590036,
+    39.734335,
+    -75.590036,
+    39.734335
+],
+  "geometry": {"coordinates":[-75.590036,39.734335],"type":"Point"}
+}

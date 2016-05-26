@@ -1,0 +1,71 @@
+{
+  "id": 857726013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.717086,39.670349,-75.717086,39.670349",
+    "geom:latitude":39.670349,
+    "geom:longitude":-75.717086,
+    "iso:country":"US",
+    "sg:address":"18 Monterry Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 1669",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r36wwrT3WlHAN64j6KguZ_39.670349_-75.717086@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221362,
+    "wof:geomhash":"8b8acb461fae457cbfaa7ee4bb1a9a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857726013
+        }
+    ],
+    "wof:id":857726013,
+    "wof:lastmodified":1464221362,
+    "wof:name":"Kelly Contractors Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.717086,
+    39.670349,
+    -75.717086,
+    39.670349
+],
+  "geometry": {"coordinates":[-75.71708599999999,39.670349],"type":"Point"}
+}

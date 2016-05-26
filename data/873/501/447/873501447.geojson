@@ -1,0 +1,71 @@
+{
+  "id": 873501447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.293353,38.579464,-75.293353,38.579464",
+    "geom:latitude":38.579464,
+    "geom:longitude":-75.293353,
+    "iso:country":"US",
+    "sg:address":"318 Holly St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 9525",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5AOjINgY4ZoPjWVKYOSzK1_38.579464_-75.293353@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223009,
+    "wof:geomhash":"1cc252793cee781e2e9c6ad5a2d8823d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873501447
+        }
+    ],
+    "wof:id":873501447,
+    "wof:lastmodified":1464223009,
+    "wof:name":"Richard D Whaley Construction",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.293353,
+    38.579464,
+    -75.293353,
+    38.579464
+],
+  "geometry": {"coordinates":[-75.293353,38.579464],"type":"Point"}
+}

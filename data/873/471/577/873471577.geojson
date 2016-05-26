@@ -1,0 +1,66 @@
+{
+  "id": 873471577,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634079,39.292264,-75.634079,39.292264",
+    "geom:latitude":39.292264,
+    "geom:longitude":-75.634079,
+    "iso:country":"US",
+    "sg:address":"12 Railroad Ave",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 7376",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1s1Ak2WIVu1unJwHEy14jH_39.292264_-75.634079@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221789,
+    "wof:geomhash":"59e8a11e5afeccdbc2302ea79a6f5b26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873471577
+        }
+    ],
+    "wof:id":873471577,
+    "wof:lastmodified":1464221789,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.634079,
+    39.292264,
+    -75.634079,
+    39.292264
+],
+  "geometry": {"coordinates":[-75.634079,39.292264],"type":"Point"}
+}

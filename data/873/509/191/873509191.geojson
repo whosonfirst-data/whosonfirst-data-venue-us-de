@@ -1,0 +1,78 @@
+{
+  "id": 873509191,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55053,39.740028,-75.55053,39.740028",
+    "geom:latitude":39.740028,
+    "geom:longitude":-75.55053,
+    "iso:country":"US",
+    "sg:address":"10 E 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5259",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6SAJZc8v2NIcYBlIu6npGQ_39.740028_-75.550530@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223339,
+    "wof:geomhash":"bad15164ed9405c11c6e6bd7264f8f0e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873509191
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873509191
+        }
+    ],
+    "wof:id":873509191,
+    "wof:lastmodified":1464223339,
+    "wof:name":"D & H West Indian & American",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.55053,
+    39.740028,
+    -75.55053,
+    39.740028
+],
+  "geometry": {"coordinates":[-75.55052999999999,39.740028],"type":"Point"}
+}

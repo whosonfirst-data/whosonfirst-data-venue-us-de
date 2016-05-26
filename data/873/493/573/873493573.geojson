@@ -1,0 +1,71 @@
+{
+  "id": 873493573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.055368,38.516367,-75.055368,38.516367",
+    "geom:latitude":38.516367,
+    "geom:longitude":-75.055368,
+    "iso:country":"US",
+    "sg:address":"107 New Castle Dr",
+    "sg:city":"Bethany Beach",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 7398",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6J6bDwtAYENeaJVKIV02Zm_38.516367_-75.055368@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222630,
+    "wof:geomhash":"3418a8d5f691d4b6e995524d274a88a1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873493573
+        }
+    ],
+    "wof:id":873493573,
+    "wof:lastmodified":1464222630,
+    "wof:name":"Dabney Sr Randolph",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -75.055368,
+    38.516367,
+    -75.055368,
+    38.516367
+],
+  "geometry": {"coordinates":[-75.055368,38.516367],"type":"Point"}
+}

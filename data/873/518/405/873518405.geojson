@@ -1,0 +1,84 @@
+{
+  "id": 873518405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569824,39.744802,-75.569824,39.744802",
+    "geom:latitude":39.744802,
+    "geom:longitude":-75.569824,
+    "iso:country":"US",
+    "sg:address":"17 S Clayton St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 421 4212",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "refinishing",
+        "equipment-repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dgJDAf17gfYt9RkvVGYw1_39.744802_-75.569824@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223810,
+    "wof:geomhash":"fbf01739a4c5e644083d807a87ec7840",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873518405
+        }
+    ],
+    "wof:id":873518405,
+    "wof:lastmodified":1464223810,
+    "wof:name":"Aramark Cts",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "refinishing",
+        "equipment-repairing"
+    ]
+},
+  "bbox": [
+    -75.569824,
+    39.744802,
+    -75.569824,
+    39.744802
+],
+  "geometry": {"coordinates":[-75.569824,39.744802],"type":"Point"}
+}

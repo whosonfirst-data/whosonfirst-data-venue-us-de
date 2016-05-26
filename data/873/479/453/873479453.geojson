@@ -1,0 +1,71 @@
+{
+  "id": 873479453,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.492282,39.778672,-75.492282,39.778672",
+    "geom:latitude":39.778672,
+    "geom:longitude":-75.492282,
+    "iso:country":"US",
+    "sg:address":"300 Bellevue Pkwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 792 1988",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "national",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UmDVk1V7XYGjYwzsWQoUH_39.778672_-75.492282@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222083,
+    "wof:geomhash":"5b0f4228088326fe7059f80fff7944a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":873479453
+        }
+    ],
+    "wof:id":873479453,
+    "wof:lastmodified":1464222083,
+    "wof:name":"Natcity Trust Co of Delaware",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "national",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.492282,
+    39.778672,
+    -75.492282,
+    39.778672
+],
+  "geometry": {"coordinates":[-75.492282,39.778672],"type":"Point"}
+}

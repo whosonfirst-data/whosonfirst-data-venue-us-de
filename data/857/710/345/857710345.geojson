@@ -1,0 +1,73 @@
+{
+  "id": 857710345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565454,39.755803,-75.565454,39.755803",
+    "geom:latitude":39.755803,
+    "geom:longitude":-75.565454,
+    "iso:country":"US",
+    "sg:address":"1228 N Scott St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 2527",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IQ65wXiZUggOY0kh8zXoq_39.755803_-75.565454@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221037,
+    "wof:geomhash":"50cdffe375e6fd6b9831ae1164dceab4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857710345
+        }
+    ],
+    "wof:id":857710345,
+    "wof:lastmodified":1464221037,
+    "wof:name":"Edelsohn Lanny MD",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.565454,
+    39.755803,
+    -75.565454,
+    39.755803
+],
+  "geometry": {"coordinates":[-75.565454,39.755803],"type":"Point"}
+}

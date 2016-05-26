@@ -1,0 +1,73 @@
+{
+  "id": 873504717,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.396531,38.684602,-75.396531,38.684602",
+    "geom:latitude":38.684602,
+    "geom:longitude":-75.396531,
+    "iso:country":"US",
+    "sg:address":"113 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2739",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tank",
+        "septic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46HzmQSXoEQldVpLqxaBrr_38.684602_-75.396531@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223140,
+    "wof:geomhash":"197ccec9cfba4b234def125ef785bc4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873504717
+        }
+    ],
+    "wof:id":873504717,
+    "wof:lastmodified":1464223140,
+    "wof:name":"Brittingham Associates",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "septic"
+    ]
+},
+  "bbox": [
+    -75.396531,
+    38.684602,
+    -75.396531,
+    38.684602
+],
+  "geometry": {"coordinates":[-75.396531,38.684602],"type":"Point"}
+}

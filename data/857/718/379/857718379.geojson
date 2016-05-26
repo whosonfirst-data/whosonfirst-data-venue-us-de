@@ -1,0 +1,75 @@
+{
+  "id": 857718379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.690908,39.661159,-75.690908,39.661159",
+    "geom:latitude":39.661159,
+    "geom:longitude":-75.690908,
+    "iso:country":"US",
+    "sg:address":"540 Jfk Memorial Hwy",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 5826",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "supply",
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1VCMtKbeSkahKiD1LBlbZf_39.661159_-75.690908@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221210,
+    "wof:geomhash":"6d730e398f9bedc56c1b364b9bb4f1bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857718379
+        }
+    ],
+    "wof:id":857718379,
+    "wof:lastmodified":1464221210,
+    "wof:name":"Exxon",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.690908,
+    39.661159,
+    -75.690908,
+    39.661159
+],
+  "geometry": {"coordinates":[-75.69090799999999,39.661159],"type":"Point"}
+}

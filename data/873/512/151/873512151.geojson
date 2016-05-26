@@ -1,0 +1,71 @@
+{
+  "id": 873512151,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.503189,39.769371,-75.503189,39.769371",
+    "geom:latitude":39.769371,
+    "geom:longitude":-75.503189,
+    "iso:country":"US",
+    "sg:address":"603 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 761 6677",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "government-state",
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nooQRkQDHkf0PnJir5G26_39.769685_-75.502665@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223481,
+    "wof:geomhash":"fbe54ffc4430a3812d3b26e22dfc5b41",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873512151
+        }
+    ],
+    "wof:id":873512151,
+    "wof:lastmodified":1464223481,
+    "wof:name":"Delaware State Police Troop 1",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "government-state",
+        "state"
+    ]
+},
+  "bbox": [
+    -75.503189,
+    39.769371,
+    -75.503189,
+    39.769371
+],
+  "geometry": {"coordinates":[-75.50318900000001,39.769371],"type":"Point"}
+}

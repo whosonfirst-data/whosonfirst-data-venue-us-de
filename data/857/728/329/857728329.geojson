@@ -1,0 +1,83 @@
+{
+  "id": 857728329,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550367,39.725645,-75.550367,39.725645",
+    "geom:latitude":39.725645,
+    "geom:longitude":-75.550367,
+    "iso:country":"US",
+    "sg:address":"701 Garasches Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Furniture",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 3659",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mattress"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529,
+        85833991
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7OWEikXZJ4kti0pQlw2Cb5_39.725645_-75.550367@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221402,
+    "wof:geomhash":"0717981f04a791c46fd06097b6f94d56",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":857728329
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85833991,
+            "region_id":85688611,
+            "venue_id":857728329
+        }
+    ],
+    "wof:id":857728329,
+    "wof:lastmodified":1464221402,
+    "wof:name":"Fibre Processing Corp",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mattress"
+    ]
+},
+  "bbox": [
+    -75.550367,
+    39.725645,
+    -75.550367,
+    39.725645
+],
+  "geometry": {"coordinates":[-75.55036699999999,39.725645],"type":"Point"}
+}

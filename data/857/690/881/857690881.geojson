@@ -1,0 +1,76 @@
+{
+  "id": 857690881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541254,39.105325,-75.541254,39.105325",
+    "geom:latitude":39.105325,
+    "geom:longitude":-75.541254,
+    "iso:country":"US",
+    "sg:address":"4004 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 5288",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1PWPfKvTflkxq2RQaXnGRa_39.105325_-75.541254@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220638,
+    "wof:geomhash":"1e36b9fb8aee1a1122c4ec289eda4217",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857690881
+        }
+    ],
+    "wof:id":857690881,
+    "wof:lastmodified":1464220638,
+    "wof:name":"All About You Hair Salon",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.541254,
+    39.105325,
+    -75.541254,
+    39.105325
+],
+  "geometry": {"coordinates":[-75.541254,39.105325],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 873517881,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54586,39.785599,-75.54586,39.785599",
+    "geom:latitude":39.785599,
+    "geom:longitude":-75.54586,
+    "iso:country":"US",
+    "sg:address":"1 Murphy Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Painting Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 3370",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "paint",
+        "wallpaper",
+        "paint-wholesale",
+        "equipment",
+        "wallcoverings",
+        "manufacturer"
+    ],
+    "sg:website":"http://www.duron.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QV69g6azgVmDKsTfQAiXc_39.785599_-75.545860@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223788,
+    "wof:geomhash":"cf881ba625dda0a4309f37c2aa4b4347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873517881
+        }
+    ],
+    "wof:id":873517881,
+    "wof:lastmodified":1464223788,
+    "wof:name":"Duron Paints & Wallcoverings",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint",
+        "wallpaper",
+        "paint-wholesale",
+        "equipment",
+        "wallcoverings",
+        "manufacturer"
+    ]
+},
+  "bbox": [
+    -75.54586,
+    39.785599,
+    -75.54586,
+    39.785599
+],
+  "geometry": {"coordinates":[-75.54586,39.785599],"type":"Point"}
+}

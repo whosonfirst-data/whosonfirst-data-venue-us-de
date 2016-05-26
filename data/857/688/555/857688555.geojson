@@ -1,0 +1,73 @@
+{
+  "id": 857688555,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.151023,38.547992,-75.151023,38.547992",
+    "geom:latitude":38.547992,
+    "geom:longitude":-75.151023,
+    "iso:country":"US",
+    "sg:address":"32 Hidden Acres Dr",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 4058",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6fEJHzQdqwF0DsdGl9Y82k_38.547992_-75.151023@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220590,
+    "wof:geomhash":"5294f9d1ac20d8db3ad0d916575d407d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857688555
+        }
+    ],
+    "wof:id":857688555,
+    "wof:lastmodified":1464220590,
+    "wof:name":"Daves Builders",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.151023,
+    38.547992,
+    -75.151023,
+    38.547992
+],
+  "geometry": {"coordinates":[-75.151023,38.547992],"type":"Point"}
+}

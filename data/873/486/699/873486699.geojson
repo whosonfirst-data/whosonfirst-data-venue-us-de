@@ -1,0 +1,71 @@
+{
+  "id": 873486699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.612191,39.722927,-75.612191,39.722927",
+    "geom:latitude":39.722927,
+    "geom:longitude":-75.612191,
+    "iso:country":"US",
+    "sg:address":"708 Woodtop Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 1850",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "painting",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_46WyIAPmwhebJrPOQLxXH9_39.722927_-75.612191@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222367,
+    "wof:geomhash":"361a6679437c409fc8f25b4a9372ad38",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873486699
+        }
+    ],
+    "wof:id":873486699,
+    "wof:lastmodified":1464222367,
+    "wof:name":"Final Finishes Inc",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painting",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.612191,
+    39.722927,
+    -75.612191,
+    39.722927
+],
+  "geometry": {"coordinates":[-75.612191,39.722927],"type":"Point"}
+}

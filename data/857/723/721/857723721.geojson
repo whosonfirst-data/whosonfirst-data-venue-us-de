@@ -1,0 +1,69 @@
+{
+  "id": 857723721,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.584296,39.751767,-75.584296,39.751767",
+    "geom:latitude":39.751767,
+    "geom:longitude":-75.584296,
+    "iso:country":"US",
+    "sg:address":"2901 W 2nd St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 8887",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "director"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2o0XVZF84DZ2EmIMAoO1kK_39.751767_-75.584296@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221319,
+    "wof:geomhash":"1275160d09cff27114b4b0f44ba88356",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":857723721
+        }
+    ],
+    "wof:id":857723721,
+    "wof:lastmodified":1464221319,
+    "wof:name":"Congo Funeral Home",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "director"
+    ]
+},
+  "bbox": [
+    -75.584296,
+    39.751767,
+    -75.584296,
+    39.751767
+],
+  "geometry": {"coordinates":[-75.58429599999999,39.751767],"type":"Point"}
+}

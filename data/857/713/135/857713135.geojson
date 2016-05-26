@@ -1,0 +1,73 @@
+{
+  "id": 857713135,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.104453,38.469971,-75.104453,38.469971",
+    "geom:latitude":38.469971,
+    "geom:longitude":-75.104453,
+    "iso:country":"US",
+    "sg:address":"64 E Stoney Run",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 0235",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5FGO3d7fknfPhF0eal59dG_38.469971_-75.104453@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221112,
+    "wof:geomhash":"f620f2f5ae93c2374343f0427961a685",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857713135
+        }
+    ],
+    "wof:id":857713135,
+    "wof:lastmodified":1464221112,
+    "wof:name":"Westmill Properties LLC",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.104453,
+    38.469971,
+    -75.104453,
+    38.469971
+],
+  "geometry": {"coordinates":[-75.10445300000001,38.469971],"type":"Point"}
+}

@@ -1,0 +1,70 @@
+{
+  "id": 873512941,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746678,39.60278,-75.746678,39.60278",
+    "geom:latitude":39.60278,
+    "geom:longitude":-75.746678,
+    "iso:country":"US",
+    "sg:address":"108 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/central-pencader/246417-mcglynns-pub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 6661",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "irish"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74SbzJGOc7ThtJbB1ypKdp_39.602780_-75.746678@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223511,
+    "wof:geomhash":"4ebf4156f279064f1e0e7cf16572d9a6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873512941
+        }
+    ],
+    "wof:id":873512941,
+    "wof:lastmodified":1464223511,
+    "wof:name":"McGlynns Pub",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "irish"
+    ]
+},
+  "bbox": [
+    -75.746678,
+    39.60278,
+    -75.746678,
+    39.60278
+],
+  "geometry": {"coordinates":[-75.746678,39.60278],"type":"Point"}
+}

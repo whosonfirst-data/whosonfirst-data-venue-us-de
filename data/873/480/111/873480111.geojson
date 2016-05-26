@@ -1,0 +1,75 @@
+{
+  "id": 873480111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577706,39.284602,-75.577706,39.284602",
+    "geom:latitude":39.284602,
+    "geom:longitude":-75.577706,
+    "iso:country":"US",
+    "sg:address":"1339 Smyrna Leipsic Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 9022",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_166IDSpcGLEMWnYCFqjNTm_39.284602_-75.577706@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222116,
+    "wof:geomhash":"718600e400cbdba0e02e93f5d68f8d1d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873480111
+        }
+    ],
+    "wof:id":873480111,
+    "wof:lastmodified":1464222116,
+    "wof:name":"Towles Electric Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.577706,
+    39.284602,
+    -75.577706,
+    39.284602
+],
+  "geometry": {"coordinates":[-75.57770600000001,39.284602],"type":"Point"}
+}

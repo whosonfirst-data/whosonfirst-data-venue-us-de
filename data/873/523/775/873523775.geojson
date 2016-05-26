@@ -1,0 +1,87 @@
+{
+  "id": 873523775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.261236,38.546598,-75.261236,38.546598",
+    "geom:latitude":38.546598,
+    "geom:longitude":-75.261236,
+    "iso:country":"US",
+    "sg:address":"32181 Dupont Blvd # 5",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 3282",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6mo83C8zrh308bQeRLdrbe_38.546598_-75.261236@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224032,
+    "wof:geomhash":"9b1731fb9c5558ddaa95841b095f639d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873523775
+        }
+    ],
+    "wof:id":873523775,
+    "wof:lastmodified":1464224032,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.261236,
+    38.546598,
+    -75.261236,
+    38.546598
+],
+  "geometry": {"coordinates":[-75.261236,38.546598],"type":"Point"}
+}

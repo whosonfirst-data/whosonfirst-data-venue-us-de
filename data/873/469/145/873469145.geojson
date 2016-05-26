@@ -1,0 +1,73 @@
+{
+  "id": 873469145,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573745,39.688953,-75.573745,39.688953",
+    "geom:latitude":39.688953,
+    "geom:longitude":-75.573745,
+    "iso:country":"US",
+    "sg:address":"18 Boulden Cir",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 324 9900",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "nonresidential",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Nk82luohztMDkIBfJDTh7_39.688953_-75.573745@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221692,
+    "wof:geomhash":"11f0d832c255bd95408f05fb7caf34f9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873469145
+        }
+    ],
+    "wof:id":873469145,
+    "wof:lastmodified":1464221692,
+    "wof:name":"Wohlsen Construction Company",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "nonresidential",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.573745,
+    39.688953,
+    -75.573745,
+    39.688953
+],
+  "geometry": {"coordinates":[-75.573745,39.688953],"type":"Point"}
+}

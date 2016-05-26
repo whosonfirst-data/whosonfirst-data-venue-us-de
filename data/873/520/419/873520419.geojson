@@ -1,0 +1,71 @@
+{
+  "id": 873520419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504997,39.800098,-75.504997,39.800098",
+    "geom:latitude":39.800098,
+    "geom:longitude":-75.504997,
+    "iso:country":"US",
+    "sg:address":"1309 Veale Rd Ste 11",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 7160",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WTs4Q2Mtri2OHht8Gw6zq_39.800098_-75.504997@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223902,
+    "wof:geomhash":"dd521a5a040f79b6f13ce23b34b09272",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873520419
+        }
+    ],
+    "wof:id":873520419,
+    "wof:lastmodified":1464223902,
+    "wof:name":"Gilani Javed MD",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -75.504997,
+    39.800098,
+    -75.504997,
+    39.800098
+],
+  "geometry": {"coordinates":[-75.504997,39.800098],"type":"Point"}
+}

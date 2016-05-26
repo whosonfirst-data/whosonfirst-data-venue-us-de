@@ -1,0 +1,75 @@
+{
+  "id": 857691447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547854,39.735962,-75.547854,39.735962",
+    "geom:latitude":39.735962,
+    "geom:longitude":-75.547854,
+    "iso:country":"US",
+    "sg:address":"500 E Front St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 2055",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "machine",
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5KgXmVuzpgDpUHXv4GXZN2_39.735962_-75.547854@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220651,
+    "wof:geomhash":"b53379d677cdf0ae9542398d7e0d27aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857691447
+        }
+    ],
+    "wof:id":857691447,
+    "wof:lastmodified":1464220651,
+    "wof:name":"General Machine Svc Inc",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "machine",
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.547854,
+    39.735962,
+    -75.547854,
+    39.735962
+],
+  "geometry": {"coordinates":[-75.547854,39.735962],"type":"Point"}
+}

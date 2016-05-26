@@ -1,0 +1,71 @@
+{
+  "id": 873475055,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.667678,38.660554,-75.667678,38.660554",
+    "geom:latitude":38.660554,
+    "geom:longitude":-75.667678,
+    "iso:country":"US",
+    "sg:address":"5078 Neals School Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 0228",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32Zgfs4zL0clK57o26WLGF_38.660554_-75.667678@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221916,
+    "wof:geomhash":"f384230379e26128b92e3520f7fbc57b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873475055
+        }
+    ],
+    "wof:id":873475055,
+    "wof:lastmodified":1464221916,
+    "wof:name":"1st State Building Inspections",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inspection"
+    ]
+},
+  "bbox": [
+    -75.667678,
+    38.660554,
+    -75.667678,
+    38.660554
+],
+  "geometry": {"coordinates":[-75.667678,38.660554],"type":"Point"}
+}

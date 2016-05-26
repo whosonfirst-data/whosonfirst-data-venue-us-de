@@ -1,0 +1,72 @@
+{
+  "id": 873513797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.074884,38.693922,-75.074884,38.693922",
+    "geom:latitude":38.693922,
+    "geom:longitude":-75.074884,
+    "iso:country":"US",
+    "sg:address":"1814 SR-1",
+    "sg:city":"Dewey Beach",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/lewes/239536-wings-to-go/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 9555",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85803179,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5kUh87jzXP6rdtGJyTxwH7_38.693922_-75.074884@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223548,
+    "wof:geomhash":"aa06c25945c713f703222dd9b852e8f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85803179,
+            "region_id":85688611,
+            "venue_id":873513797
+        }
+    ],
+    "wof:id":873513797,
+    "wof:lastmodified":1464223548,
+    "wof:name":"Wings To Go",
+    "wof:parent_id":85803179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -75.074884,
+    38.693922,
+    -75.074884,
+    38.693922
+],
+  "geometry": {"coordinates":[-75.074884,38.693922],"type":"Point"}
+}

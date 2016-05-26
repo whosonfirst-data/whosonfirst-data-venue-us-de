@@ -1,0 +1,71 @@
+{
+  "id": 873493379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.383553,38.693725,-75.383553,38.693725",
+    "geom:latitude":38.693725,
+    "geom:longitude":-75.383553,
+    "iso:country":"US",
+    "sg:address":"201 E Laurel St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2551",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_14rEBLZzqIzSxoDzBKzqDF_38.693725_-75.383553@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222620,
+    "wof:geomhash":"6ff2377678507bc87aa22b7378e97142",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873493379
+        }
+    ],
+    "wof:id":873493379,
+    "wof:lastmodified":1464222620,
+    "wof:name":"Walls Builders Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.383553,
+    38.693725,
+    -75.383553,
+    38.693725
+],
+  "geometry": {"coordinates":[-75.38355300000001,38.693725],"type":"Point"}
+}

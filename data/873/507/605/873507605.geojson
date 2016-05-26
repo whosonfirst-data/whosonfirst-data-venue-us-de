@@ -1,0 +1,71 @@
+{
+  "id": 873507605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549054,39.80927,-75.549054,39.80927",
+    "geom:latitude":39.80927,
+    "geom:longitude":-75.549054,
+    "iso:country":"US",
+    "sg:address":"3411 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Investment Brokerage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0121",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "advisory",
+        "financial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29NVRQn4t6oG7TijtzMzkl_39.809270_-75.549054@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223265,
+    "wof:geomhash":"15860c7efcfbcdaf1db4da5f857f4277",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873507605
+        }
+    ],
+    "wof:id":873507605,
+    "wof:lastmodified":1464223265,
+    "wof:name":"Financial Review Svc",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "advisory",
+        "financial"
+    ]
+},
+  "bbox": [
+    -75.549054,
+    39.80927,
+    -75.549054,
+    39.80927
+],
+  "geometry": {"coordinates":[-75.549054,39.80927],"type":"Point"}
+}

@@ -1,0 +1,91 @@
+{
+  "id": 873480469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551783,39.740692,-75.551783,39.740692",
+    "geom:latitude":39.740692,
+    "geom:longitude":-75.551783,
+    "iso:country":"US",
+    "sg:address":"11 State Rd 9",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 1298",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fire",
+        "training",
+        "marine",
+        "for",
+        "fighting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4SpPaTArYuX53I0Ty1aeBL_39.740692_-75.551783@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222131,
+    "wof:geomhash":"3fa0bd26ae10ea6f0fcc82bec426457b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873480469
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873480469
+        }
+    ],
+    "wof:id":873480469,
+    "wof:lastmodified":1464222131,
+    "wof:name":"Tmsa",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fire",
+        "training",
+        "marine",
+        "for",
+        "fighting"
+    ]
+},
+  "bbox": [
+    -75.551783,
+    39.740692,
+    -75.551783,
+    39.740692
+],
+  "geometry": {"coordinates":[-75.551783,39.740692],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873494281,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548668,39.195094,-75.548668,39.195094",
+    "geom:latitude":39.195094,
+    "geom:longitude":-75.548668,
+    "iso:country":"US",
+    "sg:address":"1999 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 1719",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1axpuxLis8xTTdTDBDfegJ_39.195094_-75.548668@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222674,
+    "wof:geomhash":"6d73fc462555393558befe105d7d51c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873494281
+        }
+    ],
+    "wof:id":873494281,
+    "wof:lastmodified":1464222674,
+    "wof:name":"CRC Construction",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.548668,
+    39.195094,
+    -75.548668,
+    39.195094
+],
+  "geometry": {"coordinates":[-75.54866800000001,39.195094],"type":"Point"}
+}

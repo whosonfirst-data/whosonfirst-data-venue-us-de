@@ -1,0 +1,69 @@
+{
+  "id": 873510711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.654194,39.725966,-75.654194,39.725966",
+    "geom:latitude":39.725966,
+    "geom:longitude":-75.654194,
+    "iso:country":"US",
+    "sg:address":"4515 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 4709",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ZKZc3EoTV3XdaQms3trZK_39.725966_-75.654194@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223408,
+    "wof:geomhash":"79ff5aa115cfe92ded7b7c32caf2c55a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873510711
+        }
+    ],
+    "wof:id":873510711,
+    "wof:lastmodified":1464223408,
+    "wof:name":"Parklynn Barber Shop",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.654194,
+    39.725966,
+    -75.654194,
+    39.725966
+],
+  "geometry": {"coordinates":[-75.654194,39.725966],"type":"Point"}
+}

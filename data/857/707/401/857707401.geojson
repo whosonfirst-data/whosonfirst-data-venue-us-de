@@ -1,0 +1,69 @@
+{
+  "id": 857707401,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.428537,38.915611,-75.428537,38.915611",
+    "geom:latitude":38.915611,
+    "geom:longitude":-75.428537,
+    "iso:country":"US",
+    "sg:address":"7 NW 2nd St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 7696",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "upholsterer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1oyX1yOCGzrL4wHHlJ241z_38.915611_-75.428537@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220956,
+    "wof:geomhash":"7f2136d51cdca1e8b30119ad52f9fec9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857707401
+        }
+    ],
+    "wof:id":857707401,
+    "wof:lastmodified":1464220956,
+    "wof:name":"Crown Upholstering",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer"
+    ]
+},
+  "bbox": [
+    -75.428537,
+    38.915611,
+    -75.428537,
+    38.915611
+],
+  "geometry": {"coordinates":[-75.42853700000001,38.915611],"type":"Point"}
+}

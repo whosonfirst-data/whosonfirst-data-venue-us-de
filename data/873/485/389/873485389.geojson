@@ -1,0 +1,73 @@
+{
+  "id": 873485389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52,39.760784,-75.52,39.760784",
+    "geom:latitude":39.760784,
+    "geom:longitude":-75.52,
+    "iso:country":"US",
+    "sg:address":"21 E Lea Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 2771",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "manicuring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_35BU6ASHB5EhN9ynAs6dcd_39.760784_-75.520000@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222321,
+    "wof:geomhash":"f7d2f9ca6139c9cf9abd5e04f95f54c3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873485389
+        }
+    ],
+    "wof:id":873485389,
+    "wof:lastmodified":1464222321,
+    "wof:name":"Sky Nails",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manicuring"
+    ]
+},
+  "bbox": [
+    -75.52,
+    39.760784,
+    -75.52,
+    39.760784
+],
+  "geometry": {"coordinates":[-75.52,39.760784],"type":"Point"}
+}

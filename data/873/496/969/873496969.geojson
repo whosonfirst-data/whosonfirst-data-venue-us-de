@@ -1,0 +1,73 @@
+{
+  "id": 873496969,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549709,39.741116,-75.549709,39.741116",
+    "geom:latitude":39.741116,
+    "geom:longitude":-75.549709,
+    "iso:country":"US",
+    "sg:address":"500 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Court House",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 739 6571",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_329jhQFEAKZVYlilDIKULa_39.741116_-75.549709@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222822,
+    "wof:geomhash":"db255ec0cea2dc0443516c5744d44e27",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873496969
+        }
+    ],
+    "wof:id":873496969,
+    "wof:lastmodified":1464222822,
+    "wof:name":"Family Court Administration",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "family"
+    ]
+},
+  "bbox": [
+    -75.549709,
+    39.741116,
+    -75.549709,
+    39.741116
+],
+  "geometry": {"coordinates":[-75.54970899999999,39.741116],"type":"Point"}
+}

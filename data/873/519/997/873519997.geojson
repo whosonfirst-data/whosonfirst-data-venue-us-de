@@ -1,0 +1,74 @@
+{
+  "id": 873519997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543701,39.808899,-75.543701,39.808899",
+    "geom:latitude":39.808899,
+    "geom:longitude":-75.543701,
+    "iso:country":"US",
+    "sg:address":"3515 Silverside Rd Ste 102",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1023",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2gKYLnZeGRNOeF5ynwLDV4_39.808899_-75.543701@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223879,
+    "wof:geomhash":"1f99cf032b8eb3d0370d0002d2346843",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873519997
+        }
+    ],
+    "wof:id":873519997,
+    "wof:lastmodified":1464223879,
+    "wof:name":"Bright Horizons Family Solutions",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.543701,
+    39.808899,
+    -75.543701,
+    39.808899
+],
+  "geometry": {"coordinates":[-75.543701,39.808899],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873480995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.536039,39.712949,-75.536039,39.712949",
+    "geom:latitude":39.712949,
+    "geom:longitude":-75.536039,
+    "iso:country":"US",
+    "sg:address":"300 Pigeon Point Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 426 0802",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "warehouse",
+        "public"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0aboIFLr6hMaH5kekD5IwR_39.712949_-75.536039@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222154,
+    "wof:geomhash":"12a8ef4b68d00bdc00020b55c715d793",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873480995
+        }
+    ],
+    "wof:id":873480995,
+    "wof:lastmodified":1464222154,
+    "wof:name":"First State Warehousing",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouse",
+        "public"
+    ]
+},
+  "bbox": [
+    -75.536039,
+    39.712949,
+    -75.536039,
+    39.712949
+],
+  "geometry": {"coordinates":[-75.536039,39.712949],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873516675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54826,39.744821,-75.54826,39.744821",
+    "geom:latitude":39.744821,
+    "geom:longitude":-75.54826,
+    "iso:country":"US",
+    "sg:address":"919 N Market St Ste 1300",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Medical Equipment & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 521 4827",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apparatus",
+        "x-ray"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7J8YIaUJp4ncwlQDeBw8nE_39.744821_-75.548260@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223701,
+    "wof:geomhash":"339fc4e4b110b24145c19e14fd003a92",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873516675
+        }
+    ],
+    "wof:id":873516675,
+    "wof:lastmodified":1464223701,
+    "wof:name":"Advanced Radiography",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apparatus",
+        "x-ray"
+    ]
+},
+  "bbox": [
+    -75.54826,
+    39.744821,
+    -75.54826,
+    39.744821
+],
+  "geometry": {"coordinates":[-75.54826,39.744821],"type":"Point"}
+}

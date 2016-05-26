@@ -1,0 +1,72 @@
+{
+  "id": 873481773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.635758,39.727948,-75.635758,39.727948",
+    "geom:latitude":39.727948,
+    "geom:longitude":-75.635758,
+    "iso:country":"US",
+    "sg:address":"3700 Washington Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 4104",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "sg:website":"www.tangentcable.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6AFPJ4HAHvbCObVwU74bp4_39.727948_-75.635758@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222186,
+    "wof:geomhash":"0d63d3e41f2e5959bf23989542e072f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873481773
+        }
+    ],
+    "wof:id":873481773,
+    "wof:lastmodified":1464222186,
+    "wof:name":"Tangent Cable Systems Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.635758,
+    39.727948,
+    -75.635758,
+    39.727948
+],
+  "geometry": {"coordinates":[-75.635758,39.727948],"type":"Point"}
+}

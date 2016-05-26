@@ -1,0 +1,66 @@
+{
+  "id": 873525121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.221169,38.4604,-75.221169,38.4604",
+    "geom:latitude":38.4604,
+    "geom:longitude":-75.221169,
+    "iso:country":"US",
+    "sg:address":"1 S Main St",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 3225",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5YhFD8Ej1O5QnamFIPCuH6_38.460400_-75.221169@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224084,
+    "wof:geomhash":"2b3481f5c19c1b269c943f64618a89da",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525121
+        }
+    ],
+    "wof:id":873525121,
+    "wof:lastmodified":1464224084,
+    "wof:name":"Food Ride",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.221169,
+    38.4604,
+    -75.221169,
+    38.4604
+],
+  "geometry": {"coordinates":[-75.221169,38.4604],"type":"Point"}
+}

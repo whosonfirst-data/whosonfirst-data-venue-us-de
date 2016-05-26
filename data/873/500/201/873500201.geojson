@@ -1,0 +1,73 @@
+{
+  "id": 873500201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.142716,38.771065,-75.142716,38.771065",
+    "geom:latitude":38.771065,
+    "geom:longitude":-75.142716,
+    "iso:country":"US",
+    "sg:address":"444 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 6243",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "medical",
+        "rental"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_76G4i5Epd5lq2O5aLnEuUf_38.771065_-75.142716@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222945,
+    "wof:geomhash":"8129667ab37cfe47edc5e257dbbce2e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873500201
+        }
+    ],
+    "wof:id":873500201,
+    "wof:lastmodified":1464222945,
+    "wof:name":"Rite Aid",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "medical",
+        "rental"
+    ]
+},
+  "bbox": [
+    -75.142716,
+    38.771065,
+    -75.142716,
+    38.771065
+],
+  "geometry": {"coordinates":[-75.14271599999999,38.771065],"type":"Point"}
+}

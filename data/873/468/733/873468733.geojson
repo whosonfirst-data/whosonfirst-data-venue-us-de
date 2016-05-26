@@ -1,0 +1,73 @@
+{
+  "id": 873468733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55611,39.731486,-75.55611,39.731486",
+    "geom:latitude":39.731486,
+    "geom:longitude":-75.55611,
+    "iso:country":"US",
+    "sg:address":"701 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 8595",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sanitary"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4sYR0HFavE6DaBFowE0a5K_39.731486_-75.556110@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221678,
+    "wof:geomhash":"d37cf4e4b68658e1c80325e566ca36d2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873468733
+        }
+    ],
+    "wof:id":873468733,
+    "wof:lastmodified":1464221678,
+    "wof:name":"Reilly Sweeping Inc",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sanitary"
+    ]
+},
+  "bbox": [
+    -75.55611,
+    39.731486,
+    -75.55611,
+    39.731486
+],
+  "geometry": {"coordinates":[-75.55611,39.731486],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 857713279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604159,38.741187,-75.604159,38.741187",
+    "geom:latitude":38.741187,
+    "geom:longitude":-75.604159,
+    "iso:country":"US",
+    "sg:address":"206 S Cannon St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"Arcade",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 3225",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "device",
+        "operator",
+        "game",
+        "video",
+        "amusement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wOpuPKE51xp4dCAF6PBEX_38.741187_-75.604159@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221116,
+    "wof:geomhash":"eb2aa6e5995b78a53eaf9d4ab083b1ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857713279
+        }
+    ],
+    "wof:id":857713279,
+    "wof:lastmodified":1464221116,
+    "wof:name":"Timmons Amusements",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "device",
+        "operator",
+        "game",
+        "video",
+        "amusement"
+    ]
+},
+  "bbox": [
+    -75.604159,
+    38.741187,
+    -75.604159,
+    38.741187
+],
+  "geometry": {"coordinates":[-75.604159,38.741187],"type":"Point"}
+}

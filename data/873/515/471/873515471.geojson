@@ -1,0 +1,72 @@
+{
+  "id": 873515471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746078,39.685822,-75.746078,39.685822",
+    "geom:latitude":39.685822,
+    "geom:longitude":-75.746078,
+    "iso:country":"US",
+    "sg:address":"62 N Chapel St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Hazard Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 6540",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "business"
+    ],
+    "sg:website":"http://www.statefarm.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0ubi9qHP3Pior8eUjujrzK_39.685822_-75.746078@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223644,
+    "wof:geomhash":"842064f3de7b00d0292b021dcb20214c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873515471
+        }
+    ],
+    "wof:id":873515471,
+    "wof:lastmodified":1464223644,
+    "wof:name":"State Farm Insurance Companies",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "business"
+    ]
+},
+  "bbox": [
+    -75.746078,
+    39.685822,
+    -75.746078,
+    39.685822
+],
+  "geometry": {"coordinates":[-75.746078,39.685822],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 873500101,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.760992,39.674631,-75.760992,39.674631",
+    "geom:latitude":39.674631,
+    "geom:longitude":-75.760992,
+    "iso:country":"US",
+    "sg:address":"193 W Park Pl",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 2290",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bp81bo8br6bQEYi4DYLFD_39.674631_-75.760992@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222942,
+    "wof:geomhash":"0c620418b328a9a177056050df6438cc",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":873500101
+        }
+    ],
+    "wof:id":873500101,
+    "wof:lastmodified":1464222942,
+    "wof:name":"West Park Elementary",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.760992,
+    39.674631,
+    -75.760992,
+    39.674631
+],
+  "geometry": {"coordinates":[-75.760992,39.674631],"type":"Point"}
+}

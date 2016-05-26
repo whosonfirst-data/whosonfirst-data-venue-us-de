@@ -1,0 +1,75 @@
+{
+  "id": 873466473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548084,39.800203,-75.548084,39.800203",
+    "geom:latitude":39.800203,
+    "geom:longitude":-75.548084,
+    "iso:country":"US",
+    "sg:address":"3202 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 2555",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nB5qosCk7n2alKTUMPJ5w_39.800203_-75.548084@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221600,
+    "wof:geomhash":"1f01f34e056bca9148fb584938f41140",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873466473
+        }
+    ],
+    "wof:id":873466473,
+    "wof:lastmodified":1464221600,
+    "wof:name":"Western Deck Cleaning Svc",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "restoration",
+        "cleaning",
+        "patio",
+        "deck"
+    ]
+},
+  "bbox": [
+    -75.548084,
+    39.800203,
+    -75.548084,
+    39.800203
+],
+  "geometry": {"coordinates":[-75.548084,39.800203],"type":"Point"}
+}

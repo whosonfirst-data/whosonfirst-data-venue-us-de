@@ -1,0 +1,76 @@
+{
+  "id": 873524749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.305208,38.591424,-75.305208,38.591424",
+    "geom:latitude":38.591424,
+    "geom:longitude":-75.305208,
+    "iso:country":"US",
+    "sg:address":"28408 Dupont Blvd",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 7586",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "management"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_56b0o8AQcHFrNnxxufdHEj_38.591424_-75.305208@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224069,
+    "wof:geomhash":"ae72006a609b2e52661ee1e754687e87",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873524749
+        }
+    ],
+    "wof:id":873524749,
+    "wof:lastmodified":1464224069,
+    "wof:name":"Paramount Home Sales",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "management"
+    ]
+},
+  "bbox": [
+    -75.305208,
+    38.591424,
+    -75.305208,
+    38.591424
+],
+  "geometry": {"coordinates":[-75.30520799999999,38.591424],"type":"Point"}
+}

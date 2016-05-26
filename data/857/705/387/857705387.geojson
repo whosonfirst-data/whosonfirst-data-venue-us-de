@@ -1,0 +1,75 @@
+{
+  "id": 857705387,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.404275,38.856389,-75.404275,38.856389",
+    "geom:latitude":38.856389,
+    "geom:longitude":-75.404275,
+    "iso:country":"US",
+    "sg:address":"21 Water St",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 8148",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tank",
+        "testing",
+        "inspection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1yNUuemC1cAhpEDBFmKGnU_38.856389_-75.404275@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220921,
+    "wof:geomhash":"62835a07f6ec894ca07661bd22f6de6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857705387
+        }
+    ],
+    "wof:id":857705387,
+    "wof:lastmodified":1464220921,
+    "wof:name":"Delmarva Petroleum Svc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tank",
+        "testing",
+        "inspection"
+    ]
+},
+  "bbox": [
+    -75.404275,
+    38.856389,
+    -75.404275,
+    38.856389
+],
+  "geometry": {"coordinates":[-75.404275,38.856389],"type":"Point"}
+}

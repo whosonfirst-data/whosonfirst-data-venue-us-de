@@ -1,0 +1,71 @@
+{
+  "id": 873509109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.640693,39.715575,-75.640693,39.715575",
+    "geom:latitude":39.715575,
+    "geom:longitude":-75.640693,
+    "iso:country":"US",
+    "sg:address":"2406 W Newport Pike",
+    "sg:city":"Stanton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 683 9065",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0G78xJL27SPn2kwP2iE3Ow_39.715575_-75.640693@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223336,
+    "wof:geomhash":"2d8722bb6a212dc0c028e089032089aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873509109
+        }
+    ],
+    "wof:id":873509109,
+    "wof:lastmodified":1464223336,
+    "wof:name":"Trimark Enterprises Inc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.640693,
+    39.715575,
+    -75.640693,
+    39.715575
+],
+  "geometry": {"coordinates":[-75.640693,39.715575],"type":"Point"}
+}

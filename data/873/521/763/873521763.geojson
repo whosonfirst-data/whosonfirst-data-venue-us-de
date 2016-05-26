@@ -1,0 +1,73 @@
+{
+  "id": 873521763,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523512,39.158503,-75.523512,39.158503",
+    "geom:latitude":39.158503,
+    "geom:longitude":-75.523512,
+    "iso:country":"US",
+    "sg:address":"9 E Loockerman St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 4909",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nutritionist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0wtvNItN9Je0KGGC86FN3x_39.158503_-75.523512@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223953,
+    "wof:geomhash":"65973d3dae1ca87d629e5f33c0180f91",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873521763
+        }
+    ],
+    "wof:id":873521763,
+    "wof:lastmodified":1464223953,
+    "wof:name":"Nutritionally Speaking",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nutritionist"
+    ]
+},
+  "bbox": [
+    -75.523512,
+    39.158503,
+    -75.523512,
+    39.158503
+],
+  "geometry": {"coordinates":[-75.523512,39.158503],"type":"Point"}
+}

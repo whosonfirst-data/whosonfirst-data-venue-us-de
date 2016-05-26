@@ -1,0 +1,70 @@
+{
+  "id": 873513583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543498,39.808921,-75.543498,39.808921",
+    "geom:latitude":39.808921,
+    "geom:longitude":-75.543498,
+    "iso:country":"US",
+    "sg:address":"3505 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/brandywine/236846-brew-ha-ha/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 472 2001",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77pwZcV1Om0fEn9rD1Ba0f_39.808921_-75.543498@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223537,
+    "wof:geomhash":"a3388e7c9c04f3f13313dfd96fadfc58",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873513583
+        }
+    ],
+    "wof:id":873513583,
+    "wof:lastmodified":1464223537,
+    "wof:name":"Brew Ha Ha",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.543498,
+    39.808921,
+    -75.543498,
+    39.808921
+],
+  "geometry": {"coordinates":[-75.543498,39.808921],"type":"Point"}
+}

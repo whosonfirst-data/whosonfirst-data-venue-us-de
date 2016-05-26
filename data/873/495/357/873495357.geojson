@@ -1,0 +1,71 @@
+{
+  "id": 873495357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532329,39.183327,-75.532329,39.183327",
+    "geom:latitude":39.183327,
+    "geom:longitude":-75.532329,
+    "iso:country":"US",
+    "sg:address":"1041 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 5754",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_51X1xqup28xPHX6QglzJrm_39.183327_-75.532329@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222743,
+    "wof:geomhash":"aa0387ad3c52683412bbb6574500185a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873495357
+        }
+    ],
+    "wof:id":873495357,
+    "wof:lastmodified":1464222743,
+    "wof:name":"Nextel",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.532329,
+    39.183327,
+    -75.532329,
+    39.183327
+],
+  "geometry": {"coordinates":[-75.532329,39.183327],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857704389,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604405,39.715729,-75.604405,39.715729",
+    "geom:latitude":39.715729,
+    "geom:longitude":-75.604405,
+    "iso:country":"US",
+    "sg:address":"1701 E Newport Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 0838",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5BxWAs2MOkLCg6uXKJJjhG_39.715729_-75.604405@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220902,
+    "wof:geomhash":"c91e142447e4dd9827708ddf699f5598",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857704389
+        }
+    ],
+    "wof:id":857704389,
+    "wof:lastmodified":1464220902,
+    "wof:name":"Wolanski & Sons Electric",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.604405,
+    39.715729,
+    -75.604405,
+    39.715729
+],
+  "geometry": {"coordinates":[-75.604405,39.715729],"type":"Point"}
+}

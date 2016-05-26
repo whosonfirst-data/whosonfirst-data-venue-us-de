@@ -1,0 +1,76 @@
+{
+  "id": 873517839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.550034,39.80872,-75.550034,39.80872",
+    "geom:latitude":39.80872,
+    "geom:longitude":-75.550034,
+    "iso:country":"US",
+    "sg:address":"3932 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 468 4285",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mover",
+        "truck"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4kACWAvnkAVxqJe8kc8aPk_39.808720_-75.550034@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223784,
+    "wof:geomhash":"bc0b6ca2110aec1801632f2a851adb15",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517839
+        }
+    ],
+    "wof:id":873517839,
+    "wof:lastmodified":1464223784,
+    "wof:name":"U-Haul Co.",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover",
+        "truck"
+    ]
+},
+  "bbox": [
+    -75.550034,
+    39.80872,
+    -75.550034,
+    39.80872
+],
+  "geometry": {"coordinates":[-75.550034,39.80872],"type":"Point"}
+}

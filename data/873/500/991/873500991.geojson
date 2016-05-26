@@ -1,0 +1,71 @@
+{
+  "id": 873500991,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.144887,38.734576,-75.144887,38.734576",
+    "geom:latitude":38.734576,
+    "geom:longitude":-75.144887,
+    "iso:country":"US",
+    "sg:address":"34986 Midway Outlet Dr",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 2222",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814899,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7jycAMkjCD6xIB5kfjhccD_38.734576_-75.144887@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222986,
+    "wof:geomhash":"1c9d8c0c94744420521a0c74c2ef7a4c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85814899,
+            "region_id":85688611,
+            "venue_id":873500991
+        }
+    ],
+    "wof:id":873500991,
+    "wof:lastmodified":1464222986,
+    "wof:name":"Dwyer Electronics",
+    "wof:parent_id":85814899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.144887,
+    38.734576,
+    -75.144887,
+    38.734576
+],
+  "geometry": {"coordinates":[-75.144887,38.734576],"type":"Point"}
+}

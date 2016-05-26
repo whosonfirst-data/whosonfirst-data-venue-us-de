@@ -1,0 +1,71 @@
+{
+  "id": 873488887,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.386337,38.691895,-75.386337,38.691895",
+    "geom:latitude":38.691895,
+    "geom:longitude":-75.386337,
+    "iso:country":"US",
+    "sg:address":"119 N Race St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 5367",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3dWJ3QLyez8oDzSlq8sAiy_38.691895_-75.386337@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222453,
+    "wof:geomhash":"7d9a863981f97f75618ab1e51abf2047",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873488887
+        }
+    ],
+    "wof:id":873488887,
+    "wof:lastmodified":1464222453,
+    "wof:name":"Election Dept",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state"
+    ]
+},
+  "bbox": [
+    -75.386337,
+    38.691895,
+    -75.386337,
+    38.691895
+],
+  "geometry": {"coordinates":[-75.386337,38.691895],"type":"Point"}
+}

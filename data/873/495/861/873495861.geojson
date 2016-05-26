@@ -1,0 +1,73 @@
+{
+  "id": 873495861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.498156,39.156116,-75.498156,39.156116",
+    "geom:latitude":39.156116,
+    "geom:longitude":-75.498156,
+    "iso:country":"US",
+    "sg:address":"525 Otis Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 1430",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6pKdyOt691Tu0dsPUdWeS7_39.156116_-75.498156@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222768,
+    "wof:geomhash":"3834319035f7e193954cc5bc511a5bd3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873495861
+        }
+    ],
+    "wof:id":873495861,
+    "wof:lastmodified":1464222768,
+    "wof:name":"Eastern Shore Maintenance Inc",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.498156,
+    39.156116,
+    -75.498156,
+    39.156116
+],
+  "geometry": {"coordinates":[-75.49815599999999,39.156116],"type":"Point"}
+}

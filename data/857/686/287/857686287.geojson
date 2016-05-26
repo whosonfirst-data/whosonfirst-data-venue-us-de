@@ -1,0 +1,75 @@
+{
+  "id": 857686287,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.714941,39.648224,-75.714941,39.648224",
+    "geom:latitude":39.648224,
+    "geom:longitude":-75.714941,
+    "iso:country":"US",
+    "sg:address":"38 Albe Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 9220",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m2WOQKMSiOmsY5FB1vSAg_39.648224_-75.714941@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220544,
+    "wof:geomhash":"9dc23aebd1008aece6f89bed23a570ad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857686287
+        }
+    ],
+    "wof:id":857686287,
+    "wof:lastmodified":1464220544,
+    "wof:name":"Whitey's Garage",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.714941,
+    39.648224,
+    -75.714941,
+    39.648224
+],
+  "geometry": {"coordinates":[-75.714941,39.648224],"type":"Point"}
+}

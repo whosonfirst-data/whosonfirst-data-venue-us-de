@@ -1,0 +1,73 @@
+{
+  "id": 873495719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554159,39.805387,-75.554159,39.805387",
+    "geom:latitude":39.805387,
+    "geom:longitude":-75.554159,
+    "iso:country":"US",
+    "sg:address":"4 Mount Lebanon Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8950",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "processing",
+        "datum",
+        "center"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_17gXhy6J1VXlJJmyEZrCFi_39.805387_-75.554159@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222762,
+    "wof:geomhash":"fa3db4aaeccefdb6adcaf5d72fef05d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873495719
+        }
+    ],
+    "wof:id":873495719,
+    "wof:lastmodified":1464222762,
+    "wof:name":"Data Process Service",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "processing",
+        "datum",
+        "center"
+    ]
+},
+  "bbox": [
+    -75.554159,
+    39.805387,
+    -75.554159,
+    39.805387
+],
+  "geometry": {"coordinates":[-75.554159,39.805387],"type":"Point"}
+}

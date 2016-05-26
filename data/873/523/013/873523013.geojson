@@ -1,0 +1,73 @@
+{
+  "id": 873523013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526398,39.159401,-75.526398,39.159401",
+    "geom:latitude":39.159401,
+    "geom:longitude":-75.526398,
+    "iso:country":"US",
+    "sg:address":"118 S Bradford St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Arts & Performance",
+            "subcategory":"Arts Center",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 3583",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "performing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03tlbK5LwpqHed9CdHCX27_39.159401_-75.526398@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224006,
+    "wof:geomhash":"23086eedce9f20b5e4f19d879fc9b562",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873523013
+        }
+    ],
+    "wof:id":873523013,
+    "wof:lastmodified":1464224006,
+    "wof:name":"Capitol Theater",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "performing"
+    ]
+},
+  "bbox": [
+    -75.526398,
+    39.159401,
+    -75.526398,
+    39.159401
+],
+  "geometry": {"coordinates":[-75.526398,39.159401],"type":"Point"}
+}

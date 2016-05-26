@@ -1,0 +1,71 @@
+{
+  "id": 873500921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.155676,38.775641,-75.155676,38.775641",
+    "geom:latitude":38.775641,
+    "geom:longitude":-75.155676,
+    "iso:country":"US",
+    "sg:address":"205 University Dr",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 644 2235",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3M0fGsk5FbbelIEjV89uqf_38.775641_-75.155676@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222982,
+    "wof:geomhash":"b52b1415b148422e45899c176ff469c9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873500921
+        }
+    ],
+    "wof:id":873500921,
+    "wof:lastmodified":1464222982,
+    "wof:name":"Coastal Dance Academy",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -75.155676,
+    38.775641,
+    -75.155676,
+    38.775641
+],
+  "geometry": {"coordinates":[-75.155676,38.775641],"type":"Point"}
+}

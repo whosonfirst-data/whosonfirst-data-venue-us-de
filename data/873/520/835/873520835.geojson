@@ -1,0 +1,90 @@
+{
+  "id": 873520835,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.529686,39.178308,-75.529686,39.178308",
+    "geom:latitude":39.178308,
+    "geom:longitude":-75.529686,
+    "iso:country":"US",
+    "sg:address":"1027 N State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5017",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "moving-self",
+        "material",
+        "moving",
+        "mover",
+        "services-labor"
+    ],
+    "sg:website":"http://www.twomen.com/Apps/LocationSelector.aspx",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Gi1Kjbco6IgQZCruviWvT_39.178308_-75.529686@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223919,
+    "wof:geomhash":"26db9511af93ceb0094fbddd0b8f9339",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873520835
+        }
+    ],
+    "wof:id":873520835,
+    "wof:lastmodified":1464223919,
+    "wof:name":"Two Men And A Truck",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "moving-self",
+        "material",
+        "moving",
+        "mover",
+        "services-labor"
+    ]
+},
+  "bbox": [
+    -75.529686,
+    39.178308,
+    -75.529686,
+    39.178308
+],
+  "geometry": {"coordinates":[-75.529686,39.178308],"type":"Point"}
+}

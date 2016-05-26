@@ -1,0 +1,69 @@
+{
+  "id": 873507311,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.567542,39.657669,-75.567542,39.657669",
+    "geom:latitude":39.657669,
+    "geom:longitude":-75.567542,
+    "iso:country":"US",
+    "sg:address":"116 W 3rd St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 4075",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2LFKOszRNbhOxzkTXZVruh_39.657669_-75.567542@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223250,
+    "wof:geomhash":"5c538945929f9fed91e188179b7e95f1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873507311
+        }
+    ],
+    "wof:id":873507311,
+    "wof:lastmodified":1464223250,
+    "wof:name":"Community Progressive Ctr",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -75.567542,
+    39.657669,
+    -75.567542,
+    39.657669
+],
+  "geometry": {"coordinates":[-75.567542,39.657669],"type":"Point"}
+}

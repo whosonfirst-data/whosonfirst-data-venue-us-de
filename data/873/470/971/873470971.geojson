@@ -1,0 +1,69 @@
+{
+  "id": 873470971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.183393,38.604256,-75.183393,38.604256",
+    "geom:latitude":38.604256,
+    "geom:longitude":-75.183393,
+    "iso:country":"US",
+    "sg:address":"57 E Fairfax Ct",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 947 2525",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1EW3a8FfLtgPkewtmNdXhm_38.604256_-75.183393@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221767,
+    "wof:geomhash":"4c6ee3d59298229e21e96c64832d64a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873470971
+        }
+    ],
+    "wof:id":873470971,
+    "wof:lastmodified":1464221767,
+    "wof:name":"Omni Investigations Inc",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -75.183393,
+    38.604256,
+    -75.183393,
+    38.604256
+],
+  "geometry": {"coordinates":[-75.183393,38.604256],"type":"Point"}
+}

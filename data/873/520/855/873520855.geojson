@@ -1,0 +1,81 @@
+{
+  "id": 873520855,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.522697,39.1465,-75.522697,39.1465",
+    "geom:latitude":39.1465,
+    "geom:longitude":-75.522697,
+    "iso:country":"US",
+    "sg:address":"868 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 2744",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WWOpE6g1z65Y3YLAZce8s_39.146500_-75.522697@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223920,
+    "wof:geomhash":"73efff0442db9ee56f5d6dbc64898ac0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873520855
+        }
+    ],
+    "wof:id":873520855,
+    "wof:lastmodified":1464223920,
+    "wof:name":"Playhouse Nursery School",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.522697,
+    39.1465,
+    -75.522697,
+    39.1465
+],
+  "geometry": {"coordinates":[-75.52269699999999,39.1465],"type":"Point"}
+}

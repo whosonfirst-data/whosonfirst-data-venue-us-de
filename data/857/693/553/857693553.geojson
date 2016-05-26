@@ -1,0 +1,73 @@
+{
+  "id": 857693553,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568855,39.755313,-75.568855,39.755313",
+    "geom:latitude":39.755313,
+    "geom:longitude":-75.568855,
+    "iso:country":"US",
+    "sg:address":"1901 W 11th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 8888",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3fHeD76ZTGZHocaBUCjX7x_39.755313_-75.568855@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220692,
+    "wof:geomhash":"f2cdd9945d73177f1afac46a4efd240a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857693553
+        }
+    ],
+    "wof:id":857693553,
+    "wof:lastmodified":1464220692,
+    "wof:name":"Chez Nichole Beauty Salon",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.568855,
+    39.755313,
+    -75.568855,
+    39.755313
+],
+  "geometry": {"coordinates":[-75.568855,39.755313],"type":"Point"}
+}

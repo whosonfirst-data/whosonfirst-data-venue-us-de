@@ -1,0 +1,84 @@
+{
+  "id": 873497041,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54148,39.738558,-75.54148,39.738558",
+    "geom:latitude":39.738558,
+    "geom:longitude":-75.54148,
+    "iso:country":"US",
+    "sg:address":"606 N Church St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 5629",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:website":"www.oldswedes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61DoG0fHj3v0Yp3mNYAOUw_39.738558_-75.541480@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222825,
+    "wof:geomhash":"eeed4cb48f2bd1fefa77bd7667b06513",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873497041
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873497041
+        }
+    ],
+    "wof:id":873497041,
+    "wof:lastmodified":1464222825,
+    "wof:name":"Hendrickson House Museum",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.54148,
+    39.738558,
+    -75.54148,
+    39.738558
+],
+  "geometry": {"coordinates":[-75.54148000000001,39.738558],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873474351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599505,38.744675,-75.599505,38.744675",
+    "geom:latitude":38.744675,
+    "geom:longitude":-75.599505,
+    "iso:country":"US",
+    "sg:address":"101 N Main St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 7843",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "executive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KjqBp5LC106xYFTGuaSSK_38.744675_-75.599505@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221893,
+    "wof:geomhash":"c54b9fd52c7acfa5c10e0d9fa3b9e578",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873474351
+        }
+    ],
+    "wof:id":873474351,
+    "wof:lastmodified":1464221893,
+    "wof:name":"Bridgeville Disposal Plant",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "executive"
+    ]
+},
+  "bbox": [
+    -75.599505,
+    38.744675,
+    -75.599505,
+    38.744675
+],
+  "geometry": {"coordinates":[-75.59950499999999,38.744675],"type":"Point"}
+}

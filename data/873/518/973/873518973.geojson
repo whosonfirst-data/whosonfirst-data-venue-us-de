@@ -1,0 +1,76 @@
+{
+  "id": 873518973,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.642115,39.748014,-75.642115,39.748014",
+    "geom:latitude":39.748014,
+    "geom:longitude":-75.642115,
+    "iso:country":"US",
+    "sg:address":"3212 Bristol Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Taxi",
+            "subcategory":"",
+            "type":"Transportation"
+        },
+        {
+            "category":"Airport",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 750 2525",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "need",
+        "special"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QZzAw3Zn4nc6CExN0QwLo_39.748014_-75.642115@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223834,
+    "wof:geomhash":"efd519c90f035989405337d062a499eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873518973
+        }
+    ],
+    "wof:id":873518973,
+    "wof:lastmodified":1464223834,
+    "wof:name":"Allway Taxi Company",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "need",
+        "special"
+    ]
+},
+  "bbox": [
+    -75.642115,
+    39.748014,
+    -75.642115,
+    39.748014
+],
+  "geometry": {"coordinates":[-75.642115,39.748014],"type":"Point"}
+}

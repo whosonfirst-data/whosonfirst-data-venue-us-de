@@ -1,0 +1,75 @@
+{
+  "id": 873492951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.650403,39.750889,-75.650403,39.750889",
+    "geom:latitude":39.750889,
+    "geom:longitude":-75.650403,
+    "iso:country":"US",
+    "sg:address":"3000 Newport Gap Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 8434",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "ca",
+        "intermediate",
+        "public",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6W9SkPOByz8Cks9XUMZluP_39.750889_-75.650403@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222605,
+    "wof:geomhash":"12b8ae555b539e87d376951f623cdbe1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873492951
+        }
+    ],
+    "wof:id":873492951,
+    "wof:lastmodified":1464222605,
+    "wof:name":"Emily P Bissell Hospital",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "ca",
+        "intermediate",
+        "public",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.650403,
+    39.750889,
+    -75.650403,
+    39.750889
+],
+  "geometry": {"coordinates":[-75.650403,39.750889],"type":"Point"}
+}

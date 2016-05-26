@@ -1,0 +1,77 @@
+{
+  "id": 873499237,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540979,39.730775,-75.540979,39.730775",
+    "geom:latitude":39.730775,
+    "geom:longitude":-75.540979,
+    "iso:country":"US",
+    "sg:address":"1213 Lobdell St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 2837",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Xqbm4H91NYOEWQW34LqtB_39.730775_-75.540979@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222908,
+    "wof:geomhash":"795f9c49da26066f38a598f63f03006b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873499237
+        }
+    ],
+    "wof:id":873499237,
+    "wof:lastmodified":1464222908,
+    "wof:name":"Maddrey Trucking",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.540979,
+    39.730775,
+    -75.540979,
+    39.730775
+],
+  "geometry": {"coordinates":[-75.54097899999999,39.730775],"type":"Point"}
+}

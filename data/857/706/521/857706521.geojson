@@ -1,0 +1,69 @@
+{
+  "id": 857706521,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525162,39.14646,-75.525162,39.14646",
+    "geom:latitude":39.14646,
+    "geom:longitude":-75.525162,
+    "iso:country":"US",
+    "sg:address":"805 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 5200",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clinic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sN7JmRmRji5NXPAf0QfKm_39.146460_-75.525162@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220941,
+    "wof:geomhash":"fd716fe74753200e90bac8f201e7168c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":857706521
+        }
+    ],
+    "wof:id":857706521,
+    "wof:lastmodified":1464220941,
+    "wof:name":"Planned Parenthood",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clinic"
+    ]
+},
+  "bbox": [
+    -75.525162,
+    39.14646,
+    -75.525162,
+    39.14646
+],
+  "geometry": {"coordinates":[-75.52516199999999,39.14646],"type":"Point"}
+}

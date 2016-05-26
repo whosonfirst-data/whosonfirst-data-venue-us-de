@@ -1,0 +1,71 @@
+{
+  "id": 873470783,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.488244,39.811046,-75.488244,39.811046",
+    "geom:latitude":39.811046,
+    "geom:longitude":-75.488244,
+    "iso:country":"US",
+    "sg:address":"2111 Orleans Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 7728",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "municipality"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SS2pYqDGAeZdsGOtUhqwA_39.811046_-75.488244@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221758,
+    "wof:geomhash":"cec8b33a676a39dca5d3348d4b1f5a9b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873470783
+        }
+    ],
+    "wof:id":873470783,
+    "wof:lastmodified":1464221758,
+    "wof:name":"Village of Arden",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "municipality"
+    ]
+},
+  "bbox": [
+    -75.488244,
+    39.811046,
+    -75.488244,
+    39.811046
+],
+  "geometry": {"coordinates":[-75.48824399999999,39.811046],"type":"Point"}
+}

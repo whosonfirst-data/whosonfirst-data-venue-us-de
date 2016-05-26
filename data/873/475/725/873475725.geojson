@@ -1,0 +1,71 @@
+{
+  "id": 873475725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548481,39.691264,-75.548481,39.691264",
+    "geom:latitude":39.691264,
+    "geom:longitude":-75.548481,
+    "iso:country":"US",
+    "sg:address":"233 Cherry Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 472 1000",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "agricultural",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3z4wnrgpQCye8Vyhy8Dl4o_39.691264_-75.548481@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221939,
+    "wof:geomhash":"4fb26bea5ff89e887a98ae1dca19a1d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873475725
+        }
+    ],
+    "wof:id":873475725,
+    "wof:lastmodified":1464221939,
+    "wof:name":"Chemical Engineering Labs",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "agricultural",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.548481,
+    39.691264,
+    -75.548481,
+    39.691264
+],
+  "geometry": {"coordinates":[-75.548481,39.691264],"type":"Point"}
+}

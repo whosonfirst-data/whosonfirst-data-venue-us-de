@@ -1,0 +1,77 @@
+{
+  "id": 873514149,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.660408,39.63596,-75.660408,39.63596",
+    "geom:latitude":39.63596,
+    "geom:longitude":-75.660408,
+    "iso:country":"US",
+    "sg:address":"1 Songsmith Dr",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 261 3364",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://www.gnbkids.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_275VxWLkhEz6rXUhHPRWNQ_39.635960_-75.660408@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223572,
+    "wof:geomhash":"b4698467a3456e86cf68ed526c031c69",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514149
+        }
+    ],
+    "wof:id":873514149,
+    "wof:lastmodified":1464223572,
+    "wof:name":"Great New Beginnings Early Education Center",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.660408,
+    39.63596,
+    -75.660408,
+    39.63596
+],
+  "geometry": {"coordinates":[-75.660408,39.63596],"type":"Point"}
+}

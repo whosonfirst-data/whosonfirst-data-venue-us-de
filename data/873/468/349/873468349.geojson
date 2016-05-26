@@ -1,0 +1,83 @@
+{
+  "id": 873468349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551861,39.740649,-75.551861,39.740649",
+    "geom:latitude":39.740649,
+    "geom:longitude":-75.551861,
+    "iso:country":"US",
+    "sg:address":"1 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 0406",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0MgLuGH3VXWbMrfFV7k4jx_39.740649_-75.551861@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221664,
+    "wof:geomhash":"b264a74f953093ec8360527c47e50dde",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873468349
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873468349
+        }
+    ],
+    "wof:id":873468349,
+    "wof:lastmodified":1464221664,
+    "wof:name":"Fry Korners",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.551861,
+    39.740649,
+    -75.551861,
+    39.740649
+],
+  "geometry": {"coordinates":[-75.551861,39.740649],"type":"Point"}
+}

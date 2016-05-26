@@ -1,0 +1,73 @@
+{
+  "id": 873507405,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545308,39.747733,-75.545308,39.747733",
+    "geom:latitude":39.747733,
+    "geom:longitude":-75.545308,
+    "iso:country":"US",
+    "sg:address":"1213 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 6644",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32ls8heEIpv3jgj8Qujpij_39.747733_-75.545308@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223253,
+    "wof:geomhash":"2a9afd8013b410457dc05ccb4a9bc5a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873507405
+        }
+    ],
+    "wof:id":873507405,
+    "wof:lastmodified":1464223253,
+    "wof:name":"John Faraone Law Offices",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -75.545308,
+    39.747733,
+    -75.545308,
+    39.747733
+],
+  "geometry": {"coordinates":[-75.54530800000001,39.747733],"type":"Point"}
+}

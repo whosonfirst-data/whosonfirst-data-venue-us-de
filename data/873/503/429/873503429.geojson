@@ -1,0 +1,71 @@
+{
+  "id": 873503429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.439885,38.907579,-75.439885,38.907579",
+    "geom:latitude":38.907579,
+    "geom:longitude":-75.439885,
+    "iso:country":"US",
+    "sg:address":"604 Marvel Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 9422",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1LLscB7b2yoGslT90SHqgn_38.907579_-75.439885@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223080,
+    "wof:geomhash":"0c0d123f27e2a77747945036e7f1a257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873503429
+        }
+    ],
+    "wof:id":873503429,
+    "wof:lastmodified":1464223080,
+    "wof:name":"Abes Barber Shop",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.439885,
+    38.907579,
+    -75.439885,
+    38.907579
+],
+  "geometry": {"coordinates":[-75.439885,38.907579],"type":"Point"}
+}

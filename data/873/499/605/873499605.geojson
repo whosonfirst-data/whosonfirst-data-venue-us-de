@@ -1,0 +1,73 @@
+{
+  "id": 873499605,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523105,39.156564,-75.523105,39.156564",
+    "geom:latitude":39.156564,
+    "geom:longitude":-75.523105,
+    "iso:country":"US",
+    "sg:address":"48 The Green",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 744 9290",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "attorney"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yGUYEbqQbVQ2jWH0wz8hO_39.156564_-75.523105@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222923,
+    "wof:geomhash":"d3204fbe279282bc70ff23a10458c127",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873499605
+        }
+    ],
+    "wof:id":873499605,
+    "wof:lastmodified":1464222923,
+    "wof:name":"John R Garey",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "attorney"
+    ]
+},
+  "bbox": [
+    -75.523105,
+    39.156564,
+    -75.523105,
+    39.156564
+],
+  "geometry": {"coordinates":[-75.523105,39.156564],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873511421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517998,39.143002,-75.517998,39.143002",
+    "geom:latitude":39.143002,
+    "geom:longitude":-75.517998,
+    "iso:country":"US",
+    "sg:address":"1103 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8551",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BclSDOqvc2uJPyzs7vItl_39.143503_-75.517518@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223438,
+    "wof:geomhash":"41f4f2450f6882a5a0fb25b2ddbcc25b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873511421
+        }
+    ],
+    "wof:id":873511421,
+    "wof:lastmodified":1464223438,
+    "wof:name":"D'elegance Inc",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.517998,
+    39.143002,
+    -75.517998,
+    39.143002
+],
+  "geometry": {"coordinates":[-75.51799800000001,39.143002],"type":"Point"}
+}

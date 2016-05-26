@@ -1,0 +1,71 @@
+{
+  "id": 873519971,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5467,39.808998,-75.5467,39.808998",
+    "geom:latitude":39.808998,
+    "geom:longitude":-75.5467,
+    "iso:country":"US",
+    "sg:address":"3603 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Clothing, Apparel, & Fashions",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 0383",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "children's",
+        "clothing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zqeCbexMCw1En5w2bSdrr_39.808998_-75.546700@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223878,
+    "wof:geomhash":"4c1dc512c681a8d19592ab36f6da47ec",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873519971
+        }
+    ],
+    "wof:id":873519971,
+    "wof:lastmodified":1464223878,
+    "wof:name":"Hansel & Gretel",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "children's",
+        "clothing"
+    ]
+},
+  "bbox": [
+    -75.5467,
+    39.808998,
+    -75.5467,
+    39.808998
+],
+  "geometry": {"coordinates":[-75.5467,39.808998],"type":"Point"}
+}

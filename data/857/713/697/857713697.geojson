@@ -1,0 +1,68 @@
+{
+  "id": 857713697,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.714914,39.648639,-75.714914,39.648639",
+    "geom:latitude":39.648639,
+    "geom:longitude":-75.714914,
+    "iso:country":"US",
+    "sg:address":"46 Albe Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 9937",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4o84GegoFUvWVARvrZfLWs_39.648639_-75.714914@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221124,
+    "wof:geomhash":"6cc72434961f4d6763761bc8a4511140",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857713697
+        }
+    ],
+    "wof:id":857713697,
+    "wof:lastmodified":1464221124,
+    "wof:name":"Royal Cable",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.714914,
+    39.648639,
+    -75.714914,
+    39.648639
+],
+  "geometry": {"coordinates":[-75.71491399999999,39.648639],"type":"Point"}
+}

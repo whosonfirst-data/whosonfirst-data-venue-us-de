@@ -1,0 +1,69 @@
+{
+  "id": 873483029,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.695518,39.667648,-75.695518,39.667648",
+    "geom:latitude":39.667648,
+    "geom:longitude":-75.695518,
+    "iso:country":"US",
+    "sg:address":"13 Salem Village Sq",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 1883",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "power"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jalPqDlhRkwJAumENpaVG_39.667648_-75.695518@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222231,
+    "wof:geomhash":"5b0ba57f0a27ddba9df62c1ce33ea536",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873483029
+        }
+    ],
+    "wof:id":873483029,
+    "wof:lastmodified":1464222231,
+    "wof:name":"Village Laundromat",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "power"
+    ]
+},
+  "bbox": [
+    -75.695518,
+    39.667648,
+    -75.695518,
+    39.667648
+],
+  "geometry": {"coordinates":[-75.69551800000001,39.667648],"type":"Point"}
+}

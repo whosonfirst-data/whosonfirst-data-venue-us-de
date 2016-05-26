@@ -1,0 +1,73 @@
+{
+  "id": 873474023,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.480876,39.783101,-75.480876,39.783101",
+    "geom:latitude":39.783101,
+    "geom:longitude":-75.480876,
+    "iso:country":"US",
+    "sg:address":"1405 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Insurance Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 9700",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "life",
+        "agency",
+        "health"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838295,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yIznmVa3KAmCL8jbR0xWi_39.783101_-75.480876@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221882,
+    "wof:geomhash":"2272a84849f1bd0874f692a34d571e28",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838295,
+            "region_id":85688611,
+            "venue_id":873474023
+        }
+    ],
+    "wof:id":873474023,
+    "wof:lastmodified":1464221882,
+    "wof:name":"Apps",
+    "wof:parent_id":85838295,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "life",
+        "agency",
+        "health"
+    ]
+},
+  "bbox": [
+    -75.480876,
+    39.783101,
+    -75.480876,
+    39.783101
+],
+  "geometry": {"coordinates":[-75.48087599999999,39.783101],"type":"Point"}
+}

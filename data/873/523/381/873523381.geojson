@@ -1,0 +1,77 @@
+{
+  "id": 873523381,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545502,39.169498,-75.545502,39.169498",
+    "geom:latitude":39.169498,
+    "geom:longitude":-75.545502,
+    "iso:country":"US",
+    "sg:address":"1007 Walker Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9987",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W5k9Y1J5qGjqpdA2Suirb_39.169498_-75.545502@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224018,
+    "wof:geomhash":"caff50c08da725f5b503e2219f5cdae2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873523381
+        }
+    ],
+    "wof:id":873523381,
+    "wof:lastmodified":1464224018,
+    "wof:name":"Hamlet Wine & Spirits Inc",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.545502,
+    39.169498,
+    -75.545502,
+    39.169498
+],
+  "geometry": {"coordinates":[-75.545502,39.169498],"type":"Point"}
+}

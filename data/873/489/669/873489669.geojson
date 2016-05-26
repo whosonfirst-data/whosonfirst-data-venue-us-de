@@ -1,0 +1,69 @@
+{
+  "id": 873489669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.504139,39.768944,-75.504139,39.768944",
+    "geom:latitude":39.768944,
+    "geom:longitude":-75.504139,
+    "iso:country":"US",
+    "sg:address":"516 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 0555",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "paint"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fY7Cv4m4qdKXzOeE47Usj_39.768944_-75.504139@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222481,
+    "wof:geomhash":"d2fec8bab4f24391c4b67c824c7e43f5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873489669
+        }
+    ],
+    "wof:id":873489669,
+    "wof:lastmodified":1464222481,
+    "wof:name":"ICI Dulux Paint Centers",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "paint"
+    ]
+},
+  "bbox": [
+    -75.504139,
+    39.768944,
+    -75.504139,
+    39.768944
+],
+  "geometry": {"coordinates":[-75.504139,39.768944],"type":"Point"}
+}

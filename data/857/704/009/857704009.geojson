@@ -1,0 +1,71 @@
+{
+  "id": 857704009,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.256076,38.543642,-75.256076,38.543642",
+    "geom:latitude":38.543642,
+    "geom:longitude":-75.256076,
+    "iso:country":"US",
+    "sg:address":"518 Clayton St",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 7529",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_196VYJnyVj8cph6EvvzTzp_38.543642_-75.256076@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220895,
+    "wof:geomhash":"a88d51632f0b735b9d867628398b23c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857704009
+        }
+    ],
+    "wof:id":857704009,
+    "wof:lastmodified":1464220895,
+    "wof:name":"Discovery Island Learning Ctr",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.256076,
+    38.543642,
+    -75.256076,
+    38.543642
+],
+  "geometry": {"coordinates":[-75.25607599999999,38.543642],"type":"Point"}
+}

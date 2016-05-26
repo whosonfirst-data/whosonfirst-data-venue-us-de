@@ -1,0 +1,74 @@
+{
+  "id": 857685075,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.592852,39.754075,-75.592852,39.754075",
+    "geom:latitude":39.754075,
+    "geom:longitude":-75.592852,
+    "iso:country":"US",
+    "sg:address":"3486 Lancaster Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 225 5300",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dqUjYgvQe39IKwHS04MGA_39.754075_-75.592852@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220523,
+    "wof:geomhash":"ab9c17440f7e671a21935e6113d299d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":857685075
+        }
+    ],
+    "wof:id":857685075,
+    "wof:lastmodified":1464220523,
+    "wof:name":"Delaware Saab Svc",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing"
+    ]
+},
+  "bbox": [
+    -75.592852,
+    39.754075,
+    -75.592852,
+    39.754075
+],
+  "geometry": {"coordinates":[-75.59285199999999,39.754075],"type":"Point"}
+}

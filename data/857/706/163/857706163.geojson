@@ -1,0 +1,71 @@
+{
+  "id": 857706163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.58101,38.98249,-75.58101,38.98249",
+    "geom:latitude":38.98249,
+    "geom:longitude":-75.58101,
+    "iso:country":"US",
+    "sg:address":"3399 Little Mastens Corner Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 4544",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3DCG6Rs1gn7tw88Yx2Av0t_38.982490_-75.581010@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220935,
+    "wof:geomhash":"288df34a967d737f6fef7e1a7505aad1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857706163
+        }
+    ],
+    "wof:id":857706163,
+    "wof:lastmodified":1464220935,
+    "wof:name":"DHW Electrical Contractors",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.58101,
+    38.98249,
+    -75.58101,
+    38.98249
+],
+  "geometry": {"coordinates":[-75.58101000000001,38.98249],"type":"Point"}
+}

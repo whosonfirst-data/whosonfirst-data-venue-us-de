@@ -1,0 +1,69 @@
+{
+  "id": 873508057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.290045,38.767336,-75.290045,38.767336",
+    "geom:latitude":38.767336,
+    "geom:longitude":-75.290045,
+    "iso:country":"US",
+    "sg:address":"209 Mercury Ln",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 4688",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4MKsLscMAzXxq8c2WGCpjG_38.767336_-75.290045@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223287,
+    "wof:geomhash":"69b4d5a41aec3ded3d1fea1bf0847faa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873508057
+        }
+    ],
+    "wof:id":873508057,
+    "wof:lastmodified":1464223287,
+    "wof:name":"Homes of Future",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house"
+    ]
+},
+  "bbox": [
+    -75.290045,
+    38.767336,
+    -75.290045,
+    38.767336
+],
+  "geometry": {"coordinates":[-75.29004500000001,38.767336],"type":"Point"}
+}

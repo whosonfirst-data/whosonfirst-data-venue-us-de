@@ -1,0 +1,71 @@
+{
+  "id": 873494013,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.235002,38.517531,-75.235002,38.517531",
+    "geom:latitude":38.517531,
+    "geom:longitude":-75.235002,
+    "iso:country":"US",
+    "sg:address":"5 Main St",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 9424",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2t9vZdDkgBB4ZW6fOgBrOd_38.517531_-75.235002@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222653,
+    "wof:geomhash":"570c9d40b4c978a50e4af60c5ae800ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873494013
+        }
+    ],
+    "wof:id":873494013,
+    "wof:lastmodified":1464222653,
+    "wof:name":"Frankford Town Hall",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -75.235002,
+    38.517531,
+    -75.235002,
+    38.517531
+],
+  "geometry": {"coordinates":[-75.23500199999999,38.517531],"type":"Point"}
+}

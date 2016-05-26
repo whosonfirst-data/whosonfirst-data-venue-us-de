@@ -1,0 +1,71 @@
+{
+  "id": 857722771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.151167,38.760548,-75.151167,38.760548",
+    "geom:latitude":38.760548,
+    "geom:longitude":-75.151167,
+    "iso:country":"US",
+    "sg:address":"42 Henlopen Ct",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 8983",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "park"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jthOlJriJjdH1BXvh3QkW_38.760548_-75.151167@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221302,
+    "wof:geomhash":"e13d512fe24d877de212b1310a67e106",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":857722771
+        }
+    ],
+    "wof:id":857722771,
+    "wof:lastmodified":1464221302,
+    "wof:name":"Cape Henlopen State Park",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "park"
+    ]
+},
+  "bbox": [
+    -75.151167,
+    38.760548,
+    -75.151167,
+    38.760548
+],
+  "geometry": {"coordinates":[-75.151167,38.760548],"type":"Point"}
+}

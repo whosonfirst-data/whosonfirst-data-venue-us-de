@@ -1,0 +1,71 @@
+{
+  "id": 873521583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5411,39.105598,-75.5411,39.105598",
+    "geom:latitude":39.105598,
+    "geom:longitude":-75.5411,
+    "iso:country":"US",
+    "sg:address":"4008 S Dupont Hwy Ste A",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 1117",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Cs9SBejgZCnxrDmmuNSKr_39.105598_-75.541100@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223947,
+    "wof:geomhash":"cddd3448249f614f6e78a3f1d9f36c66",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873521583
+        }
+    ],
+    "wof:id":873521583,
+    "wof:lastmodified":1464223947,
+    "wof:name":"Python Enterprises Inc",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.5411,
+    39.105598,
+    -75.5411,
+    39.105598
+],
+  "geometry": {"coordinates":[-75.5411,39.105598],"type":"Point"}
+}

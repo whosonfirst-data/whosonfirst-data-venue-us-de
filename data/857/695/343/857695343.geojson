@@ -1,0 +1,69 @@
+{
+  "id": 857695343,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.638924,39.733514,-75.638924,39.733514",
+    "geom:latitude":39.733514,
+    "geom:longitude":-75.638924,
+    "iso:country":"US",
+    "sg:address":"3614 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7346",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NhxPP2gteiekHljz9qVcl_39.733514_-75.638924@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220726,
+    "wof:geomhash":"2d59c2e1bd23173dbf0d5b83f521424e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857695343
+        }
+    ],
+    "wof:id":857695343,
+    "wof:lastmodified":1464220726,
+    "wof:name":"McAvaneys Pub",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking"
+    ]
+},
+  "bbox": [
+    -75.638924,
+    39.733514,
+    -75.638924,
+    39.733514
+],
+  "geometry": {"coordinates":[-75.638924,39.733514],"type":"Point"}
+}

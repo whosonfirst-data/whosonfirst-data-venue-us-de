@@ -1,0 +1,70 @@
+{
+  "id": 873519007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.661421,39.751945,-75.661421,39.751945",
+    "geom:latitude":39.751945,
+    "geom:longitude":-75.661421,
+    "iso:country":"US",
+    "sg:address":"8 Whitekirk Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 9353",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant"
+    ],
+    "sg:website":"http://www.egma.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858585,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yZ3KuI3cKAarnKh5exHDy_39.751945_-75.661421@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223835,
+    "wof:geomhash":"f6f2e574649c89ba10e72d3d228c1937",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858585,
+            "region_id":85688611,
+            "venue_id":873519007
+        }
+    ],
+    "wof:id":873519007,
+    "wof:lastmodified":1464223835,
+    "wof:name":"Egma",
+    "wof:parent_id":85858585,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant"
+    ]
+},
+  "bbox": [
+    -75.661421,
+    39.751945,
+    -75.661421,
+    39.751945
+],
+  "geometry": {"coordinates":[-75.661421,39.751945],"type":"Point"}
+}

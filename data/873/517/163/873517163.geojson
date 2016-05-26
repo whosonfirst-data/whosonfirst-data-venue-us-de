@@ -1,0 +1,81 @@
+{
+  "id": 873517163,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505302,39.794399,-75.505302,39.794399",
+    "geom:latitude":39.794399,
+    "geom:longitude":-75.505302,
+    "iso:country":"US",
+    "sg:address":"1501 Marsh Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 4531",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2elRvzvuASX8jBwXT9vfAA_39.794399_-75.505302@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223736,
+    "wof:geomhash":"5c65ef59612e5395f039e3bee2c7920a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873517163
+        }
+    ],
+    "wof:id":873517163,
+    "wof:lastmodified":1464223736,
+    "wof:name":"Claremont School",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.505302,
+    39.794399,
+    -75.505302,
+    39.794399
+],
+  "geometry": {"coordinates":[-75.505302,39.794399],"type":"Point"}
+}

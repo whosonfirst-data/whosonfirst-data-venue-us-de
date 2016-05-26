@@ -1,0 +1,70 @@
+{
+  "id": 873512893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.657935,39.633205,-75.657935,39.633205",
+    "geom:latitude":39.633205,
+    "geom:longitude":-75.657935,
+    "iso:country":"US",
+    "sg:address":"550 Eden Cir",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/new-castle/26869-el-tapatio/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 6477",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mexican"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75mPFRzWzRXrcMnOZPUPpM_39.633205_-75.657935@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223510,
+    "wof:geomhash":"0f73a8a7ffb79dfb6a4aaf8309692d36",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873512893
+        }
+    ],
+    "wof:id":873512893,
+    "wof:lastmodified":1464223510,
+    "wof:name":"El Tapatio",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mexican"
+    ]
+},
+  "bbox": [
+    -75.657935,
+    39.633205,
+    -75.657935,
+    39.633205
+],
+  "geometry": {"coordinates":[-75.65793499999999,39.633205],"type":"Point"}
+}

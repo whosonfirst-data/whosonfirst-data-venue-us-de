@@ -1,0 +1,71 @@
+{
+  "id": 873484985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.596653,38.652693,-75.596653,38.652693",
+    "geom:latitude":38.652693,
+    "geom:longitude":-75.596653,
+    "iso:country":"US",
+    "sg:address":"1200 Norman Eskridge Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 6864",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_03YBjHpgBzECVxkhTGnrWi_38.652693_-75.596653@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222306,
+    "wof:geomhash":"12820707fbce9cb2e664cea44b3372dc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873484985
+        }
+    ],
+    "wof:id":873484985,
+    "wof:lastmodified":1464222306,
+    "wof:name":"Richard J Sternberg MD Faaos",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.596653,
+    38.652693,
+    -75.596653,
+    38.652693
+],
+  "geometry": {"coordinates":[-75.596653,38.652693],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857697719,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.664285,39.690639,-75.664285,39.690639",
+    "geom:latitude":39.690639,
+    "geom:longitude":-75.664285,
+    "iso:country":"US",
+    "sg:address":"1109 Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 0372",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garment",
+        "agent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3204wjRUBy1Yw2RPngQ4oo_39.690639_-75.664285@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220769,
+    "wof:geomhash":"57e54eda3763ec20a573fb043b177832",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857697719
+        }
+    ],
+    "wof:id":857697719,
+    "wof:lastmodified":1464220769,
+    "wof:name":"New York Cleaners",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garment",
+        "agent"
+    ]
+},
+  "bbox": [
+    -75.664285,
+    39.690639,
+    -75.664285,
+    39.690639
+],
+  "geometry": {"coordinates":[-75.66428500000001,39.690639],"type":"Point"}
+}

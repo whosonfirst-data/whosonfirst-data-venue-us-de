@@ -1,0 +1,70 @@
+{
+  "id": 873486201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.145449,38.761362,-75.145449,38.761362",
+    "geom:latitude":38.761362,
+    "geom:longitude":-75.145449,
+    "iso:country":"US",
+    "sg:address":"1001 Kings Hwy",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 6330",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "sg:website":"www.fbcoflewes.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814899,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15ZjWyww4te3mcWZ1FYzPS_38.761362_-75.145449@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222350,
+    "wof:geomhash":"54d590ed12930203ee48c8acaeb83da2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85814899,
+            "region_id":85688611,
+            "venue_id":873486201
+        }
+    ],
+    "wof:id":873486201,
+    "wof:lastmodified":1464222350,
+    "wof:name":"First Baptist Church Of Lewes",
+    "wof:parent_id":85814899,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.145449,
+    38.761362,
+    -75.145449,
+    38.761362
+],
+  "geometry": {"coordinates":[-75.145449,38.761362],"type":"Point"}
+}

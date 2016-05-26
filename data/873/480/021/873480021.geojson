@@ -1,0 +1,71 @@
+{
+  "id": 873480021,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.496989,39.769476,-75.496989,39.769476",
+    "geom:latitude":39.769476,
+    "geom:longitude":-75.496989,
+    "iso:country":"US",
+    "sg:address":"1211 Talley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 6491",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6PilM7ACVhJF3QKrM9fcT2_39.769476_-75.496989@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222113,
+    "wof:geomhash":"57c4c0de7314ff1a86d725f4ce45d7d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873480021
+        }
+    ],
+    "wof:id":873480021,
+    "wof:lastmodified":1464222113,
+    "wof:name":"John Pedicone Residential",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.496989,
+    39.769476,
+    -75.496989,
+    39.769476
+],
+  "geometry": {"coordinates":[-75.496989,39.769476],"type":"Point"}
+}

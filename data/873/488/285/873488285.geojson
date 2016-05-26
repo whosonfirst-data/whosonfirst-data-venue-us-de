@@ -1,0 +1,71 @@
+{
+  "id": 873488285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.702148,39.665274,-75.702148,39.665274",
+    "geom:latitude":39.665274,
+    "geom:longitude":-75.702148,
+    "iso:country":"US",
+    "sg:address":"1300 Chelmsford Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 3015",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4ujZhrx9NRYo103l9gVV0b_39.665274_-75.702148@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222433,
+    "wof:geomhash":"78c531fb7aba27fb5c37a92184974871",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873488285
+        }
+    ],
+    "wof:id":873488285,
+    "wof:lastmodified":1464222433,
+    "wof:name":"Fers Corp",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.702148,
+    39.665274,
+    -75.702148,
+    39.665274
+],
+  "geometry": {"coordinates":[-75.70214799999999,39.665274],"type":"Point"}
+}

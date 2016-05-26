@@ -1,0 +1,73 @@
+{
+  "id": 873485155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556049,39.730125,-75.556049,39.730125",
+    "geom:latitude":39.730125,
+    "geom:longitude":-75.556049,
+    "iso:country":"US",
+    "sg:address":"525 S Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 9411",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LIilMn2vAPfCEukqkBEc1_39.730125_-75.556049@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222312,
+    "wof:geomhash":"b5aa948dc73bc0093bc5df2f6768eaa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873485155
+        }
+    ],
+    "wof:id":873485155,
+    "wof:lastmodified":1464222312,
+    "wof:name":"California Towing",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.556049,
+    39.730125,
+    -75.556049,
+    39.730125
+],
+  "geometry": {"coordinates":[-75.556049,39.730125],"type":"Point"}
+}

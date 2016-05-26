@@ -1,0 +1,71 @@
+{
+  "id": 857700517,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549771,39.814965,-75.549771,39.814965",
+    "geom:latitude":39.814965,
+    "geom:longitude":-75.549771,
+    "iso:country":"US",
+    "sg:address":"4443 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 9040",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners",
+        "vacuum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7JnuT23IlG1D3ImQkGWi9n_39.814965_-75.549771@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220825,
+    "wof:geomhash":"d80bfb6e7cba35579c7940768b3e71f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857700517
+        }
+    ],
+    "wof:id":857700517,
+    "wof:lastmodified":1464220825,
+    "wof:name":"Oreck Floor Care Ctr",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "vacuum"
+    ]
+},
+  "bbox": [
+    -75.549771,
+    39.814965,
+    -75.549771,
+    39.814965
+],
+  "geometry": {"coordinates":[-75.54977100000001,39.814965],"type":"Point"}
+}

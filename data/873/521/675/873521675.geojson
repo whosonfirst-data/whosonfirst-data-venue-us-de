@@ -1,0 +1,77 @@
+{
+  "id": 873521675,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505835,39.151952,-75.505835,39.151952",
+    "geom:latitude":39.151952,
+    "geom:longitude":-75.505835,
+    "iso:country":"US",
+    "sg:address":"650 S Bay Rd Ste 1",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9060",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_74GevHVueARxkP5hQiY7Pa_39.151952_-75.505835@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223950,
+    "wof:geomhash":"279a8af47e0ed3b91d1b845164e8c430",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873521675
+        }
+    ],
+    "wof:id":873521675,
+    "wof:lastmodified":1464223950,
+    "wof:name":"Bay Court Plaza Liquors",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.505835,
+    39.151952,
+    -75.505835,
+    39.151952
+],
+  "geometry": {"coordinates":[-75.505835,39.151952],"type":"Point"}
+}

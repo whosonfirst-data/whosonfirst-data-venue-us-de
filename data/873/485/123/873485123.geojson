@@ -1,0 +1,71 @@
+{
+  "id": 873485123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.521075,38.966595,-75.521075,38.966595",
+    "geom:latitude":38.966595,
+    "geom:longitude":-75.521075,
+    "iso:country":"US",
+    "sg:address":"3602 Carpenter Bridge Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 335 5694",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "crop",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pKTNiemOJlOL6DWxRvuYO_38.966595_-75.521075@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222311,
+    "wof:geomhash":"746b8c77baf8b2f8ab60ad3aec875c14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873485123
+        }
+    ],
+    "wof:id":873485123,
+    "wof:lastmodified":1464222311,
+    "wof:name":"Scott Chester",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "crop",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.521075,
+    38.966595,
+    -75.521075,
+    38.966595
+],
+  "geometry": {"coordinates":[-75.521075,38.966595],"type":"Point"}
+}

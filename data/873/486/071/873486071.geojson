@@ -1,0 +1,75 @@
+{
+  "id": 873486071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.645749,39.154463,-75.645749,39.154463",
+    "geom:latitude":39.154463,
+    "geom:longitude":-75.645749,
+    "iso:country":"US",
+    "sg:address":"5722 Forrest Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 492 8200",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MGXoIOQyBNPf0I4v0jOkP_39.154463_-75.645749@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222345,
+    "wof:geomhash":"bf1d9c0fc0de2563a5757c027a4f53df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873486071
+        }
+    ],
+    "wof:id":873486071,
+    "wof:lastmodified":1464222345,
+    "wof:name":"B's Automotive",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.645749,
+    39.154463,
+    -75.645749,
+    39.154463
+],
+  "geometry": {"coordinates":[-75.645749,39.154463],"type":"Point"}
+}

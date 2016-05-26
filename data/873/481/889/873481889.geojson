@@ -1,0 +1,73 @@
+{
+  "id": 873481889,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.686339,39.705573,-75.686339,39.705573",
+    "geom:latitude":39.705573,
+    "geom:longitude":-75.686339,
+    "iso:country":"US",
+    "sg:address":"2618 State Rd 2",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 1953",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "collectible",
+        "gift",
+        "merchandise"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0vChSeCPLymqFu3IKwagMw_39.705573_-75.686339@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222190,
+    "wof:geomhash":"7a5edbb9f9641ce9937efe5fb1df35fb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873481889
+        }
+    ],
+    "wof:id":873481889,
+    "wof:lastmodified":1464222190,
+    "wof:name":"Krimpets",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "collectible",
+        "gift",
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.686339,
+    39.705573,
+    -75.686339,
+    39.705573
+],
+  "geometry": {"coordinates":[-75.686339,39.705573],"type":"Point"}
+}

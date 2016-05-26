@@ -1,0 +1,66 @@
+{
+  "id": 873525119,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.219543,38.456509,-75.219543,38.456509",
+    "geom:latitude":38.456509,
+    "geom:longitude":-75.219543,
+    "iso:country":"US",
+    "sg:address":"1 Fenwick Lndg",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 3020",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JKSwfvFntTBmRfiIUDZ48_38.456509_-75.219543@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224084,
+    "wof:geomhash":"04bb6800565e7123bfc1d12ebc3dd112",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525119
+        }
+    ],
+    "wof:id":873525119,
+    "wof:lastmodified":1464224084,
+    "wof:name":"Dirty Harrys",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.219543,
+    38.456509,
+    -75.219543,
+    38.456509
+],
+  "geometry": {"coordinates":[-75.219543,38.456509],"type":"Point"}
+}

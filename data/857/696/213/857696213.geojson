@@ -1,0 +1,69 @@
+{
+  "id": 857696213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602857,39.738932,-75.602857,39.738932",
+    "geom:latitude":39.738932,
+    "geom:longitude":-75.602857,
+    "iso:country":"US",
+    "sg:address":"1400 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Funeral Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 9614",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "practitioner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2m3Pi8KMUPQVpaQcNeQmDI_39.738932_-75.602857@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220740,
+    "wof:geomhash":"8bd8599992338297ec4ed0804a9cb439",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857696213
+        }
+    ],
+    "wof:id":857696213,
+    "wof:lastmodified":1464220740,
+    "wof:name":"Krienen-Griffith Funeral Home",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practitioner"
+    ]
+},
+  "bbox": [
+    -75.602857,
+    39.738932,
+    -75.602857,
+    39.738932
+],
+  "geometry": {"coordinates":[-75.602857,39.738932],"type":"Point"}
+}

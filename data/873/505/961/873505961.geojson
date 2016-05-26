@@ -1,0 +1,71 @@
+{
+  "id": 873505961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.615721,38.696564,-75.615721,38.696564",
+    "geom:latitude":38.696564,
+    "geom:longitude":-75.615721,
+    "iso:country":"US",
+    "sg:address":"20644 Conrail Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 5788",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "produce"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uc1BfYWHvFWdeiexFA2FZ_38.696564_-75.615721@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223196,
+    "wof:geomhash":"1327a20eb3780135617d75b5a6a0ea67",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873505961
+        }
+    ],
+    "wof:id":873505961,
+    "wof:lastmodified":1464223196,
+    "wof:name":"Tran Produce",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce"
+    ]
+},
+  "bbox": [
+    -75.615721,
+    38.696564,
+    -75.615721,
+    38.696564
+],
+  "geometry": {"coordinates":[-75.61572099999999,38.696564],"type":"Point"}
+}

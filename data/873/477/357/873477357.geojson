@@ -1,0 +1,73 @@
+{
+  "id": 873477357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549643,39.70753,-75.549643,39.70753",
+    "geom:latitude":39.70753,
+    "geom:longitude":-75.549643,
+    "iso:country":"US",
+    "sg:address":"3080 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 6034",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Y9JIEEC78FpnFzxLT8OgO_39.707530_-75.549643@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221996,
+    "wof:geomhash":"be477840900b63b7b38007333415401f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873477357
+        }
+    ],
+    "wof:id":873477357,
+    "wof:lastmodified":1464221996,
+    "wof:name":"Owens Auto Body & Detailing",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.549643,
+    39.70753,
+    -75.549643,
+    39.70753
+],
+  "geometry": {"coordinates":[-75.549643,39.70753],"type":"Point"}
+}

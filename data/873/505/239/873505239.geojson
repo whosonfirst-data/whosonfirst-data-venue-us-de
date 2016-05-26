@@ -1,0 +1,71 @@
+{
+  "id": 873505239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.428645,38.917133,-75.428645,38.917133",
+    "geom:latitude":38.917133,
+    "geom:longitude":-75.428645,
+    "iso:country":"US",
+    "sg:address":"5 NW 4th St",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 7020",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aq6RJzThZC7E9QqRWAj0W_38.917133_-75.428645@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223171,
+    "wof:geomhash":"64c6d235a404ff195e8dba8bf13464e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873505239
+        }
+    ],
+    "wof:id":873505239,
+    "wof:lastmodified":1464223171,
+    "wof:name":"Shore & Country Builders",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.428645,
+    38.917133,
+    -75.428645,
+    38.917133
+],
+  "geometry": {"coordinates":[-75.428645,38.917133],"type":"Point"}
+}

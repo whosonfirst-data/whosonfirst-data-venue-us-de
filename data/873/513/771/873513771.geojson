@@ -1,0 +1,74 @@
+{
+  "id": 873513771,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.087267,38.543681,-75.087267,38.543681",
+    "geom:latitude":38.543681,
+    "geom:longitude":-75.087267,
+    "iso:country":"US",
+    "sg:address":"29 Atlantic Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/selbyville-frankford/81441-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 541 8081",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HPxdPpfzYRkzAHylxHJvU_38.543681_-75.087267@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223547,
+    "wof:geomhash":"3d90837e1c9e7e98cc297f86ced7c512",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873513771
+        }
+    ],
+    "wof:id":873513771,
+    "wof:lastmodified":1464223547,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.087267,
+    38.543681,
+    -75.087267,
+    38.543681
+],
+  "geometry": {"coordinates":[-75.087267,38.543681],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873512911,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74898,39.60257,-75.74898,39.60257",
+    "geom:latitude":39.60257,
+    "geom:longitude":-75.74898,
+    "iso:country":"US",
+    "sg:address":"940 Peoples Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/central-pencader/239538-wings-to-go/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 9711",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wFZEOK87PGhgYGh6Yo4O5_39.602570_-75.748980@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223510,
+    "wof:geomhash":"9b758fb51b6c20e9a57bdef155480a1a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873512911
+        }
+    ],
+    "wof:id":873512911,
+    "wof:lastmodified":1464223510,
+    "wof:name":"Wings To Go",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -75.74898,
+    39.60257,
+    -75.74898,
+    39.60257
+],
+  "geometry": {"coordinates":[-75.74898,39.60257],"type":"Point"}
+}

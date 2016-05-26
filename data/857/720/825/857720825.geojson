@@ -1,0 +1,71 @@
+{
+  "id": 857720825,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.500104,38.919754,-75.500104,38.919754",
+    "geom:latitude":38.919754,
+    "geom:longitude":-75.500104,
+    "iso:country":"US",
+    "sg:address":"846 School St",
+    "sg:city":"Houston",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 2429",
+    "sg:postcode":"19954",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4tjMrPsfsVhv2gMaYRMEs2_38.919754_-75.500104@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221265,
+    "wof:geomhash":"846ca895d409b1424ef6c7364e00ac31",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":857720825
+        }
+    ],
+    "wof:id":857720825,
+    "wof:lastmodified":1464221265,
+    "wof:name":"Conventional Builders Inc",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.500104,
+    38.919754,
+    -75.500104,
+    38.919754
+],
+  "geometry": {"coordinates":[-75.50010399999999,38.919754],"type":"Point"}
+}

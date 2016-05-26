@@ -1,0 +1,69 @@
+{
+  "id": 873481847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.657742,39.723924,-75.657742,39.723924",
+    "geom:latitude":39.723924,
+    "geom:longitude":-75.657742,
+    "iso:country":"US",
+    "sg:address":"4512 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 225 3888",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0C5ifOZOIvnMuwDA1ugSBK_39.723924_-75.657742@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222189,
+    "wof:geomhash":"e97754703a75303556c15ebb175c6ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873481847
+        }
+    ],
+    "wof:id":873481847,
+    "wof:lastmodified":1464222189,
+    "wof:name":"Joseph T West",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.657742,
+    39.723924,
+    -75.657742,
+    39.723924
+],
+  "geometry": {"coordinates":[-75.657742,39.723924],"type":"Point"}
+}

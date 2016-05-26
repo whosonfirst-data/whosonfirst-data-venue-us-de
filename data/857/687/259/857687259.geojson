@@ -1,0 +1,69 @@
+{
+  "id": 857687259,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.728781,39.671024,-75.728781,39.671024",
+    "geom:latitude":39.671024,
+    "geom:longitude":-75.728781,
+    "iso:country":"US",
+    "sg:address":"14 Chippendale Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 894 1454",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "loan"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1ecL2OmbqazaoispWjHXuY_39.671024_-75.728781@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220564,
+    "wof:geomhash":"b6ecdf4a3c636100439bdb729a44b1bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857687259
+        }
+    ],
+    "wof:id":857687259,
+    "wof:lastmodified":1464220564,
+    "wof:name":"Greater Atlantic Financial Svc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "loan"
+    ]
+},
+  "bbox": [
+    -75.728781,
+    39.671024,
+    -75.728781,
+    39.671024
+],
+  "geometry": {"coordinates":[-75.728781,39.671024],"type":"Point"}
+}

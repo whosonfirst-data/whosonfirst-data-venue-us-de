@@ -1,0 +1,74 @@
+{
+  "id": 873513159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.745327,39.683646,-75.745327,39.683646",
+    "geom:latitude":39.683646,
+    "geom:longitude":-75.745327,
+    "iso:country":"US",
+    "sg:address":"203 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/17850-seasons-pizza-express/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 1515",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "salad",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4e3tnsfYFG7JvtDxbiULES_39.683646_-75.745327@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223518,
+    "wof:geomhash":"203d21cac2073908f2e44ef2f9af67ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513159
+        }
+    ],
+    "wof:id":873513159,
+    "wof:lastmodified":1464223518,
+    "wof:name":"Seasons Pizza Express",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "salad",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.745327,
+    39.683646,
+    -75.745327,
+    39.683646
+],
+  "geometry": {"coordinates":[-75.745327,39.683646],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873475105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.659761,39.634411,-75.659761,39.634411",
+    "geom:latitude":39.634411,
+    "geom:longitude":-75.659761,
+    "iso:country":"US",
+    "sg:address":"701 Governors Pl",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 836 2966",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4DpYSkdIU2vwJOKfWqCmC8_39.634411_-75.659761@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221918,
+    "wof:geomhash":"92a8fdfd0dae6d024ff8f892159ca1a2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873475105
+        }
+    ],
+    "wof:id":873475105,
+    "wof:lastmodified":1464221918,
+    "wof:name":"Eckerd",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.659761,
+    39.634411,
+    -75.659761,
+    39.634411
+],
+  "geometry": {"coordinates":[-75.659761,39.634411],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873488485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.708857,39.694221,-75.708857,39.694221",
+    "geom:latitude":39.694221,
+    "geom:longitude":-75.708857,
+    "iso:country":"US",
+    "sg:address":"21 Red Mill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 0223",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hTO5IdnDXAFbXWaI8RKwR_39.694221_-75.708857@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222440,
+    "wof:geomhash":"0c1de06d8a29e3159ad18c65e7af7501",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873488485
+        }
+    ],
+    "wof:id":873488485,
+    "wof:lastmodified":1464222440,
+    "wof:name":"CT Crossan Elec Cantract Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.708857,
+    39.694221,
+    -75.708857,
+    39.694221
+],
+  "geometry": {"coordinates":[-75.70885699999999,39.694221],"type":"Point"}
+}

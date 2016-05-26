@@ -1,0 +1,72 @@
+{
+  "id": 873521247,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.511668,39.178191,-75.511668,39.178191",
+    "geom:latitude":39.178191,
+    "geom:longitude":-75.511668,
+    "iso:country":"US",
+    "sg:address":"542 Schooner Way",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 242 8661",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "notary"
+    ],
+    "sg:website":"dovernotary.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HNcTLK5bo30LrKPBcqnYV_39.178191_-75.511668@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223934,
+    "wof:geomhash":"3a657f92c82b570bf570763a38af26f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873521247
+        }
+    ],
+    "wof:id":873521247,
+    "wof:lastmodified":1464223934,
+    "wof:name":"Mobile Notary",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "notary"
+    ]
+},
+  "bbox": [
+    -75.511668,
+    39.178191,
+    -75.511668,
+    39.178191
+],
+  "geometry": {"coordinates":[-75.511668,39.178191],"type":"Point"}
+}

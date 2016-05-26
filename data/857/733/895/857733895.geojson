@@ -1,0 +1,76 @@
+{
+  "id": 857733895,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.502688,39.769671,-75.502688,39.769671",
+    "geom:latitude":39.769671,
+    "geom:longitude":-75.502688,
+    "iso:country":"US",
+    "sg:address":"609 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 6989",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "produce",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aiXCKglFe3e8TiS5CEcWb_39.769671_-75.502688@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221517,
+    "wof:geomhash":"c3ae93c21e6ea5eaba10ea421218d6aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":857733895
+        }
+    ],
+    "wof:id":857733895,
+    "wof:lastmodified":1464221517,
+    "wof:name":"Bob's Original",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "produce",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.502688,
+    39.769671,
+    -75.502688,
+    39.769671
+],
+  "geometry": {"coordinates":[-75.50268800000001,39.769671],"type":"Point"}
+}

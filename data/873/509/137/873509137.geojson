@@ -1,0 +1,71 @@
+{
+  "id": 873509137,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.56337,39.758885,-75.56337,39.758885",
+    "geom:latitude":39.758885,
+    "geom:longitude":-75.56337,
+    "iso:country":"US",
+    "sg:address":"1707 Delaware Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 3015",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tavern"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6p2Gus5jhBxf3e4YiEyFvd_39.758885_-75.563370@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223337,
+    "wof:geomhash":"b3d7398e0dbe87e2c889a1a0dddd8762",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873509137
+        }
+    ],
+    "wof:id":873509137,
+    "wof:lastmodified":1464223337,
+    "wof:name":"Del Rose Cafe",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tavern"
+    ]
+},
+  "bbox": [
+    -75.56337,
+    39.758885,
+    -75.56337,
+    39.758885
+],
+  "geometry": {"coordinates":[-75.56337000000001,39.758885],"type":"Point"}
+}

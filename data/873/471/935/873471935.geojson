@@ -1,0 +1,73 @@
+{
+  "id": 873471935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.31567,38.650942,-75.31567,38.650942",
+    "geom:latitude":38.650942,
+    "geom:longitude":-75.31567,
+    "iso:country":"US",
+    "sg:address":"5 Hollyberry Dr",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 0262",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "carpentry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4R7uin9mbroTEiC9Ks39c7_38.650942_-75.315670@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221803,
+    "wof:geomhash":"8df752f2d5281121a122c1b4ba6d6bc1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873471935
+        }
+    ],
+    "wof:id":873471935,
+    "wof:lastmodified":1464221803,
+    "wof:name":"Upper Decks Carpentry",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "carpentry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.31567,
+    38.650942,
+    -75.31567,
+    38.650942
+],
+  "geometry": {"coordinates":[-75.31567,38.650942],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873511283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528375,39.80876,-75.528375,39.80876",
+    "geom:latitude":39.80876,
+    "geom:longitude":-75.528375,
+    "iso:country":"US",
+    "sg:address":"6 Sorrel Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0261",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineer",
+        "system",
+        "related",
+        "integration"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0kxnZUOceJw0YxsoyNr5Ny_39.808501_-75.528124@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223432,
+    "wof:geomhash":"52bfdbfa1e31c974c60ad12ee3e03189",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873511283
+        }
+    ],
+    "wof:id":873511283,
+    "wof:lastmodified":1464223432,
+    "wof:name":"Saltzman Associates",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer",
+        "system",
+        "related",
+        "integration"
+    ]
+},
+  "bbox": [
+    -75.528375,
+    39.80876,
+    -75.528375,
+    39.80876
+],
+  "geometry": {"coordinates":[-75.528375,39.80876],"type":"Point"}
+}

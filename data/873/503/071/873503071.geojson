@@ -1,0 +1,73 @@
+{
+  "id": 873503071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.442102,38.907534,-75.442102,38.907534",
+    "geom:latitude":38.907534,
+    "geom:longitude":-75.442102,
+    "iso:country":"US",
+    "sg:address":"414 S Dupont Blvd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 430 7676",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_77DRBD80iMBqIQkOeamsE2_38.907534_-75.442102@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223068,
+    "wof:geomhash":"a68ebd4638404d1de6c5dbd99dd06ea3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873503071
+        }
+    ],
+    "wof:id":873503071,
+    "wof:lastmodified":1464223068,
+    "wof:name":"Delaware Cardiovascular Assoc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.442102,
+    38.907534,
+    -75.442102,
+    38.907534
+],
+  "geometry": {"coordinates":[-75.44210200000001,38.907534],"type":"Point"}
+}

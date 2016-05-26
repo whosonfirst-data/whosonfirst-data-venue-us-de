@@ -1,0 +1,73 @@
+{
+  "id": 873490219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.538111,39.093964,-75.538111,39.093964",
+    "geom:latitude":39.093964,
+    "geom:longitude":-75.538111,
+    "iso:country":"US",
+    "sg:address":"138 King Henry Ct",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 0999",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger",
+        "airport"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7X434M6PzVLbK1QMtLo3Dl_39.093964_-75.538111@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222503,
+    "wof:geomhash":"918e3139c28234758d3bbcfaa6054776",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873490219
+        }
+    ],
+    "wof:id":873490219,
+    "wof:lastmodified":1464222503,
+    "wof:name":"Limousine Unlimited LLC",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "airport"
+    ]
+},
+  "bbox": [
+    -75.538111,
+    39.093964,
+    -75.538111,
+    39.093964
+],
+  "geometry": {"coordinates":[-75.538111,39.093964],"type":"Point"}
+}

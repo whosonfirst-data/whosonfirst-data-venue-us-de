@@ -1,0 +1,71 @@
+{
+  "id": 873505379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.474571,39.803253,-75.474571,39.803253",
+    "geom:latitude":39.803253,
+    "geom:longitude":-75.474571,
+    "iso:country":"US",
+    "sg:address":"1000 Pennsylvania Ave",
+    "sg:city":"Claymont",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 793 5000",
+    "sg:postcode":"19703",
+    "sg:province":"DE",
+    "sg:tags":[
+        "district"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ihfboZ8yrN7pf6kBV7pdk_39.803253_-75.474571@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223176,
+    "wof:geomhash":"b0565f13d4bd7ee9d2b8941cb789e736",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873505379
+        }
+    ],
+    "wof:id":873505379,
+    "wof:lastmodified":1464223176,
+    "wof:name":"Brandywine School District",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "district"
+    ]
+},
+  "bbox": [
+    -75.474571,
+    39.803253,
+    -75.474571,
+    39.803253
+],
+  "geometry": {"coordinates":[-75.474571,39.803253],"type":"Point"}
+}

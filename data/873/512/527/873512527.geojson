@@ -1,0 +1,73 @@
+{
+  "id": 873512527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.544993,39.114107,-75.544993,39.114107",
+    "geom:latitude":39.114107,
+    "geom:longitude":-75.544993,
+    "iso:country":"US",
+    "sg:address":"228 E Camden Wyoming Ave",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 9033",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operation",
+        "lodging"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Db1r1E3n4in2St6GAI03U_39.114053_-75.545178@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223494,
+    "wof:geomhash":"08a7343b763ca80dae4cc20757ba434f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873512527
+        }
+    ],
+    "wof:id":873512527,
+    "wof:lastmodified":1464223494,
+    "wof:name":"Rose Tower Bed and Breakfast",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operation",
+        "lodging"
+    ]
+},
+  "bbox": [
+    -75.544993,
+    39.114107,
+    -75.544993,
+    39.114107
+],
+  "geometry": {"coordinates":[-75.54499300000001,39.114107],"type":"Point"}
+}

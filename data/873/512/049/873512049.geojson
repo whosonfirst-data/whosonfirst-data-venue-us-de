@@ -1,0 +1,75 @@
+{
+  "id": 873512049,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528345,39.180044,-75.528345,39.180044",
+    "geom:latitude":39.180044,
+    "geom:longitude":-75.528345,
+    "iso:country":"US",
+    "sg:address":"747 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8935",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "store",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_459QcSvSAbGwfrPOyAP05O_39.180627_-75.528778@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223476,
+    "wof:geomhash":"8064d52fce9d8ce88635756b4b2a92f8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873512049
+        }
+    ],
+    "wof:id":873512049,
+    "wof:lastmodified":1464223476,
+    "wof:name":"Tri-State Coml Refinishing",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "store",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -75.528345,
+    39.180044,
+    -75.528345,
+    39.180044
+],
+  "geometry": {"coordinates":[-75.528345,39.180044],"type":"Point"}
+}

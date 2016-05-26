@@ -1,0 +1,71 @@
+{
+  "id": 873471689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.61259,39.301133,-75.61259,39.301133",
+    "geom:latitude":39.301133,
+    "geom:longitude":-75.61259,
+    "iso:country":"US",
+    "sg:address":"226 N Union St",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 5119",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "laboratory"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5cOrkjhzKvyjN6fFg479de_39.301133_-75.612590@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221793,
+    "wof:geomhash":"7b86503f9429d7e893b5047afdab9ea6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873471689
+        }
+    ],
+    "wof:id":873471689,
+    "wof:lastmodified":1464221793,
+    "wof:name":"Laboratory Corp Of America",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "laboratory"
+    ]
+},
+  "bbox": [
+    -75.61259,
+    39.301133,
+    -75.61259,
+    39.301133
+],
+  "geometry": {"coordinates":[-75.61259,39.301133],"type":"Point"}
+}

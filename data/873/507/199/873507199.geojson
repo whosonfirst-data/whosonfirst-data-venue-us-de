@@ -1,0 +1,68 @@
+{
+  "id": 873507199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.692963,39.73008,-75.692963,39.73008",
+    "geom:latitude":39.73008,
+    "geom:longitude":-75.692963,
+    "iso:country":"US",
+    "sg:address":"3108 Loudoun Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 8202",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4xTfWrMppJcLSXrbv4Q2u1_39.730080_-75.692963@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223245,
+    "wof:geomhash":"ab513774dd1f21a0821b8f1d3576d4f8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":873507199
+        }
+    ],
+    "wof:id":873507199,
+    "wof:lastmodified":1464223245,
+    "wof:name":"Floro Resurreccion",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.692963,
+    39.73008,
+    -75.692963,
+    39.73008
+],
+  "geometry": {"coordinates":[-75.69296300000001,39.73008],"type":"Point"}
+}

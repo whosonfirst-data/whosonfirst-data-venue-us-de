@@ -1,0 +1,73 @@
+{
+  "id": 857730117,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569181,39.703773,-75.569181,39.703773",
+    "geom:latitude":39.703773,
+    "geom:longitude":-75.569181,
+    "iso:country":"US",
+    "sg:address":"2300 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 7855",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0t76aTrdpFNZ4Q2XwzQHaV_39.703773_-75.569181@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221441,
+    "wof:geomhash":"09d3135e9cf81f5e67b50d8bb1196d5e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857730117
+        }
+    ],
+    "wof:id":857730117,
+    "wof:lastmodified":1464221441,
+    "wof:name":"Newark Insulation Co",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "insulation",
+        "heat",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.569181,
+    39.703773,
+    -75.569181,
+    39.703773
+],
+  "geometry": {"coordinates":[-75.569181,39.703773],"type":"Point"}
+}

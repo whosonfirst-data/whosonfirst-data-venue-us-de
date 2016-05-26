@@ -1,0 +1,71 @@
+{
+  "id": 873469435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.776526,39.638468,-75.776526,39.638468",
+    "geom:latitude":39.638468,
+    "geom:longitude":-75.776526,
+    "iso:country":"US",
+    "sg:address":"356 Welsh Tract Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 8111",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_70tWEY29NUUNP7SwJK7ApM_39.638468_-75.776526@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221702,
+    "wof:geomhash":"3100f58c76955dd57130641e05d0b664",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873469435
+        }
+    ],
+    "wof:id":873469435,
+    "wof:lastmodified":1464221702,
+    "wof:name":"Amin Contracting",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.776526,
+    39.638468,
+    -75.776526,
+    39.638468
+],
+  "geometry": {"coordinates":[-75.776526,39.638468],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 857710837,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.585139,39.752113,-75.585139,39.752113",
+    "geom:latitude":39.752113,
+    "geom:longitude":-75.585139,
+    "iso:country":"US",
+    "sg:address":"3000 W 2nd St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 5506",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "exercising"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Y4q8ZGA3xzg5AMl58cAGA_39.752113_-75.585139@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221048,
+    "wof:geomhash":"0b0ef42bad43661213fca88f89138c42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":857710837
+        }
+    ],
+    "wof:id":857710837,
+    "wof:lastmodified":1464221048,
+    "wof:name":"Dog Dayz Dog Day Care Center",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "exercising"
+    ]
+},
+  "bbox": [
+    -75.585139,
+    39.752113,
+    -75.585139,
+    39.752113
+],
+  "geometry": {"coordinates":[-75.585139,39.752113],"type":"Point"}
+}

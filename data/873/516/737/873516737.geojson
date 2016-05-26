@@ -1,0 +1,80 @@
+{
+  "id": 873516737,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551813,39.733821,-75.551813,39.733821",
+    "geom:latitude":39.733821,
+    "geom:longitude":-75.551813,
+    "iso:country":"US",
+    "sg:address":"307 A St Ste C",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 2001",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "buyer",
+        "broker"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6NBNYGjJPWGLtqAHCO1luJ_39.733821_-75.551813@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223704,
+    "wof:geomhash":"8b595711934ab93f16d3963bfaf2e01f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873516737
+        }
+    ],
+    "wof:id":873516737,
+    "wof:lastmodified":1464223704,
+    "wof:name":"Hunter Lott Realty Company",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "buyer",
+        "broker"
+    ]
+},
+  "bbox": [
+    -75.551813,
+    39.733821,
+    -75.551813,
+    39.733821
+],
+  "geometry": {"coordinates":[-75.551813,39.733821],"type":"Point"}
+}

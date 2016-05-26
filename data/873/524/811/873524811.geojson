@@ -1,0 +1,75 @@
+{
+  "id": 873524811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594678,38.655225,-75.594678,38.655225",
+    "geom:latitude":38.655225,
+    "geom:longitude":-75.594678,
+    "iso:country":"US",
+    "sg:address":"23450 Sussex Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Travel",
+            "subcategory":"Bed & Breakfast",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 4300",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "inn"
+    ],
+    "sg:website":"http://www.daysinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RUWiIK2EG0tE756o3OJWn_38.655225_-75.594678@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224072,
+    "wof:geomhash":"7d4f1d59155b650dc0479b93f7b31ae8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873524811
+        }
+    ],
+    "wof:id":873524811,
+    "wof:lastmodified":1464224072,
+    "wof:name":"Days Inn Suite",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inn"
+    ]
+},
+  "bbox": [
+    -75.594678,
+    38.655225,
+    -75.594678,
+    38.655225
+],
+  "geometry": {"coordinates":[-75.594678,38.655225],"type":"Point"}
+}

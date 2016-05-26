@@ -1,0 +1,73 @@
+{
+  "id": 857690821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570799,39.310936,-75.570799,39.310936",
+    "geom:latitude":39.310936,
+    "geom:longitude":-75.570799,
+    "iso:country":"US",
+    "sg:address":"1201 Woodland Beach Rd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 659 1316",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "excavation",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_32gO1ZyrMeCrI1Sg9T2D1m_39.310936_-75.570799@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220635,
+    "wof:geomhash":"8046f13849c4c74133eef6b76045ae99",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857690821
+        }
+    ],
+    "wof:id":857690821,
+    "wof:lastmodified":1464220635,
+    "wof:name":"Douglas A Beisner Contractor",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "excavation",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.570799,
+    39.310936,
+    -75.570799,
+    39.310936
+],
+  "geometry": {"coordinates":[-75.57079899999999,39.310936],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 857690085,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548588,39.739329,-75.548588,39.739329",
+    "geom:latitude":39.739329,
+    "geom:longitude":-75.548588,
+    "iso:country":"US",
+    "sg:address":"301 N Walnut St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 427 2146",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HtpoG5RYWyWxpuaKVkgpT_39.739329_-75.548588@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220619,
+    "wof:geomhash":"73b60a5f47c0ef3e4ed4fe47784782b1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857690085
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857690085
+        }
+    ],
+    "wof:id":857690085,
+    "wof:lastmodified":1464220619,
+    "wof:name":"Bravo Building Services",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.548588,
+    39.739329,
+    -75.548588,
+    39.739329
+],
+  "geometry": {"coordinates":[-75.548588,39.739329],"type":"Point"}
+}

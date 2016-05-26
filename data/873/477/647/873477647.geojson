@@ -1,0 +1,75 @@
+{
+  "id": 873477647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573374,39.746234,-75.573374,39.746234",
+    "geom:latitude":39.746234,
+    "geom:longitude":-75.573374,
+    "iso:country":"US",
+    "sg:address":"1816 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 3805",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6LHRSiKapR3svdm30f8eHx_39.746234_-75.573374@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222006,
+    "wof:geomhash":"e8c9145d8f46e102f85f8343f970f99b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873477647
+        }
+    ],
+    "wof:id":873477647,
+    "wof:lastmodified":1464222006,
+    "wof:name":"Harpers Motor Fuels Ltd",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.573374,
+    39.746234,
+    -75.573374,
+    39.746234
+],
+  "geometry": {"coordinates":[-75.573374,39.746234],"type":"Point"}
+}

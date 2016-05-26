@@ -1,0 +1,68 @@
+{
+  "id": 873473457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566192,39.671159,-75.566192,39.671159",
+    "geom:latitude":39.671159,
+    "geom:longitude":-75.566192,
+    "iso:country":"US",
+    "sg:address":"12 Casimir Ct",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 6252",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931555,
+        102083891,
+        85845649
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7O2g2p5Ry0fK4rt4p6ci5a_39.671159_-75.566192@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221863,
+    "wof:geomhash":"353f5da3dee1a57190886be051ebd37c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931555,
+            "neighbourhood_id":85845649,
+            "region_id":85688611,
+            "venue_id":873473457
+        }
+    ],
+    "wof:id":873473457,
+    "wof:lastmodified":1464221863,
+    "wof:name":"All About Clean",
+    "wof:parent_id":85845649,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.566192,
+    39.671159,
+    -75.566192,
+    39.671159
+],
+  "geometry": {"coordinates":[-75.566192,39.671159],"type":"Point"}
+}

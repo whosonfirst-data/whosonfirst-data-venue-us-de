@@ -1,0 +1,84 @@
+{
+  "id": 873517099,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549679,39.807357,-75.549679,39.807357",
+    "geom:latitude":39.807357,
+    "geom:longitude":-75.549679,
+    "iso:country":"US",
+    "sg:address":"3916 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Carpets & Floor Coverings",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 1303",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "store",
+        "mattress"
+    ],
+    "sg:website":"www.relaxtheback.com/stores/wilm...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3oOi2AFOuIBvUgKMTUNOlz_39.807357_-75.549679@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223726,
+    "wof:geomhash":"28c0ded463909175824aa03540c0f771",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517099
+        }
+    ],
+    "wof:id":873517099,
+    "wof:lastmodified":1464223726,
+    "wof:name":"Relax the Back",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "store",
+        "mattress"
+    ]
+},
+  "bbox": [
+    -75.549679,
+    39.807357,
+    -75.549679,
+    39.807357
+],
+  "geometry": {"coordinates":[-75.549679,39.807357],"type":"Point"}
+}

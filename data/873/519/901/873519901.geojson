@@ -1,0 +1,77 @@
+{
+  "id": 873519901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.505096,39.800201,-75.505096,39.800201",
+    "geom:latitude":39.800201,
+    "geom:longitude":-75.505096,
+    "iso:country":"US",
+    "sg:address":"1303 Veale Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Florist",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 6231",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nursery",
+        "gardening"
+    ],
+    "sg:website":"www.brandywineflowers.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15i92h0AtaYYpQhfVkwbBy_39.800201_-75.505096@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223874,
+    "wof:geomhash":"03e923104504a70e877a0a64c98d0e5c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873519901
+        }
+    ],
+    "wof:id":873519901,
+    "wof:lastmodified":1464223874,
+    "wof:name":"Brandywine Flowers",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nursery",
+        "gardening"
+    ]
+},
+  "bbox": [
+    -75.505096,
+    39.800201,
+    -75.505096,
+    39.800201
+],
+  "geometry": {"coordinates":[-75.50509599999999,39.800201],"type":"Point"}
+}

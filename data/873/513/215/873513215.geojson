@@ -1,0 +1,86 @@
+{
+  "id": 873513215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.703335,39.674245,-75.703335,39.674245",
+    "geom:latitude":39.674245,
+    "geom:longitude":-75.703335,
+    "iso:country":"US",
+    "sg:address":"695 E Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/246413-manhattan-bagel/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 8809",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "soup",
+        "american",
+        "sandwich",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3npvK1Sun2X3XwdDhkMnbW_39.674245_-75.703335@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223521,
+    "wof:geomhash":"128d868639cb7ca9e219bba8eb02509b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513215
+        }
+    ],
+    "wof:id":873513215,
+    "wof:lastmodified":1464223521,
+    "wof:name":"Manhattan Bagel",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "soup",
+        "american",
+        "sandwich",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.703335,
+    39.674245,
+    -75.703335,
+    39.674245
+],
+  "geometry": {"coordinates":[-75.703335,39.674245],"type":"Point"}
+}

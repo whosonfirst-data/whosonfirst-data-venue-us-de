@@ -1,0 +1,71 @@
+{
+  "id": 873473403,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.065464,38.452836,-75.065464,38.452836",
+    "geom:latitude":38.452836,
+    "geom:longitude":-75.065464,
+    "iso:country":"US",
+    "sg:address":"108 Lighthouse Rd",
+    "sg:city":"Fenwick Island",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 0893",
+    "sg:postcode":"19944",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_10kFqXn9k2olboBB1caRUT_38.452836_-75.065464@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221860,
+    "wof:geomhash":"02a54b5283a561f5246591a50c8a459c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873473403
+        }
+    ],
+    "wof:id":873473403,
+    "wof:lastmodified":1464221860,
+    "wof:name":"Carl M Freeman Communities",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential"
+    ]
+},
+  "bbox": [
+    -75.065464,
+    38.452836,
+    -75.065464,
+    38.452836
+],
+  "geometry": {"coordinates":[-75.06546400000001,38.452836],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873484105,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.288129,38.586601,-75.288129,38.586601",
+    "geom:latitude":38.586601,
+    "geom:longitude":-75.288129,
+    "iso:country":"US",
+    "sg:address":"107 Millsboro Village",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 947 1508",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4VjWXZtgUlZ5km0rZUwQxT_38.586601_-75.288129@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222275,
+    "wof:geomhash":"c0e648d2d0b0ce71b5f166793a53d7d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873484105
+        }
+    ],
+    "wof:id":873484105,
+    "wof:lastmodified":1464222275,
+    "wof:name":"Bywater Ceramic Tile & Marble",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.288129,
+    38.586601,
+    -75.288129,
+    38.586601
+],
+  "geometry": {"coordinates":[-75.288129,38.586601],"type":"Point"}
+}

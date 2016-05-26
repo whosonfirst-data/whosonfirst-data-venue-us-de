@@ -1,0 +1,71 @@
+{
+  "id": 873506081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.699123,39.685531,-75.699123,39.685531",
+    "geom:latitude":39.685531,
+    "geom:longitude":-75.699123,
+    "iso:country":"US",
+    "sg:address":"12 Mill Park Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 0403",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64cE8osZbpHM1B56uMTfeD_39.685531_-75.699123@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223200,
+    "wof:geomhash":"f198592ff2967f7c76d82b81e3218b4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873506081
+        }
+    ],
+    "wof:id":873506081,
+    "wof:lastmodified":1464223200,
+    "wof:name":"Schulze S J Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.699123,
+    39.685531,
+    -75.699123,
+    39.685531
+],
+  "geometry": {"coordinates":[-75.699123,39.685531],"type":"Point"}
+}

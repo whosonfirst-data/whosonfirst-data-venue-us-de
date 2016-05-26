@@ -1,0 +1,75 @@
+{
+  "id": 857701367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526052,39.758936,-75.526052,39.758936",
+    "geom:latitude":39.758936,
+    "geom:longitude":-75.526052,
+    "iso:country":"US",
+    "sg:address":"3501 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 761 4545",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger",
+        "car"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RHpSay0Lxpva18RCdw57p_39.758936_-75.526052@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220842,
+    "wof:geomhash":"acc8c32710c008c94fbd363df05c635c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857701367
+        }
+    ],
+    "wof:id":857701367,
+    "wof:lastmodified":1464220842,
+    "wof:name":"Enterprise Rent-A-Car Company",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "car"
+    ]
+},
+  "bbox": [
+    -75.526052,
+    39.758936,
+    -75.526052,
+    39.758936
+],
+  "geometry": {"coordinates":[-75.52605200000001,39.758936],"type":"Point"}
+}

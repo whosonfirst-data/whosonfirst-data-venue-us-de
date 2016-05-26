@@ -1,0 +1,69 @@
+{
+  "id": 857689567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.777855,39.655058,-75.777855,39.655058",
+    "geom:latitude":39.655058,
+    "geom:longitude":-75.777855,
+    "iso:country":"US",
+    "sg:address":"108 Sandy Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 6280",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vAbqIV6Fmg1oHGTWCbdkn_39.655058_-75.777855@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220609,
+    "wof:geomhash":"6b5eec6dea5976b06c162387f95ff6a5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857689567
+        }
+    ],
+    "wof:id":857689567,
+    "wof:lastmodified":1464220609,
+    "wof:name":"Beazley & Son LLC",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.777855,
+    39.655058,
+    -75.777855,
+    39.655058
+],
+  "geometry": {"coordinates":[-75.777855,39.655058],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873507531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.513556,39.78994,-75.513556,39.78994",
+    "geom:latitude":39.78994,
+    "geom:longitude":-75.513556,
+    "iso:country":"US",
+    "sg:address":"215 Hawthorne Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 6393",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821991,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1RhMgO0kbSDdL8skOoEaNb_39.789940_-75.513556@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223260,
+    "wof:geomhash":"9f1aa78e74d61814972686e2d3f4c547",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821991,
+            "region_id":85688611,
+            "venue_id":873507531
+        }
+    ],
+    "wof:id":873507531,
+    "wof:lastmodified":1464223260,
+    "wof:name":"Your Own Home LLC",
+    "wof:parent_id":85821991,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.513556,
+    39.78994,
+    -75.513556,
+    39.78994
+],
+  "geometry": {"coordinates":[-75.51355599999999,39.78994],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873489169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.506926,39.767673,-75.506926,39.767673",
+    "geom:latitude":39.767673,
+    "geom:longitude":-75.506926,
+    "iso:country":"US",
+    "sg:address":"401 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 0941",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "canned",
+        "specialty",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7DE6PM9FG5NhMB96iO3ZXZ_39.767673_-75.506926@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222462,
+    "wof:geomhash":"49c8c5637730b8af44f3342bdf761eb0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873489169
+        }
+    ],
+    "wof:id":873489169,
+    "wof:lastmodified":1464222462,
+    "wof:name":"BISA Intl Foods",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "canned",
+        "specialty",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.506926,
+    39.767673,
+    -75.506926,
+    39.767673
+],
+  "geometry": {"coordinates":[-75.50692600000001,39.767673],"type":"Point"}
+}

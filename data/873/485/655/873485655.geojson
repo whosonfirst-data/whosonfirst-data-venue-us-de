@@ -1,0 +1,71 @@
+{
+  "id": 873485655,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.506625,39.80298,-75.506625,39.80298",
+    "geom:latitude":39.80298,
+    "geom:longitude":-75.506625,
+    "iso:country":"US",
+    "sg:address":"2222 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8990",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "snow",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1h9J0NtCJM5VNPM7Sd7n3j_39.802980_-75.506625@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222330,
+    "wof:geomhash":"bdde881606254fa1107ba0995872acb2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873485655
+        }
+    ],
+    "wof:id":873485655,
+    "wof:lastmodified":1464222330,
+    "wof:name":"Turf Management Inc",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "snow",
+        "removal"
+    ]
+},
+  "bbox": [
+    -75.506625,
+    39.80298,
+    -75.506625,
+    39.80298
+],
+  "geometry": {"coordinates":[-75.506625,39.80298],"type":"Point"}
+}

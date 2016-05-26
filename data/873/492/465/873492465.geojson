@@ -1,0 +1,71 @@
+{
+  "id": 873492465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.511764,39.811985,-75.511764,39.811985",
+    "geom:latitude":39.811985,
+    "geom:longitude":-75.511764,
+    "iso:country":"US",
+    "sg:address":"2409 Marleton Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 5518",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fence",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2C9XbFZ97rs72MJB4I5vTW_39.811985_-75.511764@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222582,
+    "wof:geomhash":"e203b98755f4225ab2b8bff679f1bf3b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873492465
+        }
+    ],
+    "wof:id":873492465,
+    "wof:lastmodified":1464222582,
+    "wof:name":"Abel Fence LLC",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.511764,
+    39.811985,
+    -75.511764,
+    39.811985
+],
+  "geometry": {"coordinates":[-75.511764,39.811985],"type":"Point"}
+}

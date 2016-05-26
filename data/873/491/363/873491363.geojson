@@ -1,0 +1,75 @@
+{
+  "id": 873491363,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.223666,38.463516,-75.223666,38.463516",
+    "geom:latitude":38.463516,
+    "geom:longitude":-75.223666,
+    "iso:country":"US",
+    "sg:address":"99 Polly Branch Rd",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 2275",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Kfm3KaJjXftC9415Cxepk_38.463516_-75.223666@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222544,
+    "wof:geomhash":"a8049f7e78fa7cf07cee14e52a456226",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873491363
+        }
+    ],
+    "wof:id":873491363,
+    "wof:lastmodified":1464222544,
+    "wof:name":"Delmarva Pet Resort",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -75.223666,
+    38.463516,
+    -75.223666,
+    38.463516
+],
+  "geometry": {"coordinates":[-75.22366599999999,38.463516],"type":"Point"}
+}

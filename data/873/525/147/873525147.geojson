@@ -1,0 +1,75 @@
+{
+  "id": 873525147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.152899,38.46354,-75.152899,38.46354",
+    "geom:latitude":38.46354,
+    "geom:longitude":-75.152899,
+    "iso:country":"US",
+    "sg:address":"32953 Lighthouse Rd Unit 5",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 3278",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "scooters-repairing",
+        "motorcycle",
+        "motor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6CdDnUCxgoNqbtn8ADIweE_38.463540_-75.152899@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224085,
+    "wof:geomhash":"aa2d6f95ac9c0acf0668be4e2242b5bd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525147
+        }
+    ],
+    "wof:id":873525147,
+    "wof:lastmodified":1464224085,
+    "wof:name":"Blue Collar Custom Cycles",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "scooters-repairing",
+        "motorcycle",
+        "motor"
+    ]
+},
+  "bbox": [
+    -75.152899,
+    38.46354,
+    -75.152899,
+    38.46354
+],
+  "geometry": {"coordinates":[-75.15289900000001,38.46354],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873488603,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.732337,39.657561,-75.732337,39.657561",
+    "geom:latitude":39.657561,
+    "geom:longitude":-75.732337,
+    "iso:country":"US",
+    "sg:address":"155 Scottfield Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 235 0582",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1UVRzbMlyU0Xt0JIIkS7cV_39.657561_-75.732337@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222443,
+    "wof:geomhash":"8b1390e3ebc14eef9615b38dd5cd6094",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873488603
+        }
+    ],
+    "wof:id":873488603,
+    "wof:lastmodified":1464222443,
+    "wof:name":"Shaklee Products",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -75.732337,
+    39.657561,
+    -75.732337,
+    39.657561
+],
+  "geometry": {"coordinates":[-75.732337,39.657561],"type":"Point"}
+}

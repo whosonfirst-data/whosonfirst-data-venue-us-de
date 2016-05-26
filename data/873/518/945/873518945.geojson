@@ -1,0 +1,88 @@
+{
+  "id": 873518945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.652707,39.726735,-75.652707,39.726735",
+    "geom:latitude":39.726735,
+    "geom:longitude":-75.652707,
+    "iso:country":"US",
+    "sg:address":"4345 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Used Merchandise",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 683 9323",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "equipment-service",
+        "data",
+        "recovery",
+        "equipment"
+    ],
+    "sg:website":"http://www.comprenwilmington.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6a6pWuraB2CsVbSy64AODL_39.726735_-75.652707@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223833,
+    "wof:geomhash":"7483092bcad515dad6563c0815488257",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873518945
+        }
+    ],
+    "wof:id":873518945,
+    "wof:lastmodified":1464223833,
+    "wof:name":"Computer Renaissance",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "equipment-service",
+        "data",
+        "recovery",
+        "equipment"
+    ]
+},
+  "bbox": [
+    -75.652707,
+    39.726735,
+    -75.652707,
+    39.726735
+],
+  "geometry": {"coordinates":[-75.65270700000001,39.726735],"type":"Point"}
+}

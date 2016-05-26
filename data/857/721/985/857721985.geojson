@@ -1,0 +1,71 @@
+{
+  "id": 857721985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.430198,38.907482,-75.430198,38.907482",
+    "geom:latitude":38.907482,
+    "geom:longitude":-75.430198,
+    "iso:country":"US",
+    "sg:address":"100 Kings Hwy",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 4666",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_42sHcTysQinzIexWKSOWMM_38.907482_-75.430198@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221288,
+    "wof:geomhash":"3f3041b7646197feaaf1337b656518ca",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857721985
+        }
+    ],
+    "wof:id":857721985,
+    "wof:lastmodified":1464221288,
+    "wof:name":"Frederick K Samsel MD",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.430198,
+    38.907482,
+    -75.430198,
+    38.907482
+],
+  "geometry": {"coordinates":[-75.430198,38.907482],"type":"Point"}
+}

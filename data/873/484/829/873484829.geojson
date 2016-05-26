@@ -1,0 +1,73 @@
+{
+  "id": 873484829,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.63112,39.126671,-75.63112,39.126671",
+    "geom:latitude":39.126671,
+    "geom:longitude":-75.63112,
+    "iso:country":"US",
+    "sg:address":"959 Hazlettville Rd",
+    "sg:city":"Hartly",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 1068",
+    "sg:postcode":"19953",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_20G9dtPLAhHpMtOnrFgyQP_39.126671_-75.631120@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222300,
+    "wof:geomhash":"8ac3c26348c7fa7e517241ef6d6cd231",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873484829
+        }
+    ],
+    "wof:id":873484829,
+    "wof:lastmodified":1464222300,
+    "wof:name":"Electrical Associates Inc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.63112,
+    39.126671,
+    -75.63112,
+    39.126671
+],
+  "geometry": {"coordinates":[-75.63112,39.126671],"type":"Point"}
+}

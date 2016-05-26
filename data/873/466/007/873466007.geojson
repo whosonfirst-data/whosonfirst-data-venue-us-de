@@ -1,0 +1,79 @@
+{
+  "id": 873466007,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.770899,39.588837,-75.770899,39.588837",
+    "geom:latitude":39.588837,
+    "geom:longitude":-75.770899,
+    "iso:country":"US",
+    "sg:address":"2676 Frazer Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 3005",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engine",
+        "diesel",
+        "pump",
+        "fuel",
+        "injection",
+        "rebuilds"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0H0swBdiFmFIlZy8vTIwaN_39.588837_-75.770899@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221588,
+    "wof:geomhash":"0b9dca0fbb1329d36cac5ffb87eb93c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873466007
+        }
+    ],
+    "wof:id":873466007,
+    "wof:lastmodified":1464221588,
+    "wof:name":"Hoffmann's Fuel Injection Svc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engine",
+        "diesel",
+        "pump",
+        "fuel",
+        "injection",
+        "rebuilds"
+    ]
+},
+  "bbox": [
+    -75.770899,
+    39.588837,
+    -75.770899,
+    39.588837
+],
+  "geometry": {"coordinates":[-75.770899,39.588837],"type":"Point"}
+}

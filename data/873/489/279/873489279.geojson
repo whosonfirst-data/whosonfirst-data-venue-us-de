@@ -1,0 +1,71 @@
+{
+  "id": 873489279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.617816,39.749369,-75.617816,39.749369",
+    "geom:latitude":39.749369,
+    "geom:longitude":-75.617816,
+    "iso:country":"US",
+    "sg:address":"2022 Wildwood Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6646",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YcEqV479saIcP1lwI9M8b_39.749369_-75.617816@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222466,
+    "wof:geomhash":"cc0e41e3804a8a75be6e90f6e6b2c80d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873489279
+        }
+    ],
+    "wof:id":873489279,
+    "wof:lastmodified":1464222466,
+    "wof:name":"William D D'Onofrio",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -75.617816,
+    39.749369,
+    -75.617816,
+    39.749369
+],
+  "geometry": {"coordinates":[-75.617816,39.749369],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873482239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.393575,38.855298,-75.393575,38.855298",
+    "geom:latitude":38.855298,
+    "geom:longitude":-75.393575,
+    "iso:country":"US",
+    "sg:address":"200 Holly Dr W",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 424 0964",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4AmlH19la9w1EElVLgukC4_38.855298_-75.393575@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222202,
+    "wof:geomhash":"39bb04aad8229518f965d46e906e7df3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873482239
+        }
+    ],
+    "wof:id":873482239,
+    "wof:lastmodified":1464222202,
+    "wof:name":"Lionel Sainsume",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -75.393575,
+    38.855298,
+    -75.393575,
+    38.855298
+],
+  "geometry": {"coordinates":[-75.393575,38.855298],"type":"Point"}
+}

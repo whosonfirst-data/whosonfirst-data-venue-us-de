@@ -1,0 +1,73 @@
+{
+  "id": 857704711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.587627,39.663919,-75.587627,39.663919",
+    "geom:latitude":39.663919,
+    "geom:longitude":-75.587627,
+    "iso:country":"US",
+    "sg:address":"200 Centerpoint Blvd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 631 8006",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg",
+        "substance",
+        "diagnostic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2assbU3Vnq0os67s4R2tnA_39.663919_-75.587627@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220907,
+    "wof:geomhash":"236f38066a80b646f4a30b572e70db88",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":857704711
+        }
+    ],
+    "wof:id":857704711,
+    "wof:lastmodified":1464220907,
+    "wof:name":"Dade Behring Inc",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "substance",
+        "diagnostic"
+    ]
+},
+  "bbox": [
+    -75.587627,
+    39.663919,
+    -75.587627,
+    39.663919
+],
+  "geometry": {"coordinates":[-75.587627,39.663919],"type":"Point"}
+}

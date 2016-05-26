@@ -1,0 +1,70 @@
+{
+  "id": 873517201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549597,39.819053,-75.549597,39.819053",
+    "geom:latitude":39.819053,
+    "geom:longitude":-75.549597,
+    "iso:country":"US",
+    "sg:address":"305 Rocky Run Pkwy",
+    "sg:city":"Talleyville",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 477 0870",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "italian"
+    ],
+    "sg:website":"www.olivegarden.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6zISM2Dnf7YFGhaYexOW5P_39.819053_-75.549597@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223738,
+    "wof:geomhash":"808a01668582b80999f8750644308a6a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873517201
+        }
+    ],
+    "wof:id":873517201,
+    "wof:lastmodified":1464223738,
+    "wof:name":"Olive Garden",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.549597,
+    39.819053,
+    -75.549597,
+    39.819053
+],
+  "geometry": {"coordinates":[-75.54959700000001,39.819053],"type":"Point"}
+}

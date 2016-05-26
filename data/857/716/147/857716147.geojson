@@ -1,0 +1,71 @@
+{
+  "id": 857716147,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.656422,39.631526,-75.656422,39.631526",
+    "geom:latitude":39.631526,
+    "geom:longitude":-75.656422,
+    "iso:country":"US",
+    "sg:address":"580 Eden Cir",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 832 5678",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "health",
+        "diet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_64d5bTIbCRCpObRDBI8jyx_39.631526_-75.656422@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221168,
+    "wof:geomhash":"3469db6deeab056b341feb59968e82f3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857716147
+        }
+    ],
+    "wof:id":857716147,
+    "wof:lastmodified":1464221168,
+    "wof:name":"General Nutrition Ctr",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "health",
+        "diet"
+    ]
+},
+  "bbox": [
+    -75.656422,
+    39.631526,
+    -75.656422,
+    39.631526
+],
+  "geometry": {"coordinates":[-75.65642200000001,39.631526],"type":"Point"}
+}

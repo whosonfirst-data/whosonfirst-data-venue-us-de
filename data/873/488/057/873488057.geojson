@@ -1,0 +1,71 @@
+{
+  "id": 873488057,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.395414,38.836694,-75.395414,38.836694",
+    "geom:latitude":38.836694,
+    "geom:longitude":-75.395414,
+    "iso:country":"US",
+    "sg:address":"10251 Clendaniel Pond Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 3944",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5b4OSKOnw2MwaAVhTh4JFW_38.836694_-75.395414@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222425,
+    "wof:geomhash":"2411b5002bb77494bd73161c18ff2d29",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873488057
+        }
+    ],
+    "wof:id":873488057,
+    "wof:lastmodified":1464222425,
+    "wof:name":"Bill Hollway Repair",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive"
+    ]
+},
+  "bbox": [
+    -75.395414,
+    38.836694,
+    -75.395414,
+    38.836694
+],
+  "geometry": {"coordinates":[-75.395414,38.836694],"type":"Point"}
+}

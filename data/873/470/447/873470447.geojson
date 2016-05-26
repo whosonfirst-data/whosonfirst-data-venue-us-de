@@ -1,0 +1,75 @@
+{
+  "id": 873470447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.579884,39.75124,-75.579884,39.75124",
+    "geom:latitude":39.75124,
+    "geom:longitude":-75.579884,
+    "iso:country":"US",
+    "sg:address":"204 Webb St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 421 8332",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automobile",
+        "customizing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888525
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BYiU4EsrkLbsFxPqqA4CQ_39.751240_-75.579884@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221746,
+    "wof:geomhash":"1250392d464d0ce13b4f8624484af8aa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888525,
+            "region_id":85688611,
+            "venue_id":873470447
+        }
+    ],
+    "wof:id":873470447,
+    "wof:lastmodified":1464221746,
+    "wof:name":"Car Version 2",
+    "wof:parent_id":85888525,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automobile",
+        "customizing"
+    ]
+},
+  "bbox": [
+    -75.579884,
+    39.75124,
+    -75.579884,
+    39.75124
+],
+  "geometry": {"coordinates":[-75.57988400000001,39.75124],"type":"Point"}
+}

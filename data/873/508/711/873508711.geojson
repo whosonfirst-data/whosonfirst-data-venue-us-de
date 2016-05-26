@@ -1,0 +1,68 @@
+{
+  "id": 873508711,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.538664,39.742911,-75.538664,39.742911",
+    "geom:latitude":39.742911,
+    "geom:longitude":-75.538664,
+    "iso:country":"US",
+    "sg:address":"738 E 11th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 762 5880",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2qv7apaZzsrmCGRRXyhA00_39.742911_-75.538664@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223320,
+    "wof:geomhash":"aff8dc7a165857969ff257641a1434ac",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873508711
+        }
+    ],
+    "wof:id":873508711,
+    "wof:lastmodified":1464223320,
+    "wof:name":"Benevolent Protective Order",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.538664,
+    39.742911,
+    -75.538664,
+    39.742911
+],
+  "geometry": {"coordinates":[-75.538664,39.742911],"type":"Point"}
+}

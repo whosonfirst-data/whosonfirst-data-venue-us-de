@@ -1,0 +1,84 @@
+{
+  "id": 873466985,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.511193,39.760385,-75.511193,39.760385",
+    "geom:latitude":39.760385,
+    "geom:longitude":-75.511193,
+    "iso:country":"US",
+    "sg:address":"308 Edgemoor Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 7294",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6rsEkRw1dO6H0WUUr6WCNK_39.760385_-75.511193@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221618,
+    "wof:geomhash":"13d6c352f950e70eb2916441a2e47c08",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873466985
+        }
+    ],
+    "wof:id":873466985,
+    "wof:lastmodified":1464221618,
+    "wof:name":"Albrights & Sons Triangle Svc",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.511193,
+    39.760385,
+    -75.511193,
+    39.760385
+],
+  "geometry": {"coordinates":[-75.51119300000001,39.760385],"type":"Point"}
+}

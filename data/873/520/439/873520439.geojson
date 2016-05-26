@@ -1,0 +1,70 @@
+{
+  "id": 873520439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.515297,39.808201,-75.515297,39.808201",
+    "geom:latitude":39.808201,
+    "geom:longitude":-75.515297,
+    "iso:country":"US",
+    "sg:address":"2501 Silverside Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 529 5500",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "orthopedist"
+    ],
+    "sg:website":"www.morgankalman.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3FcpcSSAb1ZEgOYNV0GSRQ_39.808201_-75.515297@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223903,
+    "wof:geomhash":"cbed52d6c74d2ec88b804d6888281f30",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873520439
+        }
+    ],
+    "wof:id":873520439,
+    "wof:lastmodified":1464223903,
+    "wof:name":"Morgan Kalman Clinic",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthopedist"
+    ]
+},
+  "bbox": [
+    -75.515297,
+    39.808201,
+    -75.515297,
+    39.808201
+],
+  "geometry": {"coordinates":[-75.515297,39.808201],"type":"Point"}
+}

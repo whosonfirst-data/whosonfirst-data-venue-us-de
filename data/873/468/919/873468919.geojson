@@ -1,0 +1,64 @@
+{
+  "id": 873468919,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571927,39.043101,-75.571927,39.043101",
+    "geom:latitude":39.043101,
+    "geom:longitude":-75.571927,
+    "iso:country":"US",
+    "sg:address":"3 S Main St",
+    "sg:city":"Viola",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 3017",
+    "sg:postcode":"19979",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_02wk3I8ZlU3GMQA1Xeyzkp_39.043101_-75.571927@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221684,
+    "wof:geomhash":"e6bd34fd1fac4316eb85ff97197e1773",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873468919
+        }
+    ],
+    "wof:id":873468919,
+    "wof:lastmodified":1464221684,
+    "wof:name":"US Post Office",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.571927,
+    39.043101,
+    -75.571927,
+    39.043101
+],
+  "geometry": {"coordinates":[-75.571927,39.043101],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857724371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.572885,39.759051,-75.572885,39.759051",
+    "geom:latitude":39.759051,
+    "geom:longitude":-75.572885,
+    "iso:country":"US",
+    "sg:address":"2317 Pennsylvania Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 6611",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7bFQ9EIB9jKEWQ3x31n6RL_39.759051_-75.572885@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221331,
+    "wof:geomhash":"6115dfe333990ab3f1fcd08b2da577ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":857724371
+        }
+    ],
+    "wof:id":857724371,
+    "wof:lastmodified":1464221331,
+    "wof:name":"Commonwealth Construction",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.572885,
+    39.759051,
+    -75.572885,
+    39.759051
+],
+  "geometry": {"coordinates":[-75.572885,39.759051],"type":"Point"}
+}

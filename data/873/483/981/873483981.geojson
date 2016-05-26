@@ -1,0 +1,71 @@
+{
+  "id": 873483981,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.626364,39.723553,-75.626364,39.723553",
+    "geom:latitude":39.723553,
+    "geom:longitude":-75.626364,
+    "iso:country":"US",
+    "sg:address":"241 Meadowbrook Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 6074",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "concrete",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1X6VtolWboblduqSlgVMQX_39.723553_-75.626364@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222270,
+    "wof:geomhash":"114b02c9ac0f2141751abbf3328fa0ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873483981
+        }
+    ],
+    "wof:id":873483981,
+    "wof:lastmodified":1464222270,
+    "wof:name":"Clark & Son Construction Co",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "concrete",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.626364,
+    39.723553,
+    -75.626364,
+    39.723553
+],
+  "geometry": {"coordinates":[-75.626364,39.723553],"type":"Point"}
+}

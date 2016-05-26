@@ -1,0 +1,82 @@
+{
+  "id": 873524467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.233423,38.734116,-75.233423,38.734116",
+    "geom:latitude":38.734116,
+    "geom:longitude":-75.233423,
+    "iso:country":"US",
+    "sg:address":"18594 Ravens Way",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8576",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grooming",
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2puwpcAplRN4cS4aI2oi5j_38.734116_-75.233423@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224059,
+    "wof:geomhash":"fe7050ff19a75b84a8d2f7d44244a9f0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873524467
+        }
+    ],
+    "wof:id":873524467,
+    "wof:lastmodified":1464224059,
+    "wof:name":"Sandy Paws Pet Spa",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grooming",
+        "furnishing",
+        "dog",
+        "store",
+        "cat"
+    ]
+},
+  "bbox": [
+    -75.233423,
+    38.734116,
+    -75.233423,
+    38.734116
+],
+  "geometry": {"coordinates":[-75.233423,38.734116],"type":"Point"}
+}

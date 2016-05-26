@@ -1,0 +1,71 @@
+{
+  "id": 873480467,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.611197,39.737996,-75.611197,39.737996",
+    "geom:latitude":39.737996,
+    "geom:longitude":-75.611197,
+    "iso:country":"US",
+    "sg:address":"2203 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 3000",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_22Ygo4VSxZJWHACQ3XyozQ_39.737996_-75.611197@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222131,
+    "wof:geomhash":"4ad39f7782c2c48935b4c46c65ca816f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873480467
+        }
+    ],
+    "wof:id":873480467,
+    "wof:lastmodified":1464222131,
+    "wof:name":"PNC",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.611197,
+    39.737996,
+    -75.611197,
+    39.737996
+],
+  "geometry": {"coordinates":[-75.611197,39.737996],"type":"Point"}
+}

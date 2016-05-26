@@ -1,0 +1,73 @@
+{
+  "id": 873488433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.599528,39.30699,-75.599528,39.30699",
+    "geom:latitude":39.30699,
+    "geom:longitude":-75.599528,
+    "iso:country":"US",
+    "sg:address":"131 Fairfield Dr",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 5543",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0OW5GxUohANU9PjYlKjYou_39.306990_-75.599528@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222438,
+    "wof:geomhash":"e249db02597ebd4d38eb0203c9a4470a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873488433
+        }
+    ],
+    "wof:id":873488433,
+    "wof:lastmodified":1464222438,
+    "wof:name":"Bruce W Honaker Rsidential Elc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.599528,
+    39.30699,
+    -75.599528,
+    39.30699
+],
+  "geometry": {"coordinates":[-75.59952800000001,39.30699],"type":"Point"}
+}

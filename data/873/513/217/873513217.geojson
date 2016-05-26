@@ -1,0 +1,70 @@
+{
+  "id": 873513217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.667397,39.692047,-75.667397,39.692047",
+    "geom:latitude":39.692047,
+    "geom:longitude":-75.667397,
+    "iso:country":"US",
+    "sg:address":"1325 Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/104329-old-country-buffet/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 2292",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4PYLrwHbKpxOmX6gxK16NG_39.692047_-75.667397@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223521,
+    "wof:geomhash":"a36e415a292727585687ca2022771419",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513217
+        }
+    ],
+    "wof:id":873513217,
+    "wof:lastmodified":1464223521,
+    "wof:name":"Old Country Buffet",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american"
+    ]
+},
+  "bbox": [
+    -75.667397,
+    39.692047,
+    -75.667397,
+    39.692047
+],
+  "geometry": {"coordinates":[-75.66739699999999,39.692047],"type":"Point"}
+}

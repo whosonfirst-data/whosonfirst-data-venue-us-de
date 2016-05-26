@@ -1,0 +1,75 @@
+{
+  "id": 873503573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.713911,39.644273,-75.713911,39.644273",
+    "geom:latitude":39.644273,
+    "geom:longitude":-75.713911,
+    "iso:country":"US",
+    "sg:address":"215 Christiana Farms Pl",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 454 8656",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3yePq7fHv9p88KjwEpNDJy_39.644273_-75.713911@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223085,
+    "wof:geomhash":"aec193f3bed95cccbcaf61fafe307c67",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873503573
+        }
+    ],
+    "wof:id":873503573,
+    "wof:lastmodified":1464223085,
+    "wof:name":"Christiana Farms Rental Office",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.713911,
+    39.644273,
+    -75.713911,
+    39.644273
+],
+  "geometry": {"coordinates":[-75.713911,39.644273],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873504899,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54522,39.730164,-75.54522,39.730164",
+    "geom:latitude":39.730164,
+    "geom:longitude":-75.54522,
+    "iso:country":"US",
+    "sg:address":"436 S Buttonwood St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 4369",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19agMZjjYOJzrXz9qqbpp8_39.730164_-75.545220@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223153,
+    "wof:geomhash":"5d4519bde6f1189db48b6069a38c0e7e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873504899
+        }
+    ],
+    "wof:id":873504899,
+    "wof:lastmodified":1464223153,
+    "wof:name":"Whites Auto Repair & Body Shop",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "automobile",
+        "painting"
+    ]
+},
+  "bbox": [
+    -75.54522,
+    39.730164,
+    -75.54522,
+    39.730164
+],
+  "geometry": {"coordinates":[-75.54522,39.730164],"type":"Point"}
+}

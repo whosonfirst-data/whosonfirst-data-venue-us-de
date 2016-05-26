@@ -1,0 +1,69 @@
+{
+  "id": 873520611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5438,39.8088,-75.5438,39.8088",
+    "geom:latitude":39.8088,
+    "geom:longitude":-75.5438,
+    "iso:country":"US",
+    "sg:address":"23 The Commons",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Dentist",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 6930",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "orthodontist"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5luEKi4mYfJOlTb7ZlROi7_39.808800_-75.543800@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223910,
+    "wof:geomhash":"905383a6ff63b1df77f8801d95ac4a8e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873520611
+        }
+    ],
+    "wof:id":873520611,
+    "wof:lastmodified":1464223910,
+    "wof:name":"Fink Fred S Orthodontist",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "orthodontist"
+    ]
+},
+  "bbox": [
+    -75.5438,
+    39.8088,
+    -75.5438,
+    39.8088
+],
+  "geometry": {"coordinates":[-75.5438,39.8088],"type":"Point"}
+}

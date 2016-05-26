@@ -1,0 +1,73 @@
+{
+  "id": 857723107,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.562541,39.173728,-75.562541,39.173728",
+    "geom:latitude":39.173728,
+    "geom:longitude":-75.562541,
+    "iso:country":"US",
+    "sg:address":"30 Muirfield Ct",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7910",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85852037
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3S6Q0zHV93yYPyTiYig50y_39.173728_-75.562541@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221308,
+    "wof:geomhash":"f427955bae25f42127b22470d1ba1798",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85852037,
+            "region_id":85688611,
+            "venue_id":857723107
+        }
+    ],
+    "wof:id":857723107,
+    "wof:lastmodified":1464221308,
+    "wof:name":"Tennis Corner",
+    "wof:parent_id":85852037,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.562541,
+    39.173728,
+    -75.562541,
+    39.173728
+],
+  "geometry": {"coordinates":[-75.562541,39.173728],"type":"Point"}
+}

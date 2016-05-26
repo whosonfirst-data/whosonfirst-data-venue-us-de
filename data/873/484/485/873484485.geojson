@@ -1,0 +1,71 @@
+{
+  "id": 873484485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.640126,39.726735,-75.640126,39.726735",
+    "geom:latitude":39.726735,
+    "geom:longitude":-75.640126,
+    "iso:country":"US",
+    "sg:address":"3805 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 225 3200",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6biUO8VkBACGE3uOlcHoYt_39.726735_-75.640126@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222288,
+    "wof:geomhash":"434ec04b9f8708b0d9ae86baaea84bcb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873484485
+        }
+    ],
+    "wof:id":873484485,
+    "wof:lastmodified":1464222288,
+    "wof:name":"Brescia Construction",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.640126,
+    39.726735,
+    -75.640126,
+    39.726735
+],
+  "geometry": {"coordinates":[-75.640126,39.726735],"type":"Point"}
+}

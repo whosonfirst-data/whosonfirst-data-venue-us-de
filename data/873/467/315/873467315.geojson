@@ -1,0 +1,78 @@
+{
+  "id": 873467315,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547682,39.740698,-75.547682,39.740698",
+    "geom:latitude":39.740698,
+    "geom:longitude":-75.547682,
+    "iso:country":"US",
+    "sg:address":"500 N Walnut St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 2714",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6qgcBS7R1lJ9Kk6LrDwnQx_39.740698_-75.547682@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221629,
+    "wof:geomhash":"added50543f1538acb3e5c1b9a6ed25d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":873467315
+        },
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":873467315
+        }
+    ],
+    "wof:id":873467315,
+    "wof:lastmodified":1464221629,
+    "wof:name":"Windsor Market & Deli",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.547682,
+    39.740698,
+    -75.547682,
+    39.740698
+],
+  "geometry": {"coordinates":[-75.54768199999999,39.740698],"type":"Point"}
+}

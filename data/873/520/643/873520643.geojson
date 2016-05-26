@@ -1,0 +1,67 @@
+{
+  "id": 873520643,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523598,39.1754,-75.523598,39.1754",
+    "geom:latitude":39.1754,
+    "geom:longitude":-75.523598,
+    "iso:country":"US",
+    "sg:address":"505 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 735 2380",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:website":"www.pnc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Bzeyt7Mer2hV6PpzDAD4Z_39.175400_-75.523598@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223912,
+    "wof:geomhash":"e8e79b240ea3b463646016ebd847e08d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873520643
+        }
+    ],
+    "wof:id":873520643,
+    "wof:lastmodified":1464223912,
+    "wof:name":"Pnc Bank",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.523598,
+    39.1754,
+    -75.523598,
+    39.1754
+],
+  "geometry": {"coordinates":[-75.52359800000001,39.1754],"type":"Point"}
+}

@@ -1,0 +1,78 @@
+{
+  "id": 857696017,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542,39.751805,-75.542,39.751805",
+    "geom:latitude":39.751805,
+    "geom:longitude":-75.542,
+    "iso:country":"US",
+    "sg:address":"1911 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        },
+        {
+            "category":"Personal",
+            "subcategory":"Barber",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 7855",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QX68uiBSp1tJI738394vw_39.751805_-75.542000@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220737,
+    "wof:geomhash":"a379a6afb2dd147cad4f39d83abdd43a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":857696017
+        }
+    ],
+    "wof:id":857696017,
+    "wof:lastmodified":1464220737,
+    "wof:name":"Made For Women Hair Studio",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.542,
+    39.751805,
+    -75.542,
+    39.751805
+],
+  "geometry": {"coordinates":[-75.542,39.751805],"type":"Point"}
+}

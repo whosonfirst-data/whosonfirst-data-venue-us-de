@@ -1,0 +1,86 @@
+{
+  "id": 873488491,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.62052,39.740458,-75.62052,39.740458",
+    "geom:latitude":39.740458,
+    "geom:longitude":-75.62052,
+    "iso:country":"US",
+    "sg:address":"211 Brookland Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Apparel",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7931",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "upholsterer",
+        "cover",
+        "custom",
+        "reupholstery",
+        "slip",
+        "drapery",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H4lIqoHXhh3VDrDZbywqS_39.740458_-75.620520@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222440,
+    "wof:geomhash":"2ff22f6f94a934d424bb9c3388ebf5b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873488491
+        }
+    ],
+    "wof:id":873488491,
+    "wof:lastmodified":1464222440,
+    "wof:name":"Calloway's Interiors",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "upholsterer",
+        "cover",
+        "custom",
+        "reupholstery",
+        "slip",
+        "drapery",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -75.62052,
+    39.740458,
+    -75.62052,
+    39.740458
+],
+  "geometry": {"coordinates":[-75.62052,39.740458],"type":"Point"}
+}

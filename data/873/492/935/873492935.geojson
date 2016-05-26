@@ -1,0 +1,71 @@
+{
+  "id": 873492935,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.639802,39.733441,-75.639802,39.733441",
+    "geom:latitude":39.733441,
+    "geom:longitude":-75.639802,
+    "iso:country":"US",
+    "sg:address":"3721 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 8863",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "tune"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lVdMMaPWpnPndrLgEmXHe_39.733441_-75.639802@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222604,
+    "wof:geomhash":"22a9de391f7be31ce818022c0b0b110e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873492935
+        }
+    ],
+    "wof:id":873492935,
+    "wof:lastmodified":1464222604,
+    "wof:name":"Precision Tune Auto Care",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "tune"
+    ]
+},
+  "bbox": [
+    -75.639802,
+    39.733441,
+    -75.639802,
+    39.733441
+],
+  "geometry": {"coordinates":[-75.639802,39.733441],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873468457,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523016,39.760318,-75.523016,39.760318",
+    "geom:latitude":39.760318,
+    "geom:longitude":-75.523016,
+    "iso:country":"US",
+    "sg:address":"3901 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 7222",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "parts",
+        "saab",
+        "sales"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JrSlR7j7noBsfGguxd30R_39.760318_-75.523016@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221668,
+    "wof:geomhash":"f182ed386828c1a6dff6a9fb1565e4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":873468457
+        }
+    ],
+    "wof:id":873468457,
+    "wof:lastmodified":1464221668,
+    "wof:name":"Sports Car Service Inc",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parts",
+        "saab",
+        "sales"
+    ]
+},
+  "bbox": [
+    -75.523016,
+    39.760318,
+    -75.523016,
+    39.760318
+],
+  "geometry": {"coordinates":[-75.523016,39.760318],"type":"Point"}
+}

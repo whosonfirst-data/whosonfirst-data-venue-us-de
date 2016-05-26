@@ -1,0 +1,75 @@
+{
+  "id": 857721511,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.634858,39.27948,-75.634858,39.27948",
+    "geom:latitude":39.27948,
+    "geom:longitude":-75.634858,
+    "iso:country":"US",
+    "sg:address":"110 Sammon Dr",
+    "sg:city":"Clayton",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 6263",
+    "sg:postcode":"19938",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2p84SmocApWc43fvlQh647_39.279480_-75.634858@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221280,
+    "wof:geomhash":"d7d9832c356a54733bfb5e2832907438",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857721511
+        }
+    ],
+    "wof:id":857721511,
+    "wof:lastmodified":1464221280,
+    "wof:name":"Blevins Trucking Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "local",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.634858,
+    39.27948,
+    -75.634858,
+    39.27948
+],
+  "geometry": {"coordinates":[-75.63485799999999,39.27948],"type":"Point"}
+}

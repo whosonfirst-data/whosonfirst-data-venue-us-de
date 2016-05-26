@@ -1,0 +1,71 @@
+{
+  "id": 857716123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541932,38.697511,-75.541932,38.697511",
+    "geom:latitude":38.697511,
+    "geom:longitude":-75.541932,
+    "iso:country":"US",
+    "sg:address":"21165 Coverdale Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 0247",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "church"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1vskIwHrjHR8A937EU08cW_38.697511_-75.541932@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221167,
+    "wof:geomhash":"568a771e265c2f237c1f25762ffd09af",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857716123
+        }
+    ],
+    "wof:id":857716123,
+    "wof:lastmodified":1464221167,
+    "wof:name":"New Coverdale Outreach Mission",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "church"
+    ]
+},
+  "bbox": [
+    -75.541932,
+    38.697511,
+    -75.541932,
+    38.697511
+],
+  "geometry": {"coordinates":[-75.541932,38.697511],"type":"Point"}
+}

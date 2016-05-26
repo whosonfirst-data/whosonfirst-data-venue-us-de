@@ -1,0 +1,75 @@
+{
+  "id": 873475727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.597987,39.645983,-75.597987,39.645983",
+    "geom:latitude":39.645983,
+    "geom:longitude":-75.597987,
+    "iso:country":"US",
+    "sg:address":"1050 River Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 4353",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "commercial",
+        "remodeling",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5V09bTWKqfQQKp0hCGa07U_39.645983_-75.597987@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221939,
+    "wof:geomhash":"951c5a97308c364723c618e8520032b0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873475727
+        }
+    ],
+    "wof:id":873475727,
+    "wof:lastmodified":1464221939,
+    "wof:name":"Stewart Construction",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "commercial",
+        "remodeling",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.597987,
+    39.645983,
+    -75.597987,
+    39.645983
+],
+  "geometry": {"coordinates":[-75.597987,39.645983],"type":"Point"}
+}

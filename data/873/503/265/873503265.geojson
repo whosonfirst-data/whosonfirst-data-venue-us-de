@@ -1,0 +1,75 @@
+{
+  "id": 873503265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.485146,39.155345,-75.485146,39.155345",
+    "geom:latitude":39.155345,
+    "geom:longitude":-75.485146,
+    "iso:country":"US",
+    "sg:address":"10 Maggies Way",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7665",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "parlor",
+        "billiard"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UeYI7T0mT44a7phe4qh5B_39.155345_-75.485146@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223074,
+    "wof:geomhash":"4972ba5f657b210186f8e635ed108882",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873503265
+        }
+    ],
+    "wof:id":873503265,
+    "wof:lastmodified":1464223074,
+    "wof:name":"First State Billiards Inc",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "billiard"
+    ]
+},
+  "bbox": [
+    -75.485146,
+    39.155345,
+    -75.485146,
+    39.155345
+],
+  "geometry": {"coordinates":[-75.485146,39.155345],"type":"Point"}
+}

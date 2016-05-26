@@ -1,0 +1,69 @@
+{
+  "id": 857685683,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539623,39.769735,-75.539623,39.769735",
+    "geom:latitude":39.769735,
+    "geom:longitude":-75.539623,
+    "iso:country":"US",
+    "sg:address":"1310 Carruthers Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 0313",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2b0YpMv5WKzhnjzIhBZxMY_39.769735_-75.539623@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220534,
+    "wof:geomhash":"5b685de047bbc51d61c17c61de4f3182",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":857685683
+        }
+    ],
+    "wof:id":857685683,
+    "wof:lastmodified":1464220534,
+    "wof:name":"Elks Lodge 307",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "membership"
+    ]
+},
+  "bbox": [
+    -75.539623,
+    39.769735,
+    -75.539623,
+    39.769735
+],
+  "geometry": {"coordinates":[-75.53962300000001,39.769735],"type":"Point"}
+}

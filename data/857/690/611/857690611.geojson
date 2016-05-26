@@ -1,0 +1,71 @@
+{
+  "id": 857690611,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.697147,39.725647,-75.697147,39.725647",
+    "geom:latitude":39.725647,
+    "geom:longitude":-75.697147,
+    "iso:country":"US",
+    "sg:address":"5501 Limeric Cir",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 6151",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848893,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nBNrrgTG22maawl91iGcb_39.725647_-75.697147@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220630,
+    "wof:geomhash":"4917cef205ea409548617210f8fee301",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848893,
+            "region_id":85688611,
+            "venue_id":857690611
+        }
+    ],
+    "wof:id":857690611,
+    "wof:lastmodified":1464220630,
+    "wof:name":"Forest Park Apartments",
+    "wof:parent_id":85848893,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.697147,
+    39.725647,
+    -75.697147,
+    39.725647
+],
+  "geometry": {"coordinates":[-75.697147,39.725647],"type":"Point"}
+}

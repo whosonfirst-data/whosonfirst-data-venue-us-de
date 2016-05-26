@@ -1,0 +1,71 @@
+{
+  "id": 873502255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.231915,38.52585,-75.231915,38.52585",
+    "geom:latitude":38.52585,
+    "geom:longitude":-75.231915,
+    "iso:country":"US",
+    "sg:address":"29 Shockley Dr",
+    "sg:city":"Frankford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 1269",
+    "sg:postcode":"19945",
+    "sg:province":"DE",
+    "sg:tags":[
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lsshqjxyoAyDTC4hXfU9t_38.525850_-75.231915@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223038,
+    "wof:geomhash":"6758be97d22b9be5ab5393a5f8d8fd51",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873502255
+        }
+    ],
+    "wof:id":873502255,
+    "wof:lastmodified":1464223038,
+    "wof:name":"Joannacare",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "care"
+    ]
+},
+  "bbox": [
+    -75.231915,
+    38.52585,
+    -75.231915,
+    38.52585
+],
+  "geometry": {"coordinates":[-75.231915,38.52585],"type":"Point"}
+}

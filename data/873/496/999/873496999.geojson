@@ -1,0 +1,73 @@
+{
+  "id": 873496999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.398564,38.689728,-75.398564,38.689728",
+    "geom:latitude":38.689728,
+    "geom:longitude":-75.398564,
+    "iso:country":"US",
+    "sg:address":"546 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Specialty",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 253 4455",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tea",
+        "coffee"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VxiBIxhYI2k4IFrtsoH8T_38.689728_-75.398564@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222823,
+    "wof:geomhash":"167c9b9f1ea61290f36cb20f22a272be",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873496999
+        }
+    ],
+    "wof:id":873496999,
+    "wof:lastmodified":1464222823,
+    "wof:name":"Notting Hill Coffee Roastery",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tea",
+        "coffee"
+    ]
+},
+  "bbox": [
+    -75.398564,
+    38.689728,
+    -75.398564,
+    38.689728
+],
+  "geometry": {"coordinates":[-75.39856399999999,38.689728],"type":"Point"}
+}

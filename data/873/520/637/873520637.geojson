@@ -1,0 +1,67 @@
+{
+  "id": 873520637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543162,39.190865,-75.543162,39.190865",
+    "geom:latitude":39.190865,
+    "geom:longitude":-75.543162,
+    "iso:country":"US",
+    "sg:address":"1350 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Computers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 672 5800",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:website":"www.compusa.com/",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1nsZfdbOyI4pRfdaZAzf6y_39.190865_-75.543162@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223911,
+    "wof:geomhash":"eace143efdf2c1ad8b3edd8d669ddef7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873520637
+        }
+    ],
+    "wof:id":873520637,
+    "wof:lastmodified":1464223911,
+    "wof:name":"CompUSA",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.543162,
+    39.190865,
+    -75.543162,
+    39.190865
+],
+  "geometry": {"coordinates":[-75.543162,39.190865],"type":"Point"}
+}

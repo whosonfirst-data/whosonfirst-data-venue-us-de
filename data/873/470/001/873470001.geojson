@@ -1,0 +1,71 @@
+{
+  "id": 873470001,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.081375,38.734253,-75.081375,38.734253",
+    "geom:latitude":38.734253,
+    "geom:longitude":-75.081375,
+    "iso:country":"US",
+    "sg:address":"30 Harbor Rd",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 4688",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0nMtYD8hZgXdJGqbqdjxU2_38.734253_-75.081375@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221729,
+    "wof:geomhash":"11db0fb07e79a78d8a7f1d60dd226269",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":873470001
+        }
+    ],
+    "wof:id":873470001,
+    "wof:lastmodified":1464221729,
+    "wof:name":"Kenneth A Kessler MD",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.081375,
+    38.734253,
+    -75.081375,
+    38.734253
+],
+  "geometry": {"coordinates":[-75.08137499999999,38.734253],"type":"Point"}
+}

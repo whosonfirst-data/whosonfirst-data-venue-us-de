@@ -1,0 +1,75 @@
+{
+  "id": 873491223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539664,39.751023,-75.539664,39.751023",
+    "geom:latitude":39.751023,
+    "geom:longitude":-75.539664,
+    "iso:country":"US",
+    "sg:address":"34 Vandever Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 0797",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sorority",
+        "fraternity"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4GvEB4hEQvQVPNI3fil4yE_39.751023_-75.539664@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222538,
+    "wof:geomhash":"afe93de310c7b817879db162a21fb30f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873491223
+        }
+    ],
+    "wof:id":873491223,
+    "wof:lastmodified":1464222538,
+    "wof:name":"Kappa Alpha Psi Wilmington",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sorority",
+        "fraternity"
+    ]
+},
+  "bbox": [
+    -75.539664,
+    39.751023,
+    -75.539664,
+    39.751023
+],
+  "geometry": {"coordinates":[-75.539664,39.751023],"type":"Point"}
+}

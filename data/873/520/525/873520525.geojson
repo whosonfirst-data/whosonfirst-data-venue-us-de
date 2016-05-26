@@ -1,0 +1,71 @@
+{
+  "id": 873520525,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.509697,39.814301,-75.509697,39.814301",
+    "geom:latitude":39.814301,
+    "geom:longitude":-75.509697,
+    "iso:country":"US",
+    "sg:address":"2036 Foulk Rd Ste 101",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 9844",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "practice",
+        "family"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EhtlkBE3TJTUidLEbKxif_39.814301_-75.509697@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223907,
+    "wof:geomhash":"7c3029cf183d594e2e85c5bbde16791e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873520525
+        }
+    ],
+    "wof:id":873520525,
+    "wof:lastmodified":1464223907,
+    "wof:name":"Susan Kirchdoerffer DO",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "practice",
+        "family"
+    ]
+},
+  "bbox": [
+    -75.509697,
+    39.814301,
+    -75.509697,
+    39.814301
+],
+  "geometry": {"coordinates":[-75.509697,39.814301],"type":"Point"}
+}

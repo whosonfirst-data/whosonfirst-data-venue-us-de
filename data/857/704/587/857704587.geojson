@@ -1,0 +1,73 @@
+{
+  "id": 857704587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.63887,39.733541,-75.63887,39.733541",
+    "geom:latitude":39.733541,
+    "geom:longitude":-75.63887,
+    "iso:country":"US",
+    "sg:address":"3616 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 3323",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0NC9awQNyql10TvznQWyJA_39.733541_-75.638870@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220905,
+    "wof:geomhash":"4169e4cdd2329ccc4a02e3910375a3fd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857704587
+        }
+    ],
+    "wof:id":857704587,
+    "wof:lastmodified":1464220905,
+    "wof:name":"Superior Cleaners Wilmington",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant",
+        "cleaners"
+    ]
+},
+  "bbox": [
+    -75.63887,
+    39.733541,
+    -75.63887,
+    39.733541
+],
+  "geometry": {"coordinates":[-75.63887,39.733541],"type":"Point"}
+}

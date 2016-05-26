@@ -1,0 +1,73 @@
+{
+  "id": 873499265,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.126888,38.456202,-75.126888,38.456202",
+    "geom:latitude":38.456202,
+    "geom:longitude":-75.126888,
+    "iso:country":"US",
+    "sg:address":"78 Sea Gull Rd",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 6277",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dry wall",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JdkjZZ8Wc6F80JlcL6iZw_38.456202_-75.126888@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222909,
+    "wof:geomhash":"cada0d4f71e9988bf0ad8d3bcfb0874d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873499265
+        }
+    ],
+    "wof:id":873499265,
+    "wof:lastmodified":1464222909,
+    "wof:name":"Ed Hileman Drywall Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dry wall",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.126888,
+    38.456202,
+    -75.126888,
+    38.456202
+],
+  "geometry": {"coordinates":[-75.12688799999999,38.456202],"type":"Point"}
+}

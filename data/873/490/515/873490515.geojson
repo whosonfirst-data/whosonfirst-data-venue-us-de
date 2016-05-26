@@ -1,0 +1,69 @@
+{
+  "id": 873490515,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698659,39.666696,-75.698659,39.666696",
+    "geom:latitude":39.666696,
+    "geom:longitude":-75.698659,
+    "iso:country":"US",
+    "sg:address":"611 Oakdale Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 5325",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4u7DMTDxiCNl5rIZsLVeHa_39.666696_-75.698659@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222514,
+    "wof:geomhash":"41d35096a37001ad4ca1bd6aa970c727",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873490515
+        }
+    ],
+    "wof:id":873490515,
+    "wof:lastmodified":1464222514,
+    "wof:name":"Salem Village Apartments",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.698659,
+    39.666696,
+    -75.698659,
+    39.666696
+],
+  "geometry": {"coordinates":[-75.69865900000001,39.666696],"type":"Point"}
+}

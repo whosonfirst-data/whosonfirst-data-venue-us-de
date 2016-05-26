@@ -1,0 +1,71 @@
+{
+  "id": 873472903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.653474,39.726096,-75.653474,39.726096",
+    "geom:latitude":39.726096,
+    "geom:longitude":-75.653474,
+    "iso:country":"US",
+    "sg:address":"4416 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 6641",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3TJQAC64kmNhrdwKLDpSuV_39.726096_-75.653474@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221839,
+    "wof:geomhash":"d98ec6648c800cfea11749440e4fca44",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873472903
+        }
+    ],
+    "wof:id":873472903,
+    "wof:lastmodified":1464221839,
+    "wof:name":"Horton Brothers Auto",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.653474,
+    39.726096,
+    -75.653474,
+    39.726096
+],
+  "geometry": {"coordinates":[-75.653474,39.726096],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 873523903,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.577232,39.008715,-75.577232,39.008715",
+    "geom:latitude":39.008715,
+    "geom:longitude":-75.577232,
+    "iso:country":"US",
+    "sg:address":"120 W Main St",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4600",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "saving",
+        "commercial"
+    ],
+    "sg:website":"http://www.feltonbank.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3XW0nx9mExJ2kPTU5bVFFs_39.008715_-75.577232@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224036,
+    "wof:geomhash":"35f10c064e7c944c6852fbcc14b82852",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873523903
+        }
+    ],
+    "wof:id":873523903,
+    "wof:lastmodified":1464224036,
+    "wof:name":"The Felton Bank",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "saving",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.577232,
+    39.008715,
+    -75.577232,
+    39.008715
+],
+  "geometry": {"coordinates":[-75.577232,39.008715],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 873470865,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.162582,38.633088,-75.162582,38.633088",
+    "geom:latitude":38.633088,
+    "geom:longitude":-75.162582,
+    "iso:country":"US",
+    "sg:address":"502 Atlas St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 3899",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "communication",
+        "system",
+        "telephone"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2YhSLKSJRqqMDXEcEfUJ1n_38.633088_-75.162582@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221760,
+    "wof:geomhash":"9e8059ac9e4192230b1a7aa0930de11c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873470865
+        }
+    ],
+    "wof:id":873470865,
+    "wof:lastmodified":1464221760,
+    "wof:name":"C & G Communication Inc",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "communication",
+        "system",
+        "telephone"
+    ]
+},
+  "bbox": [
+    -75.162582,
+    38.633088,
+    -75.162582,
+    38.633088
+],
+  "geometry": {"coordinates":[-75.162582,38.633088],"type":"Point"}
+}

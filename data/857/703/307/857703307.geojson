@@ -1,0 +1,71 @@
+{
+  "id": 857703307,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547135,39.715025,-75.547135,39.715025",
+    "geom:latitude":39.715025,
+    "geom:longitude":-75.547135,
+    "iso:country":"US",
+    "sg:address":"23 Pyles Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 0278",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "garbage",
+        "collection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2EkPJbCss8BHthGnM02CEC_39.715025_-75.547135@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220883,
+    "wof:geomhash":"4972de41d5336b22b72fe4d31ab55d56",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857703307
+        }
+    ],
+    "wof:id":857703307,
+    "wof:lastmodified":1464220883,
+    "wof:name":"John D Caldwell Trash Co",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "garbage",
+        "collection"
+    ]
+},
+  "bbox": [
+    -75.547135,
+    39.715025,
+    -75.547135,
+    39.715025
+],
+  "geometry": {"coordinates":[-75.547135,39.715025],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873513499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.655575,39.72507,-75.655575,39.72507",
+    "geom:latitude":39.72507,
+    "geom:longitude":-75.655575,
+    "iso:country":"US",
+    "sg:address":"4528 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/67332-dominos-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 3030",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3rGgqEuAiIjaxCpHWmbkxl_39.725070_-75.655575@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223532,
+    "wof:geomhash":"edd016405002e2d39cb2875c9675f348",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873513499
+        }
+    ],
+    "wof:id":873513499,
+    "wof:lastmodified":1464223532,
+    "wof:name":"Domino's Pizza",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.655575,
+    39.72507,
+    -75.655575,
+    39.72507
+],
+  "geometry": {"coordinates":[-75.655575,39.72507],"type":"Point"}
+}

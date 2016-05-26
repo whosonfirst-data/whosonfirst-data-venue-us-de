@@ -1,0 +1,73 @@
+{
+  "id": 873503699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.30782,38.783733,-75.30782,38.783733",
+    "geom:latitude":38.783733,
+    "geom:longitude":-75.30782,
+    "iso:country":"US",
+    "sg:address":"617 Atlantic Ave",
+    "sg:city":"Millville",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 6556",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "commercial",
+        "storage"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4yO2hPzsBSWW9Ajc823Kca_38.783733_-75.307820@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223089,
+    "wof:geomhash":"02dd180c3418d766539c30829ea72c2e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873503699
+        }
+    ],
+    "wof:id":873503699,
+    "wof:lastmodified":1464223089,
+    "wof:name":"Millville Mini Storage",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "commercial",
+        "storage"
+    ]
+},
+  "bbox": [
+    -75.30782,
+    38.783733,
+    -75.30782,
+    38.783733
+],
+  "geometry": {"coordinates":[-75.30782000000001,38.783733],"type":"Point"}
+}

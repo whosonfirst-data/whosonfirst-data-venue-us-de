@@ -1,0 +1,75 @@
+{
+  "id": 873516299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.744515,39.65887,-75.744515,39.65887",
+    "geom:latitude":39.65887,
+    "geom:longitude":-75.744515,
+    "iso:country":"US",
+    "sg:address":"153 E Chestnut Hill Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 7533",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7GDt80zTPAgE9i7DQJVmNL_39.658870_-75.744515@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223673,
+    "wof:geomhash":"4d5f25faaf802a61cc2e7c58f308fb8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873516299
+        }
+    ],
+    "wof:id":873516299,
+    "wof:lastmodified":1464223673,
+    "wof:name":"Ohliger Enterprises",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.744515,
+    39.65887,
+    -75.744515,
+    39.65887
+],
+  "geometry": {"coordinates":[-75.74451500000001,39.65887],"type":"Point"}
+}

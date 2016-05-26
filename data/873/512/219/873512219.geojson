@@ -1,0 +1,73 @@
+{
+  "id": 873512219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518357,39.188802,-75.518357,39.188802",
+    "geom:latitude":39.188802,
+    "geom:longitude":-75.518357,
+    "iso:country":"US",
+    "sg:address":"108 Gordon Pl",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Local Transit",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 1456",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "passenger",
+        "limousine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4WtKf7DShrbaL8JLtt6qKX_39.189130_-75.518603@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223483,
+    "wof:geomhash":"b46ba542c4d1a3a9688a1ebf7e0c89fa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873512219
+        }
+    ],
+    "wof:id":873512219,
+    "wof:lastmodified":1464223483,
+    "wof:name":"Unique Transportation Inc",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "passenger",
+        "limousine"
+    ]
+},
+  "bbox": [
+    -75.518357,
+    39.188802,
+    -75.518357,
+    39.188802
+],
+  "geometry": {"coordinates":[-75.51835699999999,39.188802],"type":"Point"}
+}

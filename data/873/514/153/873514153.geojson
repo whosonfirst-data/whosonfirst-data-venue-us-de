@@ -1,0 +1,90 @@
+{
+  "id": 873514153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.661578,39.649392,-75.661578,39.649392",
+    "geom:latitude":39.649392,
+    "geom:longitude":-75.661578,
+    "iso:country":"US",
+    "sg:address":"124 Mario Dr",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pets & Pet Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 544 4971",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "dog",
+        "specialty",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ],
+    "sg:website":"http://www.anitasanimallantics.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0002AjPdG0bNHDhySICbsT_39.649392_-75.661578@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223572,
+    "wof:geomhash":"bd78e30dc82323765209bea76930dc0b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514153
+        }
+    ],
+    "wof:id":873514153,
+    "wof:lastmodified":1464223572,
+    "wof:name":"Anitas Animal Antics",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "dog",
+        "specialty",
+        "cat",
+        "furnishing",
+        "grooming",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.661578,
+    39.649392,
+    -75.661578,
+    39.649392
+],
+  "geometry": {"coordinates":[-75.66157800000001,39.649392],"type":"Point"}
+}

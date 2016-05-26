@@ -1,0 +1,76 @@
+{
+  "id": 873513623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.537217,39.186945,-75.537217,39.186945",
+    "geom:latitude":39.186945,
+    "geom:longitude":-75.537217,
+    "iso:country":"US",
+    "sg:address":"1255 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/68188-uno-chicago-grill/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5055",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0HKTRFF9dBTkftuI1XLxPZ_39.186945_-75.537217@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223539,
+    "wof:geomhash":"b24a41bd91b88996ca67bcdc792f6a85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873513623
+        }
+    ],
+    "wof:id":873513623,
+    "wof:lastmodified":1464223539,
+    "wof:name":"Uno Chicago Grill",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "italian",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.537217,
+    39.186945,
+    -75.537217,
+    39.186945
+],
+  "geometry": {"coordinates":[-75.537217,39.186945],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873488531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.453943,38.941286,-75.453943,38.941286",
+    "geom:latitude":38.941286,
+    "geom:longitude":-75.453943,
+    "iso:country":"US",
+    "sg:address":"840 Church Hill Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 9185",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858981,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_444tz10vxV8PeY0TokBo0D_38.941286_-75.453943@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222441,
+    "wof:geomhash":"032f9c54e5f3d14234a8a2337cafc11d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85858981,
+            "region_id":85688611,
+            "venue_id":873488531
+        }
+    ],
+    "wof:id":873488531,
+    "wof:lastmodified":1464222441,
+    "wof:name":"LA Vere Electric Inc",
+    "wof:parent_id":85858981,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.453943,
+    38.941286,
+    -75.453943,
+    38.941286
+],
+  "geometry": {"coordinates":[-75.453943,38.941286],"type":"Point"}
+}

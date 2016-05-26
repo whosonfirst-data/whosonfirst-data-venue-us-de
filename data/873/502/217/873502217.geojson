@@ -1,0 +1,71 @@
+{
+  "id": 873502217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.080349,38.735951,-75.080349,38.735951",
+    "geom:latitude":38.735951,
+    "geom:longitude":-75.080349,
+    "iso:country":"US",
+    "sg:address":"53 Ocean Dr",
+    "sg:city":"Rehoboth Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 227 3239",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1L5ihNFE9sVDm80WZxSG1y_38.735951_-75.080349@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223036,
+    "wof:geomhash":"18533fe01fbf733ed2b2a0a74ca61f9d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":873502217
+        }
+    ],
+    "wof:id":873502217,
+    "wof:lastmodified":1464223036,
+    "wof:name":"Chester Haverback MD",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.080349,
+    38.735951,
+    -75.080349,
+    38.735951
+],
+  "geometry": {"coordinates":[-75.080349,38.735951],"type":"Point"}
+}

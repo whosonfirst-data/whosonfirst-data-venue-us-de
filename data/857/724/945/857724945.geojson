@@ -1,0 +1,71 @@
+{
+  "id": 857724945,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.092623,38.479414,-75.092623,38.479414",
+    "geom:latitude":38.479414,
+    "geom:longitude":-75.092623,
+    "iso:country":"US",
+    "sg:address":"43 Laws Point Rd",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 9234",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wDrWnvODXxhQ5yei5G3CI_38.479414_-75.092623@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221342,
+    "wof:geomhash":"ae2067660934f5fe2371e0baeb90d429",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857724945
+        }
+    ],
+    "wof:id":857724945,
+    "wof:lastmodified":1464221342,
+    "wof:name":"Trager & Sons Plumbing Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.092623,
+    38.479414,
+    -75.092623,
+    38.479414
+],
+  "geometry": {"coordinates":[-75.092623,38.479414],"type":"Point"}
+}

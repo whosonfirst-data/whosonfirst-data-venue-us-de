@@ -1,0 +1,73 @@
+{
+  "id": 873495987,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.246835,38.554801,-75.246835,38.554801",
+    "geom:latitude":38.554801,
+    "geom:longitude":-75.246835,
+    "iso:country":"US",
+    "sg:address":"206 Hudson St",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 3636",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6EEyPU0yB8hmOBDdJxp2mE_38.554801_-75.246835@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222778,
+    "wof:geomhash":"527b7783642fee06a13d517d43db721a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873495987
+        }
+    ],
+    "wof:id":873495987,
+    "wof:lastmodified":1464222778,
+    "wof:name":"Sussex Automotive",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.246835,
+    38.554801,
+    -75.246835,
+    38.554801
+],
+  "geometry": {"coordinates":[-75.246835,38.554801],"type":"Point"}
+}

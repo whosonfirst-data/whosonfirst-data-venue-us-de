@@ -1,0 +1,69 @@
+{
+  "id": 873482863,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554081,39.701638,-75.554081,39.701638",
+    "geom:latitude":39.701638,
+    "geom:longitude":-75.554081,
+    "iso:country":"US",
+    "sg:address":"3029 Bowlarama Dr",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 691 1010",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mover"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5aUMbuKoEC1F1dNGnRLSMV_39.701638_-75.554081@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222225,
+    "wof:geomhash":"0262c49c0ab20291b8009b544b4ed8d9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873482863
+        }
+    ],
+    "wof:id":873482863,
+    "wof:lastmodified":1464222225,
+    "wof:name":"Signature Furniture Svc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mover"
+    ]
+},
+  "bbox": [
+    -75.554081,
+    39.701638,
+    -75.554081,
+    39.701638
+],
+  "geometry": {"coordinates":[-75.554081,39.701638],"type":"Point"}
+}

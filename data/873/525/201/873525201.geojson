@@ -1,0 +1,96 @@
+{
+  "id": 873525201,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.605864,39.30506,-75.605864,39.30506",
+    "geom:latitude":39.30506,
+    "geom:longitude":-75.605864,
+    "iso:country":"US",
+    "sg:address":"224 N Dupont Blvd",
+    "sg:city":"Smyrna",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 653 0903",
+    "sg:postcode":"19977",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "industrial",
+        "weight",
+        "loss",
+        "surgeons",
+        "geriatrics",
+        "osteopathic",
+        "medicine",
+        "management",
+        "surgeon",
+        "occupational"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24M3GB3nUqUJ5bYoz60ByG_39.305060_-75.605864@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224087,
+    "wof:geomhash":"5eb8a9f401de58522891df2c885154d6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873525201
+        }
+    ],
+    "wof:id":873525201,
+    "wof:lastmodified":1464224087,
+    "wof:name":"Affordable Healthcare of Delaware",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "industrial",
+        "weight",
+        "loss",
+        "surgeons",
+        "geriatrics",
+        "osteopathic",
+        "medicine",
+        "management",
+        "surgeon",
+        "occupational"
+    ]
+},
+  "bbox": [
+    -75.605864,
+    39.30506,
+    -75.605864,
+    39.30506
+],
+  "geometry": {"coordinates":[-75.605864,39.30506],"type":"Point"}
+}

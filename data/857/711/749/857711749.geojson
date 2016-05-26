@@ -1,0 +1,80 @@
+{
+  "id": 857711749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.602839,39.718165,-75.602839,39.718165",
+    "geom:latitude":39.718165,
+    "geom:longitude":-75.602839,
+    "iso:country":"US",
+    "sg:address":"104 Becker Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 636 9080",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg",
+        "electrical",
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0JuF7HeMDQ7fOXg20hkIOS_39.718165_-75.602839@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221072,
+    "wof:geomhash":"51b89f4ed4bd0693886266ac25fc40c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":857711749
+        }
+    ],
+    "wof:id":857711749,
+    "wof:lastmodified":1464221072,
+    "wof:name":"A Scatasti Electric Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg",
+        "electrical",
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.602839,
+    39.718165,
+    -75.602839,
+    39.718165
+],
+  "geometry": {"coordinates":[-75.602839,39.718165],"type":"Point"}
+}

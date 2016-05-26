@@ -1,0 +1,71 @@
+{
+  "id": 857702613,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.672569,39.668015,-75.672569,39.668015",
+    "geom:latitude":39.668015,
+    "geom:longitude":-75.672569,
+    "iso:country":"US",
+    "sg:address":"261 Chapman Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 467 4000",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "personal",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1wdVaGze5aEG8Y7rNQqH5f_39.668015_-75.672569@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220870,
+    "wof:geomhash":"df9303265b233baa1746995ae4bf5c2d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857702613
+        }
+    ],
+    "wof:id":857702613,
+    "wof:lastmodified":1464220870,
+    "wof:name":"Student Finance Corporation",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "personal",
+        "institution"
+    ]
+},
+  "bbox": [
+    -75.672569,
+    39.668015,
+    -75.672569,
+    39.668015
+],
+  "geometry": {"coordinates":[-75.672569,39.668015],"type":"Point"}
+}

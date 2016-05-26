@@ -1,0 +1,71 @@
+{
+  "id": 857700569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.695518,39.667635,-75.695518,39.667635",
+    "geom:latitude":39.667635,
+    "geom:longitude":-75.695518,
+    "iso:country":"US",
+    "sg:address":"12 Salem Village Sq",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Dance Studio",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 9292",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "instruction",
+        "dancing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_07sVlrWTz4Y4xrdw1rZ7pv_39.667635_-75.695518@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220826,
+    "wof:geomhash":"a60f32f30d6b6e567a88564a07c0c17e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857700569
+        }
+    ],
+    "wof:id":857700569,
+    "wof:lastmodified":1464220826,
+    "wof:name":"Jean Ferrill Dance Studio",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "instruction",
+        "dancing"
+    ]
+},
+  "bbox": [
+    -75.695518,
+    39.667635,
+    -75.695518,
+    39.667635
+],
+  "geometry": {"coordinates":[-75.69551800000001,39.667635],"type":"Point"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 873517081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.546327,39.789202,-75.546327,39.789202",
+    "geom:latitude":39.789202,
+    "geom:longitude":-75.546327,
+    "iso:country":"US",
+    "sg:address":"2105 Concord Pike Ste A",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 0115",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "frozen",
+        "dessert"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_304N8CKI75XurCSIWZHKxC_39.789202_-75.546327@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223724,
+    "wof:geomhash":"edfab5e47e7dd9e82d4d5417ea345ba0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873517081
+        }
+    ],
+    "wof:id":873517081,
+    "wof:lastmodified":1464223724,
+    "wof:name":"Tcby",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "frozen",
+        "dessert"
+    ]
+},
+  "bbox": [
+    -75.546327,
+    39.789202,
+    -75.546327,
+    39.789202
+],
+  "geometry": {"coordinates":[-75.54632700000001,39.789202],"type":"Point"}
+}

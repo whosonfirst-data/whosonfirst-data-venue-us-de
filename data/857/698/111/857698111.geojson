@@ -1,0 +1,73 @@
+{
+  "id": 857698111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.455485,38.906518,-75.455485,38.906518",
+    "geom:latitude":38.906518,
+    "geom:longitude":-75.455485,
+    "iso:country":"US",
+    "sg:address":"503 Lakewood Dr",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 270 8492",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "automotive",
+        "detailing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58epd1xayaAIcUjzuwN7Qk_38.906518_-75.455485@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220775,
+    "wof:geomhash":"4798c1a3576a7f8bffa284c9f72e9fef",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857698111
+        }
+    ],
+    "wof:id":857698111,
+    "wof:lastmodified":1464220775,
+    "wof:name":"Xtreme Graphix",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "automotive",
+        "detailing"
+    ]
+},
+  "bbox": [
+    -75.455485,
+    38.906518,
+    -75.455485,
+    38.906518
+],
+  "geometry": {"coordinates":[-75.455485,38.906518],"type":"Point"}
+}

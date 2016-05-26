@@ -1,0 +1,71 @@
+{
+  "id": 873505535,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.565828,39.661129,-75.565828,39.661129",
+    "geom:latitude":39.661129,
+    "geom:longitude":-75.565828,
+    "iso:country":"US",
+    "sg:address":"410 Delaware St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 0119",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineering",
+        "system"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0rpG2zKGb8ePWYi3AoHtr1_39.661129_-75.565828@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223181,
+    "wof:geomhash":"921945743cdedce6c74beaeb8b34c95c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873505535
+        }
+    ],
+    "wof:id":873505535,
+    "wof:lastmodified":1464223181,
+    "wof:name":"Renaissance Recycling Inc",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineering",
+        "system"
+    ]
+},
+  "bbox": [
+    -75.565828,
+    39.661129,
+    -75.565828,
+    39.661129
+],
+  "geometry": {"coordinates":[-75.565828,39.661129],"type":"Point"}
+}

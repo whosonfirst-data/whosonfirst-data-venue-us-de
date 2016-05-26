@@ -1,0 +1,69 @@
+{
+  "id": 857709433,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.71932,39.666187,-75.71932,39.666187",
+    "geom:latitude":39.666187,
+    "geom:longitude":-75.71932,
+    "iso:country":"US",
+    "sg:address":"15 Prestbury Cir",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 0756",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "investigator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vXNtNgDsf2zOvPoM4fBDp_39.666187_-75.719320@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221016,
+    "wof:geomhash":"1e771c10985e25aed9cf5f5512c55580",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857709433
+        }
+    ],
+    "wof:id":857709433,
+    "wof:lastmodified":1464221016,
+    "wof:name":"Tri-State Enterprise",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "investigator"
+    ]
+},
+  "bbox": [
+    -75.71932,
+    39.666187,
+    -75.71932,
+    39.666187
+],
+  "geometry": {"coordinates":[-75.71932,39.666187],"type":"Point"}
+}

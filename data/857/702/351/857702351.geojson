@@ -1,0 +1,71 @@
+{
+  "id": 857702351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.682887,39.706986,-75.682887,39.706986",
+    "geom:latitude":39.706986,
+    "geom:longitude":-75.682887,
+    "iso:country":"US",
+    "sg:address":"2606 Eastburn Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 9920",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "property",
+        "lessor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5EFno0d9SewUzb3TdHNHir_39.706986_-75.682887@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220866,
+    "wof:geomhash":"8558a97a05e969d65b0ac3859f1896ba",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857702351
+        }
+    ],
+    "wof:id":857702351,
+    "wof:lastmodified":1464220866,
+    "wof:name":"Home Realty",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "property",
+        "lessor"
+    ]
+},
+  "bbox": [
+    -75.682887,
+    39.706986,
+    -75.682887,
+    39.706986
+],
+  "geometry": {"coordinates":[-75.68288699999999,39.706986],"type":"Point"}
+}

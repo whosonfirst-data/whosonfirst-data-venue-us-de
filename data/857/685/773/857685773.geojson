@@ -1,0 +1,75 @@
+{
+  "id": 857685773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.65865,39.68859,-75.65865,39.68859",
+    "geom:latitude":39.68859,
+    "geom:longitude":-75.65865,
+    "iso:country":"US",
+    "sg:address":"111 Continental Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 7580",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "chemical",
+        "agricultural",
+        "seed",
+        "fertilizer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7W7xHxplzY1VWk9smxqTXF_39.688590_-75.658650@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220535,
+    "wof:geomhash":"307b03964ce4d8031d0d4883c00e17c0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857685773
+        }
+    ],
+    "wof:id":857685773,
+    "wof:lastmodified":1464220535,
+    "wof:name":"AG Chem Services",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chemical",
+        "agricultural",
+        "seed",
+        "fertilizer"
+    ]
+},
+  "bbox": [
+    -75.65865,
+    39.68859,
+    -75.65865,
+    39.68859
+],
+  "geometry": {"coordinates":[-75.65864999999999,39.68859],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 857725449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.747512,39.683483,-75.747512,39.683483",
+    "geom:latitude":39.683483,
+    "geom:longitude":-75.747512,
+    "iso:country":"US",
+    "sg:address":"160 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 8947",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "programming"
+    ],
+    "sg:website":"www.bcs-inc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2chLHZgkAE4qQpHOfQJwIq_39.683483_-75.747512@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221351,
+    "wof:geomhash":"3912fb2ee2cfb7a2acba98b4ab48da41",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":857725449
+        }
+    ],
+    "wof:id":857725449,
+    "wof:lastmodified":1464221351,
+    "wof:name":"Blair Computing Systems",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programming"
+    ]
+},
+  "bbox": [
+    -75.747512,
+    39.683483,
+    -75.747512,
+    39.683483
+],
+  "geometry": {"coordinates":[-75.747512,39.683483],"type":"Point"}
+}

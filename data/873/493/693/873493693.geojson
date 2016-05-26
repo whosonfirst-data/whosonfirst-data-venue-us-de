@@ -1,0 +1,87 @@
+{
+  "id": 873493693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.538485,39.702094,-75.538485,39.702094",
+    "geom:latitude":39.702094,
+    "geom:longitude":-75.538485,
+    "iso:country":"US",
+    "sg:address":"20 Davidson Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Metals",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Metals & Minerals",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 3326",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "steel",
+        "flat",
+        "sheet",
+        "rolled",
+        "tube",
+        "strip",
+        "coil"
+    ],
+    "sg:website":"www.primarysteel.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_24TM9C17FL3y3QiqLnzJAN_39.702094_-75.538485@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222637,
+    "wof:geomhash":"fd428a46dbc039213f16d69fb742d581",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873493693
+        }
+    ],
+    "wof:id":873493693,
+    "wof:lastmodified":1464222637,
+    "wof:name":"Primary Steel Inc",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "steel",
+        "flat",
+        "sheet",
+        "rolled",
+        "tube",
+        "strip",
+        "coil"
+    ]
+},
+  "bbox": [
+    -75.538485,
+    39.702094,
+    -75.538485,
+    39.702094
+],
+  "geometry": {"coordinates":[-75.53848499999999,39.702094],"type":"Point"}
+}

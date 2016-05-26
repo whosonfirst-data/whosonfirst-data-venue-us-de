@@ -1,0 +1,71 @@
+{
+  "id": 873468735,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.615395,39.737899,-75.615395,39.737899",
+    "geom:latitude":39.737899,
+    "geom:longitude":-75.615395,
+    "iso:country":"US",
+    "sg:address":"2701 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 636 4300",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2NY17b0soylTTJTj6bA5ug_39.737899_-75.615395@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221678,
+    "wof:geomhash":"19f21745157efab765442a95ad88410a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873468735
+        }
+    ],
+    "wof:id":873468735,
+    "wof:lastmodified":1464221678,
+    "wof:name":"Wachovia Bank National Assn",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.615395,
+    39.737899,
+    -75.615395,
+    39.737899
+],
+  "geometry": {"coordinates":[-75.61539500000001,39.737899],"type":"Point"}
+}

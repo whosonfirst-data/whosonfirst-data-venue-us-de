@@ -1,0 +1,84 @@
+{
+  "id": 873523767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.271745,38.562953,-75.271745,38.562953",
+    "geom:latitude":38.562953,
+    "geom:longitude":-75.271745,
+    "iso:country":"US",
+    "sg:address":"27519 Hodges Ln",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Electrical",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 1291",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "electric",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63UUJZMngrN7w1aRYOyG4T_38.562953_-75.271745@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224031,
+    "wof:geomhash":"85370a7a94b4773cb078937ca74498c3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873523767
+        }
+    ],
+    "wof:id":873523767,
+    "wof:lastmodified":1464224031,
+    "wof:name":"United Electric Supply",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "manufacturer",
+        "supplies-wholesale",
+        "electric",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.271745,
+    38.562953,
+    -75.271745,
+    38.562953
+],
+  "geometry": {"coordinates":[-75.271745,38.562953],"type":"Point"}
+}

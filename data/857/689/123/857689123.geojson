@@ -1,0 +1,69 @@
+{
+  "id": 857689123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.536178,39.713835,-75.536178,39.713835",
+    "geom:latitude":39.713835,
+    "geom:longitude":-75.536178,
+    "iso:country":"US",
+    "sg:address":"350 Pigeon Point Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 428 1297",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trailer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4RLy9W1wTBJ4sfyiccu4n1_39.713835_-75.536178@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220601,
+    "wof:geomhash":"1af45c30045bfbc6c4bf3cf8e1324b61",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857689123
+        }
+    ],
+    "wof:id":857689123,
+    "wof:lastmodified":1464220601,
+    "wof:name":"Thomas Giordano",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trailer"
+    ]
+},
+  "bbox": [
+    -75.536178,
+    39.713835,
+    -75.536178,
+    39.713835
+],
+  "geometry": {"coordinates":[-75.53617800000001,39.713835],"type":"Point"}
+}

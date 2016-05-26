@@ -1,0 +1,71 @@
+{
+  "id": 873468813,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.652277,39.69488,-75.652277,39.69488",
+    "geom:latitude":39.69488,
+    "geom:longitude":-75.652277,
+    "iso:country":"US",
+    "sg:address":"537 Stanton Christiana Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 683 9400",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1FCL1OoXCrUz4ze58VvqYG_39.694880_-75.652277@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221681,
+    "wof:geomhash":"2fda88328ee4e6ac7660b475cd4347f6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873468813
+        }
+    ],
+    "wof:id":873468813,
+    "wof:lastmodified":1464221681,
+    "wof:name":"Delaware Arthritis & Ostprss",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.652277,
+    39.69488,
+    -75.652277,
+    39.69488
+],
+  "geometry": {"coordinates":[-75.652277,39.69488],"type":"Point"}
+}

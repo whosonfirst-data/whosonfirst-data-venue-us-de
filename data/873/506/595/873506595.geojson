@@ -1,0 +1,76 @@
+{
+  "id": 873506595,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.670282,39.627893,-75.670282,39.627893",
+    "geom:latitude":39.627893,
+    "geom:longitude":-75.670282,
+    "iso:country":"US",
+    "sg:address":"1218 Pulaski Hwy",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Employment Agencies",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 838 7701",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "nurse",
+        "registry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5y5k4TJOSDJ4d7fMBx4BIN_39.627893_-75.670282@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223220,
+    "wof:geomhash":"f6d0761f84de882c3aa577b77b4983ee",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873506595
+        }
+    ],
+    "wof:id":873506595,
+    "wof:lastmodified":1464223220,
+    "wof:name":"Liberty Nurses",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "nurse",
+        "registry"
+    ]
+},
+  "bbox": [
+    -75.670282,
+    39.627893,
+    -75.670282,
+    39.627893
+],
+  "geometry": {"coordinates":[-75.670282,39.627893],"type":"Point"}
+}

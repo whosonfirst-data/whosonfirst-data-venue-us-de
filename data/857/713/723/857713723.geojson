@@ -1,0 +1,71 @@
+{
+  "id": 857713723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.604255,39.72721,-75.604255,39.72721",
+    "geom:latitude":39.72721,
+    "geom:longitude":-75.604255,
+    "iso:country":"US",
+    "sg:address":"108 E Keystone Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 8399",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pxiMaF57puhIC1lglegZX_39.727210_-75.604255@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221125,
+    "wof:geomhash":"8497d3db2255a702724c525f4149e649",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857713723
+        }
+    ],
+    "wof:id":857713723,
+    "wof:lastmodified":1464221125,
+    "wof:name":"K C Weaver and Sons",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.604255,
+    39.72721,
+    -75.604255,
+    39.72721
+],
+  "geometry": {"coordinates":[-75.60425499999999,39.72721],"type":"Point"}
+}

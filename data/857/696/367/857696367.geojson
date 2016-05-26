@@ -1,0 +1,73 @@
+{
+  "id": 857696367,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.742545,39.686985,-75.742545,39.686985",
+    "geom:latitude":39.686985,
+    "geom:longitude":-75.742545,
+    "iso:country":"US",
+    "sg:address":"229 E Cleveland Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 6399",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2H4rOKSQn4DTrU9LmCAxqE_39.686985_-75.742545@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220743,
+    "wof:geomhash":"f3278992f34003e3061e6ba78c665d7b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857696367
+        }
+    ],
+    "wof:id":857696367,
+    "wof:lastmodified":1464220743,
+    "wof:name":"Dirty Dog",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "grooming",
+        "washing"
+    ]
+},
+  "bbox": [
+    -75.742545,
+    39.686985,
+    -75.742545,
+    39.686985
+],
+  "geometry": {"coordinates":[-75.74254500000001,39.686985],"type":"Point"}
+}

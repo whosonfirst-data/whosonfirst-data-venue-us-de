@@ -1,0 +1,71 @@
+{
+  "id": 873503905,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.765743,39.600896,-75.765743,39.600896",
+    "geom:latitude":39.600896,
+    "geom:longitude":-75.765743,
+    "iso:country":"US",
+    "sg:address":"242 Jasmine Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 455 9000",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "datum",
+        "business"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6xaGQC0KviC00ci3wx9AOI_39.600896_-75.765743@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223096,
+    "wof:geomhash":"6fdbbc0d3b0525a9e364c29900aafd0f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873503905
+        }
+    ],
+    "wof:id":873503905,
+    "wof:lastmodified":1464223096,
+    "wof:name":"Amercian Document Management",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum",
+        "business"
+    ]
+},
+  "bbox": [
+    -75.765743,
+    39.600896,
+    -75.765743,
+    39.600896
+],
+  "geometry": {"coordinates":[-75.765743,39.600896],"type":"Point"}
+}

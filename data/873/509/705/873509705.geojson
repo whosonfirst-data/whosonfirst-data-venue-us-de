@@ -1,0 +1,71 @@
+{
+  "id": 873509705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.055858,38.51865,-75.055858,38.51865",
+    "geom:latitude":38.51865,
+    "geom:longitude":-75.055858,
+    "iso:country":"US",
+    "sg:address":"115 Petherton Dr",
+    "sg:city":"Bethany Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Veterinary Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 5516",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "sg:tags":[
+        "veterinarian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73zGmfd72hvycvX5Qbn91D_38.518650_-75.055858@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223366,
+    "wof:geomhash":"bb228cebbfd388cde0b9f6f5e7af8083",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873509705
+        }
+    ],
+    "wof:id":873509705,
+    "wof:lastmodified":1464223366,
+    "wof:name":"F M Garner DVM",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veterinarian"
+    ]
+},
+  "bbox": [
+    -75.055858,
+    38.51865,
+    -75.055858,
+    38.51865
+],
+  "geometry": {"coordinates":[-75.055858,38.51865],"type":"Point"}
+}

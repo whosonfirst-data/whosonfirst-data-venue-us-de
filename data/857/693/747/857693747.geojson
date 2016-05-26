@@ -1,0 +1,69 @@
+{
+  "id": 857693747,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556676,39.68782,-75.556676,39.68782",
+    "geom:latitude":39.68782,
+    "geom:longitude":-75.556676,
+    "iso:country":"US",
+    "sg:address":"1703 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 7147",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "grocer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5Gs8ZajY4dxUqJIOEqktaS_39.687820_-75.556676@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220695,
+    "wof:geomhash":"2faa76d91d1b459489f49ef304a2e6ff",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":857693747
+        }
+    ],
+    "wof:id":857693747,
+    "wof:lastmodified":1464220695,
+    "wof:name":"Cumberland Farms 9908",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "grocer"
+    ]
+},
+  "bbox": [
+    -75.556676,
+    39.68782,
+    -75.556676,
+    39.68782
+],
+  "geometry": {"coordinates":[-75.556676,39.68782],"type":"Point"}
+}

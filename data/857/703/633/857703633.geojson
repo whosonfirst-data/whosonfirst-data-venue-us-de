@@ -1,0 +1,71 @@
+{
+  "id": 857703633,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.591481,39.809562,-75.591481,39.809562",
+    "geom:latitude":39.809562,
+    "geom:longitude":-75.591481,
+    "iso:country":"US",
+    "sg:address":"601 Adams Dam Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 3336",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop",
+        "golf"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2PmkGcCbtNJO9usOeV8k4w_39.809562_-75.591481@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220888,
+    "wof:geomhash":"f9249ce2e6d77b051f323f9624837da5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857703633
+        }
+    ],
+    "wof:id":857703633,
+    "wof:lastmodified":1464220888,
+    "wof:name":"Vic Mead Hunt Club Golf Shop",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop",
+        "golf"
+    ]
+},
+  "bbox": [
+    -75.591481,
+    39.809562,
+    -75.591481,
+    39.809562
+],
+  "geometry": {"coordinates":[-75.591481,39.809562],"type":"Point"}
+}

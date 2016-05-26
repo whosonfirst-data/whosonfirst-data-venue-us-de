@@ -1,0 +1,87 @@
+{
+  "id": 857706661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.55544,39.056716,-75.55544,39.056716",
+    "geom:latitude":39.056716,
+    "geom:longitude":-75.55544,
+    "iso:country":"US",
+    "sg:address":"7873 S Dupont Hwy",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Tools & Machinery",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9700",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "control",
+        "electric",
+        "mfg",
+        "contractor",
+        "electrical",
+        "panel"
+    ],
+    "sg:website":"www.acsd.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6MJ4Ly3JpeQ0Ff8R8Q2o61_39.056716_-75.555440@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220944,
+    "wof:geomhash":"59a486514e30d51418b8057333d64104",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":857706661
+        }
+    ],
+    "wof:id":857706661,
+    "wof:lastmodified":1464220944,
+    "wof:name":"Atlantic Control Systems Inc",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "control",
+        "electric",
+        "mfg",
+        "contractor",
+        "electrical",
+        "panel"
+    ]
+},
+  "bbox": [
+    -75.55544,
+    39.056716,
+    -75.55544,
+    39.056716
+],
+  "geometry": {"coordinates":[-75.55544,39.056716],"type":"Point"}
+}

@@ -1,0 +1,85 @@
+{
+  "id": 873522425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532303,39.1651,-75.532303,39.1651",
+    "geom:latitude":39.1651,
+    "geom:longitude":-75.532303,
+    "iso:country":"US",
+    "sg:address":"308 N Queen St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        },
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 3040",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "elementary",
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85818659
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0toQCUiihWO2GNYZStqGHX_39.165100_-75.532303@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223981,
+    "wof:geomhash":"0ba59d4fe9c126dc3855a0a67e88ff09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85818659,
+            "region_id":85688611,
+            "venue_id":873522425
+        }
+    ],
+    "wof:id":873522425,
+    "wof:lastmodified":1464223981,
+    "wof:name":"The Little School Inc",
+    "wof:parent_id":85818659,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "elementary",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.532303,
+    39.1651,
+    -75.532303,
+    39.1651
+],
+  "geometry": {"coordinates":[-75.532303,39.1651],"type":"Point"}
+}

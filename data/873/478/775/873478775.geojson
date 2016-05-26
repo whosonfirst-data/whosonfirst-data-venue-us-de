@@ -1,0 +1,73 @@
+{
+  "id": 873478775,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.525178,39.146191,-75.525178,39.146191",
+    "geom:latitude":39.146191,
+    "geom:longitude":-75.525178,
+    "iso:country":"US",
+    "sg:address":"825 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 5920",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5PAh6mPSwnUv0XqotJfijd_39.146191_-75.525178@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222052,
+    "wof:geomhash":"0bcf3c0a643fbb0dae1acb9cbc2c4425",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873478775
+        }
+    ],
+    "wof:id":873478775,
+    "wof:lastmodified":1464222052,
+    "wof:name":"Joe's Garage Inc",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.525178,
+    39.146191,
+    -75.525178,
+    39.146191
+],
+  "geometry": {"coordinates":[-75.525178,39.146191],"type":"Point"}
+}

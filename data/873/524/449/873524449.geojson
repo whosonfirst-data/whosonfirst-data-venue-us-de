@@ -1,0 +1,78 @@
+{
+  "id": 873524449,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.448366,38.579508,-75.448366,38.579508",
+    "geom:latitude":38.579508,
+    "geom:longitude":-75.448366,
+    "iso:country":"US",
+    "sg:address":"16773 Shiloh Church Rd",
+    "sg:city":"Laurel",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Farming",
+            "subcategory":"Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 875 3204",
+    "sg:postcode":"19956",
+    "sg:province":"DE",
+    "sg:tags":[
+        "corn",
+        "product"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OTP7oNCoKr6HlkVcSzTKi_38.579508_-75.448366@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224059,
+    "wof:geomhash":"5140329d0a2a93d686c75e22a710a18a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873524449
+        }
+    ],
+    "wof:id":873524449,
+    "wof:lastmodified":1464224059,
+    "wof:name":"Gary Brittingham",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "corn",
+        "product"
+    ]
+},
+  "bbox": [
+    -75.448366,
+    38.579508,
+    -75.448366,
+    38.579508
+],
+  "geometry": {"coordinates":[-75.44836599999999,38.579508],"type":"Point"}
+}

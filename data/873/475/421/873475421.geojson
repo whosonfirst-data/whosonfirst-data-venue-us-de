@@ -1,0 +1,79 @@
+{
+  "id": 873475421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.732995,39.683896,-75.732995,39.683896",
+    "geom:latitude":39.683896,
+    "geom:longitude":-75.732995,
+    "iso:country":"US",
+    "sg:address":"390 College Sq",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Tobacco Products",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Tobacco",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 8203",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ],
+    "sg:website":"www.cigar-ettecity.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6veyldYIj4peKfCSZMsYBv_39.683896_-75.732995@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221929,
+    "wof:geomhash":"8c10f31614f93f0a3f27cbd7afc4de83",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873475421
+        }
+    ],
+    "wof:id":873475421,
+    "wof:lastmodified":1464221929,
+    "wof:name":"Cigar-Ette City Inc",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cigarette",
+        "cigar",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.732995,
+    39.683896,
+    -75.732995,
+    39.683896
+],
+  "geometry": {"coordinates":[-75.732995,39.683896],"type":"Point"}
+}

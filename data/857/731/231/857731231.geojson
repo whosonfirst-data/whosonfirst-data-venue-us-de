@@ -1,0 +1,71 @@
+{
+  "id": 857731231,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.685572,39.706425,-75.685572,39.706425",
+    "geom:latitude":39.706425,
+    "geom:longitude":-75.685572,
+    "iso:country":"US",
+    "sg:address":"136 Astro Shopping Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Photofinishing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 435 1010",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "photo",
+        "finishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_29BKe7uXnfp1HfHf8qxwwW_39.706425_-75.685572@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221461,
+    "wof:geomhash":"5c0b8e5e304f8e6ca680748e77b8e024",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857731231
+        }
+    ],
+    "wof:id":857731231,
+    "wof:lastmodified":1464221461,
+    "wof:name":"Happy Harry's",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "photo",
+        "finishing"
+    ]
+},
+  "bbox": [
+    -75.685572,
+    39.706425,
+    -75.685572,
+    39.706425
+],
+  "geometry": {"coordinates":[-75.68557199999999,39.706425],"type":"Point"}
+}

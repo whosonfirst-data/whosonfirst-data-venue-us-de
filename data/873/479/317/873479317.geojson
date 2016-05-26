@@ -1,0 +1,73 @@
+{
+  "id": 873479317,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.576167,39.010433,-75.576167,39.010433",
+    "geom:latitude":39.010433,
+    "geom:longitude":-75.576167,
+    "iso:country":"US",
+    "sg:address":"25 W High St",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4667",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "retirement",
+        "community"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6dNqXUJ7Wk0Q7vZFqzjTMd_39.010433_-75.576167@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222077,
+    "wof:geomhash":"084303254fa8dcfa9578c4f2ec318c4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873479317
+        }
+    ],
+    "wof:id":873479317,
+    "wof:lastmodified":1464222077,
+    "wof:name":"Felton Convalescent Home",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "retirement",
+        "community"
+    ]
+},
+  "bbox": [
+    -75.576167,
+    39.010433,
+    -75.576167,
+    39.010433
+],
+  "geometry": {"coordinates":[-75.576167,39.010433],"type":"Point"}
+}

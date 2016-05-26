@@ -1,0 +1,89 @@
+{
+  "id": 873525039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.580144,38.628492,-75.580144,38.628492",
+    "geom:latitude":38.628492,
+    "geom:longitude":-75.580144,
+    "iso:country":"US",
+    "sg:address":"9654 Brickyard Rd Unit 2",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 4244",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "warehouses-merchandise",
+        "warehouses-public-commercial",
+        "builder",
+        "contractor",
+        "home",
+        "estimate"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_73wiIu9aGTJv6q0WN49W19_38.628492_-75.580144@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224080,
+    "wof:geomhash":"486bd2fadd9469a4d035d91e207f1b3e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873525039
+        }
+    ],
+    "wof:id":873525039,
+    "wof:lastmodified":1464224080,
+    "wof:name":"Onsite Construction, Inc.",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "warehouses-merchandise",
+        "warehouses-public-commercial",
+        "builder",
+        "contractor",
+        "home",
+        "estimate"
+    ]
+},
+  "bbox": [
+    -75.580144,
+    38.628492,
+    -75.580144,
+    38.628492
+],
+  "geometry": {"coordinates":[-75.580144,38.628492],"type":"Point"}
+}

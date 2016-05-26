@@ -1,0 +1,68 @@
+{
+  "id": 873492733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.531926,39.756147,-75.531926,39.756147",
+    "geom:latitude":39.756147,
+    "geom:longitude":-75.531926,
+    "iso:country":"US",
+    "sg:address":"2906 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 5550",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3p1lX42qL9R7TBHw796OTo_39.756147_-75.531926@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222591,
+    "wof:geomhash":"e5ebd0fa37dc82061d92bcfe2cd1acb4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873492733
+        }
+    ],
+    "wof:id":873492733,
+    "wof:lastmodified":1464222591,
+    "wof:name":"Hahn's Liquors",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.531926,
+    39.756147,
+    -75.531926,
+    39.756147
+],
+  "geometry": {"coordinates":[-75.531926,39.756147],"type":"Point"}
+}

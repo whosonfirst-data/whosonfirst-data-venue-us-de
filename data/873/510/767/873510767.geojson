@@ -1,0 +1,74 @@
+{
+  "id": 873510767,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.566041,39.764829,-75.566041,39.764829",
+    "geom:latitude":39.764829,
+    "geom:longitude":-75.566041,
+    "iso:country":"US",
+    "sg:address":"2301 Kentmere Pkwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 9590",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "school",
+        "art"
+    ],
+    "sg:website":"www.delart.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0gjQ5ez10eNlGE6LyQlL1k_39.764829_-75.566041@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223410,
+    "wof:geomhash":"2ca857aa6f1ff997ac30d29c08e019a9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873510767
+        }
+    ],
+    "wof:id":873510767,
+    "wof:lastmodified":1464223410,
+    "wof:name":"Delaware Art Museum Inc",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "art"
+    ]
+},
+  "bbox": [
+    -75.566041,
+    39.764829,
+    -75.566041,
+    39.764829
+],
+  "geometry": {"coordinates":[-75.566041,39.764829],"type":"Point"}
+}

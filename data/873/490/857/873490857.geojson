@@ -1,0 +1,74 @@
+{
+  "id": 873490857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.159083,38.755775,-75.159083,38.755775",
+    "geom:latitude":38.755775,
+    "geom:longitude":-75.159083,
+    "iso:country":"US",
+    "sg:address":"1540 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Optometrist",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2020",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "osteopathic"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1eVushckFZ6z689mW5oMmh_38.755775_-75.159083@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222526,
+    "wof:geomhash":"e401b04cdb71af74d8ed5b977b2fee75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873490857
+        }
+    ],
+    "wof:id":873490857,
+    "wof:lastmodified":1464222526,
+    "wof:name":"Thomas G Bastholm Od",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "osteopathic"
+    ]
+},
+  "bbox": [
+    -75.159083,
+    38.755775,
+    -75.159083,
+    38.755775
+],
+  "geometry": {"coordinates":[-75.159083,38.755775],"type":"Point"}
+}

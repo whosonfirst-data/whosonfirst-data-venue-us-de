@@ -1,0 +1,72 @@
+{
+  "id": 873513493,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.600352,39.781728,-75.600352,39.781728",
+    "geom:latitude":39.781728,
+    "geom:longitude":-75.600352,
+    "iso:country":"US",
+    "sg:address":"4019 Kennett Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/piedmont/241753-pizza-by--elizabeths/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 4478",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6kSqwGQOn7o7vsRJGC7Dwz_39.781728_-75.600352@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223532,
+    "wof:geomhash":"a9af9b47232046bf6b7d1315c2d2e373",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":873513493
+        }
+    ],
+    "wof:id":873513493,
+    "wof:lastmodified":1464223532,
+    "wof:name":"Pizza By  Elizabeths",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.600352,
+    39.781728,
+    -75.600352,
+    39.781728
+],
+  "geometry": {"coordinates":[-75.600352,39.781728],"type":"Point"}
+}

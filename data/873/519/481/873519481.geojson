@@ -1,0 +1,76 @@
+{
+  "id": 873519481,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.498007,39.812152,-75.498007,39.812152",
+    "geom:latitude":39.812152,
+    "geom:longitude":-75.498007,
+    "iso:country":"US",
+    "sg:address":"2206 Arosa Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 610 888 1243",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ],
+    "sg:website":"www.glenlimainc.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_71MpWWMgEJejyaL5iAAHhl_39.812152_-75.498007@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223858,
+    "wof:geomhash":"4e56538f9a90118b8495135bd428a68c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519481
+        }
+    ],
+    "wof:id":873519481,
+    "wof:lastmodified":1464223858,
+    "wof:name":"Glenn Lima",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "conditioning/hvac"
+    ]
+},
+  "bbox": [
+    -75.498007,
+    39.812152,
+    -75.498007,
+    39.812152
+],
+  "geometry": {"coordinates":[-75.498007,39.812152],"type":"Point"}
+}

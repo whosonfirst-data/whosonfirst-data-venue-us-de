@@ -1,0 +1,87 @@
+{
+  "id": 873514549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675621,39.667713,-75.675621,39.667713",
+    "geom:latitude":39.667713,
+    "geom:longitude":-75.675621,
+    "iso:country":"US",
+    "sg:address":"260 Chapman Rd Ste 206",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Research",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Lawyer & Legal Services",
+            "type":"Services"
+        },
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 3878",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "abstracter",
+        "plan"
+    ],
+    "sg:website":"http://www.cornerstonetitleco.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1BpsMrJhHa4FzV3Vx4Bl0G_39.667713_-75.675621@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223597,
+    "wof:geomhash":"225e2e4531967059981f3d766a4c84f2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514549
+        }
+    ],
+    "wof:id":873514549,
+    "wof:lastmodified":1464223597,
+    "wof:name":"Cornerstone Title Company Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "abstracter",
+        "plan"
+    ]
+},
+  "bbox": [
+    -75.675621,
+    39.667713,
+    -75.675621,
+    39.667713
+],
+  "geometry": {"coordinates":[-75.67562100000001,39.667713],"type":"Point"}
+}

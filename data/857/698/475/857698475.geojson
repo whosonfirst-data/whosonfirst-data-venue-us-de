@@ -1,0 +1,71 @@
+{
+  "id": 857698475,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.597431,38.751698,-75.597431,38.751698",
+    "geom:latitude":38.751698,
+    "geom:longitude":-75.597431,
+    "iso:country":"US",
+    "sg:address":"17032 N Main St",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 9130",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Hlcij12C1ca7Z7Bng3bdm_38.751698_-75.597431@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220782,
+    "wof:geomhash":"347ec7da8e35db5e80add99113ca2a39",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":857698475
+        }
+    ],
+    "wof:id":857698475,
+    "wof:lastmodified":1464220782,
+    "wof:name":"Dynamic Ceramic",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.597431,
+    38.751698,
+    -75.597431,
+    38.751698
+],
+  "geometry": {"coordinates":[-75.597431,38.751698],"type":"Point"}
+}

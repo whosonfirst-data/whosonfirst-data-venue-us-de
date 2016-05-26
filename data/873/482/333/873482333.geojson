@@ -1,0 +1,73 @@
+{
+  "id": 873482333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.125902,38.725748,-75.125902,38.725748",
+    "geom:latitude":38.725748,
+    "geom:longitude":-75.125902,
+    "iso:country":"US",
+    "sg:address":"1707 Hwy One",
+    "sg:city":"Dewey Beach",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 226 2735",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85856217,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_75CnLx39RbX308LJJKp6gX_38.725748_-75.125902@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222205,
+    "wof:geomhash":"896be0978d214fb07157165e26e14493",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85856217,
+            "region_id":85688611,
+            "venue_id":873482333
+        }
+    ],
+    "wof:id":873482333,
+    "wof:lastmodified":1464222205,
+    "wof:name":"TPMC Pet Svc",
+    "wof:parent_id":85856217,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -75.125902,
+    38.725748,
+    -75.125902,
+    38.725748
+],
+  "geometry": {"coordinates":[-75.125902,38.725748],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873525111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.234401,38.470422,-75.234401,38.470422",
+    "geom:latitude":38.470422,
+    "geom:longitude":-75.234401,
+    "iso:country":"US",
+    "sg:address":"37001 Dupont Blvd",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 5766",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lawn",
+        "maintenance"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_663pHgc0AC9FXEuz4qH0v0_38.470422_-75.234401@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224084,
+    "wof:geomhash":"8c341135c1dfe260b6fecd946929ff32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873525111
+        }
+    ],
+    "wof:id":873525111,
+    "wof:lastmodified":1464224084,
+    "wof:name":"Campbells Lawn Service",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn",
+        "maintenance"
+    ]
+},
+  "bbox": [
+    -75.234401,
+    38.470422,
+    -75.234401,
+    38.470422
+],
+  "geometry": {"coordinates":[-75.23440100000001,38.470422],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857732033,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.073888,38.698155,-75.073888,38.698155",
+    "geom:latitude":38.698155,
+    "geom:longitude":-75.073888,
+    "iso:country":"US",
+    "sg:address":"15 Houston St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 8014",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85803179,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0q3j0VsVu6N58NGlZvpnXZ_38.698155_-75.073888@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221483,
+    "wof:geomhash":"a49fc2231426ef68e250b1489d648a78",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85803179,
+            "region_id":85688611,
+            "venue_id":857732033
+        }
+    ],
+    "wof:id":857732033,
+    "wof:lastmodified":1464221483,
+    "wof:name":"Ryan Homes",
+    "wof:parent_id":85803179,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder"
+    ]
+},
+  "bbox": [
+    -75.073888,
+    38.698155,
+    -75.073888,
+    38.698155
+],
+  "geometry": {"coordinates":[-75.073888,38.698155],"type":"Point"}
+}

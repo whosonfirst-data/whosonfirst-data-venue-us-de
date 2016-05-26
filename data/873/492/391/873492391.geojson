@@ -1,0 +1,73 @@
+{
+  "id": 873492391,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.393665,38.697026,-75.393665,38.697026",
+    "geom:latitude":38.697026,
+    "geom:longitude":-75.393665,
+    "iso:country":"US",
+    "sg:address":"508 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 2076",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "club",
+        "membership"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5qtfx4z2My21iTHpazRyJm_38.697026_-75.393665@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222579,
+    "wof:geomhash":"ebf7645b80ae27857705ec53470b52bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873492391
+        }
+    ],
+    "wof:id":873492391,
+    "wof:lastmodified":1464222579,
+    "wof:name":"Delaware Trapshooting Assn",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "club",
+        "membership"
+    ]
+},
+  "bbox": [
+    -75.393665,
+    38.697026,
+    -75.393665,
+    38.697026
+],
+  "geometry": {"coordinates":[-75.393665,38.697026],"type":"Point"}
+}

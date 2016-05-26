@@ -1,0 +1,71 @@
+{
+  "id": 873486847,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.637006,39.73028,-75.637006,39.73028",
+    "geom:latitude":39.73028,
+    "geom:longitude":-75.637006,
+    "iso:country":"US",
+    "sg:address":"2020 Duncan Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Detective & Security Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 3011",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "guard",
+        "patrol"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5XxFoTzVI60cZFhEFG0cZE_39.730280_-75.637006@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222372,
+    "wof:geomhash":"ce80db449318d6fd99c7b7f058b1725d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873486847
+        }
+    ],
+    "wof:id":873486847,
+    "wof:lastmodified":1464222372,
+    "wof:name":"Colonial Security Svc",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "guard",
+        "patrol"
+    ]
+},
+  "bbox": [
+    -75.637006,
+    39.73028,
+    -75.637006,
+    39.73028
+],
+  "geometry": {"coordinates":[-75.637006,39.73028],"type":"Point"}
+}

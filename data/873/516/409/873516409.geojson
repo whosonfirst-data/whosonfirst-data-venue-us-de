@@ -1,0 +1,78 @@
+{
+  "id": 873516409,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.66172,39.693291,-75.66172,39.693291",
+    "geom:latitude":39.693291,
+    "geom:longitude":-75.66172,
+    "iso:country":"US",
+    "sg:address":"1082 Old Churchmans Rd # 101",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 4909",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5OPGXdbZVz4iWfUZjS68vM_39.693291_-75.661720@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223684,
+    "wof:geomhash":"9b6f8d60c45236f347679e3a9a5ab1d1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873516409
+        }
+    ],
+    "wof:id":873516409,
+    "wof:lastmodified":1464223684,
+    "wof:name":"Woodlyn Physical Therapy Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.66172,
+    39.693291,
+    -75.66172,
+    39.693291
+],
+  "geometry": {"coordinates":[-75.66172,39.693291],"type":"Point"}
+}

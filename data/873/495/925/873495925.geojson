@@ -1,0 +1,76 @@
+{
+  "id": 873495925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.53196,39.182984,-75.53196,39.182984",
+    "geom:latitude":39.182984,
+    "geom:longitude":-75.53196,
+    "iso:country":"US",
+    "sg:address":"1051 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 2055",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ],
+    "sg:website":"www.coldstonecreamery.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2MisFpE43yy0mpmdnyAvQJ_39.182984_-75.531960@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222775,
+    "wof:geomhash":"ec57ef141f14c9160358237075936617",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873495925
+        }
+    ],
+    "wof:id":873495925,
+    "wof:lastmodified":1464222775,
+    "wof:name":"Cold Stone Creamery",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parlor",
+        "ice",
+        "cream"
+    ]
+},
+  "bbox": [
+    -75.53196,
+    39.182984,
+    -75.53196,
+    39.182984
+],
+  "geometry": {"coordinates":[-75.53196,39.182984],"type":"Point"}
+}

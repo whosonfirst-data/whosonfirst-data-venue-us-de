@@ -1,0 +1,76 @@
+{
+  "id": 873513283,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.750417,39.653009,-75.750417,39.653009",
+    "geom:latitude":39.653009,
+    "geom:longitude":-75.750417,
+    "iso:country":"US",
+    "sg:address":"960 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/246414-marios-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 3344",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4dj7RDeeKDm7OnYXT4VxRz_39.653009_-75.750417@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223523,
+    "wof:geomhash":"66a61418642af9ddadd87c96abd254ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873513283
+        }
+    ],
+    "wof:id":873513283,
+    "wof:lastmodified":1464223523,
+    "wof:name":"Mario's Pizza",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.750417,
+    39.653009,
+    -75.750417,
+    39.653009
+],
+  "geometry": {"coordinates":[-75.750417,39.653009],"type":"Point"}
+}

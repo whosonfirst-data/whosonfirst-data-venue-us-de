@@ -1,0 +1,73 @@
+{
+  "id": 873481949,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.591315,39.722659,-75.591315,39.722659",
+    "geom:latitude":39.722659,
+    "geom:longitude":-75.591315,
+    "iso:country":"US",
+    "sg:address":"99 Middleboro Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 992 5574",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "child",
+        "day",
+        "care"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jeoUDYuLBme8e0Hq0xvgz_39.722659_-75.591315@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222192,
+    "wof:geomhash":"a2180efb639e4ea10215a52355b01927",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873481949
+        }
+    ],
+    "wof:id":873481949,
+    "wof:lastmodified":1464222192,
+    "wof:name":"Richardson Park Learning Ctr",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "child",
+        "day",
+        "care"
+    ]
+},
+  "bbox": [
+    -75.591315,
+    39.722659,
+    -75.591315,
+    39.722659
+],
+  "geometry": {"coordinates":[-75.59131499999999,39.722659],"type":"Point"}
+}

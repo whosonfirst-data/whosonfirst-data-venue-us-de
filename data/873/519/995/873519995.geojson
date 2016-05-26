@@ -1,0 +1,71 @@
+{
+  "id": 873519995,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.490303,39.804798,-75.490303,39.804798",
+    "geom:latitude":39.804798,
+    "geom:longitude":-75.490303,
+    "iso:country":"US",
+    "sg:address":"2121 Veale Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Fruits & Vegetables",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 5754",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "veggie"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5CaNVhOpyCxj2ecPV0OmdB_39.804798_-75.490303@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223879,
+    "wof:geomhash":"b9d1f303a4957314a05013df6115046b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873519995
+        }
+    ],
+    "wof:id":873519995,
+    "wof:lastmodified":1464223879,
+    "wof:name":"Marini Produce & Christmas Trees",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "veggie"
+    ]
+},
+  "bbox": [
+    -75.490303,
+    39.804798,
+    -75.490303,
+    39.804798
+],
+  "geometry": {"coordinates":[-75.490303,39.804798],"type":"Point"}
+}

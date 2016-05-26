@@ -1,0 +1,74 @@
+{
+  "id": 873513275,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.66662,39.691536,-75.66662,39.691536",
+    "geom:latitude":39.691536,
+    "geom:longitude":-75.66662,
+    "iso:country":"US",
+    "sg:address":"1253 Churchmans Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/upper-christiana/124085-quiznos-sub/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 8323",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1YFwDOZjJ0ZaTkIPetzdBs_39.691536_-75.666620@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223523,
+    "wof:geomhash":"002b927bf0232a991903d31ccb19eca0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873513275
+        }
+    ],
+    "wof:id":873513275,
+    "wof:lastmodified":1464223523,
+    "wof:name":"Quiznos Sub",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.66662,
+    39.691536,
+    -75.66662,
+    39.691536
+],
+  "geometry": {"coordinates":[-75.66661999999999,39.691536],"type":"Point"}
+}

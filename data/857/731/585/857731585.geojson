@@ -1,0 +1,71 @@
+{
+  "id": 857731585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.610253,39.738091,-75.610253,39.738091",
+    "geom:latitude":39.738091,
+    "geom:longitude":-75.610253,
+    "iso:country":"US",
+    "sg:address":"2103 Kirkwood Hwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 3770",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drug",
+        "store"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0COUBwe7xT0jHUGsGGfAKE_39.738091_-75.610253@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221469,
+    "wof:geomhash":"2bb54faf5c75d3c7e7c67e88ac317c0d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857731585
+        }
+    ],
+    "wof:id":857731585,
+    "wof:lastmodified":1464221469,
+    "wof:name":"Happy Harry's Discount Drugs",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drug",
+        "store"
+    ]
+},
+  "bbox": [
+    -75.610253,
+    39.738091,
+    -75.610253,
+    39.738091
+],
+  "geometry": {"coordinates":[-75.610253,39.738091],"type":"Point"}
+}

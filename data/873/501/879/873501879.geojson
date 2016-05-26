@@ -1,0 +1,73 @@
+{
+  "id": 873501879,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.563698,38.424455,-75.563698,38.424455",
+    "geom:latitude":38.424455,
+    "geom:longitude":-75.563698,
+    "iso:country":"US",
+    "sg:address":"30275 Mallard Dr",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 742 5782",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential",
+        "transportation"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2mygUHlniaLgxy3IBBIgzU_38.424455_-75.563698@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223024,
+    "wof:geomhash":"fa9878e8c41e603484491b10c54d0b5b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873501879
+        }
+    ],
+    "wof:id":873501879,
+    "wof:lastmodified":1464223024,
+    "wof:name":"Childrens Aid Fund Inc",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "transportation"
+    ]
+},
+  "bbox": [
+    -75.563698,
+    38.424455,
+    -75.563698,
+    38.424455
+],
+  "geometry": {"coordinates":[-75.563698,38.424455],"type":"Point"}
+}

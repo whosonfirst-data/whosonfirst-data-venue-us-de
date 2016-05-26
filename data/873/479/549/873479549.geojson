@@ -1,0 +1,71 @@
+{
+  "id": 873479549,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526063,39.139004,-75.526063,39.139004",
+    "geom:latitude":39.139004,
+    "geom:longitude":-75.526063,
+    "iso:country":"US",
+    "sg:address":"1111 S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1390",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0Soxv03aTabxPYaaYInrZu_39.139004_-75.526063@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222088,
+    "wof:geomhash":"9cec374be5077295700a268166b34b14",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873479549
+        }
+    ],
+    "wof:id":873479549,
+    "wof:lastmodified":1464222088,
+    "wof:name":"Reproductive Assoc-Delaware",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.526063,
+    39.139004,
+    -75.526063,
+    39.139004
+],
+  "geometry": {"coordinates":[-75.52606299999999,39.139004],"type":"Point"}
+}

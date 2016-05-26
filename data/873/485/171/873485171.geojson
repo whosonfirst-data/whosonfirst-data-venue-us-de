@@ -1,0 +1,75 @@
+{
+  "id": 873485171,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555568,39.761376,-75.555568,39.761376",
+    "geom:latitude":39.761376,
+    "geom:longitude":-75.555568,
+    "iso:country":"US",
+    "sg:address":"1703 Augustine Cutoff",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 3442",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85803955
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5SrHxGBxarbU8jYgCIsC72_39.761376_-75.555568@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222313,
+    "wof:geomhash":"2ff8fa8cf7e64b9c80930e48a4029b4f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85803955,
+            "region_id":85688611,
+            "venue_id":873485171
+        }
+    ],
+    "wof:id":873485171,
+    "wof:lastmodified":1464222313,
+    "wof:name":"Paul Campanella Auto Svc",
+    "wof:parent_id":85803955,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.555568,
+    39.761376,
+    -75.555568,
+    39.761376
+],
+  "geometry": {"coordinates":[-75.55556799999999,39.761376],"type":"Point"}
+}

@@ -1,0 +1,84 @@
+{
+  "id": 873514623,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.676758,39.667511,-75.676758,39.667511",
+    "geom:latitude":39.667511,
+    "geom:longitude":-75.676758,
+    "iso:country":"US",
+    "sg:address":"254 Chapman Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Social Services",
+            "subcategory":"Adult Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 1050",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "nurse",
+        "nurses-home"
+    ],
+    "sg:website":"http://www.absolutehomehealth.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7cs8Y5IMUlwKmGUV3aDfqJ_39.667511_-75.676758@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223600,
+    "wof:geomhash":"49bf5721c7658520c9256a6d18d7d62a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514623
+        }
+    ],
+    "wof:id":873514623,
+    "wof:lastmodified":1464223600,
+    "wof:name":"Absolute Home Health Inc.",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "nurse",
+        "nurses-home"
+    ]
+},
+  "bbox": [
+    -75.676758,
+    39.667511,
+    -75.676758,
+    39.667511
+],
+  "geometry": {"coordinates":[-75.67675800000001,39.667511],"type":"Point"}
+}

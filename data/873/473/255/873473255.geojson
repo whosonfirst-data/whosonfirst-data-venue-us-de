@@ -1,0 +1,73 @@
+{
+  "id": 873473255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.475411,39.801753,-75.475411,39.801753",
+    "geom:latitude":39.801753,
+    "geom:longitude":-75.475411,
+    "iso:country":"US",
+    "sg:address":"25 Benning Rd",
+    "sg:city":"Claymont",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 792 0707",
+    "sg:postcode":"19703",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4pDQ7KR7wHYfibJuSXIEyQ_39.801753_-75.475411@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221855,
+    "wof:geomhash":"712e8d61666a900d055ac5caee5b37d5",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":873473255
+        }
+    ],
+    "wof:id":873473255,
+    "wof:lastmodified":1464221855,
+    "wof:name":"William F Mc Hugh Elec Contr",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.475411,
+    39.801753,
+    -75.475411,
+    39.801753
+],
+  "geometry": {"coordinates":[-75.47541099999999,39.801753],"type":"Point"}
+}

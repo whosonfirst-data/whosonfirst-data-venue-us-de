@@ -1,0 +1,75 @@
+{
+  "id": 873503653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.552913,39.734214,-75.552913,39.734214",
+    "geom:latitude":39.734214,
+    "geom:longitude":-75.552913,
+    "iso:country":"US",
+    "sg:address":"112 A St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 0810",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "industrial",
+        "rent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bSlmcPTFFPKMTDVAnm13r_39.734214_-75.552913@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223087,
+    "wof:geomhash":"58a5604fbf06620b3e20c1bf8606e34a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873503653
+        }
+    ],
+    "wof:id":873503653,
+    "wof:lastmodified":1464223087,
+    "wof:name":"Sundog Construction Services",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "industrial",
+        "rent"
+    ]
+},
+  "bbox": [
+    -75.552913,
+    39.734214,
+    -75.552913,
+    39.734214
+],
+  "geometry": {"coordinates":[-75.552913,39.734214],"type":"Point"}
+}

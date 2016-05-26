@@ -1,0 +1,70 @@
+{
+  "id": 857728451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.774151,39.579036,-75.774151,39.579036",
+    "geom:latitude":39.579036,
+    "geom:longitude":-75.774151,
+    "iso:country":"US",
+    "sg:address":"34 Lyric Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 3344",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "sg:website":"www.alpha-engineering.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nQKn3fWUgw9mxA7dCeHQN_39.579036_-75.774151@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221405,
+    "wof:geomhash":"4cd4a4e25a4fdb4b815c7a255475012f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":857728451
+        }
+    ],
+    "wof:id":857728451,
+    "wof:lastmodified":1464221405,
+    "wof:name":"Alpha Engineering Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.774151,
+    39.579036,
+    -75.774151,
+    39.579036
+],
+  "geometry": {"coordinates":[-75.774151,39.579036],"type":"Point"}
+}

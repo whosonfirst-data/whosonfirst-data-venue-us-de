@@ -1,0 +1,71 @@
+{
+  "id": 873490417,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.057202,38.54919,-75.057202,38.54919",
+    "geom:latitude":38.54919,
+    "geom:longitude":-75.057202,
+    "iso:country":"US",
+    "sg:address":"4 Evans Rd",
+    "sg:city":"Bethany Beach",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 539 9021",
+    "sg:postcode":"19930",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zQkylBeR6el2WS33DqdBc_38.549190_-75.057202@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222511,
+    "wof:geomhash":"924a157f5a50fdabb4cf3b14f8ba3496",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873490417
+        }
+    ],
+    "wof:id":873490417,
+    "wof:lastmodified":1464222511,
+    "wof:name":"Richard L Perry Dr",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.057202,
+    38.54919,
+    -75.057202,
+    38.54919
+],
+  "geometry": {"coordinates":[-75.057202,38.54919],"type":"Point"}
+}

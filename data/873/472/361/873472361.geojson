@@ -1,0 +1,71 @@
+{
+  "id": 873472361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542475,39.794763,-75.542475,39.794763",
+    "geom:latitude":39.794763,
+    "geom:longitude":-75.542475,
+    "iso:country":"US",
+    "sg:address":"106 Alders Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 275 3681",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85818487,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5sZc8UDiuym8uHumAftfBT_39.794763_-75.542475@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221818,
+    "wof:geomhash":"a7ba986a7fe857d7e7ae0d3ff8f8c2eb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85818487,
+            "region_id":85688611,
+            "venue_id":873472361
+        }
+    ],
+    "wof:id":873472361,
+    "wof:lastmodified":1464221818,
+    "wof:name":"Doctor Bob",
+    "wof:parent_id":85818487,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -75.542475,
+    39.794763,
+    -75.542475,
+    39.794763
+],
+  "geometry": {"coordinates":[-75.542475,39.794763],"type":"Point"}
+}

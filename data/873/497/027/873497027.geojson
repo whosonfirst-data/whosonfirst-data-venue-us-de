@@ -1,0 +1,73 @@
+{
+  "id": 873497027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.382771,38.692408,-75.382771,38.692408",
+    "geom:latitude":38.692408,
+    "geom:longitude":-75.382771,
+    "iso:country":"US",
+    "sg:address":"317 E Market St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 0357",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "builder",
+        "operative"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65LQJKpOPGjLz5dY4SZUL6_38.692408_-75.382771@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222824,
+    "wof:geomhash":"4770b645579afbc128221cdd44d0d0ab",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873497027
+        }
+    ],
+    "wof:id":873497027,
+    "wof:lastmodified":1464222824,
+    "wof:name":"B K Builders",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "builder",
+        "operative"
+    ]
+},
+  "bbox": [
+    -75.382771,
+    38.692408,
+    -75.382771,
+    38.692408
+],
+  "geometry": {"coordinates":[-75.38277100000001,38.692408],"type":"Point"}
+}

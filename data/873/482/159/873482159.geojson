@@ -1,0 +1,88 @@
+{
+  "id": 873482159,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.724852,39.655549,-75.724852,39.655549",
+    "geom:latitude":39.655549,
+    "geom:longitude":-75.724852,
+    "iso:country":"US",
+    "sg:address":"2 Garfield Way",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 0933",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heating",
+        "system",
+        "air",
+        "warm",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QEBpYXKXRvvQwLkIP5swn_39.655549_-75.724852@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222200,
+    "wof:geomhash":"aa80e6379f720f153ee6788fb72f4436",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873482159
+        }
+    ],
+    "wof:id":873482159,
+    "wof:lastmodified":1464222200,
+    "wof:name":"Berry Refrigeration Co Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "system",
+        "air",
+        "warm",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.724852,
+    39.655549,
+    -75.724852,
+    39.655549
+],
+  "geometry": {"coordinates":[-75.724852,39.655549],"type":"Point"}
+}

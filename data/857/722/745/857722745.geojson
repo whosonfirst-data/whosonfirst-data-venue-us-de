@@ -1,0 +1,73 @@
+{
+  "id": 857722745,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.423478,38.87094,-75.423478,38.87094",
+    "geom:latitude":38.87094,
+    "geom:longitude":-75.423478,
+    "iso:country":"US",
+    "sg:address":"18404 Johnson Rd",
+    "sg:city":"Lincoln",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 3732",
+    "sg:postcode":"19960",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1khfduKPimgIxVfWcWbZ0k_38.870940_-75.423478@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221302,
+    "wof:geomhash":"b442a6a9224455050ab78cf1b2700f25",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":857722745
+        }
+    ],
+    "wof:id":857722745,
+    "wof:lastmodified":1464221302,
+    "wof:name":"Richard Y Johnson & Son Inc",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.423478,
+    38.87094,
+    -75.423478,
+    38.87094
+],
+  "geometry": {"coordinates":[-75.423478,38.87094],"type":"Point"}
+}

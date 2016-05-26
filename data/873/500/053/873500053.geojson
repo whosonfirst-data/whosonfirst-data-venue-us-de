@@ -1,0 +1,71 @@
+{
+  "id": 873500053,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.573101,39.659269,-75.573101,39.659269",
+    "geom:latitude":39.659269,
+    "geom:longitude":-75.573101,
+    "iso:country":"US",
+    "sg:address":"300 W 7th St",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Accounting & Tax Preparation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 328 4148",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "return",
+        "filing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3d2X9zLw2XC1uOFqgzM0Ar_39.659269_-75.573101@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222940,
+    "wof:geomhash":"9281baeb669373f5560093274fc4455b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873500053
+        }
+    ],
+    "wof:id":873500053,
+    "wof:lastmodified":1464222940,
+    "wof:name":"DBC Tax Svc",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "return",
+        "filing"
+    ]
+},
+  "bbox": [
+    -75.573101,
+    39.659269,
+    -75.573101,
+    39.659269
+],
+  "geometry": {"coordinates":[-75.57310099999999,39.659269],"type":"Point"}
+}

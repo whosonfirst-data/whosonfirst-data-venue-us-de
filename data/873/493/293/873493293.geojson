@@ -1,0 +1,71 @@
+{
+  "id": 873493293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.140884,38.772579,-75.140884,38.772579",
+    "geom:latitude":38.772579,
+    "geom:longitude":-75.140884,
+    "iso:country":"US",
+    "sg:address":"353 Savannah Rd",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 645 2244",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85825023,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ENpVnz1OsLRasmaHWJElH_38.772579_-75.140884@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222617,
+    "wof:geomhash":"b443f73d9283b4584bfa204196423055",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85825023,
+            "region_id":85688611,
+            "venue_id":873493293
+        }
+    ],
+    "wof:id":873493293,
+    "wof:lastmodified":1464222617,
+    "wof:name":"Center For Diabetes",
+    "wof:parent_id":85825023,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.140884,
+    38.772579,
+    -75.140884,
+    38.772579
+],
+  "geometry": {"coordinates":[-75.140884,38.772579],"type":"Point"}
+}

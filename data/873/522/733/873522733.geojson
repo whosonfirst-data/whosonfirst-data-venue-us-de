@@ -1,0 +1,71 @@
+{
+  "id": 873522733,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.579803,39.185501,-75.579803,39.185501",
+    "geom:latitude":39.185501,
+    "geom:longitude":-75.579803,
+    "iso:country":"US",
+    "sg:address":"100 Campus Dr",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"University",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 857 1214",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "college"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4Fttktm8WKEkT61IuqY4Cr_39.185501_-75.579803@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223997,
+    "wof:geomhash":"682b63e63448da6a9f1aa27beafd8509",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873522733
+        }
+    ],
+    "wof:id":873522733,
+    "wof:lastmodified":1464223997,
+    "wof:name":"University of Delaware",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "college"
+    ]
+},
+  "bbox": [
+    -75.579803,
+    39.185501,
+    -75.579803,
+    39.185501
+],
+  "geometry": {"coordinates":[-75.579803,39.185501],"type":"Point"}
+}

@@ -1,0 +1,93 @@
+{
+  "id": 873521851,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.578507,39.227681,-75.578507,39.227681",
+    "geom:latitude":39.227681,
+    "geom:longitude":-75.578507,
+    "iso:country":"US",
+    "sg:address":"5751 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Building Materials",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1996",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "sg:website":"http://www.piercefence.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931477,
+        102083871,
+        85825779,
+        85931481,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5eLQya0hAQ0x8n5f63iN5n_39.227681_-75.578507@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223957,
+    "wof:geomhash":"0700da969441f585748c5f5626a6f19f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931477,
+            "neighbourhood_id":85825779,
+            "region_id":85688611,
+            "venue_id":873521851
+        },
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873521851
+        }
+    ],
+    "wof:id":873521851,
+    "wof:lastmodified":1464223957,
+    "wof:name":"Pierce Fence CO",
+    "wof:parent_id":-1,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.578507,
+    39.227681,
+    -75.578507,
+    39.227681
+],
+  "geometry": {"coordinates":[-75.578507,39.227681],"type":"Point"}
+}

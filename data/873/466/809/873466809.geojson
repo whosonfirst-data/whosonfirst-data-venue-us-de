@@ -1,0 +1,71 @@
+{
+  "id": 873466809,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.659265,39.766347,-75.659265,39.766347",
+    "geom:latitude":39.766347,
+    "geom:longitude":-75.659265,
+    "iso:country":"US",
+    "sg:address":"113 Wembley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 9272",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1lpwDTEXIhkrPN0iKy3zOl_39.766347_-75.659265@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221612,
+    "wof:geomhash":"cf4e7782117e55b3541be511e6ffe765",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873466809
+        }
+    ],
+    "wof:id":873466809,
+    "wof:lastmodified":1464221612,
+    "wof:name":"Security Observation Systems",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.659265,
+    39.766347,
+    -75.659265,
+    39.766347
+],
+  "geometry": {"coordinates":[-75.659265,39.766347],"type":"Point"}
+}

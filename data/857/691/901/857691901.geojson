@@ -1,0 +1,71 @@
+{
+  "id": 857691901,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.689381,39.698904,-75.689381,39.698904",
+    "geom:latitude":39.698904,
+    "geom:longitude":-75.689381,
+    "iso:country":"US",
+    "sg:address":"51 Spring Lake Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Car Wash",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 5491",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "truck",
+        "cleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3c5pnIaw2G1AaQePshKoZC_39.698904_-75.689381@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220660,
+    "wof:geomhash":"eea179532c1b1004666f5e34c7acc444",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":857691901
+        }
+    ],
+    "wof:id":857691901,
+    "wof:lastmodified":1464220660,
+    "wof:name":"Craig's Mobile Steam Cleaning",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "truck",
+        "cleaning"
+    ]
+},
+  "bbox": [
+    -75.689381,
+    39.698904,
+    -75.689381,
+    39.698904
+],
+  "geometry": {"coordinates":[-75.689381,39.698904],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873496703,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658778,39.688153,-75.658778,39.688153",
+    "geom:latitude":39.688153,
+    "geom:longitude":-75.658778,
+    "iso:country":"US",
+    "sg:address":"121 Continental Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Bank",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 456 1010",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "trust"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sWawYPO9oBlbE7hp8eDbx_39.688153_-75.658778@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222813,
+    "wof:geomhash":"220b1722d7bc102e18584b4ba345447e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873496703
+        }
+    ],
+    "wof:id":873496703,
+    "wof:lastmodified":1464222813,
+    "wof:name":"American Guaranty & Trust",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "trust"
+    ]
+},
+  "bbox": [
+    -75.658778,
+    39.688153,
+    -75.658778,
+    39.688153
+],
+  "geometry": {"coordinates":[-75.658778,39.688153],"type":"Point"}
+}

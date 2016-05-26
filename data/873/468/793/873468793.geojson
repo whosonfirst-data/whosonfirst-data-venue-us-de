@@ -1,0 +1,68 @@
+{
+  "id": 873468793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.696125,39.743843,-75.696125,39.743843",
+    "geom:latitude":39.743843,
+    "geom:longitude":-75.696125,
+    "iso:country":"US",
+    "sg:address":"4700 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 4789",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7fhzYbMX0Tt7Z379oNHVy2_39.743843_-75.696125@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221680,
+    "wof:geomhash":"1d72ff59cfa830643895e2c85ff4d725",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":873468793
+        }
+    ],
+    "wof:id":873468793,
+    "wof:lastmodified":1464221680,
+    "wof:name":"Kmart",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.696125,
+    39.743843,
+    -75.696125,
+    39.743843
+],
+  "geometry": {"coordinates":[-75.69612499999999,39.743843],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873517037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.533199,39.741848,-75.533199,39.741848",
+    "geom:latitude":39.741848,
+    "geom:longitude":-75.533199,
+    "iso:country":"US",
+    "sg:address":"1204 E 12th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Department Of Motor Vehicles",
+            "type":"Public Place"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 9359",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "tank",
+        "cleaner"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3sGdyU3FVwMsumgPVnQmiT_39.741848_-75.533199@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223722,
+    "wof:geomhash":"4bdd7158129d2d8844ff1f2c6866b52d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873517037
+        }
+    ],
+    "wof:id":873517037,
+    "wof:lastmodified":1464223722,
+    "wof:name":"Rosey's Tank Cleaning",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "tank",
+        "cleaner"
+    ]
+},
+  "bbox": [
+    -75.533199,
+    39.741848,
+    -75.533199,
+    39.741848
+],
+  "geometry": {"coordinates":[-75.533199,39.741848],"type":"Point"}
+}

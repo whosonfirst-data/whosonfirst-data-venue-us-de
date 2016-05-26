@@ -1,0 +1,74 @@
+{
+  "id": 873517139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.534999,39.803626,-75.534999,39.803626",
+    "geom:latitude":39.803626,
+    "geom:longitude":-75.534999,
+    "iso:country":"US",
+    "sg:address":"2220 Shipley Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 1621",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ],
+    "sg:website":"www.bsd.k12.de.us",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Ud43NQ7gcXJaD36TnQA4d_39.803626_-75.534999@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223734,
+    "wof:geomhash":"33182d6db8e825dffd2116e5b511115f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873517139
+        }
+    ],
+    "wof:id":873517139,
+    "wof:lastmodified":1464223734,
+    "wof:name":"Brandywine School District",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "high",
+        "middle",
+        "elementary"
+    ]
+},
+  "bbox": [
+    -75.534999,
+    39.803626,
+    -75.534999,
+    39.803626
+],
+  "geometry": {"coordinates":[-75.534999,39.803626],"type":"Point"}
+}

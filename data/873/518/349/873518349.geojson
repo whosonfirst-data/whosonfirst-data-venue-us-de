@@ -1,0 +1,71 @@
+{
+  "id": 873518349,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.588478,39.75248,-75.588478,39.75248",
+    "geom:latitude":39.75248,
+    "geom:longitude":-75.588478,
+    "iso:country":"US",
+    "sg:address":"3301 Lancaster Pike 5C",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Books, Periodicals, & Newspapers",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 504 1329",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "publisher",
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Hg2fK4zFi91p0IQcvwZ02_39.752480_-75.588478@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223808,
+    "wof:geomhash":"0d5f126f8b12075c1764edd895121f7c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873518349
+        }
+    ],
+    "wof:id":873518349,
+    "wof:lastmodified":1464223808,
+    "wof:name":"Spotlight Publications",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "publisher",
+        "book"
+    ]
+},
+  "bbox": [
+    -75.588478,
+    39.75248,
+    -75.588478,
+    39.75248
+],
+  "geometry": {"coordinates":[-75.58847799999999,39.75248],"type":"Point"}
+}

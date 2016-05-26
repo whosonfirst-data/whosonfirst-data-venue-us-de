@@ -1,0 +1,71 @@
+{
+  "id": 873472279,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.310043,38.780214,-75.310043,38.780214",
+    "geom:latitude":38.780214,
+    "geom:longitude":-75.310043,
+    "iso:country":"US",
+    "sg:address":"201 Chandler St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8713",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7HRCXciaSxcOQ02PY9SJJZ_38.780214_-75.310043@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221815,
+    "wof:geomhash":"491dfc73ab344df29393a3f6877e47c1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873472279
+        }
+    ],
+    "wof:id":873472279,
+    "wof:lastmodified":1464221815,
+    "wof:name":"D O Clendaniel Dr Sr",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.310043,
+    38.780214,
+    -75.310043,
+    38.780214
+],
+  "geometry": {"coordinates":[-75.31004299999999,38.780214],"type":"Point"}
+}

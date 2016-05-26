@@ -1,0 +1,73 @@
+{
+  "id": 857721251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.570995,39.749292,-75.570995,39.749292",
+    "geom:latitude":39.749292,
+    "geom:longitude":-75.570995,
+    "iso:country":"US",
+    "sg:address":"1834 W 5th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Bakery",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 1011",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "doughnut"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Y4e3JtES9gyFSw44vhQms_39.749292_-75.570995@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221275,
+    "wof:geomhash":"53ff4e7b20561ab2cbb0eb29627349d4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":857721251
+        }
+    ],
+    "wof:id":857721251,
+    "wof:lastmodified":1464221275,
+    "wof:name":"Krispy Kreme Doughnuts",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "doughnut"
+    ]
+},
+  "bbox": [
+    -75.570995,
+    39.749292,
+    -75.570995,
+    39.749292
+],
+  "geometry": {"coordinates":[-75.570995,39.749292],"type":"Point"}
+}

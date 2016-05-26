@@ -1,0 +1,68 @@
+{
+  "id": 873523211,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5287,39.156186,-75.5287,39.156186",
+    "geom:latitude":39.156186,
+    "geom:longitude":-75.5287,
+    "iso:country":"US",
+    "sg:address":"371 W North St Ste A",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"School",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 739 6163",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5yEVJAf9G3lQ9faqM0YOhP_39.156186_-75.528700@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224013,
+    "wof:geomhash":"9fdb9cb3dc1a105f45954dab9ec2d5c4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":873523211
+        }
+    ],
+    "wof:id":873523211,
+    "wof:lastmodified":1464224013,
+    "wof:name":"Tech Prep Delaware",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.5287,
+    39.156186,
+    -75.5287,
+    39.156186
+],
+  "geometry": {"coordinates":[-75.5287,39.156186],"type":"Point"}
+}

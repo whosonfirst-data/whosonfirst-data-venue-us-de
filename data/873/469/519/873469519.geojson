@@ -1,0 +1,69 @@
+{
+  "id": 873469519,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.551529,39.70161,-75.551529,39.70161",
+    "geom:latitude":39.70161,
+    "geom:longitude":-75.551529,
+    "iso:country":"US",
+    "sg:address":"3014 New Castle Ave",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 9717",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7B7UEVLn3gZfg4aMlmAKPa_39.701610_-75.551529@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221706,
+    "wof:geomhash":"60ad6e71d06d435662354de1286b662a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873469519
+        }
+    ],
+    "wof:id":873469519,
+    "wof:lastmodified":1464221706,
+    "wof:name":"McDonalds",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.551529,
+    39.70161,
+    -75.551529,
+    39.70161
+],
+  "geometry": {"coordinates":[-75.551529,39.70161],"type":"Point"}
+}

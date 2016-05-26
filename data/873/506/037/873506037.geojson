@@ -1,0 +1,71 @@
+{
+  "id": 873506037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.498257,39.771617,-75.498257,39.771617",
+    "geom:latitude":39.771617,
+    "geom:longitude":-75.498257,
+    "iso:country":"US",
+    "sg:address":"735 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 9904",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0zFPOwRVrKUyfqPEZPzIUv_39.771617_-75.498257@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223198,
+    "wof:geomhash":"f94d1c560ce27da015b84f2ab6fbd90e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":873506037
+        }
+    ],
+    "wof:id":873506037,
+    "wof:lastmodified":1464223198,
+    "wof:name":"Getty",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline"
+    ]
+},
+  "bbox": [
+    -75.498257,
+    39.771617,
+    -75.498257,
+    39.771617
+],
+  "geometry": {"coordinates":[-75.498257,39.771617],"type":"Point"}
+}

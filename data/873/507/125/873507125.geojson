@@ -1,0 +1,71 @@
+{
+  "id": 873507125,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548481,39.691264,-75.548481,39.691264",
+    "geom:latitude":39.691264,
+    "geom:longitude":-75.548481,
+    "iso:country":"US",
+    "sg:address":"233 Cherry Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 472 1245",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "inorganic",
+        "industrial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4hRvh4pU8SwqHYq2zntGdJ_39.691264_-75.548481@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223242,
+    "wof:geomhash":"4fb26bea5ff89e887a98ae1dca19a1d4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873507125
+        }
+    ],
+    "wof:id":873507125,
+    "wof:lastmodified":1464223242,
+    "wof:name":"Avecia",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "inorganic",
+        "industrial"
+    ]
+},
+  "bbox": [
+    -75.548481,
+    39.691264,
+    -75.548481,
+    39.691264
+],
+  "geometry": {"coordinates":[-75.548481,39.691264],"type":"Point"}
+}

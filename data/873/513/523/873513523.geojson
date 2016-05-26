@@ -1,0 +1,70 @@
+{
+  "id": 873513523,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.674792,39.711995,-75.674792,39.711995",
+    "geom:latitude":39.711995,
+    "geom:longitude":-75.674792,
+    "iso:country":"US",
+    "sg:address":"101 Kirkwood Sq",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Cafe",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/pike-creek-central-kirkwood/25142-cafe-la-terrazza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 1080",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_12cpPiRFgtIvua7E9RBpRk_39.711995_-75.674792@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223533,
+    "wof:geomhash":"63247a4237637bd0e3657824a82ed3bc",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873513523
+        }
+    ],
+    "wof:id":873513523,
+    "wof:lastmodified":1464223533,
+    "wof:name":"Cafe La Terrazza",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.674792,
+    39.711995,
+    -75.674792,
+    39.711995
+],
+  "geometry": {"coordinates":[-75.674792,39.711995],"type":"Point"}
+}

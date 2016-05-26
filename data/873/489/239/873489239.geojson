@@ -1,0 +1,68 @@
+{
+  "id": 873489239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.7287,39.664962,-75.7287,39.664962",
+    "geom:latitude":39.664962,
+    "geom:longitude":-75.7287,
+    "iso:country":"US",
+    "sg:address":"45 Kensington Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 7545",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4zoNQWvdwSD0AqUeJYDs5r_39.664962_-75.728700@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222465,
+    "wof:geomhash":"6f69ea8c75027643b00257b6169d0b05",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873489239
+        }
+    ],
+    "wof:id":873489239,
+    "wof:lastmodified":1464222465,
+    "wof:name":"Newark Locksmith",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.7287,
+    39.664962,
+    -75.7287,
+    39.664962
+],
+  "geometry": {"coordinates":[-75.7287,39.664962],"type":"Point"}
+}

@@ -1,0 +1,87 @@
+{
+  "id": 873524215,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.568116,38.914671,-75.568116,38.914671",
+    "geom:latitude":38.914671,
+    "geom:longitude":-75.568116,
+    "iso:country":"US",
+    "sg:address":"1259 Corn Crib Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 3900",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "lodging",
+        "meeting",
+        "banquet"
+    ],
+    "sg:website":"http://www.americinn.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6OJsh5QhegO168OEZFfGj8_38.914671_-75.568116@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224049,
+    "wof:geomhash":"f20f5ff3209b04aec2e1b869ac399a5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873524215
+        }
+    ],
+    "wof:id":873524215,
+    "wof:lastmodified":1464224049,
+    "wof:name":"AmericInn Lodge & Suites of Harrington",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "facility",
+        "hall",
+        "planning",
+        "reception",
+        "lodging",
+        "meeting",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -75.568116,
+    38.914671,
+    -75.568116,
+    38.914671
+],
+  "geometry": {"coordinates":[-75.568116,38.914671],"type":"Point"}
+}

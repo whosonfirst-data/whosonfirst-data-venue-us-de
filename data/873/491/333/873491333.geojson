@@ -1,0 +1,71 @@
+{
+  "id": 873491333,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.581149,39.754492,-75.581149,39.754492",
+    "geom:latitude":39.754492,
+    "geom:longitude":-75.581149,
+    "iso:country":"US",
+    "sg:address":"2801 W 6th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Nursing And Care Facility",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 6135",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "convalescent"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2thNk8SKW790PVPBCCuYM9_39.754492_-75.581149@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222543,
+    "wof:geomhash":"dbd2fc6886e1aef3270845f542512b81",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873491333
+        }
+    ],
+    "wof:id":873491333,
+    "wof:lastmodified":1464222543,
+    "wof:name":"Parkview Nursing & Rehab Ctr",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "convalescent"
+    ]
+},
+  "bbox": [
+    -75.581149,
+    39.754492,
+    -75.581149,
+    39.754492
+],
+  "geometry": {"coordinates":[-75.581149,39.754492],"type":"Point"}
+}

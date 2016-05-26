@@ -1,0 +1,81 @@
+{
+  "id": 873513051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.730362,39.685776,-75.730362,39.685776",
+    "geom:latitude":39.685776,
+    "geom:longitude":-75.730362,
+    "iso:country":"US",
+    "sg:address":"1100 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Ice Cream",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/23152-jakes-hamburgers/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 1118",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "wrap",
+        "burger",
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_37OzWZ0mIISOx0bkqZhISe_39.685776_-75.730362@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223515,
+    "wof:geomhash":"d3b173bbf56ce448486b2af0b5d5950d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873513051
+        }
+    ],
+    "wof:id":873513051,
+    "wof:lastmodified":1464223515,
+    "wof:name":"Jake's Hamburgers",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "wrap",
+        "burger",
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.730362,
+    39.685776,
+    -75.730362,
+    39.685776
+],
+  "geometry": {"coordinates":[-75.730362,39.685776],"type":"Point"}
+}

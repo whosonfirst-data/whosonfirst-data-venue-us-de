@@ -1,0 +1,69 @@
+{
+  "id": 857711699,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.612989,39.748216,-75.612989,39.748216",
+    "geom:latitude":39.748216,
+    "geom:longitude":-75.612989,
+    "iso:country":"US",
+    "sg:address":"1706 Faulkland Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 633 6801",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4LAzP7fFDXiDK9QTj1cXBc_39.748216_-75.612989@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221071,
+    "wof:geomhash":"e777b4ce532e10d7fbccf4b52d059da7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857711699
+        }
+    ],
+    "wof:id":857711699,
+    "wof:lastmodified":1464221071,
+    "wof:name":"Little Vinnies Pizza & Pasta",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.612989,
+    39.748216,
+    -75.612989,
+    39.748216
+],
+  "geometry": {"coordinates":[-75.612989,39.748216],"type":"Point"}
+}

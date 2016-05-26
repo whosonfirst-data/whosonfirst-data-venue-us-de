@@ -1,0 +1,96 @@
+{
+  "id": 873518951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.625321,39.733059,-75.625321,39.733059",
+    "geom:latitude":39.733059,
+    "geom:longitude":-75.625321,
+    "iso:country":"US",
+    "sg:address":"3317 Old Capitol Trl Ste A - D",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Stationery & Office Supplies",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Machinery & Supplies",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 6259",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "major",
+        "cleaners-household-dealers",
+        "cleaners-repair",
+        "part",
+        "vacuum",
+        "small",
+        "tools-repairing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_09ctYmSIlnXIBqOnWwG61z_39.733059_-75.625321@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223833,
+    "wof:geomhash":"469c83e58a27c772d494d8d25c0f131e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518951
+        }
+    ],
+    "wof:id":873518951,
+    "wof:lastmodified":1464223833,
+    "wof:name":"Appliance Servicenter",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "cleaners-household-dealers",
+        "cleaners-repair",
+        "part",
+        "vacuum",
+        "small",
+        "tools-repairing"
+    ]
+},
+  "bbox": [
+    -75.625321,
+    39.733059,
+    -75.625321,
+    39.733059
+],
+  "geometry": {"coordinates":[-75.625321,39.733059],"type":"Point"}
+}

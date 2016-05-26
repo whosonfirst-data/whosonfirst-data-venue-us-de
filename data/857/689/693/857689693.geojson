@@ -1,0 +1,73 @@
+{
+  "id": 857689693,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.313215,38.598933,-75.313215,38.598933",
+    "geom:latitude":38.598933,
+    "geom:longitude":-75.313215,
+    "iso:country":"US",
+    "sg:address":"398 W State St",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 934 1900",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_57Z2ndkyb4TBuLOYGK8JNC_38.598933_-75.313215@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220612,
+    "wof:geomhash":"612db6d9405ec043ef97917922af81c8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857689693
+        }
+    ],
+    "wof:id":857689693,
+    "wof:lastmodified":1464220612,
+    "wof:name":"In & Out Car Care",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.313215,
+    38.598933,
+    -75.313215,
+    38.598933
+],
+  "geometry": {"coordinates":[-75.313215,38.598933],"type":"Point"}
+}

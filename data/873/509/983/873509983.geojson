@@ -1,0 +1,75 @@
+{
+  "id": 873509983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547303,39.087655,-75.547303,39.087655",
+    "geom:latitude":39.087655,
+    "geom:longitude":-75.547303,
+    "iso:country":"US",
+    "sg:address":"1 Mifflin Mdws",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3187",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment",
+        "low",
+        "income"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_520UHmuCoYFjg0llnY9LIb_39.087655_-75.547303@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223377,
+    "wof:geomhash":"485d0ca392517c55ab031743ae9d3f1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873509983
+        }
+    ],
+    "wof:id":873509983,
+    "wof:lastmodified":1464223377,
+    "wof:name":"Mifflin Meadows",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment",
+        "low",
+        "income"
+    ]
+},
+  "bbox": [
+    -75.547303,
+    39.087655,
+    -75.547303,
+    39.087655
+],
+  "geometry": {"coordinates":[-75.547303,39.087655],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873494327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.666191,39.731992,-75.666191,39.731992",
+    "geom:latitude":39.731992,
+    "geom:longitude":-75.666191,
+    "iso:country":"US",
+    "sg:address":"1319 McKennans Church Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Cinema",
+            "subcategory":"Movie Rental",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1700",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3O2tSUyRdJbRlZW7uisBbV_39.731992_-75.666191@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222677,
+    "wof:geomhash":"7f28219d7167f06efe4f436f74df744a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873494327
+        }
+    ],
+    "wof:id":873494327,
+    "wof:lastmodified":1464222677,
+    "wof:name":"Video Showplace",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "leasing",
+        "video",
+        "disc",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.666191,
+    39.731992,
+    -75.666191,
+    39.731992
+],
+  "geometry": {"coordinates":[-75.666191,39.731992],"type":"Point"}
+}

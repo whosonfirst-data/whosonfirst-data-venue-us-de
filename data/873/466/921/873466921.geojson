@@ -1,0 +1,70 @@
+{
+  "id": 873466921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.484292,39.780846,-75.484292,39.780846",
+    "geom:latitude":39.780846,
+    "geom:longitude":-75.484292,
+    "iso:country":"US",
+    "sg:address":"1215 Philadelphia Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Garden Supply",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 6030",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "lawn"
+    ],
+    "sg:website":"www.alwaysthegarden.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85805539,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_68uQAhBK3rksthbX5p0vOH_39.780846_-75.484292@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221616,
+    "wof:geomhash":"7eb9aa9e49002b4beca85ea74a86694b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85805539,
+            "region_id":85688611,
+            "venue_id":873466921
+        }
+    ],
+    "wof:id":873466921,
+    "wof:lastmodified":1464221616,
+    "wof:name":"Always The Garden",
+    "wof:parent_id":85805539,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "lawn"
+    ]
+},
+  "bbox": [
+    -75.484292,
+    39.780846,
+    -75.484292,
+    39.780846
+],
+  "geometry": {"coordinates":[-75.484292,39.780846],"type":"Point"}
+}

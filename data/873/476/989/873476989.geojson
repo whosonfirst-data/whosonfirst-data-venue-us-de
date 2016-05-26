@@ -1,0 +1,71 @@
+{
+  "id": 873476989,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.693189,39.709542,-75.693189,39.709542",
+    "geom:latitude":39.709542,
+    "geom:longitude":-75.693189,
+    "iso:country":"US",
+    "sg:address":"153 Rockrose Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7390",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "improvement"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3nVRIBHhvXXimnwcYRo15z_39.709542_-75.693189@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221983,
+    "wof:geomhash":"7cb34b1ea274098ab33df8d3b01d3fb6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873476989
+        }
+    ],
+    "wof:id":873476989,
+    "wof:lastmodified":1464221983,
+    "wof:name":"Bob's Budget Home Improvement",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "improvement"
+    ]
+},
+  "bbox": [
+    -75.693189,
+    39.709542,
+    -75.693189,
+    39.709542
+],
+  "geometry": {"coordinates":[-75.693189,39.709542],"type":"Point"}
+}

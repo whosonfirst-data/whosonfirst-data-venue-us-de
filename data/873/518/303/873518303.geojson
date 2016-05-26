@@ -1,0 +1,99 @@
+{
+  "id": 873518303,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.670603,39.704703,-75.670603,39.704703",
+    "geom:latitude":39.704703,
+    "geom:longitude":-75.670603,
+    "iso:country":"US",
+    "sg:address":"777 Delaware Park Blvd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Sports & Exercise",
+            "subcategory":"Golf",
+            "type":"Entertainment"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Event Space",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Membership Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 6700",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "supply",
+        "facility",
+        "club",
+        "instruction",
+        "private",
+        "hall",
+        "equipment",
+        "courses-private",
+        "course",
+        "reception",
+        "banquet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eYekSrfgnTmZ9azgUjwVY_39.704703_-75.670603@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223806,
+    "wof:geomhash":"7bcea6f3e06ddc63d3e67ba385c53af2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873518303
+        }
+    ],
+    "wof:id":873518303,
+    "wof:lastmodified":1464223806,
+    "wof:name":"White Clay Creek Country Club",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "supply",
+        "facility",
+        "club",
+        "instruction",
+        "private",
+        "hall",
+        "equipment",
+        "courses-private",
+        "course",
+        "reception",
+        "banquet"
+    ]
+},
+  "bbox": [
+    -75.670603,
+    39.704703,
+    -75.670603,
+    39.704703
+],
+  "geometry": {"coordinates":[-75.670603,39.704703],"type":"Point"}
+}

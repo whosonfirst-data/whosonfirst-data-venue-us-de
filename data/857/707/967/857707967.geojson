@@ -1,0 +1,71 @@
+{
+  "id": 857707967,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.478373,39.807595,-75.478373,39.807595",
+    "geom:latitude":39.807595,
+    "geom:longitude":-75.478373,
+    "iso:country":"US",
+    "sg:address":"2311 Sconset Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Chemicals & Compounds",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 5942",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0BuWrnI6smwIH3dkWx0WSu_39.807595_-75.478373@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220972,
+    "wof:geomhash":"7da4c22cbdb43c0e755034403e2dbf97",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857707967
+        }
+    ],
+    "wof:id":857707967,
+    "wof:lastmodified":1464220972,
+    "wof:name":"Grand Assoc Inc",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.478373,
+    39.807595,
+    -75.478373,
+    39.807595
+],
+  "geometry": {"coordinates":[-75.478373,39.807595],"type":"Point"}
+}

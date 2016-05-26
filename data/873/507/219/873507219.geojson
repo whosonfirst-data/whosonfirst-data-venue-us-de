@@ -1,0 +1,73 @@
+{
+  "id": 873507219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57067,39.732895,-75.57067,39.732895",
+    "geom:latitude":39.732895,
+    "geom:longitude":-75.57067,
+    "iso:country":"US",
+    "sg:address":"223 8th Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 6741",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_027w0BRMhHGkwqGj5yPpPn_39.732895_-75.570670@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223246,
+    "wof:geomhash":"56a061ea9b291c1cd2805a62e855ba36",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873507219
+        }
+    ],
+    "wof:id":873507219,
+    "wof:lastmodified":1464223246,
+    "wof:name":"United Contracting",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.57067,
+    39.732895,
+    -75.57067,
+    39.732895
+],
+  "geometry": {"coordinates":[-75.57067000000001,39.732895],"type":"Point"}
+}

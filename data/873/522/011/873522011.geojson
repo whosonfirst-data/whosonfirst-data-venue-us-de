@@ -1,0 +1,67 @@
+{
+  "id": 873522011,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526141,39.178647,-75.526141,39.178647",
+    "geom:latitude":39.178647,
+    "geom:longitude":-75.526141,
+    "iso:country":"US",
+    "sg:address":"655 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Travel",
+            "subcategory":"Hotels & Motels",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 677 0900",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:website":"www.marriott.com/hotels/travel/d...",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_04CHFJPfhLRbIyB2IWei2o_39.178647_-75.526141@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223963,
+    "wof:geomhash":"33407e304213ae56d1f9055107de194e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873522011
+        }
+    ],
+    "wof:id":873522011,
+    "wof:lastmodified":1464223963,
+    "wof:name":"Fairfield Inn & Suites Dover",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.526141,
+    39.178647,
+    -75.526141,
+    39.178647
+],
+  "geometry": {"coordinates":[-75.526141,39.178647],"type":"Point"}
+}

@@ -1,0 +1,86 @@
+{
+  "id": 873513233,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.749621,39.651445,-75.749621,39.651445",
+    "geom:latitude":39.651445,
+    "geom:longitude":-75.749621,
+    "iso:country":"US",
+    "sg:address":"1108 S College Ave",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/24316-first-state-diner/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 0442",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "diner",
+        "salad",
+        "burger",
+        "seafood",
+        "soup",
+        "american",
+        "wrap",
+        "italian"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3Kuo1FgHxdjA6VnWDhNjmR_39.651445_-75.749621@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223522,
+    "wof:geomhash":"0d3c2e2c54f537347d1451ce6eacc98a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873513233
+        }
+    ],
+    "wof:id":873513233,
+    "wof:lastmodified":1464223522,
+    "wof:name":"First State Diner",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "diner",
+        "salad",
+        "burger",
+        "seafood",
+        "soup",
+        "american",
+        "wrap",
+        "italian"
+    ]
+},
+  "bbox": [
+    -75.749621,
+    39.651445,
+    -75.749621,
+    39.651445
+],
+  "geometry": {"coordinates":[-75.749621,39.651445],"type":"Point"}
+}

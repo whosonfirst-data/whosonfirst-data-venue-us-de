@@ -1,0 +1,76 @@
+{
+  "id": 857709725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540179,39.782137,-75.540179,39.782137",
+    "geom:latitude":39.782137,
+    "geom:longitude":-75.540179,
+    "iso:country":"US",
+    "sg:address":"103 Foulk Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Non-durable Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 1007",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "house",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78YZA9NMy6UecOtCck5RX6_39.782137_-75.540179@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221024,
+    "wof:geomhash":"3fd1fbfa6f4235dc0fc2ab4664a9389c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":857709725
+        }
+    ],
+    "wof:id":857709725,
+    "wof:lastmodified":1464221024,
+    "wof:name":"Ralph Lauren Home Collection I",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "house",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.540179,
+    39.782137,
+    -75.540179,
+    39.782137
+],
+  "geometry": {"coordinates":[-75.54017899999999,39.782137],"type":"Point"}
+}

@@ -1,0 +1,83 @@
+{
+  "id": 873518051,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548103,39.800999,-75.548103,39.800999",
+    "geom:latitude":39.800999,
+    "geom:longitude":-75.548103,
+    "iso:country":"US",
+    "sg:address":"3211 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Lounge",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bars & Pubs",
+            "subcategory":"Sports Bar",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 7522",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cocktail",
+        "hall",
+        "pool"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5UTacYGTnupkLBxL34WIHX_39.800999_-75.548103@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223797,
+    "wof:geomhash":"bdc5e81137200500913e2dd32ef74a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":873518051
+        }
+    ],
+    "wof:id":873518051,
+    "wof:lastmodified":1464223797,
+    "wof:name":"McLaren's Irish Pub",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cocktail",
+        "hall",
+        "pool"
+    ]
+},
+  "bbox": [
+    -75.548103,
+    39.800999,
+    -75.548103,
+    39.800999
+],
+  "geometry": {"coordinates":[-75.548103,39.800999],"type":"Point"}
+}

@@ -1,0 +1,82 @@
+{
+  "id": 873523459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561879,38.69827,-75.561879,38.69827",
+    "geom:latitude":38.69827,
+    "geom:longitude":-75.561879,
+    "iso:country":"US",
+    "sg:address":"20734 Sanfilippo Rd",
+    "sg:city":"Bridgeville",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Refuse",
+            "type":"Services"
+        },
+        {
+            "category":"Utilities",
+            "subcategory":"Recycling",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 337 7369",
+    "sg:postcode":"19933",
+    "sg:province":"DE",
+    "sg:tags":[
+        "rubbish",
+        "collection",
+        "garbage",
+        "removal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4FWY23zf8bKYezTnE5v3VA_38.698270_-75.561879@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224021,
+    "wof:geomhash":"7dbd9d543c38f40c7ad9d4713b519604",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873523459
+        }
+    ],
+    "wof:id":873523459,
+    "wof:lastmodified":1464224021,
+    "wof:name":"Willings Trash Removal Inc",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "rubbish",
+        "collection",
+        "garbage",
+        "removal"
+    ]
+},
+  "bbox": [
+    -75.561879,
+    38.69827,
+    -75.561879,
+    38.69827
+],
+  "geometry": {"coordinates":[-75.561879,38.69827],"type":"Point"}
+}

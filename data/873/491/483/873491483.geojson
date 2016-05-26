@@ -1,0 +1,75 @@
+{
+  "id": 873491483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.743715,39.676379,-75.743715,39.676379",
+    "geom:latitude":39.676379,
+    "geom:longitude":-75.743715,
+    "iso:country":"US",
+    "sg:address":"192 S Chapel St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 831 6065",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0VtwWkwLySHqoIFaMdXMEf_39.676379_-75.743715@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222548,
+    "wof:geomhash":"92e96788e665883aaf3dd8a3ec77ae8a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":873491483
+        }
+    ],
+    "wof:id":873491483,
+    "wof:lastmodified":1464222548,
+    "wof:name":"Computing & Network Service",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -75.743715,
+    39.676379,
+    -75.743715,
+    39.676379
+],
+  "geometry": {"coordinates":[-75.74371499999999,39.676379],"type":"Point"}
+}

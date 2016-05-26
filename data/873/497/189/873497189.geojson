@@ -1,0 +1,73 @@
+{
+  "id": 873497189,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.623919,39.738032,-75.623919,39.738032",
+    "geom:latitude":39.738032,
+    "geom:longitude":-75.623919,
+    "iso:country":"US",
+    "sg:address":"200 Greenbank Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 6120",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "govt",
+        "state",
+        "institution"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4I1TH8yP2NOPWkX7tFxvgz_39.738032_-75.623919@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222830,
+    "wof:geomhash":"0a2254a1e25db8dfa782b9294e51cc9e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873497189
+        }
+    ],
+    "wof:id":873497189,
+    "wof:lastmodified":1464222830,
+    "wof:name":"WEBB Correctional Facility",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "govt",
+        "state",
+        "institution"
+    ]
+},
+  "bbox": [
+    -75.623919,
+    39.738032,
+    -75.623919,
+    39.738032
+],
+  "geometry": {"coordinates":[-75.623919,39.738032],"type":"Point"}
+}

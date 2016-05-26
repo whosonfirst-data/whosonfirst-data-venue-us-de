@@ -1,0 +1,69 @@
+{
+  "id": 873501441,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57849,39.688234,-75.57849,39.688234",
+    "geom:latitude":39.688234,
+    "geom:longitude":-75.57849,
+    "iso:country":"US",
+    "sg:address":"1553 Matassino Rd",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 5733",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0fUgRmyeSZzUmZht88wfzN_39.688234_-75.578490@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223009,
+    "wof:geomhash":"99dd4bbdf4fae4dd3dd7fc9cca4fa2a7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873501441
+        }
+    ],
+    "wof:id":873501441,
+    "wof:lastmodified":1464223009,
+    "wof:name":"Richardson Trucking & Recovery",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.57849,
+    39.688234,
+    -75.57849,
+    39.688234
+],
+  "geometry": {"coordinates":[-75.57849,39.688234],"type":"Point"}
+}

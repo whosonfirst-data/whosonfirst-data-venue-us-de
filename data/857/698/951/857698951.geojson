@@ -1,0 +1,73 @@
+{
+  "id": 857698951,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556433,39.80965,-75.556433,39.80965",
+    "geom:latitude":39.80965,
+    "geom:longitude":-75.556433,
+    "iso:country":"US",
+    "sg:address":"4 Garden of Eden Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 8500",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential",
+        "own",
+        "commercial"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5q4AINeeqygMKwP23HxqYd_39.809650_-75.556433@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220790,
+    "wof:geomhash":"4a3624ebbbd07c48b9c4445648dd3a9f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857698951
+        }
+    ],
+    "wof:id":857698951,
+    "wof:lastmodified":1464220790,
+    "wof:name":"R & E Properties Inc",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "own",
+        "commercial"
+    ]
+},
+  "bbox": [
+    -75.556433,
+    39.80965,
+    -75.556433,
+    39.80965
+],
+  "geometry": {"coordinates":[-75.556433,39.80965],"type":"Point"}
+}

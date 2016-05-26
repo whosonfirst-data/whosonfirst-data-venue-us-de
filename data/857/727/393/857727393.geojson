@@ -1,0 +1,73 @@
+{
+  "id": 857727393,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.386468,38.69062,-75.386468,38.69062",
+    "geom:latitude":38.69062,
+    "geom:longitude":-75.386468,
+    "iso:country":"US",
+    "sg:address":"4 N Bedford St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 854 9788",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5lbMUXUU1nrDdLSIXBCdg7_38.690620_-75.386468@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221385,
+    "wof:geomhash":"be677dc4312c38036763e1ced82d5737",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857727393
+        }
+    ],
+    "wof:id":857727393,
+    "wof:lastmodified":1464221385,
+    "wof:name":"Alzheimer's Association",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.386468,
+    38.69062,
+    -75.386468,
+    38.69062
+],
+  "geometry": {"coordinates":[-75.38646799999999,38.69062],"type":"Point"}
+}

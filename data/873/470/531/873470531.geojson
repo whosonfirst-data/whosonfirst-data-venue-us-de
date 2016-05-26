@@ -1,0 +1,73 @@
+{
+  "id": 873470531,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.720284,39.784273,-75.720284,39.784273",
+    "geom:latitude":39.784273,
+    "geom:longitude":-75.720284,
+    "iso:country":"US",
+    "sg:address":"4 Eynon Ct",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 733 3175",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85827779
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VoE4FjHkgYsHIrNLTQtpZ_39.784273_-75.720284@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221749,
+    "wof:geomhash":"1ba71f5f633b37bc6c47b58300276df7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85827779,
+            "region_id":85688611,
+            "venue_id":873470531
+        }
+    ],
+    "wof:id":873470531,
+    "wof:lastmodified":1464221749,
+    "wof:name":"Christiana Hospital",
+    "wof:parent_id":85827779,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.720284,
+    39.784273,
+    -75.720284,
+    39.784273
+],
+  "geometry": {"coordinates":[-75.72028400000001,39.784273],"type":"Point"}
+}

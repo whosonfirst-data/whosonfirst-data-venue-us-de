@@ -1,0 +1,77 @@
+{
+  "id": 873524877,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.594303,38.658975,-75.594303,38.658975",
+    "geom:latitude":38.658975,
+    "geom:longitude":-75.594303,
+    "iso:country":"US",
+    "sg:address":"22962 Sussex Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        },
+        {
+            "category":"Banks & Credit Unions",
+            "subcategory":"Financial Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 628 9253",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "financing",
+        "loan"
+    ],
+    "sg:website":"http://citi.bridgetrack.com/citifi/_redir.htm?BTData=302177C736961705A55424AB8BEBEABA298948493FBFBF6E9EAC5C2DECE67BE2&BT_TRF=10467&RedirectID=YLLWPGS_US_CTGRY_TRD_LNK_FNCL_SRVCS_CPC&creativeID=YP_Link",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6ZowDJ4gjBQN3vcBNljoup_38.658975_-75.594303@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224074,
+    "wof:geomhash":"e826455f3f3051f66e6e71ec18a2506e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873524877
+        }
+    ],
+    "wof:id":873524877,
+    "wof:lastmodified":1464224074,
+    "wof:name":"CitiFinancial",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "financing",
+        "loan"
+    ]
+},
+  "bbox": [
+    -75.594303,
+    38.658975,
+    -75.594303,
+    38.658975
+],
+  "geometry": {"coordinates":[-75.594303,38.658975],"type":"Point"}
+}

@@ -1,0 +1,74 @@
+{
+  "id": 873524687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.181321,38.632295,-75.181321,38.632295",
+    "geom:latitude":38.632295,
+    "geom:longitude":-75.181321,
+    "iso:country":"US",
+    "sg:address":"32362 Long Neck Rd",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 7575",
+    "sg:postcode":"19966",
+    "sg:province":"DE",
+    "sg:tags":[
+        "delicatessen"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yOvROSWq674jpScxKH5WH_38.632295_-75.181321@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224067,
+    "wof:geomhash":"feb00e6001bc8543a2ea7240a511dcbb",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":873524687
+        }
+    ],
+    "wof:id":873524687,
+    "wof:lastmodified":1464224067,
+    "wof:name":"Longneck Deli",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "delicatessen"
+    ]
+},
+  "bbox": [
+    -75.181321,
+    38.632295,
+    -75.181321,
+    38.632295
+],
+  "geometry": {"coordinates":[-75.181321,38.632295],"type":"Point"}
+}

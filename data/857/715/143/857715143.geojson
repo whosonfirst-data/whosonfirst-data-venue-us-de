@@ -1,0 +1,80 @@
+{
+  "id": 857715143,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.549856,39.814685,-75.549856,39.814685",
+    "geom:latitude":39.814685,
+    "geom:longitude":-75.549856,
+    "iso:country":"US",
+    "sg:address":"4411 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Wholesale",
+            "subcategory":"Sporting Goods",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1170",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "swimming",
+        "pool",
+        "supply"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2knUOJQkKUEphKHvuCrdzB_39.814685_-75.549856@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221150,
+    "wof:geomhash":"bde6ad63fa95053b902f4827a8f6f09b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857715143
+        }
+    ],
+    "wof:id":857715143,
+    "wof:lastmodified":1464221150,
+    "wof:name":"Leslies Swimming Pool Supplies",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "swimming",
+        "pool",
+        "supply"
+    ]
+},
+  "bbox": [
+    -75.549856,
+    39.814685,
+    -75.549856,
+    39.814685
+],
+  "geometry": {"coordinates":[-75.54985600000001,39.814685],"type":"Point"}
+}

@@ -1,0 +1,89 @@
+{
+  "id": 873515695,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.763729,39.693681,-75.763729,39.693681",
+    "geom:latitude":39.693681,
+    "geom:longitude":-75.763729,
+    "iso:country":"US",
+    "sg:address":"403 New London Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Department Store",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"Discount & Variety Stores",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 9039",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "merchandise"
+    ],
+    "sg:website":"http://www.dollargeneral.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85837039
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0pF1Ktd3EGcHh7xXs2g3JD_39.693681_-75.763729@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223652,
+    "wof:geomhash":"2b828be2761dd0c5c6c39b052ec8c60e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85837039,
+            "region_id":85688611,
+            "venue_id":873515695
+        }
+    ],
+    "wof:id":873515695,
+    "wof:lastmodified":1464223652,
+    "wof:name":"Dollar General",
+    "wof:parent_id":85837039,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "merchandise"
+    ]
+},
+  "bbox": [
+    -75.763729,
+    39.693681,
+    -75.763729,
+    39.693681
+],
+  "geometry": {"coordinates":[-75.763729,39.693681],"type":"Point"}
+}

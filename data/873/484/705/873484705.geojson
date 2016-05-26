@@ -1,0 +1,73 @@
+{
+  "id": 873484705,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658478,39.676878,-75.658478,39.676878",
+    "geom:latitude":39.676878,
+    "geom:longitude":-75.658478,
+    "iso:country":"US",
+    "sg:address":"430 Christiana Medical Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 5500",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0YQeFIlqe6oIGYYzfkncdW_39.676878_-75.658478@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222295,
+    "wof:geomhash":"0ec69723d0caee54ec98e557df69ef6b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873484705
+        }
+    ],
+    "wof:id":873484705,
+    "wof:lastmodified":1464222295,
+    "wof:name":"Jerry L Case MD",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon",
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.658478,
+    39.676878,
+    -75.658478,
+    39.676878
+],
+  "geometry": {"coordinates":[-75.658478,39.676878],"type":"Point"}
+}

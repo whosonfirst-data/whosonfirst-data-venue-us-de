@@ -1,0 +1,73 @@
+{
+  "id": 873503917,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.387161,38.692588,-75.387161,38.692588",
+    "geom:latitude":38.692588,
+    "geom:longitude":-75.387161,
+    "iso:country":"US",
+    "sg:address":"9 Depot St",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 9368",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TLZlqGhM2Qgy56Cvj5mWl_38.692588_-75.387161@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223096,
+    "wof:geomhash":"ba973eb17979fa6dad2437751c905f73",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":873503917
+        }
+    ],
+    "wof:id":873503917,
+    "wof:lastmodified":1464223096,
+    "wof:name":"SBA Properties",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.387161,
+    38.692588,
+    -75.387161,
+    38.692588
+],
+  "geometry": {"coordinates":[-75.38716100000001,38.692588],"type":"Point"}
+}

@@ -1,0 +1,68 @@
+{
+  "id": 857688379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532739,39.132338,-75.532739,39.132338",
+    "geom:latitude":39.132338,
+    "geom:longitude":-75.532739,
+    "iso:country":"US",
+    "sg:address":"211 Richard Bassett Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Groceries & Convenience Stores",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 5047",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931473,
+        102083871,
+        85810417
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2IToyrEPTzEVDFshB0GDoO_39.132338_-75.532739@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220586,
+    "wof:geomhash":"54947ba7803182810fb0c375c913c6ca",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85810417,
+            "region_id":85688611,
+            "venue_id":857688379
+        }
+    ],
+    "wof:id":857688379,
+    "wof:lastmodified":1464220586,
+    "wof:name":"Farm Fresh",
+    "wof:parent_id":85810417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.532739,
+    39.132338,
+    -75.532739,
+    39.132338
+],
+  "geometry": {"coordinates":[-75.53273900000001,39.132338],"type":"Point"}
+}

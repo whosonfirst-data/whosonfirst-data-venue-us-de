@@ -1,0 +1,79 @@
+{
+  "id": 873515573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.68563,39.708018,-75.68563,39.708018",
+    "geom:latitude":39.708018,
+    "geom:longitude":-75.68563,
+    "iso:country":"US",
+    "sg:address":"50 S Meadowood Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        },
+        {
+            "category":"Education",
+            "subcategory":"Preschool",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 8090",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ],
+    "sg:website":"http://www.kindercare.com/our-centers/center-details/301158/?cid=YP_KC301158",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85841213,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7b8fMac5p6SWs8ciDFaKbT_39.708018_-75.685630@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223647,
+    "wof:geomhash":"6aa804caf38e8b2eb4e67d1b4389a716",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85841213,
+            "region_id":85688611,
+            "venue_id":873515573
+        }
+    ],
+    "wof:id":873515573,
+    "wof:lastmodified":1464223647,
+    "wof:name":"Meadowood KinderCare",
+    "wof:parent_id":85841213,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "kindergarten",
+        "nursery",
+        "day"
+    ]
+},
+  "bbox": [
+    -75.68563,
+    39.708018,
+    -75.68563,
+    39.708018
+],
+  "geometry": {"coordinates":[-75.68563,39.708018],"type":"Point"}
+}

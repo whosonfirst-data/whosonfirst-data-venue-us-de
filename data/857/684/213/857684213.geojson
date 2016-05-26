@@ -1,0 +1,73 @@
+{
+  "id": 857684213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.516595,39.166781,-75.516595,39.166781",
+    "geom:latitude":39.166781,
+    "geom:longitude":-75.516595,
+    "iso:country":"US",
+    "sg:address":"155 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Printing",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 2033",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "book"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5ujOK1ShFkdMJ0YPx631Sx_39.166781_-75.516595@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220507,
+    "wof:geomhash":"089aa0434d00d6e0cc07f4155481ac2a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":857684213
+        }
+    ],
+    "wof:id":857684213,
+    "wof:lastmodified":1464220507,
+    "wof:name":"Local Book Publishing Inc",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "book"
+    ]
+},
+  "bbox": [
+    -75.516595,
+    39.166781,
+    -75.516595,
+    39.166781
+],
+  "geometry": {"coordinates":[-75.516595,39.166781],"type":"Point"}
+}

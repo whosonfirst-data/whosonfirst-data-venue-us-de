@@ -1,0 +1,71 @@
+{
+  "id": 873469447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.431965,38.905534,-75.431965,38.905534",
+    "geom:latitude":38.905534,
+    "geom:longitude":-75.431965,
+    "iso:country":"US",
+    "sg:address":"21 W Clarke Ave",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 3311",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_231qCsrLkjJN3aJG6hYji3_38.905534_-75.431965@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221702,
+    "wof:geomhash":"bf04a5deaf754e15d5f496e0af98dd12",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873469447
+        }
+    ],
+    "wof:id":873469447,
+    "wof:lastmodified":1464221702,
+    "wof:name":"Milford Memorial Hospital",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.431965,
+    38.905534,
+    -75.431965,
+    38.905534
+],
+  "geometry": {"coordinates":[-75.43196500000001,38.905534],"type":"Point"}
+}

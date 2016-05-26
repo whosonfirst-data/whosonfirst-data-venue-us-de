@@ -1,0 +1,68 @@
+{
+  "id": 873516597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556951,39.742727,-75.556951,39.742727",
+    "geom:latitude":39.742727,
+    "geom:longitude":-75.556951,
+    "iso:country":"US",
+    "sg:address":"629 W 4th St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 651 9170",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6Ucp5q68BXNVIlKMWQpw13_39.742727_-75.556951@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223696,
+    "wof:geomhash":"8a84b85e7d54de005f8850daf2a19f3e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873516597
+        }
+    ],
+    "wof:id":873516597,
+    "wof:lastmodified":1464223696,
+    "wof:name":"Golden Star Rest",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.556951,
+    39.742727,
+    -75.556951,
+    39.742727
+],
+  "geometry": {"coordinates":[-75.556951,39.742727],"type":"Point"}
+}

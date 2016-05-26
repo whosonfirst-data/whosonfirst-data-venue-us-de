@@ -1,0 +1,71 @@
+{
+  "id": 873471503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.532082,39.794355,-75.532082,39.794355",
+    "geom:latitude":39.794355,
+    "geom:longitude":-75.532082,
+    "iso:country":"US",
+    "sg:address":"1908 Oak Lane Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 4638",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "programing",
+        "custom"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15IlCw72uofocsBPMOgCJL_39.794355_-75.532082@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221787,
+    "wof:geomhash":"bba4538360b835f2eb236f1dd941b0bf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873471503
+        }
+    ],
+    "wof:id":873471503,
+    "wof:lastmodified":1464221787,
+    "wof:name":"Siam Computer Inc",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "programing",
+        "custom"
+    ]
+},
+  "bbox": [
+    -75.532082,
+    39.794355,
+    -75.532082,
+    39.794355
+],
+  "geometry": {"coordinates":[-75.532082,39.794355],"type":"Point"}
+}

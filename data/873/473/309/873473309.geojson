@@ -1,0 +1,71 @@
+{
+  "id": 873473309,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.656509,39.755115,-75.656509,39.755115",
+    "geom:latitude":39.755115,
+    "geom:longitude":-75.656509,
+    "iso:country":"US",
+    "sg:address":"214 Bromley Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 2336",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "plumbing",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6bUIqR5oK2UmLB73ahK2B6_39.755115_-75.656509@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221857,
+    "wof:geomhash":"a723edbd8b7762a63ecc0bbbc51b27c7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873473309
+        }
+    ],
+    "wof:id":873473309,
+    "wof:lastmodified":1464221857,
+    "wof:name":"R D Green Plumbing & Heating",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "plumbing",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.656509,
+    39.755115,
+    -75.656509,
+    39.755115
+],
+  "geometry": {"coordinates":[-75.656509,39.755115],"type":"Point"}
+}

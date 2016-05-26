@@ -1,0 +1,82 @@
+{
+  "id": 873514461,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.775235,39.584406,-75.775235,39.584406",
+    "geom:latitude":39.584406,
+    "geom:longitude":-75.775235,
+    "iso:country":"US",
+    "sg:address":"3020 Mcdaniel Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 3446",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "manufactured",
+        "housing-communities",
+        "recreational",
+        "campers-repair",
+        "vehicle"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6hRb2hRokkHhFebTdjQ0Jz_39.584406_-75.775235@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223591,
+    "wof:geomhash":"27cea440e6455247ac9da36213f9620f",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514461
+        }
+    ],
+    "wof:id":873514461,
+    "wof:lastmodified":1464223591,
+    "wof:name":"Mcdaniels Mobile Home Service",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "manufactured",
+        "housing-communities",
+        "recreational",
+        "campers-repair",
+        "vehicle"
+    ]
+},
+  "bbox": [
+    -75.775235,
+    39.584406,
+    -75.775235,
+    39.584406
+],
+  "geometry": {"coordinates":[-75.775235,39.584406],"type":"Point"}
+}

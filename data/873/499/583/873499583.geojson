@@ -1,0 +1,73 @@
+{
+  "id": 873499583,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.725344,39.661607,-75.725344,39.661607",
+    "geom:latitude":39.661607,
+    "geom:longitude":-75.725344,
+    "iso:country":"US",
+    "sg:address":"33 Chestnut Hill Plz",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 2800",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23EeZrfRMtrOzARV6q02M6_39.661607_-75.725344@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222922,
+    "wof:geomhash":"f96d9cc38154024310bfdd1469fb2c86",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873499583
+        }
+    ],
+    "wof:id":873499583,
+    "wof:lastmodified":1464222922,
+    "wof:name":"Great Expectations",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.725344,
+    39.661607,
+    -75.725344,
+    39.661607
+],
+  "geometry": {"coordinates":[-75.72534400000001,39.661607],"type":"Point"}
+}

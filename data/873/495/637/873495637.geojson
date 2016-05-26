@@ -1,0 +1,71 @@
+{
+  "id": 873495637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5085,39.81278,-75.5085,39.81278",
+    "geom:latitude":39.81278,
+    "geom:longitude":-75.5085,
+    "iso:country":"US",
+    "sg:address":"2404 Larchwood Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 798 8438",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85838417,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4X9f810JQjwyGTD728RlW8_39.812780_-75.508500@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222758,
+    "wof:geomhash":"d6ffcd82c899bb5b4e3b77a38f4e7a92",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85838417,
+            "region_id":85688611,
+            "venue_id":873495637
+        }
+    ],
+    "wof:id":873495637,
+    "wof:lastmodified":1464222758,
+    "wof:name":"Fields Construction",
+    "wof:parent_id":85838417,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.5085,
+    39.81278,
+    -75.5085,
+    39.81278
+],
+  "geometry": {"coordinates":[-75.5085,39.81278],"type":"Point"}
+}

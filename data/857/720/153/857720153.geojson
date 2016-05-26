@@ -1,0 +1,76 @@
+{
+  "id": 857720153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.633457,39.745541,-75.633457,39.745541",
+    "geom:latitude":39.745541,
+    "geom:longitude":-75.633457,
+    "iso:country":"US",
+    "sg:address":"2606 Baxter Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 1234",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_65shNvyXLRXr0Q0lONiXis_39.745541_-75.633457@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221253,
+    "wof:geomhash":"8389ecfaa4e20c72e83611659dda2502",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857720153
+        }
+    ],
+    "wof:id":857720153,
+    "wof:lastmodified":1464221253,
+    "wof:name":"Martin Electrical Construction",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.633457,
+    39.745541,
+    -75.633457,
+    39.745541
+],
+  "geometry": {"coordinates":[-75.63345700000001,39.745541],"type":"Point"}
+}

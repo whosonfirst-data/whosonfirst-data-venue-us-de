@@ -1,0 +1,73 @@
+{
+  "id": 873506999,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.769561,39.611073,-75.769561,39.611073",
+    "geom:latitude":39.611073,
+    "geom:longitude":-75.769561,
+    "iso:country":"US",
+    "sg:address":"801 Pencader Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Rubber & Plastics",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 7101",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "product",
+        "material",
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5QYqbU5tClV85e6O9sBZ6y_39.611073_-75.769561@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223237,
+    "wof:geomhash":"d0a0dcc6801259aa67614449eeaf63d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873506999
+        }
+    ],
+    "wof:id":873506999,
+    "wof:lastmodified":1464223237,
+    "wof:name":"Slocomb Industries Inc",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "product",
+        "material",
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.769561,
+    39.611073,
+    -75.769561,
+    39.611073
+],
+  "geometry": {"coordinates":[-75.769561,39.611073],"type":"Point"}
+}

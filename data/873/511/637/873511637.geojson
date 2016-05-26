@@ -1,0 +1,74 @@
+{
+  "id": 873511637,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57026,39.751096,-75.57026,39.751096",
+    "geom:latitude":39.751096,
+    "geom:longitude":-75.57026,
+    "iso:country":"US",
+    "sg:address":"710 N Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 658 4171",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tutoring"
+    ],
+    "sg:website":"http://www.westendnh.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888519
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2Ccyf2dqUPKWWQSq6VnNr2_39.751668_-75.569765@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223455,
+    "wof:geomhash":"c5cbdf38493e0bc9cd89b6865a747ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888519,
+            "region_id":85688611,
+            "venue_id":873511637
+        }
+    ],
+    "wof:id":873511637,
+    "wof:lastmodified":1464223455,
+    "wof:name":"West End Neighborhood House",
+    "wof:parent_id":85888519,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tutoring"
+    ]
+},
+  "bbox": [
+    -75.57026,
+    39.751096,
+    -75.57026,
+    39.751096
+],
+  "geometry": {"coordinates":[-75.57026,39.751096],"type":"Point"}
+}

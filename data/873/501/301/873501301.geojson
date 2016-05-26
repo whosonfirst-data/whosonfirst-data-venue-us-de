@@ -1,0 +1,71 @@
+{
+  "id": 873501301,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.679724,39.691748,-75.679724,39.691748",
+    "geom:latitude":39.691748,
+    "geom:longitude":-75.679724,
+    "iso:country":"US",
+    "sg:address":"122 Patricia Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Community Association",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 1401",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "government"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_06qdBvBq5COM4dSxUWIMnz_39.691748_-75.679724@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223000,
+    "wof:geomhash":"7ad2a64dc04d22f7e319bdc60d273f55",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873501301
+        }
+    ],
+    "wof:id":873501301,
+    "wof:lastmodified":1464223000,
+    "wof:name":"Rutherford Civic Assn & Dev",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "government"
+    ]
+},
+  "bbox": [
+    -75.679724,
+    39.691748,
+    -75.679724,
+    39.691748
+],
+  "geometry": {"coordinates":[-75.67972399999999,39.691748],"type":"Point"}
+}

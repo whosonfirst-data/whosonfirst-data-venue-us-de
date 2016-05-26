@@ -1,0 +1,71 @@
+{
+  "id": 873518261,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.606472,39.727866,-75.606472,39.727866",
+    "geom:latitude":39.727866,
+    "geom:longitude":-75.606472,
+    "iso:country":"US",
+    "sg:address":"87 Read Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 761 4342",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "parish",
+        "government-county"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6gaPQLoHEPGvmgYS8q3CJU_39.727866_-75.606472@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223805,
+    "wof:geomhash":"1a6b3624b936db98571f5737942299e1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873518261
+        }
+    ],
+    "wof:id":873518261,
+    "wof:lastmodified":1464223805,
+    "wof:name":"New Castle County Rockwood Park",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parish",
+        "government-county"
+    ]
+},
+  "bbox": [
+    -75.606472,
+    39.727866,
+    -75.606472,
+    39.727866
+],
+  "geometry": {"coordinates":[-75.606472,39.727866],"type":"Point"}
+}

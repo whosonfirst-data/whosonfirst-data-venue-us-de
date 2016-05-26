@@ -1,0 +1,71 @@
+{
+  "id": 873501479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.731338,39.673494,-75.731338,39.673494",
+    "geom:latitude":39.673494,
+    "geom:longitude":-75.731338,
+    "iso:country":"US",
+    "sg:address":"100 Witherspoon Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 453 9596",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "building",
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3vVCygGFOTPIwjPBQfO6fQ_39.673494_-75.731338@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223010,
+    "wof:geomhash":"4c9cc2b2e486e3267b05340e30861fd1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873501479
+        }
+    ],
+    "wof:id":873501479,
+    "wof:lastmodified":1464223010,
+    "wof:name":"Marrows Court Apartments",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "building",
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.731338,
+    39.673494,
+    -75.731338,
+    39.673494
+],
+  "geometry": {"coordinates":[-75.73133799999999,39.673494],"type":"Point"}
+}

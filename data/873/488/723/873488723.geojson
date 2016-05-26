@@ -1,0 +1,71 @@
+{
+  "id": 873488723,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.6011,38.650656,-75.6011,38.650656",
+    "geom:latitude":38.650656,
+    "geom:longitude":-75.6011,
+    "iso:country":"US",
+    "sg:address":"815 Norman Eskridge Hwy",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 7319",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85852049,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Kb8pqwG5cMnubyzWuuDvg_38.650656_-75.601100@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222448,
+    "wof:geomhash":"fe8fe9df718e55a7be50098261344ae7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85852049,
+            "region_id":85688611,
+            "venue_id":873488723
+        }
+    ],
+    "wof:id":873488723,
+    "wof:lastmodified":1464222448,
+    "wof:name":"Peninsula Dry Cleaners",
+    "wof:parent_id":85852049,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -75.6011,
+    38.650656,
+    -75.6011,
+    38.650656
+],
+  "geometry": {"coordinates":[-75.6011,38.650656],"type":"Point"}
+}

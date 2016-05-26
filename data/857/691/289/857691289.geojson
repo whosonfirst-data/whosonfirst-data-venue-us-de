@@ -1,0 +1,71 @@
+{
+  "id": 857691289,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.470592,39.825924,-75.470592,39.825924",
+    "geom:latitude":39.825924,
+    "geom:longitude":-75.470592,
+    "iso:country":"US",
+    "sg:address":"5 Butternut Ct",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Computer Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 475 8581",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "datum"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931527,
+        102083891,
+        85888515
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2uLqfhNQqR35ZL1sPSJm5M_39.825924_-75.470592@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220647,
+    "wof:geomhash":"d28ef40ecbada0f6f829ba5d2beb7800",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931527,
+            "neighbourhood_id":85888515,
+            "region_id":85688611,
+            "venue_id":857691289
+        }
+    ],
+    "wof:id":857691289,
+    "wof:lastmodified":1464220647,
+    "wof:name":"Virtuals Street Co",
+    "wof:parent_id":85888515,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "datum"
+    ]
+},
+  "bbox": [
+    -75.470592,
+    39.825924,
+    -75.470592,
+    39.825924
+],
+  "geometry": {"coordinates":[-75.470592,39.825924],"type":"Point"}
+}

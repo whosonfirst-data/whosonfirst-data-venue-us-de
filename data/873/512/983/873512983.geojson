@@ -1,0 +1,76 @@
+{
+  "id": 873512983,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698031,39.789267,-75.698031,39.789267",
+    "geom:latitude":39.789267,
+    "geom:longitude":-75.698031,
+    "iso:country":"US",
+    "sg:address":"7454 Lancaster Pike",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/piedmont/23178-primas-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 3522",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5fPNk3tL6WDDmzDmmP0YFa_39.789267_-75.698031@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223513,
+    "wof:geomhash":"4d741b2425486a098afddd9432530f78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873512983
+        }
+    ],
+    "wof:id":873512983,
+    "wof:lastmodified":1464223513,
+    "wof:name":"Prima's Pizza",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.698031,
+    39.789267,
+    -75.698031,
+    39.789267
+],
+  "geometry": {"coordinates":[-75.698031,39.789267],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 873472569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.230238,38.45128,-75.230238,38.45128",
+    "geom:latitude":38.45128,
+    "geom:longitude":-75.230238,
+    "iso:country":"US",
+    "sg:address":"28 Mason Dr",
+    "sg:city":"Millsboro",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 945 4551",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "masonry",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2v75TXeFm8pi8Ef15vdoKU_38.451280_-75.230238@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221827,
+    "wof:geomhash":"658f140ad8f9a697cf944cd4c6b5d7a8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873472569
+        }
+    ],
+    "wof:id":873472569,
+    "wof:lastmodified":1464221827,
+    "wof:name":"Swift Masonry",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "masonry",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.230238,
+    38.45128,
+    -75.230238,
+    38.45128
+],
+  "geometry": {"coordinates":[-75.230238,38.45128],"type":"Point"}
+}

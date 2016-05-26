@@ -1,0 +1,89 @@
+{
+  "id": 873513109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.74304,39.71109,-75.74304,39.71109",
+    "geom:latitude":39.71109,
+    "geom:longitude":-75.74304,
+    "iso:country":"US",
+    "sg:address":"102 Louviers Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Bakery",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Coffee & Tea",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Bagels",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Donuts",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/greater-newark/130292-dunkin-donuts/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 6111",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85842215,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78CKwSjdordjfOqlwLntou_39.711090_-75.743040@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223517,
+    "wof:geomhash":"e9e089de290057ffd34623e4949b5b5a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85842215,
+            "region_id":85688611,
+            "venue_id":873513109
+        }
+    ],
+    "wof:id":873513109,
+    "wof:lastmodified":1464223517,
+    "wof:name":"Dunkin' Donuts",
+    "wof:parent_id":85842215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "diner",
+        "pastry"
+    ]
+},
+  "bbox": [
+    -75.74304,
+    39.71109,
+    -75.74304,
+    39.71109
+],
+  "geometry": {"coordinates":[-75.74303999999999,39.71109],"type":"Point"}
+}

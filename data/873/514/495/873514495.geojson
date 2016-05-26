@@ -1,0 +1,87 @@
+{
+  "id": 873514495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.729471,39.640377,-75.729471,39.640377",
+    "geom:latitude":39.640377,
+    "geom:longitude":-75.729471,
+    "iso:country":"US",
+    "sg:address":"2038 Sunset Lake Rd # 2040",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Building Materials",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 9144",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "metal",
+        "contractor",
+        "work",
+        "sheet",
+        "mechanical"
+    ],
+    "sg:website":"http://www.penmech.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7I3tV5qrjShIetVQJ56nBx_39.640377_-75.729471@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223593,
+    "wof:geomhash":"e494cab7633e6f097b44149631c9f92f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":873514495
+        }
+    ],
+    "wof:id":873514495,
+    "wof:lastmodified":1464223593,
+    "wof:name":"Pencader Mechanical Contractors Inc",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "metal",
+        "contractor",
+        "work",
+        "sheet",
+        "mechanical"
+    ]
+},
+  "bbox": [
+    -75.729471,
+    39.640377,
+    -75.729471,
+    39.640377
+],
+  "geometry": {"coordinates":[-75.729471,39.640377],"type":"Point"}
+}

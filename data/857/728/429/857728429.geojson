@@ -1,0 +1,73 @@
+{
+  "id": 857728429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.561827,39.761295,-75.561827,39.761295",
+    "geom:latitude":39.761295,
+    "geom:longitude":-75.561827,
+    "iso:country":"US",
+    "sg:address":"1903 N Lincoln St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 4553",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2yiks8yOI6ztA9x5PEdabj_39.761295_-75.561827@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221404,
+    "wof:geomhash":"90ee972116c33fdd777a38a80fc3e5d8",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":857728429
+        }
+    ],
+    "wof:id":857728429,
+    "wof:lastmodified":1464221404,
+    "wof:name":"Jack Saxton III Constr Co",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.561827,
+    39.761295,
+    -75.561827,
+    39.761295
+],
+  "geometry": {"coordinates":[-75.56182699999999,39.761295],"type":"Point"}
+}

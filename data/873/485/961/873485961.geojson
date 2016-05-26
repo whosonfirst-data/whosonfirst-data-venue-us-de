@@ -1,0 +1,71 @@
+{
+  "id": 873485961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.518147,39.191224,-75.518147,39.191224",
+    "geom:latitude":39.191224,
+    "geom:longitude":-75.518147,
+    "iso:country":"US",
+    "sg:address":"43 Primrose Dr E",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Religious Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7344",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "clergy"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85842379
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jm7pbhcLCPB4xWATgXUHT_39.191224_-75.518147@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222340,
+    "wof:geomhash":"f93c929efc93eb8aedcb601f79d17434",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85842379,
+            "region_id":85688611,
+            "venue_id":873485961
+        }
+    ],
+    "wof:id":873485961,
+    "wof:lastmodified":1464222340,
+    "wof:name":"Samuel D Waller",
+    "wof:parent_id":85842379,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "clergy"
+    ]
+},
+  "bbox": [
+    -75.518147,
+    39.191224,
+    -75.518147,
+    39.191224
+],
+  "geometry": {"coordinates":[-75.518147,39.191224],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857684843,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.139051,38.679145,-75.139051,38.679145",
+    "geom:latitude":38.679145,
+    "geom:longitude":-75.139051,
+    "iso:country":"US",
+    "sg:address":"2 Mallard Dr",
+    "sg:city":"Lewes",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Animal Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 947 1544",
+    "sg:postcode":"19958",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85804789,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_63TtMTNyGRAgnjk3u62enX_38.679145_-75.139051@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220519,
+    "wof:geomhash":"b1c80902ba67d9b52ff6923d5f10c260",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85804789,
+            "region_id":85688611,
+            "venue_id":857684843
+        }
+    ],
+    "wof:id":857684843,
+    "wof:lastmodified":1464220519,
+    "wof:name":"Animal & House Sitting Svc",
+    "wof:parent_id":85804789,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pet",
+        "boarding",
+        "sitting"
+    ]
+},
+  "bbox": [
+    -75.139051,
+    38.679145,
+    -75.139051,
+    38.679145
+],
+  "geometry": {"coordinates":[-75.13905099999999,38.679145],"type":"Point"}
+}

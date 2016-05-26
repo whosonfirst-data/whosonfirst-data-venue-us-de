@@ -1,0 +1,73 @@
+{
+  "id": 857729213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.50893,39.173096,-75.50893,39.173096",
+    "geom:latitude":39.173096,
+    "geom:longitude":-75.50893,
+    "iso:country":"US",
+    "sg:address":"1210 White Oak Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 7050",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "parks"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85817337
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2VZIVTtZazlP81yx8xKc1k_39.173096_-75.508930@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221419,
+    "wof:geomhash":"9b154ee55d70d4e2b391c3763c7c5edd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85817337,
+            "region_id":85688611,
+            "venue_id":857729213
+        }
+    ],
+    "wof:id":857729213,
+    "wof:lastmodified":1464221419,
+    "wof:name":"Dover Parks & Recreation",
+    "wof:parent_id":85817337,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "parks"
+    ]
+},
+  "bbox": [
+    -75.50893,
+    39.173096,
+    -75.50893,
+    39.173096
+],
+  "geometry": {"coordinates":[-75.50893000000001,39.173096],"type":"Point"}
+}

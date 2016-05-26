@@ -1,0 +1,75 @@
+{
+  "id": 857729339,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548565,39.742919,-75.548565,39.742919",
+    "geom:latitude":39.742919,
+    "geom:longitude":-75.548565,
+    "iso:country":"US",
+    "sg:address":"721 N King St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 1179",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "sandwich",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888527
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7Vo4qv1LXEjvXS0rNiySZX_39.742919_-75.548565@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221421,
+    "wof:geomhash":"0c4855b063e90e2858b3b423c245affa",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888527,
+            "region_id":85688611,
+            "venue_id":857729339
+        }
+    ],
+    "wof:id":857729339,
+    "wof:lastmodified":1464221421,
+    "wof:name":"Gus's Sub Shop",
+    "wof:parent_id":85888527,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "sandwich",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.548565,
+    39.742919,
+    -75.548565,
+    39.742919
+],
+  "geometry": {"coordinates":[-75.548565,39.742919],"type":"Point"}
+}

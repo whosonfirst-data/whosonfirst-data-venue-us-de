@@ -1,0 +1,71 @@
+{
+  "id": 873473797,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.662463,39.62766,-75.662463,39.62766",
+    "geom:latitude":39.62766,
+    "geom:longitude":-75.662463,
+    "iso:country":"US",
+    "sg:address":"9 Linn Ct",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 275 8675",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0130HjzDYLAgmGOesl132v_39.627660_-75.662463@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221874,
+    "wof:geomhash":"0a4a834adac59d932d13ff9b4562091a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873473797
+        }
+    ],
+    "wof:id":873473797,
+    "wof:lastmodified":1464221874,
+    "wof:name":"Hertiage Builders",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.662463,
+    39.62766,
+    -75.662463,
+    39.62766
+],
+  "geometry": {"coordinates":[-75.662463,39.62766],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 873514651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.753448,39.613289,-75.753448,39.613289",
+    "geom:latitude":39.613289,
+    "geom:longitude":-75.753448,
+    "iso:country":"US",
+    "sg:address":"229 Lake Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 0002",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "self",
+        "warehouses-merchandise"
+    ],
+    "sg:website":"http://www.williamscommunication.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61wcfIeKEhIkYgHWfj8rjX_39.613289_-75.753448@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223602,
+    "wof:geomhash":"3c2e48f8673bff6b78c2cc0717b79ca1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873514651
+        }
+    ],
+    "wof:id":873514651,
+    "wof:lastmodified":1464223602,
+    "wof:name":"Vyvx",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "warehouses-merchandise"
+    ]
+},
+  "bbox": [
+    -75.753448,
+    39.613289,
+    -75.753448,
+    39.613289
+],
+  "geometry": {"coordinates":[-75.75344800000001,39.613289],"type":"Point"}
+}

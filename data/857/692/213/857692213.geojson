@@ -1,0 +1,75 @@
+{
+  "id": 857692213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.747272,39.651672,-75.747272,39.651672",
+    "geom:latitude":39.651672,
+    "geom:longitude":-75.747272,
+    "iso:country":"US",
+    "sg:address":"1215 Old Cooches Bridge Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 369 6380",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "heating",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931727,
+        102083891,
+        85845315
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79YVwKTIb92j8BHKgKEMkt_39.651672_-75.747272@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220665,
+    "wof:geomhash":"35565fd894dcacd6f95f617ef97d1544",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931727,
+            "neighbourhood_id":85845315,
+            "region_id":85688611,
+            "venue_id":857692213
+        }
+    ],
+    "wof:id":857692213,
+    "wof:lastmodified":1464220665,
+    "wof:name":"Kylen & Foss Heating and Air C",
+    "wof:parent_id":85845315,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.747272,
+    39.651672,
+    -75.747272,
+    39.651672
+],
+  "geometry": {"coordinates":[-75.747272,39.651672],"type":"Point"}
+}

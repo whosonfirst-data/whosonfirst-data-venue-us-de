@@ -1,0 +1,73 @@
+{
+  "id": 857716743,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.608788,39.735159,-75.608788,39.735159",
+    "geom:latitude":39.735159,
+    "geom:longitude":-75.608788,
+    "iso:country":"US",
+    "sg:address":"202 Brighton Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 999 8486",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "weather",
+        "stripping",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4QCCOL7gzN5YeGO63COfdX_39.735159_-75.608788@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221178,
+    "wof:geomhash":"4b443df8e405b7bccf0219d06abf5ecd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857716743
+        }
+    ],
+    "wof:id":857716743,
+    "wof:lastmodified":1464221178,
+    "wof:name":"A Lane & Son",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "weather",
+        "stripping",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.608788,
+    39.735159,
+    -75.608788,
+    39.735159
+],
+  "geometry": {"coordinates":[-75.608788,39.735159],"type":"Point"}
+}

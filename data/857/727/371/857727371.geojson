@@ -1,0 +1,71 @@
+{
+  "id": 857727371,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.256842,38.543,-75.256842,38.543",
+    "geom:latitude":38.543,
+    "geom:longitude":-75.256842,
+    "iso:country":"US",
+    "sg:address":"601 Clayton St",
+    "sg:city":"Dagsboro",
+    "sg:classifiers":[
+        {
+            "category":"Utilities",
+            "subcategory":"Cable",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 732 6600",
+    "sg:postcode":"19939",
+    "sg:province":"DE",
+    "sg:tags":[
+        "television"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5jPDVH4H3VEH8b2Wqxh2Zo_38.543000_-75.256842@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221385,
+    "wof:geomhash":"e99491367960865e86fcab2cf6c73e6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":857727371
+        }
+    ],
+    "wof:id":857727371,
+    "wof:lastmodified":1464221385,
+    "wof:name":"Mediacom",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "television"
+    ]
+},
+  "bbox": [
+    -75.256842,
+    38.543,
+    -75.256842,
+    38.543
+],
+  "geometry": {"coordinates":[-75.25684200000001,38.543],"type":"Point"}
+}

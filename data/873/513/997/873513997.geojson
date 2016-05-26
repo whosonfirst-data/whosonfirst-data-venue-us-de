@@ -1,0 +1,74 @@
+{
+  "id": 873513997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.543798,39.191628,-75.543798,39.191628",
+    "geom:latitude":39.191628,
+    "geom:longitude":-75.543798,
+    "iso:country":"US",
+    "sg:address":"1365 N Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/72255-sbarro/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 9252",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_61J7cIHWKbJvFXkooH1Elr_39.191580_-75.543737@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223561,
+    "wof:geomhash":"ef1e7bc1718acee45ec19b7b307d23b9",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873513997
+        }
+    ],
+    "wof:id":873513997,
+    "wof:lastmodified":1464223561,
+    "wof:name":"Sbarro",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.543798,
+    39.191628,
+    -75.543798,
+    39.191628
+],
+  "geometry": {"coordinates":[-75.543798,39.191628],"type":"Point"}
+}

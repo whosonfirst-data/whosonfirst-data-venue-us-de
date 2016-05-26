@@ -1,0 +1,71 @@
+{
+  "id": 873496451,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.640622,39.742731,-75.640622,39.742731",
+    "geom:latitude":39.742731,
+    "geom:longitude":-75.640622,
+    "iso:country":"US",
+    "sg:address":"2616 Maple Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 6464",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tile",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0WPwHZWZZIdROCeglzN6Vn_39.742731_-75.640622@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222797,
+    "wof:geomhash":"9d4c7695aa23a4951fd8b2ddccd8616c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873496451
+        }
+    ],
+    "wof:id":873496451,
+    "wof:lastmodified":1464222797,
+    "wof:name":"Art-Craft Tile Co",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tile",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.640622,
+    39.742731,
+    -75.640622,
+    39.742731
+],
+  "geometry": {"coordinates":[-75.64062199999999,39.742731],"type":"Point"}
+}

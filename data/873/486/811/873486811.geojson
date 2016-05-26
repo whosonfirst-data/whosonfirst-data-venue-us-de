@@ -1,0 +1,71 @@
+{
+  "id": 873486811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59319,39.677081,-75.59319,39.677081",
+    "geom:latitude":39.677081,
+    "geom:longitude":-75.59319,
+    "iso:country":"US",
+    "sg:address":"118 N Dupont Hwy",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 322 1712",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "telephone",
+        "cellular"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814657,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3pF1kW5RrkKRoP33SsPslm_39.677081_-75.593190@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222371,
+    "wof:geomhash":"21e63d0aceb3133e518646877c6a2712",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814657,
+            "region_id":85688611,
+            "venue_id":873486811
+        }
+    ],
+    "wof:id":873486811,
+    "wof:lastmodified":1464222371,
+    "wof:name":"Sprint PCS",
+    "wof:parent_id":85814657,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "telephone",
+        "cellular"
+    ]
+},
+  "bbox": [
+    -75.59319,
+    39.677081,
+    -75.59319,
+    39.677081
+],
+  "geometry": {"coordinates":[-75.59319000000001,39.677081],"type":"Point"}
+}

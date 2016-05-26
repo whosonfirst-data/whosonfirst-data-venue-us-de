@@ -1,0 +1,73 @@
+{
+  "id": 873512111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.76508,39.673268,-75.76508,39.673268",
+    "geom:latitude":39.673268,
+    "geom:longitude":-75.76508,
+    "iso:country":"US",
+    "sg:address":"650 Lehigh Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 5670",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931551,
+        102083891,
+        85841135
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4H3vUV85Uib0bKbAOMRwQv_39.673433_-75.764556@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223479,
+    "wof:geomhash":"76ef3494e35570910c792bfbdcad8539",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931551,
+            "neighbourhood_id":85841135,
+            "region_id":85688611,
+            "venue_id":873512111
+        }
+    ],
+    "wof:id":873512111,
+    "wof:lastmodified":1464223479,
+    "wof:name":"Park Place Apartments",
+    "wof:parent_id":85841135,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.76508,
+    39.673268,
+    -75.76508,
+    39.673268
+],
+  "geometry": {"coordinates":[-75.76508,39.673268],"type":"Point"}
+}

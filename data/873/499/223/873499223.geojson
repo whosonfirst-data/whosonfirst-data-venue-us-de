@@ -1,0 +1,71 @@
+{
+  "id": 873499223,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.753024,39.615714,-75.753024,39.615714",
+    "geom:latitude":39.615714,
+    "geom:longitude":-75.753024,
+    "iso:country":"US",
+    "sg:address":"223 Lake Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Medical Lab",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 292 8888",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "identification",
+        "bacteria"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85812409,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_19JgQvnSS9uqNbWebtUagS_39.615714_-75.753024@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222908,
+    "wof:geomhash":"1697f4aeac39a0fb38d1e4fbb0664ef7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85812409,
+            "region_id":85688611,
+            "venue_id":873499223
+        }
+    ],
+    "wof:id":873499223,
+    "wof:lastmodified":1464222908,
+    "wof:name":"Accugenix",
+    "wof:parent_id":85812409,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "identification",
+        "bacteria"
+    ]
+},
+  "bbox": [
+    -75.753024,
+    39.615714,
+    -75.753024,
+    39.615714
+],
+  "geometry": {"coordinates":[-75.753024,39.615714],"type":"Point"}
+}

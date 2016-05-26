@@ -1,0 +1,75 @@
+{
+  "id": 857717749,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.369717,38.680798,-75.369717,38.680798",
+    "geom:latitude":38.680798,
+    "geom:longitude":-75.369717,
+    "iso:country":"US",
+    "sg:address":"21606 Park Ave",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 856 6150",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6h0eogHHFG4pac51E7WZ0x_38.680798_-75.369717@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221199,
+    "wof:geomhash":"ec6d809c210c05928b0160c7db6732e6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857717749
+        }
+    ],
+    "wof:id":857717749,
+    "wof:lastmodified":1464221199,
+    "wof:name":"Downs Service Center Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "station",
+        "gasoline",
+        "general"
+    ]
+},
+  "bbox": [
+    -75.369717,
+    38.680798,
+    -75.369717,
+    38.680798
+],
+  "geometry": {"coordinates":[-75.36971699999999,38.680798],"type":"Point"}
+}

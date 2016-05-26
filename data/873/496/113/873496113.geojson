@@ -1,0 +1,73 @@
+{
+  "id": 873496113,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.559727,39.083238,-75.559727,39.083238",
+    "geom:latitude":39.083238,
+    "geom:longitude":-75.559727,
+    "iso:country":"US",
+    "sg:address":"2577 Upper King Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3432",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1DQH0SxIr4YoTLmYHO5dEi_39.083238_-75.559727@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222784,
+    "wof:geomhash":"aa1d9b66061611e33f09c7b8d19ae030",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873496113
+        }
+    ],
+    "wof:id":873496113,
+    "wof:lastmodified":1464222784,
+    "wof:name":"Lee Townsend Electric Contr",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.559727,
+    39.083238,
+    -75.559727,
+    39.083238
+],
+  "geometry": {"coordinates":[-75.559727,39.083238],"type":"Point"}
+}

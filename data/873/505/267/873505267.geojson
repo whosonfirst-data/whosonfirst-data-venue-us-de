@@ -1,0 +1,71 @@
+{
+  "id": 873505267,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.559659,39.119669,-75.559659,39.119669",
+    "geom:latitude":39.119669,
+    "geom:longitude":-75.559659,
+    "iso:country":"US",
+    "sg:address":"38 N Mechanic St",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Personal",
+            "subcategory":"Beauty Salon",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 9711",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "shop"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2jnn3TeCXwXCGRl9WfS3Xw_39.119669_-75.559659@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223171,
+    "wof:geomhash":"c9cf6a84911b89bea87ec0177f113662",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873505267
+        }
+    ],
+    "wof:id":873505267,
+    "wof:lastmodified":1464223171,
+    "wof:name":"Golden Shears",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "shop"
+    ]
+},
+  "bbox": [
+    -75.559659,
+    39.119669,
+    -75.559659,
+    39.119669
+],
+  "geometry": {"coordinates":[-75.559659,39.119669],"type":"Point"}
+}

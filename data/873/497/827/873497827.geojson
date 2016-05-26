@@ -1,0 +1,73 @@
+{
+  "id": 873497827,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.587529,38.456306,-75.587529,38.456306",
+    "geom:latitude":38.456306,
+    "geom:longitude":-75.587529,
+    "iso:country":"US",
+    "sg:address":"8787 Waller Rd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 846 3744",
+    "sg:postcode":"19940",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2KUM5AA0yUutBhUhmoWLb8_38.456306_-75.587529@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222855,
+    "wof:geomhash":"8140c227be25fe7393d430e5cb2ca6ce",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873497827
+        }
+    ],
+    "wof:id":873497827,
+    "wof:lastmodified":1464222855,
+    "wof:name":"Delmar Auto Ctr",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.587529,
+    38.456306,
+    -75.587529,
+    38.456306
+],
+  "geometry": {"coordinates":[-75.587529,38.456306],"type":"Point"}
+}

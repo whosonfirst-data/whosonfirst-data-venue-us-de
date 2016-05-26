@@ -1,0 +1,69 @@
+{
+  "id": 873484997,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.506511,39.766094,-75.506511,39.766094",
+    "geom:latitude":39.766094,
+    "geom:longitude":-75.506511,
+    "iso:country":"US",
+    "sg:address":"107 Beverly Pl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 6469",
+    "sg:postcode":"19809",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85821359,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7A0gEUiKWp6ByNuxPJgFF9_39.766094_-75.506511@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222306,
+    "wof:geomhash":"d6e147903a7531f991cd8240293715df",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85821359,
+            "region_id":85688611,
+            "venue_id":873484997
+        }
+    ],
+    "wof:id":873484997,
+    "wof:lastmodified":1464222306,
+    "wof:name":"Sound Tech Systems",
+    "wof:parent_id":85821359,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.506511,
+    39.766094,
+    -75.506511,
+    39.766094
+],
+  "geometry": {"coordinates":[-75.506511,39.766094],"type":"Point"}
+}

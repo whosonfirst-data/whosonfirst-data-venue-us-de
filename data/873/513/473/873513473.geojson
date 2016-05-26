@@ -1,0 +1,72 @@
+{
+  "id": 873513473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.593396,39.754422,-75.593396,39.754422",
+    "geom:latitude":39.754422,
+    "geom:longitude":-75.593396,
+    "iso:country":"US",
+    "sg:address":"3403 Lancaster Pike ",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/piedmont/81437-papa-johns-pizza/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 429 7272",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2TryMRrAV93FmPN8ag1wV8_39.754422_-75.593396@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223531,
+    "wof:geomhash":"5b55c69b37339f82c806e2c01ac27063",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":873513473
+        }
+    ],
+    "wof:id":873513473,
+    "wof:lastmodified":1464223531,
+    "wof:name":"Papa John's Pizza",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.593396,
+    39.754422,
+    -75.593396,
+    39.754422
+],
+  "geometry": {"coordinates":[-75.593396,39.754422],"type":"Point"}
+}

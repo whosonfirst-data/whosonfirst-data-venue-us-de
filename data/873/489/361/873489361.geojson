@@ -1,0 +1,71 @@
+{
+  "id": 873489361,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658514,39.718869,-75.658514,39.718869",
+    "geom:latitude":39.718869,
+    "geom:longitude":-75.658514,
+    "iso:country":"US",
+    "sg:address":"2113 Ferguson Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 1246",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6VqBjleLGjExMR85ohoMuu_39.718869_-75.658514@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222469,
+    "wof:geomhash":"47fd594a103cbb0c0847600ba13e4a63",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873489361
+        }
+    ],
+    "wof:id":873489361,
+    "wof:lastmodified":1464222469,
+    "wof:name":"Bill Preston & Company",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.658514,
+    39.718869,
+    -75.658514,
+    39.718869
+],
+  "geometry": {"coordinates":[-75.658514,39.718869],"type":"Point"}
+}

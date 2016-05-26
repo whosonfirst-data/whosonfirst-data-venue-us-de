@@ -1,0 +1,71 @@
+{
+  "id": 873508687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.596522,39.712891,-75.596522,39.712891",
+    "geom:latitude":39.712891,
+    "geom:longitude":-75.596522,
+    "iso:country":"US",
+    "sg:address":"404 Harvey Dr",
+    "sg:city":"Newport",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Repair Shop",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 995 2000",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "refinishing",
+        "furniture"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_15xcLkS5b8Q3GAMlZTHBwO_39.712891_-75.596522@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223319,
+    "wof:geomhash":"6f5dd924bf91da4a5744072e72fceae4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873508687
+        }
+    ],
+    "wof:id":873508687,
+    "wof:lastmodified":1464223319,
+    "wof:name":"American Furniture Refinishing",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "refinishing",
+        "furniture"
+    ]
+},
+  "bbox": [
+    -75.596522,
+    39.712891,
+    -75.596522,
+    39.712891
+],
+  "geometry": {"coordinates":[-75.59652199999999,39.712891],"type":"Point"}
+}

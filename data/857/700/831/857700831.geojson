@@ -1,0 +1,73 @@
+{
+  "id": 857700831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.54497,39.726248,-75.54497,39.726248",
+    "geom:latitude":39.726248,
+    "geom:longitude":-75.54497,
+    "iso:country":"US",
+    "sg:address":"901 Green St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 7341",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888523
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4JSDrqvnR8Mb5DObydvMog_39.726248_-75.544970@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220831,
+    "wof:geomhash":"c8f543547e544710f871d63cd4b4dba7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888523,
+            "region_id":85688611,
+            "venue_id":857700831
+        }
+    ],
+    "wof:id":857700831,
+    "wof:lastmodified":1464220831,
+    "wof:name":"Empire Roofing Company",
+    "wof:parent_id":85888523,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.54497,
+    39.726248,
+    -75.54497,
+    39.726248
+],
+  "geometry": {"coordinates":[-75.54497000000001,39.726248],"type":"Point"}
+}

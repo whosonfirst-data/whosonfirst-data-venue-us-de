@@ -1,0 +1,86 @@
+{
+  "id": 873493271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698345,39.789504,-75.698345,39.789504",
+    "geom:latitude":39.789504,
+    "geom:longitude":-75.698345,
+    "iso:country":"US",
+    "sg:address":"7465 Lancaster Pike",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Home & Garden",
+            "subcategory":"Furniture",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 7770",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "interior",
+        "fine",
+        "window",
+        "design",
+        "furnishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1llWaOpKMxjWXBekC6c2Jc_39.789504_-75.698345@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222616,
+    "wof:geomhash":"73f4f68933df036ed577f1dbc9f7cee7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873493271
+        }
+    ],
+    "wof:id":873493271,
+    "wof:lastmodified":1464222616,
+    "wof:name":"Interior Concepts Inc",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "interior",
+        "fine",
+        "window",
+        "design",
+        "furnishing"
+    ]
+},
+  "bbox": [
+    -75.698345,
+    39.789504,
+    -75.698345,
+    39.789504
+],
+  "geometry": {"coordinates":[-75.698345,39.789504],"type":"Point"}
+}

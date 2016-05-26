@@ -1,0 +1,73 @@
+{
+  "id": 857731831,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.516472,39.229174,-75.516472,39.229174",
+    "geom:latitude":39.229174,
+    "geom:longitude":-75.516472,
+    "iso:country":"US",
+    "sg:address":"2953 Dyke Branch Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Computers & Home Electronics",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 2999",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "equipment",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3v5Lnw4bkzBelJWopPh5Ee_39.229174_-75.516472@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221480,
+    "wof:geomhash":"f431a441fa8d462b7ea8220b86345fb4",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857731831
+        }
+    ],
+    "wof:id":857731831,
+    "wof:lastmodified":1464221480,
+    "wof:name":"Bits & Bytes",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "equipment",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.516472,
+    39.229174,
+    -75.516472,
+    39.229174
+],
+  "geometry": {"coordinates":[-75.51647199999999,39.229174],"type":"Point"}
+}

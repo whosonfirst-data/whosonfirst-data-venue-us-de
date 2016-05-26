@@ -1,0 +1,76 @@
+{
+  "id": 873514005,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.514506,39.162661,-75.514506,39.162661",
+    "geom:latitude":39.162661,
+    "geom:longitude":-75.514506,
+    "iso:country":"US",
+    "sg:address":"23 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/dover/239537-wings-to-go/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 8144",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "wing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rXjQPdLVouDanWOdVVXRO_39.163039_-75.514785@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223561,
+    "wof:geomhash":"0a29f6c05fd91fa5fb9aba3e6672c429",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873514005
+        }
+    ],
+    "wof:id":873514005,
+    "wof:lastmodified":1464223561,
+    "wof:name":"Wings To Go",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "wing"
+    ]
+},
+  "bbox": [
+    -75.514506,
+    39.162661,
+    -75.514506,
+    39.162661
+],
+  "geometry": {"coordinates":[-75.514506,39.162661],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 873486925,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.555993,38.447642,-75.555993,38.447642",
+    "geom:latitude":38.447642,
+    "geom:longitude":-75.555993,
+    "iso:country":"US",
+    "sg:address":"9249 Stage Rd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Wholesale",
+            "subcategory":"Vending Machines",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 896 3838",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85949177,
+        102082715,
+        85838429
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_022jLqmSGzsHd8vBonYonj_38.447642_-75.555993@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222375,
+    "wof:geomhash":"58cb6d34d21f4daa48ac7c779176ed94",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "locality_id":85949177,
+            "neighbourhood_id":85838429,
+            "region_id":85688501,
+            "venue_id":873486925
+        }
+    ],
+    "wof:id":873486925,
+    "wof:lastmodified":1464222375,
+    "wof:name":"Shore Good Vending",
+    "wof:parent_id":85838429,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator"
+    ]
+},
+  "bbox": [
+    -75.555993,
+    38.447642,
+    -75.555993,
+    38.447642
+],
+  "geometry": {"coordinates":[-75.555993,38.447642],"type":"Point"}
+}

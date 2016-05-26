@@ -1,0 +1,75 @@
+{
+  "id": 873485759,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.693111,39.783675,-75.693111,39.783675",
+    "geom:latitude":39.783675,
+    "geom:longitude":-75.693111,
+    "iso:country":"US",
+    "sg:address":"514 Garrick Rd",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 0800",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "sg:tags":[
+        "video",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4aSAZmVCCUjwiFzFiJCZyO_39.783675_-75.693111@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222333,
+    "wof:geomhash":"233448facba150cc348e623bf95f2f3c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":873485759
+        }
+    ],
+    "wof:id":873485759,
+    "wof:lastmodified":1464222333,
+    "wof:name":"Video Show Place",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "video",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.693111,
+    39.783675,
+    -75.693111,
+    39.783675
+],
+  "geometry": {"coordinates":[-75.693111,39.783675],"type":"Point"}
+}

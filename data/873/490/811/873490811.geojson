@@ -1,0 +1,73 @@
+{
+  "id": 873490811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.660436,39.633916,-75.660436,39.633916",
+    "geom:latitude":39.633916,
+    "geom:longitude":-75.660436,
+    "iso:country":"US",
+    "sg:address":"1011 Governors Pl",
+    "sg:city":"Bear",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 9707",
+    "sg:postcode":"19701",
+    "sg:province":"DE",
+    "sg:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4eoMByx8oN3KOetxnHVPS9_39.633916_-75.660436@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222524,
+    "wof:geomhash":"e9e6b5f8740606e27c2cd401db26cf4b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873490811
+        }
+    ],
+    "wof:id":873490811,
+    "wof:lastmodified":1464222524,
+    "wof:name":"Governor's Square Cleaners",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "cleaners",
+        "plant",
+        "drycleaning"
+    ]
+},
+  "bbox": [
+    -75.660436,
+    39.633916,
+    -75.660436,
+    39.633916
+],
+  "geometry": {"coordinates":[-75.660436,39.633916],"type":"Point"}
+}

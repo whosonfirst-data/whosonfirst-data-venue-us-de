@@ -1,0 +1,95 @@
+{
+  "id": 873516111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.663714,39.696537,-75.663714,39.696537",
+    "geom:latitude":39.696537,
+    "geom:longitude":-75.663714,
+    "iso:country":"US",
+    "sg:address":"4923 Ogletown Stanton Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Professional",
+            "subcategory":"Management & Consulting",
+            "type":"Services"
+        },
+        {
+            "category":"Community Center",
+            "subcategory":"",
+            "type":"Public Place"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 2333",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "consultant",
+        "medical",
+        "academic",
+        "science",
+        "surgeon"
+    ],
+    "sg:website":"http://www.eyeconsultantsde.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833473,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3C5VLvulOOzBGmjawR8nLR_39.696537_-75.663714@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223667,
+    "wof:geomhash":"ca794bf498c0adaa1d906d2fe85f3389",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833473,
+            "region_id":85688611,
+            "venue_id":873516111
+        }
+    ],
+    "wof:id":873516111,
+    "wof:lastmodified":1464223667,
+    "wof:name":"Eye Consultants",
+    "wof:parent_id":85833473,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "consultant",
+        "medical",
+        "academic",
+        "science",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.663714,
+    39.696537,
+    -75.663714,
+    39.696537
+],
+  "geometry": {"coordinates":[-75.663714,39.696537],"type":"Point"}
+}

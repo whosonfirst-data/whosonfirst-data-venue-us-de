@@ -1,0 +1,73 @@
+{
+  "id": 873489229,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.39829,38.896888,-75.39829,38.896888",
+    "geom:latitude":38.896888,
+    "geom:longitude":-75.39829,
+    "iso:country":"US",
+    "sg:address":"18 Brandywine Rd",
+    "sg:city":"Milford",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 422 2197",
+    "sg:postcode":"19963",
+    "sg:province":"DE",
+    "sg:tags":[
+        "operator",
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931459,
+        102083887,
+        85808029
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0GjoKp08c6wPvnQhhW9ce7_38.896888_-75.398290@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222465,
+    "wof:geomhash":"eb088d0ea215c3e6b7370e6412202f5d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931459,
+            "neighbourhood_id":85808029,
+            "region_id":85688611,
+            "venue_id":873489229
+        }
+    ],
+    "wof:id":873489229,
+    "wof:lastmodified":1464222465,
+    "wof:name":"Parsons Transport LLC",
+    "wof:parent_id":85808029,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "operator",
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.39829,
+    38.896888,
+    -75.39829,
+    38.896888
+],
+  "geometry": {"coordinates":[-75.39829,38.896888],"type":"Point"}
+}

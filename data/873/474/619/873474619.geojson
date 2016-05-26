@@ -1,0 +1,73 @@
+{
+  "id": 873474619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.559524,39.76611,-75.559524,39.76611",
+    "geom:latitude":39.76611,
+    "geom:longitude":-75.559524,
+    "iso:country":"US",
+    "sg:address":"2309 N Grant Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Recreation",
+            "subcategory":"",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 777 5610",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "tennis",
+        "instruction"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4oc4lnHL5G0DNWPkSiNSVq_39.766110_-75.559524@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221901,
+    "wof:geomhash":"c91d5cb25cc24417cb8c31b18825c674",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873474619
+        }
+    ],
+    "wof:id":873474619,
+    "wof:lastmodified":1464221901,
+    "wof:name":"USTA-Ms-Delaware District",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "tennis",
+        "instruction"
+    ]
+},
+  "bbox": [
+    -75.559524,
+    39.76611,
+    -75.559524,
+    39.76611
+],
+  "geometry": {"coordinates":[-75.559524,39.76611],"type":"Point"}
+}

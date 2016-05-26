@@ -1,0 +1,71 @@
+{
+  "id": 873492341,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547078,39.224657,-75.547078,39.224657",
+    "geom:latitude":39.224657,
+    "geom:longitude":-75.547078,
+    "iso:country":"US",
+    "sg:address":"1163 E Denneys Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 736 6860",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "painter"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_79Wsayt1TURVVhazCokHCI_39.224657_-75.547078@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222577,
+    "wof:geomhash":"85f9dce6ace4d4f3d9332ae2ecac163c",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873492341
+        }
+    ],
+    "wof:id":873492341,
+    "wof:lastmodified":1464222577,
+    "wof:name":"Vernon Wyatt Pro Paint",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "painter"
+    ]
+},
+  "bbox": [
+    -75.547078,
+    39.224657,
+    -75.547078,
+    39.224657
+],
+  "geometry": {"coordinates":[-75.547078,39.224657],"type":"Point"}
+}

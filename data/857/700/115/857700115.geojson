@@ -1,0 +1,83 @@
+{
+  "id": 857700115,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.491689,39.156467,-75.491689,39.156467",
+    "geom:latitude":39.156467,
+    "geom:longitude":-75.491689,
+    "iso:country":"US",
+    "sg:address":"1240 S Little Creek Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1331",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "heating",
+        "contractor"
+    ],
+    "sg:website":"www.dcap.net",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Zo7K6WnbaEQ2TicFhlZHe_39.156467_-75.491689@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220815,
+    "wof:geomhash":"8ba38342b651f1aec77856f915a8ffa5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":857700115
+        }
+    ],
+    "wof:id":857700115,
+    "wof:lastmodified":1464220815,
+    "wof:name":"J & W Electric Inc",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "heating",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.491689,
+    39.156467,
+    -75.491689,
+    39.156467
+],
+  "geometry": {"coordinates":[-75.49168899999999,39.156467],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857702509,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.733674,39.685196,-75.733674,39.685196",
+    "geom:latitude":39.685196,
+    "geom:longitude":-75.733674,
+    "iso:country":"US",
+    "sg:address":"400 Ogletown Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 6262",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "dealer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Uxy1Ph9Nf6tApij7bgYq_39.685196_-75.733674@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220869,
+    "wof:geomhash":"9ff53d2c79d82e95175cef5637d6cdc0",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":857702509
+        }
+    ],
+    "wof:id":857702509,
+    "wof:lastmodified":1464220869,
+    "wof:name":"Newark Toyota World",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "dealer"
+    ]
+},
+  "bbox": [
+    -75.733674,
+    39.685196,
+    -75.733674,
+    39.685196
+],
+  "geometry": {"coordinates":[-75.73367399999999,39.685196],"type":"Point"}
+}

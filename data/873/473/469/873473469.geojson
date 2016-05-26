@@ -1,0 +1,73 @@
+{
+  "id": 873473469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.695765,39.743525,-75.695765,39.743525",
+    "geom:latitude":39.743525,
+    "geom:longitude":-75.695765,
+    "iso:country":"US",
+    "sg:address":"4732 Limestone Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 892 2333",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931759,
+        102083891,
+        85830731
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0xmMpmFufGi9ZyxLSMVTUP_39.743525_-75.695765@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221863,
+    "wof:geomhash":"2fdb5227a250515381a4630d71c5851a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931759,
+            "neighbourhood_id":85830731,
+            "region_id":85688611,
+            "venue_id":873473469
+        }
+    ],
+    "wof:id":873473469,
+    "wof:lastmodified":1464221863,
+    "wof:name":"Roadhouse Steak Joint",
+    "wof:parent_id":85830731,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.695765,
+    39.743525,
+    -75.695765,
+    39.743525
+],
+  "geometry": {"coordinates":[-75.69576499999999,39.743525],"type":"Point"}
+}

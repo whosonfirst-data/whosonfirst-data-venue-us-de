@@ -1,0 +1,74 @@
+{
+  "id": 873522647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.530403,39.1311,-75.530403,39.1311",
+    "geom:latitude":39.1311,
+    "geom:longitude":-75.530403,
+    "iso:country":"US",
+    "sg:address":"1534 S Governors Ave Ste A",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Deli",
+            "subcategory":"",
+            "type":"Food & Drink"
+        },
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 8862",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3WHFGs70r6R6imzL9iwmLA_39.131100_-75.530403@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223994,
+    "wof:geomhash":"12e76f439ecc4099d39300a7cd667347",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873522647
+        }
+    ],
+    "wof:id":873522647,
+    "wof:lastmodified":1464223994,
+    "wof:name":"Curtiss Landing",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.530403,
+    39.1311,
+    -75.530403,
+    39.1311
+],
+  "geometry": {"coordinates":[-75.53040300000001,39.1311],"type":"Point"}
+}

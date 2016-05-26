@@ -1,0 +1,69 @@
+{
+  "id": 873489567,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545469,38.951266,-75.545469,38.951266",
+    "geom:latitude":38.951266,
+    "geom:longitude":-75.545469,
+    "iso:country":"US",
+    "sg:address":"934 Carpenter Bridge Rd",
+    "sg:city":"Harrington",
+    "sg:classifiers":[
+        {
+            "category":"Farming",
+            "subcategory":"Poultry Farm",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 398 3746",
+    "sg:postcode":"19952",
+    "sg:province":"DE",
+    "sg:tags":[
+        "chicken"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2tMP4sM289Ux9lraCwHhvR_38.951266_-75.545469@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222477,
+    "wof:geomhash":"5f9d903270bda29622b4bf8eeaedc50d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873489567
+        }
+    ],
+    "wof:id":873489567,
+    "wof:lastmodified":1464222477,
+    "wof:name":"Charles Cain",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "chicken"
+    ]
+},
+  "bbox": [
+    -75.545469,
+    38.951266,
+    -75.545469,
+    38.951266
+],
+  "geometry": {"coordinates":[-75.545469,38.951266],"type":"Point"}
+}

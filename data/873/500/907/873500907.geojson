@@ -1,0 +1,71 @@
+{
+  "id": 873500907,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.545795,39.785419,-75.545795,39.785419",
+    "geom:latitude":39.785419,
+    "geom:longitude":-75.545795,
+    "iso:country":"US",
+    "sg:address":"1709 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 888 2737",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "duplication",
+        "tape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85814293,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4nniqiQ0oCOzYXD1oJY2KA_39.785419_-75.545795@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222981,
+    "wof:geomhash":"3299cfe0bdf54d1d0514fda90e28032d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85814293,
+            "region_id":85688611,
+            "venue_id":873500907
+        }
+    ],
+    "wof:id":873500907,
+    "wof:lastmodified":1464222981,
+    "wof:name":"Delaware Digital Video Factory",
+    "wof:parent_id":85814293,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "duplication",
+        "tape"
+    ]
+},
+  "bbox": [
+    -75.545795,
+    39.785419,
+    -75.545795,
+    39.785419
+],
+  "geometry": {"coordinates":[-75.545795,39.785419],"type":"Point"}
+}

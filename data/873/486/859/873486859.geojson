@@ -1,0 +1,81 @@
+{
+  "id": 873486859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.520032,39.155343,-75.520032,39.155343",
+    "geom:latitude":39.155343,
+    "geom:longitude":-75.520032,
+    "iso:country":"US",
+    "sg:address":"136 E Water St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Organizations",
+            "subcategory":"Non-profit Organization",
+            "type":"Services"
+        },
+        {
+            "category":"Organizations",
+            "subcategory":"Labor Organization",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5834",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consulting",
+        "management"
+    ],
+    "sg:website":"www.dsea.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85822185
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_28hP6wcODu4nFnKVuTUgJ8_39.155343_-75.520032@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222372,
+    "wof:geomhash":"5ad225b4d9c76c9a5a9b1d21f785ae94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85822185,
+            "region_id":85688611,
+            "venue_id":873486859
+        }
+    ],
+    "wof:id":873486859,
+    "wof:lastmodified":1464222372,
+    "wof:name":"Delaware State Education Assn",
+    "wof:parent_id":85822185,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "management"
+    ]
+},
+  "bbox": [
+    -75.520032,
+    39.155343,
+    -75.520032,
+    39.155343
+],
+  "geometry": {"coordinates":[-75.520032,39.155343],"type":"Point"}
+}

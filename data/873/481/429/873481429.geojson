@@ -1,0 +1,71 @@
+{
+  "id": 873481429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.569415,39.764508,-75.569415,39.764508",
+    "geom:latitude":39.764508,
+    "geom:longitude":-75.569415,
+    "iso:country":"US",
+    "sg:address":"2307 Willard St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 652 2663",
+    "sg:postcode":"19806",
+    "sg:province":"DE",
+    "sg:tags":[
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931573,
+        102083891,
+        85828133
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0KuM6qu4DEQRwzx0A0aZ4E_39.764508_-75.569415@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222170,
+    "wof:geomhash":"e1350aa43248c99fabbf81ab7e10d885",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85828133,
+            "region_id":85688611,
+            "venue_id":873481429
+        }
+    ],
+    "wof:id":873481429,
+    "wof:lastmodified":1464222170,
+    "wof:name":"George Ball & Assoc Inc",
+    "wof:parent_id":85828133,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.569415,
+    39.764508,
+    -75.569415,
+    39.764508
+],
+  "geometry": {"coordinates":[-75.56941500000001,39.764508],"type":"Point"}
+}

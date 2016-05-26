@@ -1,0 +1,78 @@
+{
+  "id": 873515955,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.735397,39.747971,-75.735397,39.747971",
+    "geom:latitude":39.747971,
+    "geom:longitude":-75.735397,
+    "iso:country":"US",
+    "sg:address":"1 Somerset Ln",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 740 9449",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85842215,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2ScSx1QHuO7ZVHusCNE15S_39.747971_-75.735397@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223661,
+    "wof:geomhash":"2381df88e208fc38cbcaeb8c9fef5e3a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85842215,
+            "region_id":85688611,
+            "venue_id":873515955
+        }
+    ],
+    "wof:id":873515955,
+    "wof:lastmodified":1464223661,
+    "wof:name":"Sheraton-Gibson Homes",
+    "wof:parent_id":85842215,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "home",
+        "builder",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.735397,
+    39.747971,
+    -75.735397,
+    39.747971
+],
+  "geometry": {"coordinates":[-75.73539700000001,39.747971],"type":"Point"}
+}

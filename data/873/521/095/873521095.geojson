@@ -1,0 +1,85 @@
+{
+  "id": 873521095,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.486642,39.152815,-75.486642,39.152815",
+    "geom:latitude":39.152815,
+    "geom:longitude":-75.486642,
+    "iso:country":"US",
+    "sg:address":"730 Horsepond Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        },
+        {
+            "category":"Military Area",
+            "subcategory":"Armory",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 7172",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ],
+    "sg:website":"http://www.lightningfence.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3jOlvMN5TbSy7zivUwfHya_39.152815_-75.486642@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223928,
+    "wof:geomhash":"407ecb3a04abb0fcb6a7b15790bc82a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873521095
+        }
+    ],
+    "wof:id":873521095,
+    "wof:lastmodified":1464223928,
+    "wof:name":"Fencemax.Com",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repair",
+        "fence-sales",
+        "fence",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.486642,
+    39.152815,
+    -75.486642,
+    39.152815
+],
+  "geometry": {"coordinates":[-75.486642,39.152815],"type":"Point"}
+}

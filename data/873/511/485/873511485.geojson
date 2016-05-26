@@ -1,0 +1,73 @@
+{
+  "id": 873511485,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.540901,39.105,-75.540901,39.105",
+    "geom:latitude":39.105,
+    "geom:longitude":-75.540901,
+    "iso:country":"US",
+    "sg:address":"4009 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Automobile Sales",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 8977",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "car",
+        "used"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1KBwykMo4CHfJScAmqIG6L_39.104836_-75.541034@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223440,
+    "wof:geomhash":"3b418998e48d80fd5eaac34c1a5603cd",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873511485
+        }
+    ],
+    "wof:id":873511485,
+    "wof:lastmodified":1464223440,
+    "wof:name":"F & L Auto Sales",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "car",
+        "used"
+    ]
+},
+  "bbox": [
+    -75.540901,
+    39.105,
+    -75.540901,
+    39.105
+],
+  "geometry": {"coordinates":[-75.54090100000001,39.105],"type":"Point"}
+}

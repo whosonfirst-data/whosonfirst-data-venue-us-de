@@ -1,0 +1,69 @@
+{
+  "id": 873468161,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698962,39.685673,-75.698962,39.685673",
+    "geom:latitude":39.685673,
+    "geom:longitude":-75.698962,
+    "iso:country":"US",
+    "sg:address":"2 Mill Park Ct",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 7373",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0mw5UhKcL8rZHiI4sLDvS6_39.685673_-75.698962@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221658,
+    "wof:geomhash":"d8d0bc8c069dd81c77e9601a0c1270f7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873468161
+        }
+    ],
+    "wof:id":873468161,
+    "wof:lastmodified":1464221658,
+    "wof:name":"Home Designs Inc",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.698962,
+    39.685673,
+    -75.698962,
+    39.685673
+],
+  "geometry": {"coordinates":[-75.69896199999999,39.685673],"type":"Point"}
+}

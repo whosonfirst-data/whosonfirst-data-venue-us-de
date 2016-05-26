@@ -1,0 +1,71 @@
+{
+  "id": 873522447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.527958,39.137023,-75.527958,39.137023",
+    "geom:latitude":39.137023,
+    "geom:longitude":-75.527958,
+    "iso:country":"US",
+    "sg:address":"1177B S Governors Ave",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 8441",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medicine",
+        "internal"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85826587,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4syKJjD5hUpaZE4CEQIVQF_39.137023_-75.527958@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223987,
+    "wof:geomhash":"1f14db2844a002f0fcb0d7c155fc9663",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85826587,
+            "region_id":85688611,
+            "venue_id":873522447
+        }
+    ],
+    "wof:id":873522447,
+    "wof:lastmodified":1464223987,
+    "wof:name":"Cerny Eva MD",
+    "wof:parent_id":85826587,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "internal"
+    ]
+},
+  "bbox": [
+    -75.527958,
+    39.137023,
+    -75.527958,
+    39.137023
+],
+  "geometry": {"coordinates":[-75.527958,39.137023],"type":"Point"}
+}

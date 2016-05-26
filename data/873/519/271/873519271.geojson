@@ -1,0 +1,77 @@
+{
+  "id": 873519271,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.627131,39.731484,-75.627131,39.731484",
+    "geom:latitude":39.731484,
+    "geom:longitude":-75.627131,
+    "iso:country":"US",
+    "sg:address":"3434 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Business Services",
+            "type":"Services"
+        },
+        {
+            "category":"Government",
+            "subcategory":"Post Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 800 275 8777",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mail",
+        "shipping"
+    ],
+    "sg:website":"http://www.usps.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_05Y3ioeNx8n6QIbmVTID6d_39.731484_-75.627131@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223844,
+    "wof:geomhash":"2ca544048b120e447a6498db0550b525",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":873519271
+        }
+    ],
+    "wof:id":873519271,
+    "wof:lastmodified":1464223844,
+    "wof:name":"USPS - United States Post Office - Marshallton Branch",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mail",
+        "shipping"
+    ]
+},
+  "bbox": [
+    -75.627131,
+    39.731484,
+    -75.627131,
+    39.731484
+],
+  "geometry": {"coordinates":[-75.62713100000001,39.731484],"type":"Point"}
+}

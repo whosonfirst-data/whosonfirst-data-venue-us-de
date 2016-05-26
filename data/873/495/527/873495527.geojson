@@ -1,0 +1,71 @@
+{
+  "id": 873495527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.506483,38.420452,-75.506483,38.420452",
+    "geom:latitude":38.420452,
+    "geom:longitude":-75.506483,
+    "iso:country":"US",
+    "sg:address":"31881 Downing Rd",
+    "sg:city":"Delmar",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 410 749 3881",
+    "sg:postcode":"21875",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electric",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688501,
+        85633793,
+        85810701,
+        102082715
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1b2ThR5xuR13ecsZzhEG42_38.420452_-75.506483@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222753,
+    "wof:geomhash":"c477b55ef8c6134489ced097fa2a25e7",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102082715,
+            "neighbourhood_id":85810701,
+            "region_id":85688501,
+            "venue_id":873495527
+        }
+    ],
+    "wof:id":873495527,
+    "wof:lastmodified":1464222753,
+    "wof:name":"Betts Radolek Electric Inc",
+    "wof:parent_id":85810701,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electric",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.506483,
+    38.420452,
+    -75.506483,
+    38.420452
+],
+  "geometry": {"coordinates":[-75.506483,38.420452],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857732429,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.581795,39.196457,-75.581795,39.196457",
+    "geom:latitude":39.196457,
+    "geom:longitude":-75.581795,
+    "iso:country":"US",
+    "sg:address":"1873 Central Church Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Cleaning & Sanitation",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 730 8680",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "janitor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_58syFwQAoRp3oLAuvkFNtL_39.196457_-75.581795@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221491,
+    "wof:geomhash":"7ba988eb274355e1cd22e80406865365",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857732429
+        }
+    ],
+    "wof:id":857732429,
+    "wof:lastmodified":1464221491,
+    "wof:name":"Penndel Cleaning Svc Inc",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "janitor"
+    ]
+},
+  "bbox": [
+    -75.581795,
+    39.196457,
+    -75.581795,
+    39.196457
+],
+  "geometry": {"coordinates":[-75.581795,39.196457],"type":"Point"}
+}

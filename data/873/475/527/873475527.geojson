@@ -1,0 +1,69 @@
+{
+  "id": 873475527,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.61736,39.815988,-75.61736,39.815988",
+    "geom:latitude":39.815988,
+    "geom:longitude":-75.61736,
+    "iso:country":"US",
+    "sg:address":"123 Havernill Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Pharmacy",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 834 9512",
+    "sg:postcode":"19807",
+    "sg:province":"DE",
+    "sg:tags":[
+        "establishment"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85823107,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4moi7ojAWoIJPSmzBQhDrR_39.815988_-75.617360@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221933,
+    "wof:geomhash":"d4ced2193273f1e526ef42ac30d3c1a3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85823107,
+            "region_id":85688611,
+            "venue_id":873475527
+        }
+    ],
+    "wof:id":873475527,
+    "wof:lastmodified":1464221933,
+    "wof:name":"Happy Harrys Inc",
+    "wof:parent_id":85823107,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "establishment"
+    ]
+},
+  "bbox": [
+    -75.61736,
+    39.815988,
+    -75.61736,
+    39.815988
+],
+  "geometry": {"coordinates":[-75.61736000000001,39.815988],"type":"Point"}
+}

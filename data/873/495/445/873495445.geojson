@@ -1,0 +1,73 @@
+{
+  "id": 873495445,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.562143,39.730122,-75.562143,39.730122",
+    "geom:latitude":39.730122,
+    "geom:longitude":-75.562143,
+    "iso:country":"US",
+    "sg:address":"974 Pettinaro Park Dr",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Catalog Store",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 778 5601",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "outlet"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7BA2VSNlsMOsOR0VJ01BYR_39.730122_-75.562143@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222748,
+    "wof:geomhash":"c417dc57b50db40d6d2482ecd91ecaf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873495445
+        }
+    ],
+    "wof:id":873495445,
+    "wof:lastmodified":1464222748,
+    "wof:name":"Coldwater Creek Outlets",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "outlet"
+    ]
+},
+  "bbox": [
+    -75.562143,
+    39.730122,
+    -75.562143,
+    39.730122
+],
+  "geometry": {"coordinates":[-75.56214300000001,39.730122],"type":"Point"}
+}

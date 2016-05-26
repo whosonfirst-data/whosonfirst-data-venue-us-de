@@ -1,0 +1,70 @@
+{
+  "id": 873496293,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.720723,39.666695,-75.720723,39.666695",
+    "geom:latitude":39.666695,
+    "geom:longitude":-75.720723,
+    "iso:country":"US",
+    "sg:address":"146 Chestnut Crossing Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 737 8500",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "apartment"
+    ],
+    "sg:website":"www.homeproperties.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6A4icF5klmXZUaaHxuQu97_39.666695_-75.720723@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222790,
+    "wof:geomhash":"297f36b1c04749f181a19fb1b814baaf",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873496293
+        }
+    ],
+    "wof:id":873496293,
+    "wof:lastmodified":1464222790,
+    "wof:name":"Home Properties Of Newark",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "apartment"
+    ]
+},
+  "bbox": [
+    -75.720723,
+    39.666695,
+    -75.720723,
+    39.666695
+],
+  "geometry": {"coordinates":[-75.72072300000001,39.666695],"type":"Point"}
+}

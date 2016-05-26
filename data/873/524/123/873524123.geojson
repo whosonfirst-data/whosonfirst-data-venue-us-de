@@ -1,0 +1,71 @@
+{
+  "id": 873524123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.59481,38.807856,-75.59481,38.807856",
+    "geom:latitude":38.807856,
+    "geom:longitude":-75.59481,
+    "iso:country":"US",
+    "sg:address":"205 W Market St",
+    "sg:city":"Greenwood",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 349 9801",
+    "sg:postcode":"19950",
+    "sg:province":"DE",
+    "sg:tags":[
+        "pizza"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85852081
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5rGJnnpa4X00XmqBMC7pmB_38.807856_-75.594810@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224045,
+    "wof:geomhash":"6600e3369f099c5d87e75c3e6be4bb0a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85852081,
+            "region_id":85688611,
+            "venue_id":873524123
+        }
+    ],
+    "wof:id":873524123,
+    "wof:lastmodified":1464224045,
+    "wof:name":"Andys Pizza",
+    "wof:parent_id":85852081,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "pizza"
+    ]
+},
+  "bbox": [
+    -75.59481,
+    38.807856,
+    -75.59481,
+    38.807856
+],
+  "geometry": {"coordinates":[-75.59481,38.807856],"type":"Point"}
+}

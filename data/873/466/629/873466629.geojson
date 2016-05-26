@@ -1,0 +1,73 @@
+{
+  "id": 873466629,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.517533,39.244266,-75.517533,39.244266",
+    "geom:latitude":39.244266,
+    "geom:longitude":-75.517533,
+    "iso:country":"US",
+    "sg:address":"500 Denny St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Shopping",
+            "subcategory":"Bicycles & Sporting Goods",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 744 9140",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "bait",
+        "fishing"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_33TFlRAS2FC6rRhB8G6oAo_39.244266_-75.517533@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221605,
+    "wof:geomhash":"ee514cb5fe40d4611aaf801d73870fa1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":873466629
+        }
+    ],
+    "wof:id":873466629,
+    "wof:lastmodified":1464221605,
+    "wof:name":"Smiths Bait Shop",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "bait",
+        "fishing"
+    ]
+},
+  "bbox": [
+    -75.517533,
+    39.244266,
+    -75.517533,
+    39.244266
+],
+  "geometry": {"coordinates":[-75.517533,39.244266],"type":"Point"}
+}

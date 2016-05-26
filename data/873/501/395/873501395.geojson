@@ -1,0 +1,71 @@
+{
+  "id": 873501395,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.558596,39.119327,-75.558596,39.119327",
+    "geom:latitude":39.119327,
+    "geom:longitude":-75.558596,
+    "iso:country":"US",
+    "sg:address":"1 N Railroad Ave",
+    "sg:city":"Camden Wyoming",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Office",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 2966",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "city"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6jKuyAdrF4u2ygR6tWPWwz_39.119327_-75.558596@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223004,
+    "wof:geomhash":"2289a827634e09f9d3a0e06af372e8d2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873501395
+        }
+    ],
+    "wof:id":873501395,
+    "wof:lastmodified":1464223004,
+    "wof:name":"Wyoming Town Hall",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "city"
+    ]
+},
+  "bbox": [
+    -75.558596,
+    39.119327,
+    -75.558596,
+    39.119327
+],
+  "geometry": {"coordinates":[-75.55859599999999,39.119327],"type":"Point"}
+}

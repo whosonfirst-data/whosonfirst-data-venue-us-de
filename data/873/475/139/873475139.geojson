@@ -1,0 +1,71 @@
+{
+  "id": 873475139,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.675755,39.690992,-75.675755,39.690992",
+    "geom:latitude":39.690992,
+    "geom:longitude":-75.675755,
+    "iso:country":"US",
+    "sg:address":"50 Omega Dr",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 266 7577",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5wzZf1LyQ9yj7weUe3aBbt_39.690992_-75.675755@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221919,
+    "wof:geomhash":"4698d3ad53c1a771ca0e58b3accd8afa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873475139
+        }
+    ],
+    "wof:id":873475139,
+    "wof:lastmodified":1464221919,
+    "wof:name":"Peter J Muench MD",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.675755,
+    39.690992,
+    -75.675755,
+    39.690992
+],
+  "geometry": {"coordinates":[-75.675755,39.690992],"type":"Point"}
+}

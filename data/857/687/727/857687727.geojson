@@ -1,0 +1,73 @@
+{
+  "id": 857687727,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.63793,39.729963,-75.63793,39.729963",
+    "geom:latitude":39.729963,
+    "geom:longitude":-75.63793,
+    "iso:country":"US",
+    "sg:address":"2021 Jackson Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 636 9301",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2UjCWcABraBQnss6XobAf4_39.729963_-75.637930@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220573,
+    "wof:geomhash":"d91a5377c2b94d3947a40aafa56f7a42",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":857687727
+        }
+    ],
+    "wof:id":857687727,
+    "wof:lastmodified":1464220573,
+    "wof:name":"White Custom Painting",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "painter",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.63793,
+    39.729963,
+    -75.63793,
+    39.729963
+],
+  "geometry": {"coordinates":[-75.63793,39.729963],"type":"Point"}
+}

@@ -1,0 +1,90 @@
+{
+  "id": 873518345,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.603138,39.711948,-75.603138,39.711948",
+    "geom:latitude":39.711948,
+    "geom:longitude":-75.603138,
+    "iso:country":"US",
+    "sg:address":"330 Water St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Home & Garden",
+            "subcategory":"Household Appliances",
+            "type":"Retail Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 993 1122",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "major",
+        "dishwashing",
+        "system",
+        "specialty",
+        "machine",
+        "heating",
+        "mechanical",
+        "contractor",
+        "air conditioning"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85836859,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0INLIdDjhaoxgInUjmTih3_39.711948_-75.603138@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223808,
+    "wof:geomhash":"509706f315a67b41b47cfdd0ebdb2305",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85836859,
+            "region_id":85688611,
+            "venue_id":873518345
+        }
+    ],
+    "wof:id":873518345,
+    "wof:lastmodified":1464223808,
+    "wof:name":"Polar Mechanical Inc",
+    "wof:parent_id":85836859,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "major",
+        "dishwashing",
+        "system",
+        "specialty",
+        "machine",
+        "heating",
+        "mechanical",
+        "contractor",
+        "air conditioning"
+    ]
+},
+  "bbox": [
+    -75.603138,
+    39.711948,
+    -75.603138,
+    39.711948
+],
+  "geometry": {"coordinates":[-75.603138,39.711948],"type":"Point"}
+}

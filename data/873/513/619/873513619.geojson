@@ -1,0 +1,74 @@
+{
+  "id": 873513619,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.554099,39.072199,-75.554099,39.072199",
+    "geom:latitude":39.072199,
+    "geom:longitude":-75.554099,
+    "iso:country":"US",
+    "sg:address":"5502 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:menulink":"http://www.allmenus.com/de/central-kent/109712-subway/menu/",
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 4257",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "american",
+        "sandwich"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5MCrvTGFt14U3ACU5yntLG_39.072199_-75.554099@1299784598"
+    },
+    "wof:country":"US",
+    "wof:created":1464223539,
+    "wof:geomhash":"79693f156d66790f7350697177161fa6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873513619
+        }
+    ],
+    "wof:id":873513619,
+    "wof:lastmodified":1464223539,
+    "wof:name":"Subway",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "american",
+        "sandwich"
+    ]
+},
+  "bbox": [
+    -75.554099,
+    39.072199,
+    -75.554099,
+    39.072199
+],
+  "geometry": {"coordinates":[-75.55409899999999,39.072199],"type":"Point"}
+}

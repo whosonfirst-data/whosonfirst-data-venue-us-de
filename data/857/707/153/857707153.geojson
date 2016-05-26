@@ -1,0 +1,71 @@
+{
+  "id": 857707153,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.57487,39.010898,-75.57487,39.010898",
+    "geom:latitude":39.010898,
+    "geom:longitude":-75.57487,
+    "iso:country":"US",
+    "sg:address":"24 E Sewell St",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Police Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 8441",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "department",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4bqEE3p6EATcJruHKZypfj_39.010898_-75.574870@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220952,
+    "wof:geomhash":"9ca006e0606b17e64ea8c91d36ace136",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":857707153
+        }
+    ],
+    "wof:id":857707153,
+    "wof:lastmodified":1464220952,
+    "wof:name":"Felton Police Dept",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "department",
+        "protection"
+    ]
+},
+  "bbox": [
+    -75.57487,
+    39.010898,
+    -75.57487,
+    39.010898
+],
+  "geometry": {"coordinates":[-75.57487,39.010898],"type":"Point"}
+}

@@ -1,0 +1,77 @@
+{
+  "id": 857711327,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.080284,38.735286,-75.080284,38.735286",
+    "geom:latitude":38.735286,
+    "geom:longitude":-75.080284,
+    "iso:country":"US",
+    "sg:address":"35 Ocean Dr",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Plumbing",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 301 434 3030",
+    "sg:postcode":"19971",
+    "sg:province":"DE",
+    "sg:tags":[
+        "air",
+        "heating",
+        "electrical",
+        "conditioning",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848495,
+        102083887
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4jbWw0LqyKIHeqgBb5GdGV_38.735286_-75.080284@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221057,
+    "wof:geomhash":"97ca3fd27e1f28a53bdecfcea81abd26",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "neighbourhood_id":85848495,
+            "region_id":85688611,
+            "venue_id":857711327
+        }
+    ],
+    "wof:id":857711327,
+    "wof:lastmodified":1464221057,
+    "wof:name":"Mc Laughlin Heating & AC",
+    "wof:parent_id":85848495,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "air",
+        "heating",
+        "electrical",
+        "conditioning",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.080284,
+    38.735286,
+    -75.080284,
+    38.735286
+],
+  "geometry": {"coordinates":[-75.08028400000001,38.735286],"type":"Point"}
+}

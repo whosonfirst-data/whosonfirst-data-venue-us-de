@@ -1,0 +1,71 @@
+{
+  "id": 857732217,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.541633,39.813544,-75.541633,39.813544",
+    "geom:latitude":39.813544,
+    "geom:longitude":-75.541633,
+    "iso:country":"US",
+    "sg:address":"38 Club Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 479 5088",
+    "sg:postcode":"19810",
+    "sg:province":"DE",
+    "sg:tags":[
+        "residential",
+        "nonresidential"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_49F2Pdf5t3Wlon7rToZODj_39.813544_-75.541633@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221488,
+    "wof:geomhash":"5579a9ed112215928b7d22e4098446c2",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857732217
+        }
+    ],
+    "wof:id":857732217,
+    "wof:lastmodified":1464221488,
+    "wof:name":"RLB Construction",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "residential",
+        "nonresidential"
+    ]
+},
+  "bbox": [
+    -75.541633,
+    39.813544,
+    -75.541633,
+    39.813544
+],
+  "geometry": {"coordinates":[-75.541633,39.813544],"type":"Point"}
+}

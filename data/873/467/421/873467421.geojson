@@ -1,0 +1,80 @@
+{
+  "id": 873467421,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.539256,39.741804,-75.539256,39.741804",
+    "geom:latitude":39.741804,
+    "geom:longitude":-75.539256,
+    "iso:country":"US",
+    "sg:address":"920 N Church St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Communications",
+            "subcategory":"Film & Video Production",
+            "type":"Services"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Equipment Rental",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 655 1600",
+    "sg:postcode":"19801",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consultant",
+        "audio"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85829695
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7WYXuDsQ7JgmIBvOjGIAgy_39.741804_-75.539256@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221632,
+    "wof:geomhash":"9df653a7000495e52b8816bc2d382e4d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85829695,
+            "region_id":85688611,
+            "venue_id":873467421
+        }
+    ],
+    "wof:id":873467421,
+    "wof:lastmodified":1464221632,
+    "wof:name":"Delaware Audio Visual",
+    "wof:parent_id":85829695,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consultant",
+        "audio"
+    ]
+},
+  "bbox": [
+    -75.539256,
+    39.741804,
+    -75.539256,
+    39.741804
+],
+  "geometry": {"coordinates":[-75.53925599999999,39.741804],"type":"Point"}
+}

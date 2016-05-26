@@ -1,0 +1,75 @@
+{
+  "id": 857687773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.52873,39.75673,-75.52873,39.75673",
+    "geom:latitude":39.75673,
+    "geom:longitude":-75.52873,
+    "iso:country":"US",
+    "sg:address":"38 Todds Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Jail",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 577 2139",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "probation",
+        "parole"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0dFPw4ShfRi3otkRBbInpx_39.756730_-75.528730@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220574,
+    "wof:geomhash":"7c183739f60c08746720ddc92a137d60",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857687773
+        }
+    ],
+    "wof:id":857687773,
+    "wof:lastmodified":1464220574,
+    "wof:name":"Plummer Center",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "probation",
+        "parole"
+    ]
+},
+  "bbox": [
+    -75.52873,
+    39.75673,
+    -75.52873,
+    39.75673
+],
+  "geometry": {"coordinates":[-75.52873,39.75673],"type":"Point"}
+}

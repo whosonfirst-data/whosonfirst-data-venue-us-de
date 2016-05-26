@@ -1,0 +1,69 @@
+{
+  "id": 873465639,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.681078,39.680393,-75.681078,39.680393",
+    "geom:latitude":39.680393,
+    "geom:longitude":-75.681078,
+    "iso:country":"US",
+    "sg:address":"503 Blackstone Rd",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"Child Care",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 9333",
+    "sg:postcode":"19713",
+    "sg:province":"DE",
+    "sg:tags":[
+        "day"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1Z4lv7OqG5arwFIxNg1dgk_39.680393_-75.681078@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221581,
+    "wof:geomhash":"ec640c5b9b7d7b13d067ed1f2616e14d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873465639
+        }
+    ],
+    "wof:id":873465639,
+    "wof:lastmodified":1464221581,
+    "wof:name":"Pritchards Family Day Care",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "day"
+    ]
+},
+  "bbox": [
+    -75.681078,
+    39.680393,
+    -75.681078,
+    39.680393
+],
+  "geometry": {"coordinates":[-75.681078,39.680393],"type":"Point"}
+}

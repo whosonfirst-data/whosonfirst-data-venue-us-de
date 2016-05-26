@@ -1,0 +1,79 @@
+{
+  "id": 873514587,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.661542,39.664299,-75.661542,39.664299",
+    "geom:latitude":39.664299,
+    "geom:longitude":-75.661542,
+    "iso:country":"US",
+    "sg:address":"25 S Old Baltimore Pike",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 731 2660",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ],
+    "sg:website":"http://www.ptspecialistsde.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3a2AhBoasKEZhgMGyxBmOS_39.664299_-75.661542@1303262470"
+    },
+    "wof:country":"US",
+    "wof:created":1464223598,
+    "wof:geomhash":"6116dec980f900d0ca75e92e02f08e75",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":873514587
+        }
+    ],
+    "wof:id":873514587,
+    "wof:lastmodified":1464223598,
+    "wof:name":"Christiana Physical Therapy",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "therapist",
+        "therapy",
+        "physical"
+    ]
+},
+  "bbox": [
+    -75.661542,
+    39.664299,
+    -75.661542,
+    39.664299
+],
+  "geometry": {"coordinates":[-75.661542,39.664299],"type":"Point"}
+}

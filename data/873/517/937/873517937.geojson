@@ -1,0 +1,71 @@
+{
+  "id": 873517937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.521698,39.8013,-75.521698,39.8013",
+    "geom:latitude":39.8013,
+    "geom:longitude":-75.521698,
+    "iso:country":"US",
+    "sg:address":"1403 Foulk Rd Ste 108",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Education",
+            "subcategory":"Special Training",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 1205",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "school",
+        "language"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85857679,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0M0ZjUsdaXiQ4eLQydglPd_39.801300_-75.521698@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223792,
+    "wof:geomhash":"30d3331302acaaf0448827ddca70cd79",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85857679,
+            "region_id":85688611,
+            "venue_id":873517937
+        }
+    ],
+    "wof:id":873517937,
+    "wof:lastmodified":1464223792,
+    "wof:name":"Academia El Apostol",
+    "wof:parent_id":85857679,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "school",
+        "language"
+    ]
+},
+  "bbox": [
+    -75.521698,
+    39.8013,
+    -75.521698,
+    39.8013
+],
+  "geometry": {"coordinates":[-75.521698,39.8013],"type":"Point"}
+}

@@ -1,0 +1,75 @@
+{
+  "id": 873468811,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.587817,39.168271,-75.587817,39.168271",
+    "geom:latitude":39.168271,
+    "geom:longitude":-75.587817,
+    "iso:country":"US",
+    "sg:address":"1463 Chestnut Grove Rd",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 739 3160",
+    "sg:postcode":"19904",
+    "sg:province":"DE",
+    "sg:tags":[
+        "state",
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85859041
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6e4ZzM4ZnF8LLLhzs28Jqs_39.168271_-75.587817@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221681,
+    "wof:geomhash":"51f01dc40a0a81a9d3719a88da826e22",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85859041,
+            "region_id":85688611,
+            "venue_id":873468811
+        }
+    ],
+    "wof:id":873468811,
+    "wof:lastmodified":1464221681,
+    "wof:name":"Fire Prevention Commission",
+    "wof:parent_id":85859041,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "state",
+        "protection"
+    ]
+},
+  "bbox": [
+    -75.587817,
+    39.168271,
+    -75.587817,
+    39.168271
+],
+  "geometry": {"coordinates":[-75.587817,39.168271],"type":"Point"}
+}

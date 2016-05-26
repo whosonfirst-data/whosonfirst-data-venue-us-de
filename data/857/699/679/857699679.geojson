@@ -1,0 +1,75 @@
+{
+  "id": 857699679,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.526062,39.758842,-75.526062,39.758842",
+    "geom:latitude":39.758842,
+    "geom:longitude":-75.526062,
+    "iso:country":"US",
+    "sg:address":"3508 N Market St",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Restaurant",
+            "subcategory":"",
+            "type":"Food & Drink"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 9990",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drinking",
+        "eating"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931735,
+        102083891,
+        85841243
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0hlX10PsTiWetn3HDNC90R_39.758842_-75.526062@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220806,
+    "wof:geomhash":"ce7476d9bd512b96d3f0354323142af5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931735,
+            "neighbourhood_id":85841243,
+            "region_id":85688611,
+            "venue_id":857699679
+        }
+    ],
+    "wof:id":857699679,
+    "wof:lastmodified":1464220806,
+    "wof:name":"Thirty-Fifth Street Cafe",
+    "wof:parent_id":85841243,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drinking",
+        "eating"
+    ]
+},
+  "bbox": [
+    -75.526062,
+    39.758842,
+    -75.526062,
+    39.758842
+],
+  "geometry": {"coordinates":[-75.526062,39.758842],"type":"Point"}
+}

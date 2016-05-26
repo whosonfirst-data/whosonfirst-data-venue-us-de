@@ -1,0 +1,75 @@
+{
+  "id": 857731431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.611884,39.744771,-75.611884,39.744771",
+    "geom:latitude":39.744771,
+    "geom:longitude":-75.611884,
+    "iso:country":"US",
+    "sg:address":"1201 Centre Rd",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Operator",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 9003",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "owns",
+        "apartment",
+        "complex",
+        "operates"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_44C6DIwduTjDrbAatgg9rk_39.744771_-75.611884@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221466,
+    "wof:geomhash":"f06729cb4f076487c28f90f1a15b900e",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831761,
+            "region_id":85688611,
+            "venue_id":857731431
+        }
+    ],
+    "wof:id":857731431,
+    "wof:lastmodified":1464221466,
+    "wof:name":"Woodland Apartments",
+    "wof:parent_id":85831761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "owns",
+        "apartment",
+        "complex",
+        "operates"
+    ]
+},
+  "bbox": [
+    -75.611884,
+    39.744771,
+    -75.611884,
+    39.744771
+],
+  "geometry": {"coordinates":[-75.611884,39.744771],"type":"Point"}
+}

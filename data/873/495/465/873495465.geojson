@@ -1,0 +1,71 @@
+{
+  "id": 873495465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.090333,38.545859,-75.090333,38.545859",
+    "geom:latitude":38.545859,
+    "geom:longitude":-75.090333,
+    "iso:country":"US",
+    "sg:address":"54 Central Ave",
+    "sg:city":"Ocean View",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 537 1916",
+    "sg:postcode":"19970",
+    "sg:province":"DE",
+    "sg:tags":[
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6vc6q71ELkmKzMcq1nIUQd_38.545859_-75.090333@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222749,
+    "wof:geomhash":"6bde187911b453b9892c29a1fc468bb3",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873495465
+        }
+    ],
+    "wof:id":873495465,
+    "wof:lastmodified":1464222749,
+    "wof:name":"Benjamin B Smith Builders Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.090333,
+    38.545859,
+    -75.090333,
+    38.545859
+],
+  "geometry": {"coordinates":[-75.090333,38.545859],"type":"Point"}
+}

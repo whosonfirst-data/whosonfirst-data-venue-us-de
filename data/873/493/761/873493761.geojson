@@ -1,0 +1,73 @@
+{
+  "id": 873493761,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.607039,39.006607,-75.607039,39.006607",
+    "geom:latitude":39.006607,
+    "geom:longitude":-75.607039,
+    "iso:country":"US",
+    "sg:address":"7876 Burnite Mill Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 4646",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "repairing",
+        "automotive",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_00MESSkN8pbIDDygc0fJeH_39.006607_-75.607039@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222640,
+    "wof:geomhash":"34a7cbc438fc9dcfc5dd2a9506e76975",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873493761
+        }
+    ],
+    "wof:id":873493761,
+    "wof:lastmodified":1464222640,
+    "wof:name":"Moore's Garage",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "repairing",
+        "automotive",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.607039,
+    39.006607,
+    -75.607039,
+    39.006607
+],
+  "geometry": {"coordinates":[-75.607039,39.006607],"type":"Point"}
+}

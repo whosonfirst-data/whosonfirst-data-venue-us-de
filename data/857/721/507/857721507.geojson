@@ -1,0 +1,71 @@
+{
+  "id": 857721507,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.307878,38.777207,-75.307878,38.777207",
+    "geom:latitude":38.777207,
+    "geom:longitude":-75.307878,
+    "iso:country":"US",
+    "sg:address":"116 Front St",
+    "sg:city":"Milton",
+    "sg:classifiers":[
+        {
+            "category":"Government",
+            "subcategory":"Fire Station",
+            "type":"Public Place"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 684 8500",
+    "sg:postcode":"19968",
+    "sg:province":"DE",
+    "sg:tags":[
+        "protection"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85823997
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2XVh9fJYcXGVCj1od4vhqe_38.777207_-75.307878@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221280,
+    "wof:geomhash":"c63ce083f37c75719d53f7c1315d0de1",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85823997,
+            "region_id":85688611,
+            "venue_id":857721507
+        }
+    ],
+    "wof:id":857721507,
+    "wof:lastmodified":1464221280,
+    "wof:name":"Milton Fire Department Inc",
+    "wof:parent_id":85823997,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "protection"
+    ]
+},
+  "bbox": [
+    -75.307878,
+    38.777207,
+    -75.307878,
+    38.777207
+],
+  "geometry": {"coordinates":[-75.307878,38.777207],"type":"Point"}
+}

@@ -1,0 +1,71 @@
+{
+  "id": 857696313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.542779,39.197722,-75.542779,39.197722",
+    "geom:latitude":39.197722,
+    "geom:longitude":-75.542779,
+    "iso:country":"US",
+    "sg:address":"270 Rustic Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Freight",
+            "subcategory":"",
+            "type":"Transportation"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 734 5418",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "trucking"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931481,
+        102083871,
+        85815601
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_5usVcszW48rYDiaWi2sxci_39.197722_-75.542779@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220742,
+    "wof:geomhash":"8f2d61feb35ede469d874952c8b61f47",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85815601,
+            "region_id":85688611,
+            "venue_id":857696313
+        }
+    ],
+    "wof:id":857696313,
+    "wof:lastmodified":1464220742,
+    "wof:name":"Howard Finney Trucking",
+    "wof:parent_id":85815601,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "trucking"
+    ]
+},
+  "bbox": [
+    -75.542779,
+    39.197722,
+    -75.542779,
+    39.197722
+],
+  "geometry": {"coordinates":[-75.542779,39.197722],"type":"Point"}
+}

@@ -1,0 +1,80 @@
+{
+  "id": 857713621,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.523877,39.156786,-75.523877,39.156786",
+    "geom:latitude":39.156786,
+    "geom:longitude":-75.523877,
+    "iso:country":"US",
+    "sg:address":"329 S State St",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Insurance",
+            "subcategory":"Title Insurance",
+            "type":"Services"
+        },
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Services",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 674 1653",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "company",
+        "carrier"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85847335
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0jpShfDA3xtk5yLY76kvAC_39.156786_-75.523877@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221122,
+    "wof:geomhash":"75cbae3e82cb4b97e56bf64b53c95b57",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85847335,
+            "region_id":85688611,
+            "venue_id":857713621
+        }
+    ],
+    "wof:id":857713621,
+    "wof:lastmodified":1464221122,
+    "wof:name":"Atlantic Title & Abstract Co",
+    "wof:parent_id":85847335,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "company",
+        "carrier"
+    ]
+},
+  "bbox": [
+    -75.523877,
+    39.156786,
+    -75.523877,
+    39.156786
+],
+  "geometry": {"coordinates":[-75.523877,39.156786],"type":"Point"}
+}

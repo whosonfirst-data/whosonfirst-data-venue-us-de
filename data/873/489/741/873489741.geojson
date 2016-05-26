@@ -1,0 +1,69 @@
+{
+  "id": 873489741,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.722799,39.03281,-75.722799,39.03281",
+    "geom:latitude":39.03281,
+    "geom:longitude":-75.722799,
+    "iso:country":"US",
+    "sg:address":"1408 Willow Grove Rd",
+    "sg:city":"Felton",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 284 9007",
+    "sg:postcode":"19943",
+    "sg:province":"DE",
+    "sg:tags":[
+        "general"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85819103,
+        102083871
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6UMx3fzCIDBGe8f9ReyAc1_39.032810_-75.722799@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222484,
+    "wof:geomhash":"1e81a383ab83e12b39ccf3dc917a3d04",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "neighbourhood_id":85819103,
+            "region_id":85688611,
+            "venue_id":873489741
+        }
+    ],
+    "wof:id":873489741,
+    "wof:lastmodified":1464222484,
+    "wof:name":"Martins Hardware & Auto Parts",
+    "wof:parent_id":85819103,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "general"
+    ]
+},
+  "bbox": [
+    -75.722799,
+    39.03281,
+    -75.722799,
+    39.03281
+],
+  "geometry": {"coordinates":[-75.72279899999999,39.03281],"type":"Point"}
+}

@@ -1,0 +1,73 @@
+{
+  "id": 857698841,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.658704,39.676916,-75.658704,39.676916",
+    "geom:latitude":39.676916,
+    "geom:longitude":-75.658704,
+    "iso:country":"US",
+    "sg:address":"310 Christiana Medical Center",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 368 0500",
+    "sg:postcode":"19702",
+    "sg:province":"DE",
+    "sg:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85810929,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6r5glkJrp9yMWcZsKtt87l_39.676916_-75.658704@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220789,
+    "wof:geomhash":"5919a8482b0f344530eb002d8b87352b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85810929,
+            "region_id":85688611,
+            "venue_id":857698841
+        }
+    ],
+    "wof:id":857698841,
+    "wof:lastmodified":1464220789,
+    "wof:name":"Asthma Allergy Care Delaware",
+    "wof:parent_id":85810929,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "physician",
+        "medical",
+        "surgeon"
+    ]
+},
+  "bbox": [
+    -75.658704,
+    39.676916,
+    -75.658704,
+    39.676916
+],
+  "geometry": {"coordinates":[-75.658704,39.676916],"type":"Point"}
+}

@@ -1,0 +1,69 @@
+{
+  "id": 857716039,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.548532,39.818338,-75.548532,39.818338",
+    "geom:latitude":39.818338,
+    "geom:longitude":-75.548532,
+    "iso:country":"US",
+    "sg:address":"4737 Concord Pike",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Manufacturing",
+            "subcategory":"Food",
+            "type":"Manufacturing & Wholesale Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 478 5658",
+    "sg:postcode":"19803",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mfg"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85858565,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_4p9z7jRlaVRnil0875Ucxf_39.818338_-75.548532@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221166,
+    "wof:geomhash":"de341ba02ce931921bb3b61c99493f32",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85858565,
+            "region_id":85688611,
+            "venue_id":857716039
+        }
+    ],
+    "wof:id":857716039,
+    "wof:lastmodified":1464221166,
+    "wof:name":"Philly Pretzel",
+    "wof:parent_id":85858565,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mfg"
+    ]
+},
+  "bbox": [
+    -75.548532,
+    39.818338,
+    -75.548532,
+    39.818338
+],
+  "geometry": {"coordinates":[-75.54853199999999,39.818338],"type":"Point"}
+}

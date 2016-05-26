@@ -1,0 +1,91 @@
+{
+  "id": 873524821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.684206,38.684038,-75.684206,38.684038",
+    "geom:latitude":38.684038,
+    "geom:longitude":-75.684206,
+    "iso:country":"US",
+    "sg:address":"4010 Obier Rd",
+    "sg:city":"Seaford",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Landscaping Services",
+            "type":"Services"
+        },
+        {
+            "category":"Manufacturing",
+            "subcategory":"Buildings",
+            "type":"Manufacturing & Wholesale Goods"
+        },
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 629 6319",
+    "sg:postcode":"19973",
+    "sg:province":"DE",
+    "sg:tags":[
+        "designer",
+        "consultant",
+        "builder",
+        "contractor",
+        "home",
+        "landscape"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931591,
+        102083887,
+        85826651
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6yTrPI8prl0PPROjhbtIvc_38.684038_-75.684206@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224072,
+    "wof:geomhash":"9bd8f775c2df8bb59158f8457fee6d6d",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931591,
+            "neighbourhood_id":85826651,
+            "region_id":85688611,
+            "venue_id":873524821
+        }
+    ],
+    "wof:id":873524821,
+    "wof:lastmodified":1464224072,
+    "wof:name":"Butler General Contracting",
+    "wof:parent_id":85826651,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "designer",
+        "consultant",
+        "builder",
+        "contractor",
+        "home",
+        "landscape"
+    ]
+},
+  "bbox": [
+    -75.684206,
+    38.684038,
+    -75.684206,
+    38.684038
+],
+  "geometry": {"coordinates":[-75.684206,38.684038],"type":"Point"}
+}

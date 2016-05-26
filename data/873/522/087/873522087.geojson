@@ -1,0 +1,75 @@
+{
+  "id": 873522087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.5532,39.0741,-75.5532,39.0741",
+    "geom:latitude":39.0741,
+    "geom:longitude":-75.5532,
+    "iso:country":"US",
+    "sg:address":"5504 S Dupont Hwy",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Food & Beverages",
+            "subcategory":"Liquor & Beverages",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 698 0873",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931473,
+        102083871,
+        85834165
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_78HOv8kROj0EKmDSRVCO3w_39.074100_-75.553200@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464223966,
+    "wof:geomhash":"6f873ac356aa7826f8e45a6d5169f38a",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931473,
+            "neighbourhood_id":85834165,
+            "region_id":85688611,
+            "venue_id":873522087
+        }
+    ],
+    "wof:id":873522087,
+    "wof:lastmodified":1464223966,
+    "wof:name":"Woodside Liquor Warehouse",
+    "wof:parent_id":85834165,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "beer",
+        "spirit",
+        "wine"
+    ]
+},
+  "bbox": [
+    -75.5532,
+    39.0741,
+    -75.5532,
+    39.0741
+],
+  "geometry": {"coordinates":[-75.5532,39.0741],"type":"Point"}
+}

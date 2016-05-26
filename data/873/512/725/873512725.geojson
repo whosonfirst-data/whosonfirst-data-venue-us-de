@@ -1,0 +1,79 @@
+{
+  "id": 873512725,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.496074,39.140348,-75.496074,39.140348",
+    "geom:latitude":39.140348,
+    "geom:longitude":-75.496074,
+    "iso:country":"US",
+    "sg:address":"1062 Lafferty Ln",
+    "sg:city":"Dover",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Auto Repair",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 678 0271",
+    "sg:postcode":"19901",
+    "sg:province":"DE",
+    "sg:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931481,
+        102083871,
+        85809385
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7dLDVgWuZSJLzNZs4k89gO_39.140566_-75.495912@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223502,
+    "wof:geomhash":"fe039cadffa4e8502564d618bc5b4948",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931481,
+            "neighbourhood_id":85809385,
+            "region_id":85688611,
+            "venue_id":873512725
+        }
+    ],
+    "wof:id":873512725,
+    "wof:lastmodified":1464223502,
+    "wof:name":"Maaco Auto Painting & Bodywork",
+    "wof:parent_id":85809385,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "body",
+        "repairing",
+        "painting",
+        "automobile"
+    ]
+},
+  "bbox": [
+    -75.496074,
+    39.140348,
+    -75.496074,
+    39.140348
+],
+  "geometry": {"coordinates":[-75.49607399999999,39.140348],"type":"Point"}
+}

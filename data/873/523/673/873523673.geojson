@@ -1,0 +1,82 @@
+{
+  "id": 873523673,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.556587,39.110535,-75.556587,39.110535",
+    "geom:latitude":39.110535,
+    "geom:longitude":-75.556587,
+    "iso:country":"US",
+    "sg:address":"12260 Willow Grove Rd",
+    "sg:city":"Camden",
+    "sg:classifiers":[
+        {
+            "category":"Structure",
+            "subcategory":"Warehouse",
+            "type":"Public Place"
+        },
+        {
+            "category":"Retail",
+            "subcategory":"Storage",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 697 3194",
+    "sg:postcode":"19934",
+    "sg:province":"DE",
+    "sg:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931445,
+        102083871,
+        85821189
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_2aR6Aqi06ywmm3JKyr5aoT_39.110535_-75.556587@1303262472"
+    },
+    "wof:country":"US",
+    "wof:created":1464224028,
+    "wof:geomhash":"5cc24348da0f1b3d9eb8a6fc5f3018c6",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083871,
+            "locality_id":85931445,
+            "neighbourhood_id":85821189,
+            "region_id":85688611,
+            "venue_id":873523673
+        }
+    ],
+    "wof:id":873523673,
+    "wof:lastmodified":1464224028,
+    "wof:name":"Vepco Park Inc",
+    "wof:parent_id":85821189,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "self",
+        "commercial",
+        "warehouses-public-commercial",
+        "household"
+    ]
+},
+  "bbox": [
+    -75.556587,
+    39.110535,
+    -75.556587,
+    39.110535
+],
+  "geometry": {"coordinates":[-75.55658699999999,39.110535],"type":"Point"}
+}

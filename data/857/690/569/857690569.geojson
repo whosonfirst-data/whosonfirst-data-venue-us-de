@@ -1,0 +1,68 @@
+{
+  "id": 857690569,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.698267,39.789315,-75.698267,39.789315",
+    "geom:latitude":39.789315,
+    "geom:longitude":-75.698267,
+    "iso:country":"US",
+    "sg:address":"7460 Lancaster Pike",
+    "sg:city":"Hockessin",
+    "sg:classifiers":[
+        {
+            "category":"Real Estate",
+            "subcategory":"Real Estate Agent",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 239 9122",
+    "sg:postcode":"19707",
+    "sg:province":"DE",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931749,
+        102083891,
+        85830551
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_3JNatzjW707LQ8smVZACOW_39.789315_-75.698267@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464220629,
+    "wof:geomhash":"32b68262da95bb43683f748e94e89b83",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931749,
+            "neighbourhood_id":85830551,
+            "region_id":85688611,
+            "venue_id":857690569
+        }
+    ],
+    "wof:id":857690569,
+    "wof:lastmodified":1464220629,
+    "wof:name":"Hockessin Realty",
+    "wof:parent_id":85830551,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -75.698267,
+    39.789315,
+    -75.698267,
+    39.789315
+],
+  "geometry": {"coordinates":[-75.698267,39.789315],"type":"Point"}
+}

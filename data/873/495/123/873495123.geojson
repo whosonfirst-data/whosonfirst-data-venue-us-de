@@ -1,0 +1,70 @@
+{
+  "id": 873495123,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.528424,39.770729,-75.528424,39.770729",
+    "geom:latitude":39.770729,
+    "geom:longitude":-75.528424,
+    "iso:country":"US",
+    "sg:address":"710 W Matson Run Pkwy",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Hospital",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 764 3660",
+    "sg:postcode":"19802",
+    "sg:province":"DE",
+    "sg:tags":[
+        "mental"
+    ],
+    "sg:website":"www.rhd.org",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85845563,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_237zzrR3DMkO21aHOv8Z0Q_39.770729_-75.528424@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222723,
+    "wof:geomhash":"f4b1499d7eace74c5a28cea93671d545",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85845563,
+            "region_id":85688611,
+            "venue_id":873495123
+        }
+    ],
+    "wof:id":873495123,
+    "wof:lastmodified":1464222723,
+    "wof:name":"Rhd-Brandywine Hills Group Hom",
+    "wof:parent_id":85845563,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "mental"
+    ]
+},
+  "bbox": [
+    -75.528424,
+    39.770729,
+    -75.528424,
+    39.770729
+],
+  "geometry": {"coordinates":[-75.528424,39.770729],"type":"Point"}
+}

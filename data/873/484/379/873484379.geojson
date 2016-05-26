@@ -1,0 +1,71 @@
+{
+  "id": 873484379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.746041,39.683504,-75.746041,39.683504",
+    "geom:latitude":39.683504,
+    "geom:longitude":-75.746041,
+    "iso:country":"US",
+    "sg:address":"179 E Main St",
+    "sg:city":"Newark",
+    "sg:classifiers":[
+        {
+            "category":"Retail",
+            "subcategory":"Laundry & Dry Cleaning",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 738 4385",
+    "sg:postcode":"19711",
+    "sg:province":"DE",
+    "sg:tags":[
+        "drycleaning",
+        "plant"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85831693,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1jTXnOE59yzkcN7t46lKuw_39.683504_-75.746041@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222284,
+    "wof:geomhash":"e2f172d2ad33830ed3c346c2a008b251",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85831693,
+            "region_id":85688611,
+            "venue_id":873484379
+        }
+    ],
+    "wof:id":873484379,
+    "wof:lastmodified":1464222284,
+    "wof:name":"L & N Coin Laundry & Dry Clg",
+    "wof:parent_id":85831693,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "drycleaning",
+        "plant"
+    ]
+},
+  "bbox": [
+    -75.746041,
+    39.683504,
+    -75.746041,
+    39.683504
+],
+  "geometry": {"coordinates":[-75.74604100000001,39.683504],"type":"Point"}
+}

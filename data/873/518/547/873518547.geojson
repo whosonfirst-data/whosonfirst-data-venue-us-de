@@ -1,0 +1,75 @@
+{
+  "id": 873518547,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.571134,39.733507,-75.571134,39.733507",
+    "geom:latitude":39.733507,
+    "geom:longitude":-75.571134,
+    "iso:country":"US",
+    "sg:address":"214 8th Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Museum",
+            "subcategory":"Zoo",
+            "type":"Entertainment"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 571 0666",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "preserve",
+        "animals-circus"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        102191575,
+        85633793,
+        85931573,
+        102083891,
+        85888529
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_23zStBQIDJKz8Kyy0qiBdZ_39.733507_-75.571134@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223815,
+    "wof:geomhash":"6184d8779a30440162255051e67792eb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633793,
+            "county_id":102083891,
+            "locality_id":85931573,
+            "neighbourhood_id":85888529,
+            "region_id":85688611,
+            "venue_id":873518547
+        }
+    ],
+    "wof:id":873518547,
+    "wof:lastmodified":1464223815,
+    "wof:name":"Delaware Tracking Dogs",
+    "wof:parent_id":85888529,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "preserve",
+        "animals-circus"
+    ]
+},
+  "bbox": [
+    -75.571134,
+    39.733507,
+    -75.571134,
+    39.733507
+],
+  "geometry": {"coordinates":[-75.571134,39.733507],"type":"Point"}
+}

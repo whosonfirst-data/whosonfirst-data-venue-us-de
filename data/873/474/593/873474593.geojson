@@ -1,0 +1,71 @@
+{
+  "id": 873474593,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.397835,38.689183,-75.397835,38.689183",
+    "geom:latitude":38.689183,
+    "geom:longitude":-75.397835,
+    "iso:country":"US",
+    "sg:address":"410 N Dupont Hwy",
+    "sg:city":"Georgetown",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 855 9356",
+    "sg:postcode":"19947",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medical"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931639,
+        102083887,
+        85851647
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_40H6SIBGPcGIdloEdRNtOS_38.689183_-75.397835@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221901,
+    "wof:geomhash":"4ed983389a6e9288903522ff972a0a64",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931639,
+            "neighbourhood_id":85851647,
+            "region_id":85688611,
+            "venue_id":873474593
+        }
+    ],
+    "wof:id":873474593,
+    "wof:lastmodified":1464221901,
+    "wof:name":"Donald M Pfeifer MD",
+    "wof:parent_id":85851647,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medical"
+    ]
+},
+  "bbox": [
+    -75.397835,
+    38.689183,
+    -75.397835,
+    38.689183
+],
+  "geometry": {"coordinates":[-75.397835,38.689183],"type":"Point"}
+}

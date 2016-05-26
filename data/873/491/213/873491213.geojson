@@ -1,0 +1,71 @@
+{
+  "id": 873491213,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.66134,39.727052,-75.66134,39.727052",
+    "geom:latitude":39.727052,
+    "geom:longitude":-75.66134,
+    "iso:country":"US",
+    "sg:address":"4506 Kingsgate Ln",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Electrical",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 994 7154",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "electrical",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833847,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6IV0oH8chuCJ29Wia9dglO_39.727052_-75.661340@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464222538,
+    "wof:geomhash":"98b6d42ff1b6d3fc2240870400b53b85",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833847,
+            "region_id":85688611,
+            "venue_id":873491213
+        }
+    ],
+    "wof:id":873491213,
+    "wof:lastmodified":1464222538,
+    "wof:name":"Tolton Brry W Elctricial Contr",
+    "wof:parent_id":85833847,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "electrical",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.66134,
+    39.727052,
+    -75.66134,
+    39.727052
+],
+  "geometry": {"coordinates":[-75.66134,39.727052],"type":"Point"}
+}

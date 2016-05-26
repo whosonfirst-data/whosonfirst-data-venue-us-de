@@ -1,0 +1,71 @@
+{
+  "id": 873472087,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.547359,39.704321,-75.547359,39.704321",
+    "geom:latitude":39.704321,
+    "geom:longitude":-75.547359,
+    "iso:country":"US",
+    "sg:address":"19 Lambson Ln",
+    "sg:city":"New Castle",
+    "sg:classifiers":[
+        {
+            "category":"Social Services",
+            "subcategory":"",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 656 8513",
+    "sg:postcode":"19720",
+    "sg:province":"DE",
+    "sg:tags":[
+        "organization",
+        "welfare"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833083,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_6WcVVeOA9ToLizPV9U9TJS_39.704321_-75.547359@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221808,
+    "wof:geomhash":"baa34dcb094eea116d5a81fb00e6969b",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833083,
+            "region_id":85688611,
+            "venue_id":873472087
+        }
+    ],
+    "wof:id":873472087,
+    "wof:lastmodified":1464221808,
+    "wof:name":"Rosehill Community Ctr",
+    "wof:parent_id":85833083,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "organization",
+        "welfare"
+    ]
+},
+  "bbox": [
+    -75.547359,
+    39.704321,
+    -75.547359,
+    39.704321
+],
+  "geometry": {"coordinates":[-75.547359,39.704321],"type":"Point"}
+}

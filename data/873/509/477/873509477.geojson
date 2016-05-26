@@ -1,0 +1,71 @@
+{
+  "id": 873509477,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.595351,39.727342,-75.595351,39.727342",
+    "geom:latitude":39.727342,
+    "geom:longitude":-75.595351,
+    "iso:country":"US",
+    "sg:address":"104 Reamer Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Building & Trades",
+            "subcategory":"Construction",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 5424",
+    "sg:postcode":"19804",
+    "sg:province":"DE",
+    "sg:tags":[
+        "hanging",
+        "contractor"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85833987,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_626FNMsGmo4cSeRmbcxyBu_39.727342_-75.595351@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464223350,
+    "wof:geomhash":"43f3334441829d32671069c30578a896",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85833987,
+            "region_id":85688611,
+            "venue_id":873509477
+        }
+    ],
+    "wof:id":873509477,
+    "wof:lastmodified":1464223350,
+    "wof:name":"Red Eft Painting",
+    "wof:parent_id":85833987,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "hanging",
+        "contractor"
+    ]
+},
+  "bbox": [
+    -75.595351,
+    39.727342,
+    -75.595351,
+    39.727342
+],
+  "geometry": {"coordinates":[-75.59535099999999,39.727342],"type":"Point"}
+}

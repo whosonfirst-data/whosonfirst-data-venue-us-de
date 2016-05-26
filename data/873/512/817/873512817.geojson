@@ -1,0 +1,73 @@
+{
+  "id": 873512817,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.128917,38.453035,-75.128917,38.453035",
+    "geom:latitude":38.453035,
+    "geom:longitude":-75.128917,
+    "iso:country":"US",
+    "sg:address":"29 Watergate Cir",
+    "sg:city":"Selbyville",
+    "sg:classifiers":[
+        {
+            "category":"Professional",
+            "subcategory":"Engineering",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 436 2418",
+    "sg:postcode":"19975",
+    "sg:province":"DE",
+    "sg:tags":[
+        "consulting",
+        "engineer"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85931579,
+        102083887,
+        85859373
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_7QuoqMNfjYQfvcBUsuWDf8_38.453316_-75.128743@1293134755"
+    },
+    "wof:country":"US",
+    "wof:created":1464223506,
+    "wof:geomhash":"952234e0f8b586bc9d51efa5f190a062",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083887,
+            "locality_id":85931579,
+            "neighbourhood_id":85859373,
+            "region_id":85688611,
+            "venue_id":873512817
+        }
+    ],
+    "wof:id":873512817,
+    "wof:lastmodified":1464223506,
+    "wof:name":"Krh & Associates Inc",
+    "wof:parent_id":85859373,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "consulting",
+        "engineer"
+    ]
+},
+  "bbox": [
+    -75.128917,
+    38.453035,
+    -75.128917,
+    38.453035
+],
+  "geometry": {"coordinates":[-75.128917,38.453035],"type":"Point"}
+}

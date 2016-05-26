@@ -1,0 +1,93 @@
+{
+  "id": 873518963,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.636628,39.728448,-75.636628,39.728448",
+    "geom:latitude":39.728448,
+    "geom:longitude":-75.636628,
+    "iso:country":"US",
+    "sg:address":"3722 Old Capitol Trl",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Health Services",
+            "subcategory":"Doctor",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Clinic",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Health Practitioner",
+            "type":"Services"
+        },
+        {
+            "category":"Health Services",
+            "subcategory":"Chiropractor",
+            "type":"Services"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 998 2060",
+    "sg:postcode":"19808",
+    "sg:province":"DE",
+    "sg:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "alternative",
+        "chiropractic"
+    ],
+    "sg:website":"http://www.kelmanchiropractic.com",
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85834415,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_1iyzQJ7yfc7dfTk0R8BnYd_39.728448_-75.636628@1303262471"
+    },
+    "wof:country":"US",
+    "wof:created":1464223834,
+    "wof:geomhash":"03dddc5a84afac5be0707e87cae39857",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85834415,
+            "region_id":85688611,
+            "venue_id":873518963
+        }
+    ],
+    "wof:id":873518963,
+    "wof:lastmodified":1464223834,
+    "wof:name":"Kelman Chiropractic Center",
+    "wof:parent_id":85834415,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "medicine",
+        "physician",
+        "surgeon",
+        "alternative",
+        "chiropractic"
+    ]
+},
+  "bbox": [
+    -75.636628,
+    39.728448,
+    -75.636628,
+    39.728448
+],
+  "geometry": {"coordinates":[-75.636628,39.728448],"type":"Point"}
+}

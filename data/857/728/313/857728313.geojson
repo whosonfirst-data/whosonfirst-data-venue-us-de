@@ -1,0 +1,69 @@
+{
+  "id": 857728313,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"-75.585659,39.751329,-75.585659,39.751329",
+    "geom:latitude":39.751329,
+    "geom:longitude":-75.585659,
+    "iso:country":"US",
+    "sg:address":"3000 Lancaster Ave",
+    "sg:city":"Wilmington",
+    "sg:classifiers":[
+        {
+            "category":"Autos & Motor Vehicles",
+            "subcategory":"Fuel & Gas Station",
+            "type":"Retail Goods"
+        }
+    ],
+    "sg:owner":"simplegeo",
+    "sg:phone":"+1 302 654 1168",
+    "sg:postcode":"19805",
+    "sg:province":"DE",
+    "sg:tags":[
+        "oil"
+    ],
+    "src:geom":"simplegeo",
+    "wof:belongsto":[
+        85688611,
+        85633793,
+        85848761,
+        102083891
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "sg:id":"SG_0x6fomnVr3kcMfd0zsEtzF_39.751329_-75.585659@1294085537"
+    },
+    "wof:country":"US",
+    "wof:created":1464221402,
+    "wof:geomhash":"623affbb163d081367e225041f4080aa",
+    "wof:hierarchy":[
+        {
+            "country_id":85633793,
+            "county_id":102083891,
+            "neighbourhood_id":85848761,
+            "region_id":85688611,
+            "venue_id":857728313
+        }
+    ],
+    "wof:id":857728313,
+    "wof:lastmodified":1464221402,
+    "wof:name":"Sal's Auto Svc Inc",
+    "wof:parent_id":85848761,
+    "wof:placetype":"venue",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[
+        "oil"
+    ]
+},
+  "bbox": [
+    -75.585659,
+    39.751329,
+    -75.585659,
+    39.751329
+],
+  "geometry": {"coordinates":[-75.58565900000001,39.751329],"type":"Point"}
+}
