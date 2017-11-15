@@ -2,14 +2,20 @@
   "id": 873513431,
   "type": "Feature",
   "properties": {
+    "addr:full":"4737 Concord Pike Wilmington DE 19803",
+    "addr:housenumber":"4737",
+    "addr:postcode":"19803",
+    "addr:street":"Concord Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.542488,39.764667,-75.542488,39.764667",
     "geom:latitude":39.764667,
     "geom:longitude":-75.542488,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4737 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083891,
         85803955
     ],
+    "wof:brand_id":1125152521,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_28d4JfiXBbPxOxRvevBpGB_39.764667_-75.542488@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464223528,
-    "wof:geomhash":"f5b9b97a588bef4351ccd6e3065ec8ef",
+    "wof:geomhash":"4df77b96077617c0edc273280bb7c767",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873513431,
-    "wof:lastmodified":1466428159,
+    "wof:lastmodified":1510698920,
     "wof:name":"Dickey's Barbecue Pit",
     "wof:parent_id":85803955,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873510841,
   "type": "Feature",
   "properties": {
+    "addr:full":"2101 Kirkwood Hwy Wilmington DE 19805",
+    "addr:housenumber":"2101",
+    "addr:postcode":"19805",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.610269,39.738089,-75.610269,39.738089",
     "geom:latitude":39.738089,
     "geom:longitude":-75.610269,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2101 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85831761,
         102083891
     ],
+    "wof:brand_id":420575047,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1BWZpd1MiQU7peFFTYCtQx_39.738089_-75.610269@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223413,
-    "wof:geomhash":"a88b9a071dd7b802708b4dae6a69c196",
+    "wof:geomhash":"797f3fdd54b973d550600ccf7d32d80f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873510841,
-    "wof:lastmodified":1466428044,
+    "wof:lastmodified":1510602549,
     "wof:name":"Party City",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",

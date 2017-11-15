@@ -2,14 +2,20 @@
   "id": 873493393,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 N Dupont Hwy Dover DE 19901",
+    "addr:housenumber":"1001",
+    "addr:postcode":"19901",
+    "addr:street":"N Dupont Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.534066,39.184642,-75.534066,39.184642",
     "geom:latitude":39.184642,
     "geom:longitude":-75.534066,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1001 N Dupont Hwy",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083871,
         85842379
     ],
+    "wof:brand_id":1125156691,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7DCPjjQBP7OuUd4E6yNlKP_39.184642_-75.534066@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222621,
-    "wof:geomhash":"82b4f4f259c95a1e5077c73d29ddb44c",
+    "wof:geomhash":"baf31de40e956c5f67e338e0fdf42b5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873493393,
-    "wof:lastmodified":1466427769,
+    "wof:lastmodified":1510697126,
     "wof:name":"Acme Markets Inc",
     "wof:parent_id":85842379,
     "wof:placetype":"venue",

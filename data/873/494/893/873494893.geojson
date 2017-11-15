@@ -2,14 +2,20 @@
   "id": 873494893,
   "type": "Feature",
   "properties": {
+    "addr:full":"2150 New Castle Ave New Castle DE 19720",
+    "addr:housenumber":"2150",
+    "addr:postcode":"19720",
+    "addr:street":"New Castle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.554308,39.693552,-75.554308,39.693552",
     "geom:latitude":39.693552,
     "geom:longitude":-75.554308,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2150 New Castle Ave",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85833083,
         102083891
     ],
+    "wof:brand_id":1125151597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0tJKuU6VP3mNMM9h9MxTiX_39.693552_-75.554308@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222709,
-    "wof:geomhash":"cc1f3cb7833f1a32ba66b047106293df",
+    "wof:geomhash":"0bf00fa3d4208e07b5e8ddb4a6ff8a19",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873494893,
-    "wof:lastmodified":1466427890,
+    "wof:lastmodified":1510693869,
     "wof:name":"Healthsouth Sports Medicine",
     "wof:parent_id":85833083,
     "wof:placetype":"venue",

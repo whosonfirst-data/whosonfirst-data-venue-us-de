@@ -2,14 +2,20 @@
   "id": 873515821,
   "type": "Feature",
   "properties": {
+    "addr:full":"76 Beech Hill Dr Newark DE 19711",
+    "addr:housenumber":"76",
+    "addr:postcode":"19711",
+    "addr:street":"Beech Hill Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.736865,39.753258,-75.736865,39.753258",
     "geom:latitude":39.753258,
     "geom:longitude":-75.736865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"76 Beech Hill Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85842215,
         102083891
     ],
+    "wof:brand_id":1125159567,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33aGqIJsWcDnlGKXMF4vT3_39.753258_-75.736865@1303262470"
     },
     "wof:country":"US",
     "wof:created":1464223657,
-    "wof:geomhash":"9d00639ab4414d27f1a01ef6c6536f6d",
+    "wof:geomhash":"eb065745d8141fa5ecd168b5cf52174e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873515821,
-    "wof:lastmodified":1466428255,
+    "wof:lastmodified":1510695759,
     "wof:name":"Guide One Insurance",
     "wof:parent_id":85842215,
     "wof:placetype":"venue",

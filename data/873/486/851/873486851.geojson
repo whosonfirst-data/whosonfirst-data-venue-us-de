@@ -2,14 +2,20 @@
   "id": 873486851,
   "type": "Feature",
   "properties": {
+    "addr:full":"301 Governors Pl Bear DE 19701",
+    "addr:housenumber":"301",
+    "addr:postcode":"19701",
+    "addr:street":"Governors Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.662045,39.632314,-75.662045,39.632314",
     "geom:latitude":39.632314,
     "geom:longitude":-75.662045,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"301 Governors Pl",
     "sg:city":"Bear",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125157747,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30R7kyKRQXBoExRBSGAYsr_39.632314_-75.662045@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222372,
-    "wof:geomhash":"d99f6a805ef5e0609d756c63e22e196c",
+    "wof:geomhash":"b947b321e0f643f63e6cd1adf7b0f865",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873486851,
-    "wof:lastmodified":1466427618,
+    "wof:lastmodified":1510699018,
     "wof:name":"Value City Furniture",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

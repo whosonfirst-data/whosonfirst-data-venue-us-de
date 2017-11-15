@@ -2,14 +2,20 @@
   "id": 873510605,
   "type": "Feature",
   "properties": {
+    "addr:full":"613 Governors Pl Bear DE 19701",
+    "addr:housenumber":"613",
+    "addr:postcode":"19701",
+    "addr:street":"Governors Pl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.659619,39.634591,-75.659619,39.634591",
     "geom:latitude":39.634591,
     "geom:longitude":-75.659619,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"613 Governors Pl",
     "sg:city":"Bear",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125152717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S6aEihVOonKCTIPqwjlmM_39.634591_-75.659619@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223405,
-    "wof:geomhash":"e2eadf4705680ed831ed2e79f0972010",
+    "wof:geomhash":"fee00c7e1c07992d7c008408a84d2011",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873510605,
-    "wof:lastmodified":1466428007,
+    "wof:lastmodified":1510696849,
     "wof:name":"Karate For Kids",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

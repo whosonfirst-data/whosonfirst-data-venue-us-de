@@ -2,14 +2,20 @@
   "id": 873518025,
   "type": "Feature",
   "properties": {
+    "addr:full":"4010 Concord Pike Wilmington DE 19803",
+    "addr:housenumber":"4010",
+    "addr:postcode":"19803",
+    "addr:street":"Concord Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.550612,39.810173,-75.550612,39.810173",
     "geom:latitude":39.810173,
     "geom:longitude":-75.550612,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4010 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85858565,
         102083891
     ],
+    "wof:brand_id":1125158403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2IaqUt3coIeSl77qNbEvBw_39.810173_-75.550612@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223796,
-    "wof:geomhash":"554815d6f4ce1c12b05e9a9531975423",
+    "wof:geomhash":"fb6627b491d91d6bf9f7d9f5b73931cc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873518025,
-    "wof:lastmodified":1466428178,
+    "wof:lastmodified":1510698898,
     "wof:name":"TD Bank",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",

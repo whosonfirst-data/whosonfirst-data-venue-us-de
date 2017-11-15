@@ -2,14 +2,20 @@
   "id": 873512111,
   "type": "Feature",
   "properties": {
+    "addr:full":"650 Lehigh Rd Newark DE 19711",
+    "addr:housenumber":"650",
+    "addr:postcode":"19711",
+    "addr:street":"Lehigh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.76508,39.673268,-75.76508,39.673268",
     "geom:latitude":39.673268,
     "geom:longitude":-75.76508,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"650 Lehigh Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85841135
     ],
+    "wof:brand_id":1125152419,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4H3vUV85Uib0bKbAOMRwQv_39.673433_-75.764556@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464223479,
-    "wof:geomhash":"76ef3494e35570910c792bfbdcad8539",
+    "wof:geomhash":"6dba9fcb8684b57347e253cdde0797bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873512111,
-    "wof:lastmodified":1466428072,
+    "wof:lastmodified":1510694885,
     "wof:name":"Park Place Apartments",
     "wof:parent_id":85841135,
     "wof:placetype":"venue",

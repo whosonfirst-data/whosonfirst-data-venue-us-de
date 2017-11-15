@@ -2,6 +2,10 @@
   "id": 857685053,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 N Orange St Wilmington DE 19801",
+    "addr:housenumber":"1001",
+    "addr:postcode":"19801",
+    "addr:street":"N Orange St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":857685053,
-    "wof:lastmodified":1466428006,
+    "wof:lastmodified":1472613981,
     "wof:name":"American Express",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",

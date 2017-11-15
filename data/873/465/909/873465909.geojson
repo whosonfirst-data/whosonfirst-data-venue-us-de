@@ -2,14 +2,20 @@
   "id": 873465909,
   "type": "Feature",
   "properties": {
+    "addr:full":"184 Center St New Castle DE 19720",
+    "addr:housenumber":"184",
+    "addr:postcode":"19720",
+    "addr:street":"Center St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.544393,39.715413,-75.544393,39.715413",
     "geom:latitude":39.715413,
     "geom:longitude":-75.544393,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"184 Center St",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85833991
     ],
+    "wof:brand_id":420573815,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5vfFz7AsKbVuHcVbfE0iJL_39.715413_-75.544393@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221586,
-    "wof:geomhash":"78498498cb2341d64787746d7dc5f075",
+    "wof:geomhash":"0a8a473bab2047c81c0a016f7e8dd676",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873465909,
-    "wof:lastmodified":1466427637,
+    "wof:lastmodified":1510603434,
     "wof:name":"Rent-A-Center",
     "wof:parent_id":85833991,
     "wof:placetype":"venue",

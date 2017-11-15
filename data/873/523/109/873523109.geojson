@@ -2,14 +2,20 @@
   "id": 873523109,
   "type": "Feature",
   "properties": {
+    "addr:full":"1030 Forrest Ave Dover DE 19904",
+    "addr:housenumber":"1030",
+    "addr:postcode":"19904",
+    "addr:street":"Forrest Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.544549,39.158675,-75.544549,39.158675",
     "geom:latitude":39.158675,
     "geom:longitude":-75.544549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1030 Forrest Ave",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083871,
         85859041
     ],
+    "wof:brand_id":420575317,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6tjzFkVqwEaF8gkgCqzGZO_39.158675_-75.544549@1303262472"
     },
     "wof:country":"US",
     "wof:created":1464224009,
-    "wof:geomhash":"12b3962f81104d02fee96637dddb938c",
+    "wof:geomhash":"97ef1ce9476aa34063883bbc2d07bb5a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873523109,
-    "wof:lastmodified":1466428248,
+    "wof:lastmodified":1510602763,
     "wof:name":"American Home Mortgage",
     "wof:parent_id":85859041,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857723901,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Troubador Way Newark DE 19702",
+    "addr:housenumber":"100",
+    "addr:postcode":"19702",
+    "addr:street":"Troubador Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.664186,39.64344,-75.664186,39.64344",
     "geom:latitude":39.64344,
     "geom:longitude":-75.664186,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Troubador Way",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125156791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mOr7Hj48qMmKhXfnnY4x8_39.643440_-75.664186@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221322,
-    "wof:geomhash":"3abee618243cdef1956e81a74e6f99c3",
+    "wof:geomhash":"84b4de24d423ec156089f58fe525f5cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857723901,
-    "wof:lastmodified":1466428017,
+    "wof:lastmodified":1510695703,
     "wof:name":"My Place",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

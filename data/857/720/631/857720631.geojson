@@ -2,14 +2,20 @@
   "id": 857720631,
   "type": "Feature",
   "properties": {
+    "addr:full":"742 S Governors Ave Dover DE 19904",
+    "addr:housenumber":"742",
+    "addr:postcode":"19904",
+    "addr:street":"S Governors Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.525039,39.149517,-75.525039,39.149517",
     "geom:latitude":39.149517,
     "geom:longitude":-75.525039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"742 S Governors Ave",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083871,
         85847335
     ],
+    "wof:brand_id":1125153637,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1JVfAjFPjCXBMiRjJ77hln_39.149517_-75.525039@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221261,
-    "wof:geomhash":"ca5a65f97829eec52af9fdcda5f4c39f",
+    "wof:geomhash":"6d6d1212bf5f25b896466600e6cee713",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857720631,
-    "wof:lastmodified":1466427903,
+    "wof:lastmodified":1510695775,
     "wof:name":"Progressive Insurance",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",

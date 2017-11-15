@@ -2,14 +2,20 @@
   "id": 857717107,
   "type": "Feature",
   "properties": {
+    "addr:full":"3238 Kirkwood Hwy Wilmington DE 19808",
+    "addr:housenumber":"3238",
+    "addr:postcode":"19808",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.625379,39.737107,-75.625379,39.737107",
     "geom:latitude":39.737107,
     "geom:longitude":-75.625379,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3238 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85831761,
         102083891
     ],
+    "wof:brand_id":420574425,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6OQ7VG8rQegRpfk2iZaZnL_39.737107_-75.625379@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221186,
-    "wof:geomhash":"cb66b0cd2c71171b9360212703af0a49",
+    "wof:geomhash":"a71fa902f679935578c00575a7bfb7c1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":857717107,
-    "wof:lastmodified":1466427759,
+    "wof:lastmodified":1510604426,
     "wof:name":"Famous Footwear",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",

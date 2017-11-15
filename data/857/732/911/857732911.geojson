@@ -2,14 +2,20 @@
   "id": 857732911,
   "type": "Feature",
   "properties": {
+    "addr:full":"213 W Dupont Hwy Millsboro DE 19966",
+    "addr:housenumber":"213",
+    "addr:postcode":"19966",
+    "addr:street":"W Dupont Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.298594,38.587896,-75.298594,38.587896",
     "geom:latitude":38.587896,
     "geom:longitude":-75.298594,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"213 W Dupont Hwy",
     "sg:city":"Millsboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083887,
         85823997
     ],
+    "wof:brand_id":1125154635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1791QKZaCSsLVpyUB7pdEE_38.587896_-75.298594@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221499,
-    "wof:geomhash":"62d3538ea675ee1117a53d910940f127",
+    "wof:geomhash":"0a83e4ac21c1867e47c8ed018225b04e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":857732911,
-    "wof:lastmodified":1466427651,
+    "wof:lastmodified":1510697729,
     "wof:name":"Easter Seals",
     "wof:parent_id":85823997,
     "wof:placetype":"venue",

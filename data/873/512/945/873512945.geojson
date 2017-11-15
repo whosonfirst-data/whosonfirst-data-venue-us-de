@@ -2,14 +2,20 @@
   "id": 873512945,
   "type": "Feature",
   "properties": {
+    "addr:full":"136 Christiana Mall Newark DE 19702",
+    "addr:housenumber":"136",
+    "addr:postcode":"19702",
+    "addr:street":"Christiana Mall",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.653471,39.675912,-75.653471,39.675912",
     "geom:latitude":39.675912,
     "geom:longitude":-75.653471,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"136 Christiana Mall",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125151181,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4eV0WFML7nscLL0nDUc9EM_39.675912_-75.653471@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464223512,
-    "wof:geomhash":"4608416e6fd9ffbf80c5cbf0706dd11e",
+    "wof:geomhash":"6618ab96915e45cf3c8092264b0ca91a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873512945,
-    "wof:lastmodified":1466428150,
+    "wof:lastmodified":1510697192,
     "wof:name":"Haagen Dazs",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

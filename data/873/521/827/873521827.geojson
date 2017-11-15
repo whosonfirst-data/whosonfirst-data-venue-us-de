@@ -2,14 +2,20 @@
   "id": 873521827,
   "type": "Feature",
   "properties": {
+    "addr:full":"1062 Lafferty Ln Dover DE 19901",
+    "addr:housenumber":"1062",
+    "addr:postcode":"19901",
+    "addr:street":"Lafferty Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.485802,39.1502,-75.485802,39.1502",
     "geom:latitude":39.1502,
     "geom:longitude":-75.485802,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1062 Lafferty Ln",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083871,
         85809385
     ],
+    "wof:brand_id":1125156269,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0kEGWGPhnqhXpBGCY6UvlK_39.150200_-75.485802@1303262472"
     },
     "wof:country":"US",
     "wof:created":1464223955,
-    "wof:geomhash":"7551ff31b904c29d0309df54ee79b14c",
+    "wof:geomhash":"9afa5543df0e5fe7b4a79b9c6945b791",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873521827,
-    "wof:lastmodified":1466428222,
+    "wof:lastmodified":1510699970,
     "wof:name":"Maaco Auto Painting & Bodyworks",
     "wof:parent_id":85809385,
     "wof:placetype":"venue",

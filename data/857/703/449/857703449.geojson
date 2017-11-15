@@ -2,14 +2,20 @@
   "id": 857703449,
   "type": "Feature",
   "properties": {
+    "addr:full":"1144 Pulaski Hwy Bear DE 19701",
+    "addr:housenumber":"1144",
+    "addr:postcode":"19701",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.666096,39.629636,-75.666096,39.629636",
     "geom:latitude":39.629636,
     "geom:longitude":-75.666096,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1144 Pulaski Hwy",
     "sg:city":"Bear",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":420575539,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3VLfDKuqayhLUywQeSZulB_39.629636_-75.666096@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220885,
-    "wof:geomhash":"913952dfccd845f50310b626872851b2",
+    "wof:geomhash":"f6cb0cdee638e93fdfd2a4b1f88e9bc2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857703449,
-    "wof:lastmodified":1466427359,
+    "wof:lastmodified":1510602693,
     "wof:name":"Household Finance",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

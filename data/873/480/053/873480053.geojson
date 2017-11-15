@@ -2,14 +2,20 @@
   "id": 873480053,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Murphy Rd Wilmington DE 19803",
+    "addr:housenumber":"1",
+    "addr:postcode":"19803",
+    "addr:street":"Murphy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.543996,39.786093,-75.543996,39.786093",
     "geom:latitude":39.786093,
     "geom:longitude":-75.543996,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Murphy Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85814293,
         102083891
     ],
+    "wof:brand_id":1125155759,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FsvY8tLgcV2L6uYlATo5B_39.786093_-75.543996@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222114,
-    "wof:geomhash":"fbde8da4d2c70df2d74031699442bca7",
+    "wof:geomhash":"984e8185c7ed67d7b7ca36c2809e37fa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873480053,
-    "wof:lastmodified":1466427296,
+    "wof:lastmodified":1510613244,
     "wof:name":"Hot Nails",
     "wof:parent_id":85814293,
     "wof:placetype":"venue",

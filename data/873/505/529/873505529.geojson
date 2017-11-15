@@ -2,14 +2,20 @@
   "id": 873505529,
   "type": "Feature",
   "properties": {
+    "addr:full":"216 New Castle Ave New Castle DE 19720",
+    "addr:housenumber":"216",
+    "addr:postcode":"19720",
+    "addr:street":"New Castle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.556405,39.687834,-75.556405,39.687834",
     "geom:latitude":39.687834,
     "geom:longitude":-75.556405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"216 New Castle Ave",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85833083,
         102083891
     ],
+    "wof:brand_id":1125152191,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22kA61xyHz3KIHPuyq6NyK_39.687834_-75.556405@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223181,
-    "wof:geomhash":"cae755ade59f1b81db3063423f8bbb7b",
+    "wof:geomhash":"818b630243cd96229ab8f31e4ff6076b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873505529,
-    "wof:lastmodified":1466428130,
+    "wof:lastmodified":1510697278,
     "wof:name":"China Inn",
     "wof:parent_id":85833083,
     "wof:placetype":"venue",

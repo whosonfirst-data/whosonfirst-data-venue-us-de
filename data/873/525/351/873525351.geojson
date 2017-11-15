@@ -2,6 +2,10 @@
   "id": 873525351,
   "type": "Feature",
   "properties": {
+    "addr:full":"304 N Dupont Blvd Smyrna DE 19977",
+    "addr:housenumber":"304",
+    "addr:postcode":"19977",
+    "addr:street":"N Dupont Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":873525351,
-    "wof:lastmodified":1466428263,
+    "wof:lastmodified":1472614125,
     "wof:name":"Smyrna Diner",
     "wof:parent_id":85815601,
     "wof:placetype":"venue",

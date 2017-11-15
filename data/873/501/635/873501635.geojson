@@ -2,14 +2,20 @@
   "id": 873501635,
   "type": "Feature",
   "properties": {
+    "addr:full":"4723 Concord Pike Wilmington DE 19803",
+    "addr:housenumber":"4723",
+    "addr:postcode":"19803",
+    "addr:street":"Concord Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.548566,39.818239,-75.548566,39.818239",
     "geom:latitude":39.818239,
     "geom:longitude":-75.548566,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4723 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85858565,
         102083891
     ],
+    "wof:brand_id":1125152047,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1yvtlk4R8ykRJntkGqaKC1_39.818239_-75.548566@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223015,
-    "wof:geomhash":"c41429197d6f7e1ff56636aa59e2731b",
+    "wof:geomhash":"a625d9524d48d5e0d1507f005d9356c2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873501635,
-    "wof:lastmodified":1466428100,
+    "wof:lastmodified":1510694905,
     "wof:name":"La-Z-Boy Furniture Galleries",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",

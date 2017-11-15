@@ -2,14 +2,20 @@
   "id": 857688299,
   "type": "Feature",
   "properties": {
+    "addr:full":"128 Christiana Rd Newark DE 19702",
+    "addr:housenumber":"128",
+    "addr:postcode":"19702",
+    "addr:street":"Christiana Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.658932,39.663536,-75.658932,39.663536",
     "geom:latitude":39.663536,
     "geom:longitude":-75.658932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"128 Christiana Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":420575405,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7m59cS3tht5yETCv7CNo9p_39.663536_-75.658932@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220584,
-    "wof:geomhash":"db38be263b04eef73f332c93ad345524",
+    "wof:geomhash":"36d37e6aad962806b4a30a2caccf3bf1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857688299,
-    "wof:lastmodified":1466426919,
+    "wof:lastmodified":1510602090,
     "wof:name":"Piercing Pagoda",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857707027,
   "type": "Feature",
   "properties": {
+    "addr:full":"124 N West St Camden Wyoming DE 19934",
+    "addr:housenumber":"124",
+    "addr:postcode":"19934",
+    "addr:street":"N West St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.544266,39.11864,-75.544266,39.11864",
     "geom:latitude":39.11864,
     "geom:longitude":-75.544266,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"124 N West St",
     "sg:city":"Camden Wyoming",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083871,
         85810417
     ],
+    "wof:brand_id":1125151001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4xa4eOdD6ns798D91xROkK_39.118640_-75.544266@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220950,
-    "wof:geomhash":"6fe2a9c69033d5bdfa1300fa4f71f52f",
+    "wof:geomhash":"6514b94fe0eede2ef7d232aa7fa82b1a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857707027,
-    "wof:lastmodified":1466427490,
+    "wof:lastmodified":1510695765,
     "wof:name":"Beauti Control Cosmetics Inc",
     "wof:parent_id":85810417,
     "wof:placetype":"venue",

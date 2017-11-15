@@ -2,14 +2,20 @@
   "id": 857722129,
   "type": "Feature",
   "properties": {
+    "addr:full":"4520 Kirkwood Hwy Wilmington DE 19808",
+    "addr:housenumber":"4520",
+    "addr:postcode":"19808",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.657532,39.724064,-75.657532,39.724064",
     "geom:latitude":39.724064,
     "geom:longitude":-75.657532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4520 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85833847,
         102083891
     ],
+    "wof:brand_id":1125152429,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7OE29jd4qmu87kL0s7x7h6_39.724064_-75.657532@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221291,
-    "wof:geomhash":"883325455e8df8df79d09cd919293f22",
+    "wof:geomhash":"7a3634eae6bbdf18d925585399b6bdca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857722129,
-    "wof:lastmodified":1466427919,
+    "wof:lastmodified":1510693824,
     "wof:name":"Sterling Optical",
     "wof:parent_id":85833847,
     "wof:placetype":"venue",

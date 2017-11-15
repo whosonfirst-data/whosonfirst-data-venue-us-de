@@ -2,14 +2,20 @@
   "id": 873474319,
   "type": "Feature",
   "properties": {
+    "addr:full":"111 Railroad St Millsboro DE 19966",
+    "addr:housenumber":"111",
+    "addr:postcode":"19966",
+    "addr:street":"Railroad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.293629,38.589296,-75.293629,38.589296",
     "geom:latitude":38.589296,
     "geom:longitude":-75.293629,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"111 Railroad St",
     "sg:city":"Millsboro",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083887,
         85823997
     ],
+    "wof:brand_id":1125153959,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FfWzWbDKmIsJTKjdlDQFn_38.589296_-75.293629@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221891,
-    "wof:geomhash":"73024d79391841725d148cb6c4587059",
+    "wof:geomhash":"5634434488b766735dad0bd56ee932ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873474319,
-    "wof:lastmodified":1466427148,
+    "wof:lastmodified":1510700011,
     "wof:name":"Hair Depot",
     "wof:parent_id":85823997,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873475851,
   "type": "Feature",
   "properties": {
+    "addr:full":"610 S Dual Hwy Seaford DE 19973",
+    "addr:housenumber":"610",
+    "addr:postcode":"19973",
+    "addr:street":"S Dual Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.592855,38.635648,-75.592855,38.635648",
     "geom:latitude":38.635648,
     "geom:longitude":-75.592855,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"610 S Dual Hwy",
     "sg:city":"Seaford",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85852049,
         102083887
     ],
+    "wof:brand_id":1125152133,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7TdoT2bAVncn4C1KXDCI1l_38.635648_-75.592855@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221943,
-    "wof:geomhash":"f1b4140c3b99100d1349e56a5cd36607",
+    "wof:geomhash":"e60d7e0994003db1fe4a149809a9b80c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873475851,
-    "wof:lastmodified":1466427263,
+    "wof:lastmodified":1510695266,
     "wof:name":"Cingular Wireless LLC",
     "wof:parent_id":85852049,
     "wof:placetype":"venue",

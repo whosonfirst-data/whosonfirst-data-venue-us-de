@@ -2,14 +2,20 @@
   "id": 857726125,
   "type": "Feature",
   "properties": {
+    "addr:full":"760 Moose Lodge Rd Camden Wyoming DE 19934",
+    "addr:housenumber":"760",
+    "addr:postcode":"19934",
+    "addr:street":"Moose Lodge Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.579013,39.105862,-75.579013,39.105862",
     "geom:latitude":39.105862,
     "geom:longitude":-75.579013,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"760 Moose Lodge Rd",
     "sg:city":"Camden Wyoming",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083871,
         85821189
     ],
+    "wof:brand_id":420574125,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7i1LGvJ4xDwE4TAByU3lU0_39.105862_-75.579013@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221363,
-    "wof:geomhash":"d71b85aa25af5d32976ce485bbe15f3b",
+    "wof:geomhash":"e20c76e774b9049f5198cf9748adf7cc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857726125,
-    "wof:lastmodified":1466426995,
+    "wof:lastmodified":1510604804,
     "wof:name":"Loyal Order Of Moose",
     "wof:parent_id":85821189,
     "wof:placetype":"venue",

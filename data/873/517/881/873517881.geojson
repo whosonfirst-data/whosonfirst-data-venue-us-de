@@ -2,14 +2,20 @@
   "id": 873517881,
   "type": "Feature",
   "properties": {
+    "addr:full":"1 Murphy Rd Wilmington DE 19803",
+    "addr:housenumber":"1",
+    "addr:postcode":"19803",
+    "addr:street":"Murphy Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.54586,39.785599,-75.54586,39.785599",
     "geom:latitude":39.785599,
     "geom:longitude":-75.54586,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1 Murphy Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -49,13 +55,14 @@
         85814293,
         102083891
     ],
+    "wof:brand_id":1125151415,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7QV69g6azgVmDKsTfQAiXc_39.785599_-75.545860@1303262470"
     },
     "wof:country":"US",
     "wof:created":1464223788,
-    "wof:geomhash":"cf881ba625dda0a4309f37c2aa4b4347",
+    "wof:geomhash":"7bfd8487bb963f169e880047024074e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -66,7 +73,7 @@
         }
     ],
     "wof:id":873517881,
-    "wof:lastmodified":1466428299,
+    "wof:lastmodified":1510698992,
     "wof:name":"Duron Paints & Wallcoverings",
     "wof:parent_id":85814293,
     "wof:placetype":"venue",

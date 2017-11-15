@@ -2,14 +2,20 @@
   "id": 873520791,
   "type": "Feature",
   "properties": {
+    "addr:full":"RR 8 Dover DE 19901",
+    "addr:housenumber":"",
+    "addr:postcode":"19901",
+    "addr:street":"Rr 8",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.515602,39.159901,-75.515602,39.159901",
     "geom:latitude":39.159901,
     "geom:longitude":-75.515602,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"RR 8",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083871,
         85822185
     ],
+    "wof:brand_id":1125158533,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0iL4aENUbvXgAIkGUqkwP1_39.159901_-75.515602@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223918,
-    "wof:geomhash":"777930fc4431493af20b2db14ff56be6",
+    "wof:geomhash":"a8ed23e7bf57cb51980103b0e773db2f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873520791,
-    "wof:lastmodified":1466428278,
+    "wof:lastmodified":1510698663,
     "wof:name":"General Nutrition Centers",
     "wof:parent_id":85822185,
     "wof:placetype":"venue",

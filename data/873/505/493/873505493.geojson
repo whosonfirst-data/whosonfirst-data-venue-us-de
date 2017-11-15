@@ -2,6 +2,10 @@
   "id": 873505493,
   "type": "Feature",
   "properties": {
+    "addr:full":"1001 Centre Rd Wilmington DE 19805",
+    "addr:housenumber":"1001",
+    "addr:postcode":"19805",
+    "addr:street":"Centre Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -50,7 +54,7 @@
         }
     ],
     "wof:id":873505493,
-    "wof:lastmodified":1466428128,
+    "wof:lastmodified":1472614095,
     "wof:name":"Faulkland Exxon Svc Ctr",
     "wof:parent_id":85848761,
     "wof:placetype":"venue",

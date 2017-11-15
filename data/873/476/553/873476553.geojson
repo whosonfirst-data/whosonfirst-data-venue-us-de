@@ -2,6 +2,10 @@
   "id": 873476553,
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 Wilson St Wilmington DE 19808",
+    "addr:housenumber":"3210",
+    "addr:postcode":"19808",
+    "addr:street":"Wilson St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873476553,
-    "wof:lastmodified":1466427217,
+    "wof:lastmodified":1472614043,
     "wof:name":"Dops Inc",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",

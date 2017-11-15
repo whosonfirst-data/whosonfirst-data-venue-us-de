@@ -2,14 +2,20 @@
   "id": 873475859,
   "type": "Feature",
   "properties": {
+    "addr:full":"1800 Concord Pike Wilmington DE 19803",
+    "addr:housenumber":"1800",
+    "addr:postcode":"19803",
+    "addr:street":"Concord Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.546514,39.789314,-75.546514,39.789314",
     "geom:latitude":39.789314,
     "geom:longitude":-75.546514,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1800 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85818487,
         102083891
     ],
+    "wof:brand_id":420574681,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4x91iM9jAWvU6CxlCHmv8r_39.789314_-75.546514@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221944,
-    "wof:geomhash":"5944e6078a82a46d02268629b31c9003",
+    "wof:geomhash":"5f1434af6fa2287cc0ecd088a5386642",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873475859,
-    "wof:lastmodified":1466427264,
+    "wof:lastmodified":1510604740,
     "wof:name":"Carlson Wagonlit Travel",
     "wof:parent_id":85818487,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873465671,
   "type": "Feature",
   "properties": {
+    "addr:full":"504 W Market St Georgetown DE 19947",
+    "addr:housenumber":"504",
+    "addr:postcode":"19947",
+    "addr:street":"W Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.392998,38.684385,-75.392998,38.684385",
     "geom:latitude":38.684385,
     "geom:longitude":-75.392998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"504 W Market St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083887,
         85851647
     ],
+    "wof:brand_id":1125154635,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_26rGNRSlpX1wP90bOlgviH_38.684385_-75.392998@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221582,
-    "wof:geomhash":"096258f75b3216c1079d2530a2c8a692",
+    "wof:geomhash":"19e93ae9c674c533110fef963f31adca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873465671,
-    "wof:lastmodified":1466427405,
+    "wof:lastmodified":1510697729,
     "wof:name":"Easter Seals",
     "wof:parent_id":85851647,
     "wof:placetype":"venue",

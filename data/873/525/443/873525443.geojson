@@ -2,6 +2,10 @@
   "id": 873525443,
   "type": "Feature",
   "properties": {
+    "addr:full":"PMB 6846 Suite 120 2711 Centerville Road Wilmington DE 19808",
+    "addr:housenumber":"6846 suite 120",
+    "addr:postcode":"2711;19808",
+    "addr:street":"Pmb;Centerville Road",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":873525443,
-    "wof:lastmodified":1466428271,
+    "wof:lastmodified":1472614131,
     "wof:name":"Evony",
     "wof:parent_id":85834415,
     "wof:placetype":"venue",

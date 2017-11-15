@@ -2,14 +2,20 @@
   "id": 873492787,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 N Dupont Hwy Dover DE 19901",
+    "addr:housenumber":"155",
+    "addr:postcode":"19901",
+    "addr:street":"N Dupont Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.516595,39.166781,-75.516595,39.166781",
     "geom:latitude":39.166781,
     "geom:longitude":-75.516595,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 N Dupont Hwy",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083871,
         85817337
     ],
+    "wof:brand_id":1125153345,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7fvM9eYCyvW9HQ4QCjv4is_39.166781_-75.516595@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222593,
-    "wof:geomhash":"089aa0434d00d6e0cc07f4155481ac2a",
+    "wof:geomhash":"9ad37f0d6ccd9e31263337ad211079e2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873492787,
-    "wof:lastmodified":1466427796,
+    "wof:lastmodified":1510699311,
     "wof:name":"United Check Cashing Co",
     "wof:parent_id":85817337,
     "wof:placetype":"venue",

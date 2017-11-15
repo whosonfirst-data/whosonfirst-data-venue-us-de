@@ -2,14 +2,20 @@
   "id": 857729023,
   "type": "Feature",
   "properties": {
+    "addr:full":"17 McCullough Dr New Castle DE 19720",
+    "addr:housenumber":"17",
+    "addr:postcode":"19720",
+    "addr:street":"Mccullough Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.567328,39.692294,-75.567328,39.692294",
     "geom:latitude":39.692294,
     "geom:longitude":-75.567328,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"17 McCullough Dr",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         85833083,
         102083891
     ],
+    "wof:brand_id":1125159369,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7KokcwMbvzFGS0RfVEhEKL_39.692294_-75.567328@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221416,
-    "wof:geomhash":"0a0631d9af2167d600731f4201d93c3f",
+    "wof:geomhash":"f14a37ca11a3fc88f21f3334c1f15db0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":857729023,
-    "wof:lastmodified":1466427284,
+    "wof:lastmodified":1510693227,
     "wof:name":"Simplexgrinnell LP",
     "wof:parent_id":85833083,
     "wof:placetype":"venue",

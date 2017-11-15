@@ -2,14 +2,20 @@
   "id": 873468177,
   "type": "Feature",
   "properties": {
+    "addr:full":"241 Welsh Tract Rd Newark DE 19702",
+    "addr:housenumber":"241",
+    "addr:postcode":"19702",
+    "addr:street":"Welsh Tract Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.762233,39.643311,-75.762233,39.643311",
     "geom:latitude":39.643311,
     "geom:longitude":-75.762233,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"241 Welsh Tract Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85812409,
         102083891
     ],
+    "wof:brand_id":420575791,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1t6CechVoqGK0CNUW4Et4w_39.643311_-75.762233@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221658,
-    "wof:geomhash":"a3c64585270f47be1b44b51e500fa364",
+    "wof:geomhash":"fde0ec6220152c89c8e0ffc7bc594c8f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873468177,
-    "wof:lastmodified":1466426915,
+    "wof:lastmodified":1510602635,
     "wof:name":"Civil Air Patrol Inc",
     "wof:parent_id":85812409,
     "wof:placetype":"venue",

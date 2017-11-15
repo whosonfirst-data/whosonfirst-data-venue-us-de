@@ -2,14 +2,20 @@
   "id": 873487037,
   "type": "Feature",
   "properties": {
+    "addr:full":"551 Pony Track Rd Camden Wyoming DE 19934",
+    "addr:housenumber":"551",
+    "addr:postcode":"19934",
+    "addr:street":"Pony Track Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.68469,39.048565,-75.68469,39.048565",
     "geom:latitude":39.048565,
     "geom:longitude":-75.68469,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"551 Pony Track Rd",
     "sg:city":"Camden Wyoming",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85819103,
         102083871
     ],
+    "wof:brand_id":1125151709,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1CGxJ1kBgrmFmLXWHbVxJw_39.048565_-75.684690@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222379,
-    "wof:geomhash":"2ab19a119bff80c400ade383d7e04c21",
+    "wof:geomhash":"1501be7cb419fabe68b9b7b762daa6a1",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873487037,
-    "wof:lastmodified":1466427496,
+    "wof:lastmodified":1510693984,
     "wof:name":"American Federation of St",
     "wof:parent_id":85819103,
     "wof:placetype":"venue",

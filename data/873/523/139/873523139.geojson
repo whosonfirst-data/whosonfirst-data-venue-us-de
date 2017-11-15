@@ -2,6 +2,10 @@
   "id": 873523139,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S New St Ste 2101 Dover DE 19904",
+    "addr:housenumber":"300;2101",
+    "addr:postcode":"19904",
+    "addr:street":"S New St Ste",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -60,7 +64,7 @@
         }
     ],
     "wof:id":873523139,
-    "wof:lastmodified":1466428253,
+    "wof:lastmodified":1472614105,
     "wof:name":"Delaware Division",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",

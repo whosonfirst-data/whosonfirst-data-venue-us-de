@@ -2,14 +2,20 @@
   "id": 873521007,
   "type": "Feature",
   "properties": {
+    "addr:full":"1255 S State St Dover DE 19901",
+    "addr:housenumber":"1255",
+    "addr:postcode":"19901",
+    "addr:street":"S State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.522598,39.138699,-75.522598,39.138699",
     "geom:latitude":39.138699,
     "geom:longitude":-75.522598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1255 S State St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85826587,
         102083871
     ],
+    "wof:brand_id":1125157701,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_56ePFjJlycp8lDkdalvXv5_39.138699_-75.522598@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223925,
-    "wof:geomhash":"af891d647ebf9bf0334f16a622b98862",
+    "wof:geomhash":"bb00f6f166eb4b4e1eb492814bce0cd9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873521007,
-    "wof:lastmodified":1466428174,
+    "wof:lastmodified":1510694760,
     "wof:name":"Pizza Time",
     "wof:parent_id":85826587,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857711941,
   "type": "Feature",
   "properties": {
+    "addr:full":"146 S State St Dover DE 19901",
+    "addr:housenumber":"146",
+    "addr:postcode":"19901",
+    "addr:street":"S State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.524865,39.158984,-75.524865,39.158984",
     "geom:latitude":39.158984,
     "geom:longitude":-75.524865,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"146 S State St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083871,
         85847335
     ],
+    "wof:brand_id":1125155215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_13kf36pOTt5exWy6mAfB3u_39.158984_-75.524865@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221077,
-    "wof:geomhash":"426029524b539713ceab9a22e566cf65",
+    "wof:geomhash":"0e0c536ac99f2493ff27a00274acf37f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":857711941,
-    "wof:lastmodified":1466427687,
+    "wof:lastmodified":1510695367,
     "wof:name":"American Lung Assn",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",

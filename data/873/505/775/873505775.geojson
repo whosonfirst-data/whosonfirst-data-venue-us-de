@@ -2,14 +2,20 @@
   "id": 873505775,
   "type": "Feature",
   "properties": {
+    "addr:full":"2601 Eastburn Center Newark DE 19711",
+    "addr:housenumber":"2601",
+    "addr:postcode":"19711",
+    "addr:street":"Eastburn Center",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.682876,39.706874,-75.682876,39.706874",
     "geom:latitude":39.706874,
     "geom:longitude":-75.682876,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2601 Eastburn Center",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85841213,
         102083891
     ],
+    "wof:brand_id":1125153043,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6KXtz93kiIYsRm9hG2Lfbi_39.706874_-75.682876@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223189,
-    "wof:geomhash":"2c392fa4c61647eb975cedc934f1a47d",
+    "wof:geomhash":"d700d556f6119fdd04086f96cd7618da",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873505775,
-    "wof:lastmodified":1466428138,
+    "wof:lastmodified":1510697673,
     "wof:name":"Mane Event",
     "wof:parent_id":85841213,
     "wof:placetype":"venue",

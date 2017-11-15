@@ -2,14 +2,20 @@
   "id": 873475507,
   "type": "Feature",
   "properties": {
+    "addr:full":"210 University Dr Newark DE 19702",
+    "addr:housenumber":"210",
+    "addr:postcode":"19702",
+    "addr:street":"University Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.669074,39.667306,-75.669074,39.667306",
     "geom:latitude":39.667306,
     "geom:longitude":-75.669074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"210 University Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125150137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4fzz5Qyfa0gBa0kjpX0iXE_39.667306_-75.669074@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221932,
-    "wof:geomhash":"e678d0a302ea8596980be7ab4fb55f51",
+    "wof:geomhash":"61f0d56c2834f654dffb815b32731403",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873475507,
-    "wof:lastmodified":1466427195,
+    "wof:lastmodified":1510696873,
     "wof:name":"Perfect Nails",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

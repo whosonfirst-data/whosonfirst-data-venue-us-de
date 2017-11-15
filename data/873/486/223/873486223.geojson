@@ -2,14 +2,20 @@
   "id": 873486223,
   "type": "Feature",
   "properties": {
+    "addr:full":"405 Marsh Ln Wilmington DE 19804",
+    "addr:housenumber":"405",
+    "addr:postcode":"19804",
+    "addr:street":"Marsh Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.59416,39.712454,-75.59416,39.712454",
     "geom:latitude":39.712454,
     "geom:longitude":-75.59416,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"405 Marsh Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85836859,
         102083891
     ],
+    "wof:brand_id":1125156633,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0zAPExjqJsd1z3DuGMAMTl_39.712454_-75.594160@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222350,
-    "wof:geomhash":"bfedb4e5a002724e9f6cee0ae972833e",
+    "wof:geomhash":"77419afb95c1152c2ff623be19f1b849",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873486223,
-    "wof:lastmodified":1466427490,
+    "wof:lastmodified":1510697173,
     "wof:name":"Qwest Communications",
     "wof:parent_id":85836859,
     "wof:placetype":"venue",

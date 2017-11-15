@@ -2,6 +2,10 @@
   "id": 873516575,
   "type": "Feature",
   "properties": {
+    "addr:full":"800 N French St Fl 5 Wilmington DE 19801",
+    "addr:housenumber":"800;5",
+    "addr:postcode":"19801",
+    "addr:street":"N French St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873516575,
-    "wof:lastmodified":1466428251,
+    "wof:lastmodified":1472614141,
     "wof:name":"New Castle County Engineers",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",

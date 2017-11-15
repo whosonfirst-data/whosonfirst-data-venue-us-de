@@ -2,14 +2,20 @@
   "id": 857712743,
   "type": "Feature",
   "properties": {
+    "addr:full":"527 N Boardwalk Rehoboth Beach DE 19971",
+    "addr:housenumber":"527",
+    "addr:postcode":"19971",
+    "addr:street":"N Boardwalk",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.075932,38.714556,-75.075932,38.714556",
     "geom:latitude":38.714556,
     "geom:longitude":-75.075932,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"527 N Boardwalk",
     "sg:city":"Rehoboth Beach",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083887,
         85848729
     ],
+    "wof:brand_id":1125150865,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uTucbZwNZJEcbalT1SDxH_38.714556_-75.075932@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221104,
-    "wof:geomhash":"a661b9d0c4bf53cf187c72092d73998d",
+    "wof:geomhash":"075d0b43c5a5c8932aff4d9ca6f60caf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857712743,
-    "wof:lastmodified":1466427701,
+    "wof:lastmodified":1510698871,
     "wof:name":"Long & Foster Realtors",
     "wof:parent_id":85848729,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873523031,
   "type": "Feature",
   "properties": {
+    "addr:full":"1156 Walker Rd Dover DE 19904",
+    "addr:housenumber":"1156",
+    "addr:postcode":"19904",
+    "addr:street":"Walker Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.550598,39.168598,-75.550598,39.168598",
     "geom:latitude":39.168598,
     "geom:longitude":-75.550598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1156 Walker Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083871,
         85859501
     ],
+    "wof:brand_id":1125154151,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_53iHnlibVnMhqJV9KDPV9h_39.168598_-75.550598@1303262472"
     },
     "wof:country":"US",
     "wof:created":1464224007,
-    "wof:geomhash":"e575f0148357bc381eba4af74b8f274c",
+    "wof:geomhash":"b7d50372be44772548e8f4667437c83b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873523031,
-    "wof:lastmodified":1466428236,
+    "wof:lastmodified":1510698732,
     "wof:name":"St Johns Lutheran Church",
     "wof:parent_id":85859501,
     "wof:placetype":"venue",

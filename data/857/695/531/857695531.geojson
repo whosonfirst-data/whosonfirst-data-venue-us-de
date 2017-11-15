@@ -2,14 +2,20 @@
   "id": 857695531,
   "type": "Feature",
   "properties": {
+    "addr:full":"954 Maryland Ave Wilmington DE 19805",
+    "addr:housenumber":"954",
+    "addr:postcode":"19805",
+    "addr:street":"Maryland Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.568913,39.736599,-75.568913,39.736599",
     "geom:latitude":39.736599,
     "geom:longitude":-75.568913,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"954 Maryland Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083891,
         85888529
     ],
+    "wof:brand_id":1125153851,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tquRkCTFiIwsuM8pUkdWX_39.736599_-75.568913@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220729,
-    "wof:geomhash":"709709f9c7e8849b0c5c8cfb655b3630",
+    "wof:geomhash":"cec98e3da4a301b805e407f4e3212976",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857695531,
-    "wof:lastmodified":1466427138,
+    "wof:lastmodified":1510697169,
     "wof:name":"China Dragon",
     "wof:parent_id":85888529,
     "wof:placetype":"venue",

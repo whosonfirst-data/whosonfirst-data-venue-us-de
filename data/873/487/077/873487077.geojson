@@ -2,14 +2,20 @@
   "id": 873487077,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Bracken Ave Wilmington DE 19805",
+    "addr:housenumber":"100",
+    "addr:postcode":"19805",
+    "addr:street":"Bracken Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.613258,39.736681,-75.613258,39.736681",
     "geom:latitude":39.736681,
     "geom:longitude":-75.613258,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Bracken Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85831761,
         102083891
     ],
+    "wof:brand_id":420575379,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3AoDAalUi37X0bSZzPmSrX_39.736681_-75.613258@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222381,
-    "wof:geomhash":"21d2e4b88bbd8668b7729e1cad6afbd3",
+    "wof:geomhash":"d4f7eb94cd23d3c383f68166a1473497",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873487077,
-    "wof:lastmodified":1466427504,
+    "wof:lastmodified":1510618825,
     "wof:name":"Victory Baptist Church",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",

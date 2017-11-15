@@ -2,14 +2,20 @@
   "id": 873496307,
   "type": "Feature",
   "properties": {
+    "addr:full":"4058 New Castle Ave New Castle DE 19720",
+    "addr:housenumber":"4058",
+    "addr:postcode":"19720",
+    "addr:street":"New Castle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.546806,39.716031,-75.546806,39.716031",
     "geom:latitude":39.716031,
     "geom:longitude":-75.546806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4058 New Castle Ave",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85833991
     ],
+    "wof:brand_id":1125153273,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2tK5JKTzgcfrPgv570dM5w_39.716031_-75.546806@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222790,
-    "wof:geomhash":"2dde7fc46d9e2cd0c5e5e1f3d70c90af",
+    "wof:geomhash":"0fd0b9478cd0fff09ac0ae000db31a3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873496307,
-    "wof:lastmodified":1466427836,
+    "wof:lastmodified":1510698837,
     "wof:name":"Adventures In Advertising",
     "wof:parent_id":85833991,
     "wof:placetype":"venue",

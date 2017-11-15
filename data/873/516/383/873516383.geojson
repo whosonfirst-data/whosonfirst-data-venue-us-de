@@ -2,14 +2,20 @@
   "id": 873516383,
   "type": "Feature",
   "properties": {
+    "addr:full":"131 Continental Dr Suite 207 Newark DE 19713",
+    "addr:housenumber":"131",
+    "addr:postcode":"19713",
+    "addr:street":"Continental Dr Suite 207",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.661179,39.685306,-75.661179,39.685306",
     "geom:latitude":39.685306,
     "geom:longitude":-75.661179,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"131 Continental Dr Suite 207",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125158703,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5BreSh1oJUD8g2mLjF1vt1_39.685306_-75.661179@1303262470"
     },
     "wof:country":"US",
     "wof:created":1464223683,
-    "wof:geomhash":"9ac54d303c8007530b74c1884b678324",
+    "wof:geomhash":"f7f45e4d5cf091b3c1f82617c629cf7a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873516383,
-    "wof:lastmodified":1466428338,
+    "wof:lastmodified":1510613309,
     "wof:name":"AppleOne",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

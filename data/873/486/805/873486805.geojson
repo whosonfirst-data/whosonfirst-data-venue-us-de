@@ -2,14 +2,20 @@
   "id": 873486805,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Bellecor Dr New Castle DE 19720",
+    "addr:housenumber":"6",
+    "addr:postcode":"19720",
+    "addr:street":"Bellecor Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.595651,39.693537,-75.595651,39.693537",
     "geom:latitude":39.693537,
     "geom:longitude":-75.595651,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6 Bellecor Dr",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85836859,
         102083891
     ],
+    "wof:brand_id":1125153259,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IaUbYYJnaBE7OoTc7oViJ_39.693537_-75.595651@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222371,
-    "wof:geomhash":"e8f289d15e77d733ccc7917df23844db",
+    "wof:geomhash":"0f661dfec0eaabac015dfafb132bb661",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873486805,
-    "wof:lastmodified":1466427610,
+    "wof:lastmodified":1510697123,
     "wof:name":"Velocity Express Inc",
     "wof:parent_id":85836859,
     "wof:placetype":"venue",

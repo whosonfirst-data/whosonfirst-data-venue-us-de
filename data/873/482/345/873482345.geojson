@@ -2,14 +2,20 @@
   "id": 873482345,
   "type": "Feature",
   "properties": {
+    "addr:full":"1161 River Rd New Castle DE 19720",
+    "addr:housenumber":"1161",
+    "addr:postcode":"19720",
+    "addr:street":"River Rd New",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.60909,39.636887,-75.60909,39.636887",
     "geom:latitude":39.636887,
     "geom:longitude":-75.60909,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1161 River Rd",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85814657,
         102083891
     ],
+    "wof:brand_id":420575603,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_66QTovbfw3636qr2TvonEz_39.636887_-75.609090@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222206,
-    "wof:geomhash":"badde6c0f2485dc546af042350de3db6",
+    "wof:geomhash":"ba8f8a58c01d60eec4ae1c2da7270e7b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873482345,
-    "wof:lastmodified":1466427383,
+    "wof:lastmodified":1510602889,
     "wof:name":"Army National Guard",
     "wof:parent_id":85814657,
     "wof:placetype":"venue",

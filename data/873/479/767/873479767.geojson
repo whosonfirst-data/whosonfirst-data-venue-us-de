@@ -2,14 +2,20 @@
   "id": 873479767,
   "type": "Feature",
   "properties": {
+    "addr:full":"3613 Kirkwood Hwy Wilmington DE 19808",
+    "addr:housenumber":"3613",
+    "addr:postcode":"19808",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.639366,39.733636,-75.639366,39.733636",
     "geom:latitude":39.733636,
     "geom:longitude":-75.639366,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3613 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85834415,
         102083891
     ],
+    "wof:brand_id":1125150195,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4XSpFh3DZS6aahSXH4ajHd_39.733636_-75.639366@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222101,
-    "wof:geomhash":"773ac08a650cb28ab097261d7050ef2d",
+    "wof:geomhash":"ac5bce7e9075d102653c9beeadba76eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873479767,
-    "wof:lastmodified":1466427368,
+    "wof:lastmodified":1510694266,
     "wof:name":"American General Finance Corp",
     "wof:parent_id":85834415,
     "wof:placetype":"venue",

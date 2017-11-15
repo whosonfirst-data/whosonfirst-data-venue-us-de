@@ -2,14 +2,20 @@
   "id": 857709205,
   "type": "Feature",
   "properties": {
+    "addr:full":"132 New St Smyrna DE 19977",
+    "addr:housenumber":"132",
+    "addr:postcode":"19977",
+    "addr:street":"New St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.61326,39.298398,-75.61326,39.298398",
     "geom:latitude":39.298398,
     "geom:longitude":-75.61326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"132 New St",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083871,
         85815601
     ],
+    "wof:brand_id":1125153453,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rFR2I6d5UAnbVuhnkjwGe_39.298398_-75.613260@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221009,
-    "wof:geomhash":"d99898052abc95346af33848ad33010b",
+    "wof:geomhash":"f756b9467bd93f176bfadf8ac8e58768",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857709205,
-    "wof:lastmodified":1466427540,
+    "wof:lastmodified":1510699762,
     "wof:name":"Independent Order of Odd",
     "wof:parent_id":85815601,
     "wof:placetype":"venue",

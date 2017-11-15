@@ -2,6 +2,10 @@
   "id": 873517013,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Colony Blvd Apt 126 Wilmington DE 19802",
+    "addr:housenumber":"2;126",
+    "addr:postcode":"19802",
+    "addr:street":"Colony Blvd Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -63,7 +67,7 @@
         }
     ],
     "wof:id":873517013,
-    "wof:lastmodified":1466428174,
+    "wof:lastmodified":1472614087,
     "wof:name":"Colony North Apts Co",
     "wof:parent_id":85841243,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873492425,
   "type": "Feature",
   "properties": {
+    "addr:full":"2605 Maple Ave Wilmington DE 19808",
+    "addr:housenumber":"2605",
+    "addr:postcode":"19808",
+    "addr:street":"Maple Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.640655,39.74294,-75.640655,39.74294",
     "geom:latitude":39.74294,
     "geom:longitude":-75.640655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2605 Maple Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85834415,
         102083891
     ],
+    "wof:brand_id":1125156473,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RfjKK6OIffRDV62z9ZqYP_39.742940_-75.640655@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222580,
-    "wof:geomhash":"70ebec16468b03d340025a23b7ef3e0c",
+    "wof:geomhash":"022534720b81f233af89acbc1c7bf634",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873492425,
-    "wof:lastmodified":1466427720,
+    "wof:lastmodified":1510696794,
     "wof:name":"Safety-Kleen",
     "wof:parent_id":85834415,
     "wof:placetype":"venue",

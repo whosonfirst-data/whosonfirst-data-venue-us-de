@@ -2,14 +2,20 @@
   "id": 873522223,
   "type": "Feature",
   "properties": {
+    "addr:full":"119 Lotus St Dover DE 19901",
+    "addr:housenumber":"119",
+    "addr:postcode":"19901",
+    "addr:street":"Lotus St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.519897,39.146301,-75.519897,39.146301",
     "geom:latitude":39.146301,
     "geom:longitude":-75.519897,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"119 Lotus St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85826587,
         102083871
     ],
+    "wof:brand_id":1125154151,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2Oeu1qcviJDja9DOEQkaxH_39.146301_-75.519897@1303262472"
     },
     "wof:country":"US",
     "wof:created":1464223973,
-    "wof:geomhash":"d3c27949c4b5dba16d0ad8e3f06d8866",
+    "wof:geomhash":"704eb0c9036f6a616035d14ddb4d3608",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873522223,
-    "wof:lastmodified":1466428268,
+    "wof:lastmodified":1510698732,
     "wof:name":"St Johns Lutheran Church",
     "wof:parent_id":85826587,
     "wof:placetype":"venue",

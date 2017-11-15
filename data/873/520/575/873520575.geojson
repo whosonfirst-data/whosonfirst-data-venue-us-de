@@ -2,14 +2,20 @@
   "id": 873520575,
   "type": "Feature",
   "properties": {
+    "addr:full":"1704 Marsh Rd Wilmington DE 19810",
+    "addr:housenumber":"1704",
+    "addr:postcode":"19810",
+    "addr:street":"Marsh Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.504997,39.801102,-75.504997,39.801102",
     "geom:latitude":39.801102,
     "geom:longitude":-75.504997,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1704 Marsh Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85838417,
         102083891
     ],
+    "wof:brand_id":1125154245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4EtHfxj4GbFuLwD2pTMsHq_39.801102_-75.504997@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223909,
-    "wof:geomhash":"2d585aa5b4033244663a6ce3cf11a37a",
+    "wof:geomhash":"6c84a3b70992216b885bd622124a9d5b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873520575,
-    "wof:lastmodified":1466428243,
+    "wof:lastmodified":1510695155,
     "wof:name":"PNC Bank",
     "wof:parent_id":85838417,
     "wof:placetype":"venue",

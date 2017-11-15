@@ -2,14 +2,20 @@
   "id": 873467661,
   "type": "Feature",
   "properties": {
+    "addr:full":"320 Polly Drummond Hill Rd Newark DE 19711",
+    "addr:housenumber":"320",
+    "addr:postcode":"19711",
+    "addr:street":"Polly Drummond Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.711494,39.719638,-75.711494,39.719638",
     "geom:latitude":39.719638,
     "geom:longitude":-75.711494,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"320 Polly Drummond Hill Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85841213,
         102083891
     ],
+    "wof:brand_id":1125150441,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1s7133NLt8KpmTYKByclbW_39.719638_-75.711494@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221640,
-    "wof:geomhash":"ef103679a1ac84665a4ca46ed9f23e51",
+    "wof:geomhash":"9eceaf902b0ef0f2e7c98c4db7eb7fe2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873467661,
-    "wof:lastmodified":1466427011,
+    "wof:lastmodified":1510697663,
     "wof:name":"Huntington Learning Center",
     "wof:parent_id":85841213,
     "wof:placetype":"venue",

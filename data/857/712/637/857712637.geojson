@@ -2,14 +2,20 @@
   "id": 857712637,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 W 14th St Wilmington DE 19801",
+    "addr:housenumber":"201",
+    "addr:postcode":"19801",
+    "addr:street":"W 14Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.547665,39.750029,-75.547665,39.750029",
     "geom:latitude":39.750029,
     "geom:longitude":-75.547665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 W 14th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083891,
         85888517
     ],
+    "wof:brand_id":420574967,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6rDAQLoIFFe9SCGdUlLkVP_39.750029_-75.547665@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221102,
-    "wof:geomhash":"0d6f1ad0077b592e0e1a0099f8b99292",
+    "wof:geomhash":"7a24a864ed868084e24623d76f365000",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857712637,
-    "wof:lastmodified":1466427689,
+    "wof:lastmodified":1510604329,
     "wof:name":"Blue Cross & Blue Shield",
     "wof:parent_id":85888517,
     "wof:placetype":"venue",

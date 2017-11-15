@@ -2,14 +2,20 @@
   "id": 873521351,
   "type": "Feature",
   "properties": {
+    "addr:full":"1146 S Bay Rd Dover DE 19901",
+    "addr:housenumber":"1146",
+    "addr:postcode":"19901",
+    "addr:street":"S Bay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.495828,39.1387,-75.495828,39.1387",
     "geom:latitude":39.1387,
     "geom:longitude":-75.495828,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1146 S Bay Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083871,
         85809385
     ],
+    "wof:brand_id":1125150861,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7albCkugE4jDqrKU0zssse_39.138700_-75.495828@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223938,
-    "wof:geomhash":"b8994ebcdc44c863038436ad3a710fde",
+    "wof:geomhash":"47856a2428cd9cb335bfaa5e6456d37c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873521351,
-    "wof:lastmodified":1466428139,
+    "wof:lastmodified":1510698874,
     "wof:name":"Just Cuts",
     "wof:parent_id":85809385,
     "wof:placetype":"venue",

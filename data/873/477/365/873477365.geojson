@@ -2,14 +2,20 @@
   "id": 873477365,
   "type": "Feature",
   "properties": {
+    "addr:full":"1204 E 12th St Wilmington DE 19802",
+    "addr:housenumber":"1204",
+    "addr:postcode":"19802",
+    "addr:street":"E 12Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.532116,39.741302,-75.532116,39.741302",
     "geom:latitude":39.741302,
     "geom:longitude":-75.532116,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1204 E 12th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -42,13 +48,14 @@
         102083891,
         85829695
     ],
+    "wof:brand_id":1125151549,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3jGWNRePyfb9uoishhUvYv_39.741302_-75.532116@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221997,
-    "wof:geomhash":"9de94e13cf93a4cb3f485db4cf8218c7",
+    "wof:geomhash":"63ee0bf885ef4dcd97779be8182ff357",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,7 +68,7 @@
         }
     ],
     "wof:id":873477365,
-    "wof:lastmodified":1466427260,
+    "wof:lastmodified":1510695399,
     "wof:name":"Georgia-Pacific Corp",
     "wof:parent_id":85829695,
     "wof:placetype":"venue",

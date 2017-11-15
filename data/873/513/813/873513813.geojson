@@ -2,14 +2,20 @@
   "id": 873513813,
   "type": "Feature",
   "properties": {
+    "addr:full":"20 Lighthouse Plz Rehoboth Beach DE 19971",
+    "addr:housenumber":"20",
+    "addr:postcode":"19971",
+    "addr:street":"Lighthouse Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.120054,38.721593,-75.120054,38.721593",
     "geom:latitude":38.721593,
     "geom:longitude":-75.120054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"20 Lighthouse Plz",
     "sg:city":"Rehoboth Beach",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85856217,
         102083887
     ],
+    "wof:brand_id":1125150527,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5aZHFRXs0R8HB49tAjk45d_38.721593_-75.120054@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464223549,
-    "wof:geomhash":"a2b3ee6295866922abef0124d74c11a9",
+    "wof:geomhash":"86222c9957de749b14540e78d1b782bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873513813,
-    "wof:lastmodified":1466428167,
+    "wof:lastmodified":1510696975,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85856217,
     "wof:placetype":"venue",

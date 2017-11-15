@@ -2,14 +2,20 @@
   "id": 873513057,
   "type": "Feature",
   "properties": {
+    "addr:full":"175 E Main St Newark DE 19711",
+    "addr:housenumber":"175",
+    "addr:postcode":"19711",
+    "addr:street":"E Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.746166,39.683575,-75.746166,39.683575",
     "geom:latitude":39.683575,
     "geom:longitude":-75.746166,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"175 E Main St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         85831693,
         102083891
     ],
+    "wof:brand_id":1125155451,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3spVtmx97oK0roUeghhrbD_39.683575_-75.746166@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464223515,
-    "wof:geomhash":"ce17da52d719fb5bc88356c090f13d53",
+    "wof:geomhash":"c8f332693fa0780915e1a2024bf0dfef",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873513057,
-    "wof:lastmodified":1466428105,
+    "wof:lastmodified":1510697787,
     "wof:name":"Ali Baba",
     "wof:parent_id":85831693,
     "wof:placetype":"venue",

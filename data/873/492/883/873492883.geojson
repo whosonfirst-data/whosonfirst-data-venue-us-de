@@ -2,14 +2,20 @@
   "id": 873492883,
   "type": "Feature",
   "properties": {
+    "addr:full":"1601 Kirkwood Hwy Wilmington DE 19805",
+    "addr:housenumber":"1601",
+    "addr:postcode":"19805",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.606014,39.738478,-75.606014,39.738478",
     "geom:latitude":39.738478,
     "geom:longitude":-75.606014,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1601 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85831761,
         102083891
     ],
+    "wof:brand_id":420575137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qOSI847VzygUi38gUWwam_39.738478_-75.606014@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222601,
-    "wof:geomhash":"05e316837e154550ec7d956f8113f1f6",
+    "wof:geomhash":"ff955df197fe78e80e7fc582053c5a94",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873492883,
-    "wof:lastmodified":1466427814,
+    "wof:lastmodified":1510602463,
     "wof:name":"Disabled American Veterans",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",

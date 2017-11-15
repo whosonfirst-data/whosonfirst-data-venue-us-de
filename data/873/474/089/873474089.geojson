@@ -2,14 +2,20 @@
   "id": 873474089,
   "type": "Feature",
   "properties": {
+    "addr:full":"3253 John Hurd Rd Felton DE 19943",
+    "addr:housenumber":"3253",
+    "addr:postcode":"19943",
+    "addr:street":"John Hurd Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.685317,39.011139,-75.685317,39.011139",
     "geom:latitude":39.011139,
     "geom:longitude":-75.685317,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3253 John Hurd Rd",
     "sg:city":"Felton",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85819103,
         102083871
     ],
+    "wof:brand_id":1125152601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5kpYzox5FyJ3PQ3BFWOUme_39.011139_-75.685317@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221884,
-    "wof:geomhash":"294488fa35e60206ec9fe3c23b5d74dd",
+    "wof:geomhash":"78f76fedb75c2fd5e8ef0773ad3e5684",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873474089,
-    "wof:lastmodified":1466427101,
+    "wof:lastmodified":1510693818,
     "wof:name":"Kitchen Tune-Up",
     "wof:parent_id":85819103,
     "wof:placetype":"venue",

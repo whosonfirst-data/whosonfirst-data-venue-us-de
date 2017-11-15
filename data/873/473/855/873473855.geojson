@@ -2,14 +2,20 @@
   "id": 873473855,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Terminal Ave Newark DE 19720",
+    "addr:housenumber":"3",
+    "addr:postcode":"19720",
+    "addr:street":"Terminal Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.542273,39.720675,-75.542273,39.720675",
     "geom:latitude":39.720675,
     "geom:longitude":-75.542273,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Terminal Ave",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083891,
         85833991
     ],
+    "wof:brand_id":1125151913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2LLsKklEC2GE0Akx7BBIf9_39.720675_-75.542273@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221876,
-    "wof:geomhash":"790cafa31308cd6746dd0f5281fe9585",
+    "wof:geomhash":"dc89775e2031cd4d20ee1b2d5b6ee2bc",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873473855,
-    "wof:lastmodified":1466427252,
+    "wof:lastmodified":1510699395,
     "wof:name":"Steak Escape",
     "wof:parent_id":85833991,
     "wof:placetype":"venue",

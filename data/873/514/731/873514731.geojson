@@ -2,14 +2,20 @@
   "id": 873514731,
   "type": "Feature",
   "properties": {
+    "addr:full":"101 W Main St Christiana DE 19702",
+    "addr:housenumber":"101",
+    "addr:postcode":"19702",
+    "addr:street":"W Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.665749,39.667992,-75.665749,39.667992",
     "geom:latitude":39.667992,
     "geom:longitude":-75.665749,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"101 W Main St",
     "sg:city":"Christiana",
     "sg:classifiers":[
@@ -45,13 +51,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125155667,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_22DrIwAnTDqQlbwKK6A7jU_39.667992_-75.665749@1303262470"
     },
     "wof:country":"US",
     "wof:created":1464223610,
-    "wof:geomhash":"b0c460b55450b44916e6ddd678114de4",
+    "wof:geomhash":"b3b72219e4c7d07ec60235a175fcbadf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -62,7 +69,7 @@
         }
     ],
     "wof:id":873514731,
-    "wof:lastmodified":1466428339,
+    "wof:lastmodified":1510698984,
     "wof:name":"Red Robin Gourmet Burgers",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

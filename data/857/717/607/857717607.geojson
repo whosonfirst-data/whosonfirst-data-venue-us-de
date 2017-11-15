@@ -2,14 +2,20 @@
   "id": 857717607,
   "type": "Feature",
   "properties": {
+    "addr:full":"1255 S State St Dover DE 19901",
+    "addr:housenumber":"1255",
+    "addr:postcode":"19901",
+    "addr:street":"S State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.52279,39.14105,-75.52279,39.14105",
     "geom:latitude":39.14105,
     "geom:longitude":-75.52279,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1255 S State St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85826587,
         102083871
     ],
+    "wof:brand_id":1125153713,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2TKMKgtgL5KlrQ6bZ7Aq3c_39.141050_-75.522790@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221197,
-    "wof:geomhash":"def6a92e4d391185720e51862ef4252d",
+    "wof:geomhash":"aaa6bc93e75f2dc8f625d8a1978f840b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857717607,
-    "wof:lastmodified":1466427826,
+    "wof:lastmodified":1510694614,
     "wof:name":"Rentway",
     "wof:parent_id":85826587,
     "wof:placetype":"venue",

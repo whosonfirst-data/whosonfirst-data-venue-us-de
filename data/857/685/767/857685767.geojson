@@ -2,14 +2,20 @@
   "id": 857685767,
   "type": "Feature",
   "properties": {
+    "addr:full":"1801 W 8th St Wilmington DE 19805",
+    "addr:housenumber":"1801",
+    "addr:postcode":"19805",
+    "addr:street":"W 8Th St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.569791,39.75178,-75.569791,39.75178",
     "geom:latitude":39.75178,
     "geom:longitude":-75.569791,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1801 W 8th St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083891,
         85888519
     ],
+    "wof:brand_id":1125157501,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AOrqVJR9GtxKkFlFk2IR2_39.751780_-75.569791@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220535,
-    "wof:geomhash":"e2b5f0003f4bc3322588d9e7b764fad0",
+    "wof:geomhash":"1e85c5d10175338e2ee928638a533302",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857685767,
-    "wof:lastmodified":1466426955,
+    "wof:lastmodified":1510694027,
     "wof:name":"Sisters Of St Francis",
     "wof:parent_id":85888519,
     "wof:placetype":"venue",

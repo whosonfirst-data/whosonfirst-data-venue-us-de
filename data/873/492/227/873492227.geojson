@@ -2,6 +2,10 @@
   "id": 873492227,
   "type": "Feature",
   "properties": {
+    "addr:full":"1401 N Dupont St Wilmington DE 19806",
+    "addr:housenumber":"1401",
+    "addr:postcode":"19806",
+    "addr:street":"N Dupont St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873492227,
-    "wof:lastmodified":1466427679,
+    "wof:lastmodified":1472614029,
     "wof:name":"Acme",
     "wof:parent_id":85888519,
     "wof:placetype":"venue",

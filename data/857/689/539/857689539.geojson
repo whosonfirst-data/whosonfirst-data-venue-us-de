@@ -2,14 +2,20 @@
   "id": 857689539,
   "type": "Feature",
   "properties": {
+    "addr:full":"201 N Walnut St Wilmington DE 19801",
+    "addr:housenumber":"201",
+    "addr:postcode":"19801",
+    "addr:street":"N Walnut St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.549397,39.738157,-75.549397,39.738157",
     "geom:latitude":39.738157,
     "geom:longitude":-75.549397,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"201 N Walnut St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083891,
         85888523
     ],
+    "wof:brand_id":1125154207,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3i1k6Netnr1PdFjIo9RXHx_39.738157_-75.549397@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220609,
-    "wof:geomhash":"615d834cd0dd0b17aa138a416b405706",
+    "wof:geomhash":"4a2d0c3a1c234f82ad3461472b8e9273",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857689539,
-    "wof:lastmodified":1466426950,
+    "wof:lastmodified":1510709441,
     "wof:name":"Georgia-Pacific",
     "wof:parent_id":85888523,
     "wof:placetype":"venue",

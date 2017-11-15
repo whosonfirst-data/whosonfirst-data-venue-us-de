@@ -2,14 +2,20 @@
   "id": 857712445,
   "type": "Feature",
   "properties": {
+    "addr:full":"4574 Hwy One Rehoboth Beach DE 19971",
+    "addr:housenumber":"4574",
+    "addr:postcode":"19971",
+    "addr:street":"Hwy One",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.137547,38.734382,-75.137547,38.734382",
     "geom:latitude":38.734382,
     "geom:longitude":-75.137547,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4574 Hwy One",
     "sg:city":"Rehoboth Beach",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85856217,
         102083887
     ],
+    "wof:brand_id":420574649,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FOftWOcuEHP8kDQfsh1g3_38.734382_-75.137547@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221099,
-    "wof:geomhash":"b359ddc988f4b52c39f60643ff460ad9",
+    "wof:geomhash":"2363853ba6284877f74e19c7f5fbc00b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857712445,
-    "wof:lastmodified":1466427669,
+    "wof:lastmodified":1510603990,
     "wof:name":"Staples The Office Superstore",
     "wof:parent_id":85856217,
     "wof:placetype":"venue",

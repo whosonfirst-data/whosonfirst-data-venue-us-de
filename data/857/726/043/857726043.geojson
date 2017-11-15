@@ -2,14 +2,20 @@
   "id": 857726043,
   "type": "Feature",
   "properties": {
+    "addr:full":"108 Astro Shopping Center Newark DE 19711",
+    "addr:housenumber":"108",
+    "addr:postcode":"19711",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.685806,39.706441,-75.685806,39.706441",
     "geom:latitude":39.706441,
     "geom:longitude":-75.685806,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"108 Astro Shopping Center",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85841213,
         102083891
     ],
+    "wof:brand_id":420575493,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_47KWBI7zsbAPy9A9b980p3_39.706441_-75.685806@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221362,
-    "wof:geomhash":"3d9c030f4837eca3da38e331f4e9baea",
+    "wof:geomhash":"9a05f634f0d93aacf802545ff2559838",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857726043,
-    "wof:lastmodified":1466426987,
+    "wof:lastmodified":1510601946,
     "wof:name":"Jenny Craig Weight Loss Ctr",
     "wof:parent_id":85841213,
     "wof:placetype":"venue",

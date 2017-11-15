@@ -2,14 +2,20 @@
   "id": 873486113,
   "type": "Feature",
   "properties": {
+    "addr:full":"1462 E Lebanon Rd Dover DE 19901",
+    "addr:housenumber":"1462",
+    "addr:postcode":"19901",
+    "addr:street":"E Lebanon Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.503427,39.118977,-75.503427,39.118977",
     "geom:latitude":39.118977,
     "geom:longitude":-75.503427,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1462 E Lebanon Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083871,
         85835163
     ],
+    "wof:brand_id":1125155913,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_30Ifoqt33gCtbaHUpLrDgq_39.118977_-75.503427@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222346,
-    "wof:geomhash":"9863ff8b076a8d8ef4289d0a11990c05",
+    "wof:geomhash":"fbae17a07529e4391a432c86fc35a912",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873486113,
-    "wof:lastmodified":1466427467,
+    "wof:lastmodified":1510699421,
     "wof:name":"Creative Nails",
     "wof:parent_id":85835163,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873498847,
   "type": "Feature",
   "properties": {
+    "addr:full":"315 E Chestnut Hill Rd Newark DE 19713",
+    "addr:housenumber":"315",
+    "addr:postcode":"19713",
+    "addr:street":"E Chestnut Hill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.725853,39.662748,-75.725853,39.662748",
     "geom:latitude":39.662748,
     "geom:longitude":-75.725853,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"315 E Chestnut Hill Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083891,
         85845315
     ],
+    "wof:brand_id":1125157439,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6nIQbwlq7cgbLHu1fsRXeG_39.662748_-75.725853@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222894,
-    "wof:geomhash":"fff095df6d6991777a5261cb6eed8788",
+    "wof:geomhash":"a6137baf3f3c3b8ec59a9ba9787cbb3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873498847,
-    "wof:lastmodified":1466428001,
+    "wof:lastmodified":1510695917,
     "wof:name":"MAB Paint Store",
     "wof:parent_id":85845315,
     "wof:placetype":"venue",

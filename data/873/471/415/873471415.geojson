@@ -2,14 +2,20 @@
   "id": 873471415,
   "type": "Feature",
   "properties": {
+    "addr:full":"2 Mill Rd Wilmington DE 19806",
+    "addr:housenumber":"2",
+    "addr:postcode":"19806",
+    "addr:street":"Mill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.557951,39.763334,-75.557951,39.763334",
     "geom:latitude":39.763334,
     "geom:longitude":-75.557951,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2 Mill Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083891,
         85828133
     ],
+    "wof:brand_id":1125154455,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1DQ03p6XHMMhiQCHa5AJRf_39.763334_-75.557951@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221784,
-    "wof:geomhash":"d895b6c9a099aa03ad2cd5eec0673705",
+    "wof:geomhash":"850c921dc9b6e78dc9a58f1ddc2ab8ae",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873471415,
-    "wof:lastmodified":1466427079,
+    "wof:lastmodified":1510695918,
     "wof:name":"National Multiple Sclerosis",
     "wof:parent_id":85828133,
     "wof:placetype":"venue",

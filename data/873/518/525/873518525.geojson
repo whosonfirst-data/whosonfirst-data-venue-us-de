@@ -2,14 +2,20 @@
   "id": 873518525,
   "type": "Feature",
   "properties": {
+    "addr:full":"2409 Kirkwood Hwy Wilmington DE 19805",
+    "addr:housenumber":"2409",
+    "addr:postcode":"19805",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.612405,39.738068,-75.612405,39.738068",
     "geom:latitude":39.738068,
     "geom:longitude":-75.612405,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2409 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85831761,
         102083891
     ],
+    "wof:brand_id":420575239,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wxnniWEsGKIwZRVwUHqAR_39.738068_-75.612405@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223814,
-    "wof:geomhash":"525f9a7e2cb058b6476d46d0595921c0",
+    "wof:geomhash":"ccad7dfc27e612305a3b2917e4eaa548",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":873518525,
-    "wof:lastmodified":1466428254,
+    "wof:lastmodified":1510601951,
     "wof:name":"Pro Nails",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",

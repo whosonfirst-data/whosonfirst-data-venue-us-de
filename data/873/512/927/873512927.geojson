@@ -2,14 +2,20 @@
   "id": 873512927,
   "type": "Feature",
   "properties": {
+    "addr:full":"2470 Pulaski Hwy Newark DE 19702",
+    "addr:housenumber":"2470",
+    "addr:postcode":"19702",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.748077,39.603987,-75.748077,39.603987",
     "geom:latitude":39.603987,
     "geom:longitude":-75.748077,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2470 Pulaski Hwy",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85812409,
         102083891
     ],
+    "wof:brand_id":420575303,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_44Qs5bCpPva1WB0Bt4uq4a_39.603987_-75.748077@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464223511,
-    "wof:geomhash":"3fab4b737241f808d3cb7ed40ed44342",
+    "wof:geomhash":"ef2ff77706ed1fa669b79b124d1647f7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873512927,
-    "wof:lastmodified":1466428149,
+    "wof:lastmodified":1510601933,
     "wof:name":"Cold Stone Creamery",
     "wof:parent_id":85812409,
     "wof:placetype":"venue",

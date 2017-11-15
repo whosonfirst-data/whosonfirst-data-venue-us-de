@@ -2,14 +2,20 @@
   "id": 873513269,
   "type": "Feature",
   "properties": {
+    "addr:full":"1259 Churchmans Rd Newark DE 19713",
+    "addr:housenumber":"1259",
+    "addr:postcode":"19713",
+    "addr:street":"Churchmans Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.666194,39.691427,-75.666194,39.691427",
     "geom:latitude":39.691427,
     "geom:longitude":-75.666194,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1259 Churchmans Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125150555,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1oJyc8egT8ZVigGY2bOm0g_39.691427_-75.666194@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464223523,
-    "wof:geomhash":"9805855822dc352a0258447d59cc20b1",
+    "wof:geomhash":"37e263cbc6ea88a452fbb19f11109fff",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873513269,
-    "wof:lastmodified":1466428156,
+    "wof:lastmodified":1510699447,
     "wof:name":"Super Suppers",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

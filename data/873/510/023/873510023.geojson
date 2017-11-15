@@ -2,14 +2,20 @@
   "id": 873510023,
   "type": "Feature",
   "properties": {
+    "addr:full":"1320 Philadelphia Pike Edgemoor DE 19809",
+    "addr:housenumber":"1320",
+    "addr:postcode":"19809",
+    "addr:street":"Philadelphia Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.482299,39.782001,-75.482299,39.782001",
     "geom:latitude":39.782001,
     "geom:longitude":-75.482299,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1320 Philadelphia Pike",
     "sg:city":"Edgemoor",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85838295,
         102083891
     ],
+    "wof:brand_id":420575097,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0G2fo50ftbfko5I0bqvNY2_39.782001_-75.482299@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223379,
-    "wof:geomhash":"3ca94e0e74a4588e871e1b14c902f6af",
+    "wof:geomhash":"18bcec79497fca29ad0b4ae1763fc743",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873510023,
-    "wof:lastmodified":1466427888,
+    "wof:lastmodified":1510602919,
     "wof:name":"Laboratory Corporation America",
     "wof:parent_id":85838295,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873472955,
   "type": "Feature",
   "properties": {
+    "addr:full":"3505 Silverside Rd Wilmington DE 19810",
+    "addr:housenumber":"",
+    "addr:postcode":"3505;19810",
+    "addr:street":"Silverside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.548912,39.809258,-75.548912,39.809258",
     "geom:latitude":39.809258,
     "geom:longitude":-75.548912,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3505 Silverside Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85858565,
         102083891
     ],
+    "wof:brand_id":1125158961,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4a7qkJ08q30FXUxHn14D8N_39.809258_-75.548912@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221841,
-    "wof:geomhash":"d37232684ffd9ffd8269a54e882ef3e0",
+    "wof:geomhash":"7745d7f021c5dc2ca58f1dfe3d19c422",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873472955,
-    "wof:lastmodified":1466427192,
+    "wof:lastmodified":1510695356,
     "wof:name":"Cor Vel Corp",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",

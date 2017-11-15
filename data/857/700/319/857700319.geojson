@@ -2,14 +2,20 @@
   "id": 857700319,
   "type": "Feature",
   "properties": {
+    "addr:full":"4307 Kirkwood Hwy Wilmington DE 19808",
+    "addr:housenumber":"4307",
+    "addr:postcode":"19808",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.64959,39.728392,-75.64959,39.728392",
     "geom:latitude":39.728392,
     "geom:longitude":-75.64959,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4307 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85833847,
         102083891
     ],
+    "wof:brand_id":1125158255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2HadPnr9alITyYtRcA1yrP_39.728392_-75.649590@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220820,
-    "wof:geomhash":"eea31a81b54822fff6e71e152a70f75f",
+    "wof:geomhash":"a7d7c3eaec3f1f5a707a2d8a5a1a26b4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857700319,
-    "wof:lastmodified":1466427246,
+    "wof:lastmodified":1510698665,
     "wof:name":"China King Restaurant",
     "wof:parent_id":85833847,
     "wof:placetype":"venue",

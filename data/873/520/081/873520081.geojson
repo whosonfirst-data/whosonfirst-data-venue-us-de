@@ -2,14 +2,20 @@
   "id": 873520081,
   "type": "Feature",
   "properties": {
+    "addr:full":"2114 Silverside Rd Wilmington DE 19810",
+    "addr:housenumber":"2114",
+    "addr:postcode":"19810",
+    "addr:street":"Silverside Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.503998,39.801701,-75.503998,39.801701",
     "geom:latitude":39.801701,
     "geom:longitude":-75.503998,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2114 Silverside Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85838417,
         102083891
     ],
+    "wof:brand_id":1125150137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6k1VTnSimIy456Kn2xYHnE_39.801701_-75.503998@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223883,
-    "wof:geomhash":"47ea6e0b87547c75f1b3488c7cc5ea35",
+    "wof:geomhash":"2642b09277c7bb9d6fd3a2a4f959c053",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873520081,
-    "wof:lastmodified":1466428314,
+    "wof:lastmodified":1510696873,
     "wof:name":"Perfect Nails",
     "wof:parent_id":85838417,
     "wof:placetype":"venue",

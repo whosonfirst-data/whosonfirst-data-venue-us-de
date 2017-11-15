@@ -2,14 +2,20 @@
   "id": 873484593,
   "type": "Feature",
   "properties": {
+    "addr:full":"62 N Chapel St Newark DE 19711",
+    "addr:housenumber":"62",
+    "addr:postcode":"19711",
+    "addr:street":"N Chapel St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.746169,39.686088,-75.746169,39.686088",
     "geom:latitude":39.686088,
     "geom:longitude":-75.746169,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"62 N Chapel St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083891,
         85837039
     ],
+    "wof:brand_id":1125159037,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4YT0oJDRcMPovKI2nFiQkK_39.686088_-75.746169@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222292,
-    "wof:geomhash":"d9a2d42874794be334c8ceef4d5a2275",
+    "wof:geomhash":"2615fdced72e2abb287ddbcc65a29b07",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873484593,
-    "wof:lastmodified":1466427526,
+    "wof:lastmodified":1510698833,
     "wof:name":"Massage Works",
     "wof:parent_id":85837039,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873476843,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S New St Dover DE 19904",
+    "addr:housenumber":"300",
+    "addr:postcode":"19904",
+    "addr:street":"S New St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.527805,39.1564,-75.527805,39.1564",
     "geom:latitude":39.1564,
     "geom:longitude":-75.527805,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"300 S New St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083871,
         85847335
     ],
+    "wof:brand_id":420574765,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4MqaNGXqK0ZBjgzbMxq6i3_39.156400_-75.527805@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221978,
-    "wof:geomhash":"13755cda90f89fbfc64f92ee5debb5ac",
+    "wof:geomhash":"2ed50c68c195995239657b61399859a3",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873476843,
-    "wof:lastmodified":1466427277,
+    "wof:lastmodified":1510604126,
     "wof:name":"Social Security Administration",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",

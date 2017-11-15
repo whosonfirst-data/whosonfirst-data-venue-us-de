@@ -2,14 +2,20 @@
   "id": 873521783,
   "type": "Feature",
   "properties": {
+    "addr:full":"13 Dover Cir Dover DE 19901",
+    "addr:housenumber":"13",
+    "addr:postcode":"19901",
+    "addr:street":"Dover Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.500922,39.142107,-75.500922,39.142107",
     "geom:latitude":39.142107,
     "geom:longitude":-75.500922,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"13 Dover Cir",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083871,
         85809385
     ],
+    "wof:brand_id":1125155105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1PNtlk2u0pcOcYuWmo6YXx_39.142107_-75.500922@1303262472"
     },
     "wof:country":"US",
     "wof:created":1464223954,
-    "wof:geomhash":"2fef1b1ee28230715d145e317de01110",
+    "wof:geomhash":"5f00df0b25e54b253ec37fdeae86e8c9",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873521783,
-    "wof:lastmodified":1466428220,
+    "wof:lastmodified":1510699580,
     "wof:name":"Carmike Cinemas",
     "wof:parent_id":85809385,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873482169,
   "type": "Feature",
   "properties": {
+    "addr:full":"103 Balmore Ln Wilmington DE 19808",
+    "addr:housenumber":"103",
+    "addr:postcode":"19808",
+    "addr:street":"Balmore Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.662543,39.753442,-75.662543,39.753442",
     "geom:latitude":39.753442,
     "geom:longitude":-75.662543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"103 Balmore Ln",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85858585,
         102083891
     ],
+    "wof:brand_id":1125155795,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3BXTlANKruyQ8Lp8zCKtRW_39.753442_-75.662543@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222200,
-    "wof:geomhash":"303b032cf79b5c65fab5f22b4dd2b0ae",
+    "wof:geomhash":"cb78c37142c8fa3fdb824f5c0efcd68b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873482169,
-    "wof:lastmodified":1466427346,
+    "wof:lastmodified":1510697085,
     "wof:name":"Marine Corps League",
     "wof:parent_id":85858585,
     "wof:placetype":"venue",

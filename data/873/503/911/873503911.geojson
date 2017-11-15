@@ -2,14 +2,20 @@
   "id": 873503911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1901 Rockland Rd Wilmington DE 19803",
+    "addr:housenumber":"1901",
+    "addr:postcode":"19803",
+    "addr:street":"Rockland Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.544879,39.777426,-75.544879,39.777426",
     "geom:latitude":39.777426,
     "geom:longitude":-75.544879,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1901 Rockland Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85814293,
         102083891
     ],
+    "wof:brand_id":1125153717,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6L5Qb70Zd7kx8Theu6d7uo_39.777426_-75.544879@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223096,
-    "wof:geomhash":"81869c7ef4405dea6fc1fd1e401a2a13",
+    "wof:geomhash":"9d6da86d19b2432eeb44804e1f707d5a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873503911,
-    "wof:lastmodified":1466428075,
+    "wof:lastmodified":1510694613,
     "wof:name":"Ronald Mc Donald House",
     "wof:parent_id":85814293,
     "wof:placetype":"venue",

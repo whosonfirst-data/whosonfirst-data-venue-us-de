@@ -2,14 +2,20 @@
   "id": 873505029,
   "type": "Feature",
   "properties": {
+    "addr:full":"311 Ruthar Dr Newark DE 19711",
+    "addr:housenumber":"311",
+    "addr:postcode":"19711",
+    "addr:street":"Ruthar Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.703929,39.68794,-75.703929,39.68794",
     "geom:latitude":39.68794,
     "geom:longitude":-75.703929,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"311 Ruthar Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125150757,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4uGteVV7Lx9K8VtGs0960z_39.687940_-75.703929@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223158,
-    "wof:geomhash":"efb058f1c302d3cd7070177dd0aae12d",
+    "wof:geomhash":"142f8c08eb12139e51fe98716dfc6959",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873505029,
-    "wof:lastmodified":1466428037,
+    "wof:lastmodified":1510697588,
     "wof:name":"American Homepatient",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

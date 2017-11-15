@@ -2,14 +2,20 @@
   "id": 873517523,
   "type": "Feature",
   "properties": {
+    "addr:full":"3610 Concord Pike Wilmington DE 19803",
+    "addr:housenumber":"3610",
+    "addr:postcode":"19803",
+    "addr:street":"Concord Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.548357,39.802667,-75.548357,39.802667",
     "geom:latitude":39.802667,
     "geom:longitude":-75.548357,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3610 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85858565,
         102083891
     ],
+    "wof:brand_id":1125155467,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NnAAaHep3YfPVunx0UFox_39.802667_-75.548357@1303262470"
     },
     "wof:country":"US",
     "wof:created":1464223764,
-    "wof:geomhash":"1733c329f2940245f73718a4d05ae20f",
+    "wof:geomhash":"e25e77c0f92b65d3ad429bdb911fd914",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873517523,
-    "wof:lastmodified":1466428244,
+    "wof:lastmodified":1510694228,
     "wof:name":"Bertucci's",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",

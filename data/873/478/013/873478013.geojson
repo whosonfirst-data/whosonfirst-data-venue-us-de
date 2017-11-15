@@ -2,14 +2,20 @@
   "id": 873478013,
   "type": "Feature",
   "properties": {
+    "addr:full":"831 N Market St Wilmington DE 19801",
+    "addr:housenumber":"831",
+    "addr:postcode":"19801",
+    "addr:street":"N Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.548716,39.744318,-75.548716,39.744318",
     "geom:latitude":39.744318,
     "geom:longitude":-75.548716,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"831 N Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85888527
     ],
+    "wof:brand_id":1125155425,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kLOR1JixCmKITaToHhl97_39.744318_-75.548716@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222019,
-    "wof:geomhash":"b01520ceca2ddba8cce3b508bc7793be",
+    "wof:geomhash":"21cdc64b8745150e4711c119b337537b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873478013,
-    "wof:lastmodified":1466427209,
+    "wof:lastmodified":1510699409,
     "wof:name":"Saladworks",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",

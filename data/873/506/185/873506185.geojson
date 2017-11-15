@@ -2,6 +2,10 @@
   "id": 873506185,
   "type": "Feature",
   "properties": {
+    "addr:full":"300 S Madison St Wilmington DE 19801",
+    "addr:housenumber":"300",
+    "addr:postcode":"19801",
+    "addr:street":"S Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873506185,
-    "wof:lastmodified":1466427110,
+    "wof:lastmodified":1472614095,
     "wof:name":"City Garbage Collection",
     "wof:parent_id":85888529,
     "wof:placetype":"venue",

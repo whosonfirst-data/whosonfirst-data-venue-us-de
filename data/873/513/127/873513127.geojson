@@ -2,14 +2,20 @@
   "id": 873513127,
   "type": "Feature",
   "properties": {
+    "addr:full":"1228 Capitol Trl Newark DE 19711",
+    "addr:housenumber":"1228",
+    "addr:postcode":"19711",
+    "addr:street":"Capitol Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.711942,39.69688,-75.711942,39.69688",
     "geom:latitude":39.69688,
     "geom:longitude":-75.711942,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1228 Capitol Trl",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125159393,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3tOIF2YYruaaNKOmBlZsy5_39.696880_-75.711942@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464223518,
-    "wof:geomhash":"f10e463c9b5064e7ee4c5050c45161a3",
+    "wof:geomhash":"b6d57b79654da00a93b78f8f2c2cdb2a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873513127,
-    "wof:lastmodified":1466428153,
+    "wof:lastmodified":1510604926,
     "wof:name":"Taste of China",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873481497,
   "type": "Feature",
   "properties": {
+    "addr:full":"29 Auspice Cir Newark DE 19711",
+    "addr:housenumber":"29",
+    "addr:postcode":"19711",
+    "addr:street":"Auspice Cir",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.722384,39.746524,-75.722384,39.746524",
     "geom:latitude":39.746524,
     "geom:longitude":-75.722384,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"29 Auspice Cir",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85842215,
         102083891
     ],
+    "wof:brand_id":1125151739,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0FZiNYNMjsOwRUdHHMvSDA_39.746524_-75.722384@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222172,
-    "wof:geomhash":"3b02a53918124a100ea07e8ae63adcdb",
+    "wof:geomhash":"000beaa784a7973f93e59d2b8bbfb664",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873481497,
-    "wof:lastmodified":1466427401,
+    "wof:lastmodified":1510698808,
     "wof:name":"Lutheran Brotherhood Insurance",
     "wof:parent_id":85842215,
     "wof:placetype":"venue",

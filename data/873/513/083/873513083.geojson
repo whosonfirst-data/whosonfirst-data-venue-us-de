@@ -2,14 +2,20 @@
   "id": 873513083,
   "type": "Feature",
   "properties": {
+    "addr:full":"1700 Capitol Trl Newark DE 19711",
+    "addr:housenumber":"1700",
+    "addr:postcode":"19711",
+    "addr:street":"Capitol Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.701762,39.700274,-75.701762,39.700274",
     "geom:latitude":39.700274,
     "geom:longitude":-75.701762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1700 Capitol Trl",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":420574645,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_60QcFYUhTFxd7BdoYObfYx_39.700274_-75.701762@1299784598"
     },
     "wof:country":"US",
     "wof:created":1464223516,
-    "wof:geomhash":"cefdc4e1ab96d3ae17fdb6e2ccf1ae42",
+    "wof:geomhash":"2f0a9bdecb0d480ecdfa2399d541d213",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873513083,
-    "wof:lastmodified":1466428152,
+    "wof:lastmodified":1510604182,
     "wof:name":"Popeyes Chicken & Biscuits",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

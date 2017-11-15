@@ -2,14 +2,20 @@
   "id": 857684509,
   "type": "Feature",
   "properties": {
+    "addr:full":"200 College Sq Newark DE 19711",
+    "addr:housenumber":"200",
+    "addr:postcode":"19711",
+    "addr:street":"College Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.732528,39.683695,-75.732528,39.683695",
     "geom:latitude":39.683695,
     "geom:longitude":-75.732528,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"200 College Sq",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85831693,
         102083891
     ],
+    "wof:brand_id":1125157799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5FOjvLlFblalavBAlMyEAD_39.683695_-75.732528@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220513,
-    "wof:geomhash":"3be59c009885300e0764aa4d219c58f7",
+    "wof:geomhash":"0711ae81a7167e664e3c5304e4b70bc4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857684509,
-    "wof:lastmodified":1466426927,
+    "wof:lastmodified":1510698902,
     "wof:name":"Cardsmart",
     "wof:parent_id":85831693,
     "wof:placetype":"venue",

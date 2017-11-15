@@ -2,14 +2,20 @@
   "id": 873507941,
   "type": "Feature",
   "properties": {
+    "addr:full":"3317 Old Capitol Trl Wilmington DE 19808",
+    "addr:housenumber":"3317",
+    "addr:postcode":"19808",
+    "addr:street":"Old Capitol Trl",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.624202,39.734553,-75.624202,39.734553",
     "geom:latitude":39.734553,
     "geom:longitude":-75.624202,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3317 Old Capitol Trl",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85831761,
         102083891
     ],
+    "wof:brand_id":1125158875,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3CSNLvXeJvAiNT4albXERE_39.734553_-75.624202@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223278,
-    "wof:geomhash":"cfdef6ee0d194db6c8b398282b850664",
+    "wof:geomhash":"9bbef055adcbfd077bfd3ce0c4823ace",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873507941,
-    "wof:lastmodified":1466427463,
+    "wof:lastmodified":1510697515,
     "wof:name":"Tom's Barber Shop",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",

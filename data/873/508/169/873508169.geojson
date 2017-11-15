@@ -2,14 +2,20 @@
   "id": 873508169,
   "type": "Feature",
   "properties": {
+    "addr:full":"6 Denny Rd Wilmington DE 19809",
+    "addr:housenumber":"6",
+    "addr:postcode":"19809",
+    "addr:street":"Denny Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.505503,39.755448,-75.505503,39.755448",
     "geom:latitude":39.755448,
     "geom:longitude":-75.505503,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"6 Denny Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083891,
         85841243
     ],
+    "wof:brand_id":1125157307,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3uhNHqzRTG9MPXWhALpkSZ_39.755448_-75.505503@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223292,
-    "wof:geomhash":"1b52f09130c0b117011a16f287c3e223",
+    "wof:geomhash":"6c6f4000fcfb0054a946490926f081ef",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873508169,
-    "wof:lastmodified":1466427508,
+    "wof:lastmodified":1510695284,
     "wof:name":"Worldwide Express",
     "wof:parent_id":85841243,
     "wof:placetype":"venue",

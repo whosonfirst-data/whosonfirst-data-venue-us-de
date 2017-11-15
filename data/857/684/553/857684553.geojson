@@ -2,14 +2,20 @@
   "id": 857684553,
   "type": "Feature",
   "properties": {
+    "addr:full":"15 Carriage Ln Rehoboth Beach DE 19971",
+    "addr:housenumber":"15",
+    "addr:postcode":"19971",
+    "addr:street":"Carriage Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.132138,38.738192,-75.132138,38.738192",
     "geom:latitude":38.738192,
     "geom:longitude":-75.132138,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"15 Carriage Ln",
     "sg:city":"Rehoboth Beach",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85856217,
         102083887
     ],
+    "wof:brand_id":420575137,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_39TBTvymrZvTdhKIPbEm3g_38.738192_-75.132138@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220514,
-    "wof:geomhash":"01b3d1a379aff9a8c990c9e7cd7a573a",
+    "wof:geomhash":"31f57b43b94af189f0a06f21f5f2603e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857684553,
-    "wof:lastmodified":1466426931,
+    "wof:lastmodified":1510602463,
     "wof:name":"Disabled American Veterans",
     "wof:parent_id":85856217,
     "wof:placetype":"venue",

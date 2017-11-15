@@ -2,14 +2,20 @@
   "id": 873491777,
   "type": "Feature",
   "properties": {
+    "addr:full":"952 S Madison St Wilmington DE 19801",
+    "addr:housenumber":"952",
+    "addr:postcode":"19801",
+    "addr:street":"S Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.562001,39.733472,-75.562001,39.733472",
     "geom:latitude":39.733472,
     "geom:longitude":-75.562001,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"952 S Madison St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85888529
     ],
+    "wof:brand_id":1125158245,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7CJ4LQ6SVOstOUvqmPeAdJ_39.733472_-75.562001@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222558,
-    "wof:geomhash":"d9a0f787d31ee094a042a7046ed133c2",
+    "wof:geomhash":"963933a51a704c2e19b3c0941d865a3a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873491777,
-    "wof:lastmodified":1466427772,
+    "wof:lastmodified":1510697792,
     "wof:name":"Bon Worth",
     "wof:parent_id":85888529,
     "wof:placetype":"venue",

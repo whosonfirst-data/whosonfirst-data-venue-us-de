@@ -2,14 +2,20 @@
   "id": 857686907,
   "type": "Feature",
   "properties": {
+    "addr:full":"600 Christiana Medical Center Newark DE 19702",
+    "addr:housenumber":"600",
+    "addr:postcode":"19702",
+    "addr:street":"",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.657954,39.676825,-75.657954,39.676825",
     "geom:latitude":39.676825,
     "geom:longitude":-75.657954,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"600 Christiana Medical Center",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125150171,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5cUiXPrvSRnGEVLeaDQ4PG_39.676825_-75.657954@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220557,
-    "wof:geomhash":"8c8fd9923bf5feb64cf6f05a8474ab09",
+    "wof:geomhash":"722bf8e21e0829274a532fba9ddf6a7c",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857686907,
-    "wof:lastmodified":1466426968,
+    "wof:lastmodified":1510694917,
     "wof:name":"Yankee Candle Co",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

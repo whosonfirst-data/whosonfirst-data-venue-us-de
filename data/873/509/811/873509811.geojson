@@ -2,14 +2,20 @@
   "id": 873509811,
   "type": "Feature",
   "properties": {
+    "addr:full":"1200 N Dupont Hwy Dover DE 19901",
+    "addr:housenumber":"1200",
+    "addr:postcode":"19901",
+    "addr:street":"N Dupont Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.538201,39.18736,-75.538201,39.18736",
     "geom:latitude":39.18736,
     "geom:longitude":-75.538201,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1200 N Dupont Hwy",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083871,
         85842379
     ],
+    "wof:brand_id":1125150905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_17uFdiT1gCn2KfU321JNKL_39.187360_-75.538201@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223371,
-    "wof:geomhash":"5c0408c079451f007d5a6dbb7e86a6fc",
+    "wof:geomhash":"ba01477f3743bed27ed22f6a6bc9ce46",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873509811,
-    "wof:lastmodified":1466427846,
+    "wof:lastmodified":1510696729,
     "wof:name":"Small Business Development Ctr",
     "wof:parent_id":85842379,
     "wof:placetype":"venue",

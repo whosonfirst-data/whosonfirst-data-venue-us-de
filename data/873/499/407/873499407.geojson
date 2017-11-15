@@ -2,14 +2,20 @@
   "id": 873499407,
   "type": "Feature",
   "properties": {
+    "addr:full":"902 N Market St Wilmington DE 19802",
+    "addr:housenumber":"902",
+    "addr:postcode":"19802",
+    "addr:street":"N Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.54774,39.745501,-75.54774,39.745501",
     "geom:latitude":39.745501,
     "geom:longitude":-75.54774,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"902 N Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85888527
     ],
+    "wof:brand_id":420575077,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0aq0aoZhTVg9lfzlOUCEMo_39.745501_-75.547740@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222916,
-    "wof:geomhash":"25fad5a828eba49cb8100fc96b7a15ea",
+    "wof:geomhash":"2c70db5ad58a9c54710bb357975062f5",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873499407,
-    "wof:lastmodified":1466427948,
+    "wof:lastmodified":1510602716,
     "wof:name":"Central Parking System",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",

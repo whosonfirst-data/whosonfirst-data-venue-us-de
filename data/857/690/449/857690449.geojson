@@ -2,14 +2,20 @@
   "id": 857690449,
   "type": "Feature",
   "properties": {
+    "addr:full":"4602 Kirkwood Hwy Wilmington DE 19808",
+    "addr:housenumber":"4602",
+    "addr:postcode":"19808",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.659995,39.722703,-75.659995,39.722703",
     "geom:latitude":39.722703,
     "geom:longitude":-75.659995,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4602 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85833847,
         102083891
     ],
+    "wof:brand_id":420575359,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0RY3oa6OL9WltJqxaoarjk_39.722703_-75.659995@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220627,
-    "wof:geomhash":"2cc45ef778786b48735fe632c342a44a",
+    "wof:geomhash":"f9eb733f2205699910b7ac867926fa24",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857690449,
-    "wof:lastmodified":1466426967,
+    "wof:lastmodified":1510602456,
     "wof:name":"Sizzler",
     "wof:parent_id":85833847,
     "wof:placetype":"venue",

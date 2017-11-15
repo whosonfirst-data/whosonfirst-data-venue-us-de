@@ -2,14 +2,20 @@
   "id": 873471047,
   "type": "Feature",
   "properties": {
+    "addr:full":"274 Milford Harrington Hwy Milford DE 19963",
+    "addr:housenumber":"274",
+    "addr:postcode":"19963",
+    "addr:street":"Milford Harrington Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.44724,38.91834,-75.44724,38.91834",
     "geom:latitude":38.91834,
     "geom:longitude":-75.44724,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"274 Milford Harrington Hwy",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85858981,
         102083871
     ],
+    "wof:brand_id":1125154141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IZEqL7qafZlysPYUKOFHt_38.918340_-75.447240@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221771,
-    "wof:geomhash":"6d22b56cf1cbf9b0e92bd862e210cc44",
+    "wof:geomhash":"f00a1cb44ac8af8322b4ee23e0d6e8de",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873471047,
-    "wof:lastmodified":1466427002,
+    "wof:lastmodified":1510694978,
     "wof:name":"Razor's Edge",
     "wof:parent_id":85858981,
     "wof:placetype":"venue",

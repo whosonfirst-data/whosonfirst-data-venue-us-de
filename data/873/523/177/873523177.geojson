@@ -2,6 +2,10 @@
   "id": 873523177,
   "type": "Feature",
   "properties": {
+    "addr:full":"426 S New St Apt 210 Dover DE 19904",
+    "addr:housenumber":"426;210",
+    "addr:postcode":"19904",
+    "addr:street":"S New St Apt",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -54,7 +58,7 @@
         }
     ],
     "wof:id":873523177,
-    "wof:lastmodified":1466428261,
+    "wof:lastmodified":1472614113,
     "wof:name":"Owens Manor",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",

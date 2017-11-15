@@ -2,14 +2,20 @@
   "id": 857688659,
   "type": "Feature",
   "properties": {
+    "addr:full":"729 Bay Rd Milford DE 19963",
+    "addr:housenumber":"729",
+    "addr:postcode":"19963",
+    "addr:street":"Bay Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.426746,38.944935,-75.426746,38.944935",
     "geom:latitude":38.944935,
     "geom:longitude":-75.426746,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"729 Bay Rd",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85858981,
         102083871
     ],
+    "wof:brand_id":420573963,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0SUYY3GJT8nv31MMr7FpVf_38.944935_-75.426746@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220593,
-    "wof:geomhash":"907828b21c40e3424b2739d187bca882",
+    "wof:geomhash":"d4179c89d6efc11c99e9b0b12f6d4f4a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857688659,
-    "wof:lastmodified":1466426957,
+    "wof:lastmodified":1510603289,
     "wof:name":"Super 8 Motel",
     "wof:parent_id":85858981,
     "wof:placetype":"venue",

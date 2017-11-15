@@ -2,14 +2,20 @@
   "id": 857713093,
   "type": "Feature",
   "properties": {
+    "addr:full":"235 E Commerce St Smyrna DE 19977",
+    "addr:housenumber":"235",
+    "addr:postcode":"19977",
+    "addr:street":"E Commerce St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.602578,39.303058,-75.602578,39.303058",
     "geom:latitude":39.303058,
     "geom:longitude":-75.602578,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"235 E Commerce St",
     "sg:city":"Smyrna",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083871,
         85815601
     ],
+    "wof:brand_id":1125150403,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6eWwjdTRJ5WG7GkMnvDU3D_39.303058_-75.602578@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221112,
-    "wof:geomhash":"c56c90b90062a241ab3711187aa6a154",
+    "wof:geomhash":"87d7e4875e4b472cd955900c73943215",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857713093,
-    "wof:lastmodified":1466427648,
+    "wof:lastmodified":1510693887,
     "wof:name":"Bethel AME Church",
     "wof:parent_id":85815601,
     "wof:placetype":"venue",

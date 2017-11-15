@@ -2,14 +2,20 @@
   "id": 873502757,
   "type": "Feature",
   "properties": {
+    "addr:full":"95 Edward Ct Newark DE 19702",
+    "addr:housenumber":"95",
+    "addr:postcode":"19702",
+    "addr:street":"Edward Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.671107,39.626967,-75.671107,39.626967",
     "geom:latitude":39.626967,
     "geom:longitude":-75.671107,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"95 Edward Ct",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125155953,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4cDeqXlXcCYv6WfD2jpjsw_39.626967_-75.671107@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223056,
-    "wof:geomhash":"e1809b5eba3c4c2369a38756b22e72b4",
+    "wof:geomhash":"f9879945e41395001f962c472a5e4de5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873502757,
-    "wof:lastmodified":1466428114,
+    "wof:lastmodified":1510698914,
     "wof:name":"Mrs Fields Original Cookies",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

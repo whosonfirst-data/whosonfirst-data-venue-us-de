@@ -2,14 +2,20 @@
   "id": 873474783,
   "type": "Feature",
   "properties": {
+    "addr:full":"4401 Governor Printz Blvd Wilmington DE 19802",
+    "addr:housenumber":"4401",
+    "addr:postcode":"19802",
+    "addr:street":"Governor Printz Blvd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.511836,39.752682,-75.511836,39.752682",
     "geom:latitude":39.752682,
     "geom:longitude":-75.511836,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4401 Governor Printz Blvd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -38,13 +44,14 @@
         102083891,
         85841243
     ],
+    "wof:brand_id":420574993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2JCQ3JMpalmVK8x8A4pmBw_39.752682_-75.511836@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221907,
-    "wof:geomhash":"c3b74b3eb731737e003f65d21c14d29a",
+    "wof:geomhash":"22dd0e2628909e414c74cdf38433096d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -57,7 +64,7 @@
         }
     ],
     "wof:id":873474783,
-    "wof:lastmodified":1466427238,
+    "wof:lastmodified":1510603965,
     "wof:name":"Gold's Gym",
     "wof:parent_id":85841243,
     "wof:placetype":"venue",

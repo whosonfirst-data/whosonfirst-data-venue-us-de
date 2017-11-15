@@ -2,6 +2,10 @@
   "id": 873516643,
   "type": "Feature",
   "properties": {
+    "addr:full":"1105 N Market St Suite 1 Wilmington DE 19801",
+    "addr:housenumber":"1105",
+    "addr:postcode":"19801",
+    "addr:street":"N Market St Suite 1",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -62,7 +66,7 @@
         }
     ],
     "wof:id":873516643,
-    "wof:lastmodified":1466428263,
+    "wof:lastmodified":1472614142,
     "wof:name":"HSBC Bank USA, N.A.",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",

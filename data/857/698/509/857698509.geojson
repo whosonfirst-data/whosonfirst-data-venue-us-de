@@ -2,14 +2,20 @@
   "id": 857698509,
   "type": "Feature",
   "properties": {
+    "addr:full":"1137 Savannah Rd Lewes DE 19958",
+    "addr:housenumber":"1137",
+    "addr:postcode":"19958",
+    "addr:street":"Savannah Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.150708,38.763465,-75.150708,38.763465",
     "geom:latitude":38.763465,
     "geom:longitude":-75.150708,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1137 Savannah Rd",
     "sg:city":"Lewes",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85825023,
         102083887
     ],
+    "wof:brand_id":1125157087,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6cAtEgDbEOt52bVgqZzcgq_38.763465_-75.150708@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220783,
-    "wof:geomhash":"549168b4ac016cb922b50188fb4f012e",
+    "wof:geomhash":"b385a1690e284967d7f8638bce375dec",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857698509,
-    "wof:lastmodified":1466427239,
+    "wof:lastmodified":1510693785,
     "wof:name":"US Army Reserve Ctr",
     "wof:parent_id":85825023,
     "wof:placetype":"venue",

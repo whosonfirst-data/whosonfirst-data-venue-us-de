@@ -2,14 +2,20 @@
   "id": 873508881,
   "type": "Feature",
   "properties": {
+    "addr:full":"2911 Lancaster Ave Wilmington DE 19805",
+    "addr:housenumber":"2911",
+    "addr:postcode":"19805",
+    "addr:street":"Lancaster Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.584721,39.751029,-75.584721,39.751029",
     "geom:latitude":39.751029,
     "geom:longitude":-75.584721,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2911 Lancaster Ave",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85848761,
         102083891
     ],
+    "wof:brand_id":1125157001,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6loUbxOP4l4EOcLsTBRVk2_39.751029_-75.584721@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223326,
-    "wof:geomhash":"0d59615b3e5578051a98da06d470d1c7",
+    "wof:geomhash":"c2f589c4853cbf1b9b8533453c5a92b6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873508881,
-    "wof:lastmodified":1466427653,
+    "wof:lastmodified":1510695070,
     "wof:name":"Larry's Barber Shop",
     "wof:parent_id":85848761,
     "wof:placetype":"venue",

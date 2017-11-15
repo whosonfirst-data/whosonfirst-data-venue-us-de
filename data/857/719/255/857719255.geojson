@@ -2,14 +2,20 @@
   "id": 857719255,
   "type": "Feature",
   "properties": {
+    "addr:full":"2711 Pulaski Hwy Newark DE 19702",
+    "addr:housenumber":"2711",
+    "addr:postcode":"19702",
+    "addr:street":"Pulaski Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.758089,39.603594,-75.758089,39.603594",
     "geom:latitude":39.603594,
     "geom:longitude":-75.758089,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2711 Pulaski Hwy",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85812409,
         102083891
     ],
+    "wof:brand_id":1125157215,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7IyrY2AZO6WYphsraRxP1E_39.603594_-75.758089@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221232,
-    "wof:geomhash":"9d87970d94c87d93a9112384eff4deb8",
+    "wof:geomhash":"58833fc25f5927330ef3d7b0fc728387",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857719255,
-    "wof:lastmodified":1466427847,
+    "wof:lastmodified":1510697003,
     "wof:name":"Nail Boutique",
     "wof:parent_id":85812409,
     "wof:placetype":"venue",

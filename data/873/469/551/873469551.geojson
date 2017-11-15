@@ -2,14 +2,20 @@
   "id": 873469551,
   "type": "Feature",
   "properties": {
+    "addr:full":"116 Front St Lewes DE 19958",
+    "addr:housenumber":"116",
+    "addr:postcode":"19958",
+    "addr:street":"Front St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.138789,38.775631,-75.138789,38.775631",
     "geom:latitude":38.775631,
     "geom:longitude":-75.138789,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 Front St",
     "sg:city":"Lewes",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083887,
         85822813
     ],
+    "wof:brand_id":420575231,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0axEimiD7wK5oBogIr4ChI_38.775631_-75.138789@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221707,
-    "wof:geomhash":"fef0b938c344b9bbb4a6eaabc687a2df",
+    "wof:geomhash":"b94b2bb20b310a80ba34bce2b40460c2",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873469551,
-    "wof:lastmodified":1466426992,
+    "wof:lastmodified":1510602878,
     "wof:name":"Horace Mann Insurance Co",
     "wof:parent_id":85822813,
     "wof:placetype":"venue",

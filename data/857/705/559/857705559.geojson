@@ -2,14 +2,20 @@
   "id": 857705559,
   "type": "Feature",
   "properties": {
+    "addr:full":"4514 Kirkwood Hwy Wilmington DE 19808",
+    "addr:housenumber":"4514",
+    "addr:postcode":"19808",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.657689,39.723959,-75.657689,39.723959",
     "geom:latitude":39.723959,
     "geom:longitude":-75.657689,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4514 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85833847,
         102083891
     ],
+    "wof:brand_id":420574597,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3X5xWIF2KrN89X2N7PGs29_39.723959_-75.657689@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220924,
-    "wof:geomhash":"37def1e585ff8833ed537b05980c1ab2",
+    "wof:geomhash":"bddb607c6f9f3e6df56eba838fcec1e9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857705559,
-    "wof:lastmodified":1466427447,
+    "wof:lastmodified":1510608379,
     "wof:name":"Pearle Vision",
     "wof:parent_id":85833847,
     "wof:placetype":"venue",

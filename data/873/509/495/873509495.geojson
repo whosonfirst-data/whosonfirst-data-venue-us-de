@@ -2,14 +2,20 @@
   "id": 873509495,
   "type": "Feature",
   "properties": {
+    "addr:full":"121 Ruthar Dr Newark DE 19711",
+    "addr:housenumber":"121",
+    "addr:postcode":"19711",
+    "addr:street":"Ruthar Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.690272,39.691953,-75.690272,39.691953",
     "geom:latitude":39.691953,
     "geom:longitude":-75.690272,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"121 Ruthar Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":420575993,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6HLzjymJKFJbkc872DFPQZ_39.691953_-75.690272@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223351,
-    "wof:geomhash":"99e4034f6ca4cce9f3545596893a9e7f",
+    "wof:geomhash":"b1594527d355e857000138aac85076d3",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873509495,
-    "wof:lastmodified":1466427780,
+    "wof:lastmodified":1510602055,
     "wof:name":"Storage USA",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

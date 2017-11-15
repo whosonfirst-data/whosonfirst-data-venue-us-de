@@ -2,6 +2,10 @@
   "id": 873504629,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 N Market St Wilmington DE 19801",
+    "addr:housenumber":"123",
+    "addr:postcode":"19801",
+    "addr:street":"N Market St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873504629,
-    "wof:lastmodified":1466427002,
+    "wof:lastmodified":1472614133,
     "wof:name":"1-800-Got Junk",
     "wof:parent_id":85888523,
     "wof:placetype":"venue",

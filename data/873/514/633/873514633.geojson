@@ -2,14 +2,20 @@
   "id": 873514633,
   "type": "Feature",
   "properties": {
+    "addr:full":"620 Plaza Dr Newark DE 19702",
+    "addr:housenumber":"620",
+    "addr:postcode":"19702",
+    "addr:street":"Plaza Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.746703,39.626788,-75.746703,39.626788",
     "geom:latitude":39.626788,
     "geom:longitude":-75.746703,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"620 Plaza Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         85812409,
         102083891
     ],
+    "wof:brand_id":1125155255,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0qEED82AOeQLTjNGAT80un_39.626788_-75.746703@1303262470"
     },
     "wof:country":"US",
     "wof:created":1464223601,
-    "wof:geomhash":"f8d1d59f308972ce6aa800c38e5426a5",
+    "wof:geomhash":"3782f0111610d069ac9a97f5de41f332",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873514633,
-    "wof:lastmodified":1466428333,
+    "wof:lastmodified":1510695082,
     "wof:name":"Hong Kong Buffet",
     "wof:parent_id":85812409,
     "wof:placetype":"venue",

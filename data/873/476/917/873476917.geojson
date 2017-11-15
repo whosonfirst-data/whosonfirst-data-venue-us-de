@@ -2,14 +2,20 @@
   "id": 873476917,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Peoples Way Hockessin DE 19707",
+    "addr:housenumber":"123",
+    "addr:postcode":"19707",
+    "addr:street":"Peoples Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.699907,39.77192,-75.699907,39.77192",
     "geom:latitude":39.77192,
     "geom:longitude":-75.699907,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"123 Peoples Way",
     "sg:city":"Hockessin",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083891,
         85830551
     ],
+    "wof:brand_id":1125155193,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4qw7I0UZxvJlTafQFSZNFP_39.771920_-75.699907@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221981,
-    "wof:geomhash":"18060f102920326abe7222d0d9006342",
+    "wof:geomhash":"dfa94b0da90c666cd70c8e344b8d91ae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873476917,
-    "wof:lastmodified":1466427290,
+    "wof:lastmodified":1510699648,
     "wof:name":"Toll Brothers Inc",
     "wof:parent_id":85830551,
     "wof:placetype":"venue",

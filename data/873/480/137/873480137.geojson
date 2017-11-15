@@ -2,14 +2,20 @@
   "id": 873480137,
   "type": "Feature",
   "properties": {
+    "addr:full":"155 Commerce Way Dover DE 19904",
+    "addr:housenumber":"155",
+    "addr:postcode":"19904",
+    "addr:street":"Commerce Way",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.550533,39.152409,-75.550533,39.152409",
     "geom:latitude":39.152409,
     "geom:longitude":-75.550533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"155 Commerce Way",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083871,
         85859041
     ],
+    "wof:brand_id":1125152341,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4S9f6o8eSOHiZ1NHcBgR3v_39.152409_-75.550533@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222117,
-    "wof:geomhash":"421526813b30812fe786228600a95885",
+    "wof:geomhash":"5cc65578bf6f8ec36a3eae6abece7f48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873480137,
-    "wof:lastmodified":1466427312,
+    "wof:lastmodified":1510613374,
     "wof:name":"Federal Express Corporation",
     "wof:parent_id":85859041,
     "wof:placetype":"venue",

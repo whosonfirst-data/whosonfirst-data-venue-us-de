@@ -2,14 +2,20 @@
   "id": 873482403,
   "type": "Feature",
   "properties": {
+    "addr:full":"480 Peoples Plz Newark DE 19702",
+    "addr:housenumber":"480",
+    "addr:postcode":"19702",
+    "addr:street":"Peoples Plz",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.746295,39.602909,-75.746295,39.602909",
     "geom:latitude":39.602909,
     "geom:longitude":-75.746295,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"480 Peoples Plz",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85812409,
         102083891
     ],
+    "wof:brand_id":420575093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_70wpNveR9oXDXcUpvOVsuN_39.602909_-75.746295@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222208,
-    "wof:geomhash":"0014c6a000a8e58bc6e057b03b35a5e6",
+    "wof:geomhash":"38ed82707758ede7027cb1bbd85ae77a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873482403,
-    "wof:lastmodified":1466427395,
+    "wof:lastmodified":1510602905,
     "wof:name":"Candy Bouquet",
     "wof:parent_id":85812409,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873491549,
   "type": "Feature",
   "properties": {
+    "addr:full":"308 N Dupont Hwy Georgetown DE 19947",
+    "addr:housenumber":"308",
+    "addr:postcode":"19947",
+    "addr:street":"N Dupont Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.397753,38.68889,-75.397753,38.68889",
     "geom:latitude":38.68889,
     "geom:longitude":-75.397753,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"308 N Dupont Hwy",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083887,
         85851647
     ],
+    "wof:brand_id":1125151305,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6Nb6kxT19Gp9Nn0AEDRBG5_38.688890_-75.397753@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222551,
-    "wof:geomhash":"7e4ed8a6fd9792096d2bd9dcdce7a5ec",
+    "wof:geomhash":"857fb5c6748d882809f3c2b0464531eb",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873491549,
-    "wof:lastmodified":1466427724,
+    "wof:lastmodified":1510693903,
     "wof:name":"Donut Connection",
     "wof:parent_id":85851647,
     "wof:placetype":"venue",

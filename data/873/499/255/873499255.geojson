@@ -2,14 +2,20 @@
   "id": 873499255,
   "type": "Feature",
   "properties": {
+    "addr:full":"1225 N King St Wilmington DE 19801",
+    "addr:housenumber":"1225",
+    "addr:postcode":"19801",
+    "addr:street":"N King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.545387,39.747631,-75.545387,39.747631",
     "geom:latitude":39.747631,
     "geom:longitude":-75.545387,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1225 N King St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85888527
     ],
+    "wof:brand_id":1125150463,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1GnYDSm7kLcLKoJtIU5dgK_39.747631_-75.545387@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222908,
-    "wof:geomhash":"4d067a586cd64870e6a0c780fa501dcc",
+    "wof:geomhash":"c45c7ec1a767a61b3df4256504b3ca48",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873499255,
-    "wof:lastmodified":1466427916,
+    "wof:lastmodified":1510694146,
     "wof:name":"Pitney Bowes",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",

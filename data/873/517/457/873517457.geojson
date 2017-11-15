@@ -2,14 +2,20 @@
   "id": 873517457,
   "type": "Feature",
   "properties": {
+    "addr:full":"4737 Concord Pike Ste 630 Wilmington DE 19803",
+    "addr:housenumber":"4737",
+    "addr:postcode":"19803",
+    "addr:street":"Concord Pike Ste 630",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.544665,39.820094,-75.544665,39.820094",
     "geom:latitude":39.820094,
     "geom:longitude":-75.544665,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4737 Concord Pike Ste 630",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85858565,
         102083891
     ],
+    "wof:brand_id":1125151553,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3ZYSeFA09csk0j9Dwt2QIf_39.820094_-75.544665@1303262470"
     },
     "wof:country":"US",
     "wof:created":1464223759,
-    "wof:geomhash":"5ded21593c5c56b89b11e0a0c7a1a1e6",
+    "wof:geomhash":"c1fa9c3eacc0b004c1e8224d54999aa7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873517457,
-    "wof:lastmodified":1466428341,
+    "wof:lastmodified":1510699752,
     "wof:name":"Gordon's Jewelers",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",

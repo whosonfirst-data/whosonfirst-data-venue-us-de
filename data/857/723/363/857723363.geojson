@@ -2,14 +2,20 @@
   "id": 857723363,
   "type": "Feature",
   "properties": {
+    "addr:full":"71 Billings Dr Dover DE 19901",
+    "addr:housenumber":"71",
+    "addr:postcode":"19901",
+    "addr:street":"Billings Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.503683,39.19967,-75.503683,39.19967",
     "geom:latitude":39.19967,
     "geom:longitude":-75.503683,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"71 Billings Dr",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083871,
         85842379
     ],
+    "wof:brand_id":1125158821,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kPx9uVWIyB98h9gVVSbtg_39.199670_-75.503683@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221313,
-    "wof:geomhash":"f8cc6c868642b428258d865982920071",
+    "wof:geomhash":"c25d27bd2e024ced80c4974bfbfbeffe",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857723363,
-    "wof:lastmodified":1466427968,
+    "wof:lastmodified":1510696071,
     "wof:name":"Munchies",
     "wof:parent_id":85842379,
     "wof:placetype":"venue",

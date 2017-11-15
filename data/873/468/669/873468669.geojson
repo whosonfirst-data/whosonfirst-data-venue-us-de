@@ -2,14 +2,20 @@
   "id": 873468669,
   "type": "Feature",
   "properties": {
+    "addr:full":"3926 Kirkwood Hwy Wilmington DE 19808",
+    "addr:housenumber":"3926",
+    "addr:postcode":"19808",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.649157,39.7283,-75.649157,39.7283",
     "geom:latitude":39.7283,
     "geom:longitude":-75.649157,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3926 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         85833847,
         102083891
     ],
+    "wof:brand_id":1125154373,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3wTiYpf1vPMONGZN0bbzjS_39.728300_-75.649157@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221676,
-    "wof:geomhash":"d2dfcea3f0b8ade3abc6afd5d471ada3",
+    "wof:geomhash":"27a483e4fef056747fe6d1494916362a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -48,7 +55,7 @@
         }
     ],
     "wof:id":873468669,
-    "wof:lastmodified":1466427015,
+    "wof:lastmodified":1510699697,
     "wof:name":"Tweeter",
     "wof:parent_id":85833847,
     "wof:placetype":"venue",

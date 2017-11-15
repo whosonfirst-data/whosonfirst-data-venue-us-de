@@ -2,6 +2,10 @@
   "id": 873468581,
   "type": "Feature",
   "properties": {
+    "addr:full":"123 Walnut Shade Rd Woodside DE 19943",
+    "addr:housenumber":"123",
+    "addr:postcode":"19943",
+    "addr:street":"Walnut Shade Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":873468581,
-    "wof:lastmodified":1466426997,
+    "wof:lastmodified":1472613999,
     "wof:name":"Mustang Man Of Delmarva",
     "wof:parent_id":85834165,
     "wof:placetype":"venue",

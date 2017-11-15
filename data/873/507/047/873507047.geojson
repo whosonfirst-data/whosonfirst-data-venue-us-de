@@ -2,14 +2,20 @@
   "id": 873507047,
   "type": "Feature",
   "properties": {
+    "addr:full":"502 S Washington St Milford DE 19963",
+    "addr:housenumber":"502",
+    "addr:postcode":"19963",
+    "addr:street":"S Washington St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.427549,38.904794,-75.427549,38.904794",
     "geom:latitude":38.904794,
     "geom:longitude":-75.427549,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"502 S Washington St",
     "sg:city":"Milford",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         102083887,
         85808029
     ],
+    "wof:brand_id":420575663,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_27JKbm2Wsd5X63o2Mk1HC8_38.904794_-75.427549@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223239,
-    "wof:geomhash":"8e96d7eb957c01d7198f3d3c24d025ea",
+    "wof:geomhash":"7b8fc41d6e4a744c789d2723a21bd190",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873507047,
-    "wof:lastmodified":1466427287,
+    "wof:lastmodified":1510602565,
     "wof:name":"Warehouse",
     "wof:parent_id":85808029,
     "wof:placetype":"venue",

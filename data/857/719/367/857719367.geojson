@@ -2,14 +2,20 @@
   "id": 857719367,
   "type": "Feature",
   "properties": {
+    "addr:full":"591 College Sq Newark DE 19711",
+    "addr:housenumber":"591",
+    "addr:postcode":"19711",
+    "addr:street":"College Sq",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.733433,39.684496,-75.733433,39.684496",
     "geom:latitude":39.684496,
     "geom:longitude":-75.733433,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"591 College Sq",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85831693,
         102083891
     ],
+    "wof:brand_id":420574903,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4kivjVXN3Tvavv0iTSvM8R_39.684496_-75.733433@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221235,
-    "wof:geomhash":"33f8800389588aaea64e1480641119be",
+    "wof:geomhash":"3eb0a9cecca5c9132facdf119ba474e2",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857719367,
-    "wof:lastmodified":1466427859,
+    "wof:lastmodified":1510604556,
     "wof:name":"Hair Cuttery",
     "wof:parent_id":85831693,
     "wof:placetype":"venue",

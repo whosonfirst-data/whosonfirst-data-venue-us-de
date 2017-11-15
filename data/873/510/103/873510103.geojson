@@ -2,14 +2,20 @@
   "id": 873510103,
   "type": "Feature",
   "properties": {
+    "addr:full":"1114 Highgate Rd Wilmington DE 19808",
+    "addr:housenumber":"1114",
+    "addr:postcode":"19808",
+    "addr:street":"Highgate Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.664343,39.737375,-75.664343,39.737375",
     "geom:latitude":39.737375,
     "geom:longitude":-75.664343,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1114 Highgate Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85834415,
         102083891
     ],
+    "wof:brand_id":420575845,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0od7Qp00Lu6xVAHlof2r4g_39.737375_-75.664343@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223382,
-    "wof:geomhash":"0278c5899d19178864d6526acf1fa704",
+    "wof:geomhash":"7f08987369f21079b6dbb71d591f96fd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873510103,
-    "wof:lastmodified":1466427904,
+    "wof:lastmodified":1510601926,
     "wof:name":"Baha'i Faith",
     "wof:parent_id":85834415,
     "wof:placetype":"venue",

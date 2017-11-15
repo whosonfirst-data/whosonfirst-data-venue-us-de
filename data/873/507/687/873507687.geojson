@@ -2,14 +2,20 @@
   "id": 873507687,
   "type": "Feature",
   "properties": {
+    "addr:full":"312 Cherry Ln New Castle DE 19720",
+    "addr:housenumber":"312",
+    "addr:postcode":"19720",
+    "addr:street":"Cherry Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.54778,39.69067,-75.54778,39.69067",
     "geom:latitude":39.69067,
     "geom:longitude":-75.54778,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"312 Cherry Ln",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85833083,
         102083891
     ],
+    "wof:brand_id":1125151817,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3kHQoQCGmEAn3sWha4NKYH_39.690670_-75.547780@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223269,
-    "wof:geomhash":"d5443d2e06dc4ee7d69720e3979c76bf",
+    "wof:geomhash":"c7c18f547d9411a66ed76c5f65664937",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873507687,
-    "wof:lastmodified":1466427411,
+    "wof:lastmodified":1510699271,
     "wof:name":"Airborne",
     "wof:parent_id":85833083,
     "wof:placetype":"venue",

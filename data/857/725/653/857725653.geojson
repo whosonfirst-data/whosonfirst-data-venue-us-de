@@ -2,14 +2,20 @@
   "id": 857725653,
   "type": "Feature",
   "properties": {
+    "addr:full":"1121 Churchmans Rd Newark DE 19713",
+    "addr:housenumber":"1121",
+    "addr:postcode":"19713",
+    "addr:street":"Churchmans Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.664285,39.690639,-75.664285,39.690639",
     "geom:latitude":39.690639,
     "geom:longitude":-75.664285,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1121 Churchmans Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":1125150729,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5ECXSzb4GzLc4St24GjNcn_39.690639_-75.664285@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221355,
-    "wof:geomhash":"57e54eda3763ec20a573fb043b177832",
+    "wof:geomhash":"593829c3cbae931faba09c8d30f1e627",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857725653,
-    "wof:lastmodified":1466426946,
+    "wof:lastmodified":1510695865,
     "wof:name":"Wireless Zone",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873510033,
   "type": "Feature",
   "properties": {
+    "addr:full":"3210 Kirkwood Hwy Wilmington DE 19808",
+    "addr:housenumber":"3210",
+    "addr:postcode":"19808",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.626493,39.73691,-75.626493,39.73691",
     "geom:latitude":39.73691,
     "geom:longitude":-75.626493,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3210 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85831761,
         102083891
     ],
+    "wof:brand_id":1125151553,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1D0UEW4sx0lhZEt6K8Zoon_39.736910_-75.626493@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223380,
-    "wof:geomhash":"18182aa8daea9f93f47e857346e83504",
+    "wof:geomhash":"d4d5ed3cbe5976be67b464374046d4b9",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873510033,
-    "wof:lastmodified":1466427891,
+    "wof:lastmodified":1510699752,
     "wof:name":"Gordon's Jewelers",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",

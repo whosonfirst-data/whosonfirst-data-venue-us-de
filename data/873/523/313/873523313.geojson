@@ -2,14 +2,20 @@
   "id": 873523313,
   "type": "Feature",
   "properties": {
+    "addr:full":"250 Beiser Blvd Ste 201 Dover DE 19904",
+    "addr:housenumber":"250",
+    "addr:postcode":"19904",
+    "addr:street":"Beiser Blvd Ste 201",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.543973,39.153134,-75.543973,39.153134",
     "geom:latitude":39.153134,
     "geom:longitude":-75.543973,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"250 Beiser Blvd Ste 201",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083871,
         85859041
     ],
+    "wof:brand_id":420574327,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0fJ4lNgaSGrfa3w5345DJ7_39.153134_-75.543973@1303262472"
     },
     "wof:country":"US",
     "wof:created":1464224016,
-    "wof:geomhash":"edd03f8526e269ea52830cb7560cbe21",
+    "wof:geomhash":"10e2559bcbb7b78a3a3db554ffe233aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873523313,
-    "wof:lastmodified":1466428351,
+    "wof:lastmodified":1510604560,
     "wof:name":"Wells Fargo Home Mortgage",
     "wof:parent_id":85859041,
     "wof:placetype":"venue",

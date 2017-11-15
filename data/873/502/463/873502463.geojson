@@ -2,14 +2,20 @@
   "id": 873502463,
   "type": "Feature",
   "properties": {
+    "addr:full":"222 E Dupont Hwy Millsboro DE 19966",
+    "addr:housenumber":"222",
+    "addr:postcode":"19966",
+    "addr:street":"E Dupont Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.291457,38.580725,-75.291457,38.580725",
     "geom:latitude":38.580725,
     "geom:longitude":-75.291457,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"222 E Dupont Hwy",
     "sg:city":"Millsboro",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083887,
         85823997
     ],
+    "wof:brand_id":1125155003,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_68ThYhF4FvOsp7gydRDmi4_38.580725_-75.291457@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223045,
-    "wof:geomhash":"2a8877fa2713c8b23f6df717d8656903",
+    "wof:geomhash":"6381128bb47b8f3f36878fdb14b8928d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,7 +60,7 @@
         }
     ],
     "wof:id":873502463,
-    "wof:lastmodified":1466428098,
+    "wof:lastmodified":1510699952,
     "wof:name":"Good Feet Store",
     "wof:parent_id":85823997,
     "wof:placetype":"venue",

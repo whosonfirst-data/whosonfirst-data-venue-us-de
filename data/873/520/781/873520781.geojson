@@ -2,14 +2,20 @@
   "id": 873520781,
   "type": "Feature",
   "properties": {
+    "addr:full":"148 John Hunn Brown Rd Dover DE 19901",
+    "addr:housenumber":"148",
+    "addr:postcode":"19901",
+    "addr:street":"John Hunn Brown Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.501297,39.157501,-75.501297,39.157501",
     "geom:latitude":39.157501,
     "geom:longitude":-75.501297,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"148 John Hunn Brown Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083871,
         85809385
     ],
+    "wof:brand_id":1125150105,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0nv3fTe48yPqprCwQfTVkI_39.157501_-75.501297@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223917,
-    "wof:geomhash":"be9e81feff90bd9c1794c156da4f5900",
+    "wof:geomhash":"c4023176f77011c2bfe454018bcc151a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873520781,
-    "wof:lastmodified":1466428278,
+    "wof:lastmodified":1510694628,
     "wof:name":"Target Stores",
     "wof:parent_id":85809385,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 857725319,
   "type": "Feature",
   "properties": {
+    "addr:full":"18712 Ryan Ct Rehoboth Beach DE 19971",
+    "addr:housenumber":"18712",
+    "addr:postcode":"19971",
+    "addr:street":"Ryan Ct",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.149763,38.731069,-75.149763,38.731069",
     "geom:latitude":38.731069,
     "geom:longitude":-75.149763,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18712 Ryan Ct",
     "sg:city":"Rehoboth Beach",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85814899,
         102083887
     ],
+    "wof:brand_id":1125150893,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5VIvFeQ1e0JrSYZ4QYDbRO_38.731069_-75.149763@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221349,
-    "wof:geomhash":"ba5b2494b6cc809e25b1147889551a17",
+    "wof:geomhash":"1855b0e09dc4f91df4a743ef574ff5ca",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857725319,
-    "wof:lastmodified":1466426912,
+    "wof:lastmodified":1510696673,
     "wof:name":"Celebrations",
     "wof:parent_id":85814899,
     "wof:placetype":"venue",

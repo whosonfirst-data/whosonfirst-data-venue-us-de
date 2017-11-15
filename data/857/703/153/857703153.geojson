@@ -2,14 +2,20 @@
   "id": 857703153,
   "type": "Feature",
   "properties": {
+    "addr:full":"18546 Sandhill Rd Georgetown DE 19947",
+    "addr:housenumber":"18546",
+    "addr:postcode":"19947",
+    "addr:street":"Sandhill Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.360304,38.734299,-75.360304,38.734299",
     "geom:latitude":38.734299,
     "geom:longitude":-75.360304,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18546 Sandhill Rd",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083887,
         85823997
     ],
+    "wof:brand_id":1125152295,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_43WCnhYLcQfrQJC8rhJixe_38.734299_-75.360304@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220880,
-    "wof:geomhash":"786c65c44ffa1aa30e15c93e7799ca2e",
+    "wof:geomhash":"236d49d485a5361e0ace1dcb1fe3a0aa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857703153,
-    "wof:lastmodified":1466427329,
+    "wof:lastmodified":1510695694,
     "wof:name":"NCR",
     "wof:parent_id":85823997,
     "wof:placetype":"venue",

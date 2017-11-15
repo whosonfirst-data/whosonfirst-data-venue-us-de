@@ -2,14 +2,20 @@
   "id": 873472989,
   "type": "Feature",
   "properties": {
+    "addr:full":"18 Peddlers Row Newark DE 19702",
+    "addr:housenumber":"18",
+    "addr:postcode":"19702",
+    "addr:street":"Peddlers Row",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.661585,39.664814,-75.661585,39.664814",
     "geom:latitude":39.664814,
     "geom:longitude":-75.661585,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"18 Peddlers Row",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":420575145,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5jNuDtMlY1UMyiPAmXn4gY_39.664814_-75.661585@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221842,
-    "wof:geomhash":"56b990f1cd4463d4ffd25916284b83c6",
+    "wof:geomhash":"e2831301f6e37f87d2de456068cf6b70",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873472989,
-    "wof:lastmodified":1466427200,
+    "wof:lastmodified":1510602991,
     "wof:name":"IBEW",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

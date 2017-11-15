@@ -2,14 +2,20 @@
   "id": 873518033,
   "type": "Feature",
   "properties": {
+    "addr:full":"4701 Concord Pike Wilmington DE 19803",
+    "addr:housenumber":"4701",
+    "addr:postcode":"19803",
+    "addr:street":"Concord Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.547501,39.820202,-75.547501,39.820202",
     "geom:latitude":39.820202,
     "geom:longitude":-75.547501,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4701 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         85858565,
         102083891
     ],
+    "wof:brand_id":420574799,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4a95QJ4GgHO9nohKRrtzUU_39.820202_-75.547501@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223796,
-    "wof:geomhash":"2d2b068665902c084a929d7f1d0ebc54",
+    "wof:geomhash":"b23147e9384306c834808960784ae293",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":873518033,
-    "wof:lastmodified":1466428309,
+    "wof:lastmodified":1510603958,
     "wof:name":"Men's Wearhouse",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",

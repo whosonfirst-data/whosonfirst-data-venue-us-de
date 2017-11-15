@@ -2,14 +2,20 @@
   "id": 873476323,
   "type": "Feature",
   "properties": {
+    "addr:full":"38 Albe Dr Newark DE 19702",
+    "addr:housenumber":"38",
+    "addr:postcode":"19702",
+    "addr:street":"Albe Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.714941,39.648224,-75.714941,39.648224",
     "geom:latitude":39.648224,
     "geom:longitude":-75.714941,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"38 Albe Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -36,13 +42,14 @@
         102083891,
         85845315
     ],
+    "wof:brand_id":1125157677,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_58fohxJ0h0fraIWdgJUI2g_39.648224_-75.714941@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221960,
-    "wof:geomhash":"9dc23aebd1008aece6f89bed23a570ad",
+    "wof:geomhash":"e6c2129a776fb1978f9e5af494d8dcd0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,7 +62,7 @@
         }
     ],
     "wof:id":873476323,
-    "wof:lastmodified":1466427177,
+    "wof:lastmodified":1510695834,
     "wof:name":"Mighty Auto Parts",
     "wof:parent_id":85845315,
     "wof:placetype":"venue",

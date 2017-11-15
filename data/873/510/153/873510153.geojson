@@ -2,14 +2,20 @@
   "id": 873510153,
   "type": "Feature",
   "properties": {
+    "addr:full":"1010 N Bancroft Pkwy Wilmington DE 19805",
+    "addr:housenumber":"1010",
+    "addr:postcode":"19805",
+    "addr:street":"N Bancroft Pkwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.570952,39.756066,-75.570952,39.756066",
     "geom:latitude":39.756066,
     "geom:longitude":-75.570952,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1010 N Bancroft Pkwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85888519
     ],
+    "wof:brand_id":420575097,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3Nym9QWP8UnbUynsyehnX7_39.756066_-75.570952@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223383,
-    "wof:geomhash":"11d47984c7c8f95d7ed59f871a496b2e",
+    "wof:geomhash":"35e10e62615dca65e604b37161961c29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873510153,
-    "wof:lastmodified":1466427915,
+    "wof:lastmodified":1510602920,
     "wof:name":"Laboratory Corporation America",
     "wof:parent_id":85888519,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873498433,
   "type": "Feature",
   "properties": {
+    "addr:full":"3596 Concord Pike Wilmington DE 19803",
+    "addr:housenumber":"3596",
+    "addr:postcode":"19803",
+    "addr:street":"Concord Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.548115,39.802553,-75.548115,39.802553",
     "geom:latitude":39.802553,
     "geom:longitude":-75.548115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3596 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85858565,
         102083891
     ],
+    "wof:brand_id":1125153211,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1Y8MfQip2z9ESW6ZRGw1vg_39.802553_-75.548115@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222879,
-    "wof:geomhash":"e8da392f26258634a0d9f590a8b2f22e",
+    "wof:geomhash":"ab112d6db872c998b5eff1f830d0a044",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873498433,
-    "wof:lastmodified":1466427917,
+    "wof:lastmodified":1510693771,
     "wof:name":"Deck The Walls",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",

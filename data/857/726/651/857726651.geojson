@@ -2,14 +2,20 @@
   "id": 857726651,
   "type": "Feature",
   "properties": {
+    "addr:full":"36470 Seaside Outlet Dr Dewey Beach DE 19971",
+    "addr:housenumber":"36470",
+    "addr:postcode":"19971",
+    "addr:street":"Seaside Outlet Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.113443,38.718619,-75.113443,38.718619",
     "geom:latitude":38.718619,
     "geom:longitude":-75.113443,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"36470 Seaside Outlet Dr",
     "sg:city":"Dewey Beach",
     "sg:classifiers":[
@@ -34,13 +40,14 @@
         85856217,
         102083887
     ],
+    "wof:brand_id":420575065,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_4AqaE1OBKL7nlnrE3UhLgV_38.718619_-75.113443@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221372,
-    "wof:geomhash":"544c2f63592e7c655a2aa9e9d7608454",
+    "wof:geomhash":"1918d22a8fd0b2766c48370cb4bd92bc",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":857726651,
-    "wof:lastmodified":1466427050,
+    "wof:lastmodified":1510602420,
     "wof:name":"Limited Too",
     "wof:parent_id":85856217,
     "wof:placetype":"venue",

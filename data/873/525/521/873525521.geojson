@@ -2,6 +2,10 @@
   "id": 873525521,
   "type": "Feature",
   "properties": {
+    "addr:full":"4001 Kennett Pike Suite 134-113 Wilmington DE 19807",
+    "addr:housenumber":"4001",
+    "addr:postcode":"19807",
+    "addr:street":"Kennett Pike Suite 134-113",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -59,7 +63,7 @@
         }
     ],
     "wof:id":873525521,
-    "wof:lastmodified":1466428276,
+    "wof:lastmodified":1472614134,
     "wof:name":"SimpleRegistry",
     "wof:parent_id":85834895,
     "wof:placetype":"venue",

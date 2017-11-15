@@ -2,14 +2,20 @@
   "id": 873508359,
   "type": "Feature",
   "properties": {
+    "addr:full":"136 Elkton Rd Newark DE 19711",
+    "addr:housenumber":"136",
+    "addr:postcode":"19711",
+    "addr:street":"Elkton Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.761797,39.678098,-75.761797,39.678098",
     "geom:latitude":39.678098,
     "geom:longitude":-75.761797,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"136 Elkton Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85838955
     ],
+    "wof:brand_id":1125153151,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3hOtBBzCfkV1YGePV0imFB_39.678098_-75.761797@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223302,
-    "wof:geomhash":"297f66ff245f823ce30ac771cfe30ede",
+    "wof:geomhash":"da6332303957d6625b8167953c72788d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873508359,
-    "wof:lastmodified":1466427549,
+    "wof:lastmodified":1510695885,
     "wof:name":"Happy Garden",
     "wof:parent_id":85838955,
     "wof:placetype":"venue",

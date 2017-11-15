@@ -2,14 +2,20 @@
   "id": 873470951,
   "type": "Feature",
   "properties": {
+    "addr:full":"10 Mason Dr Selbyville DE 19975",
+    "addr:housenumber":"10",
+    "addr:postcode":"19975",
+    "addr:street":"Mason Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.229439,38.451289,-75.229439,38.451289",
     "geom:latitude":38.451289,
     "geom:longitude":-75.229439,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"10 Mason Dr",
     "sg:city":"Selbyville",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083887,
         85859373
     ],
+    "wof:brand_id":420574093,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7YMZf47yYZCEDsdQamfa35_38.451289_-75.229439@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221766,
-    "wof:geomhash":"20e6351d7b8778e530ce75128b33fd79",
+    "wof:geomhash":"c78233a52c0c27933b7e130ac80a920d",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":873470951,
-    "wof:lastmodified":1466427171,
+    "wof:lastmodified":1510604779,
     "wof:name":"Rite Aid Pharmacy",
     "wof:parent_id":85859373,
     "wof:placetype":"venue",

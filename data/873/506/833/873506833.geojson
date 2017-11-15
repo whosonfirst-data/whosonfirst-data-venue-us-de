@@ -2,6 +2,10 @@
   "id": 873506833,
   "type": "Feature",
   "properties": {
+    "addr:full":"2217 Jones Ln Wilmington DE 19810",
+    "addr:housenumber":"2217",
+    "addr:postcode":"19810",
+    "addr:street":"Jones Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
@@ -52,7 +56,7 @@
         }
     ],
     "wof:id":873506833,
-    "wof:lastmodified":1466427243,
+    "wof:lastmodified":1472614122,
     "wof:name":"Mullin Appraisal Svc",
     "wof:parent_id":85888515,
     "wof:placetype":"venue",

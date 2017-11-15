@@ -2,14 +2,20 @@
   "id": 873489921,
   "type": "Feature",
   "properties": {
+    "addr:full":"844 N King St Wilmington DE 19801",
+    "addr:housenumber":"844",
+    "addr:postcode":"19801",
+    "addr:street":"N King St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.54781,39.743711,-75.54781,39.743711",
     "geom:latitude":39.743711,
     "geom:longitude":-75.54781,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"844 N King St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85888527
     ],
+    "wof:brand_id":1125152687,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_1R8oxjLKE00t1D5x0I7tmF_39.743711_-75.547810@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222490,
-    "wof:geomhash":"40d95b846e66c0b79107c0dde264cc1a",
+    "wof:geomhash":"93adb1e52f24cacd8060852a6f21f5b6",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873489921,
-    "wof:lastmodified":1466427705,
+    "wof:lastmodified":1510697342,
     "wof:name":"US General Svc Adm",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",

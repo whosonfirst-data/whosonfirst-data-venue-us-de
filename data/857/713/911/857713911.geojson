@@ -2,14 +2,20 @@
   "id": 857713911,
   "type": "Feature",
   "properties": {
+    "addr:full":"1600 S Dupont Hwy Dover DE 19901",
+    "addr:housenumber":"1600",
+    "addr:postcode":"19901",
+    "addr:street":"S Dupont Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.529039,39.13134,-75.529039,39.13134",
     "geom:latitude":39.13134,
     "geom:longitude":-75.529039,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1600 S Dupont Hwy",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85826587,
         102083871
     ],
+    "wof:brand_id":420575179,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3IpXLIXdHYJRNXDie9PMlN_39.131340_-75.529039@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221129,
-    "wof:geomhash":"11a32e9711ad45f77615cbad4a7a88eb",
+    "wof:geomhash":"6baf538de75afd617d55ba59fc35ab41",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":857713911,
-    "wof:lastmodified":1466427736,
+    "wof:lastmodified":1510602849,
     "wof:name":"Hardees",
     "wof:parent_id":85826587,
     "wof:placetype":"venue",

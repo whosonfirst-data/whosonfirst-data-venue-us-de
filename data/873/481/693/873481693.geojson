@@ -2,14 +2,20 @@
   "id": 873481693,
   "type": "Feature",
   "properties": {
+    "addr:full":"102 Christiana Rd Newark DE 19702",
+    "addr:housenumber":"102",
+    "addr:postcode":"19702",
+    "addr:street":"Christiana Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.658268,39.663247,-75.658268,39.663247",
     "geom:latitude":39.663247,
     "geom:longitude":-75.658268,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"102 Christiana Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85810929,
         102083891
     ],
+    "wof:brand_id":420575601,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2WA3Ztil9wm5wcykGduheh_39.663247_-75.658268@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222184,
-    "wof:geomhash":"46e1cb63bf454a52119d86752e0d2bcb",
+    "wof:geomhash":"95e13dbe3b3c9625130ea09b4a2771ba",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873481693,
-    "wof:lastmodified":1466427439,
+    "wof:lastmodified":1510602933,
     "wof:name":"Aeropostale Inc",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",

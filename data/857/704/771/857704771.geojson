@@ -2,14 +2,20 @@
   "id": 857704771,
   "type": "Feature",
   "properties": {
+    "addr:full":"3846 Kennett Pike Greenville DE 19807",
+    "addr:housenumber":"3846",
+    "addr:postcode":"19807",
+    "addr:street":"Kennett Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.595331,39.775285,-75.595331,39.775285",
     "geom:latitude":39.775285,
     "geom:longitude":-75.595331,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3846 Kennett Pike",
     "sg:city":"Greenville",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         102083891,
         85823113
     ],
+    "wof:brand_id":420575483,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6oNRkkQkZ2oyqejnmzTPXW_39.775285_-75.595331@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220908,
-    "wof:geomhash":"43bcbc57f2eccec7799873f225327f3d",
+    "wof:geomhash":"46a32292c197763d272d58ecf4109e8e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -52,7 +59,7 @@
         }
     ],
     "wof:id":857704771,
-    "wof:lastmodified":1466427463,
+    "wof:lastmodified":1510602860,
     "wof:name":"Chico's",
     "wof:parent_id":85823113,
     "wof:placetype":"venue",

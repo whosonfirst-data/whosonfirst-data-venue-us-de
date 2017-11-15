@@ -2,14 +2,20 @@
   "id": 873512781,
   "type": "Feature",
   "properties": {
+    "addr:full":"129 S Bradford St Dover DE 19904",
+    "addr:housenumber":"129",
+    "addr:postcode":"19904",
+    "addr:street":"S Bradford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.5261,39.158901,-75.5261,39.158901",
     "geom:latitude":39.158901,
     "geom:longitude":-75.5261,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"129 S Bradford St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -37,13 +43,14 @@
         102083871,
         85847335
     ],
+    "wof:brand_id":1125158263,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7Lv2xJQ79Cm0hNqJoUtyZF_39.158713_-75.526008@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464223504,
-    "wof:geomhash":"4eef31faec79347c337a0573dd81783e",
+    "wof:geomhash":"564827ff7670d7ec8308023bb756bb3f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,7 +63,7 @@
         }
     ],
     "wof:id":873512781,
-    "wof:lastmodified":1466428147,
+    "wof:lastmodified":1510699344,
     "wof:name":"Creative Hair Design",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",

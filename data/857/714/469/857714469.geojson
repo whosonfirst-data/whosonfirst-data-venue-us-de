@@ -2,14 +2,20 @@
   "id": 857714469,
   "type": "Feature",
   "properties": {
+    "addr:full":"8 Kerlyn Dr Millsboro DE 19966",
+    "addr:housenumber":"8",
+    "addr:postcode":"19966",
+    "addr:street":"Kerlyn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.31079,38.5939,-75.31079,38.5939",
     "geom:latitude":38.5939,
     "geom:longitude":-75.31079,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"8 Kerlyn Dr",
     "sg:city":"Millsboro",
     "sg:classifiers":[
@@ -31,13 +37,14 @@
         102083887,
         85851647
     ],
+    "wof:brand_id":420575827,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_3GslYkPIvFNccNfpTu4QaZ_38.593900_-75.310790@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221138,
-    "wof:geomhash":"c1ec739e2c90c3df0f2c1033b5b63186",
+    "wof:geomhash":"31c55aeeadd2b1684d5c96090b4822be",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -49,7 +56,7 @@
         }
     ],
     "wof:id":857714469,
-    "wof:lastmodified":1466427716,
+    "wof:lastmodified":1510602922,
     "wof:name":"Interntnal Assn of Lions Clubs",
     "wof:parent_id":85851647,
     "wof:placetype":"venue",

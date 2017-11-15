@@ -2,14 +2,20 @@
   "id": 873493265,
   "type": "Feature",
   "properties": {
+    "addr:full":"3847 Evelyn Dr Wilmington DE 19808",
+    "addr:housenumber":"3847",
+    "addr:postcode":"19808",
+    "addr:street":"Evelyn Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.644092,39.736214,-75.644092,39.736214",
     "geom:latitude":39.736214,
     "geom:longitude":-75.644092,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3847 Evelyn Dr",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85834415,
         102083891
     ],
+    "wof:brand_id":1125150109,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2NSqNIExNm4lgtwV2lDqci_39.736214_-75.644092@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222616,
-    "wof:geomhash":"66735871656b2a4d643265bb413f8475",
+    "wof:geomhash":"4a05ecfd1c038b27e3af232f735ecddd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":873493265,
-    "wof:lastmodified":1466427743,
+    "wof:lastmodified":1510694636,
     "wof:name":"Uswa",
     "wof:parent_id":85834415,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873494261,
   "type": "Feature",
   "properties": {
+    "addr:full":"3216 Kirkwood Hwy Wilmington DE 19808",
+    "addr:housenumber":"3216",
+    "addr:postcode":"19808",
+    "addr:street":"Kirkwood Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.626301,39.736954,-75.626301,39.736954",
     "geom:latitude":39.736954,
     "geom:longitude":-75.626301,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3216 Kirkwood Hwy",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -33,13 +39,14 @@
         85831761,
         102083891
     ],
+    "wof:brand_id":1125151163,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2egB8wydM3BUL5eJWwAJbE_39.736954_-75.626301@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222673,
-    "wof:geomhash":"a96747d20ed5933d28ee0938d1eeacb1",
+    "wof:geomhash":"e5bfdf13b2431b73605b3565ea1d60d4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -50,7 +57,7 @@
         }
     ],
     "wof:id":873494261,
-    "wof:lastmodified":1466427759,
+    "wof:lastmodified":1510698755,
     "wof:name":"Ameri Spec Home Inspection Svc",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",

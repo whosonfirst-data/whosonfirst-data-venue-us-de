@@ -2,14 +2,20 @@
   "id": 873487609,
   "type": "Feature",
   "properties": {
+    "addr:full":"44 Kensington Ln Newark DE 19713",
+    "addr:housenumber":"44",
+    "addr:postcode":"19713",
+    "addr:street":"Kensington Ln",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.728598,39.664852,-75.728598,39.664852",
     "geom:latitude":39.664852,
     "geom:longitude":-75.728598,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"44 Kensington Ln",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083891,
         85845315
     ],
+    "wof:brand_id":1125153453,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_2FjX0wm6cxZaGIBf9wGIkv_39.664852_-75.728598@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222401,
-    "wof:geomhash":"dfac7831b5850e468250a11a740a740b",
+    "wof:geomhash":"fcfd001971e79c9c4f138a279946c1f0",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873487609,
-    "wof:lastmodified":1466427612,
+    "wof:lastmodified":1510699762,
     "wof:name":"Independent Order of Odd",
     "wof:parent_id":85845315,
     "wof:placetype":"venue",

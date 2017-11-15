@@ -2,14 +2,20 @@
   "id": 873503967,
   "type": "Feature",
   "properties": {
+    "addr:full":"700 River Rd Wilmington DE 19809",
+    "addr:housenumber":"700",
+    "addr:postcode":"19809",
+    "addr:street":"River Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.495072,39.763487,-75.495072,39.763487",
     "geom:latitude":39.763487,
     "geom:longitude":-75.495072,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"700 River Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -32,13 +38,14 @@
         102083891,
         85828879
     ],
+    "wof:brand_id":420575905,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_0mgFBGfYfTZLRyz7cH3CeA_39.763487_-75.495072@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223098,
-    "wof:geomhash":"ccbdc4a22e9df50561b9e1136dec64a4",
+    "wof:geomhash":"5649b98ccc8418c9759bd756f7d1e275",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -51,7 +58,7 @@
         }
     ],
     "wof:id":873503967,
-    "wof:lastmodified":1466428128,
+    "wof:lastmodified":1510602584,
     "wof:name":"United Cerebral Palsy",
     "wof:parent_id":85828879,
     "wof:placetype":"venue",

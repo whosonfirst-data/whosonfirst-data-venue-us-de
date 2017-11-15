@@ -2,14 +2,20 @@
   "id": 857711171,
   "type": "Feature",
   "properties": {
+    "addr:full":"625 Dawson Dr Newark DE 19713",
+    "addr:housenumber":"625",
+    "addr:postcode":"19713",
+    "addr:street":"Dawson Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.730476,39.651119,-75.730476,39.651119",
     "geom:latitude":39.651119,
     "geom:longitude":-75.730476,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"625 Dawson Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85845315
     ],
+    "wof:brand_id":1125159015,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_5p5IX11KbxxTUL57pwevIk_39.651119_-75.730476@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221054,
-    "wof:geomhash":"87fbcc1a0bcca76a101fc9403554cf05",
+    "wof:geomhash":"e8928cda52f6d0026b0017e2cc093050",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":857711171,
-    "wof:lastmodified":1466427622,
+    "wof:lastmodified":1510696103,
     "wof:name":"Hope Community Church",
     "wof:parent_id":85845315,
     "wof:placetype":"venue",

@@ -2,14 +2,20 @@
   "id": 873512539,
   "type": "Feature",
   "properties": {
+    "addr:full":"209 S State St Dover DE 19901",
+    "addr:housenumber":"209",
+    "addr:postcode":"19901",
+    "addr:street":"S State St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.5242,39.157902,-75.5242,39.157902",
     "geom:latitude":39.157902,
     "geom:longitude":-75.5242,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"209 S State St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -40,13 +46,14 @@
         102083871,
         85847335
     ],
+    "wof:brand_id":1125150141,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_6exNrvUI4p5SRht1Bdt0OS_39.158027_-75.524310@1293134755"
     },
     "wof:country":"US",
     "wof:created":1464223495,
-    "wof:geomhash":"6f0591e5bf4d00a9536f4fa8622ce6f9",
+    "wof:geomhash":"871ebbdd386ccf0e0fa8fb5a45a4fd6a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +66,7 @@
         }
     ],
     "wof:id":873512539,
-    "wof:lastmodified":1466428139,
+    "wof:lastmodified":1510694772,
     "wof:name":"Wesley United Methodist Church",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",

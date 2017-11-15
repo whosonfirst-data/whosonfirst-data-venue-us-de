@@ -2,14 +2,20 @@
   "id": 857699983,
   "type": "Feature",
   "properties": {
+    "addr:full":"3 Memorial Dr New Castle DE 19720",
+    "addr:housenumber":"3",
+    "addr:postcode":"19720",
+    "addr:street":"Memorial Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.553062,39.699854,-75.553062,39.699854",
     "geom:latitude":39.699854,
     "geom:longitude":-75.553062,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 Memorial Dr",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -30,13 +36,14 @@
         85833083,
         102083891
     ],
+    "wof:brand_id":1125153715,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_7b0QQS8Ov3NLPIfSywf4Pb_39.699854_-75.553062@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220812,
-    "wof:geomhash":"7f8aa84a37c327630ef1b7f61f53adaf",
+    "wof:geomhash":"27daf01e2aed9ca364ad5ac98d675dfa",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -47,7 +54,7 @@
         }
     ],
     "wof:id":857699983,
-    "wof:lastmodified":1466428062,
+    "wof:lastmodified":1510694611,
     "wof:name":"Rodeway Inn",
     "wof:parent_id":85833083,
     "wof:placetype":"venue",

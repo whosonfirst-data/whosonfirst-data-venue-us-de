@@ -2,14 +2,20 @@
   "id": 873469327,
   "type": "Feature",
   "properties": {
+    "addr:full":"100 Commerce Dr Newark DE 19713",
+    "addr:housenumber":"100",
+    "addr:postcode":"19713",
+    "addr:street":"Commerce Dr",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.700325,39.658045,-75.700325,39.658045",
     "geom:latitude":39.658045,
     "geom:longitude":-75.700325,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"100 Commerce Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -35,13 +41,14 @@
         102083891,
         85845315
     ],
+    "wof:brand_id":1125155911,
     "wof:breaches":[],
     "wof:concordances":{
         "sg:id":"SG_33zgjbhKSpKdvVe1AfYVqD_39.658045_-75.700325@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221698,
-    "wof:geomhash":"d3eba7fcdb67afc7505811c2608a6bdc",
+    "wof:geomhash":"1e0bad04d74a92c701573d51a5c32c29",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -54,7 +61,7 @@
         }
     ],
     "wof:id":873469327,
-    "wof:lastmodified":1466426948,
+    "wof:lastmodified":1510699423,
     "wof:name":"Crawford & Company",
     "wof:parent_id":85845315,
     "wof:placetype":"venue",
