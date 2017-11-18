@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.544296,39.158798,-75.544296,39.158798",
     "geom:latitude":39.158798,
     "geom:longitude":-75.544296,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1030 Forrest Ave Ste 111",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -46,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464224004,
-    "wof:geomhash":"5ec52bf41c317dfd15b44da6529af3ab",
+    "wof:geomhash":"5c93114147a89c0b2569062e57959f7f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +61,15 @@
         }
     ],
     "wof:id":873522959,
-    "wof:lastmodified":1472614151,
+    "wof:lastmodified":1510943486,
     "wof:name":"General Nutrition Center",
     "wof:parent_id":85859041,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873504725
+    ],
     "wof:tags":[
         "market"
     ]

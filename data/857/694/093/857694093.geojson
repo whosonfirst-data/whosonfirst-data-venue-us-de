@@ -7,13 +7,16 @@
     "addr:postcode":"19711",
     "addr:street":"Bent Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.766529,39.68525,-75.766529,39.68525",
     "geom:latitude":39.68525,
     "geom:longitude":-75.766529,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"7 Bent Ln",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464220700,
-    "wof:geomhash":"684ca83a3f096403b309327a431b81e4",
+    "wof:geomhash":"fac41e8f9ca260d79b1ab822b4543f5d",
     "wof:hierarchy":[],
     "wof:id":857694093,
-    "wof:lastmodified":1472613994,
+    "wof:lastmodified":1510943439,
     "wof:name":"Edmond B Stout Dr",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873515909
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

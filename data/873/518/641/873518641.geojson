@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.561374,39.760183,-75.561374,39.760183",
     "geom:latitude":39.760183,
     "geom:longitude":-75.561374,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1902 N Scott St Apt A",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -49,7 +51,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223822,
-    "wof:geomhash":"a8222ec6af61f50730de7c018f436382",
+    "wof:geomhash":"88f4272a729714277e8390f34d8ad9a4",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -62,13 +64,15 @@
         }
     ],
     "wof:id":873518641,
-    "wof:lastmodified":1472614140,
+    "wof:lastmodified":1510941575,
     "wof:name":"Labowitz, Russell J Md",
     "wof:parent_id":85803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873508331
+    ],
     "wof:tags":[
         "physician",
         "rheumatology",

@@ -7,13 +7,16 @@
     "addr:postcode":"19808",
     "addr:street":"Centerville Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.623911,39.745414,-75.623911,39.745414",
     "geom:latitude":39.745414,
     "geom:longitude":-75.623911,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2227 Centerville Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464220678,
-    "wof:geomhash":"bf67dcd2f7695e0d17b64c8dfd8144d8",
+    "wof:geomhash":"d7814fe8c2eb0b6dbf0956da57efabb7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":857692865,
-    "wof:lastmodified":1472614013,
+    "wof:lastmodified":1510942533,
     "wof:name":"Chimney Aid",
     "wof:parent_id":85834415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873519215
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "fireplace",

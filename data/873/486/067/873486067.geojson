@@ -7,13 +7,16 @@
     "addr:postcode":"19810",
     "addr:street":"Silverside Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.548891,39.809256,-75.548891,39.809256",
     "geom:latitude":39.809256,
     "geom:longitude":-75.548891,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3519 Silverside Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464222344,
-    "wof:geomhash":"27027e81ea70b7a1a0ae8d6e8d823397",
+    "wof:geomhash":"4013e52f2b630f3cda19127225545ef0",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +59,14 @@
         }
     ],
     "wof:id":873486067,
-    "wof:lastmodified":1472614015,
+    "wof:lastmodified":1510944133,
     "wof:name":"Lxf Inc",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857728893
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "prepackaged",

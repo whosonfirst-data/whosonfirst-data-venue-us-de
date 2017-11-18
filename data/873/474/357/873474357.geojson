@@ -7,13 +7,16 @@
     "addr:postcode":"19803",
     "addr:street":"Foulk Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.52063,39.802482,-75.52063,39.802482",
     "geom:latitude":39.802482,
     "geom:longitude":-75.52063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1403 Foulk Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -49,7 +52,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221893,
-    "wof:geomhash":"c73f92bd2d88c04d251badbb917063f6",
+    "wof:geomhash":"2634368342028e440106b482a278f304",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":873474357,
-    "wof:lastmodified":1472614007,
+    "wof:lastmodified":1510943771,
     "wof:name":"L & T of Delaware Inc",
     "wof:parent_id":85857679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873517451
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "advisory",

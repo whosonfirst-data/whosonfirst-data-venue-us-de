@@ -7,13 +7,16 @@
     "addr:postcode":"19806",
     "addr:street":"N Scott St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.560861,39.76049,-75.560861,39.76049",
     "geom:latitude":39.76049,
     "geom:longitude":-75.560861,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1902 N Scott St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223301,
-    "wof:geomhash":"c751a970dac70c7cee4d4ebd804a83f3",
+    "wof:geomhash":"8e05ed96a44f26bf2535c7c1b885aa28",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":873508331,
-    "wof:lastmodified":1472614095,
+    "wof:lastmodified":1510941575,
     "wof:name":"Labowitz Russell J MD",
     "wof:parent_id":85803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873518641
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

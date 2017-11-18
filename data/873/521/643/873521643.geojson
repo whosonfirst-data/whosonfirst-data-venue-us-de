@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.544899,39.192402,-75.544899,39.192402",
     "geom:latitude":39.192402,
     "geom:longitude":-75.544899,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1365 N Dupont Hwy Ste 2046",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223949,
-    "wof:geomhash":"4abd778a30e9440190fa6f305f81d716",
+    "wof:geomhash":"bdfeffe5a9ca5db303db726e59d2f2ea",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":873521643,
-    "wof:lastmodified":1472614138,
+    "wof:lastmodified":1510943150,
     "wof:name":"Fast Feet Shoe Repair Inc",
     "wof:parent_id":85815601,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873492071
+    ],
     "wof:tags":[]
 },
   "bbox": [

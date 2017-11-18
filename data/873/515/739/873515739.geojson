@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.740676,39.684045,-75.740676,39.684045",
     "geom:latitude":39.684045,
     "geom:longitude":-75.740676,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"314 E Main St Ste 102",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -47,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223653,
-    "wof:geomhash":"5b32600c243b9bd08e590532a2858d0f",
+    "wof:geomhash":"60cf608e51b7744abb2c7c4966dac87a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +60,15 @@
         }
     ],
     "wof:id":873515739,
-    "wof:lastmodified":1472614135,
+    "wof:lastmodified":1510943193,
     "wof:name":"S Amara Md",
     "wof:parent_id":85831693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873483731
+    ],
     "wof:tags":[
         "medicine",
         "physician",

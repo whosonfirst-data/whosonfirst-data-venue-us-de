@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.548532,39.818338,-75.548532,39.818338",
     "geom:latitude":39.818338,
     "geom:longitude":-75.548532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4737 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464222321,
-    "wof:geomhash":"de341ba02ce931921bb3b61c99493f32",
+    "wof:geomhash":"9cbcde3293c8c4e2690f03b69b8b83e7",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":873485417,
-    "wof:lastmodified":1472614038,
+    "wof:lastmodified":1510944071,
     "wof:name":"Del Haven Jewelers Inc",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857704057
+    ],
     "wof:tags":[
         "precious",
         "metal",

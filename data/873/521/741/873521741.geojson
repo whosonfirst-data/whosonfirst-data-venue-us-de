@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.524464,39.15583,-75.524464,39.15583",
     "geom:latitude":39.15583,
     "geom:longitude":-75.524464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"48 The Grn",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223953,
-    "wof:geomhash":"4846ee74d0d5796667b656d73d3416e5",
+    "wof:geomhash":"99c4b6c67e0e23e86e6fc5e062dbd74d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -56,13 +58,15 @@
         }
     ],
     "wof:id":873521741,
-    "wof:lastmodified":1472614144,
+    "wof:lastmodified":1510943263,
     "wof:name":"John R. Garey",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873499605
+    ],
     "wof:tags":[]
 },
   "bbox": [

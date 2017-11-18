@@ -7,13 +7,16 @@
     "addr:postcode":"19810",
     "addr:street":"Naamans Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.488667,39.822962,-75.488667,39.822962",
     "geom:latitude":39.822962,
     "geom:longitude":-75.488667,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1702 Naamans Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221190,
-    "wof:geomhash":"fe0576484efc221cf7de14a9f9b06588",
+    "wof:geomhash":"e2274c217b1e1d2a08daf8f65e422be4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":857717323,
-    "wof:lastmodified":1472614110,
+    "wof:lastmodified":1510941615,
     "wof:name":"Ron's Discount Tires",
     "wof:parent_id":85888515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873519645
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "gas",

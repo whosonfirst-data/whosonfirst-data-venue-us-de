@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.550102,39.809601,-75.550102,39.809601",
     "geom:latitude":39.809601,
     "geom:longitude":-75.550102,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4120 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223786,
-    "wof:geomhash":"bb44b39c93b5aec0d49b77f7e6dfd400",
+    "wof:geomhash":"4ac73eb4e64eb89e38571efbd3403f0f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +53,15 @@
         }
     ],
     "wof:id":873517865,
-    "wof:lastmodified":1472614147,
+    "wof:lastmodified":1510943488,
     "wof:name":"Kinko's",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857714243
+    ],
     "wof:tags":[]
 },
   "bbox": [

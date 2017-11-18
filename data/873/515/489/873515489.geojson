@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.741216,39.714792,-75.741216,39.714792",
     "geom:latitude":39.714792,
     "geom:longitude":-75.741216,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"668 Paper Mill Rd",
     "sg:city":"Newark",
     "sg:classifiers":[],
@@ -35,7 +37,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223644,
-    "wof:geomhash":"bea337ad889079666e1a89bfe9d8c4a5",
+    "wof:geomhash":"eca31bf8f491a988287926c9711749bd",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -46,13 +48,15 @@
         }
     ],
     "wof:id":873515489,
-    "wof:lastmodified":1472614117,
+    "wof:lastmodified":1510943500,
     "wof:name":"Paper Mill Shell",
     "wof:parent_id":85842215,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857729065
+    ],
     "wof:tags":[]
 },
   "bbox": [

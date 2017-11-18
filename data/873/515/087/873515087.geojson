@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.691223,39.787319,-75.691223,39.787319",
     "geom:latitude":39.787319,
     "geom:longitude":-75.691223,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7234 Lancaster Pike # 101",
     "sg:city":"Hockessin",
     "sg:classifiers":[
@@ -51,7 +53,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223623,
-    "wof:geomhash":"2bcfb47f60f29b87cfba74e314ca8f7b",
+    "wof:geomhash":"ae2fd71e72b3a63393764c9f2c4a2a38",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -64,13 +66,15 @@
         }
     ],
     "wof:id":873515087,
-    "wof:lastmodified":1472614092,
+    "wof:lastmodified":1510941592,
     "wof:name":"Tom Wright Real Estate",
     "wof:parent_id":85830551,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873480459
+    ],
     "wof:tags":[
         "buyer",
         "broker"

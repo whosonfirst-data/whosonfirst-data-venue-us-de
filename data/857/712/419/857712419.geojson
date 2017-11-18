@@ -7,13 +7,16 @@
     "addr:postcode":"19802",
     "addr:street":"N Market St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.545425,39.749106,-75.545425,39.749106",
     "geom:latitude":39.749106,
     "geom:longitude":-75.545425,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1300 N Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -42,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221097,
-    "wof:geomhash":"8844786ce648f83ba145562ad9c3d29d",
+    "wof:geomhash":"745c7066c28f91b02b636d3c7fb69997",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":857712419,
-    "wof:lastmodified":1472614096,
+    "wof:lastmodified":1510941409,
     "wof:name":"PSRC II Inc",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873466541
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.675621,39.667713,-75.675621,39.667713",
     "geom:latitude":39.667713,
     "geom:longitude":-75.675621,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"260 Chapman Rd Ste 107",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -52,7 +54,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223608,
-    "wof:geomhash":"225e2e4531967059981f3d766a4c84f2",
+    "wof:geomhash":"606947a051be28b59a08d07c6bedd0c6",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -63,13 +65,15 @@
         }
     ],
     "wof:id":873514689,
-    "wof:lastmodified":1472614131,
+    "wof:lastmodified":1510944187,
     "wof:name":"Health Insurance Associates",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873482875
+    ],
     "wof:tags":[
         "employee",
         "benefit",

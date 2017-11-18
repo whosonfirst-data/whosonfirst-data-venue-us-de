@@ -7,13 +7,16 @@
     "addr:postcode":"19805",
     "addr:street":"N Union St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.570533,39.753152,-75.570533,39.753152",
     "geom:latitude":39.753152,
     "geom:longitude":-75.570533,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"837 N Union St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -47,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223530,
-    "wof:geomhash":"51312b8db974dd88bee17744ce95b8b7",
+    "wof:geomhash":"def5f7b3bbb8a39650db3a04d3c284cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -60,12 +63,14 @@
         }
     ],
     "wof:id":873513471,
-    "wof:lastmodified":1472614124,
+    "wof:lastmodified":1510943995,
     "wof:name":"Pan Tai",
     "wof:parent_id":85888519,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873518515
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "thai",

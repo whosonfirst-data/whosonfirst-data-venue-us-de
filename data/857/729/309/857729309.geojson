@@ -7,13 +7,16 @@
     "addr:postcode":"19938",
     "addr:street":"Saltere Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.714345,39.297796,-75.714345,39.297796",
     "geom:latitude":39.297796,
     "geom:longitude":-75.714345,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"952 Saltere Rd",
     "sg:city":"Clayton",
     "sg:classifiers":[
@@ -38,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464221421,
-    "wof:geomhash":"654d51ca71eef8193757ce9689a5e814",
+    "wof:geomhash":"28356714e9a55a5ee2562e0327d0a657",
     "wof:hierarchy":[],
     "wof:id":857729309,
-    "wof:lastmodified":1472614153,
+    "wof:lastmodified":1510943239,
     "wof:name":"Breast Feeeding Basics",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873523711
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

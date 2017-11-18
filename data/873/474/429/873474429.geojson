@@ -7,13 +7,16 @@
     "addr:postcode":"19810",
     "addr:street":"Foulk Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.51095,39.812717,-75.51095,39.812717",
     "geom:latitude":39.812717,
     "geom:longitude":-75.51095,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2002 Foulk Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -46,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221895,
-    "wof:geomhash":"503b29a01fd3eafc45a2c09ebde0dc71",
+    "wof:geomhash":"110a04560f649c8e2ff88ee28cbf8205",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":873474429,
-    "wof:lastmodified":1472614013,
+    "wof:lastmodified":1510944004,
     "wof:name":"Rockwood Physicians PA",
     "wof:parent_id":85888515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873520505
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "physician",

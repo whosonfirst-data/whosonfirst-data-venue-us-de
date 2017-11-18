@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.510696,39.813099,-75.510696,39.813099",
     "geom:latitude":39.813099,
     "geom:longitude":-75.510696,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2002 Foulk Rd Ste C",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -41,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223906,
-    "wof:geomhash":"6ecf50d23ea1c969e4a5f09ba90a2023",
+    "wof:geomhash":"d6d35429afb77ca3625df260a25ccb39",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,13 +55,15 @@
         }
     ],
     "wof:id":873520505,
-    "wof:lastmodified":1472614137,
+    "wof:lastmodified":1510944004,
     "wof:name":"Rockwood Physicians PA",
     "wof:parent_id":85888515,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873474429
+    ],
     "wof:tags":[]
 },
   "bbox": [

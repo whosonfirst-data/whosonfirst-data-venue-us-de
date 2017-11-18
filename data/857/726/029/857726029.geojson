@@ -7,13 +7,16 @@
     "addr:postcode":"19904",
     "addr:street":"S Queen St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.527755,39.152291,-75.527755,39.152291",
     "geom:latitude":39.152291,
     "geom:longitude":-75.527755,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"737 S Queen St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -45,7 +48,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221362,
-    "wof:geomhash":"1087795cf5cc68f79f0d4b20c4d77fec",
+    "wof:geomhash":"2a4c90baad1b125cf96d9b03b4069b4f",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +61,14 @@
         }
     ],
     "wof:id":857726029,
-    "wof:lastmodified":1472614100,
+    "wof:lastmodified":1510942901,
     "wof:name":"Joseph Parise MD",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873522381
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

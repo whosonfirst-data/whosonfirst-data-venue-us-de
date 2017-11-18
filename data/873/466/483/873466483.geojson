@@ -7,13 +7,16 @@
     "addr:postcode":"19711",
     "addr:street":"S Chapel St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.745083,39.681502,-75.745083,39.681502",
     "geom:latitude":39.681502,
     "geom:longitude":-75.745083,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"65 S Chapel St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -44,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221601,
-    "wof:geomhash":"2e790d8be76af0ea49b25c0fe67338e8",
+    "wof:geomhash":"e4f88954217cb3f5894f1009b8c51e2e",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +58,14 @@
         }
     ],
     "wof:id":873466483,
-    "wof:lastmodified":1472613988,
+    "wof:lastmodified":1510944041,
     "wof:name":"Continental Court Apartments",
     "wof:parent_id":85831693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873515623
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "building",

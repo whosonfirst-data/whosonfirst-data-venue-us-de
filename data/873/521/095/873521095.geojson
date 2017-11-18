@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.486642,39.152815,-75.486642,39.152815",
     "geom:latitude":39.152815,
     "geom:longitude":-75.486642,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"730 Horsepond Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -54,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223928,
-    "wof:geomhash":"407ecb3a04abb0fcb6a7b15790bc82a9",
+    "wof:geomhash":"ba9bc2bde4cfc9ecc965d0281bb3f674",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -67,13 +69,15 @@
         }
     ],
     "wof:id":873521095,
-    "wof:lastmodified":1472614100,
+    "wof:lastmodified":1510941991,
     "wof:name":"Fencemax.Com",
     "wof:parent_id":85809385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873522043
+    ],
     "wof:tags":[
         "repair",
         "fence-sales",

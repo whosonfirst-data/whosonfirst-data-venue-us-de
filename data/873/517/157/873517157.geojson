@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.543407,39.823041,-75.543407,39.823041",
     "geom:latitude":39.823041,
     "geom:longitude":-75.543407,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"4737 Concord Pike Ste 760",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -45,16 +47,18 @@
     },
     "wof:country":"US",
     "wof:created":1464223735,
-    "wof:geomhash":"af579841ae29ecc364cb3a405ca0924d",
+    "wof:geomhash":"1b26a9f80c4108c298cd184ff9e08a85",
     "wof:hierarchy":[],
     "wof:id":873517157,
-    "wof:lastmodified":1472614099,
+    "wof:lastmodified":1510942173,
     "wof:name":"Chick-Fil-A",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873513399
+    ],
     "wof:tags":[
         "traditional",
         "american"

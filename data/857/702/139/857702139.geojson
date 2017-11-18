@@ -7,13 +7,16 @@
     "addr:postcode":"19801",
     "addr:street":"N Market St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.545552,39.749026,-75.545552,39.749026",
     "geom:latitude":39.749026,
     "geom:longitude":-75.545552,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1313 N Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -52,7 +55,7 @@
     },
     "wof:country":"US",
     "wof:created":1464220863,
-    "wof:geomhash":"682ebb71cc2cdb88e338a39e26bf8811",
+    "wof:geomhash":"742e7f3370deb12280111fd0f0350168",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -65,12 +68,14 @@
         }
     ],
     "wof:id":857702139,
-    "wof:lastmodified":1472614002,
+    "wof:lastmodified":1510943431,
     "wof:name":"Wilmington Holdings Corp",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873516841
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "a",

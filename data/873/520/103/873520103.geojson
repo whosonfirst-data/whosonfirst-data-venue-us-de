@@ -7,13 +7,16 @@
     "addr:postcode":"19810",
     "addr:street":"Silverside Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.5438,39.808998,-75.5438,39.808998",
     "geom:latitude":39.808998,
     "geom:longitude":-75.5438,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3519 Silverside Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -43,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223884,
-    "wof:geomhash":"2d92762261b41ed1e908a4dc76be48d4",
+    "wof:geomhash":"9278dc5403b6436b8719ce0e9be8e709",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +57,14 @@
         }
     ],
     "wof:id":873520103,
-    "wof:lastmodified":1472614103,
+    "wof:lastmodified":1510943210,
     "wof:name":"Townsend Peter F MD",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873520347
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "orthopedist"

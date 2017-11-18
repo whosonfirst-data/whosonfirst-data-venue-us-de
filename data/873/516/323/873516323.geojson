@@ -9,11 +9,13 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-75.673798,39.691639,-75.673798,39.691639",
     "geom:latitude":39.691639,
     "geom:longitude":-75.673798,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 Hygeia Dr Unit B",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -43,11 +45,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "osm:way":239159341,
         "sg:id":"SG_6dz8SViuH9b0mjZ8ndNx1S_39.691639_-75.673798@1303262470"
     },
     "wof:country":"US",
     "wof:created":1464223674,
-    "wof:geomhash":"655c5f4bc5be4bce3cd9af4271009f81",
+    "wof:geomhash":"40ad9a4ed86ce69b7fef27eac24cb501",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,13 +61,15 @@
         }
     ],
     "wof:id":873516323,
-    "wof:lastmodified":1472614121,
+    "wof:lastmodified":1510942973,
     "wof:name":"Health Care Center At Christiana",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873491009
+    ],
     "wof:tags":[
         "medicine",
         "physician",
