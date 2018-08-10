@@ -2,18 +2,24 @@
   "id": 873468503,
   "type": "Feature",
   "properties": {
-    "addr:full":"102 Kings Hwy Lewes DE 19958",
+    "addr:city":"Lewes",
+    "addr:full":"102 Kings Hwy Lewes, De 19958",
+    "addr:house_number":"102",
     "addr:housenumber":"102",
+    "addr:phone":"+1 302-645-1148",
     "addr:postcode":"19958",
+    "addr:road":"Kings Hwy",
+    "addr:state":"DE",
     "addr:street":"Kings Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.139166,38.774203,-75.139166,38.774203",
-    "geom:latitude":38.774203,
-    "geom:longitude":-75.139166,
+    "geom:bbox":"-75.13994,38.772,-75.13994,38.772",
+    "geom:latitude":38.772,
+    "geom:longitude":-75.13994,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"102 Kings Hwy",
     "sg:city":"Lewes",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 302 645 1148",
     "sg:postcode":"19958",
     "sg:province":"DE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533295
+    ],
     "wof:belongsto":[
-        85688611,
+        102083887,
         85633793,
-        85825023,
-        102083887
+        85688611,
+        85825023
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000001,
         "sg:id":"SG_3eDXMkzpxYvDYL5Mdbwhpx_38.774203_-75.139166@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221669,
-    "wof:geomhash":"67eee7559f4afb9fcb6ea86985615c67",
+    "wof:geomhash":"1d95abf5d192920468c2feea8fcfa7b5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,7 +61,7 @@
         }
     ],
     "wof:id":873468503,
-    "wof:lastmodified":1472613996,
+    "wof:lastmodified":1533928351,
     "wof:name":"Zwaanendael Museum",
     "wof:parent_id":85825023,
     "wof:placetype":"venue",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.139166,
-    38.774203,
-    -75.139166,
-    38.774203
+    -75.13994,
+    38.772,
+    -75.13994,
+    38.772
 ],
-  "geometry": {"coordinates":[-75.139166,38.774203],"type":"Point"}
+  "geometry": {"coordinates":[-75.13994,38.772],"type":"Point"}
 }

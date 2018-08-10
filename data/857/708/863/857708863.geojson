@@ -2,18 +2,24 @@
   "id": 857708863,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 Fleming St Harrington DE 19952",
+    "addr:city":"Harrington",
+    "addr:full":"110 Fleming St Harrington, De 19952",
+    "addr:house_number":"110",
     "addr:housenumber":"110",
+    "addr:phone":"+1 302-398-3698",
     "addr:postcode":"19952",
+    "addr:road":"Fleming St",
+    "addr:state":"DE",
     "addr:street":"Fleming St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.578425,38.925513,-75.578425,38.925513",
-    "geom:latitude":38.925513,
-    "geom:longitude":-75.578425,
+    "geom:bbox":"-75.57829,38.92534,-75.57829,38.92534",
+    "geom:latitude":38.92534,
+    "geom:longitude":-75.57829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"110 Fleming St",
     "sg:city":"Harrington",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 302 398 3698",
     "sg:postcode":"19952",
     "sg:province":"DE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528677
+    ],
     "wof:belongsto":[
-        85688611,
+        102083871,
         85633793,
-        85819103,
-        102083871
+        85688611,
+        85819103
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000010,
         "sg:id":"SG_3tnDSgOZ4wAIUrMD1ghhEy_38.925513_-75.578425@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464220996,
-    "wof:geomhash":"42551b3b87226fdac87d150d8b1a579b",
+    "wof:geomhash":"93cc3d838ff5b8bc8c3e7166f1909a35",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,8 +61,8 @@
         }
     ],
     "wof:id":857708863,
-    "wof:lastmodified":1472614121,
-    "wof:name":"Harrington Historical Society",
+    "wof:lastmodified":1533928351,
+    "wof:name":"Harrington Railroad Museum",
     "wof:parent_id":85819103,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.578425,
-    38.925513,
-    -75.578425,
-    38.925513
+    -75.57829,
+    38.92534,
+    -75.57829,
+    38.92534
 ],
-  "geometry": {"coordinates":[-75.578425,38.925513],"type":"Point"}
+  "geometry": {"coordinates":[-75.57829,38.92534],"type":"Point"}
 }

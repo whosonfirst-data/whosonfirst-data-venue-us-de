@@ -14,6 +14,7 @@
     "geom:longitude":-75.626464,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"117 Greenbank Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221466,
-    "wof:geomhash":"fd9bda49973e1ce94e19c590aaa48a4b",
+    "wof:geomhash":"692b9c823dae8f85bcd9079ebaa1ee84",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":857731387,
-    "wof:lastmodified":1472614152,
+    "wof:lastmodified":1533928351,
     "wof:name":"Kampo Garden Chinese Food",
     "wof:parent_id":85834415,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873518887
+    ],
     "wof:tags":[
         "eating"
     ]

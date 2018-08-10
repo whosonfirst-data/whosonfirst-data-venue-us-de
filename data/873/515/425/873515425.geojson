@@ -2,18 +2,24 @@
   "id": 873515425,
   "type": "Feature",
   "properties": {
-    "addr:full":"216 N Broad St Middletown DE 19709",
+    "addr:city":"Middletown",
+    "addr:full":"216 N Broad St Middletown, De 19709-1002",
+    "addr:house_number":"216",
     "addr:housenumber":"216",
-    "addr:postcode":"19709",
+    "addr:phone":"+1 302-378-7466",
+    "addr:postcode":"19709-1002",
+    "addr:road":"N Broad St",
+    "addr:state":"DE",
     "addr:street":"N Broad St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.717103,39.451156,-75.717103,39.451156",
-    "geom:latitude":39.451156,
-    "geom:longitude":-75.717103,
+    "geom:bbox":"-75.71726,39.45132,-75.71726,39.45132",
+    "geom:latitude":39.45132,
+    "geom:longitude":-75.71726,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"216 N Broad St",
     "sg:city":"Middletown",
     "sg:classifiers":[
@@ -33,19 +39,21 @@
         "government-city",
         "village"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000094,
         "sg:id":"SG_5bNSEpM4dzwoYXSLvfEFqW_39.451156_-75.717103@1303262470"
     },
     "wof:country":"US",
     "wof:created":1464223642,
-    "wof:geomhash":"8c6e021e018a62a1196895dc1434748b",
+    "wof:geomhash":"00248a3160986f9c9c865f90f700e7f6",
     "wof:hierarchy":[],
     "wof:id":873515425,
-    "wof:lastmodified":1472614110,
-    "wof:name":"Middletown Historical",
+    "wof:lastmodified":1533928351,
+    "wof:name":"Middletown Historical Society",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
@@ -59,10 +67,10 @@
     ]
 },
   "bbox": [
-    -75.717103,
-    39.451156,
-    -75.717103,
-    39.451156
+    -75.71726,
+    39.45132,
+    -75.71726,
+    39.45132
 ],
-  "geometry": {"coordinates":[-75.71710299999999,39.451156],"type":"Point"}
+  "geometry": {"coordinates":[-75.71726,39.45132],"type":"Point"}
 }

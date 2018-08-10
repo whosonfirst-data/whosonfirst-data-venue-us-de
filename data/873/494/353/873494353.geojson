@@ -7,6 +7,7 @@
     "addr:postcode":"19711",
     "addr:street":"Capitol Trl",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.727866,39.690821,-75.727866,39.690821",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.727866,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"520 Capitol Trl",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464222678,
-    "wof:geomhash":"b65fa2cbc881fee5c2246eec3dd16019",
+    "wof:geomhash":"7f1aab6bbd37f26209dc9a629a106bd8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":873494353,
-    "wof:lastmodified":1472614054,
+    "wof:lastmodified":1533928349,
     "wof:name":"Marge Young Real Estate",
     "wof:parent_id":85831693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873515537
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

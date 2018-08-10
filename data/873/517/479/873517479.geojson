@@ -7,6 +7,7 @@
     "addr:postcode":"19803",
     "addr:street":"Concord Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.548103,39.8027,-75.548103,39.8027",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.548103,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3513 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223762,
-    "wof:geomhash":"4d2eb4f1388bd14de71481875d6f2995",
+    "wof:geomhash":"2a61ddb4baa25a32d3b48e2788b357cf",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":873517479,
-    "wof:lastmodified":1472614133,
+    "wof:lastmodified":1533928349,
     "wof:name":"Robbins Jeanne Real Estate",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873517659
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

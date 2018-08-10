@@ -14,6 +14,7 @@
     "geom:longitude":-75.614054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1825 Faulkland Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -43,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223068,
-    "wof:geomhash":"2bd2f75df8dd1c7e923c5a5aced2e021",
+    "wof:geomhash":"82f21fe28a48cb6ad040995327ae43df",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,13 +55,15 @@
         }
     ],
     "wof:id":873503087,
-    "wof:lastmodified":1472614079,
+    "wof:lastmodified":1533928348,
     "wof:name":"Child Mental House",
     "wof:parent_id":85831761,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873491065
+    ],
     "wof:tags":[
         "development"
     ]

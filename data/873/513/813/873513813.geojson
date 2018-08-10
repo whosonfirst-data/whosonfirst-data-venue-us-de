@@ -7,6 +7,7 @@
     "addr:postcode":"19971",
     "addr:street":"Lighthouse Plz",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-75.120054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"20 Lighthouse Plz",
     "sg:city":"Rehoboth Beach",
     "sg:classifiers":[
@@ -60,12 +61,14 @@
         }
     ],
     "wof:id":873513813,
-    "wof:lastmodified":1510696975,
+    "wof:lastmodified":1533928350,
     "wof:name":"Roly Poly Sandwiches",
     "wof:parent_id":85856217,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857727273
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "wrap",

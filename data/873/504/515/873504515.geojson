@@ -2,18 +2,24 @@
   "id": 873504515,
   "type": "Feature",
   "properties": {
-    "addr:full":"340 Kitts Hummock Rd Dover DE 19901",
+    "addr:city":"Dover",
+    "addr:full":"340 Kitts Hummock Rd Dover, De 19901",
+    "addr:house_number":"340",
     "addr:housenumber":"340",
+    "addr:phone":"+1 302-739-3277",
     "addr:postcode":"19901",
+    "addr:road":"Kitts Hummock Rd",
+    "addr:state":"DE",
     "addr:street":"Kitts Hummock Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.449401,39.104406,-75.449401,39.104406",
-    "geom:latitude":39.104406,
-    "geom:longitude":-75.449401,
+    "geom:bbox":"-75.45115,39.10498,-75.45115,39.10498",
+    "geom:latitude":39.10498,
+    "geom:longitude":-75.45115,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"340 Kitts Hummock Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -27,18 +33,22 @@
     "sg:phone":"+1 302 739 3277",
     "sg:postcode":"19901",
     "sg:province":"DE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528677
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000008,
         "sg:id":"SG_76sU1DDczspPQEmd4sj4OG_39.104406_-75.449401@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223127,
-    "wof:geomhash":"8a2bb9816dcbc064c649e2cbd631d92e",
+    "wof:geomhash":"40c1210b9dc1fa7029750b115e8d70de",
     "wof:hierarchy":[],
     "wof:id":873504515,
-    "wof:lastmodified":1472614112,
+    "wof:lastmodified":1533928351,
     "wof:name":"John Dickinson Plantation",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -48,10 +58,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.449401,
-    39.104406,
-    -75.449401,
-    39.104406
+    -75.45115,
+    39.10498,
+    -75.45115,
+    39.10498
 ],
-  "geometry": {"coordinates":[-75.44940099999999,39.104406],"type":"Point"}
+  "geometry": {"coordinates":[-75.45115,39.10498],"type":"Point"}
 }

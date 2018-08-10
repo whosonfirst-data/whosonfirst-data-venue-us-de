@@ -14,6 +14,7 @@
     "geom:longitude":-75.547316,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1201 N Orange St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221802,
-    "wof:geomhash":"81d4d9ae5e3f9a69f99190d7d307209a",
+    "wof:geomhash":"6f095052c45e59895130640f97fd0f79",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,13 +62,15 @@
         }
     ],
     "wof:id":873471901,
-    "wof:lastmodified":1472614045,
+    "wof:lastmodified":1533928347,
     "wof:name":"Builders & Managers Inc",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873516581
+    ],
     "wof:tags":[
         "new",
         "general",

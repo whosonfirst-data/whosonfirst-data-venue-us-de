@@ -2,18 +2,24 @@
   "id": 873471383,
   "type": "Feature",
   "properties": {
-    "addr:full":"110 Shipcarpenter St Lewes DE 19958",
+    "addr:city":"Lewes",
+    "addr:full":"110 Shipcarpenter St Lewes, De 19958-1210",
+    "addr:house_number":"110",
     "addr:housenumber":"110",
-    "addr:postcode":"19958",
+    "addr:phone":"+1 302-645-7670",
+    "addr:postcode":"19958-1210",
+    "addr:road":"Shipcarpenter St",
+    "addr:state":"DE",
     "addr:street":"Shipcarpenter St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.142139,38.777097,-75.142139,38.777097",
-    "geom:latitude":38.777097,
-    "geom:longitude":-75.142139,
+    "geom:bbox":"-75.14253,38.77673,-75.14253,38.77673",
+    "geom:latitude":38.77673,
+    "geom:longitude":-75.14253,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"110 Shipcarpenter St",
     "sg:city":"Lewes",
     "sg:classifiers":[
@@ -30,7 +36,10 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533295
+    ],
     "wof:belongsto":[
         85688611,
         102191575,
@@ -41,11 +50,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000141,
         "sg:id":"SG_0sPd0Df348HllGsya9PnJx_38.777097_-75.142139@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221783,
-    "wof:geomhash":"2c432d5624fa768b0bddc2b5a7a617bb",
+    "wof:geomhash":"7d000a7e3b0820ab78dbcc7b7d1a016d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,7 +68,7 @@
         }
     ],
     "wof:id":873471383,
-    "wof:lastmodified":1472614005,
+    "wof:lastmodified":1533928351,
     "wof:name":"Lewes Historical Society",
     "wof:parent_id":85822813,
     "wof:placetype":"venue",
@@ -70,10 +80,10 @@
     ]
 },
   "bbox": [
-    -75.142139,
-    38.777097,
-    -75.142139,
-    38.777097
+    -75.14253,
+    38.77673,
+    -75.14253,
+    38.77673
 ],
-  "geometry": {"coordinates":[-75.142139,38.777097],"type":"Point"}
+  "geometry": {"coordinates":[-75.14252999999999,38.77673],"type":"Point"}
 }

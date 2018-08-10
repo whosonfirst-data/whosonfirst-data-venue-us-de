@@ -7,6 +7,7 @@
     "addr:postcode":"19720",
     "addr:street":"N Dupont Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:area_square_m":0.0,
@@ -15,7 +16,7 @@
     "geom:longitude":-75.601329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
-    "mz:is_current":-1,
+    "mz:is_current":0,
     "sg:address":"116 N Dupont Hwy",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -45,12 +46,14 @@
     "wof:geomhash":"97ce5b0d1855918d677bfbf2aca82794",
     "wof:hierarchy":[],
     "wof:id":873513353,
-    "wof:lastmodified":1511321244,
+    "wof:lastmodified":1533928348,
     "wof:name":"Taco Bell",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873487265
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "mexican"

@@ -14,6 +14,7 @@
     "geom:longitude":-75.555099,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"7071 S Dupont Hwy",
     "sg:city":"Felton",
     "sg:classifiers":[
@@ -55,7 +56,7 @@
     },
     "wof:country":"US",
     "wof:created":1464224034,
-    "wof:geomhash":"1e0a1192bc5d67fdc7b03f768ba4176d",
+    "wof:geomhash":"20d8b2fce169b8286438677c88fae459",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -67,13 +68,15 @@
         }
     ],
     "wof:id":873523861,
-    "wof:lastmodified":1472614150,
+    "wof:lastmodified":1533928349,
     "wof:name":"Care-A-Lot Ltd",
     "wof:parent_id":85834165,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873511111
+    ],
     "wof:tags":[
         "elementary",
         "day"

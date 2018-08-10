@@ -7,6 +7,7 @@
     "addr:postcode":"19962",
     "addr:street":"Ponderosa Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.473326,39.091937,-75.473326,39.091937",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.473326,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1309 Ponderosa Dr",
     "sg:city":"Magnolia",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464224061,
-    "wof:geomhash":"bef3e6a939ee7dfbd4394ecf679fa990",
+    "wof:geomhash":"1178a482bd153a4b41e3af46a47eef15",
     "wof:hierarchy":[],
     "wof:id":873524517,
-    "wof:lastmodified":1472614138,
+    "wof:lastmodified":1533928348,
     "wof:name":"Caring Hearts Helping Hands Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873484321
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "service/non-profit",

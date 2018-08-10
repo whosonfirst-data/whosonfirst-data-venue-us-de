@@ -2,18 +2,24 @@
   "id": 873521467,
   "type": "Feature",
   "properties": {
-    "addr:full":"866 N Dupont Hwy Dover DE 19901",
+    "addr:city":"Dover",
+    "addr:full":"866 N Dupont Hwy Dover, De 19901-2003",
+    "addr:house_number":"866",
     "addr:housenumber":"866",
-    "addr:postcode":"19901",
+    "addr:phone":"+1 302-734-1618",
+    "addr:postcode":"19901-2003",
+    "addr:road":"N Dupont Hwy",
+    "addr:state":"DE",
     "addr:street":"N Dupont Hwy",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.535202,39.185299,-75.535202,39.185299",
-    "geom:latitude":39.185299,
-    "geom:longitude":-75.535202,
+    "geom:bbox":"-75.52829,39.17966,-75.52829,39.17966",
+    "geom:latitude":39.17966,
+    "geom:longitude":-75.52829,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"866 N Dupont Hwy",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -27,21 +33,25 @@
     "sg:phone":"+1 302 734 1618",
     "sg:postcode":"19901",
     "sg:province":"DE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528677
+    ],
     "wof:belongsto":[
-        85688611,
+        85842379,
         85633793,
         85931481,
         102083871,
-        85842379
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000073,
         "sg:id":"SG_0e0nllyXzOihwG0etBHQgD_39.185299_-75.535202@1303262471"
     },
     "wof:country":"US",
     "wof:created":1464223943,
-    "wof:geomhash":"995e8bdeda7dfe210e161f860c398288",
+    "wof:geomhash":"497e2ef9a6add26d41c00d3d9df21550",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -53,8 +63,8 @@
         }
     ],
     "wof:id":873521467,
-    "wof:lastmodified":1472614130,
-    "wof:name":"Delaware Agricultural Museum",
+    "wof:lastmodified":1533928351,
+    "wof:name":"Delaware Agricultural Museum Association",
     "wof:parent_id":85842379,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
@@ -63,10 +73,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.535202,
-    39.185299,
-    -75.535202,
-    39.185299
+    -75.52829,
+    39.17966,
+    -75.52829,
+    39.17966
 ],
-  "geometry": {"coordinates":[-75.535202,39.185299],"type":"Point"}
+  "geometry": {"coordinates":[-75.52829,39.17966],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-75.52063,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1403 Foulk Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221370,
-    "wof:geomhash":"c73f92bd2d88c04d251badbb917063f6",
+    "wof:geomhash":"2634368342028e440106b482a278f304",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":857726513,
-    "wof:lastmodified":1472614123,
+    "wof:lastmodified":1533928350,
     "wof:name":"I P G Finance LLC",
     "wof:parent_id":85857679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        857704931
+    ],
     "wof:tags":[
         "company",
         "holding"

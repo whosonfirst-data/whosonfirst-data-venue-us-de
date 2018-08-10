@@ -14,6 +14,7 @@
     "geom:longitude":-75.699329,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"520 Capitol Trl",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -48,7 +49,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223646,
-    "wof:geomhash":"51a93322f67eea481267ba0c29399f95",
+    "wof:geomhash":"25e5217a80875f5c3ffd2429f2285f52",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":873515537,
-    "wof:lastmodified":1472614119,
+    "wof:lastmodified":1533928349,
     "wof:name":"Young Marge Real Estate",
     "wof:parent_id":85841213,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873494353
+    ],
     "wof:tags":[
         "management"
     ]

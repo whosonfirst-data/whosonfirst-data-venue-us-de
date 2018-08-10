@@ -7,6 +7,7 @@
     "addr:postcode":"19810",
     "addr:street":"Marsh Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.504625,39.802788,-75.504625,39.802788",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.504625,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1812 Marsh Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464222212,
-    "wof:geomhash":"2fd32f269f6867c81a350d63f9fb67f7",
+    "wof:geomhash":"a19ad5311c11ce8b2ee82525b969082b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +53,17 @@
         }
     ],
     "wof:id":873482505,
-    "wof:lastmodified":1472614045,
+    "wof:lastmodified":1533928348,
     "wof:name":"Mr Larrys",
     "wof:parent_id":85838417,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:superseded_by":[
+        873484835
+    ],
+    "wof:supersedes":[
+        873520401
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -14,6 +14,7 @@
     "geom:longitude":-75.52054,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1401 Foulk Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464220611,
-    "wof:geomhash":"50f62e70e851bdc92bf703a6da2decfd",
+    "wof:geomhash":"97d7849488b9a67ba9e26ec113a91006",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":857689663,
-    "wof:lastmodified":1472613993,
+    "wof:lastmodified":1533928349,
     "wof:name":"Brandywine Family Medicine",
     "wof:parent_id":85857679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873517213
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

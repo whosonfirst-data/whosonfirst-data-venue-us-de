@@ -7,6 +7,7 @@
     "addr:postcode":"19713",
     "addr:street":"Continental Dr",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.661544,39.685005,-75.661544,39.685005",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.661544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"220 Continental Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464222764,
-    "wof:geomhash":"eaae27e3ed2b2a9262890b5923f28034",
+    "wof:geomhash":"509968c50dd22d4efc311e08c7904ae8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":873495761,
-    "wof:lastmodified":1472614066,
+    "wof:lastmodified":1533928348,
     "wof:name":"Millenium Validation Services",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857686805
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "consulting",

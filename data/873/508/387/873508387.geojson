@@ -7,6 +7,7 @@
     "addr:postcode":"19810",
     "addr:street":"Silverside Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.548888,39.809256,-75.548888,39.809256",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.548888,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"3521 Silverside Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -43,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223304,
-    "wof:geomhash":"60f7365aa0630244a865331f77f85fb5",
+    "wof:geomhash":"d2cbb81912a6f4468b412d167b5021d5",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,12 +56,14 @@
         }
     ],
     "wof:id":873508387,
-    "wof:lastmodified":1472614097,
+    "wof:lastmodified":1533928349,
     "wof:name":"Ilene Boudreaux MD PA",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873519893
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "medical"

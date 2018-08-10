@@ -7,6 +7,7 @@
     "addr:postcode":"19808",
     "addr:street":"Centerville Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.624624,39.753755,-75.624624,39.753755",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.624624,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"2751 Centerville Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -41,15 +43,17 @@
     },
     "wof:country":"US",
     "wof:created":1464221177,
-    "wof:geomhash":"1d1a4ca0de83e009862908c7f64705a7",
+    "wof:geomhash":"c493d15a0089783aac7dc7453825ea92",
     "wof:hierarchy":[],
     "wof:id":857716685,
-    "wof:lastmodified":1472614130,
+    "wof:lastmodified":1533928351,
     "wof:name":"National Energy Dev Inc",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857728867
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "product",

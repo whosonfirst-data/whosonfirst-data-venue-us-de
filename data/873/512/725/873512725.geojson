@@ -7,6 +7,7 @@
     "addr:postcode":"19901",
     "addr:street":"Lafferty Ln",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.496074,39.140348,-75.496074,39.140348",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.496074,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1062 Lafferty Ln",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223502,
-    "wof:geomhash":"fe039cadffa4e8502564d618bc5b4948",
+    "wof:geomhash":"da3e09264b9cd48d79fba42b5cbdfaae",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -61,12 +63,14 @@
         }
     ],
     "wof:id":873512725,
-    "wof:lastmodified":1472614132,
+    "wof:lastmodified":1533928349,
     "wof:name":"Maaco Auto Painting & Bodywork",
     "wof:parent_id":85809385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873521827
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "body",

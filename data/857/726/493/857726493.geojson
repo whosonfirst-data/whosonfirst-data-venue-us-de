@@ -14,6 +14,7 @@
     "geom:longitude":-75.731421,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1060 S Chapel St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221370,
-    "wof:geomhash":"b904a1932a367e43b8639e24b4bde880",
+    "wof:geomhash":"de164a8acfbe5ef6a7711ec371aaab10",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857726493,
-    "wof:lastmodified":1472614122,
+    "wof:lastmodified":1533928350,
     "wof:name":"K & S Garage",
     "wof:parent_id":85845315,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873514677
+    ],
     "wof:tags":[
         "brake"
     ]

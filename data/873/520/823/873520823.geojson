@@ -7,6 +7,7 @@
     "addr:postcode":"19901",
     "addr:street":"E Lebanon Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.515999,39.120399,-75.515999,39.120399",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.515999,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"1708 E Lebanon Rd",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -42,7 +44,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223918,
-    "wof:geomhash":"4494a4f892233c76b73ea8ed9cb8efc2",
+    "wof:geomhash":"20f8fa1eea92b18614fb80556c036b85",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,12 +57,14 @@
         }
     ],
     "wof:id":873520823,
-    "wof:lastmodified":1472614149,
+    "wof:lastmodified":1533928349,
     "wof:name":"Dover Goose Creek Food Store",
     "wof:parent_id":85858961,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857689379
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

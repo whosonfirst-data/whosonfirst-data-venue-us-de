@@ -2,18 +2,24 @@
   "id": 873488683,
   "type": "Feature",
   "properties": {
-    "addr:full":"200 S Madison St Wilmington DE 19801",
+    "addr:city":"Wilmington",
+    "addr:full":"200 S Madison St Wilmington, De 19801",
+    "addr:house_number":"200",
     "addr:housenumber":"200",
+    "addr:phone":"+1 302-656-6466",
     "addr:postcode":"19801",
+    "addr:road":"S Madison St",
+    "addr:state":"DE",
     "addr:street":"S Madison St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.560841,39.738065,-75.560841,39.738065",
-    "geom:latitude":39.738065,
-    "geom:longitude":-75.560841,
+    "geom:bbox":"-75.55938,39.7403,-75.55938,39.7403",
+    "geom:latitude":39.7403,
+    "geom:longitude":-75.55938,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"200 S Madison St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -31,7 +37,10 @@
         "art",
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530143
+    ],
     "wof:belongsto":[
         85688611,
         102191575,
@@ -42,11 +51,12 @@
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000083,
         "sg:id":"SG_4rbeQtqJbv58YsIXPMIbSs_39.738065_-75.560841@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222446,
-    "wof:geomhash":"887b3709484398457c03176b6304d271",
+    "wof:geomhash":"b0262ba72c40fa195ab3e3647c44168c",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,8 +69,8 @@
         }
     ],
     "wof:id":873488683,
-    "wof:lastmodified":1472614066,
-    "wof:name":"Dcca",
+    "wof:lastmodified":1533928351,
+    "wof:name":"Delaware Center For The Contemporary Arts",
     "wof:parent_id":85888529,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
@@ -72,10 +82,10 @@
     ]
 },
   "bbox": [
-    -75.560841,
-    39.738065,
-    -75.560841,
-    39.738065
+    -75.55938,
+    39.7403,
+    -75.55938,
+    39.7403
 ],
-  "geometry": {"coordinates":[-75.560841,39.738065],"type":"Point"}
+  "geometry": {"coordinates":[-75.55938,39.7403],"type":"Point"}
 }

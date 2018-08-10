@@ -7,6 +7,7 @@
     "addr:postcode":"19734",
     "addr:street":"Gum Bush Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.635622,39.372631,-75.635622,39.372631",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.635622,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"451 Gum Bush Rd",
     "sg:city":"Townsend",
     "sg:classifiers":[
@@ -59,15 +61,17 @@
     },
     "wof:country":"US",
     "wof:created":1464223689,
-    "wof:geomhash":"8cb7650e7fd3feae606be0014c494e04",
+    "wof:geomhash":"321b2fe914bd722c10b09960759b9d7d",
     "wof:hierarchy":[],
     "wof:id":873516497,
-    "wof:lastmodified":1472614134,
+    "wof:lastmodified":1533928348,
     "wof:name":"Talmo Tile Co",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873478697
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "terrazzo",

@@ -2,18 +2,24 @@
   "id": 857717043,
   "type": "Feature",
   "properties": {
-    "addr:full":"510 S Bedford St Georgetown DE 19947",
+    "addr:city":"Georgetown",
+    "addr:full":"510 S Bedford St Georgetown, De 19947-1852",
+    "addr:house_number":"510",
     "addr:housenumber":"510",
-    "addr:postcode":"19947",
+    "addr:phone":"+1 302-855-9660",
+    "addr:postcode":"19947-1852",
+    "addr:road":"S Bedford St",
+    "addr:state":"DE",
     "addr:street":"S Bedford St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.37713,38.673998,-75.37713,38.673998",
-    "geom:latitude":38.673998,
-    "geom:longitude":-75.37713,
+    "geom:bbox":"-75.37655,38.67319,-75.37655,38.67319",
+    "geom:latitude":38.67319,
+    "geom:longitude":-75.37655,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"510 S Bedford St",
     "sg:city":"Georgetown",
     "sg:classifiers":[
@@ -30,21 +36,25 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102533295
+    ],
     "wof:belongsto":[
-        85688611,
+        85823997,
         85633793,
         85931639,
         102083887,
-        85823997
+        85688611
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000086,
         "sg:id":"SG_7PShAofMYHhNPn2ESzyWVN_38.673998_-75.377130@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221185,
-    "wof:geomhash":"d3f2319c3be00f1fa707d8182310eda3",
+    "wof:geomhash":"92c0970a0614043253aa9dba8f3dbf5f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,7 +66,7 @@
         }
     ],
     "wof:id":857717043,
-    "wof:lastmodified":1472614097,
+    "wof:lastmodified":1533928351,
     "wof:name":"Georgetown Historical Society",
     "wof:parent_id":85823997,
     "wof:placetype":"venue",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -75.37713,
-    38.673998,
-    -75.37713,
-    38.673998
+    -75.37655,
+    38.67319,
+    -75.37655,
+    38.67319
 ],
-  "geometry": {"coordinates":[-75.37712999999999,38.673998],"type":"Point"}
+  "geometry": {"coordinates":[-75.37654999999999,38.67319],"type":"Point"}
 }

@@ -14,6 +14,7 @@
     "geom:longitude":-75.542,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3411 Silverside Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -40,7 +41,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223883,
-    "wof:geomhash":"61f468cb6569cc32c010ef3d2c3087fb",
+    "wof:geomhash":"b00960d50ad47663a802f9451f2adf1a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,13 +52,15 @@
         }
     ],
     "wof:id":873520067,
-    "wof:lastmodified":1472614100,
+    "wof:lastmodified":1533928349,
     "wof:name":"Loughran James P MD",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873490377
+    ],
     "wof:tags":[]
 },
   "bbox": [

@@ -2,18 +2,24 @@
   "id": 857734297,
   "type": "Feature",
   "properties": {
-    "addr:full":"1200 Philadelphia Pike Wilmington DE 19809",
+    "addr:city":"Wilmington",
+    "addr:full":"1200 Philadelphia Pike Wilmington, De 19809",
+    "addr:house_number":"1200",
     "addr:housenumber":"1200",
+    "addr:phone":"+1 302-798-2100",
     "addr:postcode":"19809",
+    "addr:road":"Philadelphia Pike",
+    "addr:state":"DE",
     "addr:street":"Philadelphia Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.483279,39.781453,-75.483279,39.781453",
-    "geom:latitude":39.781453,
-    "geom:longitude":-75.483279,
+    "geom:bbox":"-75.48452,39.78052,-75.48452,39.78052",
+    "geom:latitude":39.78052,
+    "geom:longitude":-75.48452,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1200 Philadelphia Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -30,20 +36,24 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530143
+    ],
     "wof:belongsto":[
-        85688611,
+        102083891,
         85633793,
-        85838295,
-        102083891
+        85688611,
+        85838295
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000018,
         "sg:id":"SG_3H4Qp2RweWA4JDM1DjmAyk_39.781453_-75.483279@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221526,
-    "wof:geomhash":"c8bef8e021fa22f3e65cb45718a1e887",
+    "wof:geomhash":"6d4cd91e0fac7472ca641210f44e8ba8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -54,8 +64,8 @@
         }
     ],
     "wof:id":857734297,
-    "wof:lastmodified":1472614146,
-    "wof:name":"Business History & Technology",
+    "wof:lastmodified":1533928351,
+    "wof:name":"Business History And Tech Museum",
     "wof:parent_id":85838295,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
@@ -66,10 +76,10 @@
     ]
 },
   "bbox": [
-    -75.483279,
-    39.781453,
-    -75.483279,
-    39.781453
+    -75.48452,
+    39.78052,
+    -75.48452,
+    39.78052
 ],
-  "geometry": {"coordinates":[-75.483279,39.781453],"type":"Point"}
+  "geometry": {"coordinates":[-75.48452,39.78052],"type":"Point"}
 }

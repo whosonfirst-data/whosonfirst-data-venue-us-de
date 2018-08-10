@@ -7,6 +7,7 @@
     "addr:postcode":"19702",
     "addr:street":"Chapman Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.674992,39.667897,-75.674992,39.667897",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.674992,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"260 Chapman Rd",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -40,7 +42,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221251,
-    "wof:geomhash":"8abe21ab5dc1c42900f4bcf36d51d050",
+    "wof:geomhash":"11786ca180b567d58cc17ac1633a4a83",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,12 +53,14 @@
         }
     ],
     "wof:id":857720057,
-    "wof:lastmodified":1472614096,
+    "wof:lastmodified":1533928348,
     "wof:name":"Flynn Company of Delaware The",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873487247
+    ],
     "wof:supersedes":[],
     "wof:tags":[]
 },

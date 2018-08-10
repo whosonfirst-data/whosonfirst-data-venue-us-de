@@ -2,18 +2,24 @@
   "id": 873475189,
   "type": "Feature",
   "properties": {
-    "addr:full":"2160 New Castle Ave New Castle DE 19720",
+    "addr:city":"New Castle",
+    "addr:full":"2160 New Castle Ave New Castle, De 19720",
+    "addr:house_number":"2160",
     "addr:housenumber":"2160",
+    "addr:phone":"+1 302-658-5300",
     "addr:postcode":"19720",
+    "addr:road":"New Castle Ave",
+    "addr:state":"DE",
     "addr:street":"New Castle Ave",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.554311,39.693545,-75.554311,39.693545",
-    "geom:latitude":39.693545,
-    "geom:longitude":-75.554311,
+    "geom:bbox":"-75.55429,39.69355,-75.55429,39.69355",
+    "geom:latitude":39.69355,
+    "geom:longitude":-75.55429,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2160 New Castle Ave",
     "sg:city":"New Castle",
     "sg:classifiers":[
@@ -27,20 +33,24 @@
     "sg:phone":"+1 302 658 5300",
     "sg:postcode":"19720",
     "sg:province":"DE",
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530143
+    ],
     "wof:belongsto":[
-        85688611,
+        102083891,
         85633793,
-        85833083,
-        102083891
+        85688611,
+        85833083
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000005,
         "sg:id":"SG_2ZjhHQZ1EZMp25Kpkguyh4_39.693545_-75.554311@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221921,
-    "wof:geomhash":"4da54e833b4d5c24a3932ce1af1cec9b",
+    "wof:geomhash":"fe215af14280c4f85421fe2eacbb038b",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -51,8 +61,8 @@
         }
     ],
     "wof:id":873475189,
-    "wof:lastmodified":1472614003,
-    "wof:name":"Museum Of The American Road",
+    "wof:lastmodified":1533928351,
+    "wof:name":"Museum Of American Road",
     "wof:parent_id":85833083,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
@@ -61,10 +71,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -75.554311,
-    39.693545,
-    -75.554311,
-    39.693545
+    -75.55429,
+    39.69355,
+    -75.55429,
+    39.69355
 ],
-  "geometry": {"coordinates":[-75.554311,39.693545],"type":"Point"}
+  "geometry": {"coordinates":[-75.55428999999999,39.69355],"type":"Point"}
 }

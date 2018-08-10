@@ -2,18 +2,24 @@
   "id": 873507935,
   "type": "Feature",
   "properties": {
-    "addr:full":"2106 Largo Rd Wilmington DE 19803",
+    "addr:city":"Wilmington",
+    "addr:full":"2106 Largo Rd Wilmington, De 19803-2308",
+    "addr:house_number":"2106",
     "addr:housenumber":"2106",
-    "addr:postcode":"19803",
+    "addr:phone":"+1 302-478-6178",
+    "addr:postcode":"19803-2308",
+    "addr:road":"Largo Rd",
+    "addr:state":"DE",
     "addr:street":"Largo Rd",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.535642,39.801687,-75.535642,39.801687",
-    "geom:latitude":39.801687,
-    "geom:longitude":-75.535642,
+    "geom:bbox":"-75.53551,39.80113,-75.53551,39.80113",
+    "geom:latitude":39.80113,
+    "geom:longitude":-75.53551,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"2106 Largo Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -31,20 +37,24 @@
         "society",
         "historical"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530143
+    ],
     "wof:belongsto":[
-        85688611,
+        102083891,
         85633793,
-        85857679,
-        102083891
+        85688611,
+        85857679
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000023,
         "sg:id":"SG_5ZzR5g5fJjcwcXzzeWDcmi_39.801687_-75.535642@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464223277,
-    "wof:geomhash":"512a23e330f5641297ffcbf7f848d259",
+    "wof:geomhash":"495543dc9745e4481078f12b239b5bf4",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,7 +65,7 @@
         }
     ],
     "wof:id":873507935,
-    "wof:lastmodified":1472614136,
+    "wof:lastmodified":1533928351,
     "wof:name":"Fort Dupont Society",
     "wof:parent_id":85857679,
     "wof:placetype":"venue",
@@ -68,10 +78,10 @@
     ]
 },
   "bbox": [
-    -75.535642,
-    39.801687,
-    -75.535642,
-    39.801687
+    -75.53551,
+    39.80113,
+    -75.53551,
+    39.80113
 ],
-  "geometry": {"coordinates":[-75.535642,39.801687],"type":"Point"}
+  "geometry": {"coordinates":[-75.53551,39.80113],"type":"Point"}
 }

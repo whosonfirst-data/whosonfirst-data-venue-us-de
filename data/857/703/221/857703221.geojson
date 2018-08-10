@@ -14,6 +14,7 @@
     "geom:longitude":-75.739555,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"314 E Main St",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464220881,
-    "wof:geomhash":"07dc286e2805cd2e68cf28be089a42d2",
+    "wof:geomhash":"4c2ad076efae9f5823eb90fe2cdbd233",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":857703221,
-    "wof:lastmodified":1472614002,
+    "wof:lastmodified":1533928350,
     "wof:name":"Wai Wor Phoon MD",
     "wof:parent_id":85831693,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873470211
+    ],
     "wof:tags":[
         "physician",
         "surgeon"

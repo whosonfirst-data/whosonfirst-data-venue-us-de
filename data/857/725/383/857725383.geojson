@@ -14,6 +14,7 @@
     "geom:longitude":-75.548543,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"824 N Market St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221350,
-    "wof:geomhash":"8873728267c45d3bc56ebfcc2e74e851",
+    "wof:geomhash":"56d7eecec27cae3810b0e0f32a0092b1",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":857725383,
-    "wof:lastmodified":1472614114,
+    "wof:lastmodified":1533928350,
     "wof:name":"Ferry Joseph & Pearce",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873504347
+    ],
     "wof:tags":[
         "attorney"
     ]

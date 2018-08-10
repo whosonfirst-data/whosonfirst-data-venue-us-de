@@ -7,6 +7,7 @@
     "addr:postcode":"19933",
     "addr:street":"Sussex Hwy",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.592559,38.744742,-75.592559,38.744742",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.592559,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"16855 Sussex Hwy",
     "sg:city":"Bridgeville",
     "sg:classifiers":[
@@ -44,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464222906,
-    "wof:geomhash":"d65f9010c43e3f9ce2a92114b90ebe98",
+    "wof:geomhash":"8c26b515756b5e143563b563f616b472",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -56,12 +58,14 @@
         }
     ],
     "wof:id":873499177,
-    "wof:lastmodified":1472614034,
+    "wof:lastmodified":1533928349,
     "wof:name":"LSi/Lous Discount Groceries",
     "wof:parent_id":85852081,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873523469
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "general"

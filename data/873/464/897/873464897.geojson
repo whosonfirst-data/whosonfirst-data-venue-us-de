@@ -14,6 +14,7 @@
     "geom:longitude":-75.661544,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"220 Continental Dr",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221567,
-    "wof:geomhash":"eaae27e3ed2b2a9262890b5923f28034",
+    "wof:geomhash":"509968c50dd22d4efc311e08c7904ae8",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":873464897,
-    "wof:lastmodified":1472614013,
+    "wof:lastmodified":1533928351,
     "wof:name":"Priority One Staffing Svc Inc",
     "wof:parent_id":85810929,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873496425
+    ],
     "wof:tags":[
         "help",
         "contractor"

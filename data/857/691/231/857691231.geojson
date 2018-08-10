@@ -7,6 +7,7 @@
     "addr:postcode":"19809",
     "addr:street":"Silverside Rd",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.488059,39.79023,-75.488059,39.79023",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.488059,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"501 Silverside Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -39,15 +41,17 @@
     },
     "wof:country":"US",
     "wof:created":1464220645,
-    "wof:geomhash":"a2ecf16700903703d85d29240e51354b",
+    "wof:geomhash":"2edb94ada09327659174f549df7de784",
     "wof:hierarchy":[],
     "wof:id":857691231,
-    "wof:lastmodified":1472613986,
+    "wof:lastmodified":1533928347,
     "wof:name":"Action Environmental Service",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873478267
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "environmental",

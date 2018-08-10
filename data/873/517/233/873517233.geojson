@@ -7,6 +7,7 @@
     "addr:postcode":"19803",
     "addr:street":"Concord Pike",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.547203,39.8204,-75.547203,39.8204",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.547203,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"4723 Concord Pike",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -48,7 +50,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223743,
-    "wof:geomhash":"25479722e6563569e77641507d9eefd8",
+    "wof:geomhash":"a7024ef27dd0f7294745f71e7fce4f65",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -59,12 +61,14 @@
         }
     ],
     "wof:id":873517233,
-    "wof:lastmodified":1472614111,
+    "wof:lastmodified":1533928349,
     "wof:name":"Gymboree Play & Music",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        873517933
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "day"

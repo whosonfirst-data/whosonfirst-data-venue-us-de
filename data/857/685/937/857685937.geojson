@@ -14,6 +14,7 @@
     "geom:longitude":-75.548903,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3511 Silverside Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464220538,
-    "wof:geomhash":"9d28d5c1cb3a7646b23e262fbc47d3ee",
+    "wof:geomhash":"67fcb6525a31362e3842b3b88bea702f",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":857685937,
-    "wof:lastmodified":1472614010,
+    "wof:lastmodified":1533928351,
     "wof:name":"Market Edge",
     "wof:parent_id":85858565,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873503337
+    ],
     "wof:tags":[
         "marketing",
         "consultant"

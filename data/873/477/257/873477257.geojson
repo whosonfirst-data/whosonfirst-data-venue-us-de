@@ -2,18 +2,24 @@
   "id": 873477257,
   "type": "Feature",
   "properties": {
-    "addr:full":"3357 Main St Frederica DE 19946",
+    "addr:city":"Frederica",
+    "addr:full":"3357 Main Street Frederica, De 19946-1274",
+    "addr:house_number":"3357",
     "addr:housenumber":"3357",
-    "addr:postcode":"19946",
+    "addr:phone":"+1 302-335-1400",
+    "addr:postcode":"19946-1274",
+    "addr:road":"Main Street",
+    "addr:state":"DE",
     "addr:street":"Main St",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.402686,39.058916,-75.402686,39.058916",
-    "geom:latitude":39.058916,
-    "geom:longitude":-75.402686,
+    "geom:bbox":"-75.4025,39.05966,-75.4025,39.05966",
+    "geom:latitude":39.05966,
+    "geom:longitude":-75.4025,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"3357 Main St",
     "sg:city":"Frederica",
     "sg:classifiers":[
@@ -30,18 +36,22 @@
     "sg:tags":[
         "gallery"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102528677
+    ],
     "wof:belongsto":[],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8401000053,
         "sg:id":"SG_7lBIVIFBniFmWKoQXmGXy0_39.058916_-75.402686@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464221992,
-    "wof:geomhash":"58125bfee9fb5782a919a3e8984a4d9b",
+    "wof:geomhash":"1fe860150a343d5cc6a3b26eade1059c",
     "wof:hierarchy":[],
     "wof:id":873477257,
-    "wof:lastmodified":1472614014,
+    "wof:lastmodified":1533928351,
     "wof:name":"Bowers Beach Maritime Museum",
     "wof:parent_id":-1,
     "wof:placetype":"venue",
@@ -53,10 +63,10 @@
     ]
 },
   "bbox": [
-    -75.402686,
-    39.058916,
-    -75.402686,
-    39.058916
+    -75.4025,
+    39.05966,
+    -75.4025,
+    39.05966
 ],
-  "geometry": {"coordinates":[-75.402686,39.058916],"type":"Point"}
+  "geometry": {"coordinates":[-75.4025,39.05966],"type":"Point"}
 }

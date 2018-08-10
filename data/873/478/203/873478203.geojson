@@ -14,6 +14,7 @@
     "geom:longitude":-75.524541,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"3 American Ave",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464222026,
-    "wof:geomhash":"65c5bf22bcf85b1b09d59809a9040aec",
+    "wof:geomhash":"44394e24969809223ba157d96608c65b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":873478203,
-    "wof:lastmodified":1472614013,
+    "wof:lastmodified":1533928347,
     "wof:name":"Reed Smith Shaw & McClay LLP",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873521065
+    ],
     "wof:tags":[]
 },
   "bbox": [

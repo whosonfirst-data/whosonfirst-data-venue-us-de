@@ -14,6 +14,7 @@
     "geom:longitude":-75.523453,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"116 W Water St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464220523,
-    "wof:geomhash":"f2f47f70ffe66ef95420073ccef01720",
+    "wof:geomhash":"0387c62ed238e7e2018f6a3035396117",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857685065,
-    "wof:lastmodified":1472613981,
+    "wof:lastmodified":1533928351,
     "wof:name":"Parkowski Guerke & Swayze",
     "wof:parent_id":85822185,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873523041
+    ],
     "wof:tags":[
         "attorney"
     ]

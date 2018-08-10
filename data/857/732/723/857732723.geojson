@@ -14,6 +14,7 @@
     "geom:longitude":-75.521808,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"414 Federal St",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -45,7 +46,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221496,
-    "wof:geomhash":"494d6d894de5b47cfb04a5f38c07f964",
+    "wof:geomhash":"fcd35b6a896a174cbd7279b94772fd5e",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,13 +59,15 @@
         }
     ],
     "wof:id":857732723,
-    "wof:lastmodified":1472614151,
+    "wof:lastmodified":1533928351,
     "wof:name":"Kent County Department Plg",
     "wof:parent_id":85847335,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873466039
+    ],
     "wof:tags":[
         "development"
     ]

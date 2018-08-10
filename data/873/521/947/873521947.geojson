@@ -14,6 +14,7 @@
     "geom:longitude":-75.486198,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1022 Lafferty Ln",
     "sg:city":"Dover",
     "sg:classifiers":[
@@ -42,7 +43,7 @@
     },
     "wof:country":"US",
     "wof:created":1464223960,
-    "wof:geomhash":"c18e9d33c797fd39ca145ef7194f2648",
+    "wof:geomhash":"ff0fa9d195d92c6d008a0468d6d8994d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":873521947,
-    "wof:lastmodified":1472614148,
+    "wof:lastmodified":1533928349,
     "wof:name":"Walls of Wonder Art Studio",
     "wof:parent_id":85809385,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873470063
+    ],
     "wof:tags":[]
 },
   "bbox": [

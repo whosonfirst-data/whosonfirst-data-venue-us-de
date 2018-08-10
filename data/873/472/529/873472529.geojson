@@ -7,6 +7,7 @@
     "addr:postcode":"19801",
     "addr:street":"N French St",
     "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2018-08-10",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
     "geom:bbox":"-75.546762,39.743662,-75.546762,39.743662",
@@ -14,6 +15,7 @@
     "geom:longitude":-75.546762,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":0,
     "sg:address":"820 N French St",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -45,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464221825,
-    "wof:geomhash":"f5757dc51bff3d8f2c8dae5e9f679eed",
+    "wof:geomhash":"ddfba61d13267b12e168638da85fbe5b",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -58,12 +60,14 @@
         }
     ],
     "wof:id":873472529,
-    "wof:lastmodified":1472614019,
+    "wof:lastmodified":1533928350,
     "wof:name":"Elections Delaware Department",
     "wof:parent_id":85888527,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
-    "wof:superseded_by":[],
+    "wof:superseded_by":[
+        857719241
+    ],
     "wof:supersedes":[],
     "wof:tags":[
         "election"

@@ -2,18 +2,23 @@
   "id": 873480851,
   "type": "Feature",
   "properties": {
-    "addr:full":"1355 Old Baltimore Pike Newark DE 19702",
+    "addr:city":"Newark",
+    "addr:full":"1355 Old Baltimore Pike Newark, De 19702",
+    "addr:house_number":"1355",
     "addr:housenumber":"1355",
     "addr:postcode":"19702",
+    "addr:road":"Old Baltimore Pike",
+    "addr:state":"DE",
     "addr:street":"Old Baltimore Pike",
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
-    "geom:bbox":"-75.760455,39.630095,-75.760455,39.630095",
-    "geom:latitude":39.630095,
-    "geom:longitude":-75.760455,
+    "geom:bbox":"-75.75772,39.63105,-75.75772,39.63105",
+    "geom:latitude":39.63105,
+    "geom:longitude":-75.75772,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":1,
     "sg:address":"1355 Old Baltimore Pike",
     "sg:city":"Newark",
     "sg:classifiers":[
@@ -34,20 +39,24 @@
         "her",
         "area"
     ],
-    "src:geom":"simplegeo",
+    "src:geom":"mudf",
+    "wof:airports":[
+        102530143
+    ],
     "wof:belongsto":[
-        85688611,
+        102083891,
         85633793,
-        85812409,
-        102083891
+        85688611,
+        85812409
     ],
     "wof:breaches":[],
     "wof:concordances":{
+        "mudf:mid":8409500553,
         "sg:id":"SG_53eRMM6uXsBnCyNTvQsbuP_39.630095_-75.760455@1294085537"
     },
     "wof:country":"US",
     "wof:created":1464222149,
-    "wof:geomhash":"9b47c2098687a434def3f7fbe597d126",
+    "wof:geomhash":"41b024a6fcac968eb3bdc3ae8f994a0a",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -58,7 +67,7 @@
         }
     ],
     "wof:id":873480851,
-    "wof:lastmodified":1472614053,
+    "wof:lastmodified":1533928348,
     "wof:name":"Iron Hill Museum",
     "wof:parent_id":85812409,
     "wof:placetype":"venue",
@@ -74,10 +83,10 @@
     ]
 },
   "bbox": [
-    -75.760455,
-    39.630095,
-    -75.760455,
-    39.630095
+    -75.75772,
+    39.63105,
+    -75.75772,
+    39.63105
 ],
-  "geometry": {"coordinates":[-75.76045499999999,39.630095],"type":"Point"}
+  "geometry": {"coordinates":[-75.75772000000001,39.63105],"type":"Point"}
 }

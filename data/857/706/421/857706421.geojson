@@ -14,6 +14,7 @@
     "geom:longitude":-75.555532,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"1701 Augustine Cutoff",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -46,7 +47,7 @@
     },
     "wof:country":"US",
     "wof:created":1464220939,
-    "wof:geomhash":"f82cb5bde3bad61144160ce4c7296751",
+    "wof:geomhash":"b3baa2e0bc864caef5c9ea6440900db7",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,13 +60,15 @@
         }
     ],
     "wof:id":857706421,
-    "wof:lastmodified":1472614070,
+    "wof:lastmodified":1533928349,
     "wof:name":"Lynn Erb Inc",
     "wof:parent_id":85803955,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873500935
+    ],
     "wof:tags":[
         "consultant",
         "educational"

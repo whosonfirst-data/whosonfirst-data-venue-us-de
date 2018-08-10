@@ -14,6 +14,7 @@
     "geom:longitude":-75.528927,
     "iso:country":"US",
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
     "sg:address":"2700 Silverside Rd",
     "sg:city":"Wilmington",
     "sg:classifiers":[
@@ -44,7 +45,7 @@
     },
     "wof:country":"US",
     "wof:created":1464220515,
-    "wof:geomhash":"d3bdbcfe2de2932d690e8e155dcf2ac0",
+    "wof:geomhash":"4c047a10c1682b2290bc281fdb415003",
     "wof:hierarchy":[
         {
             "country_id":85633793,
@@ -55,13 +56,15 @@
         }
     ],
     "wof:id":857684617,
-    "wof:lastmodified":1472613994,
+    "wof:lastmodified":1533928350,
     "wof:name":"Delaware Family Care Assoc",
     "wof:parent_id":85857679,
     "wof:placetype":"venue",
     "wof:repo":"whosonfirst-data-venue-us-de",
     "wof:superseded_by":[],
-    "wof:supersedes":[],
+    "wof:supersedes":[
+        873519983
+    ],
     "wof:tags":[
         "physician",
         "surgeon"
